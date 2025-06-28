@@ -1,0 +1,576 @@
+{
+  "address_components": [
+    {
+      "long_name": "2877",
+      "short_name": "2877",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "North Green Valley Parkway",
+      "short_name": "N Green Valley Pkwy",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Green Valley North",
+      "short_name": "Green Valley North",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Henderson",
+      "short_name": "Henderson",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Clark County",
+      "short_name": "Clark County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Nevada",
+      "short_name": "NV",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "89014",
+      "short_name": "89014",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">2877 N Green Valley Pkwy</span>, <span class=\"locality\">Henderson</span>, <span class=\"region\">NV</span> <span class=\"postal-code\">89014</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1600"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20094:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "2877 N Green Valley Pkwy, Henderson, NV 89014, USA",
+  "formatted_phone_number": "(702) 547-0474",
+  "geometry": {
+    "location": {
+      "lat": 36.0715091,
+      "lng": -115.0834139
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 36.0728587802915,
+        "lng": -115.0821244197085
+      },
+      "southwest": {
+        "lat": 36.0701608197085,
+        "lng": -115.0848223802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 702-547-0474",
+  "name": "Aroma Latin American Cocina",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1600"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1500"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20094:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 2269,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116959286212967332479\">Aroma Latin American Cocina</a>"
+      ],
+      "photo_reference": "ATKogpcLrie9tQxQ-NstUCUOO83F7zhIog2Beslhn0jR7Au-rHUG-hMPsznMIeZ6Eh2HNjjcg3S7xVGyLy-be3oDTqmvek1R7xqwrf_MsLd6USRrYs2P1PnD4LoEtuzyJWwj3rySVGlXiBcTCHQJe-f4u6kClontVZqq6h1YfFRHKy_ZNDRI7yD9Z0hSodFcsSqIl-xqhY3g8yi5c93Ek_ND6o7LUUbLzCep1LN6Yh6Lf6fzLH10jQq9YAg1MWCAmsi0i23kpA__bYxNCaqOhDht5EcFjIkYkWqApTaMBv4-_YvG8A",
+      "width": 4032
+    },
+    {
+      "height": 1365,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116959286212967332479\">Aroma Latin American Cocina</a>"
+      ],
+      "photo_reference": "ATKogpem9sZIbxc8ttpKo6VygY-CuHcjG7AyM88S5hSIpA5KvHiSHTZ0c_F4TVabn9HV9KVRSbP_i2iS1Gh4ckPzLKm_4kv44Vtf3Py4hGzn-sRPFtGm2EHHTHIDtAqnne0vdCuEeIoh5C-pAgVZ1KSpRNeqYVPfXMzSfvsmhX4lk5N1QCWX6yBxYtNSDsYX5_59VpQ_cjJhEvoHtMw2RjNk5RXeZCZsgZGTwKFIB9K_-I7PTDwV2NbDbSlvwHAZWSdpqiWU_2kMUCcgHqe4e85OKgjCpGmDIsPCM-EvxvU8WB5qgA",
+      "width": 2048
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114095070919779715360\">sunny sure</a>"
+      ],
+      "photo_reference": "ATKogpcM9oflfG3razeij11rHTE7Ao0u00kwchoXzo6rzqHaV6GyRnieqALU09J-V9p5-bUeeDrn9ccpmAjSXwC31LszAsczBSO_swH27a-Cyhpt3prsyNsJH-Ce4P40tbEMLuTkTots9lX8TlbLDI2TfMqwIoxLwwiCz0Y2ZToSNSEykTd5ndjGr32ulBXdHbdZ8_3pGZDzT8YM7v0C0Rulwv4QdVckaSydfW1wl7RCj-uQsWywj56vhkUFaxmavcS5aLaQj9q3YCXE7EPkbV8oocewkunCJCXQfb4_mVx3KItT_4hmU0YrNlXPZdgbcV7No6zxFZ0x3p6CgZ5HVHkTWetK9gu2oRycr9KSzOWNfe5HthjzPLxLSlsSJJiOHHEEalmokb1VuCZlKhgs-Gzaii1oB3unQSgnFx14I5wwc_aP5k7lSHiKqZA94wSlKbm2",
+      "width": 3000
+    },
+    {
+      "height": 1365,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116959286212967332479\">Aroma Latin American Cocina</a>"
+      ],
+      "photo_reference": "ATKogpcs5xekcaU3SZ8sTTYAckiYHsHu5Fcohds-bMrkfke13pjsDFEHWu5xoI7W9KIAoSYKtu-JJNR7B2GIz5LjkiL1-QMyA6ySGbIgX2dw-iqnTsI9PwzCBnvnE39YRDtgxO46C4Gs-QePqH5ZtP6fJC7e0DAdSZ_CxwpXdgcGaatSaUEdg59JagRG_cmXlY4ii9GuJMy4eXXHkiAU5Xs6vDZtCIfCkqVkrQSIGy3v793-VFqK4smOyoz2EUEQFNSBXlZ4nmb-WZgpQFi4woHDg193A27Nao2kLrjpIWrSSe0WcA",
+      "width": 2048
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111900772855848984677\">Chris Peperato</a>"
+      ],
+      "photo_reference": "ATKogpfULBuZ7Q2x2BX9LNa3EhLuGyiNMK8QOPyofJ_1i2hMuPjbl0_ZNld6K88xXuX44aKZohYy7c2RNWDHsFo8UB3MxUARoHNx4zB8eEFs6ffXNwIe-Nz5nRbsljAko9KpAZwv3m1-p3ERRWFIvH43Ne6avGw7y3BfzXmjjQxfW5gTkRvfYgYF28Ls3ouGktGj-qJbyIlRAodzN5YLn2qM3IcFXkcImsDKsu9dgSzOdnCuoHJfy-hsV17bMwfEdfULG9aYaOeKonduuNtraCtthdpfwHMf-cwAzQhxHv5EoJRhVzJredvSTkPLtAtUG_Bx6pEbr5GfSfmIi_z1AAuAaTPKTiVQikp-W9vjvzl-_QHvhOSZL56pjPHe0Ior2HT2Cp5cnfZi2BDi0xdHrBZS0llBZ7cC0DdGV4wyLznMDiTFF1F_",
+      "width": 4800
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103316556287479095990\">Alex Schubert</a>"
+      ],
+      "photo_reference": "ATKogpdThxF752iFyHb3yFRpXXp891h9Ac_lYegue-lffl8MHTFozdDfK_kOJ2nv5o0N0VMebfUEqY91CXe1WFs9_pIWACjSpZtaVVQoEClEujoFwY6i58iGh1dPU5Ebll1-V5dVaAooFrmaB2I5c-GQ7Y5AEReecZ5me9zBBgDlaU38ZhPvh2LmqDERQseoIf5L2sBP1T7nraEWTjICumCr3iBOX1fhEleVc6_CyWXYuca0FaGBaFWeWMdzrWlbMwjxfuUDst80bBAKW5rA_XtPYi-JvhelOOSU3Tq7MgxSvkex_HdOxRWwo7nvZeGyhXA23N3WV_k_pUNk0ZvSGPIBAa1biTpUHdgeiRY6lWvbuv3kzIbb5Bjwj0NwAQi4BFiVaAMZ8FcSybYDohD_V4GDhx8fVVOWGp5qX5lzrHQbjvU",
+      "width": 4080
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102012027143541864829\">Curtis Hutchison</a>"
+      ],
+      "photo_reference": "ATKogpfjhBI6WTYI3YimRd6DL28Z_SGsfrA1Fc9Ebfufxmy6guOiMp3CIHYbiwCbDHG5FMB37zPa9dg2Xa7w6N2XXYq1Vte11xNHPL_ZDxr-gfQfEaro0j_o_IG0pA8EL4DWF36Rau8Mqder51b4T2ODlen_jA2QUw4s-pK06TRECyomPaf8IT3U4rXbjp6NdpJuOQVrmIY7qPpupeu2uLNJdvUYQKzlBOfg3RMgFO-7j9p4eKBNbZjCQEJH0UERei7i-JhwKfRWJImadK1dnnUFerQs70bPFm7kuavHW-6zpNfibHHETsYi1B4dnj9wUa3ZXzQxf1laMxBkSRLqWBRjut8P2zcLgCWcaGixsMONeqeZts2zTtm5GglF05q7koVY_-Udzt_abLjQreP-6FYjIuq4VC3fn-Nx_GGy4SFHHccvhd_K-FqmICirac67Pe6e",
+      "width": 4032
+    },
+    {
+      "height": 2992,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108312383587117309122\">Paul Einarsson</a>"
+      ],
+      "photo_reference": "ATKogpdeEKuNyH5pdPxPFvNVlwWvPqQvHLMtPSWpshFrfznLQ-MPC90mMkHp71ExmrU__9EdGmKOSv9CEgJ3qp2mR9NHsoUxD_4S1Da2II6gajJxP61Pt3N7LO4-LSxQXmWk-06RcUX2H7lCxIpAWAdd6yuDbb7yx8V5ejcoPCD24oR0lpkcOeLgDx0gM6kOHfGoZaDgxtghH5fwTMF1omeo7AV4q64emo5RS8KL9kA3X2jGlK7Txl__qEvZ6BJhv5XY6VhBnTlIJJVSaF5yAcB3l6t3xnDs8zi8ZLfCKB8HSqrwxU1Jx8J80vEh9jM-iZUwbup1TDihsRjMfGH93AXjR4n2IjrlHKVIXbOKkpf9yHJFCvYFx-ZqYUtcmuB79q3FGYe16_mUkN92tC-SGCxlyHs8_sZYqiv9LipLN1Fxz89ZHKAx",
+      "width": 2992
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100324634386505709219\">Marcus Lo</a>"
+      ],
+      "photo_reference": "ATKogpfSHI8-rhK027IrjTPKVJZG5qAPsa6Ohk8BKFKoI9HrybOPHKwG_I4gKbrwsItQfz0BdOZFj4-KXc7Qh7VNCeWLR7QJHI6ShItTWz0AvdvgaGd7iPqlMj9R_qtMKRXcOKamq136-pt5n-CUP4Gm6w7lstGPJVaAEzkYyE7GkTVMHI4Gzi2X3kda2KPRzwoe6HkoLiMON6xrLIreZMmoCtQkVPZmNc2SOL5rZQzp6KqWCG3c9ZdPNaWCArQkHrnvhfknjPihrLG5ricQrxZAL3kLk1qUEcSFMCt_UxdiqN6vdPXFo4OBJfZ48SsyIOZc18YiDeVh73aAxdD4Jv7iknBG-skbyUFblVUFIjaKttf3UyDpu09sS230kVTbIfH6wkKpnqXB9a7I1Qyd6niqDnaJhNEmvn8KibXevY504ob4Lg9F",
+      "width": 3024
+    },
+    {
+      "height": 2386,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102910538170888813287\">MariaPaz Fitzgerald</a>"
+      ],
+      "photo_reference": "ATKogpfzauTtvw0j0-qzY29DAaw3GASxYrc0Xwg7h3hb__daywhFJZJL63F2NJhR70qdcKEe_6LBaMMpJCb4F0fkjydxwlwVaAdcBFlfd_vz8xVVZGyvqI_al9kIKFO7qIpSHJI6WZZy0ZzELXskQYRik6m-SkzTsqw4uhDex5KIg1bYZGc8thaDkUm4WjYbuhDVwSFT4OkJPu5FNkbeq-EA-7xpGKXm_AnkLQn6RF5XWNdfY2I2wOqHBtTr6Ooc_Wvpmnyu_NEg1EcUS9QFVxEL4keHezJZs73fNNle_7mr3m2_1lwATGRtYcEUPH8Zy4B4CUolCAwGihTITfLSUrM9TMRBD9yv3Rlnpjb7SzCQTucsvsQpt1lq943t4YuXv0kFylIWr9MLJ2MU16qANnSCwDAKhrzVtfxwr25Wrb2P7fkmVg",
+      "width": 4000
+    }
+  ],
+  "place_id": "ChIJbxfwGlPRyIARf4iuW6CUVfc",
+  "plus_code": {
+    "compound_code": "3WC8+JJ Henderson, NV, USA",
+    "global_code": "85863WC8+JJ"
+  },
+  "rating": 4.8,
+  "reference": "ChIJbxfwGlPRyIARf4iuW6CUVfc",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Mimi Garcia",
+      "author_url": "https://www.google.com/maps/contrib/116460872601382422800/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUitlIHBhOrZ_grl1q5yt6kQlQ7d5w1izVIeCXK5WKIGWW8_FED=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "celebrating latin american comfort food under the hands of the very talented, james beard nominated best chef, Stevek Kestler. chef Steve worked at prestigious kitchens and was mentored by some of my culinary idols like chef Jos\u00e9 Andr\u00e9s at bazaar meat and chef Thomas Keller at bouchon. every dish at Aroma is thoughtfully created, and presented beautifully! you\u2019ll be surprised to find this restaurant hidden near a grocery store. been loving their food for so long, i can\u2019t wait to go back and try more!",
+      "time": 1745159853,
+      "translated": false
+    },
+    {
+      "author_name": "Murder Archive",
+      "author_url": "https://www.google.com/maps/contrib/113067383144347871099/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIDbn4VsC_WOA2oTXMl-g1Gef6kRIRb_YKtAbPAIQH4AXFwkQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "This restaurant is arguably the best hidden gem in the city. I read complaints of portions, pricing, & service. Couldn\u2019t disagree more. This is a place you go as a true foodie. I\u2019ve now eaten there three times and tried both lunch (steak tacos will change your life) & dinner. Every dish has thoughtful complex flavors and textures. The prices match the quality. Appreciate the craft and support local talent - I\u2019d give this a true 10/10. The pictures I took don\u2019t do justice. Tonight we ordered horchata, daily fresh Fresca, 2 pork belly tacos, short ribs, shrimp ceasar salad, & ended on 2 more pork belly tacos. DELICIOUS!",
+      "time": 1749356112,
+      "translated": false
+    },
+    {
+      "author_name": "iamchose",
+      "author_url": "https://www.google.com/maps/contrib/118312637495749618239/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJf4QcWUaEPRHT7XfpVKv2ygL7oVq7zKLROWb-ujBbotvnyhQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "One of best sandwiches I\u2019ve ever had, I ordered the Gaucho Sandwich with fried egg. \ud83e\udd0c\ud83c\udffe The baby potatoes that came with the sandwich were tasty as well. The waitress was awesome too, great experience.",
+      "time": 1746129569,
+      "translated": false
+    },
+    {
+      "author_name": "MariaPaz Fitzgerald",
+      "author_url": "https://www.google.com/maps/contrib/102910538170888813287/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUv6-BIp8sgPwOBph1DcU6PVtWNTesaNQoO5Wo80PE3n3cb9uvvdg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "@aromacocinalv we just had lunch here, and it was amazing! The flavors were so rich and authentic \u2014 you can really tell the food is made with love and passion. The dishes had that perfect Latin flair, and everything was so fresh and delicious. I can\u2019t wait to come back and try more from the menu!",
+      "time": 1742782816,
+      "translated": false
+    },
+    {
+      "author_name": "Rachel Blumberg",
+      "author_url": "https://www.google.com/maps/contrib/115838698486758920570/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZ0ykuH3cuwaN2u8yPr9aygp9uovQWGLr3yzgxaBvcY85zJ25a=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "We had an incredible meal at Aroma - we took an Uber from the strip to try something different and we are so happy we did.  Every course was so good we wanted to lick the plate.  Beautiful presentations and delicious flavors - we will certainly be back the next time we visit Las Vegas!",
+      "time": 1743123648,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1600"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "type": "BRUNCH",
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: Closed",
+        "Saturday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
+        "Sunday: 11:00\u202fAM\u2009\u2013\u20094:00\u202fPM"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=17822314516842449023",
+  "user_ratings_total": 412,
+  "utc_offset": -420,
+  "vicinity": "2877 N Green Valley Pkwy, Henderson",
+  "website": "https://aromacocinalv.com/",
+  "wheelchair_accessible_entrance": true
+}

@@ -1,0 +1,460 @@
+{
+  "address_components": [
+    {
+      "long_name": "17",
+      "short_name": "17",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Mott Street",
+      "short_name": "Mott St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10013",
+      "short_name": "10013",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "5002",
+      "short_name": "5002",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">17 Mott St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10013-5002</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1030"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 10:30\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": false,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Lo mein, dumplings & other Szechuan specialties in a basement nook that has sidewalk seating."
+  },
+  "formatted_address": "17 Mott St, New York, NY 10013, USA",
+  "formatted_phone_number": "(212) 962-8617",
+  "geometry": {
+    "location": {
+      "lat": 40.7142762,
+      "lng": -73.998921
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.71564343029149,
+        "lng": -73.9974965197085
+      },
+      "southwest": {
+        "lat": 40.7129454697085,
+        "lng": -74.00019448029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-962-8617",
+  "name": "Wo Hop",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1030"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 10:30\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 768,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107091374172151260235\">Wo Hop</a>"
+      ],
+      "photo_reference": "ATKogpdSLrReVPnUWXKyziswuUmGuY31iV3QqQ3rHHMBW6FTWiXNWG2Om7ZPl6E6pqkyyjBRd-p-hhyyaHGiZwo3y0hJ43ig250tNq4JgTJAhyhe9Qc4XpkY42Ys4Vi9CCjHzCwsmppPkDeaWc7iFvdg4trHPIUo6a1EsmkMdUvG7Ixq2O6bA7Rmhk5k0PWJowz8nC2D_SErmtAtLm2HHnkVUh77984n8aJPwoOLyFcqTlmTbuVejvb6dxjVD3dEnd9c8kdZnrpS5OhOtRiiCmf5Fs2w0INjzZSBAuWY6mYjre8irA",
+      "width": 1024
+    },
+    {
+      "height": 810,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107091374172151260235\">Wo Hop</a>"
+      ],
+      "photo_reference": "ATKogpdC1S_JXyWklzFOq6xu7eNt1Uhc4KTR86Q38Ib2vNvEEoawfd8YvqpbbR79Xva1KEiVwBBnDUutLU4cnsBpgvmFEKXJ1_DEuhUrpa-EXmfpuVBd9Gh9YjcB-jFCjJDRwqBWeT_odn2xGs75dqIY9z-N67pWDfrmQ8vPzVFCjjmVCbf6lU9Mfqy-COT1LtE7q8EiWmk-JOqEGLV7T7Io0zbHyp0_fG9Ba6PN5WObVWK_yxatnmCvx3YXhR-p9hBnN_o_y9Kq3BzOSOPgvwIZ86Pq2gco-_SASceSDsYGTKGytw",
+      "width": 1080
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103097454853869755095\">Solange Hansen</a>"
+      ],
+      "photo_reference": "ATKogpfK2UZwVBikw4BcPJ8y9kz8bilQXuJtj2pHeXWvsdBp0PfqULSrt5bDQfmtUlRHzWE3b6YV6hepx2bGuUaJUSaGeh8c_1nizQx8WMcjxnaeuaWATIZ_Iqlx9lYkGOOT_y6V9KPpOK8X-oPgGa7c8xIaW4RNHtSRc2HHDpt4hEkoLHNyDQ6gdghUe4pNk22XxGRoxUtwcCXNSE3AIQL6wTKPeDFmhwRnQfsfZdRFtyrbVWUbkuzAxinAV9Ou7nHh2Eo2TzwyjJcoLvAWsLJDkabjX-Nxa8U831oUXx8iPtTWlJEQHpIf77YpvYsYSe1DsQYoJIsH4MnsflV91n38xpkPlVJ61NnlOrZRzxCiJRoOe0WtQkCHLA9q4a8xGMAJTEeEVhiaq5qThMzUbhn1yNXnXRKPOFBzSk3ZFgnkwxk",
+      "width": 3024
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105601992699102170460\">Nic Garcia</a>"
+      ],
+      "photo_reference": "ATKogpcmNOWwYfaTFC5syiAMOxrQKd3-AkeLfhMF8nHW9BFQiRtHUcsXRarNOvSl5KAhAmpmcJDBHa6znobI6vNpk87WBmX6lGV9GJ0i1QFGHW_UKpWTRqa0EYSmbLOc-qDelUBTogOxLz5wGVCLemB_cpr-B0-cK3nlUq0UJ9rIpjUv7XbcPSM3zwcpDZU5rYuTRq3e1oKBQyjNvLccq_3PtKbq1GT8YU4gr0_WdaxQZfzNFO5ettwHv51TDwugr3ny6lLkXL-FdGowypOMUUS86CzOBsHUQMfnuN_sQD6dxob_th4FAVZS14gbxnqkaK1hKYHhv4vn_q2S8shz1qqtXTpJcZAiWTlANR-ezbY7HciRWcfm1b3cHciPZSpMGwgny-8Aq6pv7L0xZjvCI9aDncKeCtRaMMjuT4cfYcqZyJZDtA",
+      "width": 4800
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103841652800837102805\">Diemi Pham</a>"
+      ],
+      "photo_reference": "ATKogpdP5HyQO6NjXwJZN7BsPjAIOj5PZHssUh-iSqo-u5ovJaExtRMMJWmrbu0z1z3S3wd8eRz0_PjgQ1d8MliYDY83ZwyuL0LWyFEy77kHUBYd7LADXIXhGiCEulsidX2WXqGMeq1zx70zKBWZyJ081pcbeJTkYZpWUw_V8kX8IF-RKmVWG_fyvOjrmu1HRFy5Pk5agRTXhLZnqFWmkqLbNBBf3E7lkFrPWqc7xQI-fmlxWLhL3wD2Y2ikCeXqSx0WSmb2K9pKTY-5KE13wRMDFsN3peXrAUq96Sx5qVZpV440AE7PFn1jvHhChuUY61f6LR4pN8VZApmd4FE-vUvYHSNpx5AIHZHtfyi22FL8JnVkODIjAycW6oEIg0k7Ivk4U2GpnCUnedlBzd0X2o3xITse19yRR9dEXtbaQzbzCE3lq0Ddb5LxtosLBAlwyA_D",
+      "width": 3000
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106196620633130985658\">Tong Chen</a>"
+      ],
+      "photo_reference": "ATKogpfcIvNZbVVrJM1W4H7QRf4DTSVeYbrigZVjAJE7LxgXcehbtxzaS-K5AkkkwU1D_i0mj6sUqPd0vjRYny8oVJx3f0lu0zl8qCjzWeG90Q-3pLmL3OQsXV3lBJadzg3JfyalEIc9Ik80-6QnSDJSNDHCilaTyIcknNoU7c14Gp5855BtHd6R6Y4SFeragt2o3gjV2qmc8WQS3S3bBTQPXM9-SbxBVTO4setoIh6fyJ9nJ2eHyteCUIat960TL0oL9Sd8qJfzf-LTcf9xBqQZDrU7scnWyPRJd0q2eK-lkp2l9u1bQUFdHHijRl21jzNk1IJU89CJHEste5LCGdzwnuzN7CO18t-jmdziMP5--1HOLAFw40nIADrdexIGAc6wvMc4BxrxVjHTXj-6z2S1FthRQY0dY_ACcjK5nUv7JAvBDHuH",
+      "width": 4032
+    },
+    {
+      "height": 3060,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110324577450780965311\">L P</a>"
+      ],
+      "photo_reference": "ATKogpdGnkcSJJTlA4dmPmsSJ6XOeWGd91UvPNlPP5RTyye2ls9sqByOdjSLbUyQE7fMssOBfB7INBsmwqe8ulfja_DmDUHy9iZk0qKLJSPLWnMktvPf0wYVCCsH6LyFtyo5raWY2MAyUftwgaTbeeCeCSUL870rLWJGKkD770cueGvBn7I7bHn6hBLRzR97Ip_ORD-d5mk1f9mkwCgE6d2fVQFAcTj6dbdPggffV4XYESFxY7WAM10w5sV_IodWy299gKklx-nlNmINxNaYteEkRmBHSMH0x_9O5eupacYzVqaRvFx1cnwbWohZiOR4nmpBD0z9xwetS9-SmkBwB51NhozDfLaKXq5UGV-JKRe1h13svkTzezwMJZUmxBTPOaN4A5lEJdTNRMyjFQJ5FRZY17XixNJc_ygpNRXgdf8hk5A7aA",
+      "width": 4080
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115763233151767785169\">C H A M P</a>"
+      ],
+      "photo_reference": "ATKogpe53fZv0dn1TAV6uWYmqduBWEwURmv_TXRXYtqhTjUo8RE6u25wYzlEN6TJ3MIKzpaOFim4jG5Fw1hTOc-oqF3jpNUz1fi1SPftbQto14OJtJEUYRbcmQSe8W2bvDMfRxy_w7_KKmxNUVzvhaBlAZzJnLXtNf5T5DYy5aMKCWMNnt80z-Nbxt-N8oDan3XHtiwWWP9Srse_kSv1pzEQI5L-0pgWUlAG4SecXl8f_ZZY-7dlRTu908UZZ1zMKvBtp5UlEBvj-5yCHBV1ZFJi2X1e8Zqq2usCNfJtBZSMb-thpSraAnoqQ2H3UX3_8ZvUJm3JZYK8vpSaD1iy-q2A3a0cfL-7VoSGZWP58uaPqlO2ilCgAHuzTdjHux_lihyObBrNnnHbRGkUWJkWTDHAM-FrijrpgCcG3yI8EdLsq-UUGQ",
+      "width": 4032
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118325868013485307021\">Jules Marchard</a>"
+      ],
+      "photo_reference": "ATKogpeaTWK5vQeE_mbbqQdqOtnsYFvbzPmjObb20trDOw0SDSzaalR8UcEBCLvHdVLUpTvNQymBiys5tMNzfD3UMiOjy7kNYWr3lmWPexFDKuhTguqDGadIQN4dsB5KPQkOfLc-PTvzx6D3O2AnrB6Tv7Pn-UQb3x3jAciMIKi5Zwy48YS2p2HI6CeBL_AE5DYHK36vPgJbnBzjh3IKRa6YxoCY9U_vjdqaIhtoSAfAu5VMmm1jjn7YtKcKIt2RgT7wNs3l5woAqUDkt2hGXLYdGycsg8RmfsvMDtlPGRkvmHkXMYizL0CWqArRXWcTvzfrBJkezJNplzRAxb3D35KrgTrt7Ou0MsHse13jrUeiWrWALU2OTRYFFCaymIha4Yxa3f20YvQJJXgvg-zCfBhKg-xFls5uQeIUziexZigsUQegRw",
+      "width": 3000
+    },
+    {
+      "height": 657,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107091374172151260235\">Wo Hop</a>"
+      ],
+      "photo_reference": "ATKogpcsXK0l9xJ_dnyH8LDBu0YOlnGJY6wLdF-Qjuha1ob-UKUexLCmA4gpnyYYzZ8ZkiAtZ0VmkSHxvXQXgr8TT5Hi4uv1-o78JA92FSAAwSV-cSs6V-ajg7AffhZYofYOTfGD6bgibBZ1IBcUcpj6GV_v336b06vlct7wodEBQJPIzWpbKlH9E80T-MUQvGIqjiHFhQeZ7O4oF86mw4MggxzvjOMkOB9XCH29jv-B57EQXTFkf_SwFtzBGJEM1xOyFl8k927DHgG7jNuXmuF2Z2YwkVT-DBgfA9dpeuFNeUeDlQ",
+      "width": 1174
+    }
+  ],
+  "place_id": "ChIJBfjMbPJbwokRrcQD5YX1LEI",
+  "plus_code": {
+    "compound_code": "P272+PC New York, NY, USA",
+    "global_code": "87G8P272+PC"
+  },
+  "price_level": 1,
+  "rating": 4.4,
+  "reference": "ChIJBfjMbPJbwokRrcQD5YX1LEI",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Kasper Heyman",
+      "author_url": "https://www.google.com/maps/contrib/100177797328141519076/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK_Xjv3V-uU2c3jcwVER2ukhHYmeMyda2efUbajg-NNP2C1KWI=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "From the moment you walk in, the atmosphere feels warm and welcoming. The walls are covered with police, fire department, and military patches, instantly giving the place a unique and local vibe. One of the coolest traditions is that guests can leave a signed dollar bill on the wall, adding a personal touch that makes the experience truly unforgettable.\n\nThe food was absolutely delicious, with the meat being a real highlight\u2014tender, flavorful, and perfectly cooked. The portions were generous, making the price-quality ratio more than worth it. On top of that, the staff was incredibly friendly and funny, creating a laid-back and enjoyable atmosphere.\n\nAt first, I was a bit skeptical, wondering if this was just another overhyped spot. But from the service to the food to the overall experience, it exceeded all expectations. Without a doubt, I\u2019ll be coming back!",
+      "time": 1743025051,
+      "translated": false
+    },
+    {
+      "author_name": "Ryan Tammaro",
+      "author_url": "https://www.google.com/maps/contrib/102165723117116973539/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFVRCHgVtyNpQ0dhpjl4Du2VY7HCYCuwd3UqyBJDZ9OVeYNSnh=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "in the last week",
+      "text": "Old school Americanized Chinese restaurant serving an extensive list of classic dishes. The salt and pepper squid was excellent with a light fry and chiles to add some spice. The chicken was solid, cooked well with a gravy like sauce",
+      "time": 1750595718,
+      "translated": false
+    },
+    {
+      "author_name": "brian bird",
+      "author_url": "https://www.google.com/maps/contrib/117717207671576117783/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJmEr8AWoji1EhGLvzI-84WngDQ25M61NgCFRZbl81b3CrB_w=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "Great, old school Chinese restaurant. Enter the basement restaurant via the stairs. Cash only. Fast service. Excellent menu with reasonable prices. Everything we tried was delicious, including steamed dumplings, fried dumplings, duck with flat noodles, and Szechuan shrimp. Water and hot tea free. Soft drinks are available for purchase. No alcohol. ATM on-site.",
+      "time": 1748900155,
+      "translated": false
+    },
+    {
+      "author_name": "jessie gongolo",
+      "author_url": "https://www.google.com/maps/contrib/105162782135562348464/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUgIPSbJ_Q4HSHQ2B3wN7gmlIZ1azFWy7T8t9pjyB2nNzFpmMTSVA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "This place in China town is a must go. The service was top-notch and the ambience was great. Though the space looks small but it sure is cozy. The food was delicious and I enjoyed it. I recommend Choosing one dish for a couple and take it from there as the food portions are big. I recommend it.",
+      "time": 1748984707,
+      "translated": false
+    },
+    {
+      "author_name": "Grace C",
+      "author_url": "https://www.google.com/maps/contrib/110153507206118834911/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIn1l5RGqODEYxipLwCWin_Wu0ZmKMFrq8B6Kqr5QNRrfUKKWiA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "a week ago",
+      "text": "I dont understand the high rating of this restaurant and how they said that the food were great.  We ordered the salt and pepper porkchop, the pork had a weird taste, it seemed that the pork were no longer fresh and tough.  Then the shrimp canton noodles and yang chow fried rice, though they looked dark from the soy sauce it tasted bland.  You can also tell that the shrimps that they used were frozen ones.  Then lastly the lobster with ginger sauce.  This one we felt that we got ripped off. We first ordered for the crab with ginger sauce. It cost around $20.  Then the waiter told us that they no longer had the crabs and only the lobsters were available.  We asked how much was it and said it was $35. So we ordered that.  When it was served, half of it were CRABS!! and there was only 1 small lobster which they cut into 4 small pieces.  I felt we were deceived on this for us to pay a higher price. (You can check the pictures and try to find the lobster in it). If they no longer have crabs, why is it that we have it on the lobster??  Anyways the only consolation that we got was that the sauce was good.  We were dismayed because a lot of people were praising this resto for good chinese food and yet our experienced were the opposite.",
+      "time": 1750392848,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "restaurant",
+    "food",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=4768456060900197549",
+  "user_ratings_total": 4053,
+  "utc_offset": -240,
+  "vicinity": "17 Mott St, New York",
+  "website": "http://wohop17.com/",
+  "wheelchair_accessible_entrance": false
+}

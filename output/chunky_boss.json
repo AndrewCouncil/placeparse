@@ -1,0 +1,444 @@
+{
+  "address_components": [
+    {
+      "long_name": "129",
+      "short_name": "129",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "East 45th Street",
+      "short_name": "E 45th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10017",
+      "short_name": "10017",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">129 E 45th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10017</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20097:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "129 E 45th St, New York, NY 10017, USA",
+  "formatted_phone_number": "(917) 388-3700",
+  "geometry": {
+    "location": {
+      "lat": 40.7533636,
+      "lng": -73.9743183
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7546681302915,
+        "lng": -73.97301816970848
+      },
+      "southwest": {
+        "lat": 40.7519701697085,
+        "lng": -73.9757161302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 917-388-3700",
+  "name": "CHUNKY BOSS",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1900"
+        },
+        "open": {
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1900"
+        },
+        "open": {
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1900"
+        },
+        "open": {
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1900"
+        },
+        "open": {
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1900"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1900"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1900"
+        },
+        "open": {
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20097:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100131174337832607182\">Robert Blackburn</a>"
+      ],
+      "photo_reference": "ATKogpcfQz4I05a_7-If4tNhL_exm8qhHNGN6PSxJuXaXxIlnJxu83UF9Gs3d0bSYHWt9fSNoEhbW8TvrcyTXp_zly0h637BI_IPncmYKW9YXloZyF4Z3d6CWIZwkHiU8S-5uO501PA62QnXa_rwjMyNz0cc8DRdfFjTVZ2dUzyD9AQLk8N0Sk5ocw-QmhQlEgfEY8PHVQ-698OtWjv2srbILqy8Du-90rkyJIGLP8Yzs1qnHLy49V8JPeVSN_6FnbtdoGQUcLwkKwdUS1t2hiiPf0Wi2lzFdSKY6p0SrWFB2A3kfpoYSakYUtZZmt9tc3pDveP4RxgVbJcaO1OkAtXFPTExKrEqtrsb8PRpWJB7pGK1RfMpp8jHrmj5UjD3RdbP7JeyCNgqoxhh7ZCCj7xppkakeXk2TVyyK4AV1b5Xn-8",
+      "width": 4080
+    },
+    {
+      "height": 800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102665918448283291900\">CHUNKY BOSS</a>"
+      ],
+      "photo_reference": "ATKogpfnd1_fO8zbZrUinWA5-F1A0O8ayi6G78kT65lkWkuFb3JhI4C-emwhze0A9Y_Z6BMBWzwPlT-NEjWOIYfW0sIITXjUMN6_E3cR0CZpXN2dwEORMobrSZXyjwdEIEK9ilFgMumca3PdURPkCjTYunq-iH7Q4IZH0lBceFvXjgYuTgLzQ336NzBQS3dTd539FS1UgOYQso1Hm8FCl4NlJmDlMncESb7RbsVMV13E5EAacZXluEu79bEneuvN7z-HnjozB5_xCykxNXF8sX5slg5YLKNua2F4SyoVJAhuwc-nEQ",
+      "width": 640
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111368970470087146121\">Jossette Sullivan</a>"
+      ],
+      "photo_reference": "ATKogpf5PtruIexUQyGTJ4ZIdKtTFEb-i0lVzMfXwVWIwZXlfShZS86cxS7vq_ksR6qIi70dWrx0z_lfX8kYy4i1f2rNiST-fNzDud-rqQNvGScXDOnbXpQKX2XtSjnfbcCdDCCSYFqzO5z3W2Di7aOg8ZqEmsGlLS86EYHX5hL5BbCvAKzMWx_SXf8V9ACuBZY64WMqHomgshewfs3BcRM28omudJ-SqW16XnyoMNEEVNG_woZp0qn6IlQGvAXFV4Co1eHOqzem3kdxj6Yc41oIVLk37GcLwiN8AGYARZSOxD-SHwjTl4epevLyRzWd1B72a_0M02SEpdCvl17pBo3a_2WE52V_GL-whzoe-ENn_8CfUZIZyVrwI1W_aOyIzVRKbeE3Qf_9HYmxQDFP5yuNgQtAvvGY3MHqgywbF217BT3g4Xw",
+      "width": 3024
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116481844845729614973\">Nehal Ahmed</a>"
+      ],
+      "photo_reference": "ATKogpfJcShtZsRKNLpF5iXgESDUhLNPjrGvffVNBw_q9-syqNNiCkIwX9VXkmLSCg7gFJ3cbHb1YFlQyLeoh-O_wZTvDG1fjgpklkE8AP9yBVN_vy-HX_BWBehtoFiMMPRZvdRhntyObFo_Bu01aiIj5motpVNc5t8sEdIAXprjHVzrVMPOFM7x3MSiQgSMlIwVqzXMrFwzeHuXJRAbnX2l4ljKYz5zfGZG0ep3Zl0_rPiCgXgbqmeYuTkuu5I8Zki_MtzH9x8dcMb0IlHUnhq83qyShJzYCNdedKp1IWDy7gZs8_C8t1LLk2loaD7YbKpllh2UaxjeeYthnNT1aogTyEcS7lFrlO-UHKh9fouI7Mx34RrHxPOYMNVmSYmSOurIJlMCuh0VCiuMpRqLruOfaDN0X1-6EcKwZ5JcIwBrsDU-5xwd",
+      "width": 4800
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110241317621643163597\">Cheng-Chen Tsai (\u8521\u627f\u81fb)</a>"
+      ],
+      "photo_reference": "ATKogpew2gO0Gd1jUfJ1S8cCRBQIuVr2idsMTUEuhTYofBqj6XbhbqDPWRwcyA7drOrMMUrMAPlcPrhya0sFN162QLIZxwecuOCc_x7zn6d4tcLLrB5jc--YWP5zmB8tP-BadYm7O2ZS_mIgQhySM8bGQDqgxLcdLjDsqRGIcLPJOuA176hmJ42GDvV0O2u14Dh9DFwbQi0oPw7mMDCtL3TNS3-mp1Vpb4TnAQcAutBcfl8IRzMZPXwjBkC10cFsPBDzaH6CvqFBgB7p_WYt0Mo6fdNFhBpD1TMjosCBMy_8YiuLMVv4Dvad-JjWf1aMPbE8hLdRsLa8QLqG3nReQZeMQAopJezy4hrT8MSwLUkXGYWtrLArYVYRqahn5E_JpLNQg5kMqvvxpgUhgyWFFAOY-hIYrQnT7-VurlQ_MuwTEhf2jtQ1",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110347391788764130367\">Vivian Lin</a>"
+      ],
+      "photo_reference": "ATKogpfo99-5SIi18_gmemj8CPLAP3HFoBvNjvT6ThEkpli7vwWu7mQQivJZN03eKjQzsdHB81eMW-S0XGRqWRldF2CH--qO1BapU-oFGg9ze4uM8U7DacBtYIYNoTDvX4BaXArSCd_CBWhtO9KrtbhYmZMfsWLQfF6zR7ItbAD6KnbMPwDAhWnCaMUlwQ6oAx-HdfdR_9trnP5YBxHjb_dTnukg_vcrw2MlPrJ9RHUBhjqxL-zmefJ3NVd482mvz6U4HpYybwRF-PapPBZNWsXJEX1NA5cUzEM7pd0pnqDggRsND5n8zzXfSjJmTrGsLFENMptOLtUWrdOszFPMQb4RKe71wAsDvJyQEf9jRf0rcOCHU7Unys5VXeyPwZcdBEXmqBZXnoYj7BS6OPkx9yrr4a-A2-L8RcUQTmMhVxpCdaKv-20y",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116481844845729614973\">Nehal Ahmed</a>"
+      ],
+      "photo_reference": "ATKogpeC062rEqIFLd8ZsDPyOoz0mCZWj1QYiTQ00DbGTxagxhpCOtyHRCjUe0_DxNI_Wbxg2uCBIRDg__xJ2XqzT_ZcikPGKoYMGuxQswyt_jxa0G_AIt-xPyRan1lvD0EtzRCNULybeH2melTICEQ585j8Y39c9c7LL1wtztlQKX2amxLseGSAFsAqExJ5zQnB6C3JdvECtyUCzBqN1IcFtUzfimtAaDR3KIhRLVbNxcprMt7Jt8gvc7ob9i2oCfwkGieaVj4m5uchJhlsijgV4gZCInm-uOgK-O22hwmSJRj7BYUGdaXE6WrlJw9c_Nh7MkpMaZeS8jIZz20csvzbCKhlkKYe8eoBwTaj6TDX0BDAZl2S_bBQL-K6ePjSr2lrcsZBupdmeB3Aq1T9X-LhknL_ucg_qLXV-fAXZCqajALK0Q",
+      "width": 3600
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111451301681346204467\">Emily Feng</a>"
+      ],
+      "photo_reference": "ATKogpdMyM64duRH0P73zJvs3x_AU0t0_1MAYJS-oCh7LShHdxxFmhAGpci0ccYNCBhadU2Atn5FKFg6p2m0KiaZhMG6FiX9kELgRDwUYcBHSmRU9-KUxHT5G_azLjWfohr6AYs49ioIeVUAv8qarkNZOAg6avv3yZYt76-owq2VvJmeKKKo-DtxKovg5A3ivbO0BPKF0ZcFz5dFP46t0yjtDCyez2D3zgWWGUnXItZZUtYDc88w1C_xmmuehE-xX6Y6DHJkF1IBkAwAzx6L7bDmo6xRNQhUfaZYtTohWG9oprMfRODBItYLcgXwSTioaaswVZHBpMHzryeKgczGMZ8LHC1rmqluPFjBGVxWouPuV1wUeg9WgBdTlsAEjfxxfUxdDSFB1IQGc9x-R3ylHRzgTKOo3TJsfkr88wqGVvnvjhChcw",
+      "width": 3024
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110241317621643163597\">Cheng-Chen Tsai (\u8521\u627f\u81fb)</a>"
+      ],
+      "photo_reference": "ATKogpd-CnQuPbrf092c2znroi-D4gpbOKdrZ9kdvTh9Mw9gYHPAnHUOvs3qIneeAoyAp_Py8nf4JZnd7r2l3UiDzm-ILK7TeAY-Q1EWU4MXNB8Z87kRZQ8MlyiceQiWrQTbHl3JVvu8brh3mpBh2i6-sH91tgA43ij9Ww8LccbMabxPMu9bJIlcQEMg-750DLf4Zk1XndUAEjeneRDEUBhMhzjan6czA9SCSKL72eQz2vdl4_XEfFKLwnGU98MnilAojL2q8PaHD6DQ5HWJBrN1jkOoWeHM-sk4NzvNHZeLg-aL77LSEuqbDuN83XbwdZ7ukXVMuUbvD4HCkY79TxWDy9YpwDM4d84kTRqDQEIaIN8irMAndQkG72mB5oVmdG1ZN0qfvzuP7-bb6L4IQIXNepHUsbEYlYdX0ri57dR4gGedRco",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107660156989427964836\">Xiuyuan He</a>"
+      ],
+      "photo_reference": "ATKogpfF5xmC9AZSum0TbgqxryDOODu94JfTX_2EePgLA1ZIO5BZ_eWeNuugL2SXBTXBB2zDMYjhV33Mdr0IFaJfX7tJ8jIm5RbwQLPu9ageWC_ixZcb4KsXq6n3QsOorOOWtfipGH3Q_rKV2csnG3-iSQgNPnttUmPPeixzrbvy4NRNbwGu4HZNQjRTRv4PP26WhxNft9g4i-9PtQHXHDeNpiZoMxBAi8RPTJacZ8jhnm20yBbBtnK2Egd6MB4ZifAhmA8YnrXSViW2Zmjie0Wo2RxaOjD1SH4B4ZfTWhlcNNnwho43Nsen_Xt8MHmQU1Ezo6EzmkQVfBEcHWGiAFDf9KcMbypmsO0II4wPkvKiGGKVtpYhpfZD_0-NGqNnA5FdApd31ZQaXKeqLro0Mx83gYksGJDwS7tILT3rh2s606TIM3ya",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJC-BCoxhZwokRsbNxpspwAAk",
+  "plus_code": {
+    "compound_code": "Q23G+87 New York, NY, USA",
+    "global_code": "87G8Q23G+87"
+  },
+  "rating": 4.2,
+  "reference": "ChIJC-BCoxhZwokRsbNxpspwAAk",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Nehal Ahmed",
+      "author_url": "https://www.google.com/maps/contrib/116481844845729614973/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-YG9-F7AXcQjts1kLsdnRZAA_RRStaTvEWalKTSHzEpKH5aB_XA=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "This Chunky Boss is a small store that shares it's space with Tiger Sugar. Inside the store there are only few stools to sit and dine. The menu has the cutlets and popcorns, and combos for those come with fries. Some of the flavors I wanted to order were not available at that time. After ordering, it took them about 10-15 minutes cook the chicken. I was so surprised how huge the piece of cutlet was, almost had never seen a piece chicken that large. The chicken had such a pleasant flavor. It was moist and soft inside. Fries tasted average.",
+      "time": 1741638590,
+      "translated": false
+    },
+    {
+      "author_name": "Justin Davidson",
+      "author_url": "https://www.google.com/maps/contrib/112837612832088210983/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW6oa1sQi2EIkfpSDvYev_7IsIXgPNTV08imNMZ5fKatJ18JJtg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "The chicken strips with spicy power were delicious! I don\u2019t know what they put on their fries but they were phenomenal! The service was great and the tea I got with my combo meal was great! It is a small location with minimal seating, but so worth it!",
+      "time": 1746839283,
+      "translated": false
+    },
+    {
+      "author_name": "Cody Gahol",
+      "author_url": "https://www.google.com/maps/contrib/109026145734779274098/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1Sg9zp0FDa-pACYeRrm8t-ntPXRIk0UmnqwrEmFGRFwDnNVYUKg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Fantastic customer service and an absolutely incredible classic pepper chicken cutlet! It was Huge, perfectly crispy, and juicy! Highly recommend! For, 10 bucks, I found it a bit pricey, but I guess that's standard NY prices.",
+      "time": 1742232698,
+      "translated": false
+    },
+    {
+      "author_name": "Vivian Lin",
+      "author_url": "https://www.google.com/maps/contrib/110347391788764130367/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKvBCGI-qi1psVkpixIAfWolULodQYb1A4wnCFGQ0KuY--Ofymo=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "I first heard about Chunky Boss through an overseas Taiwanese group on Facebook. Fried chicken breast has become a popular street food trend in Taiwan in recent years, and Chunky Boss is famous for its enormous, thick, fried, and breaded chicken breasts. The Chinese characters on the chicken\u2019s wrapping paper declare, \u201cI win because I am thick and heavy,\u201d perfectly summing up the indulgent experience. Located inside a bubble tea shop, it\u2019s easy to create a high-calorie, heavenly combo: bubble tea and fried chicken breast.\n\nI tried both the original and chili sauce versions. The chicken breast was juicy, lightly breaded, and remarkably crunchy on the outside. The original flavor highlighted the natural sweetness of the meat, demonstrating that even without heavy seasoning, it can be irresistibly satisfying. The chili sauce added an extra layer of boldness, offering a flavorful and spicy kick. Altogether, it\u2019s a delightful exploration of Taiwanese-style street food at its best.",
+      "time": 1736298637,
+      "translated": false
+    },
+    {
+      "author_name": "Ricky Marks",
+      "author_url": "https://www.google.com/maps/contrib/103404258807211755636/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLIUS7j4MqWV3i1GQd5QDNBmxB2PLewTzxrqWMJUMX7rPcE6g=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "Great for a quick snack on the go! The crispy chicken cutlet is huge (in the pic I\u2019d already eaten half of it and it still almost filled the bag) but not super greasy, so it\u2019s great for a crunchy salty craving when you\u2019re traveling. I got the plum flavor and it was the perfect sweet and salty balance\nBoba is cooked to perfection, and the staff was very nice despite being busy before closing.\nI also got the cream puffs, a little underwhelming compared to how good the chicken was but they aren\u2019t known for the desserts. Signature flavor was definitely my favorite. They are very delicate so make sure to ask for napkins!",
+      "time": 1742338037,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "takeout": true,
+  "types": [
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "meal_takeaway",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=648642362019525553",
+  "user_ratings_total": 177,
+  "utc_offset": -240,
+  "vicinity": "129 E 45th St, New York",
+  "website": "https://chunkyboss.co/"
+}

@@ -1,0 +1,605 @@
+{
+  "address_components": [
+    {
+      "long_name": "141",
+      "short_name": "141",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "West 41st Street",
+      "short_name": "W 41st St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10036",
+      "short_name": "10036",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">141 W 41st St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10036</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Sleek, refined spot serving Japanese home-cooking faves, such as yakitori, soba & hot pots."
+  },
+  "formatted_address": "141 W 41st St, New York, NY 10036, USA",
+  "formatted_phone_number": "(212) 704-0833",
+  "geometry": {
+    "location": {
+      "lat": 40.7549444,
+      "lng": -73.9859778
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7562232302915,
+        "lng": -73.9846881697085
+      },
+      "southwest": {
+        "lat": 40.7535252697085,
+        "lng": -73.98738613029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-704-0833",
+  "name": "Ootoya Times Square",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1500"
+        },
+        "open": {
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1500"
+        },
+        "open": {
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1500"
+        },
+        "open": {
+          "day": 6,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118129559408373781633\">Nicole Kim</a>"
+      ],
+      "photo_reference": "ATKogpflEF_ItA5VDJchVQXg5g79Rjpx_z4i_Juc_GtamQ4FYEeVpy3F3-50-NXiQXKITD8TxtV7Rar0mJQrju7NTClRPl3JTRBp6dwBbVzAaPqeJ17h7vatvhQNbAb1IooOcJqP4LruM2TSoJazCHjW4JLyuERWeC7uzwkhvpjNBdPgSUywiORNmBc3h5vpbiHnRwXxN4VrHTvGnmgn7mHpTFyhdEt5nMXTRrKc7JcmLW6ZcH-xF98_mWQptPCAnok342sooVTo3vwxi4n_FOWHquzEdx7t31txm6nMKD1H4cW7gJbR-cEPBcubM4IrigPF9jyQO-FW9nln6thYZp3d_vtAQWk6xShpY-cAtaYymKrQnEcWz2181MCRe0BXx08oataYptWn5y6MMeplA-aN20ke9PvSdYOrydUyZqL19e3aLA",
+      "width": 3600
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105936140308114744944\">Ootoya Times Square</a>"
+      ],
+      "photo_reference": "ATKogpefyBlYsrwchtSTTgaE7XJkJy8A-L_8lSBxPOsRcoxMe9f8k-vu0eopgnBxfvY-J0cZcgS_LGUVKjUASTCQPfpg-gDWKLxDJb5XHdZ4UW2ZGqPtz0nphXABDI3IoBZQYiPlQYbtsWxW1cX486Ftkl5z_rsop8FrX19nz5taXVChALvVqv_-jyA9IfS5lS7fxxGL7E0ONHbAJlC7Bd-0maIROi2dT9kt1ccpNJSTi6uswmz9yOEmybyD7cWMQWBtKET0ZxW5b8-9fxpE1nqXrGzc4vvnrTtpeXL2xeBcvyPvqA",
+      "width": 4800
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101150171440156964875\">Ks Lee</a>"
+      ],
+      "photo_reference": "ATKogpcfdk6BgYVfwthnkYUyKE7_fzS5_yDHYs65Fum2zvfdbdfja_0vloy2-LJOUyqAHN4qTb50Run32k5TkBkKYlfI1_sbWcJCyCjN1fulnPuaWB735J9cwX3l7-BxuoeAHTxXIfqRkoF_IKpBO35FfItB35b75NoKrL6XosbW00iNwKB7UvoiZ9lnnwp4BeUf5wrVZ1NA8K-cSpWvXi9YhwmiIc7Nzjofcwb92Myh_FgEY--nE65lY7MlSLrdrTB8ZlJ477_RSYuXjbiYsyOZD-aDnRsxrSBNc5zTyotZsI883D9aaQfcjbhC8XnzqqM5zQ_haRHxRN4M5cOwNKFg7SMD1Qn7Il46hu18LELvGoD-lJLuhVyd1hdXyHJZxiiH1gimT5iZGNo83CQexDJsLLOSxh1WCgLq4YogL45VLvdfBI85",
+      "width": 4032
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106318964416026982542\">iVes Winzy (Williams)</a>"
+      ],
+      "photo_reference": "ATKogpemE3K4s-WeVk3V0XDfgSyiQsfWu7AJIvbmSH-Jpi-MAtpzUKNBhAmfszoN42IULK1eFrJ1eEqNufATYDQgAEZFBfPvxnJE_xr4Db8casPNemNChj8U9Pizadbcq081LRgHahgG7Ht-R98V94aCosfACpu_39RQ-uNgXEF3UUiCXX7mOZnddpxlxs5n5UeBuap_xSsjPxuI5nwGP71NVU1sD00vJV7sUyISIIe3fKnqPkk2Y-p9ICY9yixv2Y7KfFTSjqscA6iPC7BU4mQdj9gBAoj9Y87h0gDxBrz1PuCgUbpwyZpn_zPK64C3f_ikSUmxFfbS3RjCSeIAeON9AC4qzod0WbBcArkVRIJqiwgHXJOE74Cqfp-yi1PhKQrcHzLybbu7qaDSfOwZ2v30gNaHHWR0rHAP0YuOXMt55WzYcw",
+      "width": 4800
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103035043036365077973\">Joey L.</a>"
+      ],
+      "photo_reference": "ATKogpdi2ZPssXbNXXF0eT5Q_TjOpJA2YkEMPrHSfdb6aDpdbhQdcAT-A2UBijK3VjGSgCefmIf0fF2_qvr9gKPjvHHoByhnLnLR18iE_v1_dQq9rkJ0Uq7AV9TKHgJxSD_0VKAdNfy4mnMrUf-Cg6EuISAtjdB8TjlL3bvRHtnWNPpi873AkCiMMbV2ikgGrFhPzvapx12poXV8gm9LivYeVsQ3hwvX_aehzFQQ6f6csJ9KVL6d7DrGogTsWioKo6hJJgEE3Hu2EPafHMpS2rh8wpQJC9cOAsQrMeY9ZzLLU-ILYIAKyoMlqOdqQditCjcpe3mH8EjiAv-1KjvW3obC6hTM2xta4iKhE7ZZs1EOt14dl4J0iLYSzxPx69kCifK01UbxxcsQXrSGCW3KBD6qadiORoTg72dzrVkzlaCJs7SCQw",
+      "width": 4032
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113834698060664924400\">Jennifer Tran</a>"
+      ],
+      "photo_reference": "ATKogpcnL0ozpEqr-MqhJJBL6jYfBfW_qNLGhOHHpokx840IMZJxio-E42eA0FACgwPAkUCWY47lhUIKPRNoCiCXryqGj9F9AhmcQiUQrpKZtrGsWARxM3kk8zWPkwL77MDa3-J3Zp5HPGAxI700bxqd0GMfhPNkC6CnxCkKHt9ir2FnSTUYcc-2pWWswkDC6uxvhRH9T1VR1ljWCRy215eWyXdmk9i97UHSbmbNyZwvsiEL1eVf_FEd47icSz5Et1OQZREUsIT5xxwHbKHmAXphUkaWdfdvCq44TokCNUG2ww3eoMPo7laPlcEvatsQ5L8FVI_l9xMeGazMo4EGiLp7I0PO9QMLvYQ3Igrxz6h8AUmzRbhx0YWoEQi0lwnkzByRKZvs7H8AFyG0Cq0USCF3aAf03DyzyPFtQgOvKcmNNII7uxmbswd2GhNTsUd5mA",
+      "width": 4080
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117024707744357690207\">Albert K</a>"
+      ],
+      "photo_reference": "ATKogpcgG3CX03uwKjCleGjGfoFAQ7fmZ3ozNL61YG4DSLxw8-1oZNjt7Ss1gZThNDzvATTkYBuPqLmv6XOVGc8kd6Pch6kLpGJ_r4EY2p2sF8V1U_1lJLdTkuElNAyTLI_FGRncUyIdYzb4k3KygRKxZuTgwZX8Q8v3EpEns-8k63kpDA6RUVmh-vFwncpYcyTdwI4LzSyxrxogSGKzYnVjgYu9hCUmXf6SClJGaPOwhEXw4w5hJ1--vL5JetekGL1KS3u3b6rYRwZk_xxZyoO20V2hF_-RDC3_HDuQnJ_8RhWUqwS3hRt6YNWtKsFfBepsrg01nLdQGATIatoBMc9f8WXV2Em-hj4d2oNzSc2uvi1C0GjFka0zrjTRjyvDIW1nYWZr4k1lTa2bkYSK7xIsDO3todVMY-LY0XhrInbFoCj41_y1",
+      "width": 3600
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116019835103341565317\">William Leung</a>"
+      ],
+      "photo_reference": "ATKogpde-g4NSqYNyu2SuOOtCo5AfcLDu_H1x3QexVNtX_vXemq7m-6KRMEf8WMXZDL0226-ITFu5UaZty012v7vY1d3NJmCESBIO0EaccJsbHzN3_DvMamP-hIijTVn7G0JnXLqS0ZIKTlrM83PGqkMjqXIG6-ngfUdx-eG8ZY35Od9lxpxgDAprT7iTl880IT6LgACUkDxbY6wJqmpMgJjey-CdFnCTNYHwGxAzL3Y1O0XBfeUrvTLt8hHkx1gYWBYAq-H6pGvCFKqi0UyapKq7WujJcHAdXOQG3AVO6FBxFXYfGh4pKxj9-wFZhSKSfPxAg0lcK1PZYC6QH34nXKe9G6jfCazr_5J8TXCFfrq0QLuVVA2RcUdCrNFCMsNfV_sKCgnUUYTVNVqFl5yN1GP9g8O_cf1nigHP5emM3Dv0xqqDWs",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116019835103341565317\">William Leung</a>"
+      ],
+      "photo_reference": "ATKogpfEfUaYHjt2H3J3cDqXF3manADFqvBXoIF1H_p-ZrlF7H02LdhBxkaO6V_a75Ls0IAEVHq_KphvkSwpb0r_DNZSukXSgOIqxvpiw9-_JY8ZbzKiCgdzKXP4lPlZTGYDhln49BafBofDof6auN6HbNBycRjQai04KLqltMRCtBHQEvluT91HG4xxhCdKRk5bfPA97N7nXxLPJydmAJYGpmyg702wTNuXHVFio8FElTzEgbxr7dSKZ2In2g9SmQiousjKq09QKL2o2Nn5QfLa4Rz0bIUrHNUP4tGLtxweTdX72MrPgk7kBRr4ZF2AQXPZhrNq9JHvXTBLTRmZdY-ahhCKyemDAfjdsTSfThn3tuaitHY-ZGX4t7-dDgay-N_fxJMGFSV0gpLoNPj8d_Jq4DOEqTGShKxOUJY6PY0swfE7S1XS",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116019835103341565317\">William Leung</a>"
+      ],
+      "photo_reference": "ATKogpcmSwScgqDgZDbs_qnasFEw711XQ8bpXFf9VaYAz57MPd9D1GMVgGVTuSLHeiTnoQQJPM2esueXsXZ93IrRT5TNp1HkVgxXfbmKXUysq5MK0uQ-nezFXKc6-mNOvkPEY2hoNkP46cO_jM9PcwaHDdo6_RNnUZkZNai1vAQhcaDP2AkXisTqmrgkXXuiD7HMYAuJjF3_6LvVyl2XvsxO7_hUpQIUpIA6F7xepnMUcM14DAJKqesli_npWfwCWnKh3lZH8LMAJtf8y0mkK23lRotHoU2ANdGvHsnI7TfFpzt_ibzkNKoILxdjqGRv4E5nopT_Xh0tmA5SITYx1PbWaqca0M01etnUkoCi8A-KFH9HvBtoSU0aV9jtexi_ltkgkPLrTgrou8tS0X0_Kt5biLGEj4MY_IDxgAIV48GZoJY4gpfe",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJOYze16pZwokRG9GTU_NvhGM",
+  "plus_code": {
+    "compound_code": "Q237+XJ New York, NY, USA",
+    "global_code": "87G8Q237+XJ"
+  },
+  "price_level": 2,
+  "rating": 4.3,
+  "reference": "ChIJOYze16pZwokRG9GTU_NvhGM",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Shiki",
+      "author_url": "https://www.google.com/maps/contrib/101473339771016440044/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXe60i8i-L6cx2MO0kRUkFalnbF7tRc3ZlQkxd8-vqsyih-k00=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "First meal in NYC. Waited for 5 minutes and sat on a bar table on Sunday night. Recommend Washu beef sukiyaki nabe (added a onsen tamago), Katsu toji with chicken, and beef potato croquette. All of them are tasty, and I feel it worthwhile to add rice to make it a set (really good Japanese rice). Paid 90 (before tax and tip) for 2 people, but in general I feel it a bit pricey though (but maybe that\u2019s reasonable price on time square\u2026 I\u2019m not sure) No one added water to our table so I feel the service could be improved.",
+      "time": 1750035833,
+      "translated": false
+    },
+    {
+      "author_name": "Albert K",
+      "author_url": "https://www.google.com/maps/contrib/117024707744357690207/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-MoOgNlix8544rmD-cEcUogdLAUpU65dJIKQi9gQ-3AanVwG5=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Great fish dishes here. Tons of different menus make it a bit confusing but that means more choices.\n\nGood sake options and various smaller dishes.\n\nMiso fish was my choice and a great one.",
+      "time": 1745688168,
+      "translated": false
+    },
+    {
+      "author_name": "ESB NYC",
+      "author_url": "https://www.google.com/maps/contrib/115996293163942386176/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWiJiq7TG8JcU4cBLrTn7hCOqxLqxabpnOSc5zRJzXQQAQOdCIS9Q=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "First visit to this location, usually going to the Chelsea branch. As usual, good quality Japanese food at pretty good prices and good service in a pleasant spot, convenient to the theater district. Recommend!",
+      "time": 1745508989,
+      "translated": false
+    },
+    {
+      "author_name": "Jean Ng",
+      "author_url": "https://www.google.com/maps/contrib/108401108086782721017/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW4X7JY1LytqjBAo8Y-YTYwe3t6LwtpcCM5vXE2tl8MTt1LRjSa=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "We enjoyed the tasty food every time we visit any Ootoya. I do wished the grated yam could be a little more than just a dollop on top the rice.\n\nA good choice for pre show dinner if looking for good Japanese food.",
+      "time": 1741207241,
+      "translated": false
+    },
+    {
+      "author_name": "Shako Liu",
+      "author_url": "https://www.google.com/maps/contrib/106763204251571207713/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXry5wUg-IJoYYBKX2Nr6GgtU5tq9Qqaj3erndOzDJh0W4RCUpx=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "I really enjoyed the authentic Japanese style of set piece and you can create your own combo! I got a salmon set piece and it\u2019s so delicious, light and comforting! The seaweed rice is utmost delicious!\ud83e\udd24 The best part is its affordability given it\u2019s in Times Square! \ud83d\udc4d\ud83c\udffc",
+      "time": 1746973035,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "food",
+    "establishment",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=7170979597550604571",
+  "user_ratings_total": 1838,
+  "utc_offset": -240,
+  "vicinity": "141 W 41st St, New York",
+  "website": "http://ootoya.us/"
+}

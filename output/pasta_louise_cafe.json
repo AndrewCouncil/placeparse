@@ -1,0 +1,451 @@
+{
+  "address_components": [
+    {
+      "long_name": "803",
+      "short_name": "803",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "8th Avenue",
+      "short_name": "8th Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Park Slope",
+      "short_name": "Park Slope",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "sublocality",
+        "political",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11215",
+      "short_name": "11215",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">803 8th Ave</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11215</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Neighborhood joint serving homemade pasta & sandwiches in an unfussy space with outdoor seating."
+  },
+  "formatted_address": "803 8th Ave, Brooklyn, NY 11215, USA",
+  "formatted_phone_number": "(347) 725-3883",
+  "geometry": {
+    "location": {
+      "lat": 40.6661917,
+      "lng": -73.9786183
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.6675830302915,
+        "lng": -73.97735741970848
+      },
+      "southwest": {
+        "lat": 40.6648850697085,
+        "lng": -73.9800553802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 347-725-3883",
+  "name": "Pasta Louise Cafe",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 902,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114566223502529646680\">Pasta Louise Cafe</a>"
+      ],
+      "photo_reference": "ATKogpfIplxMOLm0m26XoMk6H5EGLiJFWaI3L-XQR5aLhnwzE3_QGBgDWUPbWjZZJXAXir4ayMQgvg2NJx3HyMeMrciP1y9r-hcN6aNKl5677h7s7VWELkZTnrWo3Sov06pEu1ku7eagxfyyC19FDHgbXsmfFUiOY2HnG3H1BWCqkyfCTdV7AYTXzEaFsk0V2pWgFKo0xZ2WGWeIYltdsquvEUdBz7tEHuvKqfZ7PeHYfzMBO4tJT7ibX3QmMaw8gBklFOdegbKy1xRpjJagD8F-p21a_TVYKndqaPWDwa1fAsgZnw",
+      "width": 1198
+    },
+    {
+      "height": 2000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114566223502529646680\">Pasta Louise Cafe</a>"
+      ],
+      "photo_reference": "ATKogpfa-m84m1jL9qkHpZzGoejRIHcjAWyHVxkHa_wxRjRtBTPpj9m6Ea8Pzhh8uULuIoTt8OuIsoFskGeSK438BmdVVg-nNlhQgwSjfWoBQ1M67m0VAsxTxo0B3ojC8Rpd3Nyf2RhWAEwEChlKOqe5X8rCimh-uWgXTggpXm8k8YZtm8MUUbFY_HLPRD39bS3DH5YJNA7xJZBofEsjff_468uVISqPdruiXvtUEpN1z6wX0v9gfJCmKn8sfPVlFzwjqHYjYoMA04CAd_BiNEhAXLOR7cHczrk5416MLyB0lqsrRw",
+      "width": 3000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114566223502529646680\">Pasta Louise Cafe</a>"
+      ],
+      "photo_reference": "ATKogpegAe12ErZLqbruPGEKoZb6uWoPdsTUxZeTnoiFjucEOH9d-MjQ3gnj5SUaZvWS54hgWcFooBDYxvoySl7VvkLVudaLFOOHHKoE_21QmBGt1mpbk9LbMXowStuYl-jNoPw4mXQiHlUU-_quc9FeSKkuQ0Zjomj1bVhvAz-qnwHX_4FCKVFUeYehgtgCNQqhZ7cw9wvXTWNUDf9NmO21S3N6uFMYB31ACZ_Ob58TJR5sckjsgxF3r9lmkmCtAgA-ixwljUItJAVj3hUrAZYgUAyu_rK5FeCqrQYdSULdTga_Gw",
+      "width": 3024
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101003724716737222955\">Caius</a>"
+      ],
+      "photo_reference": "ATKogpe3Yrm3rnqxS1lY99PdoL-BeqVltG3l6IlCyV7mu_gEFBw4bhCxQ4AWTwby9cWr4UsUAsdm765BOCNjxgomM7L4wx_jOGIQ71zPwQNFyCX_jNajT1OeLM8TB-7obIaU7AgAJ37W7npkCU8uYZ-OzBVmyIG2KaBQyGVihiO-xxXTaNYHEHzdZ3W5x_Zt6GPKFRRCrUFN8s5_28h_F6bFe3qzbSUuiaoL34Xa3hDh1czK53cdIyXqilZCM1VmdkYDbnK_jYCMPU753DFAGCpU0OsFnUXQ-cf9W5m3FDOqswQ64pdU_a2Jg1j4OgKN5zrbVihOTb2Kbsi6xmwQ-7k3r2NM189MkNMFB3cYxnyjo1S6tfUNzQcW0ZJKbibt4xMaTThrOoBjp8BEWlQIYML64cNh3jXMqOj-1C2MilFIjcW2HYw",
+      "width": 3486
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108046868865910231777\">Brandon Scordino</a>"
+      ],
+      "photo_reference": "ATKogpeR3D3yudDoWNv4KYnAUqcBSWG7reTt3AvOycMgHoRCW4QMSI2DtU_TOd30dthpVfRAmAqBY66wF1cegKpqh9CpAnqUwYdS4fDvYqEthiiWZJ0ZGaKK9saoztF8r6ishUrxauMCjdvP2JNmpqhAC8VaIcyg8XF3lf-8JVRjx2U4ZE-cXQShfw4JQ7AX4QR2lqGpY8VbbkCLvBp4gJpoby2WMe7HEnqOHN8NVS6ynCSPYX3JgeGFWXBPXZoHDW3nGVfAOPCipJWZtv9AD63thbXr35UiHpU0Lp-8xynE8xE1Quqvcwo8zsMgSOYquwBi8ZF3M5MaCkNc8QUsbIQ0VAG9MttErY6sAJZLH_vrN5Mwg2xgi-Am0EcKfVd9Uk_CdhghfCeuRNUHVsxe_A06qjHQ_UuWZUb9Cdn9OZpJfiw",
+      "width": 4443
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118164393661270191058\">Shannon Lin</a>"
+      ],
+      "photo_reference": "ATKogpeSocQjNwiJR0M-vtxP07mi4FgvY5EgXoDhqRV0hcSw6b0moUXCjqXebFP6kkzHPt3ufVS9a1yBU91h_Uv-RrtQjly1P7C1NcOGbNE6G8PsR5_rgiUAxAim_uXuL9L0w8hpbNj70LzoVjfHLN_vtd6CSzZGkKhLC3j9wAzIDl9GBOWWwgg-vMba16tiI1EUgzktZJHfysgVfjR-fw2ryuO6ue0ZwfpzZc4-QEQbqr13wtY-nQXfwQK3auDuBv0KUHxb2AK_aj5BUgEz7s7Cn2BfSAO0zYgzza9LFcVziAAeSZINxb3dstf90KeLkRdW4CIczV9xV3lyJeVgBO7CBFTPaldo-hTw_6Zzo3YJI5DCx_Pnza0LVeFYGBK9OO182KBvgHAVfWaXb0L7U3CDVThN2OFKat9IZroMboYhhQSHUp64",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107964348045426997705\">Cathy K</a>"
+      ],
+      "photo_reference": "ATKogpcEO4LHL61rYyGPy37LmKi7GJoO1xjp1SvOFUI9h0h0OV4pG2-u15GuWCy12mkHHUFxfp95kSjjrmxRTDsUXqhZ6E7gpt2-9TvCFXJqQifpHDxC-TUnsywxZO1zlLepCYmCuowg_CXJSgKuWBOx1jPA0PFxtNZ9ETLCOpFwB6O_0mKjHn3Xs56yElMVBNkFLXsThizW7H806KsQwp8AWQRRhfgLSsqSKzegWob2T2c50_ScAg0lOLS92Z6riRhHpqyB9-JFAg4va2anbHlpFwRHLthAwKcvtk-An8NO852mtDx8B0Oc5KMdgvHFCXD806RkTrFO7zYtjr27kQpIkicnOR6iSu39KD6LZPiZ3ar5kcCT9bcX0oTMduHg4YGtv70GukARtBhprJ03qSfBHju_U3bEZuiCedSo6jcKhFdcNfs",
+      "width": 3024
+    },
+    {
+      "height": 4286,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108046868865910231777\">Brandon Scordino</a>"
+      ],
+      "photo_reference": "ATKogpepRqjLAQVihWOB9TYnX9JRBhmJh7oRaFdkbEgTk8OIQ1kAV9hLXYIdF0rTfU94rbbXNvRfxMV7dn_EAJ8x_p65UEK-t8DwshxplnYasI0h0tMDaHjQwQjoLVStVSwDasMN-LtE55bn3mDhmx9PXx25jVG9ttjMfPkxmLVfWb88G4iQ4tB8pYhkIdGLsCyGa0rxlljLGRAl23yywLkTTx9QiNqqLC-QgL_zP0ffCTj8XE5uZDdlaplHs_3mjFOh8ku7yp0sQGFn7Qn6hxZ-bfwNKwlwLlBgPt-Q_Sz3s18sZZ2-exFfwYKAuRc5ls5TxxkCgIAAcg8dxhEm_dDD4tWjK3SEkVP4iE4WtgOpNq06_oVavjB9L9c4a9uVgU8BEW1hwbI_yRM8T6XJwlwOHHb3-5zgB3JS1F3rB5piis9dNdKa",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108994516710989498466\">perle75nyc</a>"
+      ],
+      "photo_reference": "ATKogpc6mBKRL7Gr5XFXgNJ0Pi-te1w0gNq5xVTc71FLQ6HIIy14rnl--L7yLg0Q6Kld1yT4k3m53VQ3lrUFx3VIMMqTFcBWv8GL1GBDPA38yGQiRH6-JrN777smRWllJYmt9pAwXv6fXf7O7snj21zhV953gzzTkCUBCdpKf2gjSl6I2qLZIYe99zQD9m3CaqY-dUbYPSqQkEtdzNOJ80G0-Gqc4rGdnXqWCkQVmnRgnIth2fYg8gCxzIjymfhgKVLpihSz_MNP5Fzs3oMz0yrSuzWlJ8j_YgDYprNMXC4mkpe1egsjRXvzLf_IfSL1OeKhV6JOrWpnypHlpJwufbR-T9aH18KK97EM0uxkq8JHZJbCpTpwaJM49RU_F7PCYCruVynB1pR6mXtOap_f7hDIuHZNPnROqzmFlWelUzcXiqATdfZa",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107798109483846244209\">Sandra Bruening</a>"
+      ],
+      "photo_reference": "ATKogpefEELUwNdodIKaR5Uge3lxj1vimhYGa7i3s2UmQWpDF9jXsOrXxpmmOIRCiivt4dCGXc_U3YwhqdUX8jvLgDA80nxH2zM_ZGsq32G-KCQr-nkjaomf99L1lklmPBFvUHe6Szgrl5r7S4r1d0d44triJ1nq4dSytr7l-NwET18IajGXh_O53wwK8UDoIuTGRTET2XXXEb8z70maflE1G7lFTeKU4CYr12lDhoo3ts2x-QGtnrYcEBVN9_O51P1cya4rTfyuuNt4RAN4AMPwfAvq8rYo2wTLRCG-0BhXzgHBHMFCUUIRAyOZUPAr4CaLwFAo9W6SJfTVd9LtNbXo0nAjbiK-bjchzMrvrpHzB0FVVVN34C2WkKSNOKtyjxxEeDjhxcUfXEPlmFgogFT9lI6WNX0g9ayDsWruhmYc93RPxQ",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJUT2KUtFbwokRql5GDwF2rq8",
+  "plus_code": {
+    "compound_code": "M28C+FH Brooklyn, NY, USA",
+    "global_code": "87G8M28C+FH"
+  },
+  "rating": 4.4,
+  "reference": "ChIJUT2KUtFbwokRql5GDwF2rq8",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Nick Jensen",
+      "author_url": "https://www.google.com/maps/contrib/107538412936077315336/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJOaTJoUcv1BLAIFkvVVAy5cWEXW_xEmxiiMb-dhi1eBN-sRPk=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Amazing pasta. One of the best new additions to Park Slope. The cafe is for take out mostly, but the Restaurant is a few blocks down on 8th Ave and Bar Louise is also close by on 7th Ave. My recs: cacio e pepe, spicy red pesto, mac n cheese, old school grilled cheese.",
+      "time": 1739225324,
+      "translated": false
+    },
+    {
+      "author_name": "O",
+      "author_url": "https://www.google.com/maps/contrib/113848896843951887051/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLRqiGOQNvcS75xCgEaly7PokH1PgMF2ipAqAoaFwfUODIIZg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "6 months ago",
+      "text": "I want to give this place another try because this go round didn\u2019t thrill me. I ordered delivery on a busy weekend which might have been the issue. The pasta bolognese (with added whipped ricotta) had the perfect homemade noodle texture, but the sauce was weirdly lacking in meat or any kind of texture/filling for a bolognese sauce. The Roman sandwich\u2019s fillings were amazing but the bread was so hard and crumbly it was hard to actually eat it as a sandwich. If I\u2019m honest I just ate the fillings with my bare hands like an animal because the bread was so intolerable. Would like to try it again.",
+      "time": 1734574530,
+      "translated": false
+    },
+    {
+      "author_name": "Alina Quintero",
+      "author_url": "https://www.google.com/maps/contrib/108057659221417978975/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVxU_P31XpLNnmHcMPtJjWV2atnN_ojfyKylK_CjfzCNAmvzHY=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "I look forward to every visit to NYC just to come back to Pasta Louise!\n\nAs always, the food today was absolutely exquisite, and the coffee martini was perfection. This restaurant consistently delivers when it comes to flavors and quality.\n\nHowever, I have to mention that our waiter chewing gum while talking to us was a major turnoff. It's unprofessional and a bit off-putting, especially in such a lovely dining setting.\n\nThat said, this one hiccup won\u2019t stop me from returning. Pasta Louise remains a must-visit on every trip to NYC!",
+      "time": 1733611218,
+      "translated": false
+    },
+    {
+      "author_name": "Brandon Scordino",
+      "author_url": "https://www.google.com/maps/contrib/108046868865910231777/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxdOWhGFw3Uu3D8xdaUyRC_QYu_UMj-q_o3MHPapzw4FRMm7eU5A=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "\"... Oh my goodness!\" THIS IS AMAZING!\nWow is this some special food. I can't thank our hosts enough for taking us to Pasta Louise.\n\nThis is one of those places where the menu fits easily on one page because they are laser focused on perfection of a few dishes instead of a large offering.\n\nBoth the red and white sauces are amazingly fresh and crafted to perfection. Obviously the pasta is handmade and melts in the mouth.\n\nDo NOT miss the Ricotta Toast appetizer.",
+      "time": 1628896378,
+      "translated": false
+    },
+    {
+      "author_name": "Ash KS",
+      "author_url": "https://www.google.com/maps/contrib/115890047933366230569/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPPV7jdGCCil96OyhQhZ2dSWT_Arqgaw2osw5mfk969E_yHw=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "2 months ago",
+      "text": "20-minute wait for a chicken salad sandwich is wild. I was excited to finally come here but this was super disappointing. The sandwich itself was very good, but I specifically ordered the chicken salad assuming it would the quickest option to make on the menu. I\u2019m not sure if they forgot to make it or what took so long, considering there were no other customers dining in and waiting for lunch. (For context, only a few other customers were there with cafe drinks only, no numbers on their dining tables for lunch.)",
+      "time": 1743803601,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "food",
+    "restaurant",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=12659185349508357802",
+  "user_ratings_total": 539,
+  "utc_offset": -240,
+  "vicinity": "803 8th Ave, Brooklyn",
+  "website": "https://www.pastalouise.com/"
+}

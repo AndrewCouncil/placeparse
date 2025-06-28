@@ -1,0 +1,429 @@
+{
+  "address_components": [
+    {
+      "long_name": "36",
+      "short_name": "36",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "East 22nd Street",
+      "short_name": "E 22nd St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "political",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10010",
+      "short_name": "10010",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">36 E 22nd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10010</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 6:00\u2009\u2013\u200911:00\u202fPM",
+      "Wednesday: 6:00\u2009\u2013\u200911:00\u202fPM",
+      "Thursday: 6:00\u2009\u2013\u200911:00\u202fPM",
+      "Friday: 6:00\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 6:00\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 6:00\u2009\u2013\u200911:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Modern eatery for multi-course Korean tasting menus featuring wood-fired dishes."
+  },
+  "formatted_address": "36 E 22nd St, New York, NY 10010, USA",
+  "formatted_phone_number": "(646) 590-1598",
+  "geometry": {
+    "location": {
+      "lat": 40.7396779,
+      "lng": -73.9878514
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.74113408029149,
+        "lng": -73.9864228197085
+      },
+      "southwest": {
+        "lat": 40.7384361197085,
+        "lng": -73.9891207802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 646-590-1598",
+  "name": "Jua",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "day": 0,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 6:00\u2009\u2013\u200911:00\u202fPM",
+      "Wednesday: 6:00\u2009\u2013\u200911:00\u202fPM",
+      "Thursday: 6:00\u2009\u2013\u200911:00\u202fPM",
+      "Friday: 6:00\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 6:00\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 6:00\u2009\u2013\u200911:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1067,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116888732621464964441\">Jua</a>"
+      ],
+      "photo_reference": "ATKogpd4gpt9ZGryx9m3tJr0m8CzBiQo6WEzlVazEZXDFA6zdSOcSgNtJZKNeqXxhMKCjluGhXv95OJr7KQ5CZEQ2aqQhOFSYYchQXSpGcMHZ5wTSJRgXGtMddsAPfdaiAe6uXzHaJvmQPJPX6Bxf0qBbf6dnx8yl1grVr5qrX1jUcb1Vuuv57skwype-t-XxdZI1ooebvEsvGE2gY3HPhub_wbuX0N4eoLtkoloiGrq8vhi2Z7m7wo0A9bOIDMSqr_Rph1dGvUuzsL1L2UesJZpz7-kI7SrgnmX0ZCnS-9aB3KI3A",
+      "width": 1600
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100634688516050568952\">Stephanie Kua</a>"
+      ],
+      "photo_reference": "ATKogpeWAe1ReRD5Z9BlnOK_eYFaU69IeL5ZXIzHlNpQzRu-hSUMscODvfUrlpDSh0c_88TKK5hDoXF8JPNql5v0Q2hnlwr6apcnt5nI90zffIr7Oyq-sqQMVJUQhUU9GHqEXHoQMp-kootb3j1gBSq0ep37Y_fNTVni8uU-ceeRbXNtgCFyP27ee8awurqoNlX9tAyeXja8OwNqhULhcAnArON7JBrentJniUCKlXg6I6INGCXSQDzFHlrye94EmK6IlUzfba3FIRiBhBJLt5V7U6WtQfO_ZTAQONB8Eqb78edlhtilAjufZL12-yUURHdlyqJh_oiNt_y601V5CKElqe5Eo3AJGKowG97ycrf2-DMqGxnZXwLVcIwpI1vTAyiexdItpsXZtCW1VDDspimpeAjwBfJPfcy0t9j1ST0y7r8a5-M",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117567265030972449650\">\ubc15\ud76c\uc740</a>"
+      ],
+      "photo_reference": "ATKogpepFZ48cR9dmDEhcTkDJkVtjEfQRCQNyIo9UpzZaSpuSIV3vgNteFNvSa2bABirFgB4RHT1PX0A4Fae8M6W9d0tZQE-kLZBhM4SvufUUtbqBeChqUZHIkuFB4de0drB1aGFGpZR8Z-WW7evUIoUrOTtM7lR9g_liWDH8bhbB0hNPGF4zZVoXdgg2oj21YRT1IRNFS2Ddtb5E3MpjoXEp6hf-cd60iFIze_0_Aow-mmdTX56FCKeHpw1uCyihjof3nXY4d4Y-xtcciywJpa52Ua7w8Zt9I7k2zz_6M9d3EOOdF58nhv8YLiFABU0et7KPtQiwKGikKD5Ii-jf1JuRK8nT4mS4a6SdgcvujPvO2nv7ASgPjR6hPdcl65tjJDDADwr8Ri8l1IxG1ldjH7N5D5bQvGMwZZQNATITfrLLyAZkqzF5GHOhDvcac46qBH_",
+      "width": 3024
+    },
+    {
+      "height": 3232,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116569811669197802160\">M W</a>"
+      ],
+      "photo_reference": "ATKogpc1PWiOwaFBBJail8fYCKwehRx6RU7ySgiqrc-ms0dBAQSsAO8Wau99vzxWFLhiZj5MsUF3X65X6-OSgVcFXKWKqQZEiYW0m8XB7_S1fPKYEUwmc2EF-EP3DvpJ02gZm6Mt9efAboXd1Tap3traABFohzVnZ0-wokrRl8-tQ2nfjFCabkETy2mFYPZq-mjsMSruLE1LcKCtny2DYUF324fKui7jjD2FbgGWJc10NY1erib_Ne4VT2tVOavsTFHsOAtQGpRafucLJ4dzp60XDbKmnB6P2XPyUH6s0FMX2MPbRq2vTKES86sEs1svFcDGec4q-WoeziNuMe1lPmNXQim8SOUeERtRi3JI7O4Uzxseo-Z74NXs2tnBkjceOtR0NkoBJV0AKlFhF-oVPbqv1vQg40mLLlhapOzkaqS53ILFuA",
+      "width": 2934
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104724097943836795185\">Khoi Pham</a>"
+      ],
+      "photo_reference": "ATKogpebF33csoDoiuwMI1fRax2jwq0UncLbRdKVhWhJ4w-wuMfypFpVbD8--CYT7G-RaeHJ1ln-fsoa0d8ujpEPzqKbFXGXY49lwSVnWiNKF09TbIQ10oSFljTf8dFq5oDBBwuhsdNkxlMu10q-Gr2aYM5e7bzNgO4tmF7TlJMxJY8y8bQB1NWoQ3i3iBJC2plRQM4Qxl_q16mMukupjqE4eBREje3s2vm-xYX_YA8fumDsks4HEnZU9KMs0W1dQrC_MpjxNl3mvRpWFfgy8RW7pJrZd6mUWPMbUDvd2eUA4X0sYkoMFyaYFBlK5Bkr-gfNVJI69ijMN2i0_ekp2Koszh2HhoC7zP8yAQ6p71Uu4fJ7bBZLW_YsqmVOuvIzDeNz5jpliqxYf68mcmo2aG6Fk_bZcytABpxf9oFTZIMLXsQtJw",
+      "width": 3024
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107489844982782951646\">Denis</a>"
+      ],
+      "photo_reference": "ATKogpcOWH2e5Uoqh5glyF0inN6wR2ViTGj83_KReCRpK4NYMM1aGPiVKJfjDO9x_plq0cOiPRR7s4S8wmw2hrY_jTSo5n3HnjUdqd7MuRPF3fqvL62CZ2J9MWQx5MQb50TDABdOU6k0oK9qrSf6Sqy-G91Ud2yavj237TqKWLmIaR2f7X7jxR3-PP-nJ6m7419jTmGbRAwexakODU3DK5_JLGrW9gec6ToFO6N_rKqsC_leOebM97i97MEyfMGIDBY7aaNF1r-EdCq6wYrDuRMZDLbA25QHkM-WdtqHjjbMJhyJejskiqajZr84oa6vi5Nj-ndRqHSN1580PM6IgGilh4kMPRSwR8guIboBlFAXX4MnSRpTIt9YaGnqki7UAAIpvgIZiSnT87-yG51J7pnlrK4vq5GbWM1vAD1Xd6tZXkQ",
+      "width": 3456
+    },
+    {
+      "height": 2540,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115343371569672100379\">Leon So</a>"
+      ],
+      "photo_reference": "ATKogpc6Yz54KUc0wTQIZlMC450PVzZ3rKNKXaxLMJkBQ4uFzxoH6VFOM2f1m4aBbXA2gfetpRA4E-cF7J62S8-3q0TEOJNA3_EQOHMulwe4cbHB3UutagAmuFT1DyhcqJ6x17RaZfY_44-kEJQ-ZH8LfTIZANyvWZ0WEGhz8HcySOOXjzY7_kyq7bAsZzNQCxdLm003njPoLrzrDHhOrCfBvRDQhSgJ79olgdB2XR-SGk7xr-g0r4HwA50SLdeyWrAbfhReKYHvHC_DMSPRoerqpViYiBCjOyNwSBD5vTgl5QJjVx0TvFl7cJlXsX8kdsEjmXHb0-TVj3r_kmvY8tBP4hmgLesq1to54wwzCaAUBqYGbqMxjV9S7bpXV-mH70Lj8IjU4Ppw7AZq5VA0xCUmyZHuovJjlcejCEarMNIgVyycbKM",
+      "width": 3870
+    },
+    {
+      "height": 3510,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109790160948661402196\">Cici Wang</a>"
+      ],
+      "photo_reference": "ATKogpdfP90Hl1PmZjxLyAy6pXGnUaMqumC79uKvwdfjsURyNvrzc_SGZN9QD9Lra7_olYuc2F9dJjn-JLduq6O8sqqsr1Y-eE1eegWIXNYrnG6UtHh8Q2HkQa64F9XK13XFaR1kGvDwDrymnxqg6SgMpLoKs7f9hmQRXfKPLOfPPWXK3tK4bJDlSw-XkA-vBKD5LOExUIyrS04SDg456sRl3TQ8FB6S1lzWEhZM7aEZX2l6E0v_9yTDLirxqNmAPnLy91uL4Cd2Rv2rgfqaEvticyvoBSevJgkuBXogjr-t85z2Q3kS0OlDttaCJ4vcPCfWkP-_fpcq0nQ9BU4qfSDuHFAmv7DF_0nYvfU2aY9J287mQ_9UbV7p-opmg1D554xLhkNzKt8Rnqv9w2tVyPE06Qd7Ymg0Mdyt6dW2gF52WyyHazQM",
+      "width": 4680
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117024707744357690207\">Albert K</a>"
+      ],
+      "photo_reference": "ATKogpcS5P7o7Tt-l1F-QoQ7ilRlXB7ZIia-qkD45tcS-FjQ3pYg-ZpEWT5rVkuaRUo7bhee40GWJmFEtlnEImGiNWvUs8HZGMG5NiCcM6nbfJyBbsOUunSyiwMBHyCBxZEa4skPmzSM6VDB91K3MDeoeJRZNiKCydlPpmkBqgfhPWp2tELZHqVaDS8ppzE3e0Dc_tBvBo6TXpw3mI8WxfKJYDBwD6iQQzRCeGZh-D4PqsvBkCzv9rwrFodHxQ1g5dNO-43RV3w5MqsTb6gxYIJgGEgAcKEMDW5A8UIwtbQdpeIbJ1BcEG1aAKBukjQ_3NCyDX-F40ZVD1sx5rUMdZIgkJpL6iwI8_wiaOo-BSDSeX_LBjHv-XfhWT8oK9UzTMtgikyf8hFKxo6gWE-js1VpD3wpM-dEwMPvzl63HCShx83dWw",
+      "width": 4032
+    },
+    {
+      "height": 683,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111083208698937440012\">Jiyong Jang</a>"
+      ],
+      "photo_reference": "ATKogpezvH3auAuMowX0WSNFdpdoQN5y5vOwkHgytCMsZDovdDDLuvS_Y-85uBOUG5czg3_8IXJ9hUTTVrbo_VxKnk2u8B_VcT2FpFTB6ItNnr1Iz3tgN_LHeFAAPQbhOsO9JWrVz4Kv9WV3nm-swPycMh5yGl5h96BL804NPngB83huEs93y1TjfAPopJmCIx0bAE_TTVSKu1LYuq570PxbeXT4i3jSBT4HrEk_TnZglTgDLWYf3ULAVQ1k0d5qM4AzoktmYuxZk3uI7ZRTrWOWBG4U5oyIJ51UvwMVIAQx8ana5IYSwRghds3wEeX-GeuK8DvwAKeHUc9bMdfcfLu5_4M1gQI9gNaOId55cOmoU6aiGS5kG1g9Pbv-YcbyleHxaNs4I3C1zz0COIzKnegH8IB_HOJU9XojL_icOUv0TYEkwvRn",
+      "width": 1024
+    }
+  ],
+  "place_id": "ChIJfTgbIE9ZwokRdRjFE2OMZN8",
+  "plus_code": {
+    "compound_code": "P2Q6+VV New York, NY, USA",
+    "global_code": "87G8P2Q6+VV"
+  },
+  "price_level": 4,
+  "rating": 4.7,
+  "reference": "ChIJfTgbIE9ZwokRdRjFE2OMZN8",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "\ubc15\ud76c\uc740",
+      "author_url": "https://www.google.com/maps/contrib/117567265030972449650/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8XicN6uBhYIN3WUk2aWrMlv820dfM7zwHpiTPr298FLPAcjQz=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Absolutely phenomenal Korean food! The chef is a true master of seasoning\u2014every dish was perfectly balanced. This place offers a highly creative twist on Korean cuisine using local ingredients in ways I\u2019ve never seen, even in Korea. The vibe is warm and stylish, the price incredibly fair. Truly one of the most memorable meals I\u2019ve had. I wish I could bring this restaurant back home with me!",
+      "time": 1750525795,
+      "translated": false
+    },
+    {
+      "author_name": "Stephanie Proulx",
+      "author_url": "https://www.google.com/maps/contrib/111258352153523036187/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDCNTkjzJE3nddc9w5GbJCFOFWunzCI5pOzCBQU7bLBKm_hWuY2Q=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Was so looking forward to coming here this visit and it was well worth it! I would highly recommend checking this place out! The service was really nice! Each dish was absolutely amazing as well! The only one I didn\u2019t love was the sweet potato donut at the end but it was purely my own taste preference, my husband really liked it! We also did the non alcoholic tasting menu and that was really well done as well! Overall a wonderful experience!",
+      "time": 1749776988,
+      "translated": false
+    },
+    {
+      "author_name": "Jenna Park",
+      "author_url": "https://www.google.com/maps/contrib/101945293537844958960/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWCIbmet2t3f657EGV5-ueE_AQWb0duQKz7YRmWKITkJK5f4DDS=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "A very solid place you can enjoy a decent Korean style course meal also somehow keeps a casual vibe. We enjoyed it a lot with its seasonal changing menus. All the items in the course we can trust, the chefs know what they are doing. All the ingredients and tastes are on point. It's the best place to indulge yourself with a decent Korean course meal at a reasonable price. Definitely worth visiting at least every season.",
+      "time": 1746155379,
+      "translated": false
+    },
+    {
+      "author_name": "James Pipitone",
+      "author_url": "https://www.google.com/maps/contrib/106872833626770495799/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWNHM2pF1sxei9jT__KrFxXjUb5GSeYcDYEI6NuHc2ESKTkrL3r=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "2 months ago",
+      "text": "overall, quite disappointing.\n\nFor starters, the wine pairing was bad. Maybe 2/6 \u201cworked\u201d (if you\u2019d say that) while the remainder didn\u2019t quite make sense. Flavor wise, the wines didn\u2019t expand the experience. Two just barely blended in to the already apparent flavors, while the others didn\u2019t add anything like a wine paring should. For the most part, skip the wine pairing. We both left with an absolute pounding headache.\n\nFood wise, the story of the tasting didn\u2019t make any sense. It was very much \u201cfood put in front of you\u201dvs \u201cexperience the flavor\u201d. I\u2019ve experienced better for less money at this caliber of dining.\n\nService\u2026 very friendly but incoherent. Hard to make out what was being said, wine glasses left all over the table, and again nothing was added to the experience. They simply did a good job at servicing the restaurant, which I could get for half the price at most high quality restaurants.\n\nAtmosphere was dark and cramped. They could do a lot more but didn\u2019t.\n\nThe whole experience was rushed as well. Order after order came with mild explanations.\n\nTo summarize my experience- this is very much a place where you pay high prices, get the food in front of you- and leave.\n\nFor me, at this price point and caliber of expectation- I was hoping for an experience of dining out expansion of which I could only find at Jua then go on to tell the tale\u2026.. which\u2026 I did not.\n\nAgain, for the same caliber of restaurants I could spend less, get more & experience far greater.",
+      "time": 1743826150,
+      "translated": false
+    },
+    {
+      "author_name": "Hee Jeong Kim",
+      "author_url": "https://www.google.com/maps/contrib/114316947146341275328/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL91oBYEhTOuqm3_biD8QoXvfw_m4lzWugYUIIszI0NNvWIBQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "Really loved the experience! My favorites were caviar, sorbet, cod.\nPersonally though the last dessert with sweet potato was too heavy and kinda ruined the perfect ending the sorbet could\u2019ve provided.\nThe atmosphere and service was a bit too casual for its price.",
+      "time": 1743216336,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_dinner": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": true,
+  "takeout": false,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=16097145325290330229",
+  "user_ratings_total": 622,
+  "utc_offset": -240,
+  "vicinity": "36 E 22nd St, New York",
+  "website": "http://www.juanyc.com/",
+  "wheelchair_accessible_entrance": true
+}

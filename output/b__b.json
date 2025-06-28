@@ -1,0 +1,461 @@
+{
+  "address_components": [
+    {
+      "long_name": "165",
+      "short_name": "165",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "West 26th Street",
+      "short_name": "W 26th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10001",
+      "short_name": "10001",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">165 W 26th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10001</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0400"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0400"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0400"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0400"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0400"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0400"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0000",
+          "truncated": true
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0400"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
+      "Tuesday: 10:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
+      "Wednesday: 10:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
+      "Thursday: 10:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
+      "Friday: 10:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
+      "Saturday: 10:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
+      "Sunday: 10:00\u202fPM\u2009\u2013\u20094:00\u202fAM"
+    ]
+  },
+  "delivery": false,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Buffet-style kitchen featuring African eats such as goat & oxtail in a pared-down setting."
+  },
+  "formatted_address": "165 W 26th St, New York, NY 10001, USA",
+  "formatted_phone_number": "(646) 429-8174",
+  "geometry": {
+    "location": {
+      "lat": 40.7459207,
+      "lng": -73.99379429999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7472284302915,
+        "lng": -73.99246431970849
+      },
+      "southwest": {
+        "lat": 40.7445304697085,
+        "lng": -73.99516228029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 646-429-8174",
+  "name": "B & B",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0400"
+        },
+        "open": {
+          "day": 0,
+          "time": "2200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0400"
+        },
+        "open": {
+          "day": 1,
+          "time": "2200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0400"
+        },
+        "open": {
+          "day": 2,
+          "time": "2200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0400"
+        },
+        "open": {
+          "day": 3,
+          "time": "2200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0400"
+        },
+        "open": {
+          "day": 4,
+          "time": "2200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0400"
+        },
+        "open": {
+          "day": 5,
+          "time": "2200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0400"
+        },
+        "open": {
+          "day": 6,
+          "time": "2200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
+      "Tuesday: 10:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
+      "Wednesday: 10:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
+      "Thursday: 10:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
+      "Friday: 10:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
+      "Saturday: 10:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
+      "Sunday: 10:00\u202fPM\u2009\u2013\u20094:00\u202fAM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1152,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104406655361714211619\">B&amp;B Restaurant Corp</a>"
+      ],
+      "photo_reference": "ATKogpeXnrWZJoKiweGrcqbaXE2Fzeny_BGB4n9_Y5dF8nz-qbOQJ5NeOqEKMtvQtDttCo5ochBFoAN4dLcsAeRAWyPv-Z8p7S0w95FnXH2YiF1XHLnMu4WpWgFpm_Fvfy5l2JtHdrSTnXGoKDA6N1YT6dTD6maDOAw_K2yeveKVntOH61OjHuZTJvv3q6RJAUGv9BbOsu_QEKIz5twJuMkzqGI0RDlKm_GSzMxDUjl01utAYOLNxnBodL7HekEnakkRMwD5ZuZlUqK4KgjmyMVdcVJZqaY04Z3TYppyeV75Lu5EsA",
+      "width": 2048
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104230437311910065660\">B &amp; B</a>"
+      ],
+      "photo_reference": "ATKogpd6-wv1Z3xmBTs8HHeItH1Br7xmoNX4uzdZXiWOVXAKEljegYO_JA5W2qH6Jj5yENAUmoHCbck7_Sxj1fAEzLW9N64ly6pDt9E-bsW9-wH_9uspkJa3I95P-5rmZqIWx3_7hlu-NXjyyhn5gtCJUrXB-Fyr8LRbzb2xXqxgv9EBMoW6ntvLQXwqBIwIcvH_peMvW5-BPDpjXyHmJ6sMAZGUem5WWunHiRzw3-5gzGrLHAPzEgrXkSEQq9K0B22-qVUvrAJdSiyoCkb_pwSmS4zg_DQ64EAN6dCjS0Te7AjrzQ",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104230437311910065660\">B &amp; B</a>"
+      ],
+      "photo_reference": "ATKogpd3dYlEoQxLq1zRmA1Kph073Jr2dEu9gZd-qnTxkZizkAOnAUZMDH264DvzOwTLspcMHdmGrXZc8bH6e0AMhHs2lk_SMsE-1TlN1BRrErdhiX0ZtmdeAVjcNiTP_1LFWOH76Q9d8BqWfcczxL-eWQolaQiFN1x5Ge3XLIkzRF2-OpuG30QI5o22cN2_QrM2QdYBGOeFVI-1BfPSj4SsLK8KfWD9U9Jqd-2JbDRCW4JzV2qNyGZrx9kPk5ifx2QYMWfaAVp56WtUg9fEwZHjuAVs2ZNFBC7m8pvjBMLMyu4DUg",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104724097943836795185\">Khoi Pham</a>"
+      ],
+      "photo_reference": "ATKogpdnEdFeVbOj5cn3oamTBRFKA6NiljFd2GS4-jS6cCwpFQse5PFmz3jO4ZjyTSIhIhuM8Sq76vGqbKh6s0Yaao8kyMS1na3H5flCzt_bYdcWAmCHxk1MOrpcV0xNz1YKRiIJiKMa8vONt2mbEyXAcphd9bdXsDB62jLmBFxPq9yCrwTxEF4pJVaIh4YTdQ3D-OvLdNyAItCC2to21cdL2QpFHrMmVX0DNc3sRfOeqVoAJ0KJsl8hzT513Zxkvw9aK5HSuyM6YiSSHI5hmUNfsvQTafXqSkeJ37IR7MURnou8EvLfElddjk-JcyOedt4bkjD9xd7aroSb_eZph1fGN5TMR0crdrzY94rfDrtqNPxktw8mWvIoXSZW4UAoHibdhFeeriv6xxuJ-t1mSrpvh0_DsZiJHqEo0u7MhA4UvHzMJNRF",
+      "width": 3024
+    },
+    {
+      "height": 4624,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109506065469440167959\">Olivier Risse</a>"
+      ],
+      "photo_reference": "ATKogpeys1orydVXlDFnsutJi924seTJ67g2IOz_y64hP0jJvoJh3Jjj6cqTDlWg4VqehlgT9e1jfr5OQCvvHJkYw-2d2V9BOCqP_51BPyA3QoWBuLDh1lCd6Xvk2cGdsrv3GeB0v4c8m93ejm_ZHp6efMlJHU3PfyY_eggUi8JWYB7A4Rc2B3fzn-WRln4cVbrpanFq9QOmZl0EVHpjUU-OeR695DA3lX-EjebT9PVhvgyNG1Fereic04u507mgrdkP6ufrOKa8bEQpaaKeJgjmcag7JhNgD_mVaPzYHcKRdOxV0eGOoJIqSdwwGGOjn3oveaRnjRlkVcVggIFmYLalDB7nf27TCwW9fymnGWFrsVttQaK0RW2u2TvSyvuW6MfZPI054-C0WSaM2lYGHSeMSRa6QnJeI0LR8xsbspX_m4JY4fcP",
+      "width": 3468
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116298934301464371269\">Caden LaMar</a>"
+      ],
+      "photo_reference": "ATKogpf-Oa4_2ok-_hGHHROoGw_hHGL_HKRzclOlpma6Lr16ECE8DdBpuJzKRIUcclIso5HV2tuWPVN-BNVqIsXAsdLsx__3lsTIZXTIqG1gWZDR2wxehTZnawXkeXd4IgZNC9rV9CaGYk3iLsGNRRWbQ_CPIrzQMDnjR1j2YjA7Z3iS2Sio4Y5aG2CpbWMaYRgv7US3OPzUAtov_FDR7SUh9__7t50Dl3wuziEetdPm1gvX-IV7OkPruL0pobTqxyYGYTw6DsLaigRLE4l0NY99G74YUFt7OM7uebyE-F3A7N6HZB3mTEGjyVN0XYibjjAomdbY0IcSGKOwbRiBdMk6XF2TvYIakxugWpDB7wOhY9RXNqo2TJp_D7G1WYiipCk18WnFev0Of2NcLQUAI_9hQ750qjYgcoftBIqa-aBJ0Mfwsw",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113874903375166876242\">Katarina Makmuri</a>"
+      ],
+      "photo_reference": "ATKogpckKM-MtB4yT-0uJNkmi15WkIRsYvQAYTXhCMJxiG8NNLN1IEDwEKk2GkalrmNUvrgSNWPdDX-8EuXuIauzPCRkaV1fdv9huiaLpdClLgXpS_ASnTD9ryv26jMcUHm5Ea9yAZkqHRZqUwm8SFWSeOjQMWdBNqTbH2e53IuQRSiKIA6S2lCZQhiH8Obw15V-GAR721L4dCtTXrTf2iFqF_BlrB0d66z93M3ZXuK5q2bzDBC4IlQgYjE_bs0gL5AK6sfby3eqSxnGp0oh1cfy0_gYUQqaiVYCoF2fEjMFGHaxz_IEsXHnIdNRFjwP6GOHbbfTBiHK1auuA9geBGNB3sLV_nJoBWQRJCggB5GzFDR8PQL9Q4kzqP-rOb07rJHn2aMpkU9J0B8EteyM092MoaCke4UMpbzxPcLCMVRhAxYb1GNX",
+      "width": 3600
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107161817116944092418\">Max P</a>"
+      ],
+      "photo_reference": "ATKogpexWM0z1fBkFAob87z3fcdfF3Qm97LjA0PRFxpxKJivMhcm6OYAg6lHUAEo62YtYi7uMQfFdm8kXe0Gy7RkS8aCjakpngaaCPGAlB1BxZ0jONe87a8Ss0SqOGAiWlRpxtnEjCl6PJIGsqfY1SSY3BNpkLYXF5QbzEXBLOhfq6HeK0QbHV3tjh2xw01LGQ2lASKuy87YpzM_rlBclP9eFro8mYmctmsqFUQ4wmeIxPy7tuNJH5MnrfQx-Mw13imIn03ChmWs8FP3wCHvVSO0eiqjmXumMUtnGKZSi1MhzLfuHGDU_AAaCV5_4SH3gUh5gfEnwMXKu_VGGWLyoc2xsXkACGTpz-4yGbZObAR7pnP6ZbUNcr5dT1uVSVQ0lI1nhHyzn7iKAHYov5R7igHvmPB0p4f624o37wPWDiOVUmpzf9Uu",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115202212088223106988\">CRAZY WORLD</a>"
+      ],
+      "photo_reference": "ATKogpciCLf1DUvuAIZfXgNAdxaNZBFCpBYxxdfdJu0buFv81JdI31OtAjRa72gnmFZ6K0GUY3XxP3kJqQzBmpzDNVHDdFZnQNi1_6pW7d33SGmmoFEu5A4dEanFnWLuPKBTnln6_XIFAVRvoFkKYrXS22D3Ab_HQjgMjKIL2q-678sNUC7-_G6bizD9RVqNPKO4MbRvIqMRrA7Sgl6XOlKMAsAjcgnJiTpZmYQl_3WJBGRJp8hli0Sbg-2CNs1TweGybN-0Z3uPGVME5QJYgn1PHvxfvIQLAgPf3pGtPdT3VYp2FXffwVk6DTScqi9TejzQWQiD6TuBVHoT51TvI9_IBdGombs3yfiqzHCAof5092QlduSlkCf0w8vqhON7lB57CPw1AxpKs43OCqdelH2RsuWMomVzXaXsjmbxhPOVOqvT-zos",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116332314805393239086\">Angel Molina</a>"
+      ],
+      "photo_reference": "ATKogpcVrB0iXNDzfq8mrxZRgFNvkAf4BlaEfYRpeeuxPloyuqn3IOwI__oVwS329kplKylGwAiPYwwYV49lmgnNEPza9-yrjWRU5V8w2eCQA45V81O1C9QKjzVv5GdH58UepSUrOsLIuuvNvAAbYDLemI2hbTnNOO2eIJQYA-rKww3BatMDNIQjCx9vSkX_kNnC00Kt994PB4Njrc__tohOjmXkg6LjZMgbNNPBJ1gMm0Lm-FxSuqQXQnrcV-QwSZxViLjIRInKBtAcTPlRFv7RZTk-VLcKt7OxKzGXgNyL7YfTx_8Ie3sq_tinImrJ5522n-3olm4KheNBf2gwwswphC8yQUjYUh_i8-W5T1IJ-gHH9N3ZPSTOllnDbl995MXWfezctdZZDcGAeDDDEohKPu5hX9qL8SYwkoHCzUXXH1U-2Q",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJ9WbzQ6VZwokRJ_qUroHyl6Y",
+  "plus_code": {
+    "compound_code": "P2W4+9F New York, NY, USA",
+    "global_code": "87G8P2W4+9F"
+  },
+  "price_level": 1,
+  "rating": 4.5,
+  "reference": "ChIJ9WbzQ6VZwokRJ_qUroHyl6Y",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "tia marlque",
+      "author_url": "https://www.google.com/maps/contrib/109681078699607330745/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLHGSOYXzqZzwLrLntdQAjztHnQxUx1LuvTNERxFRaTRHgMfOZN=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "I love this African buffet style restaurant. The food is always fresh, the atmosphere is very welcoming/ warm/ and friendly. The food is always well made, and served/prepped and very clean/neat and always always delicious. I recommend everyone to go and show love and grab a platter/meal\ud83d\udc99 \ud83d\udc9a\ud83d\udc9c I\u2019m a forever customer.",
+      "time": 1742106519,
+      "translated": false
+    },
+    {
+      "author_name": "Katarina Makmuri",
+      "author_url": "https://www.google.com/maps/contrib/113874903375166876242/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9zglDeQwgejjLoFbLpNwHyFD7AC3DJ5DrEEO4_6pcVtZkeU3cGA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "African buffet paradise! There\u2019s no place like this on the west coast. So many protein, veg, and carb choices, there were like 30 dishes available. My favorite dish was probably the ceebujen or the okra. They take card.",
+      "time": 1730852224,
+      "translated": false
+    },
+    {
+      "author_name": "Young Bermudez Avila",
+      "author_url": "https://www.google.com/maps/contrib/109010697293150082011/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVs7zxTVpJqw1qFf4gM0GgKC1jGQvdO4eH1g98EJMKVF1nmzTSR7w=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "SORRY FOR THE HALF EATEN PLATES. BUT O HAD TO STOP MID WAY TO GIVE A REVIEW. THE LADY IN THE FRONT WAS NICE ENOUGH TO HELP US PICK OUT THE FOOD. SHE SHOWED US WHAT WAS WHAT. THE FISH JOLLOF? ASTONISHING. FLAVORFUL. NOT OILY. AMAZING.\n\nFUFU AND THE TOMATO BASE SOUP. AMAZINGGGG.\n\nIM HONDURAN AND MY WIFE IS DOMINICAN BUT LET ME TELL YOU, WE ARE SO GLAD WE EXPANDED OUR TASTE BUDS\u2764\ufe0f\n\n& 27$ FOR EVERYTHING. CANT BEAT THAT.",
+      "time": 1730310836,
+      "translated": false
+    },
+    {
+      "author_name": "Khoi Pham",
+      "author_url": "https://www.google.com/maps/contrib/104724097943836795185/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3Dc8QVwAYF_rZSlR5f98ZG3U3qZNZbv8AH3RVHDgdQ65V2Z7l3A=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "What a hidden gem. This place hits the spot. So much variety. It's pretty much you pay for the weight of the dishes you pick. Perfect for any moment, especially for late night snacks.",
+      "time": 1726934385,
+      "translated": false
+    },
+    {
+      "author_name": "J. Oshodi",
+      "author_url": "https://www.google.com/maps/contrib/114940597278839080967/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWM5YOv6h4toos6N32OsGul80WDKscNDmU5X-AEA6HVLGsMSo2x=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "The best African Restaurant I have EVER visited!!! I made it a point to come back here after my first visit last year.\n\nThe food choices are  FANTASTIC, the taste is divine and the price (for a New York restaurant) is unbelievably cheap!!\n\nIt's simply the best, I recommend any and everyone to go check this hidden gem out.",
+      "time": 1678566030,
+      "translated": false
+    }
+  ],
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12004329970573048359",
+  "user_ratings_total": 410,
+  "utc_offset": -240,
+  "vicinity": "165 W 26th St, New York"
+}

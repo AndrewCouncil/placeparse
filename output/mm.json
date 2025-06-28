@@ -1,0 +1,401 @@
+{
+  "address_components": [
+    {
+      "long_name": "70",
+      "short_name": "70",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Forsyth Street",
+      "short_name": "Forsyth St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10002",
+      "short_name": "10002",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "5149",
+      "short_name": "5149",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">70 Forsyth St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002-5149</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1545"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1545"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:00\u2009\u2013\u20098:30\u202fPM",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: 5:00\u2009\u2013\u20098:30\u202fPM",
+      "Friday: 5:00\u2009\u2013\u20098:30\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u20093:45\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20093:45\u202fPM"
+    ]
+  },
+  "dine_in": true,
+  "formatted_address": "70 Forsyth St, New York, NY 10002, USA",
+  "geometry": {
+    "location": {
+      "lat": 40.7170509,
+      "lng": -73.9932757
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.71843228029149,
+        "lng": -73.9920380697085
+      },
+      "southwest": {
+        "lat": 40.7157343197085,
+        "lng": -73.9947360302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "name": "M\u1eafm",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1545"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2030"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2030"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2030"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1545"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:00\u2009\u2013\u20098:30\u202fPM",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: 5:00\u2009\u2013\u20098:30\u202fPM",
+      "Friday: 5:00\u2009\u2013\u20098:30\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u20093:45\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20093:45\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111149949805998930468\">N Bun</a>"
+      ],
+      "photo_reference": "ATKogpfHkzkkFtHSynxKASbDUZ-ep4pwVtejQyUoBgfkZ6S4F2CVUnkpuY3lzEJB_ypH8vItgpvfBU_jzcKMzdn1Q_a8msSTUsOmSnzi8aulak-3d2su1UFqa39LjSZvv1-y432tvghULVhzh8K_xXQywMmWvo_PTltQRzmGNMkyTvTFeEyPUYoxK6_fCcMMhfY3-r96GYoEsIc-Ko_iIuLFVjauCE68oNm6PjFTBgsLYskFWMt1kAMfDvjtE-PdYvwgyPGETV7zhyt_dRcSlezmoxIvY9qqMfGanAloPL0-90kgnr5b-U1zM_54KTwYPm__uCZrXMLYaqRhK4YL7XGASnMrjFDbwlGl4-NsCfh6yNlY-seJsTS4-qPNr9XdqjLhKlw_3fvW2RMS1NU5kpedsCXB__9nEXyRGSIrHWH0Amo",
+      "width": 3600
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100859589964103922204\">Nat T.</a>"
+      ],
+      "photo_reference": "ATKogpdqaCeC4D4RyYDaXdks377kxr25EPADzDV8bvxuJpsEP9M3yDPZAjzL_2U8kmWhqEJRqHTPO2Bf2oRF6SDlneusObJ1bprc0WkgV93fwdBdS2rtvIgPulnubwbX5tnAPv9T0EhH6bRmDRHqQRLWhc5i-EAhu7TgY7gGY5tYj5ABR7TnKUflv819U2IE9CL7b8vkY-zsAFJvH2IkB_ktJXLnVYJtNBKrUGAG1dufa9WKINcwsf2Da97IhlngQ58onMAJCjGHdnk4YGWFna54mEF5Z2ltBxUFJ1-JgaRNHgJlxy5dtQzjT0wYVDf73iCWNr5ottGmc4aJBvrJ8-9gZ-i1xfSEMMF61eumhnegdVYsRf9CtYcS3GicXHUrr5y-v8JRaul1eW3DOANXQqodFWTfxkBAUpKpQZqohxbmKYPFGD7wEk-1h2_fRSKyYlrE",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107622784872760966880\">Sterling Hitchcock</a>"
+      ],
+      "photo_reference": "ATKogpfBgj_F8Xmb4UlDhCkSzfXSff68vlNaiMRatOz6q87w1X75a_Pm3igIc7O6JwI8VnVDaV8FDDY6qa3EX92pBOa4NUjg2GfKCINSnP0JFOONTr5VP3bt4FB-uXjyn4MbMkB7rc98Vpdq0-tZyyKSqPBeTjjOesr04cyy5c7mk-JyUul7zgzsK59Yg9cV5JwxZ5ghoevm91H6SPltA8uXwl96etGUgNebRFDjWGZuRsNrji1zNnMTRffVNieDBtL1RvWr7KQd8X_gwFVsx7MAjGOllgScCG8zobtMfFsWhUVsv-HUxwgOIhmqUziWoljLoxOFJaLiV0jHYxi73qDGApPkItfWCT946oPlEDymnA0BJoyayAUhwPTUHJf0xSmEyHtBZvYR5jb_tVlHSJxbTpTSn2An7ESorPJERmTiX9s",
+      "width": 4032
+    },
+    {
+      "height": 3248,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114899779435339545879\">vu nguyen</a>"
+      ],
+      "photo_reference": "ATKogpf5EWXMDDgoXTS1rcQuZ22aCe1ZHJ3F7SkSxQe1V-ej-y_kGIWFbXDf7C4K_YoAUIiInD0S6GOMqSdnWR-8SCbRjf62MYix6wvmst5oUeZxRGTSFFEndLlAmOYNshONueSU8w6bDQ2SSbVSn1nVBopdRF8DuCDVGc02xC1o7lRlwl1im5dV02WpM7e6SfLa470QmcBXv_8WmExclCGfGoBkokgdKMXpIeA5023K40MEuDO6Wh6WExZPzdPsvYUp7VmIo9D1h_tbVdAApBhlsGx6HTDQwjky0a64sopBmGZEg6FfoI84UY5RLjzMkRQQA1r31uMJYi1vWEaMIVkvzu94d7ScQ3rtamzV99zzsAJ1Rx1OxIUSdP84xvE9x81grlFdCSwHZNLPykpP3nUghRNLoXA6usTVvpGTBsKR5WUoAtac",
+      "width": 2791
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103521079678024458298\">Rovik Robert</a>"
+      ],
+      "photo_reference": "ATKogpfqo7Zf0x6y3bjsl8X9jnQ0JNNldScrjk3oH9O6w8u5Jua4NuFZVaa0QkcYlwBJ_bfHJtbi4QOjoAHJuFEX0_cvCCw1UdfRwUFyyyZXHTKW3gbLlmUgjdOiKBvsUa4c35DSgGaM0YmuwdfFTgYMFg7F9VdUGu7wtdydWy4ui1J08T4uWCxuC00V1TxRId4jKNUxSTWuKV2ju7otKgg8XfE5Ig7xvkronRgdxAQI7_f0mRAhgcaPMA3c2CzIXrEwtQpdNDg-2LeQK5qK77MDH-JT7jWJrVbjtNpokxel7uSoKdw-iZCBX56zx75l5oJ4jCRMB1oGvcA6hVyIc7ELXints13hqsQGGIWgpBvjL4ZOGh5tUrS7njTehw7QDa_JR0VmLK917OCNzaasxGq0JZLuSGEhLLJBBZvKyZvNqDc5JA",
+      "width": 3600
+    },
+    {
+      "height": 2716,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105875802779833263149\">Lan Tran</a>"
+      ],
+      "photo_reference": "ATKogpczhQTWb67o2is63yfNexG_PwT4JICmfMSQ87SlAOw7ooZY9jox_37x8UBXFLR3hevvHGhGYyEGHNzfSR9XYeVaujll-emB_W_Y4vdCUtVQ0z-FGpBDEVjwwaLdQag8zcSIBU4GLlVqpW6mwagrJflnCGgNEqsixQk6KY0ojxGX2YMECPmXtDBF7xks-VM-LoSpUKOnVJp_24JUmgNMuuTNBwxruIdt5RdsItV84PqUhM9hTyInIxbC25A9lw-lCu8CRHhz8GH5NjZdwTQthAGmXCYHpBSUl6YQlctT9z6DBhmbx20wuDQA_UULUnYLbMtO4Q7l6KGjachmkyzGE0zlBUHu_PrZ2bgIV0gB-XzZPthY7p6bX8FG-jMG4WR74__9iXFOP-F-laMa1Njuo3l5-g4Efrv6ltyIqhKqWFqtg903",
+      "width": 3696
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112097188007163582187\">Chris Liu</a>"
+      ],
+      "photo_reference": "ATKogpdBtk0WAf06Ssz1SV2ogTnXjkHDyf6ofhyA2QRNFLbW5MbZJF2aQU2yiWUPOmntz4RN_3hSUr3X1mSq1Od2RsSA_Px-Soz4h27wVjc3mc5yNvO-ra0Yk02cPbVO_DZ_5nmRkRxWr1w5pcIt5Wqi2conK1NIJJzHv5OT05-w2phrkIste9tcujWBwEyVQQDPPj2RLb0Z5IR6JNCUOcezlmWSZkiTIXtPlMj9Iiee4PIm1fj3yKf59uLKYjNg5rEJq4wdAroPd8U1kcKVrPexPpnJmOE5lo3TmGZG4yQllIFpq1hQSBaV_HIR1D30ETgaMLMMFGoX09ZFFPjKl1bJhDKz-zqtas-mpubsPUqL6I7HB4Uv3-t9qQ_Jv2TbnOuscuShw03wDDQanevFmOc2UfZ-pTzdadFrX7yvzUdiT0lTOmKY5aG4dFRl4tytiWfk",
+      "width": 3024
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100565081105349965909\">Jim Chu</a>"
+      ],
+      "photo_reference": "ATKogpfoVrFhNKJ9wIcOoacae1s54a97SjivJdokSVI4pLkpYv4Je1VNds7X-PdF0oR9L5D--uYrINZB-lfdZIfsVWf7LodGe_r_UHLMHoOV23uBwg9eJ8GEsixvGq8UAQyUo04wzlis8DuEMTsxA3jhf8PPUjeOA7BXxIaU0-Ty8MUAc5zQF-SicLxgsy6sZzg4QqjJm944QmKlWtAYCEUiylBg0kqsLJB_EDOfzHUndLUZ2yjlECzzZVIMRISS7dzs65Epmtd26D6l9-w2VaF8RjZXRweGnj8qrGNdBtZ5y7Y-z_CVm11OkSrsYePSom1X_a5E7vovL8gmX-TuRJCzvslj2jr_JmQk9GIspwzIhDS87bUbPINs6ICTnfPWLG-ATrTbO7Kjuj35p792pwTM-N_ZsEjQKwo8LlOTwWTAlWKxvdA",
+      "width": 4800
+    },
+    {
+      "height": 3411,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116797781873400457076\">Thu Hoang</a>"
+      ],
+      "photo_reference": "ATKogpfkVwCSg2xsulNvcX9Y3ggV6WPKalHXFnrilBuIhrjkzu8kR3dz8QPG4sUjMqDBMRtwZht8j3K3PrYIk6vpPx_vNwyZfn06nxrRPeH9Gqe_IjIIV0fCftDeW1NKugwoln_aiREttqWu_kX1PSeCGo2OwPlJFWimjm8aI2hG7xEuFHrawpauaj50vWwF5Gso0IRHsphixAIPZDHMFj_lmTbUWCYKwDPZSnMYcSnEVDr8saCoaQJeFB7D_6iELSzPDkpU0gE9aQ7D3WkjcDa9cfknCnW6pPp86AlrRGGVzpCyalmOakkOx6ITtiEpk3L6mMT8iOvOejESBK1pJ8IUpXD3tu2A0Z5UYxag_Fiy72b7DhCzo5ITLHXWaFrcCOkcP4S5c9U5SSGo3eMN0Nm24wvACRaIYX1Yw8QA1ZfCFixbelg",
+      "width": 3019
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110238609732423656648\">Anh M Nguyen</a>"
+      ],
+      "photo_reference": "ATKogpfGoQ8K7VjMtUus0r9sVECKrFOZpmkXMSnm2cGzdY_ZaMmv9trhXW3k1RkHwpkBwq2d8wejAyDQ2pVbJSbsjzWqIXEEvicc4EFDYd9S9R2uy8yXIFxI2OLcTRgxd-sXXWb_ync8tlukemE6LVfzJ_DTI0ZFfp5zB1Hm9CcwOxu85TeOBFZMOuNh_USAAfUwEGWUwcpsbVvq3XPeMB_xeoPwe1rUc_W6hM7BpWekW9HD3RgnhOzSZ4baIn6yaDAtKHPMxj5SSyuuyPaZzIuLngQXNdNVkVGxzX5lIenu068Jv8WZZ4AyRpy_4yArOFY0fs43ErjewM5YzhtH70sImJLER1vBjg_VqPiCxnvIjbjn8QNP30ipsnvr8glnPdgfQyWJt8Kt6dX-nfXtFPeof5MBtWUW4UhoV5zrxdjNTCI",
+      "width": 4800
+    }
+  ],
+  "place_id": "ChIJnbRm-4pZwokR7Mj1KC0tlxA",
+  "plus_code": {
+    "compound_code": "P284+RM New York, NY, USA",
+    "global_code": "87G8P284+RM"
+  },
+  "rating": 4.3,
+  "reference": "ChIJnbRm-4pZwokR7Mj1KC0tlxA",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Manu Gomez",
+      "author_url": "https://www.google.com/maps/contrib/105192408001233078208/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVyXMveRraoMQk1aUIn6gUEATOokPkZM5IrHJw57r6B7O24J0cH=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Everything we ordered was so delicious. We got seated quickly (on a Saturday!). The menu is not too extensive, so it\u2019s easy to choose. The sauce with the egg for the eggplant was finger licking good. The enoki were so crispy and perfect. Great summer food. I had been wanting to come here for a while and it did not disappoint.",
+      "time": 1749526755,
+      "translated": false
+    },
+    {
+      "author_name": "Peter Hoang",
+      "author_url": "https://www.google.com/maps/contrib/101631427169285061309/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWos5bQUcdqzsaOboMakWFwns-gMZ4tfWBjR7eH-eOGUzHUYhu6=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "This Vietnamese spot brings serious Saigon street food vibes to NYC \u2014 and nails it. The ambiance instantly transports you with outdoor seating on short plastic stools, which adds a fun and authentic touch that\u2019s rare to find in the city. It\u2019s casual, energetic, and full of character.\n\nThe food? Absolutely on point. Everything was well-seasoned and balanced, with flavors that really pop. The mushroom lettuce wraps were a standout \u2014 fresh, savory, and perfectly textured. The menu\u2019s small plates make it great for sharing, which adds to the social, laid-back feel.\n\nBonus: there\u2019s a cozy wine bar next door that\u2019s ideal for a nightcap after dinner. Altogether, this place delivers a unique and memorable dining experience \u2014 from the food to the setting to the post-dinner plans.",
+      "time": 1750527677,
+      "translated": false
+    },
+    {
+      "author_name": "NX",
+      "author_url": "https://www.google.com/maps/contrib/111070188172615399184/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJvJYV-0aOyga3qCHdMduU-aTA462D5GWHd8F0nCQIAcbsD=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 weeks ago",
+      "text": "This place is NO tips!! How nice. Food and atmosphere are both amazing. A immersive and authentic dining experience as if you\u2019re in Vietnam.\n\nThe tofu and meat platter is great for sharing. A ton of variety of flavors and textures.\n\nThe snail dish is a bit different than I imagined but still delicious. It has a lot of pork mixed in with the snail meat so portion wise is large. The sauce was delicious and I used it to dip other dishes as well.\n\nThe fried prawns were fine but not super memorable. fried to the point that the shells are edible too.",
+      "time": 1748716452,
+      "translated": false
+    },
+    {
+      "author_name": "Grace K",
+      "author_url": "https://www.google.com/maps/contrib/103866745739928563705/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNsYrd6yTJr4F7eHIXTtBRYQU_v4q3SZJDkaiDfnhbuFw3Ns8=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "a week ago",
+      "text": "I had the stuffed snails, clam salad, iced coffee, and the non-vegetarian main platter.\n\nThe clam salad was a recommendation from an employee \u2014 this was my fave dish here! Very fresh tasting. Stuffed snails were also good, with chewy texture and a sauce that complimented it well.\n\nThe main platter is a lot more filling than you would think. I was there with only 1 other friend, so the blood sausage and intestine felt a bit gamey by the time we were finished because there was just a lot of it.\n\nMy friend got the regular iced coffee and I got the vegan one with coconut cream. Both tasted great and the coffee was real strong.\n\nGreat vibes inside especially for warmer months and the service is really chill. I\u2019d love to come back in the winter when they have pho!",
+      "time": 1750355165,
+      "translated": false
+    },
+    {
+      "author_name": "Sterling Hitchcock",
+      "author_url": "https://www.google.com/maps/contrib/107622784872760966880/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXicd_Ehih71NHa4twRCKx-Fu6MGAFyjZa3ClO0WhAiRqQ8V_VJ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "We came for their pho but apparently it\u2019s a winter menu only item. In my opinion, this makes absolutely no sense. Pho is not bound to the winter time. We tried their spring special and it was good, but I definitely need a broth dish. The snails and fried shrimp were good. The outdoor seating is unique and reminds me of Hanoi.",
+      "time": 1745280016,
+      "translated": false
+    }
+  ],
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": true,
+  "types": [
+    "establishment",
+    "food",
+    "restaurant",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=1195473898074130668",
+  "user_ratings_total": 406,
+  "utc_offset": -240,
+  "vicinity": "70 Forsyth St, New York",
+  "website": "https://instagram.com/mam.nyc"
+}

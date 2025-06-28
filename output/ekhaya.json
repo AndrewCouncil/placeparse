@@ -1,0 +1,518 @@
+{
+  "address_components": [
+    {
+      "long_name": "Suite 100",
+      "short_name": "Suite 100",
+      "types": [
+        "subpremise"
+      ]
+    },
+    {
+      "long_name": "406",
+      "short_name": "406",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Blackwell Street",
+      "short_name": "Blackwell St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Bull Durham",
+      "short_name": "Bull Durham",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Durham",
+      "short_name": "Durham",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "Durham County",
+      "short_name": "Durham County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "North Carolina",
+      "short_name": "NC",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "27701",
+      "short_name": "27701",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">406 Blackwell St Suite 100</span>, <span class=\"locality\">Durham</span>, <span class=\"region\">NC</span> <span class=\"postal-code\">27701</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1430"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1400"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1430"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1430"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM"
+    ]
+  },
+  "delivery": false,
+  "dine_in": true,
+  "formatted_address": "406 Blackwell St Suite 100, Durham, NC 27701, USA",
+  "formatted_phone_number": "(919) 381-4128",
+  "geometry": {
+    "location": {
+      "lat": 35.9923679,
+      "lng": -78.9050984
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 35.99363838029149,
+        "lng": -78.9036624197085
+      },
+      "southwest": {
+        "lat": 35.9909404197085,
+        "lng": -78.9063603802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 919-381-4128",
+  "name": "Ekhaya",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1500"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1430"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1400"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1430"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1430"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103820144582133343356\">Ekhaya</a>"
+      ],
+      "photo_reference": "ATKogpfVwuq3SldhaSX-trE1kk92z0nFS0XSeSWPgOYSlFg05KX8bytYD4nNu2Fja5zTaPexHsRRp5XVf0yuHNgOWdrHIAeaGbXS-Pi2_swE6HEV4h7JRBT8feJ2MN7OQ9AdAJhU6ZPYwRo2gZKR2C_q-P-pFKZcgWYr9zO3YgsHv-i4iy_CEdlyPU-noKNLSQipAzJ7B75rnU-m_QPMFMkrLG_cmBH0XvRpq3dklt_azXTosqFrnRVL2wljYU32xdhh-KDLYVmbYUm3FcfAo3a0OuKlDvm2X1qkOBT1i_4b63z3cw",
+      "width": 3200
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103820144582133343356\">Ekhaya</a>"
+      ],
+      "photo_reference": "ATKogpffoCLxxjXXRjyf0jdfSAWymGPvm_ZsPjLeHwMsp3Uo4lfEnH8dkcAHDWq5qQTXijr9wQoeh-FTUhtYhHxtHpwveHK_RM35vk4GDX8KMLAJkIV5ow3rmO3Nr5etfmHSo5Qd2vsuAZksSczOMrMyohIw86JA0H35kILxuZZ7CMcS1HCaoK-tz0sYEPbhkeVZNSmCuR4MzSSqyjhf0SRAhBnbV6BCUcZ41tZ6PXZdOY2hv3KAR9148_KQVosDlb6kC_eyE5l1rlxZG2lMx-1opFSZyX9xif9nDVMimm3DGCGwWg",
+      "width": 4800
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103820144582133343356\">Ekhaya</a>"
+      ],
+      "photo_reference": "ATKogpdi4dcFNDqga3-pVt7HH_aH_FAAgkSWCyvgRWHaBOXryf097vXRfpk8HGrLkypoQDQApdU2Pwat5Fts5DnNp7SDCXJCORvBUSjqMNwwCBebgunCIPzHP-dhLHphrCxWO8WFiS3QTdtlBMqEJ2O3MgX9VvW5zeI4ezXKNIn9R5T2S77SDdxEwv7FnLKdYcULu-wN8LznL3VjMediFhuSRV0m_rvn6B93ER0S5mhuhR12DkmQeTTW2j589UoEXSuDuVjqEbjqm7AD8x5HcyYrpeDBCigtBODAjHARsNj7Si764A",
+      "width": 4800
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114278866367371496118\">Damien Gu</a>"
+      ],
+      "photo_reference": "ATKogpf1trSf9VHFJIdmIJssTkGSE6zQpWF7wiL8BiMTZhpbsGwnrFk0gnCtbbfi-sMKqgC2Ay_B854YqS6rFfzW5kAw8Dj5DC67_Sw45NgTnB0Iqvj9E125yYn6gHgLnOVGo643rCAhU53vC5MJr_RIhVWeO6Am5XrU3SX3WsOpdRA5kdQT-J2zBkBtwahYpBzJt6YbiEUiOkIOJosYmzm9uIfkMbzMnvCGrKjm_DEQq0uRwO-VqlXFxk4A3nM8_VjH6d8E65-8eDTfrK9DXeUpGbAC_5-q9Yom6TdBy7Or2dN-IWK6KPWVRq29VLx1PAdpWjE8VlTy1OcwXWlqcnT-2TE08mxFpevWfdJolSyrq_5e2s2Wrsz_ontP4Gf_fg2xzYJSoBjy0z3ASE_M4aCvjM1d3cB11aa0M_3Z2EVIamADJgIu",
+      "width": 3000
+    },
+    {
+      "height": 1869,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106586543739831706107\">Daniel Perry</a>"
+      ],
+      "photo_reference": "ATKogpcezLcMvJZHwNrCke5V0isgH-B1HMlOHVqwSSNa0Pv2SC8rdsXw6s0H7BIDHBWQ-c53RKifTEXl_JbHb8Ezy7D2KzNJI3ACKa7EB9uy93DG6TOjSW8GABfLbBNQngJNjA0cP5fXITRSXVgw_8_hMABoXWYFr_NPZjXHP_BgwQaVmbP4XHh_BIg8AMLrR5-Wo9RxfVHPQOwjDVnt68K3MN1tJ59NpZN4dtzDP8RswxrJjbses3X1ag7Ux-lW7uWm9fGsMnPpnnPUu3Pqe2G-6LuzoeOqhbrMhsme95TLFrfGMpqYZzUUBUTGIqQiiqX0bW-KRuZeRlL1fK_JIcFa6ChfnOaUptfgmJAB2gFOumXgMmyy3EJ81Nhtg-T_mYkB5BxGqzKJyR5fFlRB_IoZvLDOYjfJMkENmZDb8Oa9dGdIlg",
+      "width": 1682
+    },
+    {
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109777754823422099692\">Michelle Mariea</a>"
+      ],
+      "photo_reference": "ATKogpfaXaYZOcLZwsmTZTEmWcjm9aCZRlPTzpilQRTMYFM_FhQvT3PJICrJuchto6RyYI_mEzKnfcoPM2qWcEzxmImjVth7_8AmHVJYATXW7X-6r4puYgYyOlsApnc9-4pDMGVXzSTl7c55AHFl0TmO-mi7LJWkTZeKw1dFXNdVWYmgRXrLs7fWrHGnjYVwCWy6YHcmt4M31OI-zfqT64ST2J1dZ8b08gabMj85wtktGwpYAK59rJZndtjSmOYslskC_cMsKvS6_Pg2t452bGE_cs5bUUawWJJqu9ExQQdA0oBNc9Q6oU6hOjuslc1gywyWHKwZeWI0GPj6-HwOB7pRc8dggKQ9UEL192BJK7mISDiY3dsRbydjkoq_-TD7Z2DMtL7ukP6UyqsQEPsX_eFDQQaRmvI3ahtK8om_-VVSEFLg1w",
+      "width": 4000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113728713176961450644\">Scott Majure</a>"
+      ],
+      "photo_reference": "ATKogpctkO8KE-1wE6LYYmRHv5AmocabBB7AY2KVEoA-BoQR8v_uUdlV8U6yxKic0jailxzFAzPQ1znVksN_WXT0Ib09Eke_3H0KZiEUMJ91ShPHLAcH7XkyuOS0r0kR-zc1toC8HjWeKGPo3J5rFfKEkIsFKNwENvjqdNsBsHJYJn1RXvJRlcGRQAr2jbdL-JqJ8xHMIy__98A2gwoI0Edj7yO64C5oYu9FMPFCIiwn5ngg_f9eqOfNoBrRqlk2BZWjd_eY5ZaM5nNMYDclqT0mK91cdcN2eJckhMvchvqwPq3k3RUzV0rKGtx_-hASosBniuGCr0OEC-vZyiXv3esvhtCX5ynsVErHFtRrvY8n7k8H2nVM1oSB8vkVPYJ65Dh_z7SjVMhZcTS0Ex2miwZr2Bo_1fn3ETsYc2mPFPuqrgnRkL0",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113728713176961450644\">Scott Majure</a>"
+      ],
+      "photo_reference": "ATKogpfP2rPfKVvPAXOKxDlw-BZLTDds96bXL2Sd9zyaih_AVgjE_3rLw9t4InnXEFQYY8DOMYf-iiKVnYlytZl_K31Xla1vZIqnqYdzJTkWDVg0vXf4bVWm1P3A6G0r4E-Zy2Ph9KvMrHK6ZE6UKdUgG0pogt1MZ50Ht8bCq1Io9vqYqVU5th5EdbrnVt7DLIO1sKr5pnSqur6EbJZK01YFEwcCUBlMA8YkA2azuzp-NJTzH-aRFzgbQc_RfCzGnG7-TIwJkXM-L7nq4YEAfHBQA7Y7rmmWKD8vA5X7kKesmgPrcWg9FXa1WDzVMlyl_XviH5hlJYaYzO4hs-s0mV0OZpivJQ-J-FiHffAk6DFEO8Yo6UsMWQ6laVzaMxFNs47FgJkRUAmhDyUFKLuCVZvSMn1i-1clw_0hiIKW-Bt-jQE",
+      "width": 4032
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100723664679320654962\">Debbie Bishop</a>"
+      ],
+      "photo_reference": "ATKogpedy9VF0CoI8F4tOY6H04mAjpV9OrM57X-2jRJYr7j-zn_yMufP9L4gTcKn2d2ZUyUrDxvN-v_2BRGYq9Wv5v5fcb2QTCqNKPjlvqHGCmFClKm6g5xP26cQVa6eGUqkrislOAXsZ-7TwaV_ydBu4ZDpITFlJulvVT1v0r3sbSyXEz1tbzdOKtuJDsuON0ku8egzxNnBkmK-_lpVCKWfBagFKX-uy4frIYBCeKEh0oeWYWWIZVhJ7BmaLJo1DdjaTGXrqr9ud6ksXAXk04PlEjxrQKsRfS1yqis0J3cVtLB-hyTTz58wCm8PwiOm_5Vn3XUJzByWHcZWYlnBm3pRTjI1rVH97zhHjQvC_7_zr3c-eZeM5YOpyYrpKwzXBccxt1exdy_d1nvvleaQ0w3IHezB-emC_pqoxUc5GDswGLm-7pQf",
+      "width": 3000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110385836802592877251\">Kiara Ruth</a>"
+      ],
+      "photo_reference": "ATKogpduFbRhtGJ382UiD70Mfx0cW9wXdKGYEwlkAlaRWn0uy095xenxu8LA4xhJh-hj_s9e4yFnX3Nh7_V8w2u8GIBEsY5VNK-iiBaK_BNdZE9Mdv-RYWVBnXcuSuLlKCcd3Y5lZzmGSKysZAx0RZzXKAgCb3kDaVc1vz9YtoDUn8JEDKTbt5UDeMDw8_6BFXtUiNeNbDIIYvuBZi0MXuKYTURqsVyKZLDxxpdovgFaIsqamF9A-CtxqEm3ubfjN2tOSril3EIPn00QZ-FzBZxKkhiXsCwwpD9j4IaVHVKtxOW1E3F2wi0xVpghV0UJNHH9UR4CSSlKDfdQWcEXWdBJjmOsnD1ZDD-CNMtTktKxZDUyTrHNjk2-FymT14pnkNuzypQ99pMMqkC5CGXgub0i4wMU58YgkerEgzmT89XKPYGoPnqL",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJQdCMCEnlrIkReatrqOC1jek",
+  "plus_code": {
+    "compound_code": "X3RV+WX Durham, NC, USA",
+    "global_code": "8773X3RV+WX"
+  },
+  "rating": 4.5,
+  "reference": "ChIJQdCMCEnlrIkReatrqOC1jek",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "NSA",
+      "author_url": "https://www.google.com/maps/contrib/100593805677606358122/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIvTyOmDgfSib860aCe7C6FD642iFGWrf_m_TqM94t2-L_NvmG=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "4.5\nIn short Delicious food at smaller portions for the price..\n0.5 for the beignets being not fluffy\nBut shout out for the fries for being super fluffy.\nMy favorite was the chicken with peanuts on top for the brunch men\u00fa\nHeads up you can order only from the brunch or dinner menu\nIt was nice to sit outside on the patio\nReservations are available\nEvery dish was enjoyable, the cauliflower curry was a highlight however",
+      "time": 1744599160,
+      "translated": false
+    },
+    {
+      "author_name": "Zaneta Reid",
+      "author_url": "https://www.google.com/maps/contrib/108966316962480909675/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWTTbZjpbZqUD6ReYnfGDp1K5iLMKIKNtZxCcazSiyFsEshQ-tH=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Modern take on African cuisine.  Tapas-inspired menu. Not a huge menu list, but the offerings are delicious as well as extremely vegetarian/vegan friendly. We enjoyed the Curried Oxtails with plantain in addition to the Seafood Curry. Both dishes were absolutely delicious! Good portion size and well-seasoned. Ekhaya also has a cocktail and wine list to choose from. My husband enjoyed his Tamarind Old-fashioned while their ros\u00e9 was quite nice as well. All in all, one of the nicer restaurants in American Tobacco with cuisine you don't find everywhere!",
+      "time": 1743945912,
+      "translated": false
+    },
+    {
+      "author_name": "Kiara Ruth",
+      "author_url": "https://www.google.com/maps/contrib/110385836802592877251/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrO6n-WEiTBg9j12rIoOHXQtASaKWA_dD8MtLD0hQHcngItd98=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Zweli's Ehkaya delivered an absolutely amazing brunch experience for my family! From the seamless reservation process to the immediate seating in their stunning, authentically Zimbabwean-inspired space, everything was top-notch.\n\nOur server, Nia, was a gem \u2013 incredibly knowledgeable and her recommendations were spot on. Here is what we enjoyed:\n\nSweet Magwinyas $10.00\nZimbabwean donut bread with powered sugar\n\nFrench Toast $18.00\nBanana\u2019s foster\u2019s with candied pistachios and a honey ricotta cream\n\nFried Catfish $19.00\nStone ground grits with a cajun sauce, and egg your way\n\nEach Addition $5.00\nBacon, Two Eggs\n\nBanana Mojito $12.00\nBanana Rum, garnished with mint sprig and lime wheel\n\nPeargingertini $17.00\nPear vodka, pear, and ginger mash topped with cava\n\nBeyond the exceptional food and drinks, the restaurant was impeccably clean and well-maintained, and the nearby parking deck was a definite plus. We can't wait for our next visit to Ehkaya's!",
+      "time": 1745253642,
+      "translated": false
+    },
+    {
+      "author_name": "Scott Majure",
+      "author_url": "https://www.google.com/maps/contrib/113728713176961450644/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUOUUZEwqc53FuSmr4P-MBeem6aaQ7AcnYFewTAgfO3XPuEZCQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Before heading to an event at DPAC, my wife made us reservations at this restaurant, and I have to say, it was an excellent choice! From the moment we sat down, we were excited to explore the unique and flavorful offerings on the menu\u2014and it did not disappoint.\n\nOpting for small plates was the perfect decision, as it allowed us to sample a variety of dishes without feeling overly full. One of the standout dishes for me was the Dovi Cauliflower\u2014tender cauliflower smothered in a rich and velvety peanut and coconut curry sauce. The combination of flavors was both bold and comforting, making every bite an absolute delight.\n\nAnother intriguing dish we tried was the Bobotie, a South African-inspired minced beef dish topped with a delicate egg souffl\u00e9. The interplay of sweet and savory, with hints of cinnamon, curry, and raisins, made for a truly unique and memorable bite. My wife\u2019s favorite was the butternut fritters, which were perfectly crisp on the outside, soft on the inside, and had just the right touch of sweetness.\n\nTo round out the experience, make sure you try some of the specialty cocktails! The drink menu is just as creative as the food, featuring unique flavor combinations that perfectly complement the dishes. Whether you\u2019re into something fruity, bold, or subtly spiced, there\u2019s something for everyone.\n\nOverall, this was an amazing dining experience\u2014one that felt adventurous yet incredibly satisfying. If you're looking to step outside the usual flavors and try something refreshingly different, this is definitely the place to go! Highly recommend.",
+      "time": 1740776526,
+      "translated": false
+    },
+    {
+      "author_name": "Kristin McCleave",
+      "author_url": "https://www.google.com/maps/contrib/100508050480967382380/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJpIQ-0iS675Qz_NSkZ8ZuavSVvI6R981OteywBuNCYpboWqQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Had an amazing meal here! Took our kids (15,13,5) after a DPAC show and even those picky eaters loved everything! Everything we tried was truly delicious and will definitely come back for a date night! Highly recommend and such a cool spot to go!",
+      "time": 1743894341,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": false,
+  "types": [
+    "food",
+    "restaurant",
+    "establishment",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=16829307359056341881",
+  "user_ratings_total": 191,
+  "utc_offset": -240,
+  "vicinity": "406 Blackwell St Suite 100, Durham",
+  "website": "https://zwelisekhaya.com/",
+  "wheelchair_accessible_entrance": true
+}

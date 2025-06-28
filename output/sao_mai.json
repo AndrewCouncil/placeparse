@@ -1,0 +1,445 @@
+{
+  "address_components": [
+    {
+      "long_name": "203",
+      "short_name": "203",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "1st Avenue",
+      "short_name": "1st Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10003",
+      "short_name": "10003",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">203 1st Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10003</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "special_days": [
+      {
+        "date": "2025-07-04",
+        "exceptional_hours": true
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Friday: Closed",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM"
+    ]
+  },
+  "delivery": false,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Family-run venue dishing up traditional Vietnamese staples in a down-to-earth setup."
+  },
+  "formatted_address": "203 1st Ave, New York, NY 10003, USA",
+  "formatted_phone_number": "(212) 358-8880",
+  "geometry": {
+    "location": {
+      "lat": 40.7303656,
+      "lng": -73.98350909999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.73167523029149,
+        "lng": -73.9820849197085
+      },
+      "southwest": {
+        "lat": 40.7289772697085,
+        "lng": -73.9847828802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-358-8880",
+  "name": "Sao Mai",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2130"
+        },
+        "open": {
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2130"
+        },
+        "open": {
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2130"
+        },
+        "open": {
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2130"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2130"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2130"
+        },
+        "open": {
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1060,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107081759431075357196\">Marek Rygielski</a>"
+      ],
+      "photo_reference": "ATKogpfGxUpYm4HZsu2BfXLUnBzOYyrrVxEwyKkD0O5ZRSwIXK1IUdvCH4Mig182CkoIQkl730L8WK7RW9CO8_uydLX9VFYdA2K2lRVmb0ft2L0f-0oHIEXjuR0rWBg1L1KtepuGqWVjxrjZETs1dPdtDp4v-BwuqS0fAO1UZvKB__3DDQx7tCmYYCYOoCE9Cvg67gUmFLnBQqgaLazPCHDS2PYOlyxHVpuFYxoCyrBr13CoRRVyZihdSkcP6_iTqU5rnKtDXhhwozyi4Zgszxnyz6KjR2vtvdm89SoHvlJ0gNV4bqGvNzHpvQXvRbnA9roXz_SlnV6l5yitmS_H63ywDFYRt2tC0C6XREXJ4GdWYAu-7VzU9HOTihDgMUAqe9-og56RBVD3UoOt14OgcWyOHOhdGhsWsCn5sEhtxpoUS8-Jzg",
+      "width": 1600
+    },
+    {
+      "height": 2359,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109077783994153270663\">Sao Mai</a>"
+      ],
+      "photo_reference": "ATKogpeMJ8-QNUlpy0mNx7PmzYip7Jvr8xXCYJdXuJ6rcp6sOV1t8jp8O33AwusIZ49mHP0S_OEWPz5il3K8InjcbkPSStQr0Y1x_53dRMI9THb57q1nO94IpAjSb3BeDGonQdbfMaMOFCNm5C0k2UsLVpvwJxHUc59RSXitSldlbNxZP1jR_b0orsehY-x2FOTExuooPiVsjyJn4n7lcB_40Q9M_Z9CRx7o_YtF5qvU4_H-Fb2lrfuDqI-e5gQfMTIDqfXnxI-iLTE2FiqzS6DBXj6ljnautKoN4RlU-U-hgHw",
+      "width": 4192
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105722742348332105562\">jina Moon</a>"
+      ],
+      "photo_reference": "ATKogpewpwLbE4an59aii7CMq7dNyJwkgJpTTg7SPkmtxWVEzuC2OeKjtXo2QosMtYouEZNWDdNh7cxTcJothqwybk6KbORrX0c2zkbMLtsowR6A4-nz854lThlPEDihGINi174j94FP2w_Ve-jpke2C18NNrRFtNvWmQMAnV9IswcYrad42jnpqaj8KsTiPe1PXTEXLTQzyqgrJr-iQIUDPZ3-eEvnVARb1Styaw0ojJYZhXo5YBUEccEEjEqFgyVsOHd5D6gIV9LcQC586eiVjGlO3qpLy9kHYnmTtXHeZnPe2tkUjj_qxChP9z7e1CskWhRdS8P4yN5TC5JTGbdXhiCo5ksw2F6ZhEZE3EBhEQ-1c3nB0hpVS2htV8A0P71tgd3Z8bwc6uLWzh3RVGzOtrgbNHKfdxxVt2VEWYlcbpFWQT6A2SUvPalYYPSdlLVF8",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100578830612260058668\">William Lin</a>"
+      ],
+      "photo_reference": "ATKogpdFjUG87DtpE3m9_Q60jvg0TosohZpm7W8KwA8SllSfpvpOlg9jzqIUmc999ieEy6szemCRNfqtq_q1qCAQPaJp6NXwBn2WumWZAvZSQ0nHF_JJAGDDloxyyo0g3qg6JqcuTUN0YG6BpRiBMAgt3GWxSXcc01gUpF0K_fRKFSyn_V9lqPDl2kDYJXvxMz7R6NqTIJbOZ8ZPtXmsBylp3xZymX6AJUtF35QNtU76ZN8TsIDp8BbvFDdjmd0lwrOnFk79qi7r8JrxQM4ldapeeWOhVc4kJC15Y918PJlUdAeGAcwqSF6T0-oZyHavV1GwqmmOWcR4kPnGUDkyLVSRGncvvkfKc4ZHuCPMXoSsTwzBkWzdlIhFFqjhab4-To0iFFVsCd0_wYmLCww7dISGWU-_zVIBqql8H_lWHP33IeGGDNg",
+      "width": 3024
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107558091680364785640\">tomasz j</a>"
+      ],
+      "photo_reference": "ATKogpdOCrdDx5RHOMN4fWU53ZP4eP-lkAZJbRwZP55bClWGpOaZbhD-LiuDOEoQEuY4PBNEja1bKiXI8CV_3ykOWCTnvGC0Z7vohloplVRhCgm7Q6vFSpbhGpPxe8cqnXRbIdblg0qndt65OrLYTAiS6Z-fRgjzY_U3ytXz7CdaPZ_2xrnXtHW-PFlVnuj5X7IeRy8len2o4-lA_i7tGxTPJte8PbIJc-3l-J08oUW93TAzT8q-NArYLktyx8j_7tjSxt3OShdeRJ7QMXC8Nxf0imJuBryoSOqalzVNZjd27HaSBEnf5tAhY_jj7PQ4CvUSSAgKZ8ExLm0AAcDeI7cwlvKpemo3jETMIwLghVrgaZZqUxjjmaWpuen4S3Ln2iOZW4GUUFzl4yPRNFqymDmwMfsyRd6y4fv3mHZ-BephlDMXneM",
+      "width": 4080
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100578830612260058668\">William Lin</a>"
+      ],
+      "photo_reference": "ATKogpely13zKVJ7Dk_edujxsl4qaMeaUjQ-n7x38nPMoGWbIo3KyCjRnRNwlb0cK0qjKyE9575u2Y2cvmPGzcMOFpj2rK7p5Eb3J6rYfV7SlQjdQ9obI1-fIeSHa_8M7CgJsktNEQneyZLxMBgeR_vmHaiW4pYh-jCKEKXmsN3RjdWyS4ZQLGIc17EXdn90BwXdQFI2-2ZbOSkmd4bl18xVeTmZHGOm0zhwoxdROT1RJDWUznIPVnjazEozF13aYu5psqnFPnmmVN6nq01bHTnLeI7hiRxpCgI7yhpXwjyK0DgnTKD73Jkdj2EQ2YlVw0RI2tG_ybRKKHnh20Oriz8zZxeHrgvv-gCwqrdS0_LNYZUAGOMCVn6zTYtsyN0_mpzbuuKN2CfPg-INCacXh38NHTCT9N_tU38TzHoUAs0on2asf8Cd",
+      "width": 3024
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107558091680364785640\">tomasz j</a>"
+      ],
+      "photo_reference": "ATKogpexULZr8Pq1emWwoXB0MKQor4ks-FPHG748zIfjLoDb5zBjX6XljzXsWTEfiTtUbM8jnOneRhZQvuCn1FKwIAkJWBgQwNY6FYZXsKw6ETc7NjMkN8RkrzJpAHgeGMP0O6oLTzbxYysKwA866UJmzdB4Q7XqqVIC4GN_hYCpm9FJLvWeP0dQmwNdF_D5y4wMEtWirov4gU6kgnbqf3TmGyCReyvnrHa6PSly7qkPGykqF6YtO2jX8d4jVlqInfNAVfUOXMZIppCMYaPMKVpB1h0vSIyMRrUqzVlNJkWSHcKreqrKUxLEP60NLiDroymy51JDFa_9nICka4B_gK4f47bEqcoz2e9rQRJD6lxQat5FDULRYBK73dpiF-Mmbc4Xtk8yO9CXKDyzwUjN11s8Pj0B-xxkTHVUUxW-15leA63OKe4y",
+      "width": 4080
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115731192930500381217\">R Bell</a>"
+      ],
+      "photo_reference": "ATKogpeM20w8JTMfBSNI5RzLyyzFWHWQlhXpB52h_Mbda0xVORtj2bJWCGSlphUAqCX3Rdy6yP7IG62SvWbNDHF_7EUSUP6hW31WBfD6EGshlj6tkEr-eShDzERzwSzfj__sfHlHB4B3ghGzAK3DiFVbMS6U3XMMqDBgpfKATR6fXMso-b51-UqQ72BmZ-daW1T6ZCb8xQDf2YHEO5B6dczply832S2rKv6Qw7PqVsQxB39u81OYGuz7KM8_kvx1xfXec8MkHubWuU1R-h8_lFvzsD3-A14Cfk_9fN8Jdh_piFGl9Qidx70OaM1bn0t2s_sDa1quEsa1-jcyzDnT9asPv4WCpndRJORqZ0xiZBtGBdNWleDlKiYlrp8NDNhXjEXo4kQrVakvhg0t4hfDNMiV1K8mhfdeOdHPkfX7-Id_USQ",
+      "width": 3600
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102524931560918283122\">Daniel Kim</a>"
+      ],
+      "photo_reference": "ATKogpdMc7WFwwfdLR0oFqCjKMrlelqlJ3msKLBN1o4uqMTdJGPJQPQF5zVY48RWd9IsBn3X-JM5JCQDgUPDZ_PrYn2N5UP5z5jtK0OvE7H6bJL1k4BEIAnbrKWmQgDmgTqXbIbKY3In2-T7lGGt1EbJCiY3HvOw8pkZM5ylucYk6nLOKeT80iazAEHZ87fGLo7OVCeby57RDIjfn1ANOH8DYA45bB2zSbbU55VE9_0PXlDiXxi2gguixxjXAWWuiDe4-e71MnM0vifq0ElqMcI72uopAcrONu2x_rR5_G09E9EJzORKhuRopQfQVSB-dkkA4mhAppawsehRtb9Fp1ll_YagMofzfjkUndLOR3OcoaL4fYm-h0y9plVAAbUzKEnigBXN0dwkTzpMHppY1AtgEa9rBVMjs5kibmt__8WddMoERM7X",
+      "width": 3000
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113527879535474168128\">Paulina</a>"
+      ],
+      "photo_reference": "ATKogpf6FzEIn4hJCNdSmf1Y25QDjHIFIjNjZT6QFZo0lTilr8jiIqCCHKVIRTCB2ChViKuxvnBi9_oJHO3s_p0N3sZnhCKNdBoDLsx7dTc9FBfWwJKeJhIdIq8u3mXvv9predqdn_rxOxDIaZOM0XgBBvaJgar4pLNra2QqVizCjKGQoFx32HDrd536wMlVoLPuT20__XS87LM1ksYWjg9oRRW-6-rfSC8cmYW0IjAf704IfgEyRtUbOHqFBOldqX529okoSPbidi125RiFKRdzRDDBNGXSkhyTSbHJ0IC6iRxNY3Gd7LbdpBAdlAxfs4R2QLW04t1X_209NgsfJDUmWhqiXPs5lMUYXYcK0LTNGrn0yIGEt7gC2zkfUCDygLfu6GZ7gHhEIgHEy8-eEufBgiSC2Wm1vIeO_E9Vp1sFljWVC-4",
+      "width": 3600
+    }
+  ],
+  "place_id": "ChIJiRyw_Z1ZwokRJoGTZBGAwHY",
+  "plus_code": {
+    "compound_code": "P2J8+4H New York, NY, USA",
+    "global_code": "87G8P2J8+4H"
+  },
+  "price_level": 1,
+  "rating": 4.6,
+  "reference": "ChIJiRyw_Z1ZwokRJoGTZBGAwHY",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Danielle Violante",
+      "author_url": "https://www.google.com/maps/contrib/106800053400141298810/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVEpY1NwhIBrqID80a0ELCz3EgwE6PYAanhz9sH3zKNkdba7VVi=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "The chicken pho is the best I\u2019ve had in the city! I love that the broth is so clear/clean but still very flavorful. I love all the veggies that you can add on too. They deliver with all the components in separate containers so the noodles, meat and veggies don\u2019t get overcooked. The only negative thing I have to say is that every other pho place tastes a slightly disappointing compared to this place!",
+      "time": 1745693838,
+      "translated": false
+    },
+    {
+      "author_name": "Benjam\u00edn Oviedo",
+      "author_url": "https://www.google.com/maps/contrib/118244293126623874758/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVxlRyWqGegzT4i0nKjUhpohc6q5M6oXhYW9J2z3nqbCXfQDbFO5w=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "We loved it! This place truly saved us! We had a first restaurant in mind that had no availability so we stumble upon sao Mai and we were surprised! The food was delicious as you can see in the video we devoured it all and the lychee drink was delicious! I recommend you come here! It seems to be family owned and the service is quick and kind! I recommend it!",
+      "time": 1745783864,
+      "translated": false
+    },
+    {
+      "author_name": "William Lin",
+      "author_url": "https://www.google.com/maps/contrib/100578830612260058668/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIsnw9gzBsbAdIBiIVebagNj8ifocws8Gs_3B3khcbTQwGP1g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "Everything was excellent!! The service was great and the food was amazing. I ordered the traditional pho with their homemade lemongrass chili sauce. The broth was full of umami when combined with the chili sauce. A hidden gem like the others mentioned.",
+      "time": 1748956800,
+      "translated": false
+    },
+    {
+      "author_name": "Gwen Nguyen",
+      "author_url": "https://www.google.com/maps/contrib/113774812744225896973/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLbWkIuLKBcbfRxAZ53t-z04ZlH0V9yd7QHU5ZahTY8QZG3cxe2=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "As a Vietnamese, the food here hits home! I love the southern flavors , especially Bun Bo is the best I've tried in the US. The atmosphere is casual and down to earth. Staff also have great attitude and double-checked what I ordered to make sure they served what I needed.",
+      "time": 1747952058,
+      "translated": false
+    },
+    {
+      "author_name": "Kirsten M",
+      "author_url": "https://www.google.com/maps/contrib/116084251097996227979/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWWJXRQShrXD9LEDUTl5AMTzffMOzy0CwZuHDrTFcxs1-f_Ee6q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Pho tai was the best I\u2019ve had in the city. The broth was deeply flavorful, meat tender, and noodles were just right. Their house chili oil slaps. The summer rolls were also delicious with a uniquely flavorful dipping sauce that doesn\u2019t taste like most other places! Don\u2019t pass spot this up!",
+      "time": 1746850912,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=8556980104194130214",
+  "user_ratings_total": 845,
+  "utc_offset": -240,
+  "vicinity": "203 1st Ave, New York",
+  "website": "http://saomainyc.com/"
+}

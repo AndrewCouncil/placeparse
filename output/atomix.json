@@ -1,0 +1,433 @@
+{
+  "address_components": [
+    {
+      "long_name": "104",
+      "short_name": "104",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "East 30th Street",
+      "short_name": "E 30th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10016",
+      "short_name": "10016",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "7392",
+      "short_name": "7392",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">104 E 30th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10016-7392</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1730"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 5:30\u2009\u2013\u200911:00\u202fPM",
+      "Wednesday: 5:30\u2009\u2013\u200911:00\u202fPM",
+      "Thursday: 5:30\u2009\u2013\u200911:00\u202fPM",
+      "Friday: 5:30\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 5:30\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 5:30\u2009\u2013\u200911:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Upscale Korean restaurant offering a chef's tasting menu with beverage pairings in chic environs."
+  },
+  "formatted_address": "104 E 30th St, New York, NY 10016, USA",
+  "geometry": {
+    "location": {
+      "lat": 40.7442317,
+      "lng": -73.9828502
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7456509302915,
+        "lng": -73.98143666970849
+      },
+      "southwest": {
+        "lat": 40.7429529697085,
+        "lng": -73.9841346302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "name": "ATOMIX",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "day": 0,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1730"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 5:30\u2009\u2013\u200911:00\u202fPM",
+      "Wednesday: 5:30\u2009\u2013\u200911:00\u202fPM",
+      "Thursday: 5:30\u2009\u2013\u200911:00\u202fPM",
+      "Friday: 5:30\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 5:30\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 5:30\u2009\u2013\u200911:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 2722,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111719219215411994893\">Indoorfish</a>"
+      ],
+      "photo_reference": "ATKogpe64Ivpz-1z8q3v1eK-_nP1Zkh3YnL2Ha6ZfGlw_wYjJLr2UKys8MblOQWpI-FT7ujtUNnE6FScQROvHRqlxn-7F5JAadL0O19N61UlGMCWvK_mPYxtPLCrHX1SZ-j41o-C7LCLET2YrInL0DvGbxz4kfX0M17LVnlg8xtVTcaC4yeBxHX9SK483aEAQVbqu5OdAHjikH0jOZmdV1cYar7w7ikFaTF5XJ_rWF_FPUB9r_zN37gYsL1uEYZu7tlXIoE0OQW6tWUKvRBIcw1HSGnsRIgWTjt04GxCnjDgR33JGFHoUZYQR2ZKE8VIwzT7oDCem_3I3WmtwZAUKxRS8DZtui_FiswTyka2RR4DO3_66yn5phC1Am9ahVtibvotitaySYM57J8g0r0yrTXgJxN92wzhI3NjGU1MV88X1bDxSvTo",
+      "width": 4088
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111889709891992675300\">M\u00e9riem H</a>"
+      ],
+      "photo_reference": "ATKogpfoMpaqqgkrl_dIE_OSOHs1KBeSFHgRAnYYMgGxZO0oL7QuCmqGJoHQS5jpDSIcW3pUFrYhHmF1mJmuNqZ9F3PHmnWsGT8rC7f3F8wgV870UMXRqhLFOcNL8drtl_2YBtd9Mx1tIqXgvCW9vdoIvKHUsFpZZ5CfvJ9Fwq33ka0rgDDlV1I7eJdigPJhBHKqxdaiLNKna_20zzRnnIZUPZmLzSJXInJ1slkI3TEyWGRmW7GA6dEoqZ7kVR60UYeDe6IJEV0weUAV-1cOtZG-46IdE0QEgr_F0rsfK-nKLwiopwTnQp0r4Kp5cUB-0LMenBI29O2qx9sbVS4AyxCiG-9oaIAoee0MRGF5hpPh6CHHs8zFsmHQBt_ibyFf0XyHepMmg7p-B5zcd7ZEEz60jv5Gqt7C9MQuWJg6ka_9695HfZQm",
+      "width": 3000
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109747759714198701512\">Abhijit Kundu</a>"
+      ],
+      "photo_reference": "ATKogpeR7nmVsqlJnyaQvtG0rmzcm7hQW2uOsxe15AvcOEpTIHsd6mgbcmJwBcZg3gJ74WITv6LnnhVqhGrCEXyuCQ9J0GvsjauxurlSNGTJEjAg-Q7CQNE3QKJvcv_Dw8m9CCD_snfwp4n7Ss-O8mAYG1hBresC331mdCFdMxhRk7YPEnouIiEFC41kbGadW2K4JKwIVY7cD_6oYfu4LxeAUo6lHlfJ6DnNAkWaalY5ecxLijQB5BdyqD5ef9MIhe7i_32eqUTJAzztjyuy6rsN-DCzSTH5jM9YOcu9fyJyifg-qUEe6JishwBy0SPjXJU7U9eJeMbZZTCM2hQ6JZcw_ZGbEy5d6udM58w19uvfumCI7Q-jC9f8meBkAKN3HXZ3bFVoaKlvetI_b-WmgGrQtXTxhHsGDtpRpmThrX1W3FeKpmKGe6V6eGJvmiGDGdN0",
+      "width": 4032
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106672641901715037725\">Shane Simpson</a>"
+      ],
+      "photo_reference": "ATKogpe8H66QFKr7bvWzw62ChfKyMFnZZNQBx0p0w-cUVbY3G5PakRL2TC2gYsemkMQrg6ds7TMr65QLI1IbdtxOAzCRkgpr0N7uuqrmSb6NCCO_3K0oez42QSkHuO6mGIHlvQ9XvpeXQvStl79bRffo56sHG7bai5ZXEQ1x8wsRdu2z7OpxI25B-Q-bVnCZTMVlRobOJeVhbqXzzMI8bPfzY9eSLP_fwIbpyN3tzen0yCOVFhBf7pC250dOGt1F25gAS3nVt7rJ_s67qhqksn0oCW03-mEEUnHaN_t2qLzRqtoyM5yqU02Y0VIAep_aEyDBtW_pB4aOYnDH93RRBxDKbP9lXUkeb1UlHyHuI3DiYf40KRzQP2BcqlnTwb6ZqSzHdALxjbqFrpSGAroIjMg0T1bhAaVYBTPxEv48FGFiaa90dQ",
+      "width": 4277
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116519635540227493493\">Sean McGory</a>"
+      ],
+      "photo_reference": "ATKogpcTdB5VtX5u1y7GQx-8kxiiCHnQOUYa2SPb-Xb52Gr5GYB1Rv37ODOzFefRVMekIod7tH51LEmVhzqeIaSvcO0tDGPsX1FTSDB9zjEdgsTT-zGsgKHpdYGULRDmEzrc4h77acfmgfemOjl_8dq36SiBBoDQ7yV9NeOk511YwT_R0IRrguZl6hGW7xBpj5lhJptfzqowRaWi_db8Df-a5vLZ2st9rzAEEwYLc4OAAo92XjsviG0nCIthaWSodbsc4T4FU6WWMG1WPvJtQ7bdYuxxq78f6SKr6TIRaVigTJQq2LTyiXFqG9IIQtpHdeBgYfKSw78BDhEUQbytBbRFxby_AURnoVvy-rSvdKObKcexzu0_uslMtzFYTKQUbqaZbqRX8as-OWCFtvc5sCxiNtZtowQ66EgiBzAybUHsCmTvTZ2oEpJA8O2GuLYkKLHg",
+      "width": 4000
+    },
+    {
+      "height": 2008,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111889709891992675300\">M\u00e9riem H</a>"
+      ],
+      "photo_reference": "ATKogpcWoXwE0mAb4VdXjz6pNKr8y-N53zxUeJpxyu3zWGkMLL0bG6HI26RkUUUoo7KV3kmR-GzGV9YqFIu5A6GdwcebwdG3Jd7xzWHvj9raju2_zw7J3iBOsukEJ6QFxuk6lM0RjwA-5uHaOvVy6xYTpX6lI-nRRb5ipYR4LexUl4EU7lSG_G32iC7kyb1c7Zg94w_2a4QbW7Cv5nJArq1Rkimvh_IgitnZeNZQpW4bp2fuk6BSuJzfanmJkShKoGzF1XT_9UxEZpwN0V5jONTTir21E8wsOVougYpeSbhL2-TlpvzBJNZD2qgyBdivhq1spu_CSgKskD5BxKH_epVZHdS_3KRlwO80b_fKiw_nr6WMNl2qhz7zbURuuACVu_Gz1Trk2fas-wq5zqfwU87WMGPeJBkdCNpKee77iuFa2013fA",
+      "width": 2008
+    },
+    {
+      "height": 683,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111083208698937440012\">Jiyong Jang</a>"
+      ],
+      "photo_reference": "ATKogpfUgGWC47QNrCyU7O0r7yPg0PjgFbbaggjE0vki6AnFnWy7gBFKp0DlEYFATyspHxj6flv3Q44hEYdd9tfiyWqforPFYIVKq4CucxgjloUkM8pBHmRIMucBGnOkOP7lyvt1zVKNX6-uT152VwbVJUqUId7TKLuFj-clRl1zYbQ6dd_PqxKtu8BCvIjz7SQcjbsFen35TcHFI5GfmEQhUpS41eMhrsHnxSuLlqiDnpW-V5zaUv24oyLNtvXfr-oKRXfzHohCcUrs8cWikMbzA2o5akf1ZB2o3e-06z0-d3pH6sZ1GQhHmt-GNW5riX6lG0JIbMKpouZ7ynCJApVdLkA4BFDZmkBLpN18vlMzryMfX3YA1aJLtyASZBMHHeDEHTcux5JAto_E5BlHcqQcFLF7pR0TYKUjHk8uWRvdPrgpoQ",
+      "width": 1024
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105601992699102170460\">Nic Garcia</a>"
+      ],
+      "photo_reference": "ATKogpewhP6OXRP1rVmg3uCYtLbcG5_vdx9zom5LIi0c0pls0lwQA6RPv-7kq0Ml7BG-WSgdqXsMGrIdXS6jzniXWCqeSPp6SsFSZKhdXwBEYYIah7MgfpWwnuFTfnCNOUr5Co9bZycLBMxr6ZKjoXIVxn0Jj-3981SNQ6G0gMMIh43I7yoVGcz3PI-LBhp1XDdqsUYcXVApCoPQQuLbQujdpm_DdsPcCWRmMuiCpdREkKTNGrq7qADoO17teMj2UHogghlUdgtJY3Sq3j_UD2_8S06YaFjerl7TPvaQQi56nm5hdT8hBz7dygmgtXSYkU1QxsFF-i6a8ecNG2Vcojoek8Tt7KnAQIhFbQVmfa6hVd-vi2FiVN2ehuM8Pb-VcGCP4dQ8uBB5UJAKHgmhulZg7P39rwxLoEG7vu_IsKcON20Ge2GB",
+      "width": 4800
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100570154456805714512\">Toffy Young</a>"
+      ],
+      "photo_reference": "ATKogpfP0sjm1lM_CqUBJjmJWYaZwxMEt8pgPMetrmTiX2DSvI_HgNoIGeC87dBmHP5VBEIyYPrQXIs9pAm4STzQwDFBzU-yNO3IyrBEqjSaVAxSWlAcZxCkKdQT60KDxgvXZfY_3aTLsHruL37-cB8NLGGVpzfFEsbFccFQj-FX4NzB0Mfhx9HPzlPuq0bfornQSbwH-s0TxpNy1k18Y_lDOz0rXx5sJRz6LvXGuUhL6vzjXrDlaf59rWXaU1rZ-7DREtZBqFnERx_FPh3E59AxxYiksIWeZXZbcklALk3i07OCv04-oPP5vK1uYAk8uCdKgJ7nE2ms4WRFAtvfi2-fqgGzhbN1p15KZ1tanljFffhG2nBLcow35NhI0nx4MypmfIkRhD1fLpcbPx-TeqIjFDUo7T8gi3T8PEggsZeinM7lguryun18gzPFoB9wDA",
+      "width": 3600
+    },
+    {
+      "height": 1736,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105993492374138863774\">Olivia</a>"
+      ],
+      "photo_reference": "ATKogpegWY5IudcmZREs_ieOhOqg3roEREW_x5K2zNeUxCUcsLKHdgsXqnFxsJ1aKLb3vhnkJJy6b_H-9It9CbhlXa8MxjH8SDMQp4Q1WCAbgQKI0Ubv7WtzQMDTqk0e46VT4goJK3Qi1czC9tEyJk7IX7rqwtjSqScgsSPiE1CDtvXBZU3JDDIWrICLL0ZHD-j1gqDk9nxE4xV9rzq4d4zjgT1pZoIFpgDaGDfg6AZ9hM6V1PtHU3XOF-R1tP-r7W6zFRnCFou6bl42iALHosdSxTPhMPyT5Ka0A18kKyCJpnS-VatoEKL-35GlSn8QA9N1cadF90YNAz6voL0xoYdf_9rTF9-Y2TwymOlzmI5s7Nl9DY0PfgtuOlgYAfI_84ULOhGrulZDHcibVnObRtNL9k9CLlExdTlUr7xyoh6R1wA",
+      "width": 1320
+    }
+  ],
+  "place_id": "ChIJ3bmAHghZwokRRXYO57yLuss",
+  "plus_code": {
+    "compound_code": "P2V8+MV New York, NY, USA",
+    "global_code": "87G8P2V8+MV"
+  },
+  "price_level": 4,
+  "rating": 4.7,
+  "reference": "ChIJ3bmAHghZwokRRXYO57yLuss",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Chris Roberts",
+      "author_url": "https://www.google.com/maps/contrib/103285354246388190765/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKO7FdJ1ztjVFTQWu7mY-_PcqkVqK08FBKgXoTS9Tq7y5pRXA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "This was one of the best meals of my life. After eating at other highly rated 3 Michelin star restaurants I believe this is one of the best restaurants in the world and deserves a third star. I've eaten at single thread, quince, Eleven Madison Park, Jungsik, and Le Bernadin. What made this restaurant stand apart was how the chef was able to tie Korean culture to his dishes and create a meaningful experience for guests. I also believe the chef to be a culinary genius who can create one of a kind dishes that raises the bar in the worldwide culinary scene. The only criticism I could think of is to improve the presentation of the dishes. However, the dishes were mind blowing and delicious. The service was also perfect. I recommend the chefs counter with the full course tasting menu to get the best experience. It was a memorable experience and I hope my pictures capture the hard work and beauty put into every course.",
+      "time": 1749595385,
+      "translated": false
+    },
+    {
+      "author_name": "Toffy Young",
+      "author_url": "https://www.google.com/maps/contrib/100570154456805714512/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJ01u_wCiQG8-vQnkLWrckzqzvX-sI0A3n9YtdDjFabIbo9qgmkQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "I\u2019m celebrating my birthday here, and it\u2019s fantastic! The service is impeccable, and every dish is a visual masterpiece that tastes just as amazing as it looks. I\u2019m savoring every delicious bite! And the cocktails? I can\u2019t get enough of them! And let\u2019s not overlook the non-alcoholic pairings. What an incredible experience!",
+      "time": 1750058653,
+      "translated": false
+    },
+    {
+      "author_name": "Olivia",
+      "author_url": "https://www.google.com/maps/contrib/105993492374138863774/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWYswD-IUrvTx9blNY3Tki4NPf1peO9_i4SvbRpz2UVha3FwfRrA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "a month ago",
+      "text": "I honestly don\u2019t understand the reviews for this place. This was one of the least enjoyable Michelin meals I\u2019ve ever had. The visual presentation, the ambiance, the design, and the overall experience when you walk in were impressive. The service was also very good and everything felt cohesive.\n\nBut the food just wasn\u2019t good. Some dishes were so salty I couldn\u2019t even finish them. I\u2019m Asian and I\u2019ve had a wide range of both Asian and Western cuisines so I do feel I have a fair basis for comparison. If this were a one-star Michelin restaurant maybe I could understand but for two stars it really didn\u2019t live up to expectations.\n\nThat being said I do have to give them credit. Every dish was beautifully presented and you could tell a lot of care went into the details. The team clearly puts in a lot of effort.",
+      "time": 1746924919,
+      "translated": false
+    },
+    {
+      "author_name": "Sean McGory",
+      "author_url": "https://www.google.com/maps/contrib/116519635540227493493/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIyqKLrQbTw6GML-hYhVZKjaK5qtoxARkHhksTwRdV-JQozOQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Magnificent.  The 1st 3 snacks were 3 of the best bites I've ever had. And it just continued the entire night. Service was outstanding as you would expect. Took me 6 months to get a reservation, but it was worth it.",
+      "time": 1749936049,
+      "translated": false
+    },
+    {
+      "author_name": "Heather Kim",
+      "author_url": "https://www.google.com/maps/contrib/117374876653933733490/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLJxV4z8aVv5f4fUGB8zE_MYudfipNshWO-ol7Kb2GAorfgqQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "3 weeks ago",
+      "text": "Overall, I was quite satisfied with the food and service here. However, there were a few aspects that I found disappointing, and I\u2019d like to share those.\n\n1.The dining table layout was awkward. I found it uncomfortable having to sit so close to strangers and directly face them while eating.\n\n2.The frequent movement of multiple staff in front of me was distracting.\n\n3.The lighting reflected sharply off the surface and tableware, which made taking photos difficult and left my eyes feeling tired the entire time.\n\n4.The wine pairing, priced at $275, didn\u2019t match the quality I expected. It felt overpriced.\n\nTo me, the dining ambience and environment are just as important as the taste of the food. I prefer quieter, more private settings like \u201cMosu\u201d in Seoul, and unfortunately, this restaurant didn\u2019t live up to those expectations.\n\nThe biggest reason I wouldn\u2019t come back or recommend this restaurant is that the dining space was a major letdown for me. I felt uncomfortable throughout the entire meal. I couldn\u2019t fully enjoy the food as much as I would have liked.",
+      "time": 1749082180,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": false,
+  "serves_dinner": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": true,
+  "types": [
+    "food",
+    "establishment",
+    "restaurant",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=14680199578814150213",
+  "user_ratings_total": 449,
+  "utc_offset": -240,
+  "vicinity": "104 E 30th St, New York",
+  "website": "http://www.atomixnyc.com/",
+  "wheelchair_accessible_entrance": false
+}

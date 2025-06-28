@@ -1,0 +1,449 @@
+{
+  "address_components": [
+    {
+      "long_name": "118",
+      "short_name": "118",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "East 31st Street",
+      "short_name": "E 31st St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality_level_1",
+        "political",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10016",
+      "short_name": "10016",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">118 E 31st St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10016</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Rustic restaurant with exposed-wood beams & brick walls offering modern Albanian & Kosovan dishes."
+  },
+  "formatted_address": "118 E 31st St, New York, NY 10016, USA",
+  "formatted_phone_number": "(212) 213-2082",
+  "geometry": {
+    "location": {
+      "lat": 40.7446105,
+      "lng": -73.98189529999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7460472302915,
+        "lng": -73.98048731970849
+      },
+      "southwest": {
+        "lat": 40.7433492697085,
+        "lng": -73.9831852802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-213-2082",
+  "name": "\u00c7ka Ka Q\u00ebllue",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103416099345862195065\">\u00c7ka Ka Q\u00ebllue</a>"
+      ],
+      "photo_reference": "ATKogpcBZhNLHLBNDIz3vrGdOafK9X1itvyDZoUbiOdtLPDeF5JUvnidx17mZKnXop9SVr1e6kDJsgMNhnRbMLamfaaciEaH9FVaRtc3Sp9oBENALlMPS-B6Zet7nC3x44aK9PAKzCfXhdhaPAVvTVwSAQ72P36ewZ1peMYsTlvQ3IhxYN8Mi2FOc5uTpwdZ_zkmb2dII6QUvOhtI6TReDfR2BAuLb2HASjo2QUcO0wi3APbRBP8F12Edw8SUVfNYxbsiSpgHe8WVLhP6FvxpiVWtOY611aZ5qy6SIpr2yr97WCdXg",
+      "width": 1600
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109996103442927850211\">Mary Anne Roa</a>"
+      ],
+      "photo_reference": "ATKogpfy2hQbBPcx32WMIvkqaHkDEfmVA3t6It_CfxfmpRq0U1ZE1tG0p0DdznpNIVnuxl_kBYca1Dz79SqJFXQByIvzt7GT3IdDt9Jb20BOLaXKwg61CqsubUr_NHpFWH0Fc16vcoed2t-H5dOEKxOtn3rNlVVcaSEzo-N4eNRRguMlrAVxSjgU2FNXz0eo4caBYfiTtN5gTQdx9rwDij71YQu2ApYugfIDpJXv791TyS28PEhnXWR6Xp6CUlvEpaAheSC361qRu5I-3TJM2RpokWNMACpRiR3GPSJjInr5oLrCLbjEVt99uZe-CWYgM7q013IBOyz4Irydn28Pb3kdCDCLpMPODAfmuQpHkmCK2pnnbBdKwWhOeHFi1apcKmvdnaFC2sNSZoTpzYfg1MmJ6PMchOzsj-CLr5NGktjyjnmwFBZOQILb_GKOEsWSdDjH",
+      "width": 4800
+    },
+    {
+      "height": 1365,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103416099345862195065\">\u00c7ka Ka Q\u00ebllue</a>"
+      ],
+      "photo_reference": "ATKogpc-KApeBNnFuy58VF-suojzIksG4NCspdKAwVOr1TldoeeepOVa7R7Pj_22OH7DbWmaRc-2kkZ6vyutD0hdQ6Z-PmtU0YZsiZdHUSDJLt26Mwdre-Z0akBmaIxvnNE17-kz83aC8fCzL9T8uwKCcW-wIooWs0Rln3eMtwL4lafupr6qtkXoeVcPCjwVkmk-IfKZ9aBfYZtvZsO-nHggTqmQk3oJY7sgF8EKMIa07edLk6dI8mKcaEe64ZWkoqPdmu2RWgm_eXgM2SHLKH9rWSVSPSgkk7AaJJyoiOrG0PUKAA",
+      "width": 2048
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117367833767235794134\">qian xu</a>"
+      ],
+      "photo_reference": "ATKogpcvjKi9oAsVWo06Epnj4LnyVHyoZDgqSveoukt5Z3y-7UfjVGNh7AksVbeNYy1SK5Z6HAiY0J-apy7872I-4LD0M7MAGm3gs0KFFEDAcvrrDnmSwBLSGz-8UqCH6nmZTXIbTJnfcVAqmNS72CsQpMslUb4wi0EQ-ClTnCSywktR6yLPAegNIndYaG0c2Coglw2mNIf46cqw2AGRS7qJ5OfkJ0ECBnWtYJ1o6rxNT6_kp_pnk0p1w7kv2WwsWz2-b1IJbRuoMS_HV5rlA0YZ1rJpj5MkXBAZPuV6xkeoS18_LUbbsJXLdASaHJo3HSEjrNeHt65INpN4XrP88wKL-fWOmsj7xG7-DovYh6aNKSpA1TtI1Qf8H08a_gPJSeP7Pf6OUtZ1LSK_oid7jYT4x5Nv9w-VBOfABRky_5lyrVfuhGJftTFPXI5fJYFDfA",
+      "width": 4032
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118129559408373781633\">Nicole Kim</a>"
+      ],
+      "photo_reference": "ATKogpdfz_MrX_cPIdh8nOP2cUduQ7VuWlc4-9LcL1yk7211gDyqFoJTNrpdH2Sxgb4s1bBNqz9vK_BJizkEqjdUvXvtvwy7Rq2E0hkvFUd1ZQDkw19N9nNzlPBo3rgdVGlLS_4pQZ1UWBU1mVJdXZE1KDzW4SJZbAEkjwPcH9NMZZQP90Yc3bBjRn4cOPROoiXfWVOZraI4WNnG9a256VO2CTPlbv3fX3OrQeDzbIBB_-7_IziybCaiEysNWYIfQpqho37s5pUVGzqP4oWxfk_r_kA5WEJH-KLpq4ufg40eSpNgBztuERJpHHP5P2JBP9mQu0WNHxPN634EDPmwhoqNUvZG39QPgOSqtYtObhmCekKfoomZx3Ox8yTW8s-HP9sD1eX0wdEgm23DOU-u1RKkSOM-lcSetN61Seg0n0_r5to",
+      "width": 3600
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100141602481698012179\">D Guo</a>"
+      ],
+      "photo_reference": "ATKogpd9MSxD14V8RpGbC9AepMWl3o63gVVwFJBnUgyDr982Hjja9vIMf_udrGtLQ0JefAL8YYlDy2XfSs9X5FW0JpP-Qm856Gl8ZEcj11n1-U6wabSio6URCvI-nH6dxFtNaznVnhd5k_cu-usUXe55ARUOffB4JG16Mng4umtfZ9cDIOk6w8uzjZmnaqSu-6zU1TlCuFX83_HDK6MH96TIbXUGrLPiY3VVK7hIJ9mOwrInuZ-hWJXa1VjBbXEiX9Dr6iSaq4fxIDcDBeL5LnpwB2JC4YpqKWprM0qRC1VX95ujE8eQX7PHibIPU2TlzJc04P4wr-JHGjvV_QqLAiOMV5RX3kUT4K1ToE-GHAN4fp4uY2NTPvYMwvtkpmCMCAG0r8ay2X5xhdI2aUQZrhkA471RIsHhgF2_qf-9CaRQy8CAegGg",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118129559408373781633\">Nicole Kim</a>"
+      ],
+      "photo_reference": "ATKogpcjfxv79ODNu-EfSSveajXfIt9AUAvm5IpvK7W2rBjxTZQGjaNlP2KBlxT6D2OX9NXd6q01bLgcnuXc70zxtCrGF4Q1MegMPQ6lPX4kVVG4WCEA4OJnimfhHQmWfbJ4oMEl3kd_T6V57CTtGrgYrqGuJzoVWEkZRdQcx292t0JmytYfIyr3YDygpo1iEBj6gn8AqdSL_R32n46EocWh9vpKrRksuMTr-pUwjsbm_bj2aGJ2-Dlcx1hzALGPXctcwm0d25pmCvajoyz8A_u_LYFJrtMbF8e-0EltPed55J_q1TI2Xs40pezVD7ishhX1IyApufAihwATs5gjWRVjXaMXlCoUXk2S7BHDFAGVwXGAytJVPbT_AFfJWCBnAQi0nbR-1e1mR44m3a9CVUI7OcnbncgYo3_-jBXj1ds4ctd2jnbA",
+      "width": 3600
+    },
+    {
+      "height": 3472,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106390793412653042766\">Steve Kenton</a>"
+      ],
+      "photo_reference": "ATKogpdUOmgfJjWSP9KTRMGfz61IGKTYhSTbrT-3UEnX_n_KxH4u97AQPaGkOPTLFvIDd8n4-ivh2J2Fyi4yhi8A0PE9t_t-1Wr2yfhXdNiYe2YK7bQZaDlhZpD9nnYMxCEPHXiwp_p_wf4d3tl1AWD0PQCxlzW6YtYH7WUywlkiwy_fYs-jP2SNroYGrnrMU4244ASsYuYyNfHOkay_7xNumsoox9tTZmDp8h8x2g7bO2J4RD5Ruqocw33LcVOQKNRbjoCwAkGTzWt7sZiGlJkUbiHlvWrH7oS6HEUkjGIOtkQGZ16_NBnbSqwfRG8QNd6hMagNULYmdCnZ7xaIhNkDHsCxCKMCHLoQ4IfGn70MVh9_4NMAZv1k8U-UP1lACMlSUpmpBkzumxE4v0JQsQWsSmaghyTCVAT9ceTciC-RHd5a1_PU",
+      "width": 4624
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103003364328676812814\">Anassiri V Garcia</a>"
+      ],
+      "photo_reference": "ATKogpf3JU86KxpruLT9Cjn0ygx42gMrMqlumSZE23ASkDkvpnAqECX--PGtoada-TDUPGX_FMfPnrggujRcqsXhJgv01B2YGBMi7Ve-IoRF_MKS6WnbT4tZPhL9cEnOweJdCWWTrLiy0l7q7LyKEjZx5QR-AKS0XyaGL6YahGxwfeULTAhNtgv5kl174hPErgY9Is8dGhV2cQxKosPo6gMYAgk5UYmxvij2U6aUmNsexmaXAoSr54P85S_ib-O_0cuKuTCrdYTi_kZBa2NjymnSg8KrkowAQWEn4mVjfYnygiY-fUcRLQuNC61T6xv9AqyfCv4rhO5Go0GotPLzyahws-1BrpC8ZslotxegcQBJmdJ8T6yW9F0A4BKmFV-0qt1Jniy-qYqpQJsye9qImrdC9su0prRFq4un94kTVkkQvqAXgg",
+      "width": 4080
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111777225255744931600\">S Sen</a>"
+      ],
+      "photo_reference": "ATKogpcleOW-F_M2j72mCv_7wo8BaGD7wcFXsR9VKkKjLDrgs1ZaqPVxYUgLyWQvgHjyNxeMTPL3-WaFO179RnHKo8278qvtkBzBlTBYUH3P69FBQvZa68gxH60Kk3mvIOKRd3Qhsfgy-vGqp386_BHbsbX0BoeKt3BGlqgZS5ZeWq9nyhhoYjNn8Q8AfcpZlC-svRR8i2Ny3Yk09rYuv0I6t6cuFiXJ_s2k5-mT3V8efsCyaWDwqKSqy9IP73hnHSnNflfaiWmLPCsWKp3KQQPQ6dYDGwOy1kwYOoFXdT1h7h8BxYwiEdUk5sM829iBfu2v46zd0hEJE0bvUNhNUL3Q0h3c7mLypXMIdl4YCw1osKRitLmyj5yl_GwFgR2khRS-j_1cwt3YCI0YsO9LebShsnU4UJjmBqJQuRCTm3Z69BVofA",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJJa93rKRZwokRPoOmc_ta6DU",
+  "plus_code": {
+    "compound_code": "P2V9+R6 New York, NY, USA",
+    "global_code": "87G8P2V9+R6"
+  },
+  "price_level": 2,
+  "rating": 4.8,
+  "reference": "ChIJJa93rKRZwokRPoOmc_ta6DU",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "rocco chiusano",
+      "author_url": "https://www.google.com/maps/contrib/109348617082330739071/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIVYhR_jBkKJgtXMls3TcLHQZ9Dnismv7x_8xHTJoCt6EqAjnYr=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 weeks ago",
+      "text": "Dining at \u00c7ka Ka Q\u00ebllue was an unforgettable experience. The food was nothing short of a masterpiece\u2014each dish a true work of art. From the moment I stepped in, I was struck by the atmosphere; the restaurant felt like an exquisite museum, with every detail carefully curated to create a unique and elegant ambiance.\n\nThe service was excellent\u2014warm, attentive, and professional. I started with the corn and spinach appetizer, which was both flavorful and beautifully prepared. For my main course, I had the chicken dish, and I was genuinely amazed. Both dishes were presented like something out of a high-end culinary magazine\u2014visually stunning and just as delicious.\n\nWhether you're planning a cozy dinner with a friend or a lively group celebration, \u00c7ka Ka Q\u00ebllue is a fantastic choice. Highly recommend!",
+      "time": 1748629043,
+      "translated": false
+    },
+    {
+      "author_name": "Rudy D.",
+      "author_url": "https://www.google.com/maps/contrib/116152168155154098094/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVlaFuncamrO7UjNeXVar4mUiwflsml618tcJTrsHeospUWOXnr=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "One of my best experience ever! I walked in without a reservation, but the waiters didn\u2019t take long to find me a perfect table. Everyone was super nice and polite. The cocktail, I ordered a Lycee Martini, was absolute pleasure for the palate. The food, Mantia, and the classic Albanian bread were delicious!!! I finished my dinner with my favorite dessert: Trilece, and an espresso. I\u2019ll definitely come back!",
+      "time": 1743034430,
+      "translated": false
+    },
+    {
+      "author_name": "ReedH",
+      "author_url": "https://www.google.com/maps/contrib/115878967810096426328/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWsidbgJWXrG5VbkkR8giN5WtaJ-KEAgFCQbP-pDkL34CoX9I7F=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "We came here for dinner last weekend and were very impressed. The service is very friendly and the atmosphere is so warm and inviting. I love Eastern European food, especially during the colder months, and this is definitely authentic. We had a stew of sausage and white beans - rich and heartwarming, so perfect for the season along with a platter of grilled meat. Both delicious! I\u2019d also be remiss if I didn\u2019t mention the bread - similar to pita and steaming hot, it was the perfect accompaniment. Such a great find in Midtown. I\u2019ll definitely return!",
+      "time": 1738713280,
+      "translated": false
+    },
+    {
+      "author_name": "M. H.",
+      "author_url": "https://www.google.com/maps/contrib/116155962191202103039/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGyYzsmD3uXQOrnZKcP0-y3aka2kN9dBmzQOK1S-lba6gNajY=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "We were curious about Albanian cuisine, came to try it and were not disappointed. We loved their bread with dips, especially Ajvar. Then we liked their specialties Fli and Lecenik. Worth mentioning is also the Sesame Baked Cheese and Grills. Finish your meal with the tasty Baklava. Service was friendly and the atmosphere was very warm and cozy. Highly recommended!",
+      "time": 1741479925,
+      "translated": false
+    },
+    {
+      "author_name": "Nicole Kim",
+      "author_url": "https://www.google.com/maps/contrib/118129559408373781633/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZQ5Yo4hAmaHriQARrQsXV_iajY6m1FuLFfCO7w2_hwyozvaz7tg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "3 weeks ago",
+      "text": "This was my second time here, and went for lunch with an old colleague on a weekday at noon. We were the first ones in the restaurant and few others trickled in after. The service is pretty slow but the dips are delicious, esp the Tarator. We got 3 dips and shared the mix grilled platter. The bread is the best part and it\u2019s freshly made. Would recommend to check out if you want to try Albanian food.",
+      "time": 1749080462,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "establishment",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=3884454714630636350",
+  "user_ratings_total": 1470,
+  "utc_offset": -240,
+  "vicinity": "118 E 31st St, New York",
+  "website": "https://ckakaqellue.com/"
+}

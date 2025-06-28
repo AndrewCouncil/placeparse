@@ -1,0 +1,261 @@
+{
+  "address_components": [
+    {
+      "long_name": "900",
+      "short_name": "900",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "West Main Street",
+      "short_name": "W Main St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Brightleaf",
+      "short_name": "Brightleaf",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Durham",
+      "short_name": "Durham",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Durham County",
+      "short_name": "Durham County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "North Carolina",
+      "short_name": "NC",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "27701",
+      "short_name": "27701",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "2025",
+      "short_name": "2025",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">900 W Main St</span>, <span class=\"locality\">Durham</span>, <span class=\"region\">NC</span> <span class=\"postal-code\">27701-2025</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "CLOSED_PERMANENTLY",
+  "delivery": true,
+  "formatted_address": "900 W Main St, Durham, NC 27701, USA",
+  "formatted_phone_number": "(919) 213-1769",
+  "geometry": {
+    "location": {
+      "lat": 36.0003548,
+      "lng": -78.90924249999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 36.0016482802915,
+        "lng": -78.90779881970849
+      },
+      "southwest": {
+        "lat": 35.9989503197085,
+        "lng": -78.9104967802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 919-213-1769",
+  "name": "Scoop Local",
+  "permanently_closed": true,
+  "photos": [
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110035698397047714178\">Mark S.</a>"
+      ],
+      "photo_reference": "ATKogpetc6_29xZZSsB9d5WNeigkX8vVVaWTHAa2NU2C0sGDqXmvnHuVlC5e_h9h-USuJFQ6SPnqZxgaArDisOleDr0LEbUYwxx4jIGhd5M8Qo22BRkR5ZZFSthDFefrJKw4XSQDmUXnqIlDfBayrEKHblLO58Z8FAcENfKuZAX2gFw_ymiP_Av_xVUhBbjCL1a1C0w_m3qdMHe5y2lQFfkjiHZ0jITuqi8qtaP9TmKnm5undEH9sMnllRMK3Zn3MHBRuZD2vtSvZZmEXCM2NTTxY0rhcK7bmgs_F7BYr6eJv1XgqFOm4cr2q995OpnfXhgB6AwTNXUfidXIB1tbIwCJ5KQ7g3-OBInmkAohqMerqB4Gvkh0efZ8ilMo55YAG7L1uf2UQshaQtvuddtQ0oOw3cZrMF5p87MDbViyINeKXqI",
+      "width": 2901
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113805167739481470557\">Gloria Cesar</a>"
+      ],
+      "photo_reference": "ATKogpfgNWGZvIz3qi52Ho8-hll-Y5fDzVh1S5Si-qwHKTwfDlHAk2auZ_q4iG089xwm917QGNMaFsIHs5mJLj28wAmzhx_wXY3XnrODTPGNq0JjdkNR763_RFmpUXwuW1nA6MnU3HAlmp_v5XvC20VgEJb-qO8DtdfgD9p1fLK5YmnQyo3vmooHAFOGcZig4TdK0cqg7m06giCPQ3y3_QX67s3RKcGO7hCSjvDxoz1pPaEvEzeoEq5gbraiB9PRdLnHks9TQdVCEub_Gr81ZNlLqjI28aj97bGuK7_iIOD5LBZVlBBUE3hORGct-cTm_NGKhDdOmglx0MvxCWI0QQwCcXoR3wr10xS5izOZyLXUvM_GN3W8RrsIujXjd42AXVoGuxfBeXsWtHNB8B_Ko7ePttG_UbNSMSmSke5ziGgHHNxpIw",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113805167739481470557\">Gloria Cesar</a>"
+      ],
+      "photo_reference": "ATKogpcPpzOnUvHSIQYt_987TNiVHyR9-1MSuICPdGNLp1W_y90u1m1IBmLzhs_czEiiPgf8OSd9ei5vA_I1FpJhy18ZNao0KtXWbgFDNe1Yxb59QjiMABEQCBjqZnExpnxKVjzr9SjOIhD-cZHofUcoUvOIi2Fwlti29Cxx6wWa_RvdMlXqvgvl838G5eDPSEp32PmPTSNsWKrswwabrpLvJ5qkK_OBhaHw2Gyz9P3xMgcQI6nu0-d9VM-Z-N6wy1iriJT0w5PFlP6w_f7MGkAY7iSdwg3tPfmLwmEtV8v32rQCa1tKOMwcy3cD8GQSnyH9z700lPWCYGmRz7Eh2hizJ22_dxbypllNwuO6z7f1UY_8pn9iDNsvYC2M-zbfgCGSNbVYaS_8-wGM0CAHWEXZGoizHqpWiHNxWPU3aHMFqfrIsx09",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116719383538648387726\">Summer Pittman</a>"
+      ],
+      "photo_reference": "ATKogpdGWzPGaMcmWZ-Tk_EwWxCyxxwqbLtFh1npfefRQUPnvkjoRltLE4XQa_u-LYraNvDibG9l1GLL5oqzaQsXl2k70Hjemf6UopB034jOSH-LP4ySG2LrExUihets33azUFz-4lUcwzLacMMLidF6OqevGT_qT74Q-gnuv1hSu6LTKH6jY0le0FYG1xkignGF1Rzw5sc1KHHVz1m1FNr4l5tgdvk_L5RkcWtVdEtLncQG0iSGMJzFeQ-i2TVvtoCwEMHTUvECDyKEXBNfNJjRcwwpR5G-tm5s1T7duWxeJx0j-ER8GK9jHsgygHn3dh0rVRIi2Yf9CzQ97H_SzB0PRsys9IuBwEm77JCEmIU1mxRMWLKw_L8jYRg8hClzX4ZUcsg81xmgsd_-tczn8TQk5zX56wCjQs39aGIQBEgrfECPvw",
+      "width": 3024
+    },
+    {
+      "height": 1920,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106778778296979147352\">SeeTryFly</a>"
+      ],
+      "photo_reference": "ATKogpfszvbqC0L4OZv_ukJAqOHNYnkrcEn34oOvJOPEHlPP0-vSJ2FO9D_YopU_doTfthxIgOF28rk6z9dms5hyXOeI8lqCYYANbIlu9Un2traSUsEim42dZFGOhn4V4UES6Rkm8P7iTXmcla5Rsb1FTPNB940gds-FVaw83NlzuogBfg2Z50CtqHmcHxUhRnNurP3z7CZPNK3IBEgesySUNVKrs9Ier7svRpQ6hv_zw10_-enZrZSMLIq_-Ga5N6n3Sxwcc2TGvpGtX9qryw6WpB-KzqDynaXP-g4m0E3Po6dYsW_js3NoptrkCxzvYAbiIQBGMiVPK-ARJ2mW9lRSEaWlZ15K5lIPKD2QcQavg9-sGy6pFjxWdOycLWDTLnBJ1FWpT-Mmo5p6MVFB8wX3RoZfd-NJEx-n0fGuwBNBZDk",
+      "width": 1080
+    },
+    {
+      "height": 2464,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117828148929439529660\">Bianca Priebe</a>"
+      ],
+      "photo_reference": "ATKogpfxBJuO5WQfGFlswaV6f3CXAp6GmfPx1W2KTCoty7LEe2mCXugaJ9UdvbgEKaMX0h_Lil-Mlt3X1xu9oEDswbiQj_KH_epoZKDkANpGnXZOBX26uXSGN2wvKS-ALpP6qp-SCF2JnGgcfRsaHud-jvA92o-mzAADlIRxS9sj6t1T7bFXr_1uphM7gj3xjHxzf-vo10B4gwDoot4bs3cNR3CdYHgAKLH8noK1yuyEefMXkA2t3DJHJ2RDfAkPzF2jeT8W-1vzryRvuWacJkugw5CUbEMEYwTxvKBS8Q4IIo9w3ICPtS_OmwD3_Bz4TH5kHmz7KT0MuEBrBfQQv9bUfFpgeR43BrbRgrbjFrkk9FPkg3oOFuFmeaZDYTn3uGOSn_fcfCCznLAdAUzgYsuwOv7Y0ws3jJlGlNIPrqUiwjK3Rog",
+      "width": 3280
+    },
+    {
+      "height": 1938,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115069704494075508546\">Scoop Local</a>"
+      ],
+      "photo_reference": "ATKogpd9ieBWrUslmURnemE569VliV3Bheaq8IlZUiSAjHPQ2AuOWOwDZtIZpvGlIgTs-MDf6JiF5i-nclnUBSwqX-pfizkfTbBuMZGnpphqpial08D6dSAbtgt8sgmrUAkhbQZ-Y7KRcenRarzjAM5KPUSbTXHwStxKvJxP3fPp1nSXB-E0AflO3xuYMTS5oUt-_JrBOELlUHGwrAp_qtXiRCvqZmiGUcJbCtIe7Yo_F_8SHHcI4PfTM_pdgW-UUJXmMhMg1UL0EWBsxticgVLF-Ltq0_QE60y67c82XQ1Ga3usrQ",
+      "width": 2500
+    },
+    {
+      "height": 4624,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101743066807325880833\">Hannah Mingus</a>"
+      ],
+      "photo_reference": "ATKogpfx2K2rcUWpGhjgj5i6lNDihSH5oMzv_tvdLLfRgCIp8wMuTJGBt80Z2N2aiBw42KPeNkGHZeAOJT1gEQ8EzPOrF7rAU97cNQI_aEdoGNB5Xf2BdobcE14JchpO5ZO7M1q6VRQak_uGXyj43me09zGBewd1rozlJeCq4pxoMJ08fynQzZ5b1rRhTsHqIQ2id-A8yhnwOSgJZbJ9yF73VASi44zr-uG63i5pKowciAfIyAxVY_o4TAxhTJ2TPFif8RUtWmWF5YuT-15ZBQT5k-b431yv5OjoFv2DPNNwlu4jWrNn19QipXWV-X2a2vvgN-S74VkbdOv9QoAVEIRK9F-GVawIB82CebEuZPo-D3vcwdih46BkYZvkOxT4l5DDyeIAtEmK0pGmll79SZOTj72w06_itimDNuEQePCnEX6Qw4Iu",
+      "width": 3472
+    },
+    {
+      "height": 2464,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117828148929439529660\">Bianca Priebe</a>"
+      ],
+      "photo_reference": "ATKogpeA605XttjUUYfMpi6AGPwQOnqTNTwF6S0zggoJS46lHBUxJ_qVTKtwZCaM9Rs7sTOBJ1Rz09OQysjD350yAE6l5uIyDjkPDnHADv_lfqq2IpHziiPAT1Y9We-S0dU4tiaTOQ3mq3f1-_2Kr58mh1KC8PZHlOCw8Lsd6qpdGVk1POtBLgv8NU6pO8dQpuJhc6sHvwR7Ko4fLhEcKwW41lqz06-h77j23wWzeOoMw1HXmv6iwmyfcAZ1_563tJf3vnQj2F0bO4pK7mj49JsRGJVPf0OzUUxtt8g9BYmvWuq6QcdYka7TUQpFf5UgGlrgSWUPgyglucW2ZqI_DfaVlnxJlGQ_ZHeW9Ztg-dVH67lMiiD9-xb-D9UGDDKHfn6h2F8qL07_I2WNhnnaTOgtc_8KUVVjCTasOdCqIyWFXiw",
+      "width": 3280
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113805167739481470557\">Gloria Cesar</a>"
+      ],
+      "photo_reference": "ATKogpeVTZTBRauPUwTA58CSRH80PhNLEj_obc-Qz7v8VUmGC8J-S_vmxHDk_vTn_gDA9PMjgwF4nBjzQM8rjsxleS5xRA7EAhFqRoGnzrrFCj3gYOCoBbp9Bq5BkaqqlcnUZsmlukkz7Pyqo2IMdPp5p-KGGQ1xqwIVVWjC1hGo4F5BKSUHUY9hQ9S4jb5cz3h_sMCpI42LvRKaSKule125lNhu_CQ50JsnKANte5v0L72OwlKX_AlstiXlG7MsLIvuA8kbK6D5PQFWY_G15CLiH6E00-CFsOGwWc8alW8sZpV7nOo7EWiwtlMwDHbLupizqibpWtV1zGzXSj3vUGOReOBQWisKYLO51bs9ax0xaJlJtpZkKui3hadm3krs_jufjpClnVt6wO1BBvSc_MbzoYqzoTli4YBefzN3NR9pemZ0Aw",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJlY-doxXlrIkR0tKJWMiylOI",
+  "plus_code": {
+    "compound_code": "232R+48 Durham, NC, USA",
+    "global_code": "8783232R+48"
+  },
+  "rating": 4.9,
+  "reference": "ChIJlY-doxXlrIkR0tKJWMiylOI",
+  "reviews": [
+    {
+      "author_name": "Hannah Mingus",
+      "author_url": "https://www.google.com/maps/contrib/101743066807325880833/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVs6ElFhWXnbLgMd_zsZ4kb4U9-NR5OTeoOeVSWBT7-Se3LReRYJQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "This is such a cute little spot for ice cream in downtown Durham! It is located on the patio of Maverick's. Their ice cream is soo creamy, I don't know how they do it! Trash Panda is the best flavor, highly recommend it, it has lots of different candy mixed in. When in the Brightleaf Square definitely give this cute local spot a try, it is way better than the overhyped national chain just a few doors down in my opinion.",
+      "time": 1689450980,
+      "translated": false
+    },
+    {
+      "author_name": "Mandy Tewell",
+      "author_url": "https://www.google.com/maps/contrib/114639272825042960135/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLrAmf9z_GmSzXVfcrTWMihAroZ0vGaaVJJ7w6H8SKLcmc85Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "I love this place!  I won a contest for an ice cream experience, where I got to bring 3 friends to make our own ice cream.  The owner, Mark, was a wonderful host and shared a lot of interesting information.  If you happen to try the pistachio and devil food cake ice cream, that was my idea!  I will definitely be back because everything we ate was amazing!",
+      "time": 1692991776,
+      "translated": false
+    },
+    {
+      "author_name": "Terri L",
+      "author_url": "https://www.google.com/maps/contrib/106113151420947650615/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ5S_vWcR-S-Dong7b8up0_mUNTCbVaA2D5R1fnwNLo1eHjfvo=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Excellent service and some of the best ice cream we\u2019ve ever had which says a lot since ice cream should be one of the 4 major food groups. Creamy, rich but not overly sweet.  We\u2019ve been here several times and have tried most of the flavors and they have all been wonderful. Skip the other places and seriously go here!",
+      "time": 1696125372,
+      "translated": false
+    },
+    {
+      "author_name": "Summer Pittman",
+      "author_url": "https://www.google.com/maps/contrib/116719383538648387726/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIcCamIQodAyRfhsDEzfF_KBzPV-de8IxZeC0O-OG2f9zsMW9k=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Incredible ice cream! Got the strawberry flavor which was made with real strawberries. Not too heavy, felt very refreshed after! The human working the booth was very kind too! They let me try a bunch of different flavors and then helped me decide which one which was really helpful. Can\u2019t wait to try the other flavors! \ud83e\udd24",
+      "time": 1686967188,
+      "translated": false
+    },
+    {
+      "author_name": "Gloria Cesar",
+      "author_url": "https://www.google.com/maps/contrib/113805167739481470557/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWhPeeZOGzIECvWk480rfBtkzIYRzoPrgpO9eesWjxp6ZX24WwOCQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Great ice cream!! Oat vanilla and cookies and cream was delicious and ice cream are handmade - they taste so authentic",
+      "time": 1657743355,
+      "translated": false
+    }
+  ],
+  "takeout": true,
+  "types": [
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16326871122673521362",
+  "user_ratings_total": 20,
+  "utc_offset": -240,
+  "vicinity": "900 W Main St, Durham"
+}

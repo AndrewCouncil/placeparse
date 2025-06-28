@@ -1,0 +1,519 @@
+{
+  "address_components": [
+    {
+      "long_name": "162-23",
+      "short_name": "162-23",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Hillside Avenue",
+      "short_name": "Hillside Ave.",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Jamaica",
+      "short_name": "Jamaica",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11432",
+      "short_name": "11432",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">162-23 Hillside Ave.</span>, <span class=\"locality\">Jamaica</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11432</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: Closed"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Easygoing cafe offering homestyle Jamaican cooking, including fried chicken & breakfast."
+  },
+  "formatted_address": "162-23 Hillside Ave., Jamaica, NY 11432, USA",
+  "formatted_phone_number": "(718) 739-8443",
+  "geometry": {
+    "location": {
+      "lat": 40.7088791,
+      "lng": -73.79933700000001
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7101637302915,
+        "lng": -73.7979718697085
+      },
+      "southwest": {
+        "lat": 40.7074657697085,
+        "lng": -73.80066983029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-739-8443",
+  "name": "Genesis",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: Closed"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106415085812771856180\">Shayer S</a>"
+      ],
+      "photo_reference": "ATKogpcFAoSI4A40qDE_NK_-iA6Sd_KWDnM7g0QczdoGynQ_ePg0HfpjmA-bnUf8hcTnfaNmWvsbN23UKVAVN2Ix_o9r2Rv-o1Zw9orKB66mjpz61ZyrK9bqLnd-Gwj6LEKpWPi_XVMdoOuvIweo7cP3uXe_KZ3015fPP4FxPsRIF1iFVXYNaDc0hv_q2yNKjeStk7H4KAA4fXX8qC-5Sg5gQlDNaT8N1WTMRonOZK14bAghTxNfCHWvKgC9Lw6ssq01Cwg-HqEDoPPW74Zlq-rPzIosG7xukACrO6gdXAftP7PcV8GGQSLhOZ37bAw3FWBz_iAB7rYAsBgGqWdv2PV9JTeu76TkBcTYOhZzWImhexEXAitnM3tcEU2pBX0cR41rDiu6PFyFLWnSrbhIz2InLB_7sugxa5kMVewoTQoGr3U",
+      "width": 4032
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112264752147548538224\">Peter Tung</a>"
+      ],
+      "photo_reference": "ATKogpd5wLMxLpBJjPL-SE_HllWNY0-MvFnCgSKc7EnxTwoIcOFHz-SNKNtz-4_bqKtnhWJQ8y9KeIMFKMZFlmobMcjYoftQff0VtfhSff7BzGQjVGWUChEkxPVgqHp5Gk-a9Vh0cqqxrMLq-4aanV37xaxIiwMtgRBEKVBjhB5ShuhhQkDO1HNBVNiFU8UKMvggOl2Z3zHzFxvD1Jbb3K26Em05wsLZxP25m1JOAEKspfV2hUi4-HaOqMkKS__PKpDgdTahKUYrAbkhkg2pLQKLS2CrH6vY45u9OoNSb9ZBM6FqWRQkhZpI2WhojYGm_te90fjqvTkA8Us0tIwFxR-qmbVl9ZyIc110U-4iSm864wPvpidqBLcAUlldpd_96OynQs6JktyOWgzPpWbG6yPfzsPrVHQQ1wkiN319kzM_59cbfg",
+      "width": 3600
+    },
+    {
+      "height": 2175,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104518567550397675462\">t Vega</a>"
+      ],
+      "photo_reference": "ATKogpcZu2DLAlIpRer2FnU3n7F28fnm4Ccij35Yt4hcaZ5MRwxyd_mPiSY-mlRIjFeJBzkWAwCvF2UPbHQ_5XBmpafo4Jk8pnojDRY6jK66Z8iEEAm3sKF5xRwBHOn5XXSrWQe9li4gPrTm0aC-EMnA9Re6aRnXG3dn92w3NWlHD4q5-pG_TYtXED3r9RbJNJeb-rojqLT0B9oKhEjM6ZmXLUD9soE6NnqFJdUE1RO0unKGqbEcwaURgWlrgcxaUP1IVPBC9kqd7Iwn1I0Nmv8W4POuGMAlUzpGASnFS0gfu2m4KotfgP6Bx9_iurgUCyLlP0ITrc8wSfAXs3jLgK2loWAPC1BBhuF8NUpxQMXtk9I86JSEs6CcXkhhPC8jxMW4DaqCv8uN_kMkhb_ueNvPMOozLktXbVPpPI-3vdbRHJp9_A",
+      "width": 1868
+    },
+    {
+      "height": 2227,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104518567550397675462\">t Vega</a>"
+      ],
+      "photo_reference": "ATKogpcKUiK36LCzYjXuwfFNq0uU8OulZw9CJI3J_3W2WdXffd4YKR0HE3dqi5GeSvJbb3PzyMAUK-ch0xe0GgDuUQdrdfle9W5VWzcG4keXUWlCTUkBnHQG1hRFIxCq9mVZjsOjjYdmMOIiHPdsxq9lCV2QC080fOrCKpwq9ehjwmfHUKyWHpv_gMBipOUF_sxhf6cF4bEQTAxVjSN0PXZpGD_tW1Qvb4SNGKDMOTmQdYRGA06Sk5Nguc43XE6FcVIsomQsWUK4IVpC0rRSgZLCQn_9U1ZuPcniR7J8tZfRA2CmaNc_ucoIiEJg_icHiTgewBHIVI_XEYr8mvfiWffT-3kgGLe7uM0T_yTIsPnSVHrduYtqfwxgQ-t2kopDym3V3Ez6knxKyz-yUZIEDUCgQmqsbYddvY-kMwQHBL8bzaCWNs0K",
+      "width": 1841
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104846714794575606078\">Stacyann Hutchinson</a>"
+      ],
+      "photo_reference": "ATKogpc5TD6nxbt6zGnSyUFTETNCZYcv_l0iznrK-IhPQK89uIAHcRt3reE-s8JAdL1Nj3V7c4ihD8Qfrw-XTIo5pZSptdfd-jp-SLti0pfxuW-tK9qAdpMDHgN6PAiCKHAIutcmQb4wwKeageovwLYAUFkEqwJT98feWtwFI6ha_t7ms65kfHnXIoZcLZLw4mS77JfnCG8RqFH6npt-sbxi-oZIYAHrC_TjojjyaFJjiGc2NZ46Q-iPhY7pEtyQQwZzK98UOrC_-vPwhFxycMLnYc-g9-pHQhjf8sNvEZpJRDhFiF4SXx6ANlHVO-LWgxxEGYhe4g3Dvk0TmQrujLHx9HNVPZQRczG9ShkTQwgKkjJaTr_w9LR3sfc2twfn32Oz1aFQfW-DfxGE4jb98Ddz9nah56nlbBzhoPglNI_AsMqnZsdy",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112264752147548538224\">Peter Tung</a>"
+      ],
+      "photo_reference": "ATKogpd0X0D7vWEKw6q2AZpUbo9apYiRrbqQQO6v8EYX1ULGuhoagPvjJlSnENJjnNNF5B0pWKP0ulSQ8YRXcw_et0kPxbGRQii43ZU2ZsJcnomKIlgXCr0cZ8MlJvJYZKgJVq-rxSmCJ2kd3cjuxOCK1bP-NDc355nUz51QY1Qo-5L1c5P3vrgzV6eBarDToDipZXgo9uHzvo7aQxbTjN_h5IS7D2mOwqWedLkIu4f8HKEm_F4cBBm33XFW5XgMho5npX4_UtWchrv3BfB7OxbwJfyYwIf37OoXJhVGOZC_BEUlutI_K2n3wx74ZbRDQ7fVJmW-7C2xKkCEV6pOViah9lz1PLplns3XBoxUyOIxXnkovapC-olbkxoEzjxvONqRRTZNgACngEVEWJK5lzQCny8pl8M66ifZt3uB6ukNRTvt31pr",
+      "width": 3600
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114616018995215989699\">Joey Dubz</a>"
+      ],
+      "photo_reference": "ATKogpeqhy5Tmn21ylDlIYi_dBWVuebW1tBR66E7b10tCk7WoFTYZYMG6L8F3HD1SnVStsOf4Yk_R4WK3xSA666EWdonGqbSn4oCxvK8mXeDTyZugwNWLlWali9yPkiy0UDzoHubjAYhgZ_aFOQSWenIL9BEu5k_vuIMbKS6Apoc-xj4kVI7wzosHMBHeX3cpGwbz_Q0xhaCrUF33J4n2isIblH1lRW-zAQDpzwGdWCMJGA0VOzZDhj2StwuA3S6P2TiFaKljLO0qZfIu_ttdv9lrKuEqmk-akwGS10eiUt7E1eTEMXC5jqYZtz2oAmY9I44GzOIhe1MBBiRj_C57hSQzA42uBZS8Ca1IBa9RbIPGNiprpJ5z478ImevvtT8qACwpczbFTlIu93gwCY21HLQjhdF9qx0XHGek4vByA8Ho-gEOA",
+      "width": 3024
+    },
+    {
+      "height": 1960,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118419883548853654355\">Gurrin Roberts Jr. 3</a>"
+      ],
+      "photo_reference": "ATKogpcShtQKC1YvuP383uSqpcqycIWOi0flYGlrpf4LDMPYGZbPVnwTdEDQGtzLPMt6LdekQsLCqJHGDrwwtfxUEu3u4JIAvNZ5YFwUzPTGrNq_1hK-QSZRBtyHrWSGPYIdi86g4Pv5Y-cInCW_E-9D5shOQUM8OI19IfpjlhPfP4vyo2pDQzBiRl5gXQARrh9DOPCVTMWG1W-fjVJV_tI22IXsAJzxzMjDm9A2fMGdFAQB0afcgtP55znqZNrOWtN1fHXVM4I4YIRQ_XPP7gfkGulYnDzeJo2Tj6Cb2Am6Wk6V2DYCNBSWF3OYNBs5DdQnhSiqQxllyE_Lp7atdd1E_5F5-BQxkgbyWzbVPqt3LWSg5Zy8Jx2G3f6PtSMF2mpBOxTXXfxgvQQRw1b_hCHsGh5vyL3teFwEO7R5fv0SltPSgBhn",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106073193341436927703\">Arif Khan</a>"
+      ],
+      "photo_reference": "ATKogpc5vo9_2w9sAJKTUsacNViStoVSFd9reQddBiT-h_Vg4ZhkAdSYDGVu6-PQRwNmAPoRmQg6ZJAAfkl-q9i8jX7W3Av79m4k_bxyoKUhuaU5ggVKkD8glI5lok7mMMTJRY3hZEsQzPjyVwVvAFUa7ogLgvFx2AmFA9uattWHFppmtw8ny5K6VEOSkDGoYm9rxjmP7DFayD6BsHY_Bsggv-Bzb3gUvByV8WLqILm4tAin8a5OwAI2pZusFp-_Klbz4iqAkHZpx-56KtFyrVKf3f5EbIhs3Z-9lHIndpAbZptLDY8KZWafS37SMN6PaY0jkMVFyN0D5t0JXVpPG0kjHlhCAtc61FQMaAS4bfRYAJ_sBnNCbwDODbuW6AXO8SZFENIs1xNIBXYboF9jB5p1BGuTme5MndV7LiapgvImlyYT29lP",
+      "width": 3024
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112907094241126526189\">Lavra</a>"
+      ],
+      "photo_reference": "ATKogpdTlDyf1yj9DI4_js68pjEuZa78BQU-LZn_XbuX36PfwU0CygOBmPTA3Cij3KMHtvuAf2KFRvtxYHD1c_-DipY4CwczbaKARz_HhWWUJ7iwITbPFrmqrjWlhhhQxbwVe6eX4iSTBpEJ7CdY__IzwDGEQ1__fCqrVLgunxsY2gIr29qyPg1K6Nbu8Oolxe9EbxowFTP-9Xzxl0-dnOfhXp4PYxswKO2Yq-kNHRX3NyZOLa-jyo-vev_lV9YofI9wHvcs6k-6wSjRHiyPx1RQErq3qSP6lZVYyTPh9uYGfdmCfItpd8rUGcF0sAULGqitsok3haFA1K2qBxuakAjcZlC9-rApwvsLR8YDXgHqDBDhw5h7KaOjuXLPYjomvQ9vTQIUmUTr8c1kCINb12912rmOvtvAl4TcgFqxfrIw-yJIXA",
+      "width": 3000
+    }
+  ],
+  "place_id": "ChIJWfhuH95gwokRY__oqutnc_w",
+  "plus_code": {
+    "compound_code": "P652+H7 Jamaica, Queens, NY, USA",
+    "global_code": "87G8P652+H7"
+  },
+  "price_level": 1,
+  "rating": 3.9,
+  "reference": "ChIJWfhuH95gwokRY__oqutnc_w",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Carlos John",
+      "author_url": "https://www.google.com/maps/contrib/106443602561310841271/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJxHOu2RFx-Spp3ISxCbFMr8D_QoZVq94XzEb7sG67E_Y3ohQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a month ago",
+      "text": "The food was very bad and it was so spicy and everything that I bought from them was spicy even and when I open my Mac and cheese this is what it look like and I was so disappointed because it was never like this before. I wouldn\u2019t recommend this place to nobody.",
+      "time": 1746136446,
+      "translated": false
+    },
+    {
+      "author_name": "Jim",
+      "author_url": "https://www.google.com/maps/contrib/116751986800163393915/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJp77NANMfbdtI_egLtTyIxKcrDP2fHQ5l9fvR9Fj0l0xq-LQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a month ago",
+      "text": "Worst Jamaican food I\u2019ve ever tasted, I ordered on Uber eats and big mistake, no way they\u2019re Jamaican.\nWould not order here ever ever again",
+      "time": 1747178364,
+      "translated": false
+    },
+    {
+      "author_name": "t Vega",
+      "author_url": "https://www.google.com/maps/contrib/104518567550397675462/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVXloZ_6RWnRtk6WrGTNc-p0Qk0I3vBNbBGlgWtWk1T5dIEKqFuAQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "If you are looking for an amazing West Indian place to eat. This place is it. I only ordered 2 things from the menu, and that's only because I can't get past ordering the Oxtails, Rice, and Peas with Cabbage and  Ackee and Salt Fish with Food(that's Dumplings, White Yams, And Potatoes) When I tell you it's like a party in your mouth. I ordered food for delivery. This place was recommended to me and I am glad I listened. It's a must-try. RUN DON'T WALK TO ORDER.",
+      "time": 1730984545,
+      "translated": false
+    },
+    {
+      "author_name": "Joey Dubz",
+      "author_url": "https://www.google.com/maps/contrib/114616018995215989699/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbRLpim8SfmTD9fkjlptPVtXw-sYrPKBIxTbDuROatryVkJDX8=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "I had the sweet and sour chicken with rice and peas and cabbage, as well as a delicious chicken rasta pasta that had a kick of spice that I loved! The food was absolutely phenomenal! The location is intimate, which means service was quick. The food was hot and fresh and I plan on returning! My total for both dishes was $26.05",
+      "time": 1696881565,
+      "translated": false
+    },
+    {
+      "author_name": "Joshua Hudson",
+      "author_url": "https://www.google.com/maps/contrib/113521304517748710754/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLNizoqjHtzKIV9nUQZtjzgCPeI-I3aDlYatsMvz4hQucM1fA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 months ago",
+      "text": "Found hair in my rice and peas buried up under the oxtail gravy!! I took it back and they gave me my money back but after looking at the complaints because I almost order from this spot via Uber eats! I definitely believe the bad complaints on here! They was good one day and then I had a unsanitary experience which is stomach turning",
+      "time": 1745015247,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "type": "TAKEOUT",
+      "weekday_text": [
+        "Monday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Tuesday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Wednesday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Thursday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Friday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Saturday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Sunday: Closed"
+      ]
+    }
+  ],
+  "serves_beer": false,
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "meal_delivery",
+    "food",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=18190997581761937251",
+  "user_ratings_total": 773,
+  "utc_offset": -240,
+  "vicinity": "162-23 Hillside Ave., Jamaica",
+  "website": "http://www.genesis1restaurant.com/"
+}

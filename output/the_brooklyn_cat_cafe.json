@@ -1,0 +1,375 @@
+{
+  "address_components": [
+    {
+      "long_name": "76",
+      "short_name": "76",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Montague Street",
+      "short_name": "Montague St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Brooklyn Heights",
+      "short_name": "Brooklyn Heights",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "sublocality_level_1",
+        "political",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11201",
+      "short_name": "11201",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">76 Montague St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11201</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u20097:00\u202fPM",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: Closed",
+      "Friday: 12:00\u2009\u2013\u20097:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+    ]
+  },
+  "delivery": false,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Kid-friendly spot providing hands-on kitty play time & cat adoptions, plus coffee, tea & snacks."
+  },
+  "formatted_address": "76 Montague St, Brooklyn, NY 11201, USA",
+  "formatted_phone_number": "(347) 946-2286",
+  "geometry": {
+    "location": {
+      "lat": 40.6952086,
+      "lng": -73.9964344
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.69663593029151,
+        "lng": -73.9950488197085
+      },
+      "southwest": {
+        "lat": 40.69393796970851,
+        "lng": -73.99774678029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+  "icon_background_color": "#7B9EB0",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+  "international_phone_number": "+1 347-946-2286",
+  "name": "The Brooklyn Cat Cafe",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1900"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1900"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1900"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1900"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u20097:00\u202fPM",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: Closed",
+      "Friday: 12:00\u2009\u2013\u20097:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106748486533681863562\">Daniel Almada</a>"
+      ],
+      "photo_reference": "ATKogpeGqUs7Yr6_sGVWH6LRaq7V-pkw2bccsnuxuwrxOe_tk8qm2p3tqb308fJvi5-CnvI-oqKc6ytP2izu2ycy9gfG8-LnNh9rxfMNmxKQs3V5G5TFNUv5Jl9BuCmnTKAocptjl0OtHBhnfDkpNtsXTYLOa8Qh8kq4h5X0ZQQjyJi6epTN0wVic7FKgxVDBLMB1-WS16b02ViaBiJKhalty9TQtxkfT2xlSrvQ_rQmFajXz-gKeC4n1eTMeuh2z1_znWKrt9rEB6xAjt3boqwELcYcmbchTsV3YYb5AEc45oPV91H0zqMHfm3K-FUFV8UeN9J8bJoKRfrawCPuuIDYpsb9rlybEJ-bf1daf6eWWy6Tdc4QIzijiztGpkYJukv8JZ2PyoXV8FF4Jt06jkYrmeXu0gR6aftywMIElqp_zzLmCA",
+      "width": 4080
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117192349585734296583\">Darwin Wu</a>"
+      ],
+      "photo_reference": "ATKogpde-1YKpMPq2KN9WDqV7u_Zr1HbYA4VsHL-1eNxWxBVxLO1WsK8Yhrm9UCohqQdO3-brXxGAuULeDOO_yDctuT6WQE5cAKDLhQjnrypUBNeaG2oVfuBTCg6_BzOoEeQ7HJJd61SAtf2Xeb7zJqdi7nUr8422dHYaOZRbUNxOm2BfuBllUlblzeVNAE6GoOwFRVdBIKNjUq2_4K92Q8hipz1hOvWA3lZ9bJmhvFgKY9twbANUvj1UrBMYbrROo4uvrl_kuG2vaUGeGt3MdbgBbEtSeUg5q2RwAIv8OW8XGKsetlODNb_C_SZTqkS2taC78zB1_6fCHEWVlSyhwZluhFxvp72DsLAoSPDw-MRnQzZLgqiaRFFB4FEhnxpl-mCwlr3IGDcYOAwxx5FDPPBBdsO2WdTI-1fuGym7z2-oRkBXG9u",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100146876602562933271\">mtandiz</a>"
+      ],
+      "photo_reference": "ATKogpeFH95ZrnpV-chDy74_rOTLKZCIxIEtYuwBR4hywr2Js1E2MT7MtCq1w5n2t8WVfOiu06pisR-WH2Tug7h4fO0rhv8qqwYegFBYSx6sgRHlFM9O_w74_vmXxoG7tRYz_kvWgMYQ5sNYE5yXOaRL0pnV9Is26AQoIbVGthyIYIZl9YlgNhsbq11K_KDWYKmafMcItfhxk3VLPzON51oQSvGIW78fnGayVDl3mlmpHaFZeq0rb1orA817JsguFvOsH-pyPDwt6EkBMXJ5psk5ijvdS3MbrmTEf7sde1zTU0JeYwlZDrMcCEoMBu-e2EtAboP-zBT7II1ScVn-jecJWZR6Cn8-pQ79tm6-6aGnTsxOoCCpjm2blR0aqsjYwfau66PzacrgwYaV7x6Pu6IyICG4_GohwT5aPhqSl2Ssly5aST8LoS8R8YaRomSHnPUD",
+      "width": 2268
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106999145098390378637\">XxLovely_AnnxX</a>"
+      ],
+      "photo_reference": "ATKogpdpJ08NtN2sdjZTVLlPJzesqqWOX-L-VTF54naALQbQ-dRn2kAmVGwZ6y7c0q06DPCbcT5JlvlaoDgMvg4aGwq1QqwXiq8-qDXcDWlSbKfcfx-OEhhqSqHql_5o8RD_ym8LFaNpB-uQVYXVvKU9khx40EELKPlS5vh-gQeBT5zgIxof7ILCfpA9u6i8Pa2DK6WVFOeyW_E8YWxmAEhkrHQA44nL5lRC96l_a90tvX7woLqUOQIA-SNTkNwqhzReONHvpJ89_equCaw5Bh460a-EJR_kek7qlbvAMkEED9kKHGRNJ4KB_ukFcl4j_PcOhGURI03H00igZ4okf52xdAN2lo5d1ShfH2YxMz1wfBsWg2_2qNHT256tBSjvzWrnGaDPPtSBKzEPE9aJtnceYkmB2gahN-E1rQHXlAI7Wz0m5zJw",
+      "width": 4080
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115258243449921924950\">Radu Ramulescu</a>"
+      ],
+      "photo_reference": "ATKogpcfD27kP4HVe531PtRwwAdmE_VvMj2TupcM-knIVZ4JjV3OM7m_8vb3CipGObaCYfYdnA4tlkyuNl2QdHnaTYnt9b-XfzaxNjvkjQ5kLbmv_E78ESc-DJ8VTtuOy8_N1Ta3NH1zzla_VZbiKBidXcqgzH1ofJDSRU4GtRTa7hOhofXRyEIa1A-vX-qK9HGb1wKPB3Vz0cwmrihiEvDoL4pwd-_NWH5gVPFrhiGhvXbZg4OrB7PJZEwylikAqs0vdR2cWhlzMTVcoMtuo3kdqK5qTl5KCs61VsTvZYBfnCZv4DTyFJ0MZyiCtHO_0gJ2ubTRwr7La32ozE0orbwTSf27KxUqY5OHMyYg64YBaScg_2YruTFAm2u_n5keWCeBxDpcSYTlr5ytxm7xAIb5nwR3ECD4JcB7R3BcroNa_sL7vg",
+      "width": 4000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102024531130754661401\">Jieying Yao</a>"
+      ],
+      "photo_reference": "ATKogpd5K8EQRbzWwls4plJROkKkQPg1nf7gO7LDUer9i5rzOapouOPZey8F5tIUlcvB1JZovy7qb9nl5dFEufKnC4fBLxhIyknb9zK6SInz4Sw2l8oJXtWmA30R3_IaHKbYgNkxaolHUVyrjos-L0-P5-AEmafWEtRh38JTxVSQJO4DLXFw5WX-UQWi3J2zoBvrjwEYZ7I9ILb6VXWaeg8nLc5o-pQzKumLXFxXclnvYJzZZpKY1GGoifvN6RkBJJP3uvANxer9foPQ_zvsu027q7W0EhOG73StzqPfDg7YRJomCCsyfIHsqA4jzBB3fHpWuEI3qZU1UTV43njzlzEx2rchsrwcbb6-eau3PVKoD1FG2qcndAkotCi8D6RbtxycaxFYdVjYiMzAwkPOWMoen2YF6aJsz2Y_00dXfbnEiF2fOQ",
+      "width": 3024
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104482821129304411444\">Juan Chavez</a>"
+      ],
+      "photo_reference": "ATKogpempiGRJIBXV82iybDRb0DcjTinuVLx9ypjzyIrMOyORlvQM-eI3Puv2Ev7zLYNzfHfOt3f69s-o4DMbMlPwCVf2fl-QkkL775B7ipExW3b-v14lNoNCJtlxRNgYfdLUZwM90XQXlEdg0jLirc4r4DMiqW--QLlScPhbf_GZIZUW5KJToSxHmh6yiRBX4ViSYscR5Ddz9y3zIEK7eHefLW6qa3CiGjO3swnI4eqCOz7EFLkKuAize_1IdNL_5tuBDszVH48tS5b8CgiAInhT8-1CDvLl-Y4Y8MHBptwn6cbGcbb13aJE-xrOPUAqOjUbo0lt2NLGslOIPzxzgqq2kGRKnVtals-mJcFFCnvqqP0SSmBRI9lkYVnSs3Wb8jJ-ZZTP01JTP-CP0GntsonqHtGx5N5FH-yPtzBtBpa-f1t2Q",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114582372212814918693\">Kyra Ciampa</a>"
+      ],
+      "photo_reference": "ATKogpfxPCiEokNweZb456zsuhLMLnDFI3ld5YQiHWi3dqRYT7CwjmLARPymb4rBgWkx9HhIxUyQPxfLO-gpNy9gBKiYWOocfovPoptFcpBFonfMeHtSqGTef0jCmuesYwlfgxrigv0187CE4UNDla6AEBhjmQMTGS5WaV6SiKNcp8zguXZkVy0Z9aNxn2WgWHkwRX_6ZBQ2MaK0-VQkkfq2b5KPB9HwB6DI5nSle0nLfzEPMAHGR935Aa35-GwZeCmTqCpfPj2ruLZ4U_I67DcYLtGG_cW9P2Swu4FYCip73jjfJa5iaTaDVr-k3_ch_SYe-AivyeHeRpX6cSjVQE67mX1waRYG-oWZNlo-0tUgpfppNILTwzITMOsUHBTKG4jKH8p__2nSgWFen-Z7GH4RVKbkf-hFiYwGPeTXZSbf-w5lFw",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113492743224732710600\">Alasdair Young</a>"
+      ],
+      "photo_reference": "ATKogpeVpIBmRN4B4e17E_20EdnUj1dqRosz-_7faq8DJva0sEjD-hyVgOkJInvQARiZAvsLCnlDp460HAqRtOfsUoOiPxiPNl2hG7sex2HiV3HU_UliL5_Dc0GvQ0SEFYXYc4pyGGHuyQ2PrLqzUuxYnx6mLzL3MizcBh-OyRdYq8-aKJWG8JpvTD3ZMDTo6MLzAuKD3mGlB2ZDkBYUSiQTxjquiYUc6mP40wqrhiaSnZ6iNaJF1HRBjRIAEaqcoS_xfpGwtObQj9vGv_ig2EVDDPiJa4ifIQubhvULK-oCBEOyuysyl2oKbwaFVJoNbA0qHZ9IsCvcGGj__YHmkAT3lh8ZTchi5MqLcbkA3YnvFgqXFEm1IOzH4T0qDDu7KsUsLqHitPzNn13Rw4kLXYAmqDEPFoUlthp1gEHvVg2JR0a6zJfB",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102327376685987955309\">teresa</a>"
+      ],
+      "photo_reference": "ATKogpdJxJ2z7zSmfE84Dn6aks2TzZRIPauqRn_zQqj6pxGalGzbMUe0uCV4FKb1QAhx6_3YGvE2TTzbCeai0ShfJh7UaVbox3PURWkKkT_TmlTzE8vUEP5QuZwVL1uw55V_j6T5DZ-NNa92S704JvdW0J0wnEuAAGbiVheko9UCrR8sHnFEptbg5j61SrAk0MseHcW700nUB0Bq7Ri0XxTGbufjl95Pb81Gqlm5lmk66Gi9hURlPltosf_GCNDyexQJjBjwSqvEcmF32T6AY6B6NB8ydHmJOjqTXZ13E8C-ySMkedUpmGefXyTr-i5k5JD7iqqB5sTDzGJxQlt0FrAi9oV31Ax-ven5mdnhgxcUFm4ohEZkAVeeBBu9Ml6GGI4vyTy_lYjAtirb08ELcwFgr8SJHU9pLQaCedDJlFlppCG6cg",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJAYsFhkVawokRw3cAQ-2bsqo",
+  "plus_code": {
+    "compound_code": "M2W3+3C Brooklyn, NY, USA",
+    "global_code": "87G8M2W3+3C"
+  },
+  "price_level": 1,
+  "rating": 4.5,
+  "reference": "ChIJAYsFhkVawokRw3cAQ-2bsqo",
+  "reviews": [
+    {
+      "author_name": "Ulala Woz",
+      "author_url": "https://www.google.com/maps/contrib/113268849839213230719/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKRKibe7HI1oBkJslYiq1cPzV90PmvKnWZUXsjILEOvO20tbg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "a month ago",
+      "text": "Very cute, the cats are super lovely however, more should have a red collar as they bite unexpectedly upon a slight touch. I have had animals all my life so I don't rush to pet them and give them their space as needed but some are very unexpected. The place is very nice and staff is super friendly, nice and accommodating. I recommend just be watchful.\n\nPlease make sure the staff is more careful with which cats are more friendly or not. Saying cats are cats is not an excuse and it's unprofessional.",
+      "time": 1747533441,
+      "translated": false
+    },
+    {
+      "author_name": "Fortheculturre",
+      "author_url": "https://www.google.com/maps/contrib/110207576613978047191/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW5B2K-OY7MnVqYORZfW3-BdUnN-I-la3JQhYmIf6fkSo9EovT2_Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "One of the best days EVER! Im already a cat lover and this is the place to go to be submerged in cuteness \ud83d\ude3d. Some of the kitties are timid but thats okay, they have a red collar to exhibit that. Majority of them are very very friendly and fun to play with and it warmed my heart to know that the kitties get adopted very often. Before leaving I donated willingly because I believe in the cause of fighting cat homelessness in NYC! I love the work the work they\u2019re doing here and I firmly believe in this Non profit organization. Definitely will be returning with friends and family very soon! And definitely interested in volunteering \ud83e\udd17",
+      "time": 1749858163,
+      "translated": false
+    },
+    {
+      "author_name": "Stephanie Santiago",
+      "author_url": "https://www.google.com/maps/contrib/116121456807838109613/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFKTewNuy-IfzpmooDS84n89z4lkdxhw4gbT3ZO5narMu7DVsc=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "This cafe is such a cute place to visit! It\u2019s a great habitat for the cats and animals. The staff was super friendly and was there to answer any questions about the cats. Would definitely recommend making an appointment and showing up early!",
+      "time": 1749129109,
+      "translated": false
+    },
+    {
+      "author_name": "Katrina Liu",
+      "author_url": "https://www.google.com/maps/contrib/101095119110725694827/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV347szwfR35p72vQt7a7EDag9irn-V40-2hAkkbclVrVFcM5w=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "I love coming here!! The staff is very nice and a visit is reasonably priced. You can purchase treats to give to the cats and there are toys to play with them as well. There is also a room with bunnies and rats. I take my friends here whenever I can and I hope to be able to adopt one of the cats here one day!!",
+      "time": 1746927951,
+      "translated": false
+    },
+    {
+      "author_name": "Ann Su\u00e1rez",
+      "author_url": "https://www.google.com/maps/contrib/114165891554998809624/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUxiNyKdKBNOWFn_Xs0MthLVvng2xRT5c7c6d5J8Q8cBaxRviWt=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "Had the best time with the kitties. They are everywhere and they love treats.\nGetting there was super easy as well as the process to check in. Half an hour is enough time to go around give them some pets and maybe find one to play with for a bit if you are not planning on taking any home (tho I can assure you it\u2019s super hard not to).\nThey also have \ud83d\udc30\nWonderful experience!",
+      "time": 1733855718,
+      "translated": false
+    }
+  ],
+  "serves_vegetarian_food": false,
+  "types": [
+    "establishment",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=12300064975635904451",
+  "user_ratings_total": 1202,
+  "utc_offset": -240,
+  "vicinity": "76 Montague St, Brooklyn",
+  "website": "http://www.catcafebk.com/"
+}

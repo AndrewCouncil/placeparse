@@ -1,0 +1,517 @@
+{
+  "address_components": [
+    {
+      "long_name": "736",
+      "short_name": "736",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Franklin Avenue",
+      "short_name": "Franklin Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Crown Heights",
+      "short_name": "Crown Heights",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "sublocality_level_1",
+        "political",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11238",
+      "short_name": "11238",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">736 Franklin Ave</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11238</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Mexican fare along with a selection of tequilas, margaritas & other specialty cocktails."
+  },
+  "formatted_address": "736 Franklin Ave, Brooklyn, NY 11238, USA",
+  "formatted_phone_number": "(718) 622-3100",
+  "geometry": {
+    "location": {
+      "lat": 40.6734559,
+      "lng": -73.9572247
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.6747367302915,
+        "lng": -73.9558093197085
+      },
+      "southwest": {
+        "lat": 40.6720387697085,
+        "lng": -73.9585072802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-622-3100",
+  "name": "Chavela's",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115955152946636469558\">Chavela&#39;s</a>"
+      ],
+      "photo_reference": "ATKogpe6eSGclBLri9ySACcE54BKNIx2VKytUmL9CFrZByISbht6DWq90JIIbSunssAf_M1DVz_6y2xYFfvvOoBxvMgNPGEWDwAbOpyYXXPJTODv97YCWtJkxuc2pBdiEtqYmk5mxyqjucVTuqKwnUGz0bNUdt-L3mR8lo9_MjPPKJj42TPv9_3e7u281FkcW6xEUW_W8vNWAauIdPS6ztJ7PT5lxaU13yNABZvqgmHg3zKV5ggzqZzicD80Xn99hQJh2ji2II-bN_1yd2nf9XdlKkqWP1C5QNNNRg6_7cTrtgTimA",
+      "width": 2048
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115955152946636469558\">Chavela&#39;s</a>"
+      ],
+      "photo_reference": "ATKogpfTtklLSbyZaqZBoOfzXzwipXPNGbRVDyLfm4ul8mYmsPIq-r7kcHg8jxIx6iMbfLgyPqB3wSsua8A650FlY1nsw-BqxoZfdVwZhMmCH17ckAxCPpapb4Gr24WX-4RvR5qJMh0RfFz5Tatgr_1Dr9w_kRvpq7S6hJpYZW8S5ExBzRLKfO_xEEkHSl07-T_p4a4UBfzA5XGvE4bMriTjc7hAqcqamsefpG2GoNiWSkqB9bb9AD1ULdhyJrjHPRHllK0gnC_UL1IhKx6JRWAjp-tBJjETd8LGoJE5A2bNJSQUbg",
+      "width": 4800
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118232179344071940672\">Joshua Dyer</a>"
+      ],
+      "photo_reference": "ATKogpcCcs-u7Eo7tuhr8xoEwza7d3cLYUJRbCwAHXKEsBL49yU6Q-3CbSDoEpSn8vBHrwV_fg6tYZBYOD5JU02qQemf-v1GVsn6ZfSS-orC1UywPCr0f3XAkbog_OzrA-fHgm_1p8F49K6PNs_0gyxLxsDOn4o1OifFsmIiXfxqE3FA8dRIVQj7pZOrpNnNPbJtcGo_phXHd4Z_-FA_eB9NwI6745cOzU-UuCnH0M1VgH1HjQbvx9Wmv0n86uIoajan0hoQH3_d0OWup2T3kNCijeYy5T2k9t-O8MRq4YTZVo1IhB3e463lPcvHgK571ahO-0zuSmFxciJInQChRyi-2GHI8jL0nk5BLuMk-BCnetgfdAKNnaUBEj5razvNqDFC1RdPuNTsCDOlE-OlDaRVtufp-QZLuF2DpFP0yFK-igI8PbLc",
+      "width": 4032
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117651271704498339103\">Nischinth Sadhak</a>"
+      ],
+      "photo_reference": "ATKogpeyE2-ugQH2-kzpTnXPdUtjhRG9jfjvwAh6oKQ618_UP04qBLkF__6CE12OZB4nCY_5aUvytSZQqpshyHxwrxqvxvMZHD3q1YwOEb8bXumOUpNueioCZll_avaEQbVq-AEKdPQU23WZLUoqxw40oaDSOeEjNwgDB29A7zUzfcUBnplX2H70nM3hMEwui_ayyclD94ku9uBU9IV6pdsNC3Srh7tjEKEUs4R_iteehXXGtTrbWnxphteo8JYpZHbCWlYHjLnPKO-R95RS7QNVDwaE41e2LDh9GK8XSu1rpcU9pTyrmWPdLX2OgXtoeK6xnKEd1N4tqJNyQvrG57JVuZ2syZuma1FKKTCiH3LRN1E_8CZyz7q2ry4kskvbHGNIK_gDL6X5Yyygo9OL0ntrwjlJ2VhM8GGI1EAGlaG77DY4CA",
+      "width": 4096
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106181406102664292981\">Richard Tian</a>"
+      ],
+      "photo_reference": "ATKogpfHmoVmgA3YIXDQprB5tPb9LYhWG9DR8n9c_JL12SWM2nnf52PuzggeaNQf9oNLpm7wtZIFLco3tsrdXbQ0-rMXEIWdkKepLOsgwYdSBhjjtCDCn_8VoHkag02hZSWebms-n0JzNpNe2aOrznt2h6VD-0c44Nee90IQF8h_UbZyVGYfp1SgxDNDUAjesoRdjTfBIMTUN7ZL_Eb9GK-mBhET8B_xkwwMv-4tOuIEISKHGzU6ozBCitYSQ9Qxx0uoUFp_zLHeB5fNOSYOd37nQDQVG47XMzmfs5YO1_UMyaCrrYQTfWuuTfo-V-0_bE5mo52smdbFjRsywn9yI4X_bUdRZhRj_MGE84aWBVIcTAtTtJtWN4kH-0C5D5SkOmA7bL4lF5-kHJfl463vQ85N4hvzvXNwaLS1Aa6cMNKuZquQ4Q",
+      "width": 4800
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111143370856483078960\">Matteo Ruggiu</a>"
+      ],
+      "photo_reference": "ATKogpcYFXSuUyVhVshUy1Yo-ZqoYkRvuIMsYlfpLrWkH6TBm982uXu9iFtRTOPmjlWfPuKBneCD5hZg0-On2ZZa8O9HhBfVYXcAVEIPAtlKsiwzDlMVn7KPaCrloqg8RoGEoeEM86DKAm6hSkhxMBWbLyd_iwUtbgeElDi_yVTH3k239y4T61uKYS3nwjiBhgb9Nv8bky1SvUUSAIxOaAdC8wCxl_IH5xGg_-EFNgBBNlFZBV93hdZDo_r5gXnbc0jsRCTr9nuEJpXbvb17fSY__f0ij--crEXqw27fflLGe8m0VunTefid6QENYmgFGsZv-zOjT9acFHziL0kJqeO7qJmdi1ADfV-6rTg_Qyg8FjA0ISIKi6ZW-9zQ91oQiFIMFTMc5D6xM5TdUzNj3u0H8Fg3joLenC0lxdGMk9ztzW7Wy62T",
+      "width": 4080
+    },
+    {
+      "height": 1365,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113581095697977415547\">Taylor Nathe</a>"
+      ],
+      "photo_reference": "ATKogpcPLJKN0YEJ2G73Nm1ew5KYq_7v9R5nEHUvntb2I4eYs6Fuca2eDinhcyMV3W0oxi964uriCbGAFdNnQDwYE2Qn_8AE-lAUHGifotrd6ZdPmrfPBAIydRrJuGmc0CjlmuN-_PE2W_dtlam4t8G7_wHHWbZSAHbmBqI-Tlkv2VcyWfLOkcT1IUbFdZnPzLfJ5H-plFd4FJAjBKmQzJAhppOZWZawjJZdQrtyKp0BrK5eQdJ9YvOeoc_8fge-jKLzzR0_TgFOJj-KwxERrSwjxVYO5dRqA_klNVjJz8OkEkZyMfQQEHIKog6z2aKGF0XyPN13VZq7i756p7PbZ-cym9Apwbao1M9Vnvw6Q61jTnwEGNvr1fco2f5131hrPogtPG4MGr0UxeuP0_1XmODmWdjeTOl3k4xh7ctF2kqPQO7oNQ",
+      "width": 2048
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111143370856483078960\">Matteo Ruggiu</a>"
+      ],
+      "photo_reference": "ATKogpecXBc-c7xKbBIcsRzqIedtk6-YSrZVk1jpyjGdAQufPRu7cBjN80HJ_I_gOKH-znKvsWIJ-xkKYEjhU5mroSzLz3WNfJi_mF87TzPQkkQ-m1iNqo0eYDbnt0lMNRFEuFmtIXrvprF1RFYXUSqok9lZD89aeAjXxDOm_y6M0XIoDNzHm7L4KmnRVJeJ9aqV6K3oegeg86rBuBKQ-McVTLsIgDXe4l5X4g9Rw_zV80yp7CSynfK-Abc75RXcjYosRJn-C20PGahvgWjV8djfnahOskCQaBVIKJ7zvfhQWoOWkb63VnDEC-ceHzADNbUe7ZmqqxilpoPDwdqOssMnY-NIH6Qy3CYeOnXMcFBJ1b6azBLmgGouvXHg6j7BRJReRvEL8BMyH_M8UyQsOGrG8gtJy1P6rSnO8oVyvch-nbirdgaUHn8hdhzBwS6cig",
+      "width": 4080
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111143370856483078960\">Matteo Ruggiu</a>"
+      ],
+      "photo_reference": "ATKogpfCEJ6F_-p9CuOmFIosa_lZIGF0hJP187Rwm2jQiiJq_hJDWg75nSZfaL89i-syweAnIIPEH11S6e5ID8qslGEjkEYjTG-emSGFDS1MoVSk4-x3emqNQVlr1yVTmojWI29Gl8jFM1vatq_tvoxYbrS9u1_MLuyf5kbW5Yfr1fonoL-soQek-q5ZV-ewLcuUgo-xeS9R6nWR3H_MOelbgkbHyktzQ6NjhyvfEPlsm1C1KaCQnHNcYEH3cI9-_Orga35QE_0ajCiwKlT7IHJDLk7oAoarNBUnvIEHswQIIw6xU78mEczr96zejoylnOIq7vqeOgJPmFq1Q98VI_kT7-1ktlAfl6td2XVyvQ5NwUBYWxass9xsajHOqvzGeJ27vectxrY81Dcx3Vq0hoWgpzrwr0uvkLEd3L4PwXF40ME_VA",
+      "width": 4080
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118239994379011248125\">SAMMY LOUDPACKS</a>"
+      ],
+      "photo_reference": "ATKogpdDfctEY6VXKH7H94yTRmGVo27_J_bbNdF85TcsPH6XosaC94sy2cSikbT7H8tZ6rsBajCYkOhqmXUTMreZ6gW28pxxgsGeCM38ZIY4aVU-8u0jy1z8rCvNOU9lnVzN-VVGPNTP0ORLNIPqpHzpHXM8bryi6CTRQrOW0qG_mqAnhv2_ci3MUeSiM_7h0xdv9lVnJaKntocnWgdtRWlvz8vbA5zx9dwomebHOzSKwEaFfsfAtfuYY8RuNXWK3xdgshGjCuL9WxBzAqVNSuoHxfHCseQFYABqQ-maaB_mLwjcBY0JtBJQlH0o92-8Fmp_xu83YV0-hZiNCX4aQUPtciNoNWMzh3tim7CpNwJIfR19p73YyWWaM0yNwTXhxdFB56H6kmhG0U40aa6Jf8biRFmKVhuHja_IePkf5VNyluVyAj6z",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJJ5J8yJ9bwokRjpOkpYgii5k",
+  "plus_code": {
+    "compound_code": "M2FV+94 Brooklyn, NY, USA",
+    "global_code": "87G8M2FV+94"
+  },
+  "price_level": 2,
+  "rating": 4.5,
+  "reference": "ChIJJ5J8yJ9bwokRjpOkpYgii5k",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Patrick No",
+      "author_url": "https://www.google.com/maps/contrib/100866947936588551909/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVELAo3Pgw1X0OCQg0nx8J5WEwpBnJTrZU-NL1pi2aqqhyQguwi=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "A nice elevated Mexican neighborhood restaurant in the crown heights / prospect heights area. As we walked in, this place immediately got a line out the door, it gets packed on the weekends!\n\nThe food was solid. The Plato don Carne was quite good, the chicken imo was better than the steak. The enchiladas mariscos was okay. The shrimp and crabmeat were good. Salmon was an odd choice for a filling. Mole was standard mole, nothing too insane. The pozole was one of the better pozoles I\u2019ve had. The ceviche was fresh and delicious! Salsas were fine and the guacamole was fresh.\n\nOverall, I think I would come back and try some different stuff.",
+      "time": 1745806892,
+      "translated": false
+    },
+    {
+      "author_name": "Howard \u201cHowie\u201d Tran",
+      "author_url": "https://www.google.com/maps/contrib/102282366062470933320/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWVuYn2ebn2P-2SpxzoUqwP98gSHMjUsctueP-LCJ-jf5mcMx6l=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 2,
+      "relative_time_description": "2 months ago",
+      "text": "The food we ordered was disappointing. We love Mexican food & I have made multiple trips to Mexico, but this food was blah. The Huevos Rancheros were inedible, and the tacos also tasted off. The best things were the guacamole & homemade tortilla chips, and the quesadillas, but even these were just okay, not great, just okay. Also, the food was overpriced for the area and what you get. Perhaps this place used to be better, or this was an off day. We\u2019ve eaten much better Mexican food in the East Village, our neighborhood.\n\nOn our way out we noticed they have a \u201cB\u201d sanitary rating, this may explain part of the problem. The plates & glasses were a bit dirty.",
+      "time": 1744914314,
+      "translated": false
+    },
+    {
+      "author_name": "Peter Hill",
+      "author_url": "https://www.google.com/maps/contrib/111572241343118288478/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKJOs_1igdai_TKujThVIa5Skdtg_XGAbWMtAvs0RykTuscPA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "Chavela's is a lovely restaurant which checks many of the boxes. The servers were professional and excellent. The food was quick in coming and tasted amazing. The music in the background was loud enough to hear but not drown conversations. Went on a Sunday around noon, the place was busy but thankfully as a party of two we did not have to wait. I recommend Chavela's.",
+      "time": 1745789254,
+      "translated": false
+    },
+    {
+      "author_name": "Vicqueline Escalona",
+      "author_url": "https://www.google.com/maps/contrib/101695585442956078296/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJukCw8u725v0BM6JQahM1Uphsv1sw3xx1G2jZOtZGDhGlDpA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Some of the best Mexican food I\u2019ve had in NYC. Of course it doesn\u2019t compare w CDMX or LA BUT the food is fresh, the restaurant\u2019s ambiance is lively and fashionable, the service is fast and friendly. Definitely recommend- the cactus and mushroom tacos are veggie friendly and amazing!! Also loved the margarita pitcher",
+      "time": 1749403278,
+      "translated": false
+    },
+    {
+      "author_name": "Tameka",
+      "author_url": "https://www.google.com/maps/contrib/116596789561232349043/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZEMob239x36RCljT_hJGdkc7LwhrDNvdz2VLDTrzLr6Pys-JD=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 2,
+      "relative_time_description": "3 months ago",
+      "text": "The food was ok, but it was missing the authentic Mexican flavors. I read the reviews, and it was mentioned that \u201cthis is the best Mexican food in the city.\u201d\u2026\u2026I guess people don\u2019t get out much.\nThe biggest disappointment was the churros; I was distraught. I am an eat dessert first kind of gal, but if I had eaten these churros first, I would have left right after. There was NO crunch, and the middle was oily and soft, two things that are big no-nos when we are talking about churros. I could have cried on the spot, and no, I\u2019m not being dramatic; dessert is my thing. Check out my review before this one if uou want to try an amazing Mexican restaurant, they are my favorite, from start to finish! \ud83d\ude4c\ud83c\udffe\n\nAs for service, I felt rushed. When I put down my fork, they grabbed it IMMEDIATELY. I didn\u2019t get the \u201chey stay have another drink vibe,\u201d instead it\u2019s been 30 minutes you had ONE drink and some food, byeeeee.\nIt's not the place where I want to have a pitcher of sangria and hang out. I won't be back.",
+      "time": 1743249281,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1600"
+          }
+        }
+      ],
+      "type": "HAPPY_HOUR",
+      "weekday_text": [
+        "Monday: 4:00\u2009\u2013\u20097:00\u202fPM",
+        "Tuesday: 4:00\u2009\u2013\u20097:00\u202fPM",
+        "Wednesday: 4:00\u2009\u2013\u20097:00\u202fPM",
+        "Thursday: 4:00\u2009\u2013\u20097:00\u202fPM",
+        "Friday: Closed",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "restaurant",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11063974879855678350",
+  "user_ratings_total": 2940,
+  "utc_offset": -240,
+  "vicinity": "736 Franklin Ave, Brooklyn",
+  "website": "http://chavelasnyc.com/",
+  "wheelchair_accessible_entrance": true
+}

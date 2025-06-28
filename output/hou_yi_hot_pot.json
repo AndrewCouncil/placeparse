@@ -1,0 +1,451 @@
+{
+  "address_components": [
+    {
+      "long_name": "92",
+      "short_name": "92",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Hester Street",
+      "short_name": "Hester St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10002",
+      "short_name": "10002",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">92 Hester St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 4:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 4:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 4:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 4:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200910:30\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200910:30\u202fPM"
+    ]
+  },
+  "delivery": false,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Build your own hot pot meals at this all-you-can-eat Chinese restaurant with an ice cream bar."
+  },
+  "formatted_address": "92 Hester St, New York, NY 10002, USA",
+  "formatted_phone_number": "(212) 966-3420",
+  "geometry": {
+    "location": {
+      "lat": 40.7161827,
+      "lng": -73.99257659999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7176315802915,
+        "lng": -73.9911773197085
+      },
+      "southwest": {
+        "lat": 40.7149336197085,
+        "lng": -73.9938752802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-966-3420",
+  "name": "Hou Yi Hot Pot",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 4:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 4:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 4:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 4:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200910:30\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200910:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3456,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117070553053083957801\">Frank Eng</a>"
+      ],
+      "photo_reference": "ATKogpcgAgivqkNeF6wdq4BJCt1gq8ra2OhCeHOagqXhRsy0DAHcZKNbOmSRQLqatoRrkidASkPNbCpI3oko4LrJg0HXmYSx5PKIYjoal03dKjsX3hPQsoS3hEBdU5CCkBC7qgV7yXE2HH7VJwK7KllLfY1Qw5oi5NcR-tWjmLZuIgnWayw7MTLi3cWzjsuv92KB00C5cqNOpmyaf0cRfXRbkaHlvt5MF08J0HPGS_tBZt7xOzz0ZbCfmDbBxCQKlz17AmPyz1L_NP9_SQUT7YQ01ShJozJ3XFBiABBgZNXabVvnBosAN9IctjlJeq6L-u0mFFjFO2W_fd1hLuj_L8Zi0xxvbGlYLElnR3rNmY4wocTK-5zuBt3IdCUGDA5IRPfhzGjsTJqh8FWAfshmjEqB3N6hfCrcFjYyAcdurCRjiC1QIzeN",
+      "width": 4608
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101006118477973996257\">Makee</a>"
+      ],
+      "photo_reference": "ATKogpeMxw3H1fhCGNue_TSbweESNSA3BQlClCKPfpRmJnMfWsTy1yUM0UJMXqY_JQ8tFg7o41kY30XPVjkBehP2eRmXYgEl44KHAt4yrRG1LExjSJIl8H8KZ81vv5N7lJTnAhEIWnwF6Xl1cDQkulFbAldqjdmhBmZ7c0rXAQXheqbYm43cJPgTYx82sYB_h2ehssxlCBbrpqBToS6MsxjtR3q0Liqb1SwrkCMZaMnA3Mma-QMT3xlK0xcOdAdsEehj-dAqxKMRahlDdIn6gtI98gvUToZz-07es9hvwvK9_qZOdSlhJO_5Yh-UBR7Tblg4wVrsPH7x5jkVTlcpB2Y4hYA1VlrVqAO1uxwBMyXdGPWOXSn9e11496Qs_gr8HpuTWy1icukrXUVQA9lviq-dSsChtusdFu9nmKHj_sZD9zQbvw",
+      "width": 4032
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110076925128163031827\">Arjun Mohan</a>"
+      ],
+      "photo_reference": "ATKogpeOMz5iYVkwKrozvLZbKGbV5qs-U1VYzNOfCsbJjWLsYSNgX0S_n0qpPswDgh7aDXt-M5I6vQRdayucZXhQOvRTy2nA48fHtxF337eU00GqkMdqh1EjbL1RPNHuW2_MrPv8gEJC5c0bZTLRuBTFNxFuKvBF9w_jKENvPq9ay1kAYWDWUykXpgKpMZXeivJnfhBrKAhL_l72lKMPLeX4qxaMz1scOmd72y7FC86JuvyaWu5EuaLMLi1WatnUVF14yBnLzZwXDOyGTKbDp49FSi1NPBCcSCnSpKr8MZeiPrzEOzAywdTe7Ai8St4mxnHgAsmm13jNcWwuzrC5AO5AQ4r1jwauEImlZZe3EKazp38uXlGU5yzI4gxq1j0CsacwkKCpjgtnbL2ueiIMq-dpq1SGz7Zn-gJrzcZeZrZiSvSREsVI",
+      "width": 3600
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115831370021301095459\">Amanda Wang</a>"
+      ],
+      "photo_reference": "ATKogpcXebdpRVotc-eWic7XOy380e2Ha0uuOTFTd2KScJeD4Nc0GU0V6BM-xCDWFsmoOwEjXIKXu_3x8wR4Y4p2JVRzROKVoGbOiTLWdt5FG8IB5Qg73ayb7QMN5oOUS6xw9Bam1PrMscvnd4ZNdxYYhtL24bofUfbe3mmhym-lYVViZ5ePvdAdC7mzaKnggmtZDcIFJ3atBaK3o4TtwOb-HIjSBfV0zh2Ui2gCC_pMyZewf1L_io9gLQDX6CgsSZeKySC6MnjzYT6EscPuZ0wh4ZiFjM4jJQpINAlR5TNxeFwnx_tZ8gEcw351YNY3OCSRoF3FV9XHjqeKVaud6V4PY4R7wxwdmsoCk-e7L584Gm-6Yk50-KLlsvtzenSr3YRs-kHFZz2aJdXsXNHfWU8r_occ5lS4keRd8SgikhsBjlg",
+      "width": 3024
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106418128719130584870\">Shuki Vigodney</a>"
+      ],
+      "photo_reference": "ATKogpcdshembow6hZ5K7y4oYwQcP4-sgJYS2ZeKa5fbYVoNsK32KSXnoPyQ40T3pvDIOKr9UWHhK4g3Ap4HvcClnpZmZGCiPRBjaHPf_7gl9H9ttPob6ErDG52xqK35hGWUDaHRSNxvh2dkVFev1Y-2phHxCUCuibosIhXgQGKGBGPRpXOa9BO5JrDg57UrdX1yh7GHYUqM30xa-2lLR7J_i9yJ-iLwW8f6hUBadfJU54n-CVyJty8AJ0I4-xxrIoX9WQIWdSmTA7_Zju7uFccX2uhyfSDssGGs8MXDwoAOihIXaqeTOp8MnJR-kxWYGrwSY9VZjRnMKmuVCUX4xqOOjHZqHg0ihofY229FCq9h8d80Z-Mqtm1MvUzZHvSTNaQGOWE5-YDC_gsh4lhicOrjxtwp1xLPoLsllot9QSDud9iJ6w",
+      "width": 4000
+    },
+    {
+      "height": 3456,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100227407432295771330\">Utkarsh Patange</a>"
+      ],
+      "photo_reference": "ATKogpfqJ8BT65Z4sfvZqsRif3Jn1BfXrZeG3Teh4Vm2M1ugbeCru3ffqiuPS8rMzc2i3n22tt5SULSZIZbGSzXewsfZvhnlMpqIgIVr3HYtxxnCn5F7zhuS_dYa9umFya-_pVRXT_9Vv9E--c5KmeXJ75fuGnMqI1L3RiquNMNf1MLhwbUBqjS5LWnOEJ_xw0KhWYkcTGdCG2HaFazMDyJn-NFrLMPP38_hpr570WcgGRTgprB3rgyoTtXKhFnzscU8f4TSsvaTOOqTXR_ccbxCjFlFWNLtRPUhpOyk-tSYyD70WIX_dCpHR7iWLX0iWPsORjScflwI9qWv3krd_4JqYONfoKmet6stSsMnPfJbnOmQxPx4kRf2N76nZptz6b8vq88CEMyg0ygmw8jR5XJMSR7RLOdlXPbi7N86Hkp4OrbNSQ",
+      "width": 4608
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116370557757726600970\">Genevieve Dunn</a>"
+      ],
+      "photo_reference": "ATKogpf52rNA-X3hSoDEXceYIJVfOerjMW_-DNMJ1sfsO9nWmVdoGydgVuo5H42KA9iZF7E7eee1nINxkY_PbeNJ3NKki3yIlpQwI3D6nZaX1CTDgKPGZFBMWQfOS_9Ni_kiFy6p8EivmOlQYcGCg__pG5-MfcUixkKnvUoToWQGf0dQUMz2ZDKSjxnKxLPWSr9eNE3dxrzmrHNaNY1y0g1O2ppKvR2RRfheG4eHiSLxnwnlplXSPq0btxGC4kgBVjiJs1oIKN0CjVLdqkquXcCaETTVgSrwPt49Q48htgCuy28qWcxCy9yJXEcGxUrsTLUnem1xPVKv7NcKFlIobiliyuEdbzsFq2bE37-fnAjfcll1D1d2NOppXvn86ENwabzT39ebUZEpgMB2nT_5vpOVsQgs9l9FmjwsyCtrzPjy62K4TWWi",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111910627136576572078\">Tony Fu</a>"
+      ],
+      "photo_reference": "ATKogpczvvACd5VVoPVm1SDUlenFsYBN8aLf11jNyB1N0ufi7v6goFTKwKMTxdS5porGiiBZd7q1zuxCM_mR1wQsOHFptGkGlOxMju621W-4W6CyOmOSJgY5myjzsa40UpgtbZ-Hr4uSu7kUAahkflyOWpKjbrYzx-VCbe5N8PAjhPXbOe-KSW2MIUIHTYnVwAcB7b8iM9JLMmGZk42Og8-zbDUWQJFfdr8wi0SY0MhCqSbMizySIVVYAXNlkVqVvYFqKBZ8fQ9E3_KtXB_EILsIgb0_0XpVMlh0p4WVvbPbpCRpCs_7LKJSXB65Z59A54sB39oLEguQ_DpYiz5zsXwS26qsM0yPFoa2HofFaS875rkooNw6MucbSTqfNEIzA8TF1m1G4GRXe5e2VGPxoh6vVZ4CpJDqfU9Wphd4mBZllgtgBw",
+      "width": 4032
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110076925128163031827\">Arjun Mohan</a>"
+      ],
+      "photo_reference": "ATKogpcUtrJKmKSxc-ORgRjuhEv5tOr-QUkQZeegEkErgOaSpRFnVc6u1NAweSy4x8Nvgl1U6Dj9EYLVyWE1_huejCzauXRsS-wRcmJjNe-rBWsLmoNPO6Z0Tmv9NqrfPtrAW0gp2QYXCPGU8BouiwFi2vN_WUAyyyedvQNEm7O9D5hDplwrIxCewUk4SUBFHPpAsrW_bcA5hk373UH6JHHJ82nHZTTP-kszUc59WCi3AhX17eYT7X2FUFGnwtRvzh7oOxfTO7IVvALKnuLIiQSiDhvgyxYfuMJRC1n2EebYebxbQ4jQS-w3FQN9v5FQi8dTcVVnpHOCi6lQiT3eW4aZiU2moXY2nE3E3y3nc9BIAw7QyHiLwuBUSLra5qPJKarGu8pTR7CnsrfUNO6SA-4h6oQyHaMh83lhS6ubf_CqjvAAkg",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115831370021301095459\">Amanda Wang</a>"
+      ],
+      "photo_reference": "ATKogpel-RgLwfQVMmCdG5MPfbg8xrBr-25p06i54Q9YUDgLBugVmgnvlq84zM380X7fkLg2Z_jnlzX1evxEJTP1H0K_cKg0KfeVgZYOiW6MvvRXJ-1gOvvALqcQlU87qdIT3X0OQdEO3DYuUd7JS9EcUO0yM1eBhAJZmoIOCj1vmgU8_wL0tPf94I0BVmrgcXw9XS4dKDGCeYO2b8AKBO3xVr1HJ-8Dd7Gsj0bedBnRuBwSvyrXVonFvnJX_KIrQvWsDF1TYvFqBR-PFdKPT7keXqgBpMwALKpZLUIdq5__tE_j25ishQ6SznjpJcxt20C2LumvCCttpCGJhvNP21lTt9vYo5JoA9dBjEi4IdaiDuGSTeQCJEs95HaCdXU-SHKD3Vj18vD6X9ja3zWWCS3E6QThumVT5qpGwHCBpy5qCmJrQ-s",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJt4HiLyhawokRhJ8I8nMsxZg",
+  "plus_code": {
+    "compound_code": "P284+FX New York, NY, USA",
+    "global_code": "87G8P284+FX"
+  },
+  "price_level": 2,
+  "rating": 4.3,
+  "reference": "ChIJt4HiLyhawokRhJ8I8nMsxZg",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Jamie L",
+      "author_url": "https://www.google.com/maps/contrib/112896284528115449408/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtjN3YNioXRP1w0IaaJEEqKJRqsiy3bxSIAoLukcI97EtHl7GE=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "3 weeks ago",
+      "text": "Hou Yi Hot Pot operates on a first-come, first-served basis, so reservations aren't accepted, and there's often a wait. That said, this is a fantastic hot pot spot! The soup bases are exceptional--I tried the spicy pickled cabbage beef (HOT), and it lived up to its name. It's incredibly spicy and absolutely delicious, but I wouldn't recommend it unless you can handle serious heat.\n\nYou can choose between a large shared pot or individual pots, and the menu features a wide variety of meats, seafood, vegetables, and drinks. The sauce station offers plenty of options to customize your flavors, and I appreciated the self-serve selection of soft drinks straight from the fridge. They also have a nice touch with ice cream options, including cups and cones, to cool down after your meal.\n\nAll things considered, it offers excellent value. The only downside was feeling a bit rushed due to the crowd waiting for tables, but overall, it was a great experience. I'll definitely be back!",
+      "time": 1749227762,
+      "translated": false
+    },
+    {
+      "author_name": "sammi zheng",
+      "author_url": "https://www.google.com/maps/contrib/115044915345613566866/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKmwmJT2UZ3fqU8Gb-qpeMwTH8euRKFi8_EufJ-qtw3cDHMNg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "Great dining experience. Large selection of soup base, seafood, meat, veggies, etc. Food is relatively fresh. Service is immaculate, servers were very attentive and helped cleared our empty plates  quickly. They were also quick to bring us our dishes. Loved the Gelato bar and the unlimited drinks. I've visited this place twice and it hasn't let me down. I think this place is ran by a family so if you're about supporting local and family business, I would highly recommend this location.",
+      "time": 1724593275,
+      "translated": false
+    },
+    {
+      "author_name": "Steph W",
+      "author_url": "https://www.google.com/maps/contrib/102088329469336680236/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjAH5WNOf_h3_BH0KlKjET7LTyUKSxv1SpA76Q3zmGwnJktVw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "8 months ago",
+      "text": "Ambiance (4/5): Plenty of seating and we were spaced far enough apart from other patrons. The sauce station is tucked away in a cramped corner. It felt like a no-frills hot pot place.\nService (5/5): We never felt rushed and felt like the service was on point. The time from when we order to delivery is definitely faster than competitors.\nFood (4/5): The shared pot has 2 flavors to choose from. Meats selection tasted great and there was a variety of veggies and noodles to pick from. The AYCE also includes soft drinks (loved the grass jelly) and an ice cream bar with like 12 different flavors with toppings like M&Ms and pocky sticks! Orders are placed via a paper menu. There were no premium meats and there was a lack of sauce options. We did not try any of the seafood.",
+      "time": 1728591329,
+      "translated": false
+    },
+    {
+      "author_name": "Amanda Wang",
+      "author_url": "https://www.google.com/maps/contrib/115831370021301095459/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW1GEUVXk_S180lIbVxzHuNHPfCTibfe6brpaiVYiw32rSvrRs1=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "It is great. You make your own sauce, you pick your broth(up to2), then you order ingredients on a paper, they come collect and then bring it to you. Self service drinks in fridge, and all the ingredients are ok good. My fav was the customizable clear broth. Its pretty bland on its own, but add your own twist with the sauce station and youre all set.\n\nOne bathroom but very spacious.",
+      "time": 1729535015,
+      "translated": false
+    },
+    {
+      "author_name": "Tony Fu",
+      "author_url": "https://www.google.com/maps/contrib/111910627136576572078/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWQQzxzKgFd3JswjPk0--J9gdMmoDTZx-ia1k5RRDr5kEUQAOb=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Excellent hot pot, great service (thank you Sandy!), and comfortable setting. Love this place, go when you are hungry ($40+ pp all you can eat in 100 minutes). On a cold and rainy day, go early, otherwise, be prepare to wait.\n\nWe went at about 6pm on a rainy Saturday, it was quite busy but we only had to wait about 15 minutes. But afterwards, I think people had to wait quite a long time.\n\nWe were quite happy with the very extensive selections of spicy and non-spicy soup base. We tried a beef based and a vegetarian based, both were very good.\n\nThere is also a large selection of meat, tofu, balls, vegetables. Try a bit of many things and they are very prompt in getting seconds and adding soup when we needed.\n\nAlcohol drinks are extra, but all the soft drinks and ice creams (!) are part of the deal, including coconut drinks, lychee drinks, and yogurt juices! There are also many different flavors of ice creams after you are fully satisfied from the hot pot, so be sure to save just a little bit of room.\n\nExcellent Service: several servers were all pretty friendly, our waitress Sandy was particularly warm and helpful. She offered us to the drinks while we were waiting for our table, and she was prompt, courteous, and patient during our meal.  I know the servers are pretty busy and stressed in these types of busy hot pot places, so I think it\u2019s worth noting.\n\nThe other thing about the service was: I think they set up their processes very well. As we walked in, we can see all the vegetables were organized neatly in the front, so when they get our orders, they can quickly get everything for us in a few minutes.\n\nTips: the shrimp pastes were pretty special, you can put it in with the tofu dishes as soon as they start heating the soups. They should be ready once the soup boils.\n\nRestroom: just one unisex room, they kept it pretty clean.",
+      "time": 1695527891,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "establishment",
+    "food",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=11008253740670558084",
+  "user_ratings_total": 737,
+  "utc_offset": -240,
+  "vicinity": "92 Hester St, New York",
+  "website": "https://houyihotpotnewyork.mybistro.online/",
+  "wheelchair_accessible_entrance": true
+}

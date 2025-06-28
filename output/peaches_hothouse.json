@@ -1,0 +1,529 @@
+{
+  "address_components": [
+    {
+      "long_name": "415",
+      "short_name": "415",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Tompkins Avenue",
+      "short_name": "Tompkins Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Bedford-Stuyvesant",
+      "short_name": "Bedford-Stuyvesant",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11216",
+      "short_name": "11216",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">415 Tompkins Ave</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11216</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Casual eatery offering small and large plates of Southern comfort food with mason jar cocktails."
+  },
+  "formatted_address": "415 Tompkins Ave, Brooklyn, NY 11216, USA",
+  "formatted_phone_number": "(718) 483-9111",
+  "geometry": {
+    "location": {
+      "lat": 40.6833818,
+      "lng": -73.9437578
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.6847162302915,
+        "lng": -73.94249251970848
+      },
+      "southwest": {
+        "lat": 40.6820182697085,
+        "lng": -73.9451904802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-483-9111",
+  "name": "Peaches HotHouse",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102906874407787392846\">Shawn Reimerdes</a>"
+      ],
+      "photo_reference": "ATKogperoEmPHbTYtg5l-gSyMJOUMY5lLUQ7MY9yMebDTPj7CbJsjB7g2FIP76IOHc19ZtC7tzMRG1PrHcFaaz3gBdTJ9dpB8kbMDn2x7xZ-4aAnqFuKaG4mT183Qd4XzBq6GcdYCvldQznMozUF0UeVyNw05eZZSFpEqRJg8y4KJQTgReqM1BA5ohoPHb2UY2QWEyqSIkfN8toyanrTKCVFZBbGZe7TVH7JzsB0PqFx3LEVYOHol0KsFdx6DNrNDU9Ohi5Y0wJLop1p7PoXRqXrbhlRHkRLMCG9iJhlWCOx-9l6-HRqInSg-5gixsekR5we8HdmOklkN14tKMpzcyb3zaRUUySA2z8I07tJT-JqcjvmG_P7BFpRcxSlAAIGeEnEMmfSUtm_sFMxTUVeQjPY1GCNhfDxCAuF1x653HMkwt8_was",
+      "width": 3600
+    },
+    {
+      "height": 672,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113706454947647630327\">Peaches HotHouse</a>"
+      ],
+      "photo_reference": "ATKogpdfZeLF1IuVeYchFB4gh192IFOn6vG4mwrW0pZK0dF_LcbbR4QZx7tn4Y0nGNzMT68T6yWFsH_TPV5jsfNbKLP4ZwooCnn49KybpRxzqaMGjCaWPQwQVNXzlTfYzHjVXrxZrRPIngVX0I9Ghl7PLa7qxHOz-vRGLlRWp9aIERb8TQ0pIMsWQXVc95838FUAP6_0YUEliI4HAWZsTtiIDtbsyTEx3u12K7ynSbUjHvQlOCaKgID4FzKaaFDrPSsj8NAnjAlEnPHZcDsN0Mhx5_zY5YOuzHOXlzXslrk_G3xGOw",
+      "width": 1194
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118242712803176881235\">Allegra Walker</a>"
+      ],
+      "photo_reference": "ATKogpffd4vUmvLqMjT-ILm9BCn_m1KG3RFH7q1fuftKmTbYN-Cac3hvKFssi9LvYYs8rXjICD3403YXkzv0ze7IpbSTBYxe3UO_97AioRvunHMImgNYT4m7XO2PAGYJjZi4HSUr6lKbsYu0D7DOllQ2yNUu5h0-cudQ-Ey9j6Fwxdh0Muhfl1BqAvxB9gpI2ceWU8vFihNxPMJjh2B4z84D4rppeEqVFB_e4cxmuOxb_3HhwepheDgImTQUkyRHjJu4BA6rkXIsFGh863sxFbk4Mb34gBbpoQk5PvWhhnguoqgJUDIMpQlZxPHFT8jcUtn1Q6LGHkz51OX555k876GfNnqJ2wwlmw2NnKRp6mteInOd8bOdjV7Jenf9TzLcs2zMNvYTSzxqh-wIrW7dIZ4FiXiZZqpG3JUPV3RXw9gjedb4VVeuSn0e2bQqqjoA639q",
+      "width": 4800
+    },
+    {
+      "height": 1366,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115455512429169121918\">koopsicle</a>"
+      ],
+      "photo_reference": "ATKogpfG-EANMvnxpt1WIqwkJpRxZY4aQ7MJy1opAwFWrQPZzEg2rapURkw6EoMCRp0EhXrpj0J9CedIRbLF_Kqs9esh9AXhdJ_gwEhOAhUikjsJXo-99kMvwPuN4E2lBojqUoyiiJrWvD0MIT2SRrD9IWQzt81H4nuoa065vH-l-24Fl_TphN8J4rZ_ZO81yVRT5RwTxXgefMMJjrDU0h22PLFL6nC5CZUsMx2zqlqJro4zJONEPwyjP763PTn-8xsiHEOm_JfK_3nfjcj0PyDaCiVi2zOJwG-RbLyRiJoiQWOkgeZ30IrEylNPqgL9makOLc0cHcMiaFnVbqSx9nGTi49DT6sRtP0OkMhmYopmJ5PkAUaBhUWALapB0A0uvCheNax7LR9c9lRdpceCOya1FSIKepabb7wPtU__eFNwv8LuvQ",
+      "width": 1847
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113110779411560794293\">Cassandra K</a>"
+      ],
+      "photo_reference": "ATKogpe7nOpOLqlRFgS5fPFZmYcYNv_e33pwQOazGCGph1L7NlNNRpR76JOGpYjDs_mB0FK6Tt962QzIH0HCsSewJwbakr31ZDsaW8YhU3IuRB1_wB66DQLzRmSDeB5vsqtdy5CYNoIbkm1aZs7DXeKpyvTQPLFx1K-S6Gk4gl2YQfJh-DbOE74ELuPLKzS8sliayWXZC4We8jqOneRiVcJhMJbeb32j0qUGk241yLiZoczqmS-MwA24cJmTyYBvxDIEZ0UJedLqGnYRXdriRipsGY-Inol4JyU_9zAHWcdmoEVyptpYc6SEvKvPN8F16bDwklriT4J6uA2F-E0mDSsI4sJaAp-3jCHFlfloSQ0eHkZTDsdcE-_O_1WcnlfDY4A-wmbY4HXssh_x4Wx5IHKxWBf4drTCdjLVuBB_ndxQPKXGpisR",
+      "width": 4032
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115852455003022662142\">Ms Woo</a>"
+      ],
+      "photo_reference": "ATKogpeHrkbGMGx2-J1Srzaw6_Hhwo9XKOwi0zVTsi2t0hl9pc1_2gsAzBzR-GpsOujIo-WhKb87iXbEHNwcHUz2yBDBGfGhhAf6EQ9clb488X4JgrtK4u-xPYixfC-LGvGkX8ttmwzaH8YZx5UoAKsI6qDn3BuGjLppagzU3_b3P-dk0XmmSjKWk7RfiUVXHTEy_3BRROQSOA6PcpUQuvxp634BLqZ4uSCZAMzMPV4Z7D3xCO7jPb211NOtrA6dm9YZucm8VcJiLoB8cHL9WsHvdKIamiS5jEQO_9wtVITelhL9UN0BvXdaux7N5XfLUvJmEORa18MQrP5g0_Jthu2KQtaeQQpKLvsinX_QHBMOcfbxg5wqj2nYxfIDV0IBkAwB0sQvHz80XqK_WsHclemQfI9NjOfYXHnbHmzz2s6AyaudajYs5kKsCd0GQ8MXQJFl",
+      "width": 4000
+    },
+    {
+      "height": 763,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103108821812691238103\">Marylou Dennis</a>"
+      ],
+      "photo_reference": "ATKogpfnL4MK6Zn1WFGXf5Fo8NrH1yuU_ZI5aVGrQcdHDpwY3lfE93KAMkWP_4GqxoAwQRVybRw6yIu5jI8yDU7AQRf9d_fd4qGUMJbJA0h4NUo8dB3IoioPVUBJ1MqqiTkw6telB70ArHAnjJFvhEAdTn0pGoUGxFesKjVHSNZk4y9iJnM5h8Bap-u7v0IIqzjQU6VdAz8gMBV8N1R_FEYa3A5poHE4mEFNGuoX63vuG2eKAgwuRQEvyHJStsSvmRzpxkonvumQsdRVgIKBlulu2ywRiU92k2-GGn4_4s4AnPu_qGektFI1NF8CmuHSbDmVXs1LKs1NjHuYT3HAXAnFta73WcZuFJxuMZTCVRSlZ9i6UfsMtQbCP_WMMAYSWPTRwkaD10Yl-ZC8binnw-hCTU2aUDvTjI5OVNq_MesXUQI",
+      "width": 694
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101582191986220159896\">Sergio Schuler</a>"
+      ],
+      "photo_reference": "ATKogpcP9lndc_Yr37hxoHBG2fJqGoWiigo6l-1Cm92mlyBzszvOMYbMxqPKPgZYpvwNpmuZ7XQQarWCGSsCnSWMBiykF0wQcD0YCex1zctUMcxnwYyVOG7MBzOqV75I6SrlPEnMPNR9nKqMKGhz3na1wQyRvxo_WF0yWGbKVAMAlcIJkSCcsNfE10qPUZDbaWumms5nLDJiF-jjHorxU-4vfLm4a2F4OTQm-3fCodJ7sEoiOe27EmXCj0uQuOdvl673X6qCgixVZSPzitaTJZggN0SJYRqWH7DO2BiYj_PtXdozxv8mzXEfvTe4W1m1cisykswnFnJ-Y-u8V4-sKW_-h9sCpqZVPux71Axo8njp6GTpURvsDe4becgiN23t_Kwf6yYWfw61WAF14Hwzy7CPUr78PK8okFGCzZt2eSi1e8wsxFev",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115780646638625685334\">Mia Carmel</a>"
+      ],
+      "photo_reference": "ATKogpekN1mSX6eqaW9VQkCidHKHF-KF8NHtAaWHMGYZ1oSW24o7Mieo3l8ECKrC_-ZiidPncu-Wq2tL9C1VK6H9VY-bh40lWD-_bpEhqhmOlOQ1ICozNxG7qu64WhQKaQan5mBEr-gclZtAVxXf3Yw1ZR4Om3fwM0vuvjDPe7Fxg_rlseA0EMBSvW_yNkuxa09-J8-Lf3jJ31pfFu1180kay39ffKQWwFN1fRRpn71VAH-yz8NmldMHhJpfvMyVJqd6HGoLbMtFxJhQtJ2hIk7XkcU8YM1LDzQSgfumpq5-RuHBpq7CLN-E-9kBCiweAXln6NLXDeu5fuqx8xWllUgM4FY9vb-7dWHUM27opt0Hv9_cnyaPSVU7aOh7v_J5PculOpiqV2ThNiJgKbTLPm8DcKZ_nP0v7bkCbhdIb2LhiJ9_TA",
+      "width": 3024
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109965209284264172565\">Gianmarco D&#39;Emilia</a>"
+      ],
+      "photo_reference": "ATKogpcJLiGHC-xPLZfGYfiaPVXFPYGqpJ9iT_wbfZUyCyoJJ0lM9EpGaiXtYcwyTIEqxYYbSFWRhqc97UwDWa-53bn-Elr1u5O84rB4FK28inmgVZlq69u2bWjKXwvA1fKgE4W9X3NSVDLhW0dhVQK4aGB4YdxOOs67Z9ZlsgiEUWeiLFcxeEBPec9Ao53kYbUGJI2XC4MFxTKYsR1NBMzMyDdBs0ERJNGt93zLUffGg9OvA2w1qS6-HfDxsjSdpRbNkBRrQahaFRJr4TWOWrU_T_56nOuYrWhCPdDOMmQKP4pGoA4bWmgenFH3EI91aZRT7QdeE_3ubCrr8F8IhCVv_guzJ9TFEK5DrqP4hr28YvueNTEq37G0YxFyjlbW_MPcvN3ikprl46N8HwLlpzsREBlSah0d-r4Fe-BMmS1vBr7wrSaAR9CU47WkiydrXQgJ",
+      "width": 3000
+    }
+  ],
+  "place_id": "ChIJoxuT5Y5bwokR4BUNuEswrcI",
+  "plus_code": {
+    "compound_code": "M3M4+9F Brooklyn, NY, USA",
+    "global_code": "87G8M3M4+9F"
+  },
+  "price_level": 2,
+  "rating": 4.4,
+  "reference": "ChIJoxuT5Y5bwokR4BUNuEswrcI",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Ellie Ga",
+      "author_url": "https://www.google.com/maps/contrib/110501271792377891381/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIyHkgX94E_93BlM1MqdOz1MbciOoEQeQUdrtVXi2Ys-GDtNw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "a week ago",
+      "text": "After all these years I finally been to the infamous Peaches. This place is SMALL!! I had no idea. We was called after about a 30 minute wait and enjoyed our sandwiches, catfish, fried chicken and kale caesar salad, and which was my favorite. I heard their cocktails are great! This visit I had an ipa.",
+      "time": 1750526266,
+      "translated": false
+    },
+    {
+      "author_name": "Patrick No",
+      "author_url": "https://www.google.com/maps/contrib/100866947936588551909/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVELAo3Pgw1X0OCQg0nx8J5WEwpBnJTrZU-NL1pi2aqqhyQguwi=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "5 months ago",
+      "text": "Quite good southern food within the Peaches Restaurant empire in Brooklyn. It\u2019s a fast casual spot, along with brunch, and also it seems like it\u2019s great for the summer and spring months as well.\n\nThe Chicken was juicy, flavorful, and fried nicely. Hot was hot. Spicier than let\u2019s say an El Yucateco. Cornbread was moist and fresh. The fries were a bit sad.\n\nThe collard greens were absolutely delicious. Easily the best part of southern food and it\u2019s been a while since I\u2019ve had. $7, costly, but worth it. Same with the Mac, which was more like Cheese and Mac rather than Mac and Cheese. Still delicious and gluttonous.\n\nI\u2019ll be back to try some sandwiches in the sunny months.",
+      "time": 1738042618,
+      "translated": false
+    },
+    {
+      "author_name": "Sledge Williams",
+      "author_url": "https://www.google.com/maps/contrib/109850878987968081829/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8oMvMi4CkwZQ8Y6eEZYlI9YUVn6U9nAHu2uT2gOlzqT9zhTc=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Places like this are one of the reasons Brooklyn is my favorite borough in NYC. It's been awhile since I've been in a soul food restaurant. The one nearby me it terrible, but that's a story for another time. The place is a bit small and compact but has a comfortable feel to it.\n\nService is very accommodating right off the jump. A server led me to a table of my choice, handed me the menu to order, some water and came back around to take my order all in a span on 90 seconds. Stuff like this deserves bonus stars because 5 just isn't enough.\n\nSince this is my first time around, I went with something simple, the 3 piece fried chicken w/ French Fries and Cornbread with the 1/2 & 1/2 Iced Tea and Lemonade drink affectionately named the Tiger Woods. Most oldheads like me know it more as the Arnold Palmer, but I'm all in favor of recrowning it as the Tiger Woods. Back to the food which didn't take long to find its way to my table. The fries were literal perfection. Right type of crisp, right type of salt and fills you up proper. The Cornbread is very comparable to the classic popeyes Biscuit. Tasty and delightful but slightly absorbent texture which means you'll need a drink to wash it down after eating it. The chicken put every other chicken place I ever ate at TO SHAME! Not only was it delicious but it was prepared so nice, it was neither greasy or dry just, wow, it hit the sweet spot right to the bullseye. The Tiger Woods may be the best half and half I've ever had. You can actually taste both the Iced Tea and lemonade from it with no flavor overpowering the other.\n\nAll of that good food and it was only around the lower $20 range. Next time I'm in Brooklyn, my next lunch is right back here. Peaches HotHouse is second to NONE!",
+      "time": 1741699152,
+      "translated": false
+    },
+    {
+      "author_name": "Ronald Foster",
+      "author_url": "https://www.google.com/maps/contrib/110674224227564918256/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5b54gH6ydVlIcP42HUXtARxHBiOidmFOIXi-GEhIsHGj5tkFN=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "I had an amazing time at Peaches HotHouse. My food was delicious.\nI enjoyed my Southern Fried Chicken and Mac-Chesse. Jackson was the best. An old soul in a young man's body. He was hospitable and I loved his music soundtracks. My buddy's collard greens were spectacular. I look forward to returning.",
+      "time": 1735871595,
+      "translated": false
+    },
+    {
+      "author_name": "alexis johnson",
+      "author_url": "https://www.google.com/maps/contrib/114513766004052656004/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI60lM2FusLm4N4eK-fhVSBcIZBw6SVQ1iHtTsSB80IVTnvjA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "5 months ago",
+      "text": "Went for a quick meal for lunch and it was a great atmosphere. The staff was friendly the music was great . The grits weren\u2019t the best I felt like I was eating butter and grits not grits with butter . It was so over powering I didn\u2019t eat more than 2 spoonfuls. The collard greens were ok and the shrimp was good.",
+      "time": 1737764341,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1300"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1300"
+          }
+        }
+      ],
+      "type": "HAPPY_HOUR",
+      "weekday_text": [
+        "Monday: 1:00\u2009\u2013\u20096:00\u202fPM",
+        "Tuesday: 1:00\u2009\u2013\u20096:00\u202fPM",
+        "Wednesday: 1:00\u2009\u2013\u20096:00\u202fPM",
+        "Thursday: 1:00\u2009\u2013\u20096:00\u202fPM",
+        "Friday: 1:00\u2009\u2013\u20096:00\u202fPM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "food",
+    "restaurant",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=14027921516097508832",
+  "user_ratings_total": 1909,
+  "utc_offset": -240,
+  "vicinity": "Tompkins Avenue Merchants Association, 415 Tompkins Ave, Brooklyn",
+  "website": "http://www.bcrestaurantgroup.com/hothouse",
+  "wheelchair_accessible_entrance": true
+}

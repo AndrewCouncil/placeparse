@@ -1,0 +1,447 @@
+{
+  "address_components": [
+    {
+      "long_name": "38",
+      "short_name": "38",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "West 39th Street",
+      "short_name": "W 39th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10018",
+      "short_name": "10018",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">38 W 39th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10018</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "special_days": [
+      {
+        "date": "2025-07-04",
+        "exceptional_hours": true
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: Closed",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Cuban-Chinese fare & intricate cocktails in a space with whitewashed walls & distressed wood."
+  },
+  "formatted_address": "38 W 39th St, New York, NY 10018, USA",
+  "formatted_phone_number": "(646) 476-5696",
+  "geometry": {
+    "location": {
+      "lat": 40.752167,
+      "lng": -73.984218
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7536102302915,
+        "lng": -73.98278001970849
+      },
+      "southwest": {
+        "lat": 40.7509122697085,
+        "lng": -73.9854779802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 646-476-5696",
+  "name": "Calle Dao",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117702434206917393900\">Calle Dao</a>"
+      ],
+      "photo_reference": "ATKogpfeQznOnF_HphgA-OHaFDDJ8_FzZpRg4MawusHSYjUfo9zeKiy2XGfbuisGW3AilEs4zgFxl5XTzruCv33Y0oPqTruwVoCp_oMOskKJ7rLIHLpegK5kLg-aogJdBdU9UyqtSpPhgIa-hxEwKx62nET-w0yjQXRBdgs9L31nu4TebnWkVNHKhmQLrh3nI6xzvEw5s2_8Kpe57d4YBidIcWsCGj1DsriEfYfRKzrqryL9tGcAAx2ALKhQGz2tSzzWeZI-t6zmVYb5O914JkWnB42mvSce_jpEkICsNVBxwyh0_g",
+      "width": 3053
+    },
+    {
+      "height": 2732,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117702434206917393900\">Calle Dao</a>"
+      ],
+      "photo_reference": "ATKogpfreUAcmIXb80-bNGYmkxUP8jdk7f_kud589Efy9-n7NJficQ_knto0oEjsmtvNttntH19GL8O4cxutvVCTp5M-P0TA-0-_Cp2Fsp6Qik9baSSiXaHciM6qK7jZ407N1tyLfDC6uWSsyFDBhygTeXYfjItFs7CdWt-Tb6xbQfIN14wyzXmVoq7y4h89gzPEJC8l4uqCrJNr7oMagDLRQtnJvrQ6Iyt4BfzSNMRZ-bJWKYTotgOx1VIBNPFEBHByrmAOqntU1g1HNGg294fl8SoQaiWMyldIWjVXZ1MOCSSD5g",
+      "width": 4096
+    },
+    {
+      "height": 2160,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103838065144429222078\">Edgardo Rodriguez</a>"
+      ],
+      "photo_reference": "ATKogpfF8NQNDg895FslS95VPf-sxvr-QkKAxXqCJu66xhwTwel7wjTd85cQvmxcPDOdsEOoEjzVceNSwpebhnvpekcshkC04LEeVgS9eqM_4FQu_f-F5jvLK8EiZqmhSLiDChyJ-rPYuGb5oNep-tIaJQQZzKDCS6kv7vvrPA3Vhide77Mc6SPQtMVRSZ8cxhXTd2Ma4p7Wi6MD1JO5Nn01IZd2n2UcUypOf0I2cxVNDtcVcHvUON0bVPgGPAhkwtxYIhehq9eh76AMDD-YDHSO3NDCmnjwHI2ZLLfRO5tOeo7gCsyOTzYu5ep3KGPOtAJdjFFnCKlbYD6bNsR98TPacgrAiOok3a3boigjydv0RrBWrU1Z026lF1f4IcT_2MWxGawNUn8cyGmZfrI3sNERirRGDyEV-H4wck8Ia7KXjlhR6us",
+      "width": 3840
+    },
+    {
+      "height": 1333,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117702434206917393900\">Calle Dao</a>"
+      ],
+      "photo_reference": "ATKogpcwq0kHltx9CyZqhe_FjnwZmBfRQ1A0vzYZG6O4C4VnhVcBm2Qac80GsgfRANYr-WlhcSYpNrVvp0SLgV0xiBt5QaXz8bkJvWsyogujIUwOD4Ati4Fdi3G7fUq2FuvCFNFGlZaGzACv5yfHYQHYMYReO8J-NXynSUBFeziQ-J_evc5M-mI62WjWZBA0xktADTEYIM4c7iMXaTV37OhWtjlTp5wByLi2cLxeuK1HfzF5w6bxnjqOJ2CEIGIa3rTQpwvLJNVTmy9-_7jBLIAxyZ2IZB6IVwC_0qEF29piVgNrUQ",
+      "width": 2000
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117702434206917393900\">Calle Dao</a>"
+      ],
+      "photo_reference": "ATKogpctk8jGA6M3-mXttdh1kcd4-0QDwDarXZ9UbdqjJT9X8bf-cc_3_jI0KKbO8DJgxQjQaBjWkJ2eNSNeAjHfcwFoKWxQKHQmXBeZPfoX_U8ahW25zkMLZQLhP24ugvbbOhwqATlHFWYFSwVkRofn0LZEcSSUlD50PXJ0JzzyhfT79yE4NDBEkta9i7WtiZMCu5lZ8OiXZzKQR_QuiVA1vFiCaoBLVJwAnpX1l5igWNw1qVbyTQWNKseQFaiaeMkwY9tDJv2DuCsQ5fJ1v_02WzL6zaczvWzk7jm_-TXDMq1znw",
+      "width": 4032
+    },
+    {
+      "height": 4285,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117702434206917393900\">Calle Dao</a>"
+      ],
+      "photo_reference": "ATKogpe8acXmVo-op6h3eF1fN1UaPZuHsHcVvj6SxwuG6dLnzoggdrdq7-j53kHQIBGmE6F04AKSLoHj3p44uPbvF4uqHn-MdvS2ums28wP20CnmnAxPatjeKHVSrQ8Ic8GZwqaVcwGN-eoQTkXFgOSUB1sXtkUnHNv9rHtCscOT7F6YoF9f4DpC_z-yB6p__cGG9TINKpKkR0YlV_-MQ5RcgT8qPDWJe04zPlMhMdYk4YQEfZTitfeOfMfgUCl6fULkvQfCwOo6GR2HlQF775UwXYKITTJ0t7PPaJF-cWKeLM7zPQ",
+      "width": 2857
+    },
+    {
+      "height": 2732,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117702434206917393900\">Calle Dao</a>"
+      ],
+      "photo_reference": "ATKogpeHf5jOiVzeYzpL23H_7hm1i-lFriKsE4Nd_657VlxAsOizZz8J5BP0P3YL4MIP0c_9yqlwvv05pZs9kvZNMuIKdulOee-_O7hchkIZGbAXixydsECYmPAB2JQyKwLlGmxpSHTrIRYkjvvbqx8EjBuxlfEZ3540NjLz05iDMWzgUlWyKJQp9WSOtF77MZkUDI8ohAyTz83qe_Te6HpN5zRXJcs_4BynToUhGBWyJ74rcZX54um7gjuBWLSyLci-mujotcBSbfI8aG1Q62_2HUChbzyJO53kZZ2lFq8cx12vbw",
+      "width": 4096
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100551877520662779050\">William K</a>"
+      ],
+      "photo_reference": "ATKogpfM4Ra2s2Wt1J4bR_TxvcOeOqDxzWV4fnUx1DIE_h96E4fGSPqHd0uWJguWQ9Ekgzwzc8WXqK6P6e1kgApavMTzvskOTXZhWN71FtfyOcj6nu60II9P-xB08dY1CoeBXB5oqm-yutrlWG6q7DoRkU_r06oyF9OgjDrEF-Qy8cHyFEg3M6XOPSU_bIKVClY9WXTzXSzKfFvb-2DbEvLEnOWfebyYv_ndmnhYyphQ-q3EYdbXAslzjBNkz2MHOwn0VqE71aaHkAZXen11UprhJgyFa5b3wa6wfFpnY_iYBD3U4cHqh_-o78rn8P-SHSMdexQExwqT1iswEgFKWMxuZwyrp0wN_5MFDix551mQQRE1oMgcO0x67gTAjdTu1HTB0px51C7wW_ZWtu-isCgys-TVD2V7FMmj9ZwvqjfTK2fQwzw9",
+      "width": 3072
+    },
+    {
+      "height": 2540,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117702434206917393900\">Calle Dao</a>"
+      ],
+      "photo_reference": "ATKogpf_n2r4o_QAN_1uPk363Dt1NFQCPxLjwBkAb1D1F8arxCWsdh2tiC1h-r46psRVSrF5SOBKyQjtr0vVbmm6cI4QrJMfWu0h2fMMis616CwAFWoXp-4XpKri0MO0cCOv4kytnr4-Pe19s7KsAn_CkXMO8viUGovWruX_aD_a1wWrDIF33wyjMVV8SuV7Y8dOlD-VMIy2I6_ULAupMWhMoE1ZoyOmCQ9V_rBtjUTAWtHl6n2ceb2E4Vebytfwu7lrSmklKrSf41wtFMFw5BCs7979rQHOgqjbv9fRkmmwx8RQdQ",
+      "width": 3809
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110371788462060280274\">Victor Wang</a>"
+      ],
+      "photo_reference": "ATKogpdk_f5IEKm9250D5MA2IAiHoZzaiFTib0azCHjwexRTm4t7_1_7nwqvYSIBIUujDzUS1KohzATtm1ZmIPO_RwAxvKcJLslNj3WPbKVvNNH9-QOqr6l_kuva1MQZ5ukjzOajt3DJtIqVh2G9PPbzeYWag_eVYnc_XS4e3S9Cf_XudZb2ZkbftyvXlwG1-msQXn9-qVH0gWgpsTpY83SipqjLfas3hLznHabr0KFWDv6UwNy19__ZOL67RRLF2tw3jvMknNzdFNSAEyFkJoNAhiEwZ5GvCQHgJhrKuNAIUgCFFBMl6Ynw3NfFcHm8fAQNXSVAmDplOA2WCx-u504oOsFH9lA5-NCLiwR_nFZ5kMeKE3FlZkokHJa8li5ufHvbYnzxel0ul33eJoA9rK-MBtTcfkeVPXgT949EK6l-wOzhwQ",
+      "width": 4800
+    }
+  ],
+  "place_id": "ChIJnYkfZqpZwokRLxGbURXlMfQ",
+  "plus_code": {
+    "compound_code": "Q228+V8 New York, NY, USA",
+    "global_code": "87G8Q228+V8"
+  },
+  "price_level": 2,
+  "rating": 4.4,
+  "reference": "ChIJnYkfZqpZwokRLxGbURXlMfQ",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Jodilynn DiPiazza",
+      "author_url": "https://www.google.com/maps/contrib/102854787804006855432/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUoRQ1R84ltlY-NZ4WMpwVINmv-PesANmt1Y7xAl318ttoVaVI4mA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Really delightful treat in the heart of Midtown.\nYummy fair with a perfect mix of Chinese and Cuban food, left us wondering what we would taste next.\nThe service was excellent and the decor was really on point and beautiful,  one of my favorite elements of this place..\nWent here for a group work lunch and everyone loved it..\nA little pricey for lunch but hey they gotta pay the bills.. lol",
+      "time": 1744238791,
+      "translated": false
+    },
+    {
+      "author_name": "Cierrah W.W.",
+      "author_url": "https://www.google.com/maps/contrib/106258311252445624912/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXunXKrpl0gO1gqz-lOjSsoAlu5wwOl7KcKLHtU1jjm3vzhu70w=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "Came for lunch with some friends.  I really enjoyed the crispy pork belly. Just wished there was more of it. They have drink happy hour during the day which was nice. The ropa vieja cheesesteak was a little bland but the accompanying yuca fries were delicious. The chicken empanadas were good not great. Overall solid food but nothing to write home about.",
+      "time": 1743010331,
+      "translated": false
+    },
+    {
+      "author_name": "Nicole Kim",
+      "author_url": "https://www.google.com/maps/contrib/118129559408373781633/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZQ5Yo4hAmaHriQARrQsXV_iajY6m1FuLFfCO7w2_hwyozvaz7tg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "We went for an early dinner at 5pm and noticed they had a happy hour special until 7pm. It was easy to make a same day reservation for 7 people. We shared a bunch of oysters, small bites (ranging from $10-15 a plate) and a couple of entrees. We also ended up sharing the tres leches and flan (which at first they said they didn\u2019t have any ready but the staff came back 10 mins later and said it\u2019s ready to be served if we wanted it). The food overall was good but did lack some flavor (a lot of the dishes tasted a bit bland); chicken wings were the best out of all, tbh. Even with the happy hour deal, it\u2019s a bit pricey based on portion size. The drinks on the other hand were tasty (I had two glasses of margaritas and the tropi crystal). Overall, a cool concept of mixing Cuban and Chinese food but better to go for the drinks if going for the happy hour special.",
+      "time": 1744079239,
+      "translated": false
+    },
+    {
+      "author_name": "Iryna Glushchenko",
+      "author_url": "https://www.google.com/maps/contrib/110733904433887634445/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUl91J13DB6Zano1HJoIpadNNB4-Wq6ElteYcwdL3w2qawjJjpF=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "4 months ago",
+      "text": "Great ambiance and service! Cocktails 20$ pricey, but tasty.  Service was exquisite. The food was good. The oysters were so fresh and sweet, highly recommended!!! Empanadas were great. Paella was tasty.  Overall, great, but be prepared to pay the bill.",
+      "time": 1739076649,
+      "translated": false
+    },
+    {
+      "author_name": "Edgardo Rodriguez",
+      "author_url": "https://www.google.com/maps/contrib/103838065144429222078/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqpyz9CrgMIOlwuDvHP0yEXt6xe2oe-c-Bm6kBTk15IDoNljQC=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "Calle Dao in Bryant Park is a hidden gem that masterfully blends Cuban and Chinese flavors into dishes that feel both innovative and harmonious. Each recipe seemed meticulously planned, and the way the flavors worked together was impressive\u2014delivering a dining experience that was both surprising and satisfying.\n\nThe atmosphere is equally remarkable, with a vibrant yet comfortable ambiance that makes you feel instantly at ease. The music sets the perfect tone for the evening, and the staff goes above and beyond to make you feel welcome.\n\nA special mention has to go to the manager, Jessica, who is absolutely the most wonderful person. She was incredibly attentive to us, especially because we were there for a tasting, as we\u2019re considering booking the restaurant for our wedding. Her warmth and attention to detail made our experience all the more special, and we left feeling confident in our choice.\n\nOverall, I\u2019d rate Calle Dao a 9 out of 10\u2014a fantastic place to dine, with great food, atmosphere, and exceptional service. Highly recommended!",
+      "time": 1729622922,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "bar",
+    "night_club",
+    "establishment",
+    "restaurant",
+    "point_of_interest",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=17596097098839429423",
+  "user_ratings_total": 1317,
+  "utc_offset": -240,
+  "vicinity": "38 W 39th St, New York",
+  "website": "https://www.calledao.com/location/calle-dao-bryant-park/",
+  "wheelchair_accessible_entrance": true
+}

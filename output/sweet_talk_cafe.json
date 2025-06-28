@@ -1,0 +1,545 @@
+{
+  "address_components": [
+    {
+      "long_name": "2008",
+      "short_name": "2008",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Creekside Landing Drive",
+      "short_name": "Creekside Landing Dr",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Beaver Creek Crossings",
+      "short_name": "Beaver Creek Crossings",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Apex",
+      "short_name": "Apex",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "Wake County",
+      "short_name": "Wake County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "North Carolina",
+      "short_name": "NC",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "27502",
+      "short_name": "27502",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">2008 Creekside Landing Dr</span>, <span class=\"locality\">Apex</span>, <span class=\"region\">NC</span> <span class=\"postal-code\">27502</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+    ]
+  },
+  "dine_in": true,
+  "formatted_address": "2008 Creekside Landing Dr, Apex, NC 27502, USA",
+  "formatted_phone_number": "(919) 446-6068",
+  "geometry": {
+    "location": {
+      "lat": 35.7457201,
+      "lng": -78.8844613
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 35.7470817802915,
+        "lng": -78.88325266970848
+      },
+      "southwest": {
+        "lat": 35.7443838197085,
+        "lng": -78.88595063029149
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+  "international_phone_number": "+1 919-446-6068",
+  "name": "Sweet Talk Cafe",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1800"
+        },
+        "open": {
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1577,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110689374199573104845\">Sweet Talk Cafe</a>"
+      ],
+      "photo_reference": "ATKogpei1i005dS74UWJfFEUd1CbzsaKgN2uVHO7bBTTR5LyX-PztXfD6QsJK_EK_hQFbxlor3SkTUa2rdfJ9Y2KD4yttXBdJ6KJXc7msmG4J9PPOCKeamo-OeG0r31GAufzBSrsgCdyJgiEHFI38Ivr1npTWOSoZapsEwmc5jWPhL0SXDjePx9R4t6gcljs5vodS1zjwVWVu-ZPJEaAAlwTtfZObctFN5SsQwkfChemUfvVyGqef_WwSETh2GRjMcVNhOuDP5dRrpXZeJMSUAOE2M2cSXonQInPleHgpdfl-ccRew",
+      "width": 1440
+    },
+    {
+      "height": 1440,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110689374199573104845\">Sweet Talk Cafe</a>"
+      ],
+      "photo_reference": "ATKogpe_1Q0USaSmsnT42Ny0WVyljoXJcC2r5MAewHMLoS7ThTydZtrxb-EBlP2u_LqyejGMZcD9JOfXLUObqWCwghfZ0GM4nYBf1RZQxnoze4xXHRww6lOwLM2alsAEfQLH78yA2bU813iRm98biyZGvko-VpITAKqvb5_6mL2rtIMqPAJmYYVTEUOHQZTvZyjIHTwSDACMv6ksU7URTXIoieilKl3IGeUMOXAwMrAZ7pM6s3f1YJHkIp29jV0lCgnyQRkl9MoNEiQP_KZRUOUGultaeo7bzeHXWisKaRznPjavuA",
+      "width": 1440
+    },
+    {
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103651663608397500728\">Jeff</a>"
+      ],
+      "photo_reference": "ATKogpfDFmVT63cDYDRkStJQt61083nJMTRYbzihk6ckdstFuW360Gz_SdyuNKt7mP3DOd_TfXpDZ4jhl5c5JoGx8UVDCjY8vggff-jpeEbaB58q3PUfaeLiV4CH8Iavduez1huZjizC-42hKKRyEVe73lTdg7-FiMN5YUhbWmujldBJxa1ZPwoUiPy7Kr-uA5_3HXadRSS-92DPBzoXQq1j4GO2QANpK4yCcEU3Z_n3eFt4EkZBAiRR1eS8GdxymmSlf2M26yA6765r93kmrSvAVy1KLznIAbFMeRaOTV-6M5ChvuHDUqiMJkFaQKysLPuX0Mg2qOMQMU7i9MghMQtVLVv9s9cbZYR7yhj9g4JbaenRVN4XSL2VqAO6cJG7f2KBHmILRfSL145Gkca1-78SqY6z_EZeMfFkXhl4YsTmRFMnkg",
+      "width": 4000
+    },
+    {
+      "height": 1875,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110689374199573104845\">Sweet Talk Cafe</a>"
+      ],
+      "photo_reference": "ATKogpdBm3zurBsJlccl3UHFaIb1VbOUxgMb3PGWjHKQhbKyMvb_ax0urqubYLixImMEHiHi9INg3NvjgJdbFMyDRBI6ICjICCxBpmHrJ74W3e2KoRUk9j47PWNHkYu2-iXO_rBSLgz1wqzAtyKSiqgyC9KOwzIgWS8kqdopneNQVVnVtvy0Y9_bJeixeOJLiDorsXmtlzTFUZ58wGwsSAv5IyiccKfTDIcubR5BawiJcbwE9OTaPAgzY2GbILW3oZTxzyQ3xCQq0BOREj-X2YxMSm7A8Y4gsNCNJKjpp4Tt9Z3yxw",
+      "width": 1535
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101218736029164408761\">clairey S</a>"
+      ],
+      "photo_reference": "ATKogpdeB3IQGhpkJnQiYDpxfYydbzKzmjSJkxIcrFTRHSqAbscss10ir9sqTI01zTW9zLbhOds5JTZoQlfS6v-Donw8KL65rzJ1IQy5IUoTWiUFZpiKgirNJ1kNpqinMfDb6MpvDALRe1wHJrDu_a7TD8IicYsgXU69q_ziCntn4ro5QdYJw_ynDzVHhkZnaTO1PcVO3La0PRq2_WUQ3PlekzGXlH5KpdG2r0XBeMzmPDrwV2xC5tZZdrAVcJsQJad9WSMj6e2Ydry-alae-LJRLz17wEakuC6hn1ZyAM8eENl9X993eYU7s5rT5awK7PGcbFSUWkFoDDIpYZPYNs4ioYDMbf7hHKiN_aifaBT8KMSKjeyGb2KrLz0yPF4a3xu1eXb7fV37gwbfJU9thdS9QnylZO_2Uy_XIH1pSQXEuxNwwPhdJqCkLVhGljOu5pNl",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109401861973787633290\">Guadalupe Sosa</a>"
+      ],
+      "photo_reference": "ATKogpdDwN9ftLJD_rcK4ABbzQGPwT2MCpYRB6pJBY8U-7GdkfMAK5QaoZrGyzchsAYiP1oGLo1_691aCSI05jS5u-AmQQbzrrZ3gkviZ9si1zeIl7W05w8LseSzY3kSwjE8foBDh14pQ7QHUWhpxqpGMq2abAMMmLhaa2PeXgCv9oAbAj0pVj0g6QzW2UujuknyAJAO_ahyXzVRBz31wghO8hlJs5a19ZSqo1zlzelrerR9opkPGT0C1kXIjsMPn14FdxYsqEQKNvla0u2K59yIBZKPJ2tSLdjfqEoegONl7xvsoMz6gODBGKy7Xk9Cx7nQEDULsi3YmPh8yxR9yNdjGewVrKAQQoIL19I-Lj_JsBU6fL1pvgJ3vWbU8ZGwe8NMs2rQeczy8zEOIYMSSdYE94bqY4Lh7HgmmSb8zdsnAwO4LyBl",
+      "width": 3024
+    },
+    {
+      "height": 1280,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113839392337178933265\">Ammar Aukhil</a>"
+      ],
+      "photo_reference": "ATKogpfFi4FVhCK51Xqi6A9K20MG0dy_aMsISBnH4SXRr0g9RTYVjk1apfPfOkWOB99JQNBAFW0kAL300G0Sj3Dgkui3nHMkJ-ksQJzGuMNP7WSISBb_M-rOAjHoVzjSW1NO77q4-DG7vQqk5w_b-4VMlzbj-lMz-DnK9OXwUs7NfD1-ImCUAexa3bCkcZN3kq8eyqBKZJ82EkTL_00oAhnYwu3a0V6C37g3C328NJuse5OqFjfGDhmAJXtVRCuq0UfLkZWEGCoUuHQ8p-ATZM0x6lBtR05qkorQid4WnnwQ9_enjluoiTGXkS3GwJHuDvvU8kiKpYcv1GB7vxhSlztCdK8hwxb16FltYlrv6HpzTo1VyXqj9OqTHUIIDwS93G6cmByMPnKaKw1y9UYZ-EEDEg6SfZQR5FPyWPAU6YbzKHtUy2s7",
+      "width": 1180
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114121827704697038826\">Min Park</a>"
+      ],
+      "photo_reference": "ATKogpepCsWaSERepX3jvKq92T12zoK9Eo4BHDLHtqcLNi_ZF2qSkgldCRm6hTR6OZxMdJ8UxUvlBZgPVa_5YzUJhRGlXGV08iAk-3tL-Hr6X4kZ-wRZtCPOvAPO5JTiEAQRh3ln4H0s86oVNC2oKi0NZAit1yj-Xt1gYGuhFd_UNNK_rooGALmlxhbCz2Vdx0Npr96qAOvp10_Yh8bzsGMPrIdcj4I9DigfkwuGPT8YZiC1AiXt38UQdXGn6AXxWcJgd8CaEyLwzbbsjVt2l3disIrOLBoAh5fFPYWdSXfAFaNejyhsF438x_1V15Y9cDasFGV7KUaYM8bs6Idc2_xUuEhFtos3D-UQ2rj1kObhcioqKqb4cvaxKSOaa0Bu99Z7bgGU_cmbdSdsQ9eu3bSouuCJyRhreDYsBosrj3L4xBHiyH_P",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110003039940397155547\">Tyler Pake</a>"
+      ],
+      "photo_reference": "ATKogpckyBXFsMv_gh0mMBwWlT3CLHawjwQ26jzWNTcd0LGQ2lU_bPvxovuYnWUT4ypjcrIp7-ZMO1r-tkMzJ3x-AgorVYXIJh_JmSIGjt_07HFbV67MitvxayrgMWybb3tYunFC6Dc5dOf1mLT-ucUmsssgAjRo7RMyAoyk1FcV3JRMMdMnfCb_tTNv8KnHbbaSt60zdfSoAE8K7MX8DuR-OCvFhgVMMDmA6xtAz0Z7QC-sQ3ujwGPTh-4BiixSQhEtEDs5FiuN0iHMwOjAqmQrH7EutQXOkFSVd6zKmyAXYXNaWjaAoYQ3Erv4kp-EA7sl2jwSHKse_UhnY3GEgLUYbQvHMPYKOPGG3kFpq4zrVXEnMK_ShB7StxmMl5p1F4BTZMNiAttDxWFkrjy0Xhvw2zXYMUr9rbiyXxiuqc2_k10KFA",
+      "width": 3024
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118319834900438584967\">S T</a>"
+      ],
+      "photo_reference": "ATKogpdI4jTU17RFDzUppu4aLfkMZro7V2iLl0ZdoRFjDXA0_5zi9nDbzhlgg_J6SdXhdG8oRV7btT6MAqZSeWu3VccOfcnNOQcivVLj4uN0eCiYE1t0cz-vtHj2tljYOqEKQPfcgi0X-0S50HF4CoNqdCcckmsvA9Sb3fL_DVmulfqr5Nth6C6sINpiC81DacVw0PpzTcXHXetilqxRzosPxfhEzv6hIv3rewMxhACwcfSSC0M6BQBk1qRWjWiQc4nUr9UKarSqcu6kbphyLTn6o_sIi5ADqEym3MbRokl3eXLE2wpmRnVZKeMqbTVVl432tRMXcYXptsoFlu9luuQJwZazyLw5e_41SuaWh3fcWsJmkmqwCWXFBwtqJg8p4cad6pSMAivksCda19IYhZOH8uQRcMeEuUbGJGt6OzWFC_fPAetS",
+      "width": 3000
+    }
+  ],
+  "place_id": "ChIJm4ed4NyTrIkRCgqkebIStvg",
+  "plus_code": {
+    "compound_code": "P4W8+76 Apex, NC, USA",
+    "global_code": "8773P4W8+76"
+  },
+  "rating": 4.6,
+  "reference": "ChIJm4ed4NyTrIkRCgqkebIStvg",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Natalia Ferreira",
+      "author_url": "https://www.google.com/maps/contrib/102561603129240846615/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWIdOrjvcg9vO1limgGlOEO3liiiYhRirvdKaxBXbme9x4y9g8=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "cute cafe! great spot to work remotely or hang out with friends. there\u2019s some tables outside to enjoy on a nice day too. i don\u2019t like my coffee very sweet so my go-to is the black sesame latte: nutty & delicious (also the best one i can find in the area). i\u2019m a big fan of their coconut banana cookie they have available by the register too\u2014definitely have it warmed up! i absolutely recommend this place to anyone seeking a cafe with a balance of both specialty and typical options for drinks/treats. there\u2019s something for everyone!",
+      "time": 1745534916,
+      "translated": false
+    },
+    {
+      "author_name": "hyaang",
+      "author_url": "https://www.google.com/maps/contrib/112761033144605124599/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKEJfIF8Fp5LJ_U-z5JuQtfNorV4S6UN_T8W4hsNJMWFFXrJA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "My friend recommended this place, so we came together\u2014and it was such a pleasant and cozy cafe\ud83d\udc97\nEverything she suggested, from the drinks to the pastries, was delicious. I especially loved the ube bun and the sweet talk latte. I also appreciated the decaf and dairy-free milk options. I\u2019ll definitely be back for those!",
+      "time": 1748275554,
+      "translated": false
+    },
+    {
+      "author_name": "Angelina S",
+      "author_url": "https://www.google.com/maps/contrib/106802764356544886261/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLvTM6Gfm88wFOH-hfgGxdYZA5ELn5QA77kevJ461-tIIvh8g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "The atmosphere was very cute and modern, and it had many plants. The worker was very nice bc I was using Apple Pay which we didn\u2019t know how to use and she helped me through it and she even searched it up and stuff. The drinks were very good despite having lots of ice and overall a great place!",
+      "time": 1750440674,
+      "translated": false
+    },
+    {
+      "author_name": "Maisha Nanjiba Musa",
+      "author_url": "https://www.google.com/maps/contrib/106288451648671166523/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWr0wBhd55uLh-UKZqXSvaYJLladi63YXTMnqX1qxED9iWYNh7=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "A cozy cafe with minimalistic and chic vibe? This is it. The coffee and matcha here is absolutely incredible! Absolutely in love with the Vietnamese coffee, blueberry matcha, purple bun and honey garlic toast! Can\u2019t wait to go back again to try their other coffees and drinks! \ud83e\udef6\ud83d\ude3b",
+      "time": 1750268653,
+      "translated": false
+    },
+    {
+      "author_name": "Jeff",
+      "author_url": "https://www.google.com/maps/contrib/103651663608397500728/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUvCBdymu4r5iXIYJWzcwxVQ7bQKsWX60p5ylLNLcPjGtRQKB9f=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Yall... I tried a new local place with a friend. I can't recommend this place enough.\n\nWe had the Tiramisu Cr\u00e8me Croffle:\nMascarpone cr\u00e8me infused with Vietnamese coffee, chocolate powder, and chocolate shavings. It is croissant dough cooked in a waffle iron. It was soooo good! It's not super sweet but full of flavor!\n\nI had the Lychee Sparkling Lemonade:\nLychee sparkling lemonade. It was so refreshing, and the flavor was super good.\n\nMy friend had the Sugar Crunch Latte:\nIced caramel latte topped with Korean-style golden toffee.\n\nThis place is owned by a friend of a friend, and I am glad we both go to try it! Please support this local spot. Everyone was so friendly and the atmosphere was nice as well!",
+      "time": 1749418842,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1730"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1930"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1930"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1930"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1930"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1930"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1930"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "type": "KITCHEN",
+      "weekday_text": [
+        "Monday: 8:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
+        "Tuesday: 8:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
+        "Wednesday: 8:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
+        "Thursday: 8:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
+        "Friday: 8:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
+        "Saturday: 8:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
+        "Sunday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM"
+      ]
+    }
+  ],
+  "serves_beer": false,
+  "serves_breakfast": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "cafe",
+    "store",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=17921532324921739786",
+  "user_ratings_total": 293,
+  "utc_offset": -240,
+  "vicinity": "2008 Creekside Landing Dr, Apex",
+  "website": "https://www.sweettalkcafenc.com/"
+}

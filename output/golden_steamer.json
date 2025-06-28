@@ -1,0 +1,445 @@
+{
+  "address_components": [
+    {
+      "long_name": "143A",
+      "short_name": "143A",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Mott Street",
+      "short_name": "Mott St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10013",
+      "short_name": "10013",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">143A Mott St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10013</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Tuesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Wednesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Thursday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Friday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Saturday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sunday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
+    ]
+  },
+  "delivery": false,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Basic joint specializing in Chinese steamed buns with varied fillings from BBQ pork to pumpkin."
+  },
+  "formatted_address": "143A Mott St, New York, NY 10013, USA",
+  "formatted_phone_number": "(212) 226-1886",
+  "geometry": {
+    "location": {
+      "lat": 40.718765,
+      "lng": -73.996815
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7200913802915,
+        "lng": -73.99537831970851
+      },
+      "southwest": {
+        "lat": 40.71739341970851,
+        "lng": -73.99807628029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-226-1886",
+  "name": "Golden Steamer",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1700"
+        },
+        "open": {
+          "day": 0,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1700"
+        },
+        "open": {
+          "day": 1,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1700"
+        },
+        "open": {
+          "day": 2,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1700"
+        },
+        "open": {
+          "day": 3,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1700"
+        },
+        "open": {
+          "day": 4,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1700"
+        },
+        "open": {
+          "day": 5,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1700"
+        },
+        "open": {
+          "day": 6,
+          "time": "0700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Tuesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Wednesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Thursday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Friday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Saturday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sunday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107825982753740326966\">Andrew Brandon</a>"
+      ],
+      "photo_reference": "ATKogpfzpAXb6fqWR-I6xap_u40w7QKsi97FTWXLGyDZvfnMJv2mb70vK-_EMRPGOKDtBSK5amdUi6QQ6d5tM6qUW_NreX05k4oFClpDLWGcQxRwElWTY8nDTm5t5TRHTi-j4XWvsq0HiavSFwP3ckNj-Z076cFUMb8ug73f0WbRI0Nmu1OLPdODpr17B5NeCuKrZwJh043-hvVWfLwWU5PDph-dhtxDu0AfBJ1q1oEKQBbQMhPIX2Q6fFQrl7davYO9KSzcNWykJnwj4iLoGaBJVvewNxoY7PQAHVy_AizrObq-GC9mo6eAVMHnPlvNO9f_1nbYAGdAYNriGAKuPJCdgfnT6zRWVWa5g7wFaPbtfTeuUhbS9O5z0rNz8iWD7SMI4QVbbgVdMzF9qgQDvsLEvy5-L1j-XqFy2Lo9zmI-QYVatw",
+      "width": 3072
+    },
+    {
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106023778038714321419\">SOONJU PARK</a>"
+      ],
+      "photo_reference": "ATKogpc0NAH8akgOHkGQJCx2bbyD_1RMd41Z8-ETal7h3REwr7sYoyN3BNk7Jc7o2mstAlbER7e3uM6NM0ruaCoSqvpOBXFGgf8V3cvvGzynQUxTEr5iAcnbQb_egD8sSC8oUzFlamvaWS0148Xnn6V5YT5JVrtRvxHogs8HR28HyuubMRNii1gHn9zo51fL5yHZxO3-iwdXkrLLJkgdwuJc1BN_lUu6rr_Ze9hwzZMXIPvccGBA6SwSDBt5Gkso9iCKkkCHyE-fKotkD3J5iZ-vTGG0B9Kkm54VnS2HiGMyA9bxn_5ZHqCEJMYNFASmGgopi6OUkxnnJksHqH2Ls56Jwn1_bxiFTAIa3Boe5sdxsENi_GecWu40owHGQhIv6gg9EYA4RcBOrJ3e98W3Bouq5WcWbLZAiWFShWLQEOTfDp5Kdw",
+      "width": 4800
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103355801810982656830\">Amara V</a>"
+      ],
+      "photo_reference": "ATKogpfav4uhyjtdwMzklSDyMbNGyX3YKsDFF_aQa7vtHDiUvoy14MKoGygCQew_k6pXrvf4ooSm5L8KwCkii7MlZvxICnPIINAPoYatHdQUi8tJwmRT4fLug4KM9QDzKlBnY0-bd_15WFa5ynPLopOvfWBv8EJfsXusV8NHEptk9KOddxy1px_HWKh22YXz-Q2GTCuY5qONDvKS6I54V8aiUgCX21djWYHjqCOrsU95QENg-n99ASseVDr8plJT6iuBJ-xOU3cyx67B6KhBKlshFjAcCtvqTGVDqum8b6X_4a0LkNlCOp_PZ2YtDek36EzBse4IrMRqZHobOvX3YRUZp2ZShipYyq2Yvf8TX11InqPX2y_rvXakSs4nd8cpyjNT9iwJOhRrfliU7Bl5-UBt4Gt4gGdbeFcskY8wMeZbcgmIuA",
+      "width": 3289
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107405190294923219128\">Emily M</a>"
+      ],
+      "photo_reference": "ATKogpdQdHx-4AZGrrmiMAlFccfXQeztoi07T7WtftaX556oYR_B9KlF3v_tQBnUmgKaiNGynwAzHeh-lMfE7p2Tr93ghVQbPPN3Dl_ll2-h_Ule5tmkgBSOWpyBNRI5DI5fiqBXhYaYfrwsRCZ4mMkS2ty97J-O6HONzhg1Rv1_eVnivd7zbEOavgW9zbDMih4tM0hooWs-IQWHeiQ__y9e65TZGh8CMJTixqSSsAHSk51NDzklqerxX_6_yxniqEdUnQW2VRzCl3CW2ZCyNdzRK4YYZg_p-QgnPY8P2hs8JD-Si_PV0XKshgxqhanSLip4yJTe2VWe9PDfbr3b_9ObwKCWklvPzE_W6cEhfPRrVYjrHYbXRWb58LbTx-y7s4cKgQtAb_2su5knagWh3BUX5DeTwGpwsixa7KPGv-NhKTpGQzku",
+      "width": 3024
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106023778038714321419\">SOONJU PARK</a>"
+      ],
+      "photo_reference": "ATKogpcjGXLYmkoVWdlDxA0xCwWeDo_GHRbeiz5lfX8ZXm36RPTa0c6qZQWzsPhoLHafuE9kJv1tYY03-_G6-I4YUOe68pP-pgj4rGATD8_QREiNkJuWVCLeGBlrHnPgqDDQFWlmd2Fh-0fUqME-rBP_fiR939zCDIWYzGZ51cHA1L8P76WD2wigcN1ELwtBY0AnvQLrI8vtTlzgpKZyMGeqlXaXvRng-RC1Cg8hPLkkC8MLbSXw3p5ekHIAQWGxSor3-zCasr2Ij7SI8C1S-dnNELAnKSsVxr_oPayxX6wLLQc5Ptk-fabPsbw8u-iLnVMZKHv72Cyb_-ntLHphDqEq98XToRHDWePhXoCIMfCgHEF31cGAAkwgO3bDBxkgxfxFPJQVVdgIJHaJSKHIH1zw_y63q5K35jBtaNCznge8KCGycjQ",
+      "width": 4032
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117010701160710139745\">bobwho1995</a>"
+      ],
+      "photo_reference": "ATKogpePwAVo8j4vYSH5LiCqJyY4A7OfPjaGBRx8uhoxjeywDys-e7wvTgrPtZV8_h2mCsviTbVvTqFFhnPqVRSkKKjyyHeRqLht-DOI96GOs8EvnLEeAI20WJMiuYbz96ehuo0YOR6OcMWp6qWZEhRuqq3z0t0XE9eLrbZvewiBwwCESidUbXrYcanOPpiBcZ7lIVZKsf0s8kgFczpBjlfUe2Jyy0Vj5RDRJdsz09MWRE_QwEhSc0qdjGL09hn_P66vk5th4pNZEID42hIHAeuNL9Rvx7WWeOxKE86bOhXvJrcMWSqkKOSC2Qo4Gu4GhaqsxmGE6z6lMAmUztOotE9g62z3y7LkC75GaKBJS2bRnkLMYc1AH0fhbTsUvpn_HEg50SJw2OSdYvhJ-Y7z0wNBPGKHv1yqi54eEgsGBaL909I",
+      "width": 3000
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103953798914619685448\">Cris J</a>"
+      ],
+      "photo_reference": "ATKogpcxKXRJz218IT8LsKyIyXVEf0ahCfCpeQ_kx13Z6jDgfreB9e7Sorv-ltNK4lTpSmztWIu649Z4oB1L0vHktdGBMCDE-JqGtJMBzMvw1tp3se0qKYV8woqNApjR9u0WI2_vflMmaPhJKob0lZZak4n61wzpMvxyQE13WUYyvzrm7PrDh2GM09HEKmSprwhMwmD45tbMBUnQruRqNBwNZ_W99T2bOvlBagPIfIKWf9xn_YnuIMJOfqoMA2UGU4GmvVq2EEXHntu0uGCJYkLXx9752D8upPcjt7_4ESwFmkpUft2YhP_FYHj-rL8VdHXm_F6teOQUHV4QkyKP1KUPuys2QlAYEdj9BdZnDT-UHgJo-gdLxxjSnYd6qX9CglJ9LqiwIlD8luyv6bT0Ntmhf_qjJFKWlkB_2cu_0UOJrTCXceCP",
+      "width": 3000
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106023778038714321419\">SOONJU PARK</a>"
+      ],
+      "photo_reference": "ATKogpd087XDvWcaDY4zSeTGtbFdsfyiYpkMte7GVXQ-t1BldivsnMzlDnTmTSHrX337WCHD7hzVSSqdZJetYdtyfZ_PWOmVCTgGiwRnYdC3lIkDN4azkwscvfGWLKGrBc7Lfp026i7YUVg6eNilmqNngjIt4ZKJvU3Ix8eK3ZUg-_dCc-MikfEkyUpGvxacrNvK9-9if6Z-uscWti072i0bvQjn_jLtl91MCsSd1944-zpnTJKeIHeGv7tZD-scMtOXnpxe00ozCEnwV9MwoG3ptnmFN_kd_gtARhC0-zgsx_BzBHL7C-turhcC-eRHgXA3wvJcxUzuIcpveMPkSc77eQKQrIW6HXsZ8f0EnO5M7ClqukCFFTOH0GEu_W3TAV5Y2TMPocpWAYn7KkFWAVppvOWLy89sffWdcb41vxxGNSWGgA",
+      "width": 4032
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106023778038714321419\">SOONJU PARK</a>"
+      ],
+      "photo_reference": "ATKogpeptwMartVfzl0U1C_bRhSGESCalRh6Y4Z-uzIrp8V3WWcXsP--A1IOdU55RyYmQ3nMp5VTyAz3utOYnYI1tNH6v5k4AlGX9A69BTjtWIqUgVQ2e33vAat1n5zSanNmjQ2_5pWdKGCtwmncgvVLPvtsu_AySgW8IGcix7tjJIjGLDXItM31GY3vw6Sy_FqdiCCeGWdwKXBohxz6a6_a23x6_Z5uiqHSKJ26IW-EKyMyuQjfNrHM3k2G9vY2gWEL3z9_BG7_Yy2vv_KeZZhH-yAq2MMWUQ5I3O0T2gx6opoNGSvMYo2V8sXg8iJZbBq6tDTrjkCBrVO4zHRrrHMjScUZFX7zxUInmVBzS_mZJU32tvCCH8Fid1cZg3WuTzS0b2heohznKNYKqKLRh846Tay6gYDl42Xa4d2t4Le2A-4hOw",
+      "width": 4032
+    },
+    {
+      "height": 1836,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113277363160967175832\">F.L.</a>"
+      ],
+      "photo_reference": "ATKogpfyKyQ3WViTzBoalL4K3BpxhgixSyMbuUOlREXyPZvWxTwYSazkQEVvkx3E5hWk_4GpjcJbe9AFoYiIaHfZs3kg0Qwymu1Vf2FkNvroTH-_1QNH8OoMcg1sAwS1jp-wy1ToFoLfkZSt2hloQW5mImVKOhDrwCIuwGfD5Jp4_EkKw6oIFxrp38JRPs-Zq28Imes1E4m_u1JpBXpTgKEJqkF7B5RalahdYe5x9mbRYGNQOZkSAyDNL7qikRKQpY_CNuczMuOj8ysQIX7-fhVX3Qp2hG4okiZzPB7vN1QwCvtlNzgJ7-F6xknviDAl6uq2w3eeX0OylDI-kGLWinopt2scvu-xLD9lQHw5oDUQcmNqs0Wp1RryPzLB_rRhocmTM8pSENcM6e80BmEpE0gPmCxXAW8X7BMjF5gJNZeiHeqaosAh",
+      "width": 3264
+    }
+  ],
+  "place_id": "ChIJpWd1R4hZwokRqZIYQCRHjkE",
+  "plus_code": {
+    "compound_code": "P293+G7 New York, NY, USA",
+    "global_code": "87G8P293+G7"
+  },
+  "price_level": 1,
+  "rating": 4.6,
+  "reference": "ChIJpWd1R4hZwokRqZIYQCRHjkE",
+  "reviews": [
+    {
+      "author_name": "Amara V",
+      "author_url": "https://www.google.com/maps/contrib/103355801810982656830/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXAAS0SQHu3FoCa3krM0vLTvMs-9hsNETvb63gbK0VJs9kMA8w_=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "6 months ago",
+      "text": "Staff was super nice and explained what each bun was. There's no seating, but we stood to the side to try out the buns.\n\nThe buns were very soft and had the right amount of moisture, not soggy at all. The filling was flavorful.\n\nWe ended up getting three boxes for about $20!",
+      "time": 1733802306,
+      "translated": false
+    },
+    {
+      "author_name": "Beatrice Evans",
+      "author_url": "https://www.google.com/maps/contrib/113343587830858549911/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUs4Xl1qwH5vck0j0PKoOI6YvsBKvBAcpNZ8kv5hT5-9jvbHEYK=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "I know this place got kind of popular online so I was expecting to have to shell out a little more than you do at some of the \u201cunderground\u201d places. I was pleasantly surprised; I bought 5 buns and the total was  like 8-12$ (I forgot the number but remember my shock at the steal). Not only was the food super cheap, it was also really good! I\u2019m a fan of lean cuts of meat and normally compromise when I get a roast pork bun, but there was only 1-2 big chunks of fat. I also got the chicken bun and that was great as well. The red bean bun I liked less\u2014definitely not sweet enough for my western tastes \ud83d\ude05.",
+      "time": 1742990867,
+      "translated": false
+    },
+    {
+      "author_name": "Tennie Tong",
+      "author_url": "https://www.google.com/maps/contrib/108674962129510275090/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVEubvXOVAhbD7wZo0LEdm_Kqw4-EHRxAB8g3lpDSIN1vdV53nB=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "3 months ago",
+      "text": "I purchased 8 in a box pork bun a month ago, the bread  was not fully cooked! Sticky texture ! Flat piece like a pancake not a bun ! And yesterday my husband bought a box again happen the same ! I remember years ago was so good now changed! I would not buy it anymore! \u2639\ufe0f",
+      "time": 1740934426,
+      "translated": false
+    },
+    {
+      "author_name": "David Vander Meer",
+      "author_url": "https://www.google.com/maps/contrib/116646429138657185553/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhtd5vw6z2_7yCuYwoWNUNSyidESi-IrqrxHuEdJoaUh4ovnuR=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Golden Steamer is a Chinatown gem!\n\nIf you\u2019re in the area, this spot is a must. The buns are soft, fresh, and consistently delicious. The Pumpkin Bun is probably their most popular\u2014sweet, smooth, and totally addictive. I also loved the Salted Egg Yolk Bun (sweet-salty perfection) and the Roast Pork Bun, which was packed with flavorful filling.\n\nPrices are super reasonable, and everything is steamed fresh. Great for a quick snack or to grab a few for later, as they reheat well. Service is fast, no-frills, and efficient.",
+      "time": 1748487406,
+      "translated": false
+    },
+    {
+      "author_name": "hoale quan",
+      "author_url": "https://www.google.com/maps/contrib/114623699057427656433/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcZmc6snqoov3v3dODeU70F3NALzzgfUtAwkwjnIAfAMyDQw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "4 months ago",
+      "text": "I have bought freshly baked steamed buns from this store many times, but this morning I bought the overnight large buns from this store. I could see that the skin was obviously yellow and the meat inside was hard when I tore the skin off. I immediately returned to the store to tell me that I wanted to return or exchange it. The clerk told me that the goods would not be returned or exchanged after leaving the store. I tried to find the manager to report the situation but was told that the manager was not available. I had no choice but to throw away these big bags and never go back. Remind everyone not to buy overnight bags again!",
+      "time": 1738782051,
+      "translated": false
+    }
+  ],
+  "serves_breakfast": true,
+  "takeout": true,
+  "types": [
+    "store",
+    "food",
+    "point_of_interest",
+    "bakery",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4723791280177975977",
+  "user_ratings_total": 339,
+  "utc_offset": -240,
+  "vicinity": "143A Mott St, New York",
+  "wheelchair_accessible_entrance": false
+}

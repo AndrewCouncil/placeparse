@@ -1,0 +1,651 @@
+{
+  "address_components": [
+    {
+      "long_name": "199",
+      "short_name": "199",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Grand Street",
+      "short_name": "Grand St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10013",
+      "short_name": "10013",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">199 Grand St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10013</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Down-to-earth restaurant serving ample portions of traditional Malaysian cuisine."
+  },
+  "formatted_address": "199 Grand St, New York, NY 10013, USA",
+  "formatted_phone_number": "(212) 334-3669",
+  "geometry": {
+    "location": {
+      "lat": 40.7190568,
+      "lng": -73.9969181
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7204754302915,
+        "lng": -73.99552226970849
+      },
+      "southwest": {
+        "lat": 40.7177774697085,
+        "lng": -73.9982202302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-334-3669",
+  "name": "Nyonya",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3840,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105601992699102170460\">Nic Garcia</a>"
+      ],
+      "photo_reference": "ATKogpeuB14Zt3KujlBUzzMf_JNh2xVfNGOiDpMM1ZDXqo2XFchyoOna7rk63lDGIZdREE8x6M2wo3PA9E7TAFslbV8r9Ro46TIH9IYaWNhlHD4xlwS0jb4YT2_bIhv4QWqM2dTH4Y4ArbtFhIHQDOgU-mACiuPdIKNu-55pi9s9OR_0Bamm_WnLEWb39yBhTkzy6h-5sAeVYUczHhItnT0AnB5euWckAbaZDEwUjKQ_2hJjmeWxKJz2FYfxL8i4RPG3VTOtqBXeeFmKRZrSC5RLQbCSpjB7E925dx95jEqctiaRIoL83t5jbuKFwg2boU72LgHp0YG6S85ZvVOTzXTbaOierIiQjoGExPGEQm5LMMf2gR2eQeJkMA3Qyv5kowDf3oo-FYD_dWim8cbuKKc92K8EMp4TBnb8ZyRuH2GkMFc",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102488237707538551495\">ini AK Channel</a>"
+      ],
+      "photo_reference": "ATKogpdDTXvgE5xOUV3z3Q6HyZC_KbSaz70Za0SzAkMTZ-5YFSB8se1QLhorofZ11ZSm_mM1UmVEeWZRTt8jZrUfuwpWUC7LT9u4WUgy4Gb5Slv6qIOJ5eFIK7WejcymZdsIq88I9PJql2U2GjkEbhe9OHSA6R_UdY6F0TljvkeJ04hJVSS6rFh9FGQCD5JdRI70LFSMY1548oLa58_TdCF9MsOAyVjLqooSrVUb_Qz8Xlcjqt3TYJCCh_tUugyTRXPa1Vh1TqV1LTMedLr1WoSHRHL5aNoDCZAlPwsoyEzgmPGDYmgkl_yMymZqguJLeasVVsSsEhvQvtZu24l0gtYvmopPeD1KYPS3KAQb0OUlKeC7wrYZ-ugGBEqBK0uo8w7LIC7bBIJMdnUMNpJedsoVmX8nsoKMOR18Ym1OZ32GYyztKOTFMdBq-TP3pBWWaQ",
+      "width": 3024
+    },
+    {
+      "height": 1600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103690251052637268946\">Nyonya</a>"
+      ],
+      "photo_reference": "ATKogpd6Vq_mQfw_mUe2btNBdru5TfNySU1ocKacOBTTEnBl0iSL_gR6ao0YDc1n7lp-m28kjBzn_xXInEU77zjPYWI1x4Seyyn2ZLP4OZ-7f8p1G1x87U2MDJv2CZAKgkdZ_S2O1CRJc_85W5g_ET_ytripKV6T6-nF25gR9O_fK97-b8JYESIAmNmJMLEansX18nbICqtLvKEB5HP-ivhMdwsZRMz9ooWoI0A5cJKpaZJ-LwAkOtp1VRK_kjTWSZw9fi-Bwzzgt6OkqzH_I9XWe8zVsXwAGcSRgUnUr2erkZ1wpw",
+      "width": 2400
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103814312087042782120\">David Tai</a>"
+      ],
+      "photo_reference": "ATKogpfgLZRxEqZLHQ_ZjjOIlsAValxkD-QjpKamGoLnhYmkycXlRkt-mfr2FS3UcTvluNujTPb-551RiIUhkMGSCGzcAN21aIVu3zec2DNjcY9Oe33-BCH6E1nZXuhk8Oow-g0kCIhT1R26y71gBRQQADdgaip4YH8nqJO48PPFnkgaB8AUs-Co8T-jdeNV3zZzPYkxzWR22roPPTVW-7GGdJ4WJ2jwpnirtbNI-pSU_Y1R_pEmccOt8VePAn5WS8iJ-Y6TCov-VAXGZrTUTp_YErut0SYMy-_9Qm0MXSIbSrvvrah1vaDqKQtIDrbyYjCDnTlctQHB1LLqUCErqVhS7p9GlhFaNogjdhOJk17oeUpSq1xGoVFzWiK-jNeNRH28jipRPuHi-BAbokJRpYVhSO7_4F1v9y5mtQDa7JuK0rhwpswq30u2puIDV7W7CGq1",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102488237707538551495\">ini AK Channel</a>"
+      ],
+      "photo_reference": "ATKogpcTryu5awQBa12cdTTgZqRfaZxzpBWw34MANJFmDoSTSPeDExj-2t1tpXQHPEyuwmvjF9KBRhqdoGyr8S_FiTn6uRhVO-7kBlxnTZZ1o4TBvJJoW5NDdfTzkhml9D2g07WtIZsdN6NSvMB7iwoqOy5t3JdkDDWGnoK4K67uNH-lLL23OhvjqwiGPpeiHnQOiYXfw3IkTXVugNZunVn_t70l2MzvJ74RgqlFeIgYy32r7GQvqaiWt2SIkZDasJbLfMBIV13cLyCN4fxo1xXWnDu0o4CyNFIzyXOyeAlP5rGdUn2HjhvoCIjQJc_eBcBQQE-QnmrC3hGt2zrKzoXKXjKBpD_aiewtDH4RyzuGEbhdHj0oF3XIyrwVEHRWTJirIcLa9y9wSyjXmCBY2hfQFlmp1P7dimlGDkAsgwpFChnOYM7ow9AOa9gOWMMsCDZq",
+      "width": 3024
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111143370856483078960\">Matteo Ruggiu</a>"
+      ],
+      "photo_reference": "ATKogpe_856MgIzen8QS89KM_OHCvRZTS2BJjvRVEh2HtUeykbLPrvfkkgz9Ng1WFIUuy-oyWmrTq0oadC4kQZ2zu6YKoVCIzhjQM_Af8zu_F3Yk-zvv0qDq6TXhgIpnBVP3F4oDkGa6oPMjD_jByBSMQTPUgi-oi6wC0hWTlliacMfsW6g-EYYIsTGdUcTMe3JxDESoCEMz_Hu4wsVIlVKa-zwwgCXnIIo9ZWKbKEfnQrWcKLMdK_wLh69oxvOFpUrC-5cGGwGf6VThsBzHACE2Q9UXd_s-v9JoFdfiR3AbqPJQAMIjUE4zjQV0sdZe6R7eHN-BnSyRDJQJhQ7WwgMq-C-hXL7WIFTDZV22h1fY8CsjKew7ZVYU7_-_Resnddst0LBwvdphRWXpmUSjamNh6DvWUypUkJP_XtbJT2XwVO52DIrFMhazWTsFqZ7PySKa",
+      "width": 4080
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113148947611018822952\">Frugal Cyclist</a>"
+      ],
+      "photo_reference": "ATKogpdfSKc1-u2LZarnIREVjCgdIhC7Iw_ARvgiM7CRfmPhscon-c0XHDWPNdUkI10wm8GuzUBzXeJAttQW_OgSdEG1DcDTRSjpbyMFokUhsD4p6sJIpFYC9CltKhFeMUuTuP5C7TLjWsDme2vP87nV1W2iIgZMDC6-V8Vth7TLlCOxErFFmmTaOg6UMBOjBJ4jpukCbF-9DdEGEGBt82SuBgTDEGxvp3CPw9Z-qkifbh6DxluLGW3TygIKtFV-KIpl7SXQjKCK6dwmA0VlsBXW6tXV67etmk0YJCQM3QdVZ1iGjv0AU98NAr_ejdR4iSC1SMwHtDzumDtfpwnrMAgh4qGCiRLsbqJzclUkEf_b0jlBlUCOdi3ZE8t-px8W3R2aJVIpLXC1DDSrylg2BxJBOcBa36tGr5Pmy_NnoxCmtjQ",
+      "width": 3024
+    },
+    {
+      "height": 1512,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113726843099803743873\">Chris Lo</a>"
+      ],
+      "photo_reference": "ATKogpf0w0XTp06Lxyy3G0sQQPO4ndEe8DQKe3LsK9yn05b-VVGaaUp62VaxC-_1tHyqWEDzUADy5HfyCZ6PEtCWxcnwIYyzhWI8Vv54eyIMBY8DkZdtUIUsk3ia2EFl896uKxApDCItsUCECjL7em_uqWIAosV1aj6yAjdJB47mKN9dj_Gj1Faj80YS_OESfXWzPNOn1j2etqQN-tf2ZmRQRXT25rBA6ei-bDiP_H4QnVsGqclGJO3JQ0KiP0f3ALlQQuOyBWJy7GPJ_9eUj5Cvru_Ayo_nkqhzl70HdIo5pQBdjQNOwah2g73dSmaVDCvVMcvoFU2RgfrgNp589QBHfa2G13idT66bX5kKpZdYwSvWIbUVscRNckGW_-78YyQMI2Tie5VIS47ZKWTcP2_uHQmuUyCmNwuiEfuYlLgHLoF6zw",
+      "width": 2016
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113509586302313649295\">itzelenaho</a>"
+      ],
+      "photo_reference": "ATKogpdyMQa8DljsTQefCTYuV1aQcBOHlLUeXYVP4Q8cbmmg72ZZ3-tyRWwGUJrc2EcT2jr5vSbkpHguTAlp9apLslXYm5hBaELf10-NwlL4MJ8-tsLJBNhlXmoEDnolACT_1LIotAnMmab6g2IIMZAsEtT3Eu5XmrnfKcjmUw5OwIvcHCGSBWIE3UmH_wSZRQkuC08LJWYFoS5Rs4MrIXEsCaznJ5EG-RbKbupN0YoMW5ceB2Vewb7uowfz2Wsq16_h-8eWF_zHK7epZ8HepHMie1eCMUHBz977zNQT9YVSUVSAry8rorEy00keZabW3TKQiMXuvdT4Q4uLpDZuDOIo6mS50cpCZY36qs9sFirJ2oINN1Y_kIJ3AcIxnWgFABFqpVCGVVhCY1rUPcmDVn2Nv4GdLI27K34zOs5W-SbhNWN1u9s",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106934346072713949009\">Katarzyna Pason</a>"
+      ],
+      "photo_reference": "ATKogpfEs8suqXEmX8iV5viEUjP9PIZjwdswAXI2tjq17rHTlSg9njphki97RQf9aRXDcwl6HeT7AwnIARdjm6uCzXF7FrqQAq3CE-nh5l-9LcIx5G0VVm0rgH1Nndq49FaRclsc0AW6Rkp_QD1aMJUI43apxfVL0rhyiCfIoJsHqIgwSC0z8AlLMR4Rm0FKCei88xP4sih7kHRKI3uoVC938NV1rzdMrHhr6IQu7sAxUierXkOxMAjLzh9GoAEJ2JBwCDuEU4DEcAdVP9PRV64sjtYjUxFoBdptIv6K0tFlAxKZUXYzsEl9HLlfr2OV-0wpSl_5y1LN3PZqY3ea8It7DgeIwMvq_Z_AnkZCYPf6yOn4_GHli-msni8CW5KwfzAEGkB_hSgsFfSERwcvkbOGl9j4iw6K4hCIUVbwkyK71Of6svI",
+      "width": 3600
+    }
+  ],
+  "place_id": "ChIJ0VKRSIhZwokRdCKH7vdxs2o",
+  "plus_code": {
+    "compound_code": "P293+J6 New York, NY, USA",
+    "global_code": "87G8P293+J6"
+  },
+  "price_level": 2,
+  "rating": 4.3,
+  "reference": "ChIJ0VKRSIhZwokRdCKH7vdxs2o",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Dev Cheti",
+      "author_url": "https://www.google.com/maps/contrib/107197780422737681473/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKd-JQQs-M6vl5_py-pr6M3jPejjRKTfkRw0Bj15lsihQ-bJw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Pros\n\nFood is outstanding especially for the cost. Every dish was delicious. I tried stingray for the first time and it was great. Also the value is unbeatable- very generous portions for the cost.\n\nWe also were seated very quickly and food comes out very quickly. I\u2019m not sure how they make everything so fast but it\u2019s great.\n\nCons\n\nI think it was just our waitress but she was outright rude multiple times. Maybe it was a bad night or a little bit of a language barrier.  But they sort of work as a team and we had other waiters/waitresses bring out our food/help with questions and they were great.",
+      "time": 1749880063,
+      "translated": false
+    },
+    {
+      "author_name": "Sammi Chan",
+      "author_url": "https://www.google.com/maps/contrib/101140214633694486363/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKY3HPKRqAutmSUmFLRQHdEL0oirLKVw6NxYAefwMBkqNlAcQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "This Michelin Guide restaurant did not disappoint! In fact, it is the best Malaysian meal I\u2019ve ever had in the U.S. The rich and bold southeast Asian flavors keeps you wanting more.\n\nThe ambiance is chill and service was amazing. This is a MUST VISIT!!",
+      "time": 1742439773,
+      "translated": false
+    },
+    {
+      "author_name": "Dawn Christon",
+      "author_url": "https://www.google.com/maps/contrib/109829689928785533164/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7198SzS1iKTkzZIMiIVVo34oWcvIcsY6vHg9541WEKxaGNFON=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Authentic delicious Malaysian cuisine in NYC. They even have Malaysian veggies that are fairly rare in north america like Petai and Kangkung. And dishes like grilled stingray. Everything we ordered was amazing and authentic. The service was fast and the price was reasonable. Note they only accept cash but conveniently have an ATM right outside.",
+      "time": 1748107491,
+      "translated": false
+    },
+    {
+      "author_name": "Alexa Eunji Lee",
+      "author_url": "https://www.google.com/maps/contrib/115304179833040531178/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWe1LhJpKAQAz5hhUk7ZlDb1wlV6c00JiFoU-P_o-3piEdIkjn4=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "A Taste of Malaysia in the Heart of Chinatown\n\nLocated in Manhattan\u2019s Chinatown, Nyonya is a beloved Malaysian restaurant that delivers authentic flavors at very reasonable prices. It\u2019s a local favorite, often bustling with both New Yorkers and visitors seeking bold Southeast Asian cuisine.\n\nWhat to Try:\n\u2022\tRoti Canai: A flaky, crispy pancake served with a rich curry dipping sauce. It\u2019s a must-have appetizer.\n\u2022\tNasi Lemak: Coconut rice served with anchovies, boiled egg, sambal, peanuts, and curry chicken\u2014a national dish of Malaysia.\n\u2022\tBeef Rendang: Tender beef braised in a thick, spiced coconut gravy. Deep, comforting flavors.\n\u2022\tPrawn Mee: A spicy shrimp noodle soup with pork, bean sprouts, and hard-boiled egg in a rich, aromatic broth.\n\u2022\tChar Kway Teow: Stir-fried flat rice noodles with shrimp, squid, egg, and bean sprouts\u2014smoky and satisfying.\n\nAtmosphere & Service:\n\nThe setting is casual and often busy, but service is usually quick and efficient. The interior is simple, and while it can get loud during peak hours, the food more than makes up for it.\n\nVerdict:\nIf you\u2019re craving bold, spicy, and complex Malaysian dishes in NYC, Nyonya is a fantastic pick. Great for casual dinners or adventurous eaters looking to try something new.\n\nGood to know\nCash only",
+      "time": 1747343373,
+      "translated": false
+    },
+    {
+      "author_name": "E. L (Ny Foodie)",
+      "author_url": "https://www.google.com/maps/contrib/104269471727164162930/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWAx31QLO_t4Uevb8r8RByzcdOEj4myDryoXWdDJxGryOfwO8VOog=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "This is our Go to Malaysian Restaurant, we love the Roti Canai and Crispy Vegetables Duck, some outstanding Main course like Mango Chicken and Beef Rendang and The Chicken Broth Rice Spinach with Preserved Bean Curd and Hainanese Chicken.",
+      "time": 1745799384,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "type": "DELIVERY",
+      "weekday_text": [
+        "Monday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Thursday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Friday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+        "Saturday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+        "Sunday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM"
+      ]
+    },
+    {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "type": "TAKEOUT",
+      "weekday_text": [
+        "Monday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Thursday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Friday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+        "Saturday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+        "Sunday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "establishment",
+    "restaurant",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=7688614298524263028",
+  "user_ratings_total": 2031,
+  "utc_offset": -240,
+  "vicinity": "199 Grand St, New York",
+  "website": "https://nyonya.store/",
+  "wheelchair_accessible_entrance": true
+}

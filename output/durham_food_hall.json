@@ -1,0 +1,460 @@
+{
+  "address_components": [
+    {
+      "long_name": "Suite 1",
+      "short_name": "Suite 1",
+      "types": [
+        "subpremise"
+      ]
+    },
+    {
+      "long_name": "530",
+      "short_name": "530",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Foster Street",
+      "short_name": "Foster St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Downtown",
+      "short_name": "Downtown",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Durham",
+      "short_name": "Durham",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Durham County",
+      "short_name": "Durham County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "North Carolina",
+      "short_name": "NC",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "27701",
+      "short_name": "27701",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">530 Foster St Suite 1</span>, <span class=\"locality\">Durham</span>, <span class=\"region\">NC</span> <span class=\"postal-code\">27701</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0630"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0630"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0630"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0630"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0630"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 6:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 6:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 6:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 6:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 6:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 7:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Food hall featuring laid-back eateries, cafes & a central bar in chic, contemporary surroundings."
+  },
+  "formatted_address": "530 Foster St Suite 1, Durham, NC 27701, USA",
+  "formatted_phone_number": "(919) 908-9339",
+  "geometry": {
+    "location": {
+      "lat": 36.0013101,
+      "lng": -78.9013355
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 36.0026730802915,
+        "lng": -78.90004526970849
+      },
+      "southwest": {
+        "lat": 35.9999751197085,
+        "lng": -78.90274323029149
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+  "international_phone_number": "+1 919-908-9339",
+  "name": "Durham Food Hall",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "0630"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "0630"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "0630"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "0630"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "0630"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "0700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 6:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 6:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 6:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 6:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 6:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 7:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101822245344530912517\">Durham Food Hall</a>"
+      ],
+      "photo_reference": "ATKogpdJwcV2DG9HrbOo-REg1V4qWcT3jq1muVyK22ZiKX3WkELSC2k2wYKQGWuTnHQq05Z4GGSg_ux7v_bJsxkjGHYKFay7zC-iDM7Ja-KYSvsFUTiL09vV6pd9FE_C2aU1shvBATja_MpxtzohXSkSg9Ak3efRwwg3DbGrVxy4ML58vQACKNEgUAHSAgLo9fKXlz5VlWnugYAbbyUyhiWXPn71f5IHzYDJOzHqS2dJsmhl_8SeY-qOzSejLFb6zofp3SN-7VbwoZzmZJOPZkUUVeHx68gPHe3dB07_ojP2_D4ooQ",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101822245344530912517\">Durham Food Hall</a>"
+      ],
+      "photo_reference": "ATKogpdya8xLozjdEq0gjeNuL_Xxxx9OdQAiNBfmpJ7lsFqvKRaFZuVcBPn9K8eWGQGE68F-IkGSQcoZ-eH1YGSk4V9S9ke2JfaJl4R8-32x6jIxkp0Bq9JLXvnKM-BsZljCzBLEYfOS-V3lrnrIjyOGBJI89BiPoSMeWZ2bREAKE4UgUUsdxoH44DZrZGqhRNUNEFaIzj5zA3iJOI7H_OL14xlHcqe9MhYv_HlLYOVSgpwbLZfVBtKIdOggFcIYN-M7_zUnuuqwgVtCgcxnnZ0xr91f3eBIHEIyvuucZkf9j5k9Dg",
+      "width": 4032
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110267262117699599455\">John Doe</a>"
+      ],
+      "photo_reference": "ATKogpf_J7jB391v7FfOsgilWA60WAYVFL947s67tbHYz-JtsSuB8I9gGY6B0YA--F51y_G6o8qJQInPBU3LXp-CLn1wpfcRZnDcaqq8bV6dM9tDB2mucNK_BCpfqlezf5EqJkf5TdlUhyjnAvwXEUIy3K0eSy6zDLiEtZq-716j4bsFFF99DkpgvnHIwIk7rsxMX6axb2rfw3cfVkt8dwTLSfOku-LijiONFjxSo90_itkLfYDVlMCnAOXTAUyQN5GTMdbViwQypPwHnuWqsU_Yl0uYoh-ckbA69vo81Ym42_2vFv5WyNGBh5hBp0wQPtqloTsOfv9KoJKXTKN5R2IslmvKdU2KiPTYYu7hYw9TfgJTt7RFGLA7pyKrORH5SFgfQ7msaOw3iiQcZdR9Bg7AlFj4Li0vlx1KB5RY2b8u0Fs",
+      "width": 4080
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102225476155335511498\">Bobbe Wright</a>"
+      ],
+      "photo_reference": "ATKogpd8DogxZ_ORUAKasfaN9Neg7MG-m6vWbpALDl-1vK_tVsROO9KB7C1LI9arHP-_XtcbzuRSJlc45X7bb564U4_4DW-Z7kYEwOk8usC71cOdSp-_Pi1oeN-W4bNhvgnCniAL1-dtTnl2pzJSwX98XPH4WnVp6PxUzqLZY2C4zdBv2vYbFKcOpOrfwZFIo7nTGi8duQrybs3620lT6xGfruUWzFhk50A3LD7v7AyvSg2yRU-F39r6nvMbjN9hXSKTKkf2Rbh4xx-cPBXkWBpNeuyTWvXKyd4XObZRC5EBnOP6nrtv1qX4-W3cOMxd4UWrkpmoSjFVULym8f9woxMhMYbnqNsUNTib_GzVOrWNR4Xgo45R9HZbsOZ0005G4crgsCa9f6mHqfzRcCrT_ZQwvD8687A8LmhI03_Dk4iTW20",
+      "width": 4032
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102225476155335511498\">Bobbe Wright</a>"
+      ],
+      "photo_reference": "ATKogpfOJXd3fBkrxfJ9p0xkJcsBXac6ZZjioqAvBSxSkWZWhlQ9hOjTgGAP_ClokT8lOtv3hYwSb1xNv79DO8mhEpn_szobcA6Oq1qT-vUy8sgCy2tpBW6zIkt7ISy7LcETtNkuPpl11uhIltUYgedgj5pstje3TlY8fj3WuyZBR2o2qshkCDEaIKLO0cHby53qVtZIO36yBtl1EeeWbAQuovWae6YM8UY-RmhnHu7SDFiyCCZYCODLwUNCgEqy3rpd5Kf7yPYbxaPPcg9INPUzdPnr-4tzrSjsLg7vAXAO-ADzvA6jM7YoziyCca64kLcmudQRsf0XGzBnrtxGsJWvpKsQe80VZjyxu7x66Mn32BbI57euH6pXpzhFzeYgWSmXN-zMyfTdoa5Ufl8inMimFtXY4oPmcXpX6ZxOrk-6lQS7aw",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107789865243981760025\">matthew thompson</a>"
+      ],
+      "photo_reference": "ATKogpdEXCOK6frZDHA-7KaEDxduNifvmWWGP1VMQ_OiZqLpk0EPytZlAiCtQWPTuHkvhzTG_ge6wye0CFdd7PR-qpUr8jMwIjL1eYVJVjmV5I4I40z5ppJhRIcMqG1GoNbbSevT1a22xcSkpRT1Tz0gOW0GkZY4i_Z3uQMo_80pwWqzfkIpfjCbS7eoH6vEEZ71Au-DaBzz6-yeOpSRrZdfU3NKMCTxogxBfoH2jdo1AObCuIMX7YUhMZHf22WvYAjIT7ZaOzSQbak9pB3ucRAqZ4ngIRHx2rlxfBqcv2xeP4TQ5YdwGU_sHBeXoDPASBuIj3xLVfX_hLr6hkvCoXoeR9_hV8Aepv10PAk6GOztItR7SeTnM_d0yFn1b72KNUl-NzdsXuHDxcbTFwz20SFc5P-a1FLolR-BO0Bqi0i3OncB6GA",
+      "width": 4032
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102225476155335511498\">Bobbe Wright</a>"
+      ],
+      "photo_reference": "ATKogpd8DtWU-5-6YfqUtQavlhv-EGV0vzc4MVaVGKBBvqS4OO9FRV68KayKkCJMbHtquDFoIe137nWToCO-d4VA5-dpAOCJcHo9HWzNizt3bnl-lCuAa8d0YnRSplKL8uDWDZf7VQ9o2JiYvF3w8psTV9AcncvBuDsL2RkcGiyXhnKYdaTtlWgNPo8T-_NzOv-vHmqHbcNZjRFJztMV2bAebhsgjukUjQdKtL4Xc765tM7uv7HEOguGZWZBY4-Yyrc2o9JmLxy8T24ACNe9gJMSUy18979fxCSVuzbUX1mAXTfzanH7oq7wxARWjOpfIE0tXyqqY8YoOGSEQJZDIDeE7pbLCqPbvViZXmiIRcHTUlbUcV149JwCasvCGu7LC0KHX3WrjuBUf-kg7vNMMwLtK17eMz-pGrHbpNVBppkLvarZc9V9",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102768747491518273211\">S. V.</a>"
+      ],
+      "photo_reference": "ATKogpeest6kNpwAJB4jdYODO8Qph6xfDqsq_9j0iUiZcKqZMptlWnw4r4noTBYic_Ch1woQCTk_bcsVfmHyJmIlx_5u02swJF8KaQR80TwfI4aIvB7qljKJ4SHsQMKYDd4gtaRKgy4aRghl_UXB-LZsQ9MfI-JGLJk0hWILYpQ9tcA2jiF6kQ2D9h7PBW_suxO0Yr8oaJTSEFXBRsdnck4I7MmZ2PDba7GTYcu_N01WBAJN3uixofA1qISCSpeHDNdc4pGAuSoDPWyx0aC50OLpiyq1Jyi-P_CIC-1CRVW-gs6nNDs1w8YeSsz9c7GGb0Ttuq9-X7yVbapo2vN-k3BTeNgGJeL8_1U0SrCOuF1fgch6BkcqRV1vA0B_POPTgYzFtNPnin3Z41Zf_SvFwOHBvxVKH7cAIjjQNvTjZE03KBFlPUu0",
+      "width": 3024
+    },
+    {
+      "height": 3233,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101822245344530912517\">Durham Food Hall</a>"
+      ],
+      "photo_reference": "ATKogpfZDH-d8KPWYcsF8LvOg6SBYzmLSAdLfU-GwV4vX7lDate4tO8his-kY9nEUva7TLQsDdoblQ5bJtJo5Q8iDvdHBVHMT9hdAOVNdhJvltl6-CqbZcjpnKt9ROUaa5zXRSE52-kbOt-rVItw7SkqstWAxZvJpKxzxQAtPBfME80hVoyy7QAON-87MowzgCrdxxoxzOqOtfjXYXXmwRv5BKgLLXSxJMoreCST6qFAuacjU52OGK-ztfchIR2b9rLi6t9BkioZnQ7vFHCLXxxaD5Jq6UL_NXZkisswzS0hr9EoOg",
+      "width": 3024
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102225476155335511498\">Bobbe Wright</a>"
+      ],
+      "photo_reference": "ATKogpdNCJ-4EoCZwI-exhJCNbqDU35VeYkGH0ZwVQWqk2DuiLyOc1lptf1d45xZf8dO4Ocnbfc6hQTkk0sg14CwR2CAjeCt-RjW32QvKhGuT_5BofNKViMhZDHKic114LvmOVXjWpW2EJAUo4qf5B8TC_rA9j0mdxFtV50QDLvZNA4iWFVPVsCUhsWAn_bzs0Mmbv2NUtxEr5EAz4tHkaDtwRGbAhmEMolfqJ1lPNxvaFgSnTBJvIMmlssfBna8F295O4CkQyP4MLMNqz2OhZ9Hj7DYfBf7wulw0V5SMilFosZ8SlHeb1qB77frgXxxM-NxQXjQywhXOHBeNSiDSV6OwL3AAqBFi4TjUUDdl1tymloijt56iD8r6XFbTnP3iY6xZVQ013T3S4QT0ea0qGBuRaX_5N7_56AfPfGvWaZUyQE32qyn",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJM5mle8PlrIkRiVJVIhrzwHM",
+  "plus_code": {
+    "compound_code": "232X+GF Durham, NC, USA",
+    "global_code": "8783232X+GF"
+  },
+  "price_level": 2,
+  "rating": 4.4,
+  "reference": "ChIJM5mle8PlrIkRiVJVIhrzwHM",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Joie Choo",
+      "author_url": "https://www.google.com/maps/contrib/110241769654880089699/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUWDaecuO87OsK0zK-b61CHkqaxVJTpiGhuTWusL2rmEOn5z6y1=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Top on my most favorite spot now! Love the bagel sandwich place. Food, drink, dessert and sitting area are all to my liking! Would spend hours here just eating, drinking, chatting with friends and family!",
+      "time": 1743291405,
+      "translated": false
+    },
+    {
+      "author_name": "Hugo Rios-Pineda",
+      "author_url": "https://www.google.com/maps/contrib/107008882869136322978/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWpF37EOuh48nMyqJOgDPRP3bCepii-tRrYmVkwc_6-JxLgIn66=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "4 months ago",
+      "text": "My partner and I tried some different items from the durham food hall. We both had entrees from patty boy, a double patty smash burger, and an offer of chicken tenders with a side of tater tots and buffalo sauce. I also had bao buns with corner yaki. While i didn\u2019t get a pic of it, we also had fruit teas with milk lab.\n\nThe smash burger was delectable, i think due to it being a smash burger you gotta go with the double. This burger taste like a big mac and idk why that is but this feels like their love child. every bite was delicious. a bit of a messy burger but i wouldn\u2019t have it any other way. The chicken tenders were crispy and had a nice crunch, wirh a nice layer of fat to give you a truly respectable tender. it was seasoned well and a must have. the buffalo sauce was more on the spectrum of vinegar based so it was a little tangy and sour, think of Texas pete, tabasco in consistency. Prices were about what you can expect from a food hall but rest assured these items will not disappoint.\n\nOn the other hand, corner yaki disappointed with these pork belly kimchi bao buns. for ten dollars you get two. The pork belly was just disappointing. It wasn\u2019t crispy, and i can understand that but the fatty lining was rubbery and hard to chew. I had to peel it off unfortunately. the actual taste of the pork belly wasn\u2019t bad but pork can be tricky. It just didn\u2019t stand out flavor wise. the kimchi was fine, right balance between acidity and flavor. i can see the vision for this plate. A beautiful blend between savory acidity and sweetness from the kewpie mayo. But it just drops the ball here. I think maybe if the pork was made crisper, or even a tad bit thicker, it would work better. Id pay two extra dollars if it meant higher quality pork belly. i\u2019m hoping it wasn\u2019t a true reflection of this one item. i\u2019m still looking forward to ordering from here as their menu is varied and full of different flavors.\n\nMilk lab is a must when being here, i had a mango fruit tea that was blended and it just hit the spot. be warned, this place stays busy so I would recommend getting a drink first and ordering food second. Unfortunately it was just one person behind the counter so we had to wait longer than usual however the order came out perfect, hoping they can get some staff in to ease the burden of order taking/making. shoutout to the staff.",
+      "time": 1739824582,
+      "translated": false
+    },
+    {
+      "author_name": "Stephanie Jones",
+      "author_url": "https://www.google.com/maps/contrib/104177924542864805779/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXgI1g5kH9BtcGzjXDee4dh72Oz7XW-jfJ2UrNb-yP1oCzz7XPMTg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "3 months ago",
+      "text": "It was early in the morning, so there was not much traffic, and only 2 places were open. Tried a sandwich. The sauce was overwhelming, and the chicken tasted old. Next time, I'll ask for my drink to be a bit sweeter. It was ok for a new experience.",
+      "time": 1743268245,
+      "translated": false
+    },
+    {
+      "author_name": "olivia ramirez",
+      "author_url": "https://www.google.com/maps/contrib/116624620726100040820/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9XGxDJjCT_H8k64TEOq3EskOYQN7Xkv8aQ5cC4kmdisi-n9h1=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "LOVED this food hall. everything from the indian place to the oysters drinks and more. everything was so yummy. a little expensive but cool place",
+      "time": 1750549711,
+      "translated": false
+    },
+    {
+      "author_name": "Geraldine Shepherd",
+      "author_url": "https://www.google.com/maps/contrib/118144441702146093271/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3xSYyBlIMFPli4c6YDQy4qreCpFOf3yfSRisNDPnN3327nVc=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Great spot in Durham! It's lively, lots of variety (seafood/indian/burgers/bagels/pizza/Asian/mexican/coffee + boba bar) - mix of people kicking back and having drinks, to families with young kids, to people studying or hanging on their laptops. Good vibe and clean. I was there with my family, pizza and cheese steak pop up were good, I liked my Milk Bar drink and thought the Onigiri was really good. My husband really liked the chorizo burrito, their in house habanero hot sauce was spicy (in a good way!).This is perfect for a large group interested in options, also they have long community tables and I was pleasantly surprised how easy it was to find a table on a busy Sunday afternoon.",
+      "time": 1749565486,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "bar",
+    "establishment",
+    "point_of_interest",
+    "restaurant",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=8340933803460874889",
+  "user_ratings_total": 544,
+  "utc_offset": -240,
+  "vicinity": "530 Foster St Suite 1, Durham",
+  "website": "http://durhamfoodhall.com/",
+  "wheelchair_accessible_entrance": true
+}

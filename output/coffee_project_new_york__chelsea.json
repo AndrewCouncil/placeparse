@@ -1,0 +1,452 @@
+{
+  "address_components": [
+    {
+      "long_name": "155",
+      "short_name": "155",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "7th Avenue",
+      "short_name": "7th Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10011",
+      "short_name": "10011",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "1815",
+      "short_name": "1815",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">155 7th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10011-1815</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1730"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1730"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1730"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1730"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1730"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1730"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1730"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 7:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+      "Tuesday: 7:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+      "Wednesday: 7:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+      "Thursday: 7:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+      "Friday: 7:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "155 7th Ave, New York, NY 10011, USA",
+  "formatted_phone_number": "(917) 388-3399",
+  "geometry": {
+    "location": {
+      "lat": 40.7418281,
+      "lng": -73.9970894
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7432011302915,
+        "lng": -73.99582541970848
+      },
+      "southwest": {
+        "lat": 40.7405031697085,
+        "lng": -73.9985233802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+  "international_phone_number": "+1 917-388-3399",
+  "name": "Coffee Project New York | Chelsea",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1730"
+        },
+        "open": {
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1730"
+        },
+        "open": {
+          "day": 1,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1730"
+        },
+        "open": {
+          "day": 2,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1730"
+        },
+        "open": {
+          "day": 3,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1730"
+        },
+        "open": {
+          "day": 4,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1730"
+        },
+        "open": {
+          "day": 5,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1730"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 7:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+      "Tuesday: 7:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+      "Wednesday: 7:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+      "Thursday: 7:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+      "Friday: 7:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 480,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107061131347005690505\">Coffee Project New York | Chelsea</a>"
+      ],
+      "photo_reference": "ATKogpfO4qKCpSw7CrchnxfJemp9vhQeWD0TW8h8WVfDNWGOZ1Yph8m5aqqMBf16gbezSvaxkUYPsJhLBYW7z70p6veMcvehzE8XDqhMN7DnSKDihHF94QLhj2CABNg_N09h5QZYyNc0pn_jEIcF3UKn0zD_eg-YCgKiPobX6xhVfBiU1pXbHM1J05qkXvNvB660l9weOCK9FbD17r_BC22CjmYMQd_mx6a7aEozoxIMy1xLcNoIojeZTwiEICOMUEANSMixWmuppx9MgYa28Dhnv0O5E3H7u_zV_-V3phxWvGO_5g",
+      "width": 640
+    },
+    {
+      "height": 3120,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107061131347005690505\">Coffee Project New York | Chelsea</a>"
+      ],
+      "photo_reference": "ATKogpfR3ZGWl3d9lQ6Mp0-6ZGmW1tf-rQr3ESNIufagkzE0irQ0_Dpj83JfYMuxz2GbZ25Z1BFnueOoqWcrdZKrL8EkNpqPBf92q_13rYVXrDAPLPIwDk_oam1s8-m64ERoZ_mIdZNnh0PR_ZGXPlZyHibKIpyyUt_4aUDiRjdKIN_BmP7eL-L1-JNQZH8opzvHJEx9SRAyMQF50V5yopZ1xONwIRoB642Ysbefq-4fQsBIMPuY_ANA1qscC2XZe4RImIrifRG4EtZlbTlBU-OLKEauzQ0O2Wf3XS85mc8Oqo1cYA",
+      "width": 4680
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104724097943836795185\">Khoi Pham</a>"
+      ],
+      "photo_reference": "ATKogpeo0lOByImYeKmJH9IA5KJpMdWpfzKJ0VlQJ2STpG7mV5qxlXGgrz_PaeVc9_ohXvAPyogS1wZsuMk46qlLM6zeuMeNx3Q-UIyufuSZ7oCQAgUxSWqCvN86cAIjLLpmeOuPDwXEg_Ha3xvfxUTMMOfPd-rQK8gKqy9RgIBPZVcNOcZ2lhnMLvsTUjVbp9VibqlQEPiSlVOSV5nb2u8-rmNBKet0olH0Rrz6xDQLNNGwev36dNqJNwIAyrv2a46TCN9GEfcZ6aOQW3sXHMQsWXUQP1ONMj30pHq0-4WNLofIcYGzE6b0_UuPcX-tm2wBbEo7Wds3Uapb0J_xHFd0UZe1XDX2MgG217ZhlyseHe1xIwQ996KD85kbBXSIug9zTM26ZXqammfbHNSIWeUao6cGJxh5jHsdGRvOLoaVwa47kL0a",
+      "width": 4032
+    },
+    {
+      "height": 1327,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101790749081934452840\">Guy Thomas</a>"
+      ],
+      "photo_reference": "ATKogpdUsfFmMKGC35rFwp_bkn4DZKKNMTxF8JzxkNsPzvgtehAFJnQH6Csm_Zeqsmk0IXZ2PPe2YibE6EejEMKa60GwHWk8tPLhQ-JNUpUT5ENjLaMIM8lv4vzLjUPBMXBeZwkk2xJRHU9Wns6PfhOjMpkVYgj1aMiZLG-xX6hPPkqwGBxiKXEksY2-Sb_IQWjwt7v3wUHNJQS7P0l-J-qI4iVIAUhPvnde9QObe4gDYS5dFF3p-2tt_kASI1jZ70NOI4YkAEWgdDelgqS6RfO_qKjBuKkHDNDh_iT2m3OOpqLsD8hlku15830VIiCFjTwNnAelae4QF_FDj3jXojMD85M6HkK0SGia8fAjH3QZmgnTSOZyUmlfkWTthnpjKpK3t_XFPtzXz1orHueV574XgT8UlVT3UqIyfVTLrJGOEG7qFRzl",
+      "width": 1179
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105049033996262226022\">Y Tonetti (\u3068\u306d\u3063\u3061)</a>"
+      ],
+      "photo_reference": "ATKogpc_6q_SA6H1dIRxqckpC02SORVvjKPYLP9FYDbPq3a9FwF7VD8zBmzSTKjeei3VaHIxVqH1mYuQQoXcO5cHFVHibpv1VjOgoyV0nT3MunEIyfPHOQOb8u5dMZ0KDRUVioDRrFHC2sBbnypEyx-stYaPoRZsjLByeF8Qm3HcLPjxzgCxU-neZkF_GYkGJON-ZNcFozYptD8STpMi_MzeBJTh2USHO8cTlMqH2-adlTBkLCWl7HAKHb43IeCphOd1LWNttOrp0I8udmvzk6pzoPvL8NvcouF6JBPLOj0SSpZzOElRbHNo_lOSY8ePdAJdFWT6-zysk8WM79jRf7EXltloYeqN1JIJ7GPweSYU2AQGo3IHksu9qbRJsbpnkGFBuBhEAnvha2ZbQlVANuKLgLtWpg36hUSK-zFnyYwHb2MAyEE",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116022201433479688208\">Sadia M</a>"
+      ],
+      "photo_reference": "ATKogpcLbSytAFKepwDV1_VuaHMszeJIbny4-BhTP-8359niMxZcM4k5wa7Obc93GT__PPDYb35P2sU4Q3p2rUJXYGGJBdg0-B0a-atxQ9hsKClsoLrGk7RMgweUqDRUhS8MVQQs06mH2jpMzS107VPsaGEs6IzsXvKGQdU0P982fKGXNgzk9xvsH5dKuMq5d4FZOVuJfK2gmjrFWgrPycUd06HgXUU5MMMqNcOFppMOigIJPOeAyGXYbdc7zSE6jwthQANJsmfWK3s4KU6N6MEx1P0oIDa91NZ4Hzd81wBbCQSiE_QfT1iR2LDkpsaT-cJeFyQFu4GIb0EcpJXLfbxweMfbzGn8gokeY-CI84iR3aAbJB5fDlHVXoOZ-xZmb_TwtA1xfEpyq5jjMlzXOOwHkJPf2pJe0LEv5kM7BLk91pyzeg",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105061327436182923816\">sebahat kuruta\u015f</a>"
+      ],
+      "photo_reference": "ATKogpdY5RD6o9exdTSQRfxnpM0lb9lGuxEZy4TrlKGjqaiNQsTC6KhdmARAGmvwbti6Hb9uxCJKk0rgSlhTOBmBEjRI49V6I9Xx3BPNCfuQuary4Hu_JmTlOpjHAxHWgyZOlwseuIV2iCW7sGbHPpfnKm4jhsDQS6xtqtkqB4_LpR34nPfNJxYclFzpLNHNJHUBWvAmsp377KOwZspO9wjaVl3pFL5J6O1QzXVLXOV-tbot1LR_tpuyAhP2gvSgYgi2i_4bL2E7uFvB1loo-YnmTlSgFekNwC-rC5nn3uq68wCUICBt7rBRn1ws2XKI6DYOU_cE9IEq1dtVR3HwUFxndlBCmp9abYh0Ee2w0pQ_Aw3o4jxy-FTLcZcbol2iiKuXw56OKOBQgmtBv9X3neUVG6GpBwJ1Y2HQM1IbbWTTIbO_ZQ",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105049033996262226022\">Y Tonetti (\u3068\u306d\u3063\u3061)</a>"
+      ],
+      "photo_reference": "ATKogpf7IasnKAoSSKfd_GQ09vmubRXyo5vu3Obkr1SzB4Mgw3OKPCI1ztOmB56zMkNrLyb4tTD841P9Fnog-OHzVuqrUHT66vLUohwDemDs_Mo3UWSSVotGsl_Tvvt4--XuFvN2VkYwSlA9ePYewVQle8N_OsY1zDwX54jfd9ZqPdWQnfqppmD5oQBd_zjR9Fw-qXr8-lLrXcPyue-hj0XHV109GUHXqWcLCDr1qJVmlFMraKLE5Z454efci-AlVxA7iXfE0vlCOAf3FxOhXGaDERvM1FOMLv63_ZG9WDscRIeHX3OvmX72Qp62Gvw5iL0lcqavMXWsJ3QbfEV7cLZYqPvisVWT4q1qljisERPfyX_5k-PdQCpKW4emuMQqbbsGGwJV1ja4sjg970d_wgOqh0PhK7sDsLRs5tG3OuyI1E9khQ0Z",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104903535737036141433\">Shayan Modiri</a>"
+      ],
+      "photo_reference": "ATKogpcsW8DHkM7la6HoAQ20aS4a2mnQ1RuUhynopT6LYEK3Ynt1jBpWQ1dKmuz9osa5JRgwoJ2Pfv1rYNOI0ve6ReDsZBkWii-mvU7eZcfK6E10BAexKbIV5BScVpdbgdRMg85RCs7fRgbxQs7F1jZv23hm-zB00u5Kai2Ep49n712XcMVlxTa7thnOzIqWgu376rHTrh90kegwEzjo0b2Eh5wwq_WpCx9ia_sAihpTen9HBqTqX8bjTx_XnOkwWLeptuyWpwAM-_ETkBZRTgXEa-euQwdT0w0em3hIC4juWfFGnCOfK64LTeCphr7c7nnt68EDaimY_lcbodltRx-2SWdNPFo3UAVgzJ865SH6-iiXOs7767uLtdX1bimjJAzQXtVKZZmniqEAhRFImd5L6u4RMhi6Hpw-bwTLGFZjced6dQA",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107166401891229515556\">Amy De Leon</a>"
+      ],
+      "photo_reference": "ATKogpfKOI5e40W8Np8JQFVe-oV11fRM9U_vyOX4nIYCGB6r9b__2o0GC61Xf-zTbn592PY5gAfvj9uFX7FlVBTULBsBNp_XlRAEuKINuFaxrf9VAD6Sv8faConbcL0L2-mf4U7Dqw3FhxDQS3HFD0okrZYU-wg8GrzvSzwwE68vqWn40vrcj62Q5tDu0khAF2j4jp1CZHnp_ytBnMYgWVyBHAZuXwllef3K0FzIKnq20OS1lgo-02A2ZhmDAlJp7YotE-wZhZcLJS_c8Vx1eqMewkAvyqTOblsC5XQPfnUQ1vInNd6zaLiRqZzumYCzn9tfSkvPxxRHBIC3NO-ABUhcsXpyjADesFoikIWPPcBn3TDOtYP0dqE2V_aYezaiK-UzNZFFg2WtNwiX6kYWppHUht5MwtNxVsZlTzoQwz_BnxNdEQ",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJjdjCLlJZwokR-qJu3EjlDEg",
+  "plus_code": {
+    "compound_code": "P2R3+P5 New York, NY, USA",
+    "global_code": "87G8P2R3+P5"
+  },
+  "rating": 4.4,
+  "reference": "ChIJjdjCLlJZwokR-qJu3EjlDEg",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "sebahat kuruta\u015f",
+      "author_url": "https://www.google.com/maps/contrib/105061327436182923816/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWN-GDPHThWIAWVvhgbq7Upjy-8MLWwBV8cdvxW_3hGDOMyrmD1=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Coffee Project has a nice, open space with cute seating options, making it a great place to relax or get some work done. The coffee was solid, and the croissant I had was delicious.\n\nTheir food menu includes avocado toast, muffins, and a variety of croissants\u2014plenty of good options for a quick bite. Definitely a spot worth coming back to, and perfect for a casual stop when you\u2019re in the area!",
+      "time": 1743105445,
+      "translated": false
+    },
+    {
+      "author_name": "Khoi Pham",
+      "author_url": "https://www.google.com/maps/contrib/104724097943836795185/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3Dc8QVwAYF_rZSlR5f98ZG3U3qZNZbv8AH3RVHDgdQ65V2Z7l3A=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "5 months ago",
+      "text": "Bright and spacious coffee spot. The cold brew and the croissant were good. One downside though is that the wifi network was not working when I went, so if you were planning to sit down and need the Internet, you should try connecting first to see if the network is working correctly.",
+      "time": 1737909085,
+      "translated": false
+    },
+    {
+      "author_name": "St L",
+      "author_url": "https://www.google.com/maps/contrib/108703813447485311226/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVDoRLGLJ15n9bUxlIKSILwbloGvMn50EYevIqaz1L4vnjPV9VF=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Great coffee and service. I love that they offer unsweetened almond milk! Soup was great too. Service was excellent! Laptop friendly.",
+      "time": 1747323871,
+      "translated": false
+    },
+    {
+      "author_name": "Tamyshia Curry",
+      "author_url": "https://www.google.com/maps/contrib/100721403678968152126/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWcgXib-H640gY49_zteXFh6mBk-U14egaCHsiEcKz5cXUAbP1F=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a month ago",
+      "text": "TERRIBLE EXPERIENCE. The man working the cash register was extremely rude and did not ask what kind of milk I wanted. Then as he's pouring whole milk into my cup I tell him sir you didn't ask me please use oat I'm lactose intolerant and he rolled his eyes, had an attitude and said that's extra. Then when I asked the woman next to him what his name was in order to report this experience to the manager she said, \"is that necessary we've had a long day.\" As if that's an excuse not to do your job. As this is a health issue. She would not give me her name or his so I had to take a photo and will be calling to speak with the manager tomorrow. Also the matcha was so over priced and NOT GOOD. I should've stuck with my regular. Blank street right across the street. 0/10 do not recommend",
+      "time": 1748121703,
+      "translated": false
+    },
+    {
+      "author_name": "Ant Wirjoprawiro",
+      "author_url": "https://www.google.com/maps/contrib/116483794164336229874/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_QSDPLIej-QkIgJM1OoDbSpxGx3VaUMsSNpx2nv2GJCBz-WdY=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Matcha latte was fantastic, staff are very warm and friendly and the space is great if you\u2019re looking for a place to chill",
+      "time": 1750007995,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_breakfast": true,
+  "serves_dinner": false,
+  "serves_lunch": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "cafe",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=5191776571549983482",
+  "user_ratings_total": 318,
+  "utc_offset": -240,
+  "vicinity": "155 7th Ave, New York",
+  "website": "https://coffeeprojectny.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb_ch",
+  "wheelchair_accessible_entrance": true
+}

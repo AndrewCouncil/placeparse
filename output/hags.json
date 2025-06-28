@@ -1,0 +1,406 @@
+{
+  "address_components": [
+    {
+      "long_name": "163",
+      "short_name": "163",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "1st Avenue",
+      "short_name": "1st Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10003",
+      "short_name": "10003",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "2927",
+      "short_name": "2927",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">163 1st Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10003-2927</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1430"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 6:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 6:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 6:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 6:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20092:30\u202fPM"
+    ]
+  },
+  "delivery": false,
+  "dine_in": true,
+  "formatted_address": "163 1st Ave, New York, NY 10003, USA",
+  "geometry": {
+    "location": {
+      "lat": 40.729021,
+      "lng": -73.9845095
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7303330802915,
+        "lng": -73.98307141970848
+      },
+      "southwest": {
+        "lat": 40.7276351197085,
+        "lng": -73.9857693802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "name": "HAGS",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1430"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 6:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 6:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 6:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 6:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20092:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1379,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116505038570586599193\">HAGS</a>"
+      ],
+      "photo_reference": "ATKogpcSc34uRiw2gvR-JcyCiSpXUhyMMWYj9MWiyF34_ekPsSwyoiPFOAwQXgKcwWJtEhvkUTnmtbITIa_0XvCJjqNn5lw5I0MsH_jCSmcbjnR9L45NQ-9k94-5ifx3Vv4cawQml0hSJs57h0MrpnRuj2ipQXNgt6To4icF7dXKj3z1GOQZ_0XbpYp8tIBqvIlFkt8S5js2s_tAHfrWkWcFgFtQ7dWLY9Tnpe_BHhD3JAMgeqfw61Tj2MDZTLE9-2BuGKglIpvyio5FHJa60xUO4DsntqBq56UZQrrUgNHsyM_3kA",
+      "width": 2449
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102140703878108115059\">Emily Loch</a>"
+      ],
+      "photo_reference": "ATKogpdPliUtDqtFvyMZCYjbtce33HokGZXOQpJu53NqkZI6fnFj2YA7xe7fBE3URz6yaEmEglP2Ta_cynhCL4M2aVicWRUxR1kkyWscfAf23LtSul7cjWlpNEvL-XxInjJQ7zVApbe7JOD11hqPbRZcK63iDDGkzQZVcEm8OiwwuLG-08VRtB1HeG_LVlcqw0yWtCcqgThwP-vIXRVNslMpdbVhRqSkpgWfm7-JsY0yN5KxWTjl6LsUMH5g6c8ky4uIp6kpG4BVYWnDEYOAkzXR229EAhF7_NuZpZ1rrlgBUuULDcMWu20zjoCkFaku2gHzCVQIuAKW28B1h_CyivHMBHl9J0kOjq7S9yCbjmEblbtdkg40QweqYKVfJM00HyU7HFywYF_FQs447irePtQvMzCkaNg0qCEHqsxFSXRGyBMDfngg",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102705625386603550779\">Ana Luiza D.</a>"
+      ],
+      "photo_reference": "ATKogpfk0S7mUgzq_VyYJuvZx1FcdkOMwC5-kG2d4S8P6nhmeHNFpI0nuVkgIeLYuE6PRntVKyKwqRCrCnwAvWglZUK1ZNUqjsK_YuCa4bpWSL2V0mEjcMJYKmDGHa63QdDHJT_nqDRDy5iPN_nKeXVZax9yXuHggNBs6QNpcZocL9BwpNSeBd3h7M2NlfUFkP-87cX85IsfYQDk0HN5vLstE0WPdZX0_Hv1f4yMBMdFLPbntRMml8u8RbPPqvxKNk4UF6TIFrmjSWXMKTblLxS-fnNFPNwKWaeXpG1CiP5WIJda02tGfRApgzmg3iIGWq-_DfJ_PyACNvHqH4xutBclwmTeyQL9sNcqPo2-N9ihd9qG58_Qucvacx22pI7UZQTXaxYnKV1gbZPXWX7gq-05aIj_BdZRnxiHcW2K0O3KhaGX-g",
+      "width": 3024
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101058316599552435279\">Derya T</a>"
+      ],
+      "photo_reference": "ATKogpemEI4oj7N4BdthFTOyEBtq7WQySny3HJC9avd0OJAY_oLxZINrL8cdLqMezSun5YlQNExLLKOADpIrwj6jOp7dTCTyukxyCWZbu9KE8M6ZZUiO6i-w6jxHBY9GZFkAVB2YXanPhwSztOBUQm3Da90klA_MnXS765pIbH__7kmWY4Tu4ea8pceGP9kRDXJUW4IEPwgp6uzK1YzGRlFuG591rqMNgvtEIJFjFaplAYwZ9zOuiSadzAptM38EeC1I9_NjHeywdxUQsZUFy5_ulnDj5fMWLAKxxshY8UXxb3SauXKmdzTOdVAdrTflDKPMh8CmUhcdPIxjcS-y1KedyStI1-W_60w05-3UL0apG2QbT1A4Tih_C_DlwctmZrcGXPUte9HLuXiG-gSu_0QqEcTbRj26wyYzTjB-lf9ZSkQnOA",
+      "width": 3072
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110215364612075167430\">Laura B</a>"
+      ],
+      "photo_reference": "ATKogpeqYB0q8Ad_vJbkZMaIWATOnJmzBpcxC6dtI2djCdXYm68OVgCI-JhA5XB_K4YwzgXiPVqPX7Bdb_ZIQiyKbn1giuxUNq6mvgIVC1UfHbRnXiWkj0c9RAfi9lyEtvGQlv5LoLbPrIeWNRKU8EyWt2Fo4I-qz4YceJ8pVQCIyP_kXTO5YmEDkRoTXfCFzJ-niuXd4M_GBgD7zxGRWPxPqZVzdBeDoPh6PbewB5C9IWzDcHQghilHLF7BxXS8a_zqH3N5ZrZ7BT3XrV1gGGjzmLi3UTDA_f0teuxskZd2ARYF5Mun2ZucxKvBocCct8TF1Ed0slV_5NC3s6n9F1yR4b7iSFOuQrUzUUSdHSll9lOm31jFfNcKGHRWUlMxTGJVtSo1s70R1GZmmEy39cAMF9MFCfqRIu9wcoHtk4WSUP19EPY",
+      "width": 3024
+    },
+    {
+      "height": 3606,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105326044152707906814\">Quintessa Morris</a>"
+      ],
+      "photo_reference": "ATKogpcd8slqoCJWLjU8eEdG5NjHLAz1YO9RYTJy2vapxcrFTY2HqC6-4kDQQNlIu6vtFwMJZeQnE1hnFLOgWO3DZ0PE6JkH8LvYYxYzDkg9W19JcQA9ZPiR3JnIuHtOrhCibycS_s1vRzyHERimfDRsYjAYNW6mtthgVTi-zpc9HFDMsKVB7Wr8f4arzbB9_D5prIN3bDT3AwDVD5wyyZb1BTa6qUSImont4OT0YyEONuq7_V91tNtRHfwkqCX1M85tJOoIxX0_5tLlYkHn80dKeKFnk00u_tt1VPtTFs1AlAloVFqV7HLY9fedhbhviCc9bhTA1yp6KPvl0OK45jzBlfe5gaxEoyReqdqrxLb3gQku0MSpq0f49mfrp1xrOyanyK5KO2ss76_b4gZ1b3mKDNnrwRuSkMZUJoQuqrsIoYWgYSE",
+      "width": 2739
+    },
+    {
+      "height": 3733,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100833650043237940759\">Maggie J</a>"
+      ],
+      "photo_reference": "ATKogpecO83nKdhxOozZTvWZncFVR1r5jaxd-EVqifsOMGK5XiXaVlyAWezDgFC3dHY7IvGg_l_91sSpTv7Uw86z8YkD0PB6YMK3XhO5vJ_XRPSOMlyKkLTWnuMMiBiuOxBygP6aZBDiBNfEkjGtT2TZOfcBVp7AaZll7bmxHOFiJ7O-wX3e1ckE7FCg8Ve_yWCoI51p53EXbK-zg6ICEkoJGBTSV4AuhXZBYYhC2Ye8uTul59zIA37gAtqDpfc0FPEvXXQyUcOTIAyh72CF0fJZhfL62sf7z24s8M-qhapKRwlfuT7PGf9wYRfTcYis67VsGggD8HDzriuKt7vBx2kLgBG3s43ylbkMtJUFzhS1e61DqfGbCiVLMhBHETfjpDgcDbqesS0pc_q0CMKnYIb02z_Ydc9jbmPaIG9IGiwG294",
+      "width": 4177
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102648209263753189589\">Stephanie Young-Eun Jung</a>"
+      ],
+      "photo_reference": "ATKogpfF7An7mEraAcaGFwPUH_lY-t3lO8-OAWgPxmLBvICJNlZ7-SM3lQWeXqdqhbfMgnVOMUiUNofhk1d3qJkdOixF34LKVdTLiui4RRgouuGB-K75F59wMiohuYkVnLyGDlZ3uCaZohDQTg2IxKso7IbJZqZPm8VT7gi0FcnzEiyQIROzqSzA8B8JpkSoxs-cDFY_Tdasr4H0gOa4qpuNtjSMkB59rOzHik8rDWmV4Nl-9x2qvz1f6XNvE6U4-hVa8PO_eldD3REuRSgWmFFr37l1WKHXI45Z2HtuRMsRo1SFyUuuF01U3HpTxW6L6ytnlFs5LCMuJsUordskBy4ypiiisLOvEyZjWFOe2LM1edQVQPIiAmqUc2ZTrELN6BhlHFesWNrQEfSqB-iOGkrd1HoAC9M6aE2pc7ImvwgUWfGfICnm",
+      "width": 3024
+    },
+    {
+      "height": 4506,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100833650043237940759\">Maggie J</a>"
+      ],
+      "photo_reference": "ATKogpcDrAjPwOm8_3zhfo2nTG07au54WAS8Uf7PQ0X7S5B08zU5Jti7P2BfF-jqeeNuEpUwioUc2AZPabkAEMrPiC8a4iLvcr7TFntAgvA-G-TEGxzKfthiOR7efHvQumFLcA5EDoX_StlxclUxxus0-Z5nH44mJGZ2nYoSma6QKLlRXnkek_b8Ce-XR3Qoczek3KO2qvz1qaSGtqGTttH6ycoh8ev-DLNQaZMT31wQh2fiU9edyhZ06P-dx8luq_82seHA3_21S6n5Bz9rt26-fxA-mrbZL_IMIOCPuxOvlkNYub18dqE2ruamvZHP_PaydkkjmoKrS2dVwVuUmwSCe8Fk4jiU0JPX9NuNo6nhn5Pv1Q2AE7wjhLBfCbCNrAntJsyBfqanNRAFMxOGp4etjEoahw2v9GPG7fy5LeeHjj8HY10",
+      "width": 4284
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117808460219123378764\">Ruwan J.</a>"
+      ],
+      "photo_reference": "ATKogpeeGL7F_uxNvjhB-0x32c8mdhTAJVxeiyAy6KeUTLLUV9t-HdmFSCN2K1hOE-1LDuVaGrB3bL-1cNzRALKnmqw2A0qqlVOO276uRdvvXdhwbu442-cG8Vmwx0pDVS-3DkfdbE6OlTdHe55SMh34-KvgYNhXB4r38kXcX7axzM3qQK2AUiXBYxMNso0_cRBhO6dnuRzW0e5YuuN42Bg3N_1sPu6IzKeNDPKWeogGQKBGPy3nctbEJEzANRlh11eanDDFJUcLgdk2E67MwrnhtjiIWOOMcfHL4wVX_0ogK619LfGUgV94UW0IKu1S7Tme3NUNNpuYEzlNX7HlLSw_XPpVH8ScTKdVxe1vBuuhyRHYlNF-eo_vchJko7JfvYdOEQchBY362olBJlpAEEM36tSRBS_5mm_kqr1sn6C15Db7JRzq",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJp0ha1dFZwokRK9WxgN9HVuY",
+  "plus_code": {
+    "compound_code": "P2H8+J5 New York, NY, USA",
+    "global_code": "87G8P2H8+J5"
+  },
+  "rating": 4.8,
+  "reference": "ChIJp0ha1dFZwokRK9WxgN9HVuY",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Lauren Lynn",
+      "author_url": "https://www.google.com/maps/contrib/112878724187499624306/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJe3dQy0RkBtaqpiyNkYz8sgy1SHFwOAfEbdgA-4ixU__hAdA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Absolutely phenomenal! This was hands-down one of the most exceptional and creatively executed tasting menus I\u2019ve ever had\u2014vegan or otherwise. Every course was a masterclass in flavor, texture, and presentation. You can tell the chef isn\u2019t just cooking plant-based food; they\u2019re creating art with it.\n\nFrom the first bite to the last, each dish was thoughtfully composed, showcasing unexpected ingredients and bold, vibrant flavors that played off each other beautifully. The pacing of the courses was perfect, and the staff were incredibly knowledgeable, walking us through the inspiration and elements of each plate.\n\nWhether you\u2019re vegan or simply a lover of great food, this is the kind of dining experience that sticks with you. It\u2019s a rare gem that pushes boundaries while staying deeply satisfying. The all female chef staff was also amazing to see in action. Highly recommend!",
+      "time": 1746839097,
+      "translated": false
+    },
+    {
+      "author_name": "Emily Loch",
+      "author_url": "https://www.google.com/maps/contrib/102140703878108115059/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocINKJu9d7hC7TrKJQhUbdNcuLHDrTiv9s9xJRPZfoMyC5W8T98=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "I went solo to HAGS, and sat at the bar. I would 1000% recommend this experience. This place was insane. The service was wonderful, and the place itself was beautiful. It was intimate and small. I had the vegan tasting menu, and two additional courses- a lot of their vegan substitutes and some beverages they make in house, so they had their own vegan cheese which was delicious. There were not really 6 courses, there were 8, 10 including additional.  Every single one was phenomenal. It was food that encouraged you to shut your eyes to taste it, and wish there was more whilst there was also the perfect amount. This place needs a Michelin star, it trumps a few of the Michelin starred places I have been to, and I cannot believe it is the price it is. The wine pairings and non wine pairings were wonderful (I did 50/50). It was unique and every drink made complete sense with the plate in front of me.\n\nI had a very beautiful experience at HAGS. It celebrates queerness, veganness and you will celebrate it after you have been here. Do it.",
+      "time": 1742833523,
+      "translated": false
+    },
+    {
+      "author_name": "Si Til",
+      "author_url": "https://www.google.com/maps/contrib/107832973345635818324/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVnIAjqPduUzMfnwpzdqAFX_UierZTiDLTAEWoO4qu1FHjPxTRaSQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Fantastic food, fantastic service, fantastic wine. Truly a great place to dine for lovers of cusine, fine dining, and trying new flavors and executions. Especially loved letting the Beverage Director, Camille take over, they gave amazing recommendations for the table and is very passionate about the winelist. I would recommend the cinnamon roll, the crudo, and the tempeh schnitzel, and grits.",
+      "time": 1743983175,
+      "translated": false
+    },
+    {
+      "author_name": "A Shen",
+      "author_url": "https://www.google.com/maps/contrib/108462981404926274562/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVtlfL-M4qmD52cIefOetDt4oFk6qFL0olzPa6TQJkqhA62W2n-=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "4 months ago",
+      "text": "They have two tasting menu options: omnivore or vegan, which are both fairly similar.\n\nThe atmosphere and staff were top notch. Staff were all very knowledgeable and friendly.\n\nWe went for dinner and all of the food was very good, but over the 8 courses, it was not filling enough for me, and the price with wine pairing was quite high. In addition, the pacing of the meal was very slow. I believe this is because tastings/seatings start at the same time, and they serve all of the tables the same course at the same time.\n\nThe fish highlights for me were the beet pastrami appetizer and the ice cream sandwich. All other dishes were good, but not quite as delicious or as innovative as I would have hoped for the cost.\n\nAmong the drinks, the non-alcoholic pairing featured a Douglas Fir based drink that paired incredibly well with the pork or the tofu, so Kudos to the sommelier for that choice.",
+      "time": 1740227525,
+      "translated": false
+    },
+    {
+      "author_name": "Brock Smith",
+      "author_url": "https://www.google.com/maps/contrib/102192201964715357905/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXGWyVtiQP5sFYn2VOCCHM-LcqlSSOSEyTyxdWMioZH_QSozx28YQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "One of the best dining experiences I've ever had. The servers were super friendly, knowledgeable about the dishes, and willing to talk about anything. They even asked for feedback about the current menu options. Not to mention the food was beyond this world delicious and the wine pairings complimented every serving.",
+      "time": 1736403617,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": false,
+  "types": [
+    "establishment",
+    "food",
+    "restaurant",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=16597532501982958891",
+  "user_ratings_total": 109,
+  "utc_offset": -240,
+  "vicinity": "163 1st Ave, New York",
+  "website": "https://hagsnyc.com/",
+  "wheelchair_accessible_entrance": true
+}

@@ -1,0 +1,423 @@
+{
+  "address_components": [
+    {
+      "long_name": "42",
+      "short_name": "42",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Rivington Street",
+      "short_name": "Rivington St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10002",
+      "short_name": "10002",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">42 Rivington St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Wednesday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "42 Rivington St, New York, NY 10002, USA",
+  "formatted_phone_number": "(646) 649-5868",
+  "geometry": {
+    "location": {
+      "lat": 40.7210707,
+      "lng": -73.99097909999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7223358802915,
+        "lng": -73.98967376970849
+      },
+      "southwest": {
+        "lat": 40.7196379197085,
+        "lng": -73.9923717302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+  "international_phone_number": "+1 646-649-5868",
+  "name": "The Hideout Chai Bar",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1900"
+        },
+        "open": {
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1900"
+        },
+        "open": {
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1900"
+        },
+        "open": {
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1900"
+        },
+        "open": {
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1900"
+        },
+        "open": {
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1900"
+        },
+        "open": {
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Wednesday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1153,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109196885514348824444\">The Hideout Chai Bar</a>"
+      ],
+      "photo_reference": "ATKogpewSzTJ4UIfileNV0jli4MqTYMPTenueHUVdqq9-FYhcYqMCn8YlGuHgOIHIZwxnmd2EYjPL0z8BJzyj3Isx7SUBp2S3p6gK8DDjD5pyw31DOJx-dNmSrbGP1xP1O0KMqwtsGwtAUNKUui0MrBeYeEjnI0TXZBVvrQOG-dojmpEH1gy_Nisz96VhcDwe51-RZ1nOuRwuYCz7iUZ4tiD61zMUmg65sTKKXZMSzXbXV17hLcbWM4Gh_3OTk6qS8T-FhRzD_6jFD6MaB7fTrvO15w5g8--UX0CbRfZqvfA7SOYFg",
+      "width": 2048
+    },
+    {
+      "height": 1702,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109196885514348824444\">The Hideout Chai Bar</a>"
+      ],
+      "photo_reference": "ATKogpfvUNMTFe-6lRY5b9RGsINT7GIgQJbKBLOw-SqfuByHdjJHCzuxTDi87JtVOPkL7bLYeaK9AV4I2XudiSW9Mo4pfYHzOkitjERVSRZSC1_iyyCPeQjq8uL56FQMRBaxiG4DRYxQZAVHX16AkflxXRwZC2IW6PutP8SBlmg44RvE3rXPxjMeR-V44mYeUeuUCr6tKlyVapmY90Y5w7X7NlwUU8eadugcm6GWKAyLygyYk4TYzvmsIpm8r0cSGFgQP6EirTPar_h44uyDzbM6COIin48vSDI7e0_euBfIFEub4A",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117942932963522864856\">Fati A</a>"
+      ],
+      "photo_reference": "ATKogpcLZIZVFpG1O8ghtmNJf2M2fcyuYPXt_Y36x8oWfQpUoIrR4Kz_GT0CbTIDQYsMDiCypwgqBBH4gTaWosXqzbeLJ2510AHg1sXKrLt4tSGDQ5Jr5ucozu-nmhfJcAEcHzQKJOc_H0ig-Oi8WVwbKFV0BjGyvLIhzr5rhN_kVUJ1yZug_LzsBbFLBaaf-Axl0z4zJkGMTlwtSGN8FPQrbIUMvgF1ZNzAFZkxN8SJVh_IQjrpU8uYcmDbwmTdZKVmm5VYxBtY6p-aFskqYRg3u2R2JphBV6-vEO5Tx2-oYs-pY0fU2PmNJsjU-gaI-t_XHZWipgQAaAF8rtrXL6GBMsEFbqTwnpPOnnXNVph2h4etwnYPeeDknDHvTYpGfKyubCwW0WlHbA20sFWzewycBQI0ultMTSkynVUO3dfYxNlipQ",
+      "width": 3024
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116622516592328866369\">Bill Wang</a>"
+      ],
+      "photo_reference": "ATKogpcayD9n18DMqUpWXB8SN7sSW6NsGy-5GDHXQf1ySEaQcCCdNILrCSkP4Hec8c7LQqxkBVUMtbBjKWEGnRWKfB8ycsuCR_RrBWuXQybb-XL9QKxaW77KorKmgDIsnfOOKvlZbwWwJN5e5EB-ofNDcvls0wQBRbzYrbOJd86XxJMH44-vKTiT3zUsKQo4eMbCzl_t9O2KCkj96gPsc5YiPAZH6_ln_VON9nc_IyOIvNg3LIdc1rpAGkThObZDhNeMEiOZb_lgClEwbR22acUXILJLwgT0PdY99EsbZMYjAGKvwPTwwE2baC_SXE8a71pFcMSt5gsMjUrsGszmf1j8uNxqBeAU2VcpFufCp_KG5lv2tQkch5XwF4w6iZlWE-4TBDs7O6l-o07ZIN8aKZvwG-f-THy2-Kw5W81S2LXBCNE9h5tN",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103509114945115476662\">Cindy Chang (CINART)</a>"
+      ],
+      "photo_reference": "ATKogpc1eLsNtTW9lo8UepaatK4IGExZcFrawX8xjdEO0Rlug38MFgYS_uUqZQkvg7ogq2uWpIpUjvRb81x_dZ2ChM2pYBrYJYlBebO0wHQhoyj_98fIulC57nH05wGfardnJQPqo66ugINIRtKgato4WWclNqgehBzrbWH3jKDa-14Xoj0gOla2mMDXMqs8H6zeiq8CC0g5JR8O_z8CkpmsHSSoQ3CPaZfKS0GmX9sjyK9IBYAOOd_uarYAo1NR_STgI3dPnWTj-gsA8ojXML_jXlMDfZfPhfRrarXQeWJaWt3_6439ITZZHkFUzOfb7F3RYdS1c9TyX5sovk1BxgbBOqPICVZK4CMGZbCl9PvMbNaUbSoDt8BPkbWcYsq3hG4qNfKwckw1csjdbPUfQu5UA0RvcjLTicurC7y54nvFPUoOJg",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116622516592328866369\">Bill Wang</a>"
+      ],
+      "photo_reference": "ATKogpewaGVMbASOgNqxArmBgjlU8YVKE_6gXIjqQyIJZrOZ28Jd_okTA65dsdnoLS3j9Yxl7b81NQv5fpxQRruWrFfXKD14VD4aZBjXqa2iC7z0oT6I4EViXSIwDOqPaJ9YldCjJi8ijvsGw_BSozeQMdX6XNnTNJ9SvP9i6FI_1gJ7BdcnCWjHcH3IkvOtzVw72o3LS8J5bgGnQbaQXMpAU8YNGnyKgVNPZV2D5Os6-Z2VLtaA8k4C-GxY0uO2nDghyIJ55VK3zMDjZGR0Xil5rj9Jq9e-7o-3bLZ-Uc5124NZM6Uxc9vxLDYw67139BbFwOh1LiUlr8nhr1uDD6HZ7d22yfDu9sC-owviy2bCWdXTrbME4ey-cXn5SNcsdntpBHnZJ6oPba8-CEsbeH5UEbqxyZCeQuUAUt2QjEQl8tjcmw",
+      "width": 3600
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104724097943836795185\">Khoi Pham</a>"
+      ],
+      "photo_reference": "ATKogpeoMQYAlRdWEILAThcR3GR878Ch7nHR3UfTVaWV2prJShf6VCkG17t3D36qgCGWMc0SJzkXBoEC0gMaVw1G2-r1xG_MRtIMZmZhPA6l8Ly6zO5RrJDE3PfXC7P-kfBotN6ed0Cyj_SpCpVtaYwTju7GF08fm_ezEj3uh3OYKcEbUEzMJjBfTCl-UCsCc7VrhZfYmOn8H-eJQ_lAoAeK6AqlEfOpP-IOpeZOW_i_5q-4WVBNXOV6aXEe3eFWDmiK9HYzIQuXo0LVY3GTTySmrSyQztPR7uQ54gh5mCmi2KG8zYcDAmjixtn_U_M88G-9ZkWW911aJniMQ-w45vNCEOM1_pf5w6gYY1UG1Wa619InfODNsrZx6-v_9lLCvhHRbLKHKYCo3JfLs4WEn_1XEagEOncgg7cZYCwZaVNLM5ziY8KO",
+      "width": 3024
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116829381659930079618\">Steve K</a>"
+      ],
+      "photo_reference": "ATKogpe5ckX0GLs-sKyudn9_TK-sQl56TMv-A7ZhV0U41722wUEQoQDQYvrfjLLTGJs9QFzZVF1Jr1Yi63Mc9Jff1PS7Ebd1H4v_x2KnOogS0-hdN6irO11jWYGep6Yg7ndJDmV6xN9SQHL3cSZiG0CynLHA-joxIizdqxC1HyLaTsmd8HWp64QiGu6mWgo2TVoW7sd-OqU5NAERMse0ZFjxzLx-RipJ8StSMXbS3L0yEnD_1ZkSQF7FN_q9dPq1Ou9HLrkzFmFBLSjPkISQeCXRj_zhKd--xBI5RpwFKTG33Qo_LxUNh42cQMj7MsaSynND8-vEAXtaUcGrcI7ovj1QZ9YUbQnlQgWazNGwIsRpIWecipwTeTQ_rMop_vxUlBXQIQxMi-wT-Np3JT6_melvmzVJRZvX4SI6Ovo-5s6dtYk",
+      "width": 4032
+    },
+    {
+      "height": 4624,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114372995093022056773\">Sharon Man</a>"
+      ],
+      "photo_reference": "ATKogpcigGicGgJJ6ap-cp8mTE8V4_vPeEF9u20GsdzFUvlJHFppItWpk3lh2xJF2MIK8H0XwsT1jiskPng5wjuRPvW_F_XbStvAc-hbmNHqk67rEt6tXVokuD10DyZwNyl6xnQQM3flYgY_QsL_jZhlbn0nbNafnKTz0d6YfrNL0R8a8idYoHtghsu6SEq1JlHDRIbzf6_sVG8CibhGMuOGwXdHsdd_3AHHFv1NK2cEETbLaUKdtUlgrS4AqA9AKI3j4fPwRr--RKj-8pWGbiM_OEXVrURG_OPDBwZM8ZBJTHw2ozWWuTnnk6KBR63bw6nmH4rD1IbKkMBynZj1HYAlni931ArwoXW3bG0yoa6QWwLqIp4EW2oJZmZsEYZegZ6xHxwSFz2RH5bwaiN08tS9d7wpD5bAspZegZIAcuYIgAE",
+      "width": 3472
+    },
+    {
+      "height": 1365,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109196885514348824444\">The Hideout Chai Bar</a>"
+      ],
+      "photo_reference": "ATKogpf6HqHiUXRQBFuoNuU1smW3OeV1kHmG-r-qexsVB8fknDK7625xvjL41jpw6gf_UaoxlNTisyVltvlQu6YGhX6lB3lw8RGIvg_4RAO6NHe51RDLLQ_YcJbVB1ryNhG9byX2tqvu_088c2OegAYVUhpYWrF-tBxPLyVnAtCYViREqZv-QSYHX-C2GoTDsvIKrFm_99yQQ5rj3WSdqt2AIczGCv54AdAwG1pfuPdVadDcBDpNotGRoWw9E70nz3rM_QpkxBFVohbLiLtQqlqYtF3qJYb6V15rMzN2Mrm6HfhhLg",
+      "width": 2048
+    }
+  ],
+  "place_id": "ChIJv_6WmoZZwokRbuo1pyegDRE",
+  "plus_code": {
+    "compound_code": "P2C5+CJ New York, NY, USA",
+    "global_code": "87G8P2C5+CJ"
+  },
+  "rating": 4.8,
+  "reference": "ChIJv_6WmoZZwokRbuo1pyegDRE",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Eric Wenzel",
+      "author_url": "https://www.google.com/maps/contrib/115970782849735385024/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUgd7jJad7sPsNwX3-hzB1UtwVoUESrvDMdPXBCb15xzZz8nm-Z6Q=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Best chai, curated by a Master who has been crafting this special drink for over 10 years at this location.\n\nThe flavors sing with each spice note echoing in your mouth. Try it.\n\nPlace is Spartan and a little out of the way, but with the trip.  Or visit with another cool place in the LES.",
+      "time": 1746218419,
+      "translated": false
+    },
+    {
+      "author_name": "Julia Hsia",
+      "author_url": "https://www.google.com/maps/contrib/103663916218838717371/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURwFcrHzw8wmnPsRL0j7aSBj8iM---QlsBzxWuQlTS4c13NtKq=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "Totally a hidden gem that you want a great drink but not necessarily coffee.. amazing tea lattes!\nThe store is stylish and the staff is super nice.\n\n\u2764\ufe0f\u200d\ud83d\udd25\u2728\u2728Nitro chai latte was soooo good! It was smooth with rich spiced flavors. (They ran out of it but I got to taste a little leftover.. definitely going back for this.)\n\n\u2728\u2615\ufe0fchai latte is totally a great option on a cold day. Same, great spiced flavor, warming you up.\n\nOrange cookie was neat, housemade style. It crumbled and slightly dry. The staff said it was main to be paired with hot chai latte which I would recommend dip into ur drink.",
+      "time": 1734217710,
+      "translated": false
+    },
+    {
+      "author_name": "Mae",
+      "author_url": "https://www.google.com/maps/contrib/109218837663732129908/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5VXjLNgvrE_lWBGC8GSTrKSJsq71rGDKknQGpoEEPsROEU7Gl0w=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "The nitro chai latte is really good with a nice balance of flavors. The owner is friendly and seems passionate about what he does. Nice cozy place with some indoor seatings",
+      "time": 1747769347,
+      "translated": false
+    },
+    {
+      "author_name": "Cindy Chang (CINART)",
+      "author_url": "https://www.google.com/maps/contrib/103509114945115476662/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWEJ-B9bgM5WLK8I587InBzk9VY5hOKYXennazZ9ZjYlQH_xmFf-g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "If you\u2019re not paying attention you\u2019ll miss it. I was lucky to see the sign and look below to see a gem of a spot. I\u2019m more of a coffee person so I brought my chai loving friend. We absolutely find the drinks lovely and the space tranquil.\nThe barista (owner?) was stirring the tall pot on the stove when we approached them counter in the back. The menu is limited probably cause everything is made there. I had the earl grey and OG. Smooth and full of flavors. Perfect on a chilly NYC day.\nThe space is simple and zen. Not distracting and quiet so you can have quiet conversations or focus to work.\nWorth repeating.",
+      "time": 1737057575,
+      "translated": false
+    },
+    {
+      "author_name": "Bill Wang",
+      "author_url": "https://www.google.com/maps/contrib/116622516592328866369/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8XcwXsMBR5iNpQMqQE0OGii4b3FxOCAqrLDu6-L_A7WOK9N4_=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "Stumbled upon this chai spot and was immediately blown away \u2013 it\u2019s hands down the best chai I\u2019ve ever had! Incredibly rich & earthy with layers of flavor and depth. The shop itself is cozy with a number of seats available, and the barista was super friendly. It\u2019s the perfect place to enjoy a cup of chai, hang out with friends, or relax with a book.",
+      "time": 1728248288,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_breakfast": true,
+  "serves_brunch": false,
+  "serves_lunch": false,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "cafe",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=1228814365511510638",
+  "user_ratings_total": 376,
+  "utc_offset": -240,
+  "vicinity": "42 Rivington St, New York",
+  "website": "http://thehideoutnyc.com/",
+  "wheelchair_accessible_entrance": false
+}

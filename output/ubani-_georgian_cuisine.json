@@ -1,0 +1,653 @@
+{
+  "address_components": [
+    {
+      "long_name": "8309",
+      "short_name": "8309",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "3rd Avenue",
+      "short_name": "3rd Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Bay Ridge",
+      "short_name": "Bay Ridge",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11209",
+      "short_name": "11209",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">8309 3rd Ave</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11209</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2330"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2330"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2330"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2330"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2330"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2330"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2330"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u200911:30\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u200911:30\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u200911:30\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u200911:30\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200911:30\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200911:30\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200911:30\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "A cozy-chic eatery & bakery with a patio out back offering a unique menu of classic Georgian plates."
+  },
+  "formatted_address": "8309 3rd Ave, Brooklyn, NY 11209, USA",
+  "formatted_phone_number": "(718) 333-5363",
+  "geometry": {
+    "location": {
+      "lat": 40.625346,
+      "lng": -74.029966
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.62672878029149,
+        "lng": -74.02877011970851
+      },
+      "southwest": {
+        "lat": 40.6240308197085,
+        "lng": -74.03146808029152
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-333-5363",
+  "name": "Ubani - Bay Ridge",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2330"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2330"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2330"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2330"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2330"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2330"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2330"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u200911:30\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u200911:30\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u200911:30\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u200911:30\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200911:30\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200911:30\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200911:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113169627272928024648\">UBANI- Bay Ridge</a>"
+      ],
+      "photo_reference": "ATKogpfgcD6qNCILgryq_CNZEXtKwDGSoSUFczYIt7Rn3VHwEdP22xywMaiTO7y3PyayWTTSaanHnAL7JOE7Q5fVJOxuR_UMXKGg6tvDJGYyxUKnR9gFtAPXvF6EkBh1uT7RDVtjaddwNmr0AYyGnSYBMESmqFGxZMQuU32l5bW_SlA2lqW0X7Otjq2a9SXPxzbDeEmJQvM33OOabhDJ_2BJetRQ7D7AtZU1yu8BBHU5aCRyqF6mc3zKA47d1Q-Pga8elOejO_QvWHrfo3bJv216Kj4H3t0wPV-4IK27JZ_3aon8Jg",
+      "width": 4032
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106285063375987843809\">Alex Serebrov</a>"
+      ],
+      "photo_reference": "ATKogpe5pRAOrAnFJEN9aesxfxwCzLtByKEAEUAsRKCEIkBg7qzQDGsAl9zKFQV5cfr4NBDXzOWxHtLUgoB43d9YyNo1R9bzjCqxoRMnM9AQyb-wktxdw64jOgKLoOl2cx1gpJP5TpSS1AcfgwSg-2AsFgVDzTJkB7VniJ3cN1xa7P8L-4-bdg8dtYrP5r6oOf6bFQ2k1fbGa4pr9cHq2V5ZyGawCLuYgANo8IJfZEyIyeSqozfzOyMCIvlOLWHYY5UknEkaDuukPfuChJzkjaitI_y2IPV-Umn9w4xhAasCsnebT3XfhEO7ZbtuZOGV0AnW-InqGnUwjiXmwAOTT1Kn2EkeCg9vIdDaXgMYTi1ekV3w0WHtSMXBd3YXRxDJFv2qSMax67x4ya19dWE0QU5wJIFRzakMb2R51A--1dhbdNRrQK06Gnrnf8cqqWUgq453",
+      "width": 3000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104849238840571714195\">Starasia Starr</a>"
+      ],
+      "photo_reference": "ATKogpeevKskwMXRDvBqN-aZC4_M-kvkbUPI0b1Ymf5W2h2IiAweyxPOSEzkf6nMx_H3vmfKXs-dTpmHvGLmD9A_2NqmLttdwYX_mYKNJz26BqPwc4FCLdacSIA4dnKNZGAjDArpGCSSJ-9KbMYczpm4573OnBN13Zmp4TccIM3DPi1yLuIrITIPJDC93YJSg-6FeJ2fIeziUK4gJ8TP6iXxbBvHTtnolGY0frxSdQjCsYwDlcd0RaQ22QDPv-c1XR3CrQfOKw2T-jRol42LHanVYPJPvJ0pzpXY1u6J6TwLrG-_ScIfwJbLY11MZrfCq2YQHpS2MDLBFB-0gWUVuGZ1Rqij7sb1Y0hETn0ktP17A8dQdcXF6oWGYxMPdY7md8UPhDGJBg6fQJaj-tUwKGfugH3SSTbvjfD1ymfvzKcY-mw5kQ",
+      "width": 3024
+    },
+    {
+      "height": 2372,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117844462631659662776\">Tamaz Demetrashvili</a>"
+      ],
+      "photo_reference": "ATKogpeOvQRlH8pjwipBQnNwZYd1Kpc1HIlRANJUWHKx4xVtnrAM7zp3Z3XYfbZXrqojMQRWQ1b3YOEmBwb5GMW714XjtFAtOtYtGoCSfdDFDWr-xHv8LYdkEcYqPenEOdlhyNdj9HXNMSjhJIuXG81i6sta0J24YghcG3j2uSnowUMEdSUmjm24evl_f9BF9q2E1XAgkfy5MvpQ6G6S_iukxFLxDB7E53-OrUc1N2Tj4GNIRVnPjKXvzdbWFWYUmHrYGv8Q6vxvA2QbekaRnxok3dVxxpdfx-U2QwXb4FXMesdg84kiwDxk0tgB25Sra1WrCM_6O1Yc6kkJaJhandERdT3WnthRVDIOTMnOFRJyV0gR6gLjb-YLdaEt62286LvnKBwGcK9Qa66MPfY9tBbeZ6Ojr0zQOQc-_yFXpxmfVYychgA",
+      "width": 4030
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106285063375987843809\">Alex Serebrov</a>"
+      ],
+      "photo_reference": "ATKogpc7aR0QLuuSlOAdf9IgvLqKujFilcJ92zqRZbBaLSjo64q9O08k4WFShZyC3cJp8lyO1X4G_xluOtWgVMN3HiQ6rfjg-o79jTmYT7AgXAlfK2w_pkT9YLcAY-FnwejdfZxgT7mynVlnUJmQEKJKQEVhO-GIfd7DP9RKyDiPXGg0vHocgyQj-9MX3HQ_jp285JbIQyOioati5jbJTcKkI5Wx4xMSioQneM8VJLWFo9el_HV5gIMZ5lZCGKZ8rkTO4Rh8-CNT0UQJHRdVn4ghxDfY9q-7mV_oAG71LrBzkjGBc_1UtcLAKa3aGhvj-PQ7glyiCxSCRlZXUr07g6XqALV8NrC6vwFmHXlr4s10Y0Jn3_4qbX5lk_dIUM6LTo5xQI1wxl4fSc43z_C1gAM5jpGdu9Z5GiIlf-0MZRKnL0oCPJCSkI-ALFDVDkDbDpl_",
+      "width": 3000
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112735279054972724434\">Dmitry Rybin</a>"
+      ],
+      "photo_reference": "ATKogpdEAh1mmioFtJ-aUzN4BaeNA5AZRKyQvtbqERxbVj5ZST9-QbkZcM0vLq_ggaChsRvwG9wgiBO9DBnuEAsFEaKabcWia02zIP4lfbr-UKiqvt5tUtnxkpxUkQgxawssthNuaBbC5L2rYHaIAcbQGnPW0nPSGMzwKFosrJxC0IP98ONWCSpva9cd0bLZzQhfbRxE2bD8Wbm-UIXLjzjaPE5eF-oi4Q1h4XzfzLO9i8lMXhm7mQ5LtI9e3UZ_g7DobkjcSBb3L1VPGr9s5nEUwPSX-nfdf3vqj93ARL0GaXBrMkJIdDe5Iy6QBn9YZx6Geqdb0u8eC69CRpgr_MzJFlQI3Z1_4V5iFPqAPL3MUpQDg_W_Gbwy1_Suu6oYTz3-3PEHujdZigEVDqYAFXzfT-908_SaHmtJ-f2teROCEujKmlg",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100141711066936076970\">APOLLINAIRE GAZALY</a>"
+      ],
+      "photo_reference": "ATKogpdRWqMTStxxLMn7llDc44Lk8kXc4vCzbsuCBRigi-eYU_OlrrHUg9FvaWGow6t50PbylAvECrwYeileSByW_Cy7vGu7ZTzALPE8AAGCjCMcZAQb4QV3cecp7DKttyM67gfTH811iji0GcQCFVzFRKnLZkRahjWkIYbLjeKwmJCrOmebBF1kIjrl_evQM3vOkZYq2qC002QyLp9YyVzKDTHZN0ySP6aDjGIlkqY8jhQsJiUGDq2y9AShQUW_Hgknv_T-P6_ClG1Zt46JpS262-g9x8a7kE9Cw9JLryddmIclVXh_nggyXmy9RWDk45yoa7BIxq3uO12GCPvl7FP9rFBnFf0nWhHxYMlxLUPn2K4KNR0YRX3UmqBKf4uUKtt7IZa-_MU5AjGZmRx7GAKIHVSPY13enAxyJnY4mH2sKYHlR03f",
+      "width": 4032
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106285063375987843809\">Alex Serebrov</a>"
+      ],
+      "photo_reference": "ATKogpf2T59WGA3nyL_vJvwt5R6w_Xcr8r7eWljHJ7LbKMIqDqmxZuRJSNaEBHSJIwMLdV-5z_Mzn-TsJWLQ6ZDX85o1_uSj8RBQV4ONVayx1UIKqeYMFz-r5vVeMxEObNySqZwG-byxZvFhEkaYCYDo67sJUg1hgTaik2JwONAu3octieySgMEGgr8CIaYxmxSpdWcZ9GhsGm_U0hwx7OUNu-V5V_VC1FVvnjmCt2_Ey9qUCi9g2SlmPSOpPq1AvlzfS1c4iNjKUxI_M-qSLE6d9qyNYupDRgvEBT7srdd-DxYK5wtIayQ0wqpDBH_z4GMZeO8J_zR0OppcyB7N7MHSc3psES2OReRV1MmKjiPrRpj50LlqXif91cwbRhsYWQOm4L0H2WL84GE9ORNS3XMMh_sF7eUzF-6LXlUymB86xAYNh4XELYO5kdOdVarCGA",
+      "width": 3000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117568191796235789567\">Rezart Duka</a>"
+      ],
+      "photo_reference": "ATKogpdvp_S1iICJwKba5ceQzivg_MwOAQd7oi-AHX338p3JP44tPGvfVh81Hd1FFjY9vS8dzZ9wN_rntHLj0nKHKALSeqBl9ljmCHINH6VvS9fLTAVqvjge0M3euVAy6dK1UbCqwnfHSsoab4Wavug-E0r2gubDpHDaU-QOGVyCDpfqNQl6v4SbCKubK4WNrx-DjSge4HgHr2XyY3W1BQFYSOaOkKXos3mkSyO8Ag9Uk4EwN8OhWCXN-EMvR2Zy100Nw9yThN1WWqzd2m6K6i_glMjTag8CgmYQUTcu3zVUi3hk9l1TGFxM7aKtIobdG67OWga3wX-PAYOBiJWPsX36s8vWqK-cNucvswIFEQvgX_lP3te590Ui8NKwPzJZwzi_IrnYYKnv5IeXTWzZ7saC0WhDQpkP8JTZWUV1krPowt_2H0QI",
+      "width": 3024
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113598846479916343476\">Bradley Popkin</a>"
+      ],
+      "photo_reference": "ATKogpd9_s5Gf0SXhe6gH-Drn3FgUnNmUKkR_dNJXb87jrXAWlkm6dNIZ-pg4HPORkArJZ5qymIMNhAdKJPNqkfu2E6bXutrVPu1RpBpD2wY4sB4Zuf-ja_syg_IrT6tDlhxhrdsRnXvI6bpBR00a4aG3Vai60C7Bov5S08R_iq3BxoBkjXB03Xpy2fuv8gKwwxwuO-ZaEPVFl0uc52NQUMeCtLTwAqmPazXXRsGp6Bc2TIt0FiEpf0NbhJbmisVYIrqM8tdBR4ggHxkaXIQAtjhsxcHiYfpb696K8tNZCZquQRWGuq6KMWaVHVG3FeZ8VPTUJBuIay-VBw_qmyVE-QlcpVpn5IS5795n55EDTHKSudvCzYJKL45DKtED_nV9Bsl0CfeviwXf5_AIWiTs46FabyR3C1TPgzIG3Gj-enV4KxsAbmqXajhKv2rY_M8hlYv",
+      "width": 3000
+    }
+  ],
+  "place_id": "ChIJnyj5t9tPwokRzZB8MaTh8Ng",
+  "plus_code": {
+    "compound_code": "JXGC+42 Brooklyn, NY, USA",
+    "global_code": "87G7JXGC+42"
+  },
+  "price_level": 2,
+  "rating": 4.7,
+  "reference": "ChIJnyj5t9tPwokRzZB8MaTh8Ng",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Alex Serebrov",
+      "author_url": "https://www.google.com/maps/contrib/106285063375987843809/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU4lnJw-pXXZSSpA-iiZnSzONhQ-C0X3cGWpvI-zcDPVkNHZk4=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "a week ago",
+      "text": "This is a Brooklyn location of this famous Georgian restaurant.  Be aware that all 3 locations although have similar menu,  but not exactly the same, some items are missing in their Brooklyn location.  But so far this is my number one Georgian restaurant.  The food was really good, especially Georgian salad, khachapuri,  chicken in garlic sauce are must! I also really liked their khinkali and liver and heart stew. Although I am not big wine person their white wine was very good too. From dessert you can skip Pavlova, to thick and hard to my taste, but their Napaleeon was very good, as well as honey cake. We celebrated Father's day there and for 6 adults and 2 kids getting really full with a wine cost only $450! You can beat that!\nOn the negative side - their service not on par with their food, we had requested several times to get our plates to change.\nBut despite that I will be back again to try some order of their delicious dishes.",
+      "time": 1750121910,
+      "translated": false
+    },
+    {
+      "author_name": "Iryna Glushchenko",
+      "author_url": "https://www.google.com/maps/contrib/110733904433887634445/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUl91J13DB6Zano1HJoIpadNNB4-Wq6ElteYcwdL3w2qawjJjpF=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "What a pleasant and enjoyable experience we have been coming to this great restaurant regularly now.  The food is top notch, the service is excellent, the ambiance is pleasant.  We love seating inside and outside.  Beautiful backyard. Can not recommend any dish because they are all very tasty. For sure make reservation on the weekend.  They are also BYOB\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f . But their own georgian wine is great and cocktails are pretty good.",
+      "time": 1738122207,
+      "translated": false
+    },
+    {
+      "author_name": "F A",
+      "author_url": "https://www.google.com/maps/contrib/111726698640063361605/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITAL1YJYhe2SFY0538b2i2Jnt4XcexzaVtirXEyrxt8shyjA=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "2 months ago",
+      "text": "The food here is overpriced and below average. We ordered the cheese boat, Georgian walnut salad, and chicken with tomato paste, which totaled $66. The salad had an odd texture and a strong, unpleasant oily smell. The cheese boat was decent, but the chicken dish was overly salty and small portion\u2014definitely not worth the $25 price tag. I won\u2019t be coming back.",
+      "time": 1743802367,
+      "translated": false
+    },
+    {
+      "author_name": "APOLLINAIRE GAZALY",
+      "author_url": "https://www.google.com/maps/contrib/100141711066936076970/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUy_MTUdfoEpXiItP9oqq7IKM1ac7ampBjjXZcN-IzF4SEKFEg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "10 months ago",
+      "text": "Extraordinaire adventure, I walked 4miles that Sunday brunch just to discover East European Georgia cuisine, it was not disappointing! The staffs were on the top of their game, the owner a humble and caring man, the whole team walked me through my first experience in this cuisine, large sizes, clean and very well presentation of the different dishes, all delicious, for sure I will return with friends for more experience",
+      "time": 1723389226,
+      "translated": false
+    },
+    {
+      "author_name": "Volodymyr Gelias",
+      "author_url": "https://www.google.com/maps/contrib/106568430243667617667/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIw5iG8pkGr8T-QYNs5umtJi6qDYdNKzbWR1EbHyN6ZvbbaVQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "I had an absolutely amazing experience at this Georgian restaurant! From the moment I walked in, the warm and inviting atmosphere made me feel right at Georgia . The staff was incredibly friendly and attentive, making great recommendations and ensuring everything was perfect.\n\nThe food was simply outstanding\u2014every dish was packed with rich, authentic flavors. The megruli  khachapuri was perfectly cheesy and fresh, while the meat were juicy and full of flavor. I also loved the traditional Georgian salad with walnuts.\n\nIf you\u2019re looking for an authentic Georgian dining experience, this place is a must-visit. I can\u2019t wait to come back and try more dishes. Highly recommend!",
+      "time": 1740777708,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "type": "TAKEOUT",
+      "weekday_text": [
+        "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
+        "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+        "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+        "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
+        "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
+        "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
+        "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+      ]
+    },
+    {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "type": "BRUNCH",
+      "weekday_text": [
+        "Monday: 12:00\u2009\u2013\u20095:00\u202fPM",
+        "Tuesday: 12:00\u2009\u2013\u20095:00\u202fPM",
+        "Wednesday: 12:00\u2009\u2013\u20095:00\u202fPM",
+        "Thursday: 12:00\u2009\u2013\u20095:00\u202fPM",
+        "Friday: 12:00\u2009\u2013\u20095:00\u202fPM",
+        "Saturday: 12:00\u2009\u2013\u20095:00\u202fPM",
+        "Sunday: 12:00\u2009\u2013\u20095:00\u202fPM"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "food",
+    "restaurant",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=15632242401924124877",
+  "user_ratings_total": 726,
+  "utc_offset": -240,
+  "vicinity": "8309 3rd Ave, Brooklyn",
+  "website": "https://ubaniny.com/",
+  "wheelchair_accessible_entrance": true
+}

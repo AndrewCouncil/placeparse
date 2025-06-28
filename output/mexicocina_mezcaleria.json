@@ -1,0 +1,556 @@
+{
+  "address_components": [
+    {
+      "long_name": "503",
+      "short_name": "503",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Jackson Avenue",
+      "short_name": "Jackson Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Mott Haven",
+      "short_name": "Mott Haven",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "The Bronx",
+      "short_name": "Bronx",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Bronx County",
+      "short_name": "Bronx County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10455",
+      "short_name": "10455",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">503 Jackson Ave</span>, <span class=\"locality\">Bronx</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10455</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2330"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2330"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Tuesday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Wednesday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Thursday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Friday: 9:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+      "Saturday: 9:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+      "Sunday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "This festive Mexican stop offers classic menu items such as tacos & nachos for eat-in or take-out."
+  },
+  "formatted_address": "503 Jackson Ave, Bronx, NY 10455, USA",
+  "formatted_phone_number": "(347) 498-1055",
+  "geometry": {
+    "location": {
+      "lat": 40.8119099,
+      "lng": -73.90969969999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.81329298029149,
+        "lng": -73.90827316970848
+      },
+      "southwest": {
+        "lat": 40.81059501970849,
+        "lng": -73.91097113029149
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 347-498-1055",
+  "name": "Mexicocina Mezcaleria",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2330"
+        },
+        "open": {
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2330"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Tuesday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Wednesday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Thursday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Friday: 9:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+      "Saturday: 9:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+      "Sunday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 718,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110621918818456636303\">Mexicocina Mezcaleria</a>"
+      ],
+      "photo_reference": "ATKogpfLTSYdPMt51U7UVT6k3sZwmY7woIm3unLhixsULxpi4MJdzJjaCJecFtoaSYjZx1JKgB0kx3osYPI9kikOK3PfjZcOMaIZpcy8rGClpMhD9wibCnO1sQDRxs4duwYzQFSyirPP0yI7BtdMxymRpjOVuuC_5-shk5u7oURFQ0Qz2tCjG9P2oTmu9NLzDGqBUHPzAzYDG4FkphhFA3BqJgeNovom_MkjiqGl3E2AxijkwNZD3wFIe0LDuR9p5ilaRoLvOgdg5xds3H_ReBta2wAADkOyh5WMqj7_ZjBsPcVzQA",
+      "width": 1274
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110621918818456636303\">Mexicocina Mezcaleria</a>"
+      ],
+      "photo_reference": "ATKogpe6r_qNeOisTaGBM3OPic8d8mR3_IeJlgK3118i5AX1zydFp45YUZaSVIX0trOu5W4HBOyKqa_HghBuadBzhbR4LyE8EGVskvDVvUb8oUhjb-3szqAtJKpo2HibVwzgaiBe6w2sg59dQ5D6NwLGPU9ROKHWhdqOwdMpObwokHWQ9FICKCedyFCR_NVs-9ujChYw9WhM2dG_1z432ajhxg9vzPKjxuP_DV75-VDdcVv8O1sDxKxrwOi6_4y-_8HkyGQZJmaV-0FI_EgDobpF5qo946AD9AJZJDvG43EUhOiteQ",
+      "width": 3600
+    },
+    {
+      "height": 800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110621918818456636303\">Mexicocina Mezcaleria</a>"
+      ],
+      "photo_reference": "ATKogpcXOE555fVZgazft91-kwfAo-44WJuqGvwJmbrdpMRhNxHLN4TwecssXVGcD9rN2lOkWfDWPadoi_QWBS2pKahdx82i1BzBJzaachNdrvlJ6vaBo-Qx5x1VP219d751eOvc0wRXoaeepcznJXwlpJoJsmvQjQnPZh2UcCgy8d-FxSCWSDToBE4BpA9ZYdg31uXpFDqabwmxDP7FmFSd75WDLAArbdk5fI5wK8kmMAvAs7VQeNOt5itAQ6gUhbRgPtEqz9HVEHz0wan6SathOQp6ONZTHH2TSizy5ybq4kD0Fg",
+      "width": 800
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110621918818456636303\">Mexicocina Mezcaleria</a>"
+      ],
+      "photo_reference": "ATKogpej-B1eU_aQG6gpVxINGZgFveoNZI2x-TFGTMvUEWblI_HH5h-2FbMZEfllCn0PaUpxUbvLEnRssj_bq0XPNlw1xUhjUcjQyqtrhlJTf5GzeF6WN3FrCwCHJsiAfUdZTHpeAUib7OZQIYdaVv05NNEBmbYGn7gDNioNHqusDqsJc5oENH7RhrJPlzD5LLtUG1Nup3I5gCsj5QVvjf_0xTvQTxpfDdyA9gKIMoSkdIkQxghh2gYJZ5l1ysIbGc98-eYKJHQbV2_fbP3bXCROC_yfPZRq34tQEIbuA0vO_MANnw",
+      "width": 3600
+    },
+    {
+      "height": 800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110621918818456636303\">Mexicocina Mezcaleria</a>"
+      ],
+      "photo_reference": "ATKogpdo5UqaVwOI2U6hPZREYkpqqOZnKPbHrhCXoR8xkxGeeNN8vr-CM-UEbxnR-qubAcws5LjYRm2Y4XHlN5lP-mt7ug2l4Ih5jSmh-xVc2fsxUntV8WK816zoFWXkvz9KPcKHPLPgRrK19n3AyWEZ3Qg88o0ovSgpq0FmMiMsGDo9mfbmL7TsIzftQcgxh1jT4f3mmrxBqEtjbCvrnicOcAazAUyCOk1ra4oeKGczwA-IMYids0LBRXSCY5YxroQ19DHww-L-FZ6QRcchRCdRWLt9A_4T5NfSb2VCDXO9D6guNQ",
+      "width": 800
+    },
+    {
+      "height": 800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110621918818456636303\">Mexicocina Mezcaleria</a>"
+      ],
+      "photo_reference": "ATKogpeuO8vzS0gpNQDdxT9MNb2dpisxjJy8Kgji80xfeWk8RkLlWNWiB-GyHc7o2fswYkAbGVeb7AeUV3AoEslO8DuNEOU5xBwi4u70WIAgkNRI00-LzoLPHDrTmejCBZh5uTs3xZYaSUeS429GDEZ2TNVUUqndRcUahhu6fZnYkb0ZAv7d53Ms8nQ8ECuss_3fYjkR2wvWKi06Xaf035rluphbpYVmB64YB-u06YwCyI34qdvzLL6djd7qddZW08zkJ3epMBlb74KNMdAmVyeFQIFnWxxykClZGHmq2HiNFyCIbg",
+      "width": 800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117602668470945242312\">Juan Carlos A. Vasquez</a>"
+      ],
+      "photo_reference": "ATKogpdyzQ3U_pUDOcHmjmB3Har0YrgrozwJsj0QILMT7PTPt2qUQe5CuDZv5f-C6Rp9ROjwPIh-ZNNOUcymPU55FKgwe5CHdJEqqeTzH8xdgHXjMYUQTvcs59Orp9decTZbk-TS7-tUzwxX-m9c4ReAFHM8E--ywAYzD4-huOWDI0bYXkLKbkdFpuVlFhRR05f-j36_gB4WQ0y-2UV231CtnI41qpFMhF6qDBr6_W_EN-Y_AfjGlx-LUyLdnH_g5a_hmnWe-57R1myPS71JgxVAkcufC9MMncifNKFnjF74WNVkPXqec2j-i87BWkESezv33FAKoSu3itPNKEZ03C_IrW6Ma4tN1gNtL3mMLxl1Y77w6P0rqLkWdrSfddWQQsOcvsKR0uEWevvIdLRBk7YOAr87CJo7OJot7Ubx0Yx2ucPKvA",
+      "width": 3024
+    },
+    {
+      "height": 1040,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110621918818456636303\">Mexicocina Mezcaleria</a>"
+      ],
+      "photo_reference": "ATKogpcUJHX5v4jKA8BBClrLk6IcG-UjUoa8YnvEJyoFWttIVHtJ33nz3r8QORbqF0ona1sSAGkaILPvZX3lDU2THA552hwHKUDafAXou9piL7vOdArVYx-ILLquj8a-W4NI7c5WiC0ot2orJkRJUvoPfkeUefJvPs3j-F6tcYbGHmQ2uPA1ysQb6HGiSFHmqsbsHMgYb18JNhEVJQLPjCV2yPiEx3zE5xEXosyDsDfwSsNwsr8is9poBPHqkTPWAUS0O85l-CvtQ7C-aJXoIK3YTqOikj0gTam6tmooFYu5Kcpw-A",
+      "width": 1600
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110621918818456636303\">Mexicocina Mezcaleria</a>"
+      ],
+      "photo_reference": "ATKogpdDNczBk6yznzovj1sMwsuGgEOGBFJ3-g4HqQGTntSVuqcy0mCYqKRIaVrXwhI3iLNOrbomsepwAQlTe4B2dNcJKhQ6CoR2Sw5Kc8mwr_U1GxRBm89Q8vtBur4rf9NK_LpbpEGDTUTV7M6_YQN73BOc-IddOK7LKIirSfnzDb8vVtOfmFW4MF7pZcwL22cbHSlPgC8zwqzvzAgGgt90j58HoMkRNnYbU53i-i8yYAijuElO_QLN3H2v6QScsrxErZaSwL2QU1CgUHNzBS9EMZe6RXGJGR9gY6bI4d4qlbZUEQ",
+      "width": 3600
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110621918818456636303\">Mexicocina Mezcaleria</a>"
+      ],
+      "photo_reference": "ATKogpf4Kn32RlW63D13dj3rIKZW4DOBRPegiZP8jJWmePEG8z1hCoMYQeS5POEz5b-7IKIwkDLE6pGcAHsl_aUsupunue-C5Pz_vIBcEkN7ZjG0QKLSVXfIBTdWTBcdk7IitKJyexDWtIUyqKFq0K1kJGOTpprYyYfj79qdRLAifvnwbW5oAqO5UVV9lE7pIdD5Zt857Jwl3z2BhSDDTwEBEG8dsXqw4UdWOHrWkHM8UtWq1TpLmAsHTBcp0YpcLIJgwmj2CxXd3LxuI4ZS7cNQJwAPeIjKdtHzNZ25RtG9lqcFhg",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJySFE9rn1wokRPae7M19QEVY",
+  "plus_code": {
+    "compound_code": "R36R+Q4 The Bronx, NY, USA",
+    "global_code": "87G8R36R+Q4"
+  },
+  "price_level": 1,
+  "rating": 4.2,
+  "reference": "ChIJySFE9rn1wokRPae7M19QEVY",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Briana M",
+      "author_url": "https://www.google.com/maps/contrib/113216891377378041089/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKtbjnXWXQTRfuxhtgDw1f__-F3GprKpPoQPVmOFoV8Egee5kK=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "I went here yesterday and ordered the chips and guacamole, 3 birria tacos, and a horchata. The guacamole was perfectly seasoned and would say it\u2019s a good size for a party of 2-4 people to share. The horchata was sweet & refreshing during yesterday\u2019s heat. The birria tacos were $16 and their consomm\u00e9 was delicious. This place was very good & would recommend.",
+      "time": 1750708560,
+      "translated": false
+    },
+    {
+      "author_name": "Jen",
+      "author_url": "https://www.google.com/maps/contrib/116889738079165565848/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbKO3zqRrdGNWLag6hPL2ossfouvuaztt5AJGzdo7VaPQ8nYPqnw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "I can't believe I had not been here before. Like why?!!! Their Birria tacos are the best I've had in the Bronx, hands down. The guacamole was fresh, which is a must for a good Mexican restaurant. Our server was awesome, putting us on to some really good Resposado Tequila. Almost all the tables were taken, and I know why. I can't wait to go back and try their flautas, and sopes",
+      "time": 1750425875,
+      "translated": false
+    },
+    {
+      "author_name": "Jacqueline",
+      "author_url": "https://www.google.com/maps/contrib/111156518752960571938/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK3ZOfvsCfv-4AIGWKIJE9zwKHAEQ0thCs_qsRb7Izi8ZnypQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Second time visiting this place and this experience was better. I\u2019ve had the steak nachos both times and it was TOP TIER. I ordered the cecina flautas and it was better than most.\nThe burrito was prepared excellently, specify that you don\u2019t want it cut in half. It takes away from the whole experience.\nOverall, 10/10 * chefs kiss*",
+      "time": 1686444427,
+      "translated": false
+    },
+    {
+      "author_name": "Maria Rivero",
+      "author_url": "https://www.google.com/maps/contrib/109169432856751773762/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWVODms323cw4841CxWRDizQhq6eusGPqH53TJkGx6WO5-LJtv5=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "4 years ago",
+      "text": "Be forewarned that the place is super small, but I think it\u2019s worth it if you want good drinks. The server is actually the one preparing the drinks and he does a great job managing both the customers and the bar. The food can be a little better in terms of flavor, but overall it\u2019s a good date spot.",
+      "time": 1619986113,
+      "translated": false
+    },
+    {
+      "author_name": "Kasey Molina",
+      "author_url": "https://www.google.com/maps/contrib/111675425209568099280/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLPky_rs_1aWDRD7lERx-5YPDJnEIBj6reoSeI8Gx34xN0MAw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a month ago",
+      "text": "I have ordered from here COUNTLESS times through uber eats. Today, I decided to order directly through their website and after an hour of waiting my order was suddenly canceled by this resturant. The DELIVERY was supposed to be through doordash after I ordered almost $100 worth of food so I was notified to call the resturant which I did. I called and they claimed to not have had an order from me and they told me to call doordash which I did but since the order wasn\u2019t through doordash only the delivery they had no trace of the order. I called the resturant back and they refused to give a refund although the order had been canceled BY them.\n\nTerrible customer service; hands down the worst I\u2019ve ever seen in my life to refuse to give a customer money back for something they never received. Will never and I mean NEVER give them a dime again after this.\n\nIf I could give 0 stars, I would.",
+      "time": 1747440140,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "2245"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1045"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1045"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1045"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2245"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2345"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1145"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "type": "DELIVERY",
+      "weekday_text": [
+        "Monday: 9:00\u2009\u2013\u200910:45\u202fAM",
+        "Tuesday: 9:00\u2009\u2013\u200910:45\u202fAM",
+        "Wednesday: 9:00\u2009\u2013\u200910:45\u202fAM",
+        "Thursday: 9:00\u202fAM\u2009\u2013\u200910:45\u202fPM",
+        "Friday: 9:00\u202fAM\u2009\u2013\u200911:45\u202fPM",
+        "Saturday: 9:00\u2009\u2013\u200911:45\u202fAM",
+        "Sunday: 9:00\u202fAM\u2009\u2013\u200910:45\u202fPM"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "restaurant",
+    "point_of_interest",
+    "meal_takeaway",
+    "bar",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6201826531685934909",
+  "user_ratings_total": 795,
+  "utc_offset": -240,
+  "vicinity": "503 Jackson Ave, Bronx",
+  "website": "http://mexicocinanyc.com/",
+  "wheelchair_accessible_entrance": true
+}

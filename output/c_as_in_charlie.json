@@ -1,0 +1,452 @@
+{
+  "address_components": [
+    {
+      "long_name": "5",
+      "short_name": "5",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Bleecker Street",
+      "short_name": "Bleecker St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "political",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10012",
+      "short_name": "10012",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "2445",
+      "short_name": "2445",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">5 Bleecker St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10012-2445</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2330"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2330"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2330"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 6:00\u2009\u2013\u200910:30\u202fPM",
+      "Tuesday: 6:00\u2009\u2013\u200910:30\u202fPM",
+      "Wednesday: 6:00\u2009\u2013\u200910:30\u202fPM",
+      "Thursday: 6:00\u2009\u2013\u200911:30\u202fPM",
+      "Friday: 5:00\u2009\u2013\u200911:30\u202fPM",
+      "Saturday: 5:00\u2009\u2013\u200911:30\u202fPM",
+      "Sunday: 5:00\u2009\u2013\u200910:30\u202fPM"
+    ]
+  },
+  "delivery": false,
+  "dine_in": true,
+  "formatted_address": "5 Bleecker St, New York, NY 10012, USA",
+  "geometry": {
+    "location": {
+      "lat": 40.7255039,
+      "lng": -73.99270179999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7267865802915,
+        "lng": -73.99136126970849
+      },
+      "southwest": {
+        "lat": 40.7240886197085,
+        "lng": -73.99405923029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "name": "C as in Charlie",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2330"
+        },
+        "open": {
+          "day": 4,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2330"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2330"
+        },
+        "open": {
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 6:00\u2009\u2013\u200910:30\u202fPM",
+      "Tuesday: 6:00\u2009\u2013\u200910:30\u202fPM",
+      "Wednesday: 6:00\u2009\u2013\u200910:30\u202fPM",
+      "Thursday: 6:00\u2009\u2013\u200911:30\u202fPM",
+      "Friday: 5:00\u2009\u2013\u200911:30\u202fPM",
+      "Saturday: 5:00\u2009\u2013\u200911:30\u202fPM",
+      "Sunday: 5:00\u2009\u2013\u200910:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103233284376051458060\">C as in Charlie</a>"
+      ],
+      "photo_reference": "ATKogpeGXx9DOpMrWm3T2H1js9Ee2DXz2dE1zZcbnfJAd7zv-o6XabRTGjqEXoU5cqup-rh5wp7_UPSkf8AkG6ahiizjJJ2H6HSt64e9hphMG5HVYg767xDUf7gpU0is4ZYR6nOheYmNkOHoD71axHrT3R92_QTAHM9KANqUaV7Cb2313Uq5ISgXerWZCvnDYB1JDrSGfu1JFJD63_7naNeNIG272TZ0B8h8MfwVBGis6N6k_z5t7pAKfe8sijmVdgEJO4ZfmKDup3S5xnOMdmPZclk-ixStSUPpaw7LDNSlRMy8fQ",
+      "width": 4800
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103233284376051458060\">C as in Charlie</a>"
+      ],
+      "photo_reference": "ATKogpcFy-6MiNj7HDJFbmbhEVAHwIwqIv6HvhIEFEQutSIVGiIu3xirTaeCj-9R3e5mYVcxKpaQJiV62ZYDaH_Ttm72FtDjmlOiYdHTTRkaHblECuNiQx8FjZUNY_38noKnuGHSRbuR1nbhGreZXnz6_K43m_mAvbSm8kVXPI6rkDLP6aMnCQuDp7dMj7NAWaVNrR7ovMHRUg4qrIIHW5kyp4N4J1LsVbrTtUOcX-lg_uDVByutxNoauiFed041M5A8MvPmK37Ldoz6EtJFv4GWyDX_x0zUN-MPzDRv8xqEtdO7ng",
+      "width": 4800
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105841981605753911663\">Bhav</a>"
+      ],
+      "photo_reference": "ATKogpf0weUWGnm_gR1RMxB0g4xo0pXUgNAS2AE7RedbPO-UQcyNp84u_wtj8SJm8c6MBNGzfdVEd7Xa3pDVehCNiV9HJaTPbsJ_5Rynzf_RJm2CFc-CKFuN3mQZ_-nwYcMjdlGSu6ndG41gncMricD3BJLihZQMuxRSCI35TY17uRdpookXy-cY8OZZoICsoMp2Mh06RlHcYtXhcbmhyz9rrypWIeP4fYWCQGRql9UzOrG8QIhIeUTyzf8g_N91xOXHjusjkQMyFycCchAWx8k1xqTSvsPFF305Igv_xT7U2Hx_SE5JZZWjsC2irXfK6VuWNC711i8U5sVCINB6Z1dGqKSP6ngS7pb0IQuDgoKAUVGRh5jLiSndUGrRm1McXcrv3x4Pmkf8Ih3upwk4LRgO2XbfRBxXWP32N40YRD1wXA2GRg",
+      "width": 3600
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110103245166370360651\">S</a>"
+      ],
+      "photo_reference": "ATKogpe06yfnfPMORcCjvBUOieE1eT0Kd8bxj14dwzmp7rSgknDCcxq9NT4r5fgPdfiHPDjLXCPhNRzhV6Ib-zebTgYzLeKFlp51RIf9blzIvWfmdhrNdCd78J2c5fiZ7Vhx9qHDCfi5Y6sFTyRk-XlWsUon7pAyDRCmUNfrvfTuAA7ZC4anhU1weyQsyLMYvpR6v3d58neJ1fZn6RJTGrc0JE9JTHF66YR6GJ-CAzY6VQGL_g1ypSIpRKKf7WI8-oI1btiudu-phRfD6mS80Zta3AXE-ntY_llU4IOyyJlhrAweHqxIVSYYj9umd9Muz1aLTIY5j58bY0Xm1E1f72y3d6ix2ihJoYCL9WRYA7030lVmRt730IOVn56uD9jhOIRGfSJxcBsPJzi5QqyCXiZyDut9J5-Of2JZz0ceBNg53Z1N1j0b",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106817576318804088780\">Samara Reed</a>"
+      ],
+      "photo_reference": "ATKogpe7eo4SWKE-TPFsLGnpMqOPdBbsJzVyfpnUZ_lt88duCFvThg_oJfiYhgiZzO3J3gpIUaOWW1kUcWsrCi9qwQ1LlHisbmOT04lf-wwiJEWtHLfivP-YEWlYaqpDmXpMPIr18wxBanZ8F6hw6Y2varGfLAPqF7jQbP0BgvldI3M4gAxbsFLo4ISrGhbosm9DONQc-S_P6pjp7bnYfJwk1sHLaYDSD0ETwVABLk_tsLMts4w3ATJg8wS6QLCBQ_oVDdTpsJ7dbwDq7dUrUeBJZ7TjtSfG9eA0WXIywxIxYHVx0IfPzB4sv97Nz0DTlWhY35hzkeIj8q7CWpUj61ls5dIE8hwKUwUVSkcekq7XFXLe5_7qq8n7lZCFZwXt0VBvwgSHqSAYW_Ollxd4j_LNR3BhdGdEF7IbcDhzMX_YkC4",
+      "width": 3024
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109256746829514283854\">Steven Cheng</a>"
+      ],
+      "photo_reference": "ATKogpctV6lP8x0o7XJJpZMNbp1rmXZKWDbm0ILC-Gpo8u9t9zA3LlicWsXirlxW_dHT3KGqdsZ5-7EhklXh4dOn_G3mmYQGqd9g0WWk6hNVdYlyk8lW0wmqra6lFrfCLLoudlZb1UMtzFnLxzGo38-nXAUxFHEJ0Yvx_USdwlUx81cJt2T5WCUMnn0kJv-6ccrL2LqsbOZjg-Db3qo6unDzV1A8zkPZJpXSCI3JeJOtCkhOOM3hWX1ZCPe-bA0LLmuhmiFkw160xzz5lxDABBDzGjG1biaE-kyyrIcIPhrWSeqV-hh2viUcA3P1h1eOF4sDr9PtH7N6SQBlwtPVw4kkFWwHJ2yvp3iF0aeiRvCzYNqNUJOIYknqnTnKH_0w_F6-HbnnyCl8IV_tqVU9ZcshMawE1NOFi-gdHgurpTclzZc",
+      "width": 3000
+    },
+    {
+      "height": 2613,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114756342739269650399\">Susan Catherine</a>"
+      ],
+      "photo_reference": "ATKogpdpzfy-7cvQborpUan0wUTwV_-o_O92VhJ59CkY8ns-X2O9NBW419ybOVzb6_IHwC1RHAdsUpir8Ao3gcsfPtZNQctlfgdKvPu_oeW06GumIygb_WLvPYyW71TeCeVYalzM7IJTEugubPPUCHc-_Xp8-v-OPcMpLW7AP-E94JBvlROhdZ_t2quNblR0L3QT47zrG0sLBDJIVoakibZHYZaKOci4R0PmMuLJj1OZu9Bd7c9mwip5TSIFlnK6zxbUGY4TUOFUc5hklxViuD0MwqHmtDwIatot5qlJoEaeiMk3tZmfPArqwD0DvRxMWNnYjYNm8Dxok9ZZrAQj8K4AbAdTYp1OhBGFj3rFY7xNlVn5nfE6yS8Uz_-cBmbJyYovkMmfMQmHdE172zou1w4oPP4ze4nWMu0dfZjS8YSL3VvyEzU",
+      "width": 2249
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109256746829514283854\">Steven Cheng</a>"
+      ],
+      "photo_reference": "ATKogpeL3PIXtWGsqkB15Mrkks8eXgC-N7x95m53aK8Vf8R48nCnNhR8tlrr8dhO11UYKvQZTEvklmXEa7Cd3AIh_ikaBeL0Ksre9-bQz2xyLNvKYnOdr453AHR1YiJe7O9Gw7GySMfVbc4HzV8bUSd8OuhTErkpIIApbFfGPiOnXhsWZyZj1ptX2c5dWDjKQG6OPYWoXCcwBzTmwvk2vASSR-dvrJgopE-Zt-EVF7kdbmK3XUplyvA2CHDlWLeINuFx-3C8dOfGPWDugyy0zn6SUKrPPBk-sqGkULTNTTmhsDRzf0Dsi-UaZlFcsYnfuBlsLiTj1qoMBqSVt5ZPxUQHBD7xIryvKufVriCG6W5M8y21WfxEMIJNe3X5cyHQ_1KJHRlU4c_7SNtp7cKQ0S11sUxHvGZtfL0IvVaefaO9lARUmFS-",
+      "width": 3000
+    },
+    {
+      "height": 1800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102731867386058108978\">PACSSU</a>"
+      ],
+      "photo_reference": "ATKogpcoBx1jxht55x9jVjMm-FMPxd8I_9BYbbICo3FIDmn768moxgrbuJ0_rl_bxRUG8qpX54qFP-SG_J_s2DF2nc4V8Obql2aaIa5qXmBd4YwxfqkYoANacLo8W4pbSXLCQNTFrrKMOAh9P-xTQwHonPQeq31RgJujfj3r8hzzslSDFFyFsAgo-hkVDaBDdBQ8TMMOgFcpCZ5KBvGKpUdWliOb88GKgfrbDCZb-9XZgEFkMY4yF3Wa_m5vJeTwOyViFUo5KRmJxsGfkL-E1THRYTqfZtOa026T8-p0gitXk-Vhe9zj3BXSliCeUIual2ekSsg3kCAcilm-PL6Sp7RjcDRlfREsl0BdjuHguLf_n1i_PZGsla7kyBLy1jQbbYBdt-UawWnkviQfWYn-xwXE_CVKDlr_xJbi7pa-WRdi1Jo",
+      "width": 1440
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105841981605753911663\">Bhav</a>"
+      ],
+      "photo_reference": "ATKogpeJ-3y70-NhySMMEZlQT0b9pJjcIwrf7dg3ngLhpH1WPWUlAcFEEhb55DsyMUVJGTxGN4UVOm2IFCQe6sYkRwaelJp7aSJ1LFGfDLmEsBXFZeeCUsqpYAVI-BDCv26nON43APJ_g2nSZ4M8eHU0IwH_9na9lbXoz6ROrhViMlkgy-hpNAd449tUmZp6zxNNncN-MQSHDbFbNtEkVYCbiQCGR0E_rteX4rjFawIYl3sccfHQVkI6WQ2TuChxA-WENI5SuKPNgGB3weUyEnqPVMlAPEakRGu5_DZomxSPqC5TuL11ILFipCTRrh74r5M7Ph3A6VkTLboLj1wrIiIk7k0qUKYaLJITZvleWNvnf0VJRueI-uNryR-KE18Bcqs_g_i4qXiNT3NyRtBR8nEzF1Qt_MdxDMoPskAtWbHHvxedrQ",
+      "width": 3600
+    }
+  ],
+  "place_id": "ChIJx-bMHr1ZwokRd3i_y7F3VlE",
+  "plus_code": {
+    "compound_code": "P2G4+6W New York, NY, USA",
+    "global_code": "87G8P2G4+6W"
+  },
+  "price_level": 2,
+  "rating": 4.8,
+  "reference": "ChIJx-bMHr1ZwokRd3i_y7F3VlE",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Bhav",
+      "author_url": "https://www.google.com/maps/contrib/105841981605753911663/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIMT26nIXeshbLbFMxmSXfUWY9LkcldSaVMrWXc7p7UKCz2q1M=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Really good food. Wife had the meat dishes and I had the vegetarian hits.\n\nThe hot pocket and the mushroom bibimbap were so good. The charlies bagel dessert was awesome too.\n\nWife said steak and the popcorn chicken were fantastic.\n\nStaff were great, even though my dog was going crazy at them!\n\nGreat place and highly recommend.",
+      "time": 1749428860,
+      "translated": false
+    },
+    {
+      "author_name": "Clarie Y",
+      "author_url": "https://www.google.com/maps/contrib/101447202896163376900/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2_wwF20U5IJKJ1B60qtOu28vlfxvpL53a3Ye7nGw5SQ0PbA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "People were so kind and nice!\nFood comes out fast and they were amazing as well! Especially pasta was the best!\nAnd they had different kind of Korean drinks different with other korean restaurants!\nThey had cute activity thing that u can experience so, Highly recommended!\nWant to try outdoor seats",
+      "time": 1749944993,
+      "translated": false
+    },
+    {
+      "author_name": "Priya Pillai",
+      "author_url": "https://www.google.com/maps/contrib/103889933731058999893/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDnJRDqqyyMybqELUZgwbgRr1444c9adhRQclfUd7GAIm2fCqd=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Absolutely amazing experience! Loved our server Caleb! He did some soju bombs with us! The whole place was a vibe and the food was stellar!!! Definitely make reservations we'll in advance. It's not a large place but it's well worth the experience to get a chance to eat there! The popcorn chicken, mushroom bibimbap, and the Seoul'sbury Steak were to die for! I loved it all and well definitely go back if I get a chance!",
+      "time": 1744988525,
+      "translated": false
+    },
+    {
+      "author_name": "Joshua Fields",
+      "author_url": "https://www.google.com/maps/contrib/114333042282625349690/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVyMl-CZ6YbNJWfdNMts3dhLwuhO_2OLiPuu-84MUH1E9mg2hYOpA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "A fresh and casual spot serving up some great tastes! Restaurant fills up quick, but the space has decor and nice service. The popcorn chicken was simply awesome and a great starter to pair with the mushroom bibimbap or the toast roll. The Deli bagel is super creative dessert and a memorable one for me.",
+      "time": 1743772559,
+      "translated": false
+    },
+    {
+      "author_name": "Esther Chai",
+      "author_url": "https://www.google.com/maps/contrib/110103577200652559262/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWoodfDY2orsrc3Xj6CkqlQjtUMVu76n3aLAR1KO3Jyqlmzdho5Aw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "The most amazing dinner I have had in awhile. The korean-twist on the dishes were so genius and tasted so good, neat, and not too salty either or greasy. Our server Caleb was incredibly friendly, funny, and welcoming with welcome shots too! Would def recommend and come here again !!",
+      "time": 1746935195,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_dinner": true,
+  "serves_lunch": false,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "establishment",
+    "restaurant",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=5861003570580519031",
+  "user_ratings_total": 713,
+  "utc_offset": -240,
+  "vicinity": "5 Bleecker St, New York",
+  "website": "http://c-asincharlie.com/",
+  "wheelchair_accessible_entrance": true
+}

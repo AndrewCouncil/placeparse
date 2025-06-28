@@ -1,0 +1,546 @@
+{
+  "address_components": [
+    {
+      "long_name": "401",
+      "short_name": "401",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "West 53rd Street",
+      "short_name": "W 53rd St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10019",
+      "short_name": "10019",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">401 W 53rd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10019</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1730"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1730"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Tuesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Wednesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Thursday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Friday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM"
+    ]
+  },
+  "delivery": false,
+  "dine_in": true,
+  "formatted_address": "401 W 53rd St, New York, NY 10019, USA",
+  "formatted_phone_number": "(917) 388-2268",
+  "geometry": {
+    "location": {
+      "lat": 40.7656429,
+      "lng": -73.98788809999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.76693463029149,
+        "lng": -73.98657111970849
+      },
+      "southwest": {
+        "lat": 40.7642366697085,
+        "lng": -73.9892690802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+  "international_phone_number": "+1 917-388-2268",
+  "name": "Coffee Project New York | Hell's Kitchen",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1730"
+        },
+        "open": {
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1700"
+        },
+        "open": {
+          "day": 1,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1700"
+        },
+        "open": {
+          "day": 2,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1700"
+        },
+        "open": {
+          "day": 3,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1700"
+        },
+        "open": {
+          "day": 4,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1700"
+        },
+        "open": {
+          "day": 5,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1730"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Tuesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Wednesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Thursday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Friday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u20095:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108215292211756379377\">Coffee Project New York | Hell&#39;s Kitchen</a>"
+      ],
+      "photo_reference": "ATKogpfTUe3bYQY0XUlm-NG6mLzT50HFGzm2p_Zt_NE8BsFl20pqCJb3VkGEOK99kftsi0PtUvZmdkCuVyScEb6BRWdCMEyKbAqwI_V7ePAm4OFjSCXyvQcm0A3F906ewURoh2vLRkz3p6GujvF9nMK0WHTdZZactEFyaZo4QFfmg2Ki6JEJaN6jiYIvY4kqPFAEizOgwRj1gYxeo40-LvqoT_xXOVxzntyxC0u31M9F1MoxDzDsF9-YUT8dLVp1RnkA3PgeqUNkiqDN4mnURwYDsy3gnkJQ-GySzQ8OreXQyHl0gg",
+      "width": 3024
+    },
+    {
+      "height": 2999,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103935466407647987940\">Vivian Lu</a>"
+      ],
+      "photo_reference": "ATKogpcW7hWaiGcVHw01tODayOejPI_ODepXMkEnSf872UtGvVpzKZyOTiKN8QO17mzATqd1SlLCK3p-Es-gBNgBRJgBwm3vdvN19j17bNWXLuUoEg_3qgmCfPG1n2LmEd0cEI_gvcp8hZ2sIS5aH-TtD1Fo2WG-QYQNNu5yzusGpyqtEP2SJo7xwc4OyzmTHW7682OMgp7U5K2leoPCTHeNHkhAIr6s_320wkLGF1mMKCMaNLdA5Zh3C1xltdDwt8PK1MbjVIgn643oAGoqXy0i6gqOHc6yd-e1spWtrfXMO6DPOTFEiPkAXUdYkylHQz9e-iJFK48n40exEzErQ0eYa5Y2UiAENTiqOy2bzoTLeoVIklTElcVfae3dUSRo8ro4RosxNf2Ml4MoirsTA8TSE80Byf9AaFlMrpMRKgFD_MWuRPXM",
+      "width": 3228
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104279719182295373535\">Steve Emahiser</a>"
+      ],
+      "photo_reference": "ATKogpdeayJCGzyguHH0sR_F-BKxkS5miqiYaTNCvs8EQd5S5mqZIi4InJlz-FGjLguhPeQl05VyJQbj4X2Lende8KiwB7xj1WeDoWr-RqiDl2cMzoAEYjLKza6AtyeRoXizkBRAAxyve440WsYmgCXAzpsM5w1OfeDh0qDwuG2faiYJYqPUq9zOhsBXLDnHRjx3d_ZFcJBHt_zc8qqEYjf3H_mMG9iImiZMBhayXW7V7NlvFmY-cY7efVxug5g29VX3CP0Tx5q1fqKl993Ue8Opmz5tcieeF5OTfdderadZYwWA4xXAjv6mWaRDyuMBQViJbISQvcZPR2pXYK2ZdfS-98YYD5KgNAMVe3g3T1MurcfsKawQXzG0Quv5fwrlUoovK4uXhLNymdjUJnroTh_dEtG4ir-kqdDwG_AKqqliGnE",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104279719182295373535\">Steve Emahiser</a>"
+      ],
+      "photo_reference": "ATKogpc9VIwQwh70ApkwwidNdP0uw8nRePqz2jN2QZpXhqKosSV8h8OYq8VuMuLQtKVYJ2QR2vCjfpR6czLn15RM_j4Q6UAyBD4tON7fg9s1mPnXOpZlZZ4hCPEg45gNbXvHVCmzfemi5Q2X2-0luC-ZXjHc7SiDfLidV4ly3nH9PqpToJsVconAfOhSIO0W3ckUPA9Qp2IkMZYLJVa4T4tvN24q0RRkOZwuZlaxtR8daGV_fprmwnVXEQ161G-gJPLE_ouS1iOeFm7I66v-AIx7wb7R0xZR5pfw1h1cyDD9XElBrsEiiagdMQvD8eOqe9hvnUgb5nIjmkur3iEOi91uwgGhCKyHC4oHfY4UmWeAdObA7CTk2kXA5vZaFWzG8AHWd1SOvHWX0_e6cVXjRtAR_Fxu3zgVJ-XMrzBwwp0WzMnZ6lcc",
+      "width": 4032
+    },
+    {
+      "height": 4192,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110334600525682365462\">Eef V</a>"
+      ],
+      "photo_reference": "ATKogpcW2ATx3wlnmgWucjwIU-schT5bpNoSiKojyEJQ7-PdVfBAYvT6lxU7yldKIBsYygVcesi0FKMnU-MoWK8sSSDqCXnFaRdKtpV4c--InFBPe8JHCAH08EQdxiV6QiaN8u3mSHK_VDp_hXjtbsLR-zfyc-WwDLE_zklnYjHeqLQGrk5mN_j7eepaGEK-UF0c2q1RKyX96jekmdD4B-OeYkrQzCHkTAl1_hYvMeInfWn1LOjC3MikEImlKPAtrnE-Y9U_gfJGrZLg_p2Aw_Kdf0EfR5eg5SutaTffg2hDLLu36qjLlpoxaCT4cobgxOHm82ncwE_qQohjrvVTepaFVclCwUvEBc0UyOVMkKlus910aIPTAyA-0AdzXN8HrM27RJ8NBhQXkyEvDZ_qO0IQ_OjAj1_0oTFwbuGjUoy7vOz-02Ng",
+      "width": 3144
+    },
+    {
+      "height": 3479,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102012234472896717791\">C Martinez (CMartinez)</a>"
+      ],
+      "photo_reference": "ATKogpdkhZ4yRP591Fji1b_Q0gmqmG_1FpOap8WT6i7ozph0dioV8I4iKgUEGfvDOu-x2gM1PmGXbjIeWBoOosUlC6hSDpc8PvvF1Of9w7ujrAbGjl4dO8xshX2DQOmSI2lkgI5igDhAiAMelGgnex8TuD34848RDKh2WiKvhdsGwwql0o8GHkbIInu9rx4N8_hO6-wbnaCUGBq-CEMUm0Tk6ESregOPv9UpD1LtmetRVye9EgTyoWyPCAU0iYqVE1FdFxIDMdaSYJMKHDToa6NTApj3yLerDdBwho_pYDra8tHHUKSTi0lWQI9AopEAYuTGwgVM2CAVxD0W4A82LTXBsBSfoXw50xESmzU_Ean39R2iqGR3jS4_w0WcymOL0Lrd4hs8ILdqUG1UOG4gOBlJD1F7fsxoqaf1LI1y2KZYK1s",
+      "width": 2812
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104279719182295373535\">Steve Emahiser</a>"
+      ],
+      "photo_reference": "ATKogpfXnpv-7bpbNwdv4e49s5V-an5ORW_9nDAFTW_kPzbg5QeyOPHH8bJIeIB_DjceL1ckP0fi6uaGo2O5oRQ4Y4IvJzkWCW1xH5gaU6xaXKcwkU2qlsvxMnL7v_mxR1VKAZbz-VE0PfXZramsc9E6W-HCqdxQ1HtqRGfQ3nhGN8ZL39m0CEXrwnyfRdA9t2DttQ-IBOx4RK1Zj7rOkwkmrKXJv9osHAt26OLR-majOgJcxN_6BZAbaenoTwuJL1dAkCpk_-DBChj_N-mEQF6Zman_xkQOgkvhmE3y8HpcL2eGBfhMj9qIyjKSlrzyUfVbgdynEZmpjZcEvmlmx-7vMi0HxqFxmaSLyqdSpBRKYdIbZEH1e0JwVJ76flINKj3I-ki97iKj1euZzHerhLsJODYcior3Gdw1tUFor5PNcn94Og",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110087158017998422004\">Ramesh Newell</a>"
+      ],
+      "photo_reference": "ATKogpdCq86lF_GlSRkt5yGuZZOtYI5t7iaNUmicwkxeKgIWpxhObtjfQ-Sg-hOjRdU2vWFe8XqKQXEyX7WFI4diNJmKSi1IHVlodHDbzU1dyqXIKZt7n6TL7q8QvTktsoLzNvQwff9Grc5imEHGq1xMQHY_E3RxXuPyG5j_jMkI9mQwkjpzNaZB500UJ7fMBrc_0O-HiMWGNypJWohYyoeIvP-mtgPyXtpBYUaVof9SwpzcbRTbcspZ2RrO0Yn5KgHLSjtLJbjdx_KeeGTEjsjj3zHJB3_YmfugXRAJN8jv4VuG9_kAJ5Nmb_QG6n8vLzRVFooTdoRl3hFWsR5YR4rVPRtYBTsO8YIN99hn9taEknb-VNr8eWGvYKvpjNnumoD2re7h43VenMaGrNQjsBQXDEEbk_9KThORIB9L73t9XZEd5F-j",
+      "width": 3024
+    },
+    {
+      "height": 1586,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106253729330825296811\">Angelica Le</a>"
+      ],
+      "photo_reference": "ATKogpcMsMkONClEStI_GnwvXiZNArqeXtmHBTE2AKwkTHUqKkRdI_2y72tItswOa56ThHe4I7UozTpxnsNB7qeKk1xs9JMSi5-MujM4foIgyB43U-kidd3nMbLNaKl1zTmzNnx6iTm1nvw1pOy1hSg83y0Ln4zdiraQB-dBnNpr6T3IBrA09UNJ9LDn1ss6cEFBabd48UeIo1BBeR6jwIgyxBxmS-YAKA0RUOe8gQbpB99wK0huWCmcqVUg_-0phBykWIijv-ToOK-UD_08zw5eMn_J9__nYR2ZENOwKdJJVrF7_8K6zTYIPARf1Pz-ovw6VpD3M0bsHbGuIyrRiaZAJWshkIYHuUQDb_wlASr4i_-cwN8ETdxjG7n8Zq3btg71ppOqsnmLtjyzBT58gbjZD-7c3xS8A6t6q8mrNgSl1wvk9Q",
+      "width": 2830
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102681823916206539482\">Michelle W</a>"
+      ],
+      "photo_reference": "ATKogpchLwxZyfKYSqGZ4iPtgD1bNqQk15v1_f6IRhrHVrUIKQl_ZMiOONJ66qbPP5c447HV7WhbsSnXRMsTGK-t6R68MMlMOKz1Rjbfrb3g4lJn4GFEvpRXrkXpt4Nn7hOPzQrPu46ZhOUX63CIWGjSdq5YWFR1HVGvEC2LTHVUIkD2NSpmkzjQMW--XCnFaf3bbhG0oF0bZS5z6Zo11QEw_AqZhP6dC9SIe9ioBS4_Aq3xISz8kjBZ1e_KXHuPfqVYpocvFAaE5bIY4vgBAY8K0Ovlxb9aQx7K2VPtY_uB-3dlkNgsvOStPxCdUTSC_kSIJPPr-gPkrwvv38TUtrcIE3zaDXDMBnIr2fzx352ylSY29d5Cox2tkuWn9FMMj_cHaSpJEzgC5BJW-EvnuVqX1dj9PtmERV1WDbyEtlFEwxCfmAI1",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJfe_2P1NZwokR6CnObz22-7M",
+  "plus_code": {
+    "compound_code": "Q286+7R New York, NY, USA",
+    "global_code": "87G8Q286+7R"
+  },
+  "price_level": 2,
+  "rating": 4.2,
+  "reference": "ChIJfe_2P1NZwokR6CnObz22-7M",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Khoi Pham",
+      "author_url": "https://www.google.com/maps/contrib/104724097943836795185/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3Dc8QVwAYF_rZSlR5f98ZG3U3qZNZbv8AH3RVHDgdQ65V2Z7l3A=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "It's definitely a beautiful space. Bright, sleek furniture and great interior decor choices. The pandan foam latte was so refreshing. They do have wifi, but there was a no-laptop policy during the weekend.",
+      "time": 1745146373,
+      "translated": false
+    },
+    {
+      "author_name": "Ashley Rene Casey",
+      "author_url": "https://www.google.com/maps/contrib/104815843024635895512/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8qFsPBvbNf8FhlvvbRYzBMwvpIb6gDrcGGWfxYlQM8cpbwkU6hg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Elevated coffee, tea, and food options in a vibey cafe setting. Perfect for coffee connoisseurs.  There was a beautiful pour over coffee from Thailand the day I wenr. Not too bright, not too dark. Chill music. Compared to other coffee shops, there's decent seating (about 8 small tables with two chairs each). One side of the caf\u00e9 is dedicated to conversation, while the other side is dedicated to laptops. Laptop folks are encouraged to share table space if needed. Free wifi is available. Two rvery clean restrooms are available. Really great spot.",
+      "time": 1750280393,
+      "translated": false
+    },
+    {
+      "author_name": "Benjy Braude",
+      "author_url": "https://www.google.com/maps/contrib/114121719247245015605/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXkRxn8nPrONUOtOVr0r7moEkDQKeeNSA8SEJOVHk24CZlyihpC=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "This was my first Coffee Project location and I would love to check out more! I had an iced flat white because it was a hotter day, but I\u2019d love to try more of their drinks!",
+      "time": 1743878978,
+      "translated": false
+    },
+    {
+      "author_name": "Iriana Cruz",
+      "author_url": "https://www.google.com/maps/contrib/108704202562693567226/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXvLxJxy-HsFz7zyALgNVIp8tGw3U5vM5Zr5qA_zGSvTcfyig=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "Coffee Project is my favorite coffee shop in NYC! And this shop has space to sit and enjoy your coffee! My favorite always mocha!",
+      "time": 1750778502,
+      "translated": false
+    },
+    {
+      "author_name": "Angelica Le",
+      "author_url": "https://www.google.com/maps/contrib/106253729330825296811/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOWBMa7jVofIayjpnICgpnxr9edArDUjsP5bGPjhHs-B9ToL8l=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "I felt welcomed by the barista with red hair--such a warm and friendly vibe. The space is on the smaller side, but the elevated interior design makes it cozy and stylish.\n\nPandan Latte ($7.50) + Oat Milk ($1): Hands down, the best pandan latte I've ever had. Most pandan coffees I've tried are either too sweet or too subtle, but this one hit the perfect level of sweetness. The balance of coffee, milk, and pandan flavor was spot-on, with an impeccable ratio. Love, love, love! Highly recommend.",
+      "time": 1732992460,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1530"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1530"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1530"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1530"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1530"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1530"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1530"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "type": "KITCHEN",
+      "weekday_text": [
+        "Monday: 7:00\u202fAM\u2009\u2013\u20093:30\u202fPM",
+        "Tuesday: 7:00\u202fAM\u2009\u2013\u20093:30\u202fPM",
+        "Wednesday: 7:00\u202fAM\u2009\u2013\u20093:30\u202fPM",
+        "Thursday: 7:00\u202fAM\u2009\u2013\u20093:30\u202fPM",
+        "Friday: 7:00\u202fAM\u2009\u2013\u20093:30\u202fPM",
+        "Saturday: 8:00\u202fAM\u2009\u2013\u20093:30\u202fPM",
+        "Sunday: 8:00\u202fAM\u2009\u2013\u20093:30\u202fPM"
+      ]
+    }
+  ],
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_lunch": true,
+  "takeout": true,
+  "types": [
+    "cafe",
+    "point_of_interest",
+    "establishment",
+    "store",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=12969159926928517608",
+  "user_ratings_total": 206,
+  "utc_offset": -240,
+  "vicinity": "401 W 53rd St, New York",
+  "website": "http://www.coffeeprojectny.com/",
+  "wheelchair_accessible_entrance": true
+}

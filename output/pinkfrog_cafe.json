@@ -1,0 +1,499 @@
+{
+  "address_components": [
+    {
+      "long_name": "221",
+      "short_name": "221",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "North 9th Street",
+      "short_name": "N 9th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Williamsburg",
+      "short_name": "Williamsburg",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "sublocality_level_1",
+        "political",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11211",
+      "short_name": "11211",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">221 N 9th St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11211</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "special_days": [
+      {
+        "date": "2025-07-03",
+        "exceptional_hours": true
+      },
+      {
+        "date": "2025-07-04",
+        "exceptional_hours": true
+      }
+    ],
+    "weekday_text": [
+      "Monday: 4:00\u2009\u2013\u20098:30\u202fPM",
+      "Tuesday: 4:00\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 4:00\u2009\u2013\u20099:30\u202fPM",
+      "Thursday: Closed",
+      "Friday: Closed",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20099:30\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "221 N 9th St, Brooklyn, NY 11211, USA",
+  "formatted_phone_number": "(646) 694-0608",
+  "geometry": {
+    "location": {
+      "lat": 40.7177608,
+      "lng": -73.9544456
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.71907343029149,
+        "lng": -73.95313306970849
+      },
+      "southwest": {
+        "lat": 40.7163754697085,
+        "lng": -73.95583103029149
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+  "icon_background_color": "#13B5C7",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+  "international_phone_number": "+1 646-694-0608",
+  "name": "pinkFROG cafe",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2030"
+        },
+        "open": {
+          "day": 1,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2130"
+        },
+        "open": {
+          "day": 3,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 4:00\u2009\u2013\u20098:30\u202fPM",
+      "Tuesday: 4:00\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 4:00\u2009\u2013\u20099:30\u202fPM",
+      "Thursday: 4:00\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 4:00\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20099:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115478355512650667474\">Betsy Mebane</a>"
+      ],
+      "photo_reference": "ATKogpeM9GM6fixlJpVSUaI-pd-HVke85lxD0pAQWbrX0kKDXzAcod2ijxrH9F9bfTKQDFhjxwj309ZadRuYZ8Mb41VmoDZhF7Jvd4tN1Z3xtQO8wrWQMOmN3iV-oswhP9ZfPjTtHn3zeJFjcfw9ARisbrLoCUN6x9N7VcMYQGjY6kGFyb1f5y4f7bG0HpBUH9CXQr0VZPUWPb3OPObHkWzDmjRVN-5HO4jmvxBCnCo8x7qnNjrflXSgOBre4g_QSoB648cKmH071xVJ9RcQ6qvdrc6gKKxrS4ioyuLXhuqEKZLF6C4q-EkRoNK7lkKWyUPnpKe2W6g-5t4TG-foaUc5WXgIsoQbuL9A2jd8Bf3OVjkjD6sC68Z-r5St2IcqAc6Si2xLZ0XPqf8hnQ5guRuBcTFtexR3_IxOFCoTwZR4tug",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105229872591470007995\">Abdullah</a>"
+      ],
+      "photo_reference": "ATKogpfuv0AkhbaTkDoyPxaIejRu1jHAh9RnCUyrnTizQSucpJcWDHXJWU_stTSRUwMDBFSSgQS08wpQwJy2iEcYjzKMroVFCGFJ49ZjoyXN3IkC-rf09XjmYHqdC5FmZBKVjaY5Ps0mE_LMc4bgHtAdCLZZSdTOfPiZTfBJfqDnR5LFBCBP5EA_r0sL3K9HB6JuqlrsTnHMKB2hjjq2qY3UXpRyB137PjaGbMgDkuWvDqBxCSuO4uW6awK9cRAFfgv5dVM80nNVQFxvObYOzuMawKrdn-KPrKo0fsRfSdGKln51qRoofOKZ5uys0-bLEx8Um6vmHrrPA56tjFYYxxqfBCL2di31EFQuuby8k8R5xfikCcmdCFNWQx_labdX_ITPXIt7vstjDXAUAUUODPngWzayLYDPEPy8Wsmhtw9qksI",
+      "width": 3600
+    },
+    {
+      "height": 4064,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118280525795466432881\">Octavio Gil</a>"
+      ],
+      "photo_reference": "ATKogpeKuBZdU-zOE73_GZYS-xe0L1Shs7By-LI6THCSsW0Y-dMiUAMLyYDraCjv_zPGn0zpiNjSoTA86OA_KGRd1HAOifzlHjtkPepy3t6K2QBf9OIVzKds8j1LGyTpnWhTJNmq4tzLEawV3Ig7aN99XnDBhyYSwtVOa_KvwAgAh-1m8V_CN1DM_he4rIhiw56-9Pl_Qs8AKCsy4gYPHf26K7H7MLK_lzL42NcSpzFfmwdZ8aNn9U7V3OlvVGVWbGGJ2HwRDNus9RnUDl-toRMNO6HVkO_gXuu7JP-1-v9jNHBKhE9WA5tZ1_R1X4bGKeM4a81T4yTkMZZm3sOf4qOQoDIXF5y00MyWI6QLUzASO2h0a4rITOiymHvZ-lD5q__wXkihVA8uQR94xMhlNT2mUkMVplTPLDcVEMTWbFUVjJA",
+      "width": 3056
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113888178285587773909\">Dan Pye</a>"
+      ],
+      "photo_reference": "ATKogpcvf0p_ua-C4HmBnz5zzdfbArMtT36hHErqKVmzVNzLDRBToE_EBHzU6YDZrhyOotlxiGPDn5wnuHlzx0Zc7u1YV8LldqoC3cZLazEqnOldVtoQrno6IDv1NVubWG895zI2qNVitzA6ZOXNE7o-xnOZD767MbdcusiZHc1ZtJcPtasz8WsVC6jJR8YLi4NGgr9pPJYzNyFKewmdf_9wemROLJ2jG0bdix5dX3oiT8BhYeyn1Mw9ABOHf5RpVA5NQPuO1pm5z-VWNNgvmMAJvsWYKfw1fkUlJYKdwwODusfHIooo91OCfH0czP5KojsdMPT18LgXY5kUEj_CsuUY-OKBdF9Z2aVo4Cuwzpd6j1VFXYlbJ7dLtecjTYSiY_UbwMSrNgrMNdfP8BgJgOs3gcoCyzsJjB62M-5UhzqwAL-RZlx6",
+      "width": 3072
+    },
+    {
+      "height": 2448,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113622719056788769067\">WL Wen</a>"
+      ],
+      "photo_reference": "ATKogpeGFtCPZaRR9CAZnZR2f4dBNTav_6LJ174H6RIdC10YdMsdIDKon9WbkQ9ywwStlbOVKZFialjtvC2DaTDrMUdrdVGepDEFxDrNdAhomzZeIn7ph7LYlCgHMyMRMgTQkeWlhJOysWJAD8m0LNiAvhkjsyYh2rpxMpy_wZhQF-cNHNWSJtL4I8JeP_KFOS22-o-5CxnSJUMPMI01ImddWGNi6AhpL2u_KuLD1_9rmSvBEAPp4YbI8gYYJb-aG4PbGCMtyJQmGWp_SXPCJrGH1UGxaKgt7TB41zbNYNHAg4VBf4cGlY6rMnzOrnaFqstKcJdw_cgosfLmnm_f0OZWRZT-Kn7mXbLhNdoLOsKpdnmRwydYlJgcG3y6b_FFGMmRAKbI3n0n-Fy__nVLqvrNIBehmieBmkvfYXoogdUklotTMDlo",
+      "width": 3264
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117612319440361715580\">Sabrina</a>"
+      ],
+      "photo_reference": "ATKogpfdspISo_GSpBDciG-UPtqkxwWO48vdehobEmZMqFQNzKhXbU5bja1OdTyU-1LcmvGfpcqayCp7afkacUN_GCz8p2r0BjCdc8x7cc6HeJcIOo99Q2QwGFURpAY14c-HBabOqy6Lgab7qSpoYkR_LVt2iPUIT6dTCa10-5p138Pqbjy0BK3M_Wtl_iQz-huAHhPiegscm-P6WxRqTg9_QJBAvgTVM24ylpQ0c3bDzVtNc_VgxHa08ZpBxdOPm6i2rDM7fOnjLyCGlxgJ5qW8RYJPoLv-5qaYf6zY7g-N7h1c3vOab6P4eUcgXV8qEBiSXuGWZGqyCIkUsLFStrEOHg2sOZ8eBgmj1GlaoNF8W0PyzNs-kwQqeTokdV1MbB0b5Y4zBoFYabSGOtRgANAsm-O3CeTOdcLFo9ynIJgFHFtaYkcH",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108625791953752502442\">Artsiom Danilchick</a>"
+      ],
+      "photo_reference": "ATKogpcq4rtnosNGgNYgqTBeXSWv2ultCFSBeP6kAqzGZouKonU1dQzLEwRxmSF6YwKNzOLCPcjNU9_c7r5dgjIrh-4K3huZelQo3irmAEiMFxCC5CZOt0USGzHbVLVt-B81Ps8RJJRF-Yifj5d-hnhfng_8_GAvKs_5b4WeCt7a9g9zukHWxtE16_1wRRr0t9NgaImfKKmRrwRdwxuXqmgpHNIik9mY5NugXMnJjvuqi5KL6hDZ9qlxowRbjao9oRk-6VBwE1UBk96zSqg0-figeDA3Imv08K0212O4Rj4g6Rtj4eef39HHRaQkTFfkfQ2LUORxn3su0BO2tGghTbArkTPRHBgB0vqnq4CEEBEWE06WEwwPwfFKrkW70qz7Id32fCDg90GVC4-XupRxiYuWVfY8GrdmIZKEmdFrXrTtWqXdlto",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112232373141571445182\">Yeesian Ng</a>"
+      ],
+      "photo_reference": "ATKogpe4VMlHb7d5N1WvoXdL8DAxlLYcDOnNfX8FD3m1dFn_PyMIjZXPCkXZkf_9AY9n185tXmSqa0kDIm4OhieA0AvDZ23dmNaSVoG9m279XEjAOFkCFdMlJG-yRtilnIc5oT7Z5mgU4-E2LIFYf1o0DdWnzMfFahMPDhc-XBYasAP2PL9OSrXmHHs3CQ9wt2KfzyWAoqeTQbhnxyNFaatMj1wAWVHa5dMR4ydZk5aoSjHnouuXwzHOZS_roSU-tJ5an15obaa-Nu1keh78iAQxf49ve-XMn6Kx4YrzmqX6g6LzJhslIjcDaGsX-ZV_Iw-uFzIuinVmVIf2GvwWvYkWTOb9NH4W8tWfqANDMXZent-LGmUDxY4tZV_bmmbsfBDaLjKgYnmYN4OBv5ndkaCbTdsi05nsaeGdul-bxTqaA1aQDw",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109178936832129224577\">Ido Simyoni</a>"
+      ],
+      "photo_reference": "ATKogpeSNewiNQZlhqvZ0QjXEd2dciV5KGSPihmVzpbgMaR-JKqD3ayJtiH58Qaa-V1Y9srRd7RwjYwPjUudWlhGpCyO3EptMu3fmi10NNQfdPCQoNAu4wl_y4pvzNuuElzj_GcfYNOOhceoV9ijPHyU9e8lCyzYy_7c8kDNADjEWhBjkH28Fg8dBCHxXtcqQMDfQuqqYTiq3B1dQk09iV1udE8nk6fUaMAb-rQcRZQsPg3iea1ChUKvQC8RRnpjkukn0x-sOTsp0xCYOsNvrpwqt6M8mG6-RsGE1bV5fcAACm2r6fn5zOKqST8NRQQMQ2c-4UgxUiAlhtom_jvXMXw68YRqwqK-QLZQEABUcD5PzCxwoa9xuD6UD7hYumUT91bR8EUX_BfAIlsmuKoUqbtJil4Qq0eiyhUdMqPJJcovDndqgoc",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108625791953752502442\">Artsiom Danilchick</a>"
+      ],
+      "photo_reference": "ATKogpfhx5M9xOWMkNqR-qy9SmW4-d6OOKABT8YAgt1EFK5lSz22nP12Tanu8AiAXeSt0qYb11g2Xy2YNswz89olDrR2oysAji8MPqWs13pVCL_ejiNRd2-jW3HbcLMaSyLl-VDHe0f7FJ7Hy3ubqvTcrrgCUv5mhudfe72ALxzmbuxhNTh0mLxyz6zLs5NbjOajhAhbZWr3gs-JZMurWLIqVDKudUUuxYvSEVN4ecYIKucOAr8kVS0M_zHVEZIVO7df0lrE-ibPYDxtUbigQ_dfRYaBZoC5wiG0PTPKBs5eBPKjauQ1dGutL7d47N8P57obC6ulDesXWM5NKu5T-gQbySjq3bXunx_Y1GY_DLpVJgtqKdg-HCwS6yoIvyvj29PQC2OJdxb-0T_lebLKlpb3ImtL5usdVyDeIe9bUCL3M-QLxQ",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJif490AJZwokRtX3kYQ2ey04",
+  "plus_code": {
+    "compound_code": "P29W+46 Brooklyn, NY, USA",
+    "global_code": "87G8P29W+46"
+  },
+  "price_level": 2,
+  "rating": 4.7,
+  "reference": "ChIJif490AJZwokRtX3kYQ2ey04",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Betsy Mebane",
+      "author_url": "https://www.google.com/maps/contrib/115478355512650667474/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtAUERfzrCA14-Pb5t3jbDBL74H2yWS41HUGt7aoDt-GtWhxYm=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Super cute artist-driven cafe!\n\nWhimsical metal artwork caught my eye on the front of the building so I stopped in to find a large cafe space with plenty of seating.\n\nThe cafe has Japanese bites, coffee/tea + pastries, and a bar for alcoholic drinks too. There is a piano you can play, books/games to borrow, and even a nook to relax or take a nap.\n\nThey also have various events to check out too! Artists can collaborate with the space to host events for free. The owner said \"This is a space for everyone\" \u263a\ufe0f\n\nDef recommend for a large, quiet, artistically driven working space or meet up with friends",
+      "time": 1742058432,
+      "translated": false
+    },
+    {
+      "author_name": "Anna Leader",
+      "author_url": "https://www.google.com/maps/contrib/108963819622229825996/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWd1XzPUOqXaNBjkyhOk3DqFfj2RUMKLspxl4I1u1vn8vjI3HBQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "This place has funky d\u00e9cor, great food and drinks, and an awesome artist-driven ethos of supporting live music. For a concert, there's a $10 minimum of food/drinks, and they need to figure out a better system so that long lines don't form at the single register (or maybe have more staff taking and filling orders?), so get here early and find a seat to enjoy your beer or milk tea and delicious fries!",
+      "time": 1745767505,
+      "translated": false
+    },
+    {
+      "author_name": "C Y",
+      "author_url": "https://www.google.com/maps/contrib/108581604529832080904/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIfI7zzhRBqfixONmJaebePYp_VY934UOP2iTrs6stqckEEkb0=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "5 months ago",
+      "text": "This cafe offers coffee and alcohol with light bites and a cute live piano, which is great for a casual hang out or a spot to get some work done. It\u2019s very quaint and cozy, but some of the downside to ny experience today is lack of simple \u201ccoffee\u201d and lack of heating. Tried ordering drip coffee, but was told only Americano was available (tiny, 3 sip drink) - disappointing. I stayed to get some work done, enjoyed the live piano and eventually got a mystery beer which you get to select (fair game) BUT for at a price tag of $10 I expected the mystery drink to be in that price range. Disappointing to end up with Sapporo which is regularly $7.50, felt cheated. Yea, I selected the mystery drink but this shouldn\u2019t have been an option with a $10 price tag. Needless to say, not sure I would recommend mystery beer. Overall, still a cute cafe for coffee and alcohol to socialize.",
+      "time": 1737847517,
+      "translated": false
+    },
+    {
+      "author_name": "Abdullah",
+      "author_url": "https://www.google.com/maps/contrib/105229872591470007995/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUp7XPOYmYajMgsnmnm5A9EC4Sx3fYIxmtfH0wiRxIJfnV6JJMC=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "Cute cafe focused around live performances. We visited on a Friday night and saw many great live performances in a cute/intimate setting! They offer drinks and a small menu for food. Overall it was a great experience",
+      "time": 1728848296,
+      "translated": false
+    },
+    {
+      "author_name": "St L",
+      "author_url": "https://www.google.com/maps/contrib/108703813447485311226/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVDoRLGLJ15n9bUxlIKSILwbloGvMn50EYevIqaz1L4vnjPV9VF=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "Wow, just wow, amazing, big cafe with great service. We had live music, which was awesome! Highly, highly recommended.",
+      "time": 1736709662,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1600"
+          }
+        }
+      ],
+      "type": "HAPPY_HOUR",
+      "weekday_text": [
+        "Monday: 4:00\u2009\u2013\u20096:00\u202fPM",
+        "Tuesday: Closed",
+        "Wednesday: 4:00\u2009\u2013\u20096:00\u202fPM",
+        "Thursday: 4:00\u2009\u2013\u20096:00\u202fPM",
+        "Friday: 4:00\u2009\u2013\u20096:00\u202fPM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "cafe",
+    "bar",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5677805535544769973",
+  "user_ratings_total": 215,
+  "utc_offset": -240,
+  "vicinity": "221 N 9th St, Brooklyn",
+  "website": "http://pinkfrogcafe.com/",
+  "wheelchair_accessible_entrance": true
+}

@@ -1,0 +1,536 @@
+{
+  "address_components": [
+    {
+      "long_name": "115",
+      "short_name": "115",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Allen Street",
+      "short_name": "Allen St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10002",
+      "short_name": "10002",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "2970",
+      "short_name": "2970",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">115 Allen St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002-2970</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0130"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0000",
+          "truncated": true
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0130"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 5:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Wednesday: 5:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Thursday: 5:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Friday: 5:00\u202fPM\u2009\u2013\u20091:30\u202fAM",
+      "Saturday: 5:00\u202fPM\u2009\u2013\u20091:30\u202fAM",
+      "Sunday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Trendy, snug cocktail bar serving finger foods, chicken sandwiches & creative drinks."
+  },
+  "formatted_address": "115 Allen St, New York, NY 10002, USA",
+  "geometry": {
+    "location": {
+      "lat": 40.719592,
+      "lng": -73.9904612
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.72093613029151,
+        "lng": -73.9890549197085
+      },
+      "southwest": {
+        "lat": 40.71823816970851,
+        "lng": -73.9917528802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+  "name": "Double Chicken Please",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0130"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0130"
+        },
+        "open": {
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 5:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Wednesday: 5:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Thursday: 5:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Friday: 5:00\u202fPM\u2009\u2013\u20091:30\u202fAM",
+      "Saturday: 5:00\u202fPM\u2009\u2013\u20091:30\u202fAM",
+      "Sunday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 2488,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111444671146808251214\">Eric Finkelstein</a>"
+      ],
+      "photo_reference": "ATKogpfg6fZfe7YeYr_CgQeA_cFxPFDN7lUN9yZZ4sgQ_LAXETLbbs9rNtKHY4p12Ls2iZoP2iE0mdcImgYUu3upBQwdMFvAoaZbQiqQQmiGBwbBTEJoklwmLYFN5qH49fEYzojE6cZ5AfxQoODL5Hd_PTrr7UPnQQ5U9Q3LM7uV0fc_dBNjbw4VRIcH8eqz9cOhN7jjOTqxVP5i131sIU4rjM6VOEECUC_KJRqo6UmPbNTKEbHV8iOoLCdZNAmShpNFGKsGdNY3-i-kEVjhNqkWM_DqNlJOWjZh0KvmgeE0liIFUmcw3qr4L-Z4afhj9MXCmq92_dVFPBOZgh7BG4WPKr65ppEurn9l3LODvgFknu_-FtM3EGKXw6w2dSlVSjE6dAlCKAhYrUSRYDwHLAPOsc5mws8yyBC0EW1juth1rfXd8g",
+      "width": 3280
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115822772284176123591\">Cailean C</a>"
+      ],
+      "photo_reference": "ATKogpdLL8gmw37ILFT95yy0O8NQ6z95UFKfQwIBs-dJWR_tgjorYSDNMMJHxHaEbx81qs_62LML4S9bOFVO8kIZwxCdHvTlc4A_6TMOpq9Ub-FGSKTbkqlmUrwyvBlUvkzmlE3EMUfGDmwyHRnJ9IAEi3IMkJZXAkbHaKHdZBTXVVx8UNrIjfVfoT6pNpO-U4EY5UWvqnpCvgVkEONBIXzKv_t2aQpoGL0uvHgdjxzYtDaeC5koTL-_cuqgvwPgLQB0uXHwwzzIOp36vGVIESaJ-cNjDmeD5I5W9FMOEsovgwQ437vvF8VVqQa428FOxm2fWsBe7G-zjPqkZzf6fCL7IkYQNZbVFF_imDqJNJyzOhFioDM-UvZ4iaP8n84mfSTXTvx8kmUeVHaPWI9NA7WR4UBx3KpQBzGx8ulyLB9R_oQP35Z3",
+      "width": 4032
+    },
+    {
+      "height": 3472,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105061099394492403376\">Michael Wu PhD</a>"
+      ],
+      "photo_reference": "ATKogpfQcCXDJDHe0zbfuN97etkaE3HlFaRxNnRfxopYX1VvmqKAhHAiCxSg0PxOxlY32j5Jdv6qryoP3-4Fer1oCK9en-_iIehcrdCEzLXU4YtBcQmXBLufVIPkcrkJ5yVA9pSaI9ntEja6E7nPiT35lp04NlX3n3OBkZ4yB3cJgjKT1kixZKLdXE-ZYWKc4AxJdJE78W6vqtu-HZSPWNSrbB4B9-QJsfB7C9MPGFww7XNhJD_HpJX2URpj2Ng2m5wqeDYuMAEk-upsR4glCHmKzSRpJITPQThArpu6tSRRtZiCxBYR9SBYuwI9PKEfJF_ww3b5ed3QecJXQt6G0sT9N47NgcBy29__r8-WWjeOfdrrtiAEjM9fn3OxYbiRvuvsq-iwntR0GpWWbFMUcSgqAEJEiQoKGZbcHZXvuqy0JroVlcM",
+      "width": 4624
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114790911194668264159\">Yandy</a>"
+      ],
+      "photo_reference": "ATKogpdBk_zG529WovA1La_fHZi7Q8OQ81F54TFp5uxoo1QeVxfVaRyoI70lbkDPzW3jhO-qeBzZr10L0Xc9-BvWSL79favS5Zihby_9ZHP3Stm6cMov8tqv56TmaaudE_KLEGKDn45RfEuFabS0Rgy3TjDw5Db1qH_Fh5feDVzJUg4Cacf0H87o4DnAOGNDlSdOiB_BfaD3eIoweCrRIpeXHvcf1bLhzl8VeJxDwez1Gam1cZC7pLSK_VZ7VVXS-ppJnI7WPM6d8HlvkVGZMimvvQ2lAyTwc2y3HLjM8pBNibIx88teVOhAiat-MquvYUcMAsHM72-kWOT25119kSXUnNv1ibslCxVUFbtatBoXcRASMCwxh08hN09-SySTUG6YYafeFhyPsWHVJQNZbjnlhb80lSZZx81k5h-BJ1mnnSS2dsc",
+      "width": 4000
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112845160667190651038\">Kevin Desai</a>"
+      ],
+      "photo_reference": "ATKogpcg4iwX4KTMt9zHkgVk3NOJtb_q2mPJxSSJfDc_aemPAaFUHWmkvMH5WWqr46KEJg02sVi_r8yQImXylvATykE32qyq5baRiI4cP89z8djcJ7Znj4WtdF-qWO5CDlqzxa5S_LSU_TULd4UmvKcTQIAVCQXf-9vDXbT-g2hG5_dRCyL7i5COwRLKOLO8_Rfnxfx32rP3sDMjv2XpAcRciaFUp1bxBuwBrvHXB55rBzchxB1gAE33askKf5J2-vyvpTRcZ6EzIeDEa59L1fG9H596FK6nkciw2oawvZAm95s9vkHUsX3AwlJY9HFfCmo-h2D2SVxfeAmRK4cBnZgL0r5-RGzc8cjzd6GU3vhmjeCLC3scuoZGI4hPl-zd9UfHLwpRoRmyuClScYuIZKXvR200Sd7seIAE81Q_8cXTsukM4t06JMeCc62zbeLenZQV",
+      "width": 3072
+    },
+    {
+      "height": 1800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114924668026503696432\">Matthew Smith</a>"
+      ],
+      "photo_reference": "ATKogpe7c-VX5xy9XxCjstRcoNTd7ZPrSQJ1qnBEXrdbJWaw-5iEaB8rTduk9U3UjvE5WB_QTNj831ALNrJipUHVJeBWxXeUo7cCjzgNNbW9RK-uWm5q_NSHUQVoP02aNm2ldCEguTd6BFOeIXzbWxK1wdX1jMwITbhQXLS9DUuJPGWfLFD5DhVK3JHkCZ6w1zGb8otaV8RZdCyEymnc7amTt4XC7gJ9079CPUK2BTioUFCfRuudSRupIUsDwoDlNchMAjL1tsYUz_SmkDEioXysv240FPc4VE5DNBUDhnsS9yduWMBXBFXvp6Rv3gU6I1fLnlySAVluQcmJ6SPQ0sP0gDQZun9wySy8gHeZz_2JEPgLY2iRKEDBxF3BeOPylIz1YU98Ai-JaagGIOnjxPC5iODdZG4a51lvLaOiP4qJA1tiEAW_",
+      "width": 1440
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110722799010922467505\">Todd S</a>"
+      ],
+      "photo_reference": "ATKogpdCGlOtB_bIkA-K1nUlowAPew0rAmSa3CB2dGVg37sY8dw_0r8sqhS4hpgQZdULMu2osFuL3viAoqfvtu3dNT9Gpg16D6cQ_d3apxLTh9umQlb0A7Tq84NqxENtsj_8DTIyqEMbYTDRVWui7BiOrfwEZdv-wMeZMtocZF77-nysDr9rGH-CMVPkNx93TQW875cYb3VInTYnm5Q6tQwg8dvAPSyjSZTQBd98iI0ApHbvfB3p8jDnhI0BaIwjznkRq6AGB-cv-f6-TPPuIDa0oWyCBkNG7Z5yztEdGCi8HK5gLHcMAmDU_5xJlDk35zky4g0LHca_u07WtlmtyIp8j2LWSQWuddf1rksuf8HUG1eDWtnmKuovolCUloGPxiWMuDCeKohDWl-JtLi-oo63itg0ylfxjP0HFhHGkOcPIlib5hTw",
+      "width": 4800
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105848951118051189649\">Skylar Gossett</a>"
+      ],
+      "photo_reference": "ATKogpepKBzllfaBDM-H739DvGVfg5OXkr72FCsaGkzvpmKYKaoojwKh7p03Q5Fz_1mvgUCpFhOwAN-T47w-t6GNYagnToJ2DoSdKeYToGvm-c_RvR3P-C9lFbDUPsz3tuD-HNE9rl6GzZag5RdH7xZOAQu5dDjneq9hMMjuKIch2e0SUpmn2OMUlDsnhm1A7dmb-mh38fPtK24hrs88woXxVIMaablY5mC5WRsjyTX6G37iPfp73aEjfP4_rVGGbgAecceVLClW-HaKgzCuGdN6z-qiCBkBYsIwE2Od2dj-TV1AleSh7ccl2RThypkPIcB_dTLdaWIJIGmBemHZoc0xvSFgCiW2nW5Yy2Kg1NYnUk8Q5VvJYCCTN3XIQ2OUua_jOQaBouyA0AzSPZyyt_l-w30BzmPwHdhO87bPKi7Jq7BxTg4",
+      "width": 3000
+    },
+    {
+      "height": 4251,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100957329213105964466\">Anjo C</a>"
+      ],
+      "photo_reference": "ATKogpdka9snxQFQMfAysZPa9DjO0t8l4xXsHq8j9lCNSKyG82OK1lGA7gfudupV8qHvrc2767LLNFWQlGZwACL4v6JBp_J8cM7dyeBaeBNJ80Xr2BFXuMdoLXWNfVAvRPWtXL0nVlT3k1pe5wsqln64kKvMksTniP_SbOkUUSz5xgn6Sf-7a7VZaqiY6h5CmrjFtx4N4d6MC4G4vvbKu1HQYI1RhLUwwvBVIqai2JkQKupcLDuDGUTI7347f8dndkYar-RVZUVqlNqQQ-G4lMqQTCvE2r6nM2VfLfnIT9AZNFKsOBWQFqvMR1HMuqfux1_0UPoHwjw5lxYUITOuUa5z7MY1AveuTx6B5bfIN_DaPe6EgdjtPQ8YrMZ3mp7vVbIVUmtR5qKaLXvQMe1XcfFfKr_Ty9JoeZ0rUhIvThF5xUOrPg",
+      "width": 3630
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106329414440649094061\">Grace Chiang</a>"
+      ],
+      "photo_reference": "ATKogpdMj0VFbydeerOLaQ40pt0WOpbCPHvYX_3Mvk95tek5wmlx4KPGtWZanoBGAZpgPBj55d1izMVWrgxdreVs59UGPVKu0FpLgMIiied43iHVIv692UtU0aNIT4VhH8nptTsuUwqJTGW4iUrmBr0_m8e-iAo1cnTEFbYqviW_38kir8TIRrAdLBDuNR3VRl4gXcG2zFwv9WEWI5DRFpUIKjCe85GROadNfC0DGA-JuNBfKc-DW5EOmBLjBdiC58K2mm2cbc-nMHAp-W8Numkd8DClgfwWLFIuqxQAUCP8g9lQtqCOH4FfvePi9NHjyWlNexawTe2DzxpK2uEvpnyiVuFX22E2N2KOypuipoCuIByKlkgSYNv4tfCXA7Db1pWm7fMvR7GFjiKXrvcarem3bS0vMtLinc9teYV-YNu5QCubTjxU",
+      "width": 4800
+    }
+  ],
+  "place_id": "ChIJI25hF09ZwokRnmmiXXONRf4",
+  "plus_code": {
+    "compound_code": "P295+RR New York, NY, USA",
+    "global_code": "87G8P295+RR"
+  },
+  "rating": 4.4,
+  "reference": "ChIJI25hF09ZwokRnmmiXXONRf4",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Seth Mellin",
+      "author_url": "https://www.google.com/maps/contrib/109705029880653409119/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbhzipQSOi8Gvrb1GxAQbtUiJjKFkDF8FEyVuMFCv2u2_hJFLcjA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "This place was incredible and lived up to the hype.\n\nWe got there about 30-40 minutes before they opened to wait in line which I am usually against, however this place was high on my list so we waited and it was worth it.\n\nThe place has two rooms and we sat in the backroom called The Coop at the bar which had a great vibe. It also gave us the opportunity to see all the drinks being made and talk to the amazing bartenders.\n\nThe cocktails are broken into three categories; appetizers, mains and dessert and they recommend you go through them like that for a sensory experience. We went out of order but in hindsight I wished I listened.\n\nI had three cocktails and all were great; the Cold Pizza, Japanese Cold Noodle and the Key Lime Pie! The Japanese Cold Noodle gave the perfect sensation of cold sesame noodles and the only thing that would have made the Key Lime Pie better would have been a slice to go with it.\n\nWe also got the popcorn chicken, some of the best I've ever had and Chicken Liver Mouse.\n\nAll in all this place is a must go and I can't wait to go back!",
+      "time": 1746375208,
+      "translated": false
+    },
+    {
+      "author_name": "Mimi Coleman",
+      "author_url": "https://www.google.com/maps/contrib/108837759128077966730/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUfyg25jjfcW7otvLyKq6NgHCZIfm7Y4AOvxj2EAGYSg8V0O6Sl=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "This is hands down the best bar in NYC \u2014 and one of the top bars in the world for a reason! I waited in line for over an hour before it even opened, but it was totally worth it. The drinks and food were all incredible \u2014 I honestly couldn\u2019t pick a favorite. What made it extra special was their unique 3-course drink experience: appetizers, entr\u00e9es, and dessert-style cocktails. It felt like a full tasting menu, but in drink form \u2014 so creative and fancy! The decoration is also so cool and stylish \u2014 every corner feels thoughtfully designed. An unforgettable experience that truly lived up to the hype.",
+      "time": 1748492610,
+      "translated": false
+    },
+    {
+      "author_name": "L.",
+      "author_url": "https://www.google.com/maps/contrib/104758751258038808825/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWHEo6RmlvOeopBDIJFKUmz5CIpcObwF2iqO0RORkD6xPCW6tHf=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "I definitely preferred the front bar drinks to the back bar drinks, although the concept of food-based drinks is cool. The front bar also has unique drinks but they actually tasted good, whereas the back bar drinks can be unappetizing. The front bar is easy to get in with standing room, but expect a 2-hr wait for the back.",
+      "time": 1749847727,
+      "translated": false
+    },
+    {
+      "author_name": "Better Food Better Mood",
+      "author_url": "https://www.google.com/maps/contrib/109486913665535295173/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVYnxyvM2zUIqVeXvOLHgmGLH7rZ663ZtjU0fliTJjSyS4dYHFs=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Long wait on weekend but worth it. Great ambience and service. The chicken was really tender and absolutely loved the donut combo with it. Lime cake cocktail was also yummy, didn\u2019t taste much like alcohol but it still hit hard later. Mango rice drink was very strong though. Definitely coming back to try the other drinks!",
+      "time": 1745358627,
+      "translated": false
+    },
+    {
+      "author_name": "Iun Chen",
+      "author_url": "https://www.google.com/maps/contrib/107883844158273113822/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXoUJz1kme90BfavYSkhoNgcEAuhjatHxnoE1LRsU0ZTTV6FoVQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Really awesome place! Highly recommend and would go back. Very pricey so save it for special occasion. Get a reservation or show up early in line though. This place fills up fast! And the line queue outside during wintertime on the windy street isn\u2019t great.\n\nThe drinks are the best, most creative we\u2019ve ever had! Their mixologists are onto something with the vastly diverse and interesting tastes. Loved every sip.\n\nFood menu is very limited but what was on it is delicious too. If you\u2019re not into fried chicken then maybe eat beforehand.\n\nService and ambiance specular. Spacious but feels like a speakeasy. Given the popularity they do time you pretty strictly though.",
+      "time": 1743737604,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2359",
+            "truncated": true
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "type": "KITCHEN",
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 5:00\u2009\u2013\u200911:00\u202fPM",
+        "Wednesday: 5:00\u2009\u2013\u200911:00\u202fPM",
+        "Thursday: 5:00\u2009\u2013\u200911:00\u202fPM",
+        "Friday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+        "Saturday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+        "Sunday: 5:00\u2009\u2013\u200911:00\u202fPM"
+      ]
+    }
+  ],
+  "serves_beer": false,
+  "serves_dinner": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "bar",
+    "point_of_interest",
+    "restaurant",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=18322206185658411422",
+  "user_ratings_total": 1952,
+  "utc_offset": -240,
+  "vicinity": "115 Allen St, New York",
+  "website": "http://www.doublechickenplease.com/",
+  "wheelchair_accessible_entrance": true
+}

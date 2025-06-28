@@ -1,0 +1,658 @@
+{
+  "address_components": [
+    {
+      "long_name": "937",
+      "short_name": "937",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Palmer Avenue",
+      "short_name": "Palmer Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Mamaroneck",
+      "short_name": "Mamaroneck",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "Mamaroneck",
+      "short_name": "Mamaroneck",
+      "types": [
+        "political",
+        "administrative_area_level_3"
+      ]
+    },
+    {
+      "long_name": "Westchester County",
+      "short_name": "Westchester County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10543",
+      "short_name": "10543",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">937 Palmer Ave</span>, <span class=\"locality\">Mamaroneck</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10543</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1030"
+        }
+      }
+    ],
+    "special_days": [
+      {
+        "date": "2025-07-04",
+        "exceptional_hours": true
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Tuesday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Wednesday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Thursday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Saturday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Sunday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Local roadside landmark serving hot dogs & assorted comfort eats from an art deco pagoda since 1928."
+  },
+  "formatted_address": "937 Palmer Ave, Mamaroneck, NY 10543, USA",
+  "formatted_phone_number": "(914) 500-5029",
+  "geometry": {
+    "location": {
+      "lat": 40.9430139,
+      "lng": -73.7469361
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.9443107302915,
+        "lng": -73.74553176970849
+      },
+      "southwest": {
+        "lat": 40.9416127697085,
+        "lng": -73.7482297302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 914-500-5029",
+  "name": "Walter's Hot Dogs - Mamaroneck",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2030"
+        },
+        "open": {
+          "day": 0,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2030"
+        },
+        "open": {
+          "day": 1,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2030"
+        },
+        "open": {
+          "day": 2,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2030"
+        },
+        "open": {
+          "day": 3,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2030"
+        },
+        "open": {
+          "day": 4,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2030"
+        },
+        "open": {
+          "day": 5,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2030"
+        },
+        "open": {
+          "day": 6,
+          "time": "1030"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Tuesday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Wednesday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Thursday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Friday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Saturday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Sunday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 2048,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100517662292579518715\">Walter&#39;s Hot Dogs - Mamaroneck</a>"
+      ],
+      "photo_reference": "ATKogpcLSpqRsrIPNqXz3AOYIJdrxHrwNnXFK6Bsl29IfUGtgwNPSqGhzDdwqByv6znXWgacOip3e-tjnugH4Rg2vTVoRDwKA97TFHGmKrx4ITl70MHtwf8A0LQkOSV5an2ZKHeFN6PP2YXZ82mPUYXr8qm6LZseK77QT0fIQy2HYoMbtddXp40IDDDO75QsXi7yjStQNdDTj4Xfp4ny5scKDx7w4oYuZ6BQmQDxVMaobvVP0sGcT8EnDuUrxe5diKrCNFFrojRTqtANSsIGSgAz8R2T4eaBXe0lrlm_Gfsry1ZSbw",
+      "width": 2048
+    },
+    {
+      "height": 788,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100517662292579518715\">Walter&#39;s Hot Dogs - Mamaroneck</a>"
+      ],
+      "photo_reference": "ATKogpeaUazl4EOiAWudS1BmTvuzZ4YPsNIY_vx6vZY5GYKT0DT3LPk6YyRg4GWCC9TeUKXeLQuBKt-ztey94ih0CAkSV_3NsnQIiFXgux1JaIqntp_EPdPWLfD4J27WWDNmEr_HkMaRHjIBqeoK9O7UUOhY8rzo5wDYAEsbgogitA_GFjkYdcgiA_ogLzgnhEnCNQOEqnPYWNJa0RE7yJczrTAeScUoMIMDm9Z3eKr4vC5OlgqOpDY_iHB9WJ2rjbwOwCVFoaDWLah4vVsZmT5gVRC8MDGOoKxFDK3lYBequq3V-Q",
+      "width": 940
+    },
+    {
+      "height": 1536,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100517662292579518715\">Walter&#39;s Hot Dogs - Mamaroneck</a>"
+      ],
+      "photo_reference": "ATKogpeKpxg2zLpB0eENTJGtSi_bW_zqmjyMTShRAwwOImMAhLRVVO-6KreQKc4tLs5qQjsb4kekK5cOB4s3HDrheULo11p9qwyvsU8FiHsHf1b1yQME9sBCVparfSwLNuf7dvbz2S6st6eravi__cfOWwbzHhWH4mvtamwbHwTEdrpelng2V2C20I1FySMksAdkLQDusodT9UoGKkBY2C1AdiXewYRcO62iSigpMP8JwsBwnedp91Jq9RcHRNUD7G229zPDTq9HuDZVmJ-n-BwyEIhlhfLuEjX2oMtJabSpfckB4g",
+      "width": 2048
+    },
+    {
+      "height": 1832,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106312316226975657938\">Izzy P</a>"
+      ],
+      "photo_reference": "ATKogpeC4Oa7Cg6KCyoHKYblnNArHPCIYjrfpuBcNMpEIVmoB7hlCAfBBmBLsHJDs30kxklq_wH6hY-NSWFdjvg2L4vQS_WN3N3jCF1GhmNEPvN16yvlKp_iQXSAbGuUjrBxtpiUMyd2N4BbHFjRyZ6_RZgG0OapbnDOSmcDKpUp1_iCUN-Ian8_qh5CBiPr-ciUl6pQF-96aC3gNRZQcePjOYaw2JLVryL6SKHteWJVOitldjpKHYml4qOcSv-e5r0puCn6fn34OsyQp0dHQbvcMVburMH45YuQscaYKUbUKK2hO8W5rPBtjRa9gVfFkp4AIopJJ_FHidfGdKvXoK4ZRCW9DuCedAzewiCotzz6P1wV5WR1iLuihSlucfwP6GjwSKiJce8v06nzq8LuBEL4u092K7Mi0NJGDkiAJShV17pl_w",
+      "width": 2300
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104016789934656292334\">Eric Zhou</a>"
+      ],
+      "photo_reference": "ATKogpdjFWV8bhVzg7lIVDX91QbSDn2We3NoAAyOMFViM1NWVFiy_ajqXdV9a7Qj2MWD5s_ond36KfofnGZq8YggNcAaJ0eR5ieD3IPIkLwKQ3DA8UCgnlTPbswZrrxFTfj_TOcD_b_8vw0PT0sLu8BRzULAqhhuwY5nHIaXuVvJZSoKj2hUcQ9eiJGTpHhRpQzYpKTFQTO5je5cwUbwXz0Q1QdbDa-kVCL8HPeQVJeKf5HYvSnPAYEt5s7VBSXSUGOmRfLfoAP8GVlK2WI3vn71u3E3tfjswawHMsjXKBQY1Pg3w4zUirME1q2UA5_WRcQWINPqrP100nD2TUHnElSu73LzNiSsk0tGqaxxlru-ae1rxiW3dKLE17zJcN0lpCowI9JQrWF4iBZIkRERCheM6hUTqKloG611sy4-g73kKnU",
+      "width": 3000
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100581436849146570376\">Chris Abruzzo</a>"
+      ],
+      "photo_reference": "ATKogpd3Wo0jn2hIL59LgaKUb-xODEalGrBF7EBmTIx5YMTt18ifRbMB11ZBGnfxZhYZpDlef5qOXAiXTvbcnG4Fv5w8dV5sAKKkud3DBheWmRKRwZO_ZKXKp7ATM4bvg1ogoxdGrgQsG4aYw4b3Lv3luKpaGD0o0x4pnul_tu_R22H_BCzQ_RnHOiksphZA0F7nZjunT09Aud4JH05JBThEBfOuPc1VfMy2sgvIHydchmB2kmyEYucFlF8neCbstbsp70nrgERkIO96dFTPZe7Nm0n8VSKesv7xbVv2ftLh0xsnfyi4F6cI11dNnlSBexfyQ7sR8yeXkfu-mQ3PaXIB8oK2cTyw1puPc14DCf6aJudJ1GuEo9WQLYWR2pAfcERD4Iq69GLb3u7GNbonS0Oc3iS6YLk9pjfgN3wxOgd-NEw",
+      "width": 4800
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104016789934656292334\">Eric Zhou</a>"
+      ],
+      "photo_reference": "ATKogpc60RtfoAsKNRMzIWcxn8c_nkMIuiUxuIBJJVbdbvoTbxXh64SAcZgZGQW20nVLRV_Sx3GS2oDFMj2f2gWYehrlotApnP-oSO_lw8ndfvPPacquZSH_R-SVWypFsJcaCn5I0ETi7yFp7ja96uxQhYDh5G4_ZVT3KHnHqdwdyjon1NxX2YA-_AC5qWRyZir8O9TTPY0ca_8RfO-NA6iywxLl1WGMEQpTEot7KuCEjoi7o5yaWnWhh-6V4UeOlkrc-LB_ueHixtZ4_3Hsa_WMGGgC9mX36NF7ugoE3dGVgyOCL7VUil_6uEJFx8_F0oSG4w-90hmj4l1tgNCv1ztQJyst9gSd72vUM8A1c-fSgtVnUOHZv4qFGrRa8vW5RIit2QqZU1n3Rv7obMB_smR9FaZxEvAKDZotbkeT9NLmCUHUlw",
+      "width": 3000
+    },
+    {
+      "height": 788,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100517662292579518715\">Walter&#39;s Hot Dogs - Mamaroneck</a>"
+      ],
+      "photo_reference": "ATKogpf4xx5eQ5n7_i0u9Newm4sWpr4baakw1dNKhScWzx8tGbfYKsb3yqus18aD2m5Hk21t9xWA-f51xMoS9Fy3anoBCJ3IYTRlJzeIJR6qSUOxyEEUwPHBkTahx-z9k6sUN8r7s-6hwC0oh0KNmfSW3crhfqTHBacR0m5BUOxhgPsrBQESqeCTh07dUSJ_hbhsmbMIFUOyX4kxNeKJZLqfM79B3hMiybwsQVSBAwK2RJ51z2byp2UjhN5ryUdrnIy1t5H9fdeu_nyA9m4wLHfneP111x6TsquG8XMJq_R-VsZg4A",
+      "width": 940
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100581436849146570376\">Chris Abruzzo</a>"
+      ],
+      "photo_reference": "ATKogpf100KS3kdRqTgxjv-VSIhWOAmnR1I41M4KEgi5kRQGhcLJOfmKQfPvhwYzx07HjY3yioSKQmecPUzyCKEEVStDaVHKwHfOfjggpqnwi-aSZG689XQHAVYWSptCOWnythXAW2OKQfxGNxgGRp9bwi5FJ4Ee4BBoAYUa-KJrC9hPwHWyQFsZnKq5EbqbzPkuRrZLGkbF06BnAoCh1XcLCENNyEHtBEf-i_QIkMgjdCj1fwMF6eKVg69Ez9VBIUV3y_8p-5UMAJFMEOYUYip58BTkJtnvbrEB5DimWOCkNIAm8PWJMaWymHLz1seeBR7-X8EKLZFNS8qaFESBgl1RZKc4nA6Xw_ofEKkDBUqo6LNi9crC-JtGYfUWZQRWPRQHn1VuXOnC5tGgqMVhrVX5IeOgS57ZrimkPILUladcp8GTFw",
+      "width": 4800
+    },
+    {
+      "height": 788,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100517662292579518715\">Walter&#39;s Hot Dogs - Mamaroneck</a>"
+      ],
+      "photo_reference": "ATKogpeZW76j-m8hJ4oFZ3r_cKkWsZglDQ5TX9XaACQshLSOrIMOyuBq6Hm0Mu4sV-KQzrKGn2Ua-DwUgfhzzT-AxHAAeeDZiUdMvlapzuy3rabSC3LXrjdQMaWN6PcBhr_mYonG0R_X7dbIIQPiYyhL-p7m_Mt08m8X7EMEJsJJ5kRsEHt76-QpHFI7U82TlkqtGOSeltscl3QLibDXWDhywz-Y_0q8O4sQcZtg842HirtBfds1-Cyolv5FsIUgCBw9wfuPq9isSxA0U7wg890VH6jC2AbFivwjVh98GLHoaXvGGA",
+      "width": 940
+    }
+  ],
+  "place_id": "ChIJsa5CHIqRwokRzKO1FPeVqF0",
+  "plus_code": {
+    "compound_code": "W7V3+66 Mamaroneck, NY, USA",
+    "global_code": "87G8W7V3+66"
+  },
+  "price_level": 1,
+  "rating": 4.7,
+  "reference": "ChIJsa5CHIqRwokRzKO1FPeVqF0",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "David Scott",
+      "author_url": "https://www.google.com/maps/contrib/113065089282333705549/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVYidCaosA7FJmUfHgPwUahsGat06V90SnzwInuMXxuztnTYRVH=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "6 months ago",
+      "text": "This places calls out to your heart. But after you order. You quickly snap back to reality. They stand over you & wait for you to tip on the machine 22% minimum ($50 + $10tip). So decided to get the dogs in the raw package and see if they taste better at home. But while there try to capture the old school feeling with burnt potato puffs (they changed them to $7 tater tots). Pretzel dog w/ meatless chili & tasteless cheese. And a regular dog w/ more meatless chili. Then tried a Flat egg, chocolate chip float thingy. This place has fallen hard. And may close down sooner that later.",
+      "time": 1734476516,
+      "translated": false
+    },
+    {
+      "author_name": "Jacquelin Grillo",
+      "author_url": "https://www.google.com/maps/contrib/118297288402610026643/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrkYdAVrrtTxovkJK8OgQfgyAU3VEgm-yrbke9hb2KMmitwg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "I\u2019m writing this review for two reasons:\n1. Walters is perfection. It\u2019s in between my husband and I house in PA and our best friends house CT. We stop EVERY DAMN TIME we drive there.\n\nThe hot dogs are perfection (we legit compare every hot dog we have to them), the fries are perfect, the black & white milkshake is outrageously amazing (get it extra thick). They also have a CRISP Diet Coke, for those who understand that lifestyle.\n\nI normally get a regular dog and my husband gets the puffy dog and we eat them in maybe one minute flat because they are so good. We also get a pack to go and have gotten them as gifts and everyone always loves them.\n\nOn top of great hot dogs, I just love the adorable atmosphere!\n\n2. I rarely write reviews but just saw the 2 star review by David and have never been more upset by a slanderous review in my life.  The tip thing is on you David because while we worked in the service industry and normally tip 22%, I can promise you that you can change it. Walter\u2019s has been 105+ years and I assume it will be around another 105+ years.",
+      "time": 1748484208,
+      "translated": false
+    },
+    {
+      "author_name": "Laurence Yasner",
+      "author_url": "https://www.google.com/maps/contrib/115991746199412897995/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDza5pnGipJ9kVMZCxlG23sEyqlLZbX_zbfmJ9kh0QYZUQ7cYv=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "Ordered 48 doggies via Goldbelly.com. They arrived on time in ice packs in great condition. Very happy to be able to enjoy these super hot dogs hwew in Miami. I will follow the instructions for preparing the doggies in melted butter. Also great to have the musterd as well",
+      "time": 1737150997,
+      "translated": false
+    },
+    {
+      "author_name": "Brittany Case",
+      "author_url": "https://www.google.com/maps/contrib/103496648821876030632/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIE7hDsUsNiP1iBezo6p6Zj3nCfo4XkGGpYEDD87KXF98PWCg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "No surprise to me & my sister that this place was nothing short of amazing. 100+ years of hot dogs and it shows. Service was great, they were quick, & the double puffy dogs we ordered were absolutely delicious. With these you don\u2019t get that awful \u201chot dog breath\u201d or \u201chot dog burps\u201d or any of that other gross indigestion. They are good quality & I am definitely looking forward to my next visit there.",
+      "time": 1749136431,
+      "translated": false
+    },
+    {
+      "author_name": "Molly Stromoski",
+      "author_url": "https://www.google.com/maps/contrib/105492106850830102498/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURfH4rl09beuejd2WyZQSY-xq9Rd2rY7P_7_PwwJK7JYQHUENl=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "Walters has always been our favorite hotdog spot, and we always knew we wanted to incorporate them into our wedding weekend. We held our rehearsal party at our favorite ice cream shop on site at our venue, and served Walters as our dinner. I was so happy to finally show all my friends and family how delicious Walters is, SO many people went back for seconds. Working with their team was so easy and fun, we had the best experience and were so happy they could drive up to Suffield. As life-long fans, we were so grateful they were available on our wedding weekend. We highly recommend using their food truck for your next event!",
+      "time": 1732467152,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1030"
+          }
+        }
+      ],
+      "type": "DELIVERY",
+      "weekday_text": [
+        "Monday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+        "Tuesday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+        "Wednesday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+        "Thursday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+        "Friday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+        "Saturday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+        "Sunday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM"
+      ]
+    },
+    {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1030"
+          }
+        }
+      ],
+      "type": "TAKEOUT",
+      "weekday_text": [
+        "Monday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+        "Tuesday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+        "Wednesday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+        "Thursday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+        "Friday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+        "Saturday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+        "Sunday: 10:30\u202fAM\u2009\u2013\u20098:30\u202fPM"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6748808930051597260",
+  "user_ratings_total": 1661,
+  "utc_offset": -240,
+  "vicinity": "937 Palmer Ave, Mamaroneck",
+  "website": "http://www.waltershotdogs.com/",
+  "wheelchair_accessible_entrance": true
+}

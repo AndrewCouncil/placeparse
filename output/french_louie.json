@@ -1,0 +1,637 @@
+{
+  "address_components": [
+    {
+      "long_name": "320",
+      "short_name": "320",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Atlantic Avenue",
+      "short_name": "Atlantic Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Boerum Hill",
+      "short_name": "Boerum Hill",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11201",
+      "short_name": "11201",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">320 Atlantic Ave</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11201</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Trendy bistro features creative French-American meals in a stylish, sleek venue with patio seating."
+  },
+  "formatted_address": "320 Atlantic Ave, Brooklyn, NY 11201, USA",
+  "formatted_phone_number": "(718) 935-1200",
+  "geometry": {
+    "location": {
+      "lat": 40.6880126,
+      "lng": -73.988216
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.68946648029151,
+        "lng": -73.9868028697085
+      },
+      "southwest": {
+        "lat": 40.68676851970851,
+        "lng": -73.9895008302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-935-1200",
+  "name": "French Louie",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1500"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2130"
+        },
+        "open": {
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2130"
+        },
+        "open": {
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2130"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1500"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1363,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102493025818623155615\">French Louie</a>"
+      ],
+      "photo_reference": "ATKogperCr-hDwIQhgpc0c0zn2u2b15xGkpJRPR5GxztfHz6arJ3csYwNoJniHUSWSBU_0-ji8hIAUNzL58BhlZtguxsh65iNyKhjMs6WooylX8ovssp1hgl2hekf1OxOm1vC50TXp7roP6tFT6tGkH5OxOGL0RtYr1QSHfheA7MIObWRbGjfPkob3E4cYBxA8sua7ByVVxWCGe-BjrgXBEZl7qx4v1I7krd5BUVa0WINN_r77dkKcW5swoA3K28ajyYbl-8p3YLMYY-zMuzjYShMYEXexASZPeSjtJiblujgG9ouw",
+      "width": 2048
+    },
+    {
+      "height": 1398,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102493025818623155615\">French Louie</a>"
+      ],
+      "photo_reference": "ATKogpdmVs1As-BYu3GW1IZPSjN2VE0VmJo45qdDtMDRl9PSrt6antdi9taWkP3eq5zgnF3sXyDnS981RNAX2x3YJWIHqEo3kqSH0zIzoBTSZtmeP0-e1V5Mbsby_hzSe-pUd2ggCLtyOAmnrYs3VZW8YunmxB5TlmVoHPjO55D6FhJnHQu97PsbsvhmcLfvu3D3H2xFeFsiQPNkoIzSlsfVTwO3K40o827iY8TAOlSpHidtcZOrCjlXTs5b2Slhn6QLrZUtIJTqJorXh15gFDF3YQmx5FB4tg0R9-wGyvK2ZVBaPg",
+      "width": 1125
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106466772730502199649\">Sara</a>"
+      ],
+      "photo_reference": "ATKogpe9beGgdvQxkSO41gXa3Uvj-PylHIPLnExDK6x_ZcwMAO7A-fhHBdzCusckiG1epuYDrrnD4b4c3IAHGunR7fU3u5X8M_ZFsMDBwegDjectfToVLdNlBs0rDy1Ka20bj86e1T2WrDn4sMVCZeKF7cYsoIIxgvrRzuCXmq0DQHYQOoX1FQ6W3L6OJDRgiWEBgAYnKB0luJCfgzJGU_pA5GOA2TEqXm2FCFl47vo54u9IACHGEN6CPGHZQ8aQB9WPHhnyFzQTgB0_HO9tU5tbmkNdRBRjFJbxa-RBn4tO1mJZkb6XHOiZSO0Zbp18kxkYJsr7dD3HVIU4KCXPrD4y90d8oiPsxuQtUK8CeKUuOc7l0MyhqU_lp-zpLjMarGnCzTZJCtVEcuHUbaLztDxxpbn6KOyHAEwb-ctSx_EoWsVTLM56UMZfXC-ENEP3Bg",
+      "width": 4032
+    },
+    {
+      "height": 971,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100066975456620261035\">Kristen Ong</a>"
+      ],
+      "photo_reference": "ATKogpdQPukDJfzup3uMD8gpu62zcE3IfmH9wVA0g36q3uuLHE67u5jvEFI5IokXjIf4aG6yceM8ULY4fsgGSTlU6J8llQeBeFNgjBpzxeaoY-V_wT_HvlB0FPw99s-hM7aPqQOC7y2L4dtloFOnQZcqoiLtlcnAkqg1Ekf70FBpwfPyVKo48nJpjaaWmY11wWmFxaV39yrGOHv7i_Nrgsr6TqfXEWrrEccAjNqPcBnTQPFZsaidNzxTVBfIynNzhgq2SmNZ6axVZ8db0zaeS2LCYZXGZvdhiVuhTpqxdoLxm9bEWEbnmbFi-iDnkObrQEBXkh_zBzyeeG2Qxj6ZouB6Dr3JlgcwEW80O-d5q3bPgt0wzC0yWAEAWF_P_DMIi1tSav9bGuFtjZ2XMnFHEW5W8evK4DxXeJxKBPmPIAiPGk0Nvw",
+      "width": 1171
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100942973148566786987\">Dominic Hackley</a>"
+      ],
+      "photo_reference": "ATKogpcM73WUDW-610FFH1KYZNLuGo1ZnOLrBs4hIIYopsksYtpMjk947xuby-cgNPpfAcDlkw_HyEZOed-YWOts50IAeV-UcWQMsMl6yyGaLsQfuNAAMMai-2Fhk_6umGP9WAqWHTw4-Gp6yTCIeGQhLeFyeN7FIXnWq3SKO59xRv3t7dvWgAbi1FRkJIa4-wO681CmZdhT3v50dnST_-AaAE2uSTAO1T21jg5IgvHMbSd2K_DwFPm5zCt4_QjDFy8ktotyVxkSn_E0fkmCd07MR-GuGwuCq1wwX3BR2VCC6foQrwrhHDscnR_-nlDIycwrRapCD_ikjIbVziH7It_24bMYothPbfxzjZ_cSnnlGMmNQ8JW70ZW-3euJHmA3Vdx5t1xrc40fUe9W3uAPZ1iILcwptR-7lJLLPka4oJ75l6dlA",
+      "width": 4032
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117816194115455294301\">SSNorway97</a>"
+      ],
+      "photo_reference": "ATKogpcfpVGQ4CGG7q5BokTeq7Oosc31Bo86JP4c0r2KPo7IU7SO_TEGqLRLwwnFyTT7uuj1yzGJuUFdAN4c4XWn2Rf4AiCejn_9JgWWpEM5LkjapBAWwKHcRXsvP42XwA4on74MmDRmg-pY01Ws81ZYwCpkZwMibTY034hF4BUjZBd3g24CKNv8xqZhoNkqxLrIalIGE0rwz6Np8AJ-LV40tPWnDH51nYhY54ohELRCVBCe1tqNFJrkIRWR0tkZy0gvaLoT-6H_i2zb-Bc5vJ6mEgxVVGadhvvO9YqSbThYoNu6yKdiCY7fn0VUeNnFSfuNY176WNH7RLHPgYNO9UrzZ7qLUlrgWRNEdm5tvjGsEROStWd6kOrwkU6Z8NGDGcCsfLUXURZKDFusPO3Z7uM3BN7nCz4H9BjQyCs0uVNKu00",
+      "width": 3072
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117816194115455294301\">SSNorway97</a>"
+      ],
+      "photo_reference": "ATKogpcN_kweBAxQM0FMvhalPfkPSAcWW0gpNkZCLmf7Y7iQVse2iceARnNqwOvvte24mfX6In9KS8c0YslXCcT5CvQ5g9KhIMQS_7i_szApTK9F67N_jLKCrVHSjyyvQv-Xk-hgnwYWlOT2oXHTFwB8X8dKzQfcjnjeqSSsWnRhnZwPVGFb9Dyk-kgkXrPEyq7gC_Btr_kE85MKXeIAkPHq0eBsuC2FA1M8fkR7RU3Z4kAbbWQU-5qmxc6_Kak7o9_g_Kda5hUkeSn-p-rgwWo-0uMwN_NqZJzXV5CnXPvYZzjp5Y--3OrV6PsWPLu9pi1-VwmwtJx7juxQxufgmUte7-IhihmyZxoJfhLDu1AcF8A045cxy6278OnMeWRFMF1kESwCL6rrAA6VixEMvbgbSy5sfNOc5zqFiMyoscu7cGZVcQ",
+      "width": 3072
+    },
+    {
+      "height": 4160,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102742956794448020016\">Vivianne Barretto</a>"
+      ],
+      "photo_reference": "ATKogpc9tBGjQn70nmipgn75U8NYxGQjZgr4ex2yu4DBkYOaPfmHXZJuJCVjBUvl1paBBEVC9ufcmY_Qu6GVZCk-KdRJMrffMPnd_P1fGOIJ1zTeEAzpnbEXNlQ7PXNhRsJFkxBoFSQkQeeWHiNHMHOzoE1lzb12g_2PQtX3MU76C4oIJ2mo1v59hzvCOFcQcvkb45zJ9G-PP5wHFAZisNqLYctdWlLoE03g4LXVqxKmX5IZ0_dheJ6MyQzbJ9tvt3n_uBz6-UH9pFVbMwmvSQl37MW-kMEUHi4ZqEbL5EcFIHiBnMhvgCpmDj4SklxEmj1GLsQWlzxrf7BdNZl-3aLUHKrMM89xaLCjjbyAt04xrRZ6czcX0IpFJFrFAP7jzU8Chy2ZTAilrPdge8_eri15xTuK9YoitXbxZ5SSo-9S2S82gg",
+      "width": 3120
+    },
+    {
+      "height": 704,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112991112430019690814\">Louis Ellison</a>"
+      ],
+      "photo_reference": "ATKogpcHGmmnNM08JHLSIgtpCe9CxqY88R1VVe7Bxpmn1Ek0azj4HtDomw2ryRG9dQFy3AUDWtuSwVZ1JoqwFkbhFEkTfN-O_lD-2jzAdx9LicMjev_m6KLo_dim-KbQAu1EPakTbtby280G2CaYm1kboev33doszJzZOx7MqO5iXo9xzC0BmEzZZNMRdYr9OBrie6gfULur9kDU5tTSOyIe8pJqMHG7fXCqcga0C4iLOFhsgoXBMvFbSVW6w9cAtGCyFLhQnN_N4h9NudnYf0rNlqP-ad6WBg6r9f-iEdthwqkgM_ejMQeV_OLmpiY2MjMhdggoe4GO_ofkGpMTtMU2OBgkEB4cz1-fj93AhbIQXboxxnbO8EybKfTNN2yz0RKgab7yNUYhnwsJwFYadp92BYFlRmmKXqBBunFHExNmEaR54AouNvS0xBZRIkcqkXLL",
+      "width": 572
+    },
+    {
+      "height": 522,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116922198212853823241\">Ethan Pitts</a>"
+      ],
+      "photo_reference": "ATKogpdU5KxwuaIuo2cxns2FQoUV9Tlmf5p-D3VrKFBW8rvZssdOxhP49AW8Lg0Bc3JNDaev-lm97FViqkmTKCbiKvovK-9ZkEHOhEiiSwScQ_JjyNMw1vmCh4Sz9JP0ytd_X-7CvHviSw42rGIK5rgmUI498mhRUgjCdNnTzB-feiSENs9hF4wIFZrFK_aAyHk1frSceB5liqXQmYXBxxcIUt0q9ROiRpIVFmBwIp2hhVeuUyzGEIlUGp2aFIkdfA92vyVkO1igcIYWx1kAGmcxhZ0Q8F6fC10AAsyDPQIgHo4gVohX2lIRIHM_hLnSVgZZ7kzZJ3Uz8vnJdymMo_13uz601Vl6-xrWq1tj0gFXaE_xyTZuc1iJqWoGnFWgtvVYXBi1eU590aPG5hVWxZfLzhjCH4bbwVVApv2sVtkMl_j3HGOs",
+      "width": 831
+    }
+  ],
+  "place_id": "ChIJgRjO3E1awokRoC9SdsHbe-w",
+  "plus_code": {
+    "compound_code": "M2Q6+6P Brooklyn, NY, USA",
+    "global_code": "87G8M2Q6+6P"
+  },
+  "price_level": 2,
+  "rating": 4.5,
+  "reference": "ChIJgRjO3E1awokRoC9SdsHbe-w",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Ryan Waggoner",
+      "author_url": "https://www.google.com/maps/contrib/104795922135932624973/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7ba87AhVQ6L7OauUoXmFt2zJTuf2GU2hvRRXMZPA-mWXZvN2l=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Our group of six had a wonderful brunch at French Louie. Everyone enjoyed their food, but the Crab Louie was the table favorite for sure. Nice atmosphere inside, and next time I think I'd book a table in their back garden, it looked lovely. Service was efficient, but a times could have been more attentive. I did very much appreciate their flexibility to adjust our reservation less than 24 hours in advance. Reservations likely required for weekend brunch as there was a large crowd trying to get a table as we left.",
+      "time": 1748291189,
+      "translated": false
+    },
+    {
+      "author_name": "Vivianne Barretto",
+      "author_url": "https://www.google.com/maps/contrib/102742956794448020016/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXac20YAknjryWWT3EDPbCPTsIkyCw8KErm6SzehaNJtNhMLvp8=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "I loved this place.  It's a small place but it is comfortable.  They have a very cute patio, which I was happy to be able to enjoy.  The service is very good.  I had the Anchovies Frites.  They were \ud83d\ude0b especially when paired with the Aioli that comes with it.  I also had the Gougers.  They were good.  The prices are reasonable.  I have to come back and try something else on the menu.",
+      "time": 1741366963,
+      "translated": false
+    },
+    {
+      "author_name": "Sara",
+      "author_url": "https://www.google.com/maps/contrib/106466772730502199649/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK60u59MrI6tA8KgKXNZT91-F4B-KMuLNypCib8yCSUADwgcSJf=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "2 weeks ago",
+      "text": "Update: The first time that we dined here, we had such a wonderful time and were excited to come back. Unfortunately, our most recent experience wasn\u2019t as great. The service is  friendly, but absolutely not attentive. No one ever checked in on our table, they do not pour wine or water even when you purchase bottles. I had to wait several minutes to flag someone down to have them fix my meal. They don\u2019t observe dietary restrictions and food, allergies. they never asked us if we wanted anything else before they brought the check. They rushed the appetizers. It was a stereotypical young , uninspired BK staff. We will not return.\n2023: We had a beautiful dining experience in the garden. The 2019 Saint Emilion was perfect. We split a salad, and enjoyed the duck and the papardelle with poached egg. Can\u2019t wait for our next date night at French Louie.",
+      "time": 1749938048,
+      "translated": false
+    },
+    {
+      "author_name": "Natalia Zamparini",
+      "author_url": "https://www.google.com/maps/contrib/114954931497349125721/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQUyurfsg8cr7lwBKng7S-s6zdh8mIfC3mBPw_riE9C60a3Del=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "5 months ago",
+      "text": "Beautiful ambiance but a bit tight. Great attentive staff. Food was good but didn\u2019t blow me away. The octopus is really small. Did not like the leeks vinagrette. The mussels are great! The banana foster dessert is to die for. Heard great things about the pasta. Tried a bit of the cast iron chicken: nice and smoky, big portion. The fish looked good too - heard it was very bony.",
+      "time": 1736202272,
+      "translated": false
+    },
+    {
+      "author_name": "Kim",
+      "author_url": "https://www.google.com/maps/contrib/103100373618904984367/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjvQrdl6SV3DJ_7adBO3igGJ3MSp0nO3vCMp9v3D-QTIjgxp-I=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "FANTASTIC DINNER SPOT: we had dinner here with friends a few nights ago. Every dish we had was delicious. Great wine list and fun cocktails. Our waitress was great- very helpful and funny. The steak frites was my fav. We loved all of the veggie sides. Would definitely go back!",
+      "time": 1735022659,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "type": "BRUNCH",
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: Closed",
+        "Saturday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
+        "Sunday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM"
+      ]
+    },
+    {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "type": "DINNER",
+      "weekday_text": [
+        "Monday: 5:00\u2009\u2013\u200910:00\u202fPM",
+        "Tuesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+        "Wednesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+        "Thursday: 5:00\u2009\u2013\u200910:00\u202fPM",
+        "Friday: 5:00\u2009\u2013\u200910:30\u202fPM",
+        "Saturday: 5:00\u2009\u2013\u200910:30\u202fPM",
+        "Sunday: 5:00\u2009\u2013\u20099:00\u202fPM"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "bar",
+    "point_of_interest",
+    "establishment",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=17040455239046672288",
+  "user_ratings_total": 1196,
+  "utc_offset": -240,
+  "vicinity": "320 Atlantic Ave, Brooklyn",
+  "website": "http://frenchlouienyc.com/",
+  "wheelchair_accessible_entrance": true
+}

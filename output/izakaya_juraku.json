@@ -1,0 +1,617 @@
+{
+  "address_components": [
+    {
+      "long_name": "121",
+      "short_name": "121",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Ludlow Street",
+      "short_name": "Ludlow St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10002",
+      "short_name": "10002",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">121 Ludlow St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "special_days": [
+      {
+        "date": "2025-07-04",
+        "exceptional_hours": true
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: Closed",
+      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Ramen, dumplings & bento boxes, plus sake & craft beer, in a narrow, industrial-style cafe."
+  },
+  "formatted_address": "121 Ludlow St, New York, NY 10002, USA",
+  "formatted_phone_number": "(212) 477-0100",
+  "geometry": {
+    "location": {
+      "lat": 40.7197001,
+      "lng": -73.9887399
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7210258302915,
+        "lng": -73.98730856970849
+      },
+      "southwest": {
+        "lat": 40.7183278697085,
+        "lng": -73.99000653029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-477-0100",
+  "name": "Izakaya Juraku",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 2592,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105354369982839164723\">Izakaya Juraku</a>"
+      ],
+      "photo_reference": "ATKogpcF3OU0LNL0vOmiuYDfhUuilOOPFa5zu68affdJgEnOrDTn6WVa9cUuuhfpZ3-uEArZDZ0cLI5HDYJSxe8zoYpeZQpbaZ-tuUtS81kQHjqlDdJzr1ATEc8bYTlz-kRSiN0i6Px5tpuFeQv2CRIOpEOutat35dFfoFL50TeMRt4spWLx-4O0MXR8x7Dkl6Un8J_ouPqXm5tMP82gkE9WDJWnR5IpD9SjwwEaHq8f3H5ZNa-UzMw7eOuRL7zPHwAy72Vx48WNXWagfM4NihkO0_3kRruPoVGuD0REQuVIlaEoyg",
+      "width": 1728
+    },
+    {
+      "height": 3333,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105354369982839164723\">Izakaya Juraku</a>"
+      ],
+      "photo_reference": "ATKogpeQ8etuBaCCoXnnMOCj-TDP9MqHV4f6MBE4PuCJKoahO8XySSbaNYkqWjjRtkY5zv41vEC2UXVSUxHFs2NGNUlLXppNf4tv5aEu0fKAr12wteeQAK6e0pUBQsqMyq8eodC_hP8xeIkpXl_hyMtcsqPSGLSJOUavrDTQxk3P2fWEK-AcwDty2Q8k6n7-FO5AXT3x54xbBgfkenrlnIKHpmDdO4YnKWBfqOlsMifaSIDO7iC_7IPnhsznlwFjWABvr1qvMbinM6xZije2QFayNgm-D0UB6srV15CGrF9j19H08Q",
+      "width": 2222
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115878967810096426328\">ReedH</a>"
+      ],
+      "photo_reference": "ATKogpf8RW0SWpYS6fL4PXJZVqSDGwTWRP2yuAe_UW56qn7l-Bs9BMyl969Q5IVrlyqIsWg0u1qCpIHXzT0NnIm-jcIYRP9XeiuVNM5sn-NHseajhUgCaz1jc19LBkb2hJ1Npw_vd4F9RlxBgVqdxoJ3zwR1ZJSJnFSbOmJXwTquuIz-gVOt1jThyhVNaXpBORaFQ385b53C_2B0CpCf36Ll2st2BzV4xLqmDwUNrZEWkXKS0IW_IGbiteuYg5sMLJ4WKNvgsGFH0457HKiSzqoBMExEcxTghVTFzXwIKE0L4yQDHvtzT10DFot0QKubw3CfPdyxznxoBXltEryHcGKaKAeja35F5YOEimYOEB_o1LecpBiTfzizXLZa756GekB1ujIyxNkQ1FDz1vpvPjIy10jsIRifojv8mMdqaPwwXXO25g",
+      "width": 4800
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102736045471009103233\">edouard g</a>"
+      ],
+      "photo_reference": "ATKogpdVFCwREsPwIjK7uVRVb1zoBB6X-MYgx0qWv4H6ZeXO1NPGJstG_K02_22V4pS_NscZ58at60MK3HrigQ_KQJwAnIJU3swloE3l9ruq44WVzpI24qvgqD9w4zsa7yuZYSymZXMX7zaBZr-w9tXCV-_NRHD2T0GAvgGk0gc0_U0-FtFEQsNSWNh7gSnvUf1J9J145S0hEi-WVjn8GUa9wyX-kCoEodL7FeLMt0bxi473ELfr36_n_UDSG7mtw7vvP-6dqqjqWMOl3oHIMJSwlyzEiAAKijYH0JIrO2Y_dA1DyVleajcpu6KJGB5eFkC4QKv11obnslRO-rk0AHx1cAyUAWrD4Ps3mliOi9HKlbgJMr_39uzERQ2KM-SH27a4xrzDWSVwuAva7QmxFjA3mMqS_Uiv6f3eYkxLQYl6asmyBQ",
+      "width": 4800
+    },
+    {
+      "height": 2160,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117282704607024344679\">freddie gayfer</a>"
+      ],
+      "photo_reference": "ATKogpc4b11clKtcB_TZXryYWzYQrI7D8wU8jRzzx4ZU8GyD1IB83FjbP96gwNRYvUiUJhc9i9lUjf54JKuOfV9wdGYQHzaRfDhzVG6fnQbeSoTkHCvTydoESmLa0eezNax6TGiCr2T8wVlRzRpDJZhT97wdmsct9SgyV-AVVJRIqgfPVDQpF9ZEB5IdJyboEivKsr8nYegSOQ2RaNZ0KFM_KpytGaVUumT3zkaawGM6d4PKnegIXA_VleU1Xz8r7CVabVwaCD22MaUaN4GTwkxes5pe77mDbBZBvA80f6pxMoQNC8WnbDHQXBWGAgRh1U2TkUQxJSNAnKsmY58bLZ4pVNu3bcPFiFjy4-m2Inxm1fyn_r2MIyuzR1LVnmdHdpc-J41PN3jGh51w91ViiOzLKs22ZGcuxqvmDhnm0dj5KNTwpyU",
+      "width": 3840
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106449392684450931491\">Anthony Barone</a>"
+      ],
+      "photo_reference": "ATKogpdN5qaf_bzr3-n_rRQhaFpOD04MHNXrQaGp1xu8_4Mcq7Fp83KCPjl22cwFt4iQPME-tZN8oG6lRFzdvWb7n6mhLKxorKufBVlzBpuvOIO0VMEuBPSCuVE5fKaNwbccEsvNS4Ek1MQzcg2iFzA-kdVD1ZWglSnEKxL6IBfU9aI6SC7uEncyJBK7oP5nzNytwtXwpGyuceu7Xer9ngm9q5U9Qjel5JiE1PKnu7jsAwirQwDf1WX_sG2HFk7SEu1nbcWNUGGZgr1eahY1SZEbMYNAcbNhomSDVVkYGVKiDoNxhR3JHtYkJ_BoC7e1IomYY-4FAUJ6Thu5Hux3Osvp-spKWCP7JLICgSaDyjRbGAtMH6m0phVamtNGRQ0LE2B8Fj6AHzXevbnu6lbeq5hKU2d5NrfWfEuoU81QhFOSezgB-A",
+      "width": 4080
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107762089223448658224\">Tania Flores</a>"
+      ],
+      "photo_reference": "ATKogpeTDBtKbS2oNiA9Fmw9Jju2ObKhunT7_dGZbbLj-Rs-SwymJKP0v-n9c75hPpYDrWCKum0JYZf0miFCBTea72dqkKUK4Gru_SN9fvZ2eiykDrbSE89WTUAccIlJLibVd8T1ydw-FSStGDNkzjqf2t2f2lruZAndz-uChQXUIQnZHWyOAgjg0yRneAQ3n0TpyLHeRs04GMdzs4_sz6-9WC-7q9gHguiS2p8THyxDei5p7oF3Cd7fCkULzxxDTOWjLhpWRbWBZTovn-IO7_bEi3V70D_wAFAeqF8XVF5uOhHVGXtMg5-EHs1VWaus_VNIp5bgnLfvku5YaZOFWjmUqU_tg6CTsPCsIgZsMInwfondkWVoY_5z6cUpD-Z45HUhCnkFziKQ49TYyAtA-Cbj9ub6xltYgmpOQlE1UQVH8az9cJLp",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107762089223448658224\">Tania Flores</a>"
+      ],
+      "photo_reference": "ATKogpfs4pHpJbiDDiN5J8KGVJeJWx4U-8ZTqma2Fccvrc4Q_xezSl6VHZg3ZTJlw1aZlptaFE09-UF4FmEpj4VCDfUtrW7t_LfiIIDgkVaDG1OWdeFBQlxVk_RgowLVVZooTlha6Kd-Qpfe_DDgOkib59s4RwmBEoW3uiaUntleIkYjmAHLxiXzmGihj_6_rNL9ddrq01G0G408lxEyjJEqN5sg6kG2HfqpsrbGUxzffhI_hn3cMF-qr1xms8kUpvOcUlIFC6hc69inBYSb3zxgGf2n93d9S-yhtCXZX27cHS_LtPN5kCW0ra572ay7bYTNwPC6VHqPEcIrpzxz1nxBsD3UdlLJxYS2-sjaulymYmrO4QvwQj5ZnC3901mbB9daIBU8UYcj9ePMgm0zulN_wqX45JU9nEVUsqi9A5teB3odzA",
+      "width": 4032
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105354369982839164723\">Izakaya Juraku</a>"
+      ],
+      "photo_reference": "ATKogpfGmQmTQmlLS6mvWZenHfba9Xc0FQKfBqO0dR9BVxrwZTS4sLG6VnSBvFqUB9JIwZW3ZU5d1q5s3CaFE6OqfX6WibZkT6lnWkgc9R9llu-72eLwi2uzmUP4PIrWnYDx3K_oKhQJP-E_SvmnMgADfFaJ6Fc412JkpgmxJOf26L4RlqnQCGy7gzEfVS8Mha1HsxkqoVu3T6VgtrpzKy93pup6cocd0njcASLIFucdMC9_CPTa_rBDlZHyN7JeVhQREZmQtDr70HjFBi6NrZAHVX1XjmCf6kLP48E9fXRox-E0qw",
+      "width": 3000
+    },
+    {
+      "height": 3456,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108791376373839857611\">Gianmarco Raddi</a>"
+      ],
+      "photo_reference": "ATKogpdap7VXiXVDgI3acygSaq8RXQM9UeXMF7juzKIz5RaBXYatthdSuVDdBbfw4q5ifePeSStAYeS5BKkp0NUxMM4xgFEq6Sdo-bqqnBJ2FN7DUdV_cV1SMt_yFeqZ6mJh0LGIZlUUinJNFiCqLxt23Poq2ix2Nh0a7MEAAgN6shPdRrQREV8tG79-lDqfJf1ipUhQOFLs9SeAq0MNXlHzpB8bpQN7b7-AoITVKNrtLZmZdCEa5OjumfikrwdghrC5FSRNA4J-LYU4T4sC81VrLNbZ94kYwQs5UYhofbq_b7_1mMVU26DlPT3NWDuy7wzVYwm26v2kKc9ZKUyxAke_eSm20ZIpAyiqtUMjDi6YvwKK6OnX6QMFjVkYYBjxn_L0UoGrm2WK0J3qn0Jo7EccBrkargH2j-fEvl8ebBWrGB3nOg",
+      "width": 4608
+    }
+  ],
+  "place_id": "ChIJKWcwq0FZwokRaLzSIo7SMXI",
+  "plus_code": {
+    "compound_code": "P296+VG New York, NY, USA",
+    "global_code": "87G8P296+VG"
+  },
+  "price_level": 2,
+  "rating": 4.7,
+  "reference": "ChIJKWcwq0FZwokRaLzSIo7SMXI",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Mia Huynh",
+      "author_url": "https://www.google.com/maps/contrib/114746114434966868203/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWE4czd-grUsa03QSphvyCOclM_Ar_KI27-4Jd9NwQtCduvru9p=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "I came here for dinner with one of my friends one day and we had a great time. We didn't have reservations, so we were seated at the bar. I highly recommend making reservations as this place was PACKED on a weekend night. Service here is amazing. My friend ordered a matcha beer and one of the staff brought out ice cream for us to enjoy it with because it was supposedly amazing\u2014and it was. So so grateful for it!\n\nWe ordered the agedashi tofu and two bowls of ramen for our food. Everything was delicious. The agedashi tofu was flavorful and a good portion. I love how they had a vegetarian ramen. I got their veggie ramen and loved it. It was flavorful, came with lots of tofu and veggies, and very comforting. Great vibe inside, and cool decor (+ a projector playing One Piece!).",
+      "time": 1744319605,
+      "translated": false
+    },
+    {
+      "author_name": "Andrew Higginbotham",
+      "author_url": "https://www.google.com/maps/contrib/100976575404699077322/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUU1SKsMD8KvUWpAItkiSiWDhNnkV5wzj2KM3pC_obJHATo5ol9=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "A fantastic place to get authentic food and drinks that embody the heart and soul of Japan. Some unique offerings that you will only find here as well. Wonderful staff that is knowledgeable, friendly and attentive. The food is phenomenal! I cannot recommend it enough!",
+      "time": 1741995237,
+      "translated": false
+    },
+    {
+      "author_name": "Kaydren Nuno",
+      "author_url": "https://www.google.com/maps/contrib/103325025858688803828/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVybyqRwIUf5OS_hMjYQPBZPIe3PhUy2p6eZD8ryrJvW-zLdAW7=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Came here for a date night with my girlfriend. We had the brown butter miso ramen which was amazing! The Katsu curry, which was also flavorful and some steam buns and a pork belly skewer!! Everything here is so tasty. They have a large menu too! For cocktails we had the 212 and the matcharita. The 212 was amazing and my girlfriend enjoyed the matcharita!! Definitely will be coming back here!",
+      "time": 1745679886,
+      "translated": false
+    },
+    {
+      "author_name": "Karl Kwon",
+      "author_url": "https://www.google.com/maps/contrib/105996583192363624262/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-mrE4nh27HppgAmh6b2X8HZ55Qv_Bg3G-72NBtizXGoS6FqvlvA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "4 months ago",
+      "text": "The atmosphere is lively, with high-top tables that can be uncomfortable for long seating. It feels more like a casual bar than a restaurant. However, most of the food is delicious!",
+      "time": 1738506389,
+      "translated": false
+    },
+    {
+      "author_name": "KD",
+      "author_url": "https://www.google.com/maps/contrib/112548173535595431541/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKN8O5_WcccbTOiC0YTme2xoyETu2fPbQsZDgrz1l5RUgzex-E=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "We accidentally discovered Izakaya Juraku while looking for a ramen spot in Manhattan, and I\u2019m so glad we did! The original place we planned to visit had a long wait and no public restroom, so we decided to check out this nearby spot \u2014 and it turned out to be the best decision.\n\nThe ramen here was incredibly flavorful and authentic, probably the best I\u2019ve ever had. Every bite was rich, comforting, and satisfying. I would absolutely recommend this place to anyone craving good, authentic ramen. It\u2019s a hidden gem and a must-try!",
+      "time": 1746563373,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1500"
+          }
+        }
+      ],
+      "type": "HAPPY_HOUR",
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 3:00\u2009\u2013\u20096:00\u202fPM",
+        "Wednesday: 3:00\u2009\u2013\u20096:00\u202fPM",
+        "Thursday: 3:00\u2009\u2013\u20096:00\u202fPM",
+        "Friday: 3:00\u2009\u2013\u20096:00\u202fPM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "type": "BRUNCH",
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: Closed",
+        "Saturday: 12:00\u2009\u2013\u20095:00\u202fPM",
+        "Sunday: 12:00\u2009\u2013\u20095:00\u202fPM"
+      ]
+    },
+    {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "type": "ONLINE_SERVICE_HOURS",
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+        "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+        "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
+        "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
+        "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
+        "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "restaurant",
+    "bar",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=8228589502094031976",
+  "user_ratings_total": 537,
+  "utc_offset": -240,
+  "vicinity": "121 Ludlow St, New York",
+  "website": "http://www.izakayajuraku.com/",
+  "wheelchair_accessible_entrance": true
+}

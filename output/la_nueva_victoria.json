@@ -1,0 +1,453 @@
+{
+  "address_components": [
+    {
+      "long_name": "2536",
+      "short_name": "2536",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Broadway",
+      "short_name": "Broadway",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10025",
+      "short_name": "10025",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "6946",
+      "short_name": "6946",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">2536 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10025-6946</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20099:30\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "2536 Broadway, New York, NY 10025, USA",
+  "formatted_phone_number": "(212) 865-1810",
+  "geometry": {
+    "location": {
+      "lat": 40.7937667,
+      "lng": -73.9720854
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7951416802915,
+        "lng": -73.9708161197085
+      },
+      "southwest": {
+        "lat": 40.7924437197085,
+        "lng": -73.97351408029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-865-1810",
+  "name": "La Nueva Victoria",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20099:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 2458,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111444671146808251214\">Eric Finkelstein</a>"
+      ],
+      "photo_reference": "ATKogpcP-ScDw6zU-zmQjEVh9j-zFZ1JxaCPcJs1VmS7FYZZnD9lP_EOdxp7RMH2rh2SlC4dqyA1-J3uWiKzGYebxl8VrzU7J5WfPKDBPPYqbF0HRnNC7AIIcsZ3n7pqMogH1ADzS9MPF0ln1uyeyF3zkuyKWc5DW0NaKT5V8QpLIsxOivtIC6lC3ZuRiKxvmQBFHoC8QAxJIY2zL-Od1atBVLatLoLrZFDHjopqU6e-2BfhYoW6gy4_4b2Q379WLbOHXmCARKKfOYqOwVkegkKoJ2MiDZzDd2zPywxGiYF5tOnFUngUeBPc_JZPhopMskvr4LZ0JQuIGs7RHdnI98j9T7CGnnVW_49f0GxCq6csdi4L7qyWIpdD4habrM3WiMxtGZUtRs2yjl6D8td-kF_BvDo8Mk4UKhcWOpBgYhxI-AmvBTA",
+      "width": 4000
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101469912247430230244\">Harlemzfinest Ny</a>"
+      ],
+      "photo_reference": "ATKogpc5DUf7RbYcSBv3ztczE0ljUY3ldeFBuQjakJjYyJYJ3I8Veaa9DMs_O4GoYnQkaXRV1UsS4cmhpuOQxLC-dWHlV2Sd91d7pLO8qVWbEdQBj8Bl_StnI65_kqFFTp3Yb9Lykg4kqh9OJFnpyZVAXE_tD5WDaifsoCGRBWwNXqOSubv6wJgalzfxeUi9exIJIydoS5XsTNiVNR0jSAU_sQNk4ryX12rQHsP4s_G5lHzGyN_8EbF-bSSOtYWn0OcPYjW8Jh6HUJnY5CWtBGonGrosvnDqOQzHWdls9U-23K64nAJn3k9cBBG1I4n0kSecbGZFYLQ9rg5E51GNgXAndcEluoaBm0DOqSVzyp-wrmeTU-npXMkbuSHuiY7StrzUrzIccpvlSb7aFyjgPEAjUJ3dquFIEMabEj7FjrjMK85AYhae",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108542330630066110085\">Andy Ip</a>"
+      ],
+      "photo_reference": "ATKogpdfJB0LUfCGg2n7rJIzD0NLv1B3arquYN_IEZWDPsCY3qTV1GO5ICQwQC8068FDdqFniWkcIEmM6ylMV1nTyp1flzJnBKmf6vsBxJ7hGdtuZhM55EIucRYLEXZYelK4cmXEWaRiPqTLTdQMNLTWOWxqXE6R8FNMwjXh22FzC18ruw7509vmptrDFJwtjZGufixcobhfX5A13LyTFCjAagvcsZRwc1WfsukGT5bqo7OFZAK2vaGRRvBGJFcVmoN3svbhK92GNEHHjLs1VoUti61QTeQjRpXfKJdLVHVeuVe6kaGviBgEVEVEpaJ0ksetEPlWWmn4Q-uxkyLSI6ER3B5O6WWf6oXHL4PTS-N00oNwoPQ9wT6j5o1W-GnFUfpbJkyhb2ZMr4HD7Hu8PwX9-hXh7f5PT9IEhlO2qTh-8BSlqA",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115222976236676264745\">Suraj Singh</a>"
+      ],
+      "photo_reference": "ATKogpdndKk2fNVE5RuTyZeNVIFxhNhGggAD-3TVqEmrIxZXbKe5vNyv_sASeqsZ9zbPx3Nz6OsGQOk3SlveW1Awyv9ntMXSiFusqRl-hi10PWknArjXf6pFQdvl-0HOW-uegp1RZrv5JupKdp2HG0FKVsod3XmxMU48a6HCNR4sOn11V7LfmAmA-224Vx8_k1VnlZ32ftJ7-J5Jhp4kS7ywTR86r3lsPbuUnBJ053dq0rxz7PG715YV7QfgD9T8neQ_IBIUx7yy8_iI0tMhxdw_9bbjsn_VMD67_B9QKSSh32xaOzNp6eJ0fFSkzCrY3j0SELW_vqbG1FRFycmmeZXdt_gdjTuuS8Fk0Btli45mWskt7KMd6w9dEWrVbj7M5ZMvRZOKDY94vaZsOyBmXuFM62AtQ66t5tKIsgHJHVflfng5NLK_",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115561097352468024333\">Monica C</a>"
+      ],
+      "photo_reference": "ATKogpd4tPxbPPGpl6ZKP_H32NLs6yloXaerV2c-QEDU8nAnndHY0VQEsBnbb4sPja5vv8TRdi3Cnbp55d1n-fIoPEKEmBm8vAcM_tG3kYgHbccl96tXWPBLPYkU2NUVLSoUD6YkkoX9MtAF5m77u-PCHL89q_tHpM96Io79wJ37Hfvooe3szuchnW9pZTBO5z0sQaKgMoEVwdlaFlO5hjy3VdoDG5ekKrCU8npYa7xepsCgojvBxlK1nZtpft5iPejLXJ4wspFPnoW7KvA6-VGez30f07E5qban2qOZxDag6Fe8hPMfrF3_KfC5By58Jg4391n0f5g-WBZ55O7j71W4JB5IKwt3WdZatAf_YbCvwif-mebAm47pAhz4Wf66Xv8_9TzeJB9EXt3pqm_a_0p6bLEkyRBfk3RpoK0i9D9OM4xZ9pKNd5IirMrzLhekLw",
+      "width": 3600
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114080505046244600696\">Kenneth Blanco</a>"
+      ],
+      "photo_reference": "ATKogpekQmbSLLSgenVoSC9RmrvWjWSCJAmDbzu-8vjdBGBdnGkqryb-aLlZk8hqF8qpWiDMMiWe_fJ-RQMQ7dA6DXTBclWK4OYq3Qw5ZdCJbRk7ihc3rlqgjCQ2QpMNrR-yGtJkR24eM7KRVfO8m1UeRbJR42bRVrQJ19NU5JLM1eaAy6Zod1A8QyJ5KNMIfYbFQE7nDMWipYHE_zYYecCffMHKcvuepYxXP2ovPlWqCS25jW1HwBYiWrmWZPbv0eUBNIS2i_IxsVEXcg-0_DR8ZbDdK3ZDDSdVvKttmbnxv1i_4lujfA0vdvikgaW01AQ_RWfj4iPw2t1jXMe9tzQJz_DTiSFCzmJ-1Uy7Z7j69xera_CFRVymUOv0ZobdoEbExF9kDKFF20xqqcWoooN_FJs6Ma2oKWbg89_hSBgEzBt37A",
+      "width": 4032
+    },
+    {
+      "height": 2661,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100804476589335081079\">Michael Ostergren</a>"
+      ],
+      "photo_reference": "ATKogpfbF2cQZeLJn0XK3VNSvxCBmXzZIlLGmE8XgKYvlbHRryxPmjv_fUW0nBBN-aKpAXqM31drrSb17X9IA5UKMh5YiQpJLw4hZM9mvlASi4tNAY5s5LiAQ09JSZdaQW2DDk8rQiAh6FCRWZL2d83dwZrrUsA7k6it-Wo4MAXTB62cAEPwy-pofmorJwxJlK7_FDFEsaaL1qJbrZrogTOiOq0iXUG3dUAGaobNvOfU1qEeq8epEB2rlzE5UEgD21jFOo66wwmllDJY6obpzsncQvaDjkU20vfYlsXXuwTnab4kKcEXQBPsNS3XYD1LTy7ssfC6nQ2Wa4Y-Jkkvdql7b7EoN97hplWKPyjwSxp7dZgL2ar3ksTml-Y5ghSN-a9N-wEPeTtZKbwSncbB6xw-94Izh8ONvrgSkS7llafBgwY7Y6CR",
+      "width": 2135
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105578363827305729409\">Bradley Ramirez</a>"
+      ],
+      "photo_reference": "ATKogpeYhgoxd1uLzuWNsCRpLqqxi7etYdOUXAs8ilkJcsOkC7A81D3bH5n5yurQCwU907tzE08tvAD7lnsetqRE3p-kt1IzFmyMGQhQlJ9SG3xPqmdOCiOExddlJkUqGkH3DlA70GjiGFDdukl3TscPsYCLH_cjxwGDExAdDIsG2CD02clBeFjR76R3JUhSBtWc6FcfdxWXY8gKUnREMHJhlvDaz1uxmXi0ZdF4_7oxBIbmx0qiQZk5Ezl__71Zq_YgxWkwkTyN1u0tdNVd7pvmiD4ksyzW42V6g8dp2yn_9KrVAvp-OlELNwrfY0DtBo1khyD3fDB7DAcnhlB02v5Pz_RDiGZUnPWrFFE2UZHFbJeGXNCL2jiyEM6T1HpvSX4FShLdJamoafssuQtjDm3Kp5EaHvZ1OrxbyAOUWyd-4vYwefmrV8QA3hb8IDSMbhmA",
+      "width": 4032
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103968552992207602405\">Daryl Williams</a>"
+      ],
+      "photo_reference": "ATKogpfVGsN30DUW7rXJ3kAaL8sChYwwZNZVP--JZO45TgA9VeiKZHvES0p890ASEltNe0sm8vQygtsSL2ywP2zueHTTuI8eC-Cs1vTQNhJqB_Dv6hB28AxHZ9PIQQr3HljafnuVB37rjcwrrwvep14QiGP6cSw9f43IU30RDWJPU10bS7AxXuTc2baAiXTBS6tqV2TCyvnU2hWVFkHWxGNRxzTdt9vvFZiXcN78WYIGquSght4bcsPR8dlMO9Y0X5upgD4BOvCXMON4a4c5oN91IIOC_H8wKOEbVLAFC9cZkYhr1P4JiITzIlFcYS-65uLBIj7sqeUSq8_aAa0acxuVui1FNxIaSDUukLpqqiupy52VqRwMMeRZZ9bBQjNGQ3iwMGMpvmw_RTECNwQuUocLGdmIStZayDAyejS2MBjl5qpYpqI",
+      "width": 3072
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108542330630066110085\">Andy Ip</a>"
+      ],
+      "photo_reference": "ATKogpepVMKfbsXemrxVDPSPUgv6SwgNNJ96sR4zRt9XskexxDNZ-ovEHJmhzrKpGhzYRqfzsGKrfCNOI5THq9jzBmtt8M21G4oFD_-2RUvAHV0vIg6bg4DyR_0JGEddPwyU5OhqTiaKuFEfdpYxd0rJkqg9k1M1E29IhKZXN0rX_A6yf23F-EZUSEGt3s0fljhD1AKOSIKSKXyx5Hr0NK7vwjVWP6CrI3WXrakWm-Ylgtl1M05xxwosWxEZviy7wHEFFtTOCU93V6f4nSXthAb6gAQmsl_EE8vjDPvLWdXjWOWu-TPTy0OKhXAvwN3ImW5G-HscMsvibzSLlQW15N3zxMKgF2L3jDx7ti1jwUkG6YKdLtahlvpbOIlz8iGtDVqTaP3ghgmh3dH09AUTPFShvD41t1ToAW1rR_Oh15UMn2-Xkw",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJt5zmDyj2wokRzdvzO4aq9Es",
+  "plus_code": {
+    "compound_code": "Q2VH+G5 New York, NY, USA",
+    "global_code": "87G8Q2VH+G5"
+  },
+  "price_level": 2,
+  "rating": 4.1,
+  "reference": "ChIJt5zmDyj2wokRzdvzO4aq9Es",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Daryl Williams",
+      "author_url": "https://www.google.com/maps/contrib/103968552992207602405/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdv1dFYqVJYXw5M1v_otm6bIVwJjUmmOin34U3N9srlKJvenX1=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "The food and drinks were good, but the serving sizes aren't big enough for the price tag.",
+      "time": 1744397408,
+      "translated": false
+    },
+    {
+      "author_name": "Drew",
+      "author_url": "https://www.google.com/maps/contrib/115617570104883461213/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVnCitqitLeRs3VomoUCvPAKp2vX7baj8JVFtCkdQOQ_YpIgbbwXg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "a week ago",
+      "text": "This restaurant is too pricey for the small portions served. The fried rice is an additional charge on top of your entr\u00e9e, making the overall cost of the meal sky-high. The atmosphere was loud, making the dining experience even less enjoyable. Two meals and two drinks ended up costing over $70. Additionally, a \"grade pending\" sign on the door indicates that they recently failed a health department inspection and are due for a new one soon. I do not recommend this restaurant.",
+      "time": 1750470717,
+      "translated": false
+    },
+    {
+      "author_name": "Des KF",
+      "author_url": "https://www.google.com/maps/contrib/112342706968952739677/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzq9IzMfV6Gcct707iDW1oVGIbAlB869Jk1lqJJGlNybT_kfrA=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "I met a friend at this restaurant for lunch. When I arrived I found parking on the street nearby. I walked in and was greeted and sat. We started with some drinks and I had the LIT and red wine which I enjoyed. For my meal, I had the lunch meal of the spicy shrimp, which was good. I just wish they had more shrimp. My friend had the shrimp and broccoli, which he liked. We enjoyed our time!",
+      "time": 1715529891,
+      "translated": false
+    },
+    {
+      "author_name": "raina",
+      "author_url": "https://www.google.com/maps/contrib/113162938518383930515/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUk0mmNIz78kgwLy6RgWiYiC_GAcDaQjS8EWiqHVjdAz3VjPrga=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 months ago",
+      "text": "I recently visited this establishment after discovering it on Yelp and was eager to try it out. We were greeted by our server, Rubio, who initially took our order politely. We ordered the #7 Beef Steak Tenderloin with mixed fried rice, which was listed on the menu for $13.95. The food arrived quickly, which we appreciated, especially since it was our first time dining here.\n\nHowever, upon receiving the check, we noticed that we were charged $29.95 for a different item that was not listed on the lunch menu. When we raised our concerns with the supervisor, they offered no assistance, and Rubio became argumentative, insisting the error was not his fault.\n\nThis experience was extremely frustrating and unprofessional. To make matters worse, we were asked for a tip despite receiving poor service.\n\nImportant Note: The prices listed on the menu do not match what is reflected on the final bill. Based on our experience, I would not recommend this place.",
+      "time": 1745699176,
+      "translated": false
+    },
+    {
+      "author_name": "Larry Keshinover",
+      "author_url": "https://www.google.com/maps/contrib/113149534780798797346/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJCldhC2MxTWwqbgSEp0XSxIPdzUa-53qaBcVEVOuvoRIOZ7w=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "2 weeks ago",
+      "text": "This place was once my favorite go to Chinese place. the wonton soup always had a strong broth with great taste, Now it is so water down with no taste, the broiled fish is half the size previously, salad and plantains were included with dinner now it is only one. The fish and fried rice were so oily, I felt I was in Exon gas station.\nWhen you cut corners on food and service, next stop is out of business sign.",
+      "time": 1749437795,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "meal_delivery",
+    "point_of_interest",
+    "food",
+    "restaurant",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5473186940670172109",
+  "user_ratings_total": 773,
+  "utc_offset": -240,
+  "vicinity": "2536 Broadway, New York"
+}

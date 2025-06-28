@@ -1,0 +1,440 @@
+{
+  "address_components": [
+    {
+      "long_name": "200",
+      "short_name": "200",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "1st Avenue",
+      "short_name": "1st Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10009",
+      "short_name": "10009",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">200 1st Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10009</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "special_days": [
+      {
+        "date": "2025-07-04",
+        "exceptional_hours": true
+      }
+    ],
+    "weekday_text": [
+      "Monday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Tuesday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Wednesday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Thursday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Friday: Closed",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Take-out window attached to Hearth restaurant offering a few kinds of sipping broths plus soups."
+  },
+  "formatted_address": "200 1st Ave, New York, NY 10009, USA",
+  "geometry": {
+    "location": {
+      "lat": 40.7300353,
+      "lng": -73.9832169
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.73144678029149,
+        "lng": -73.9819836697085
+      },
+      "southwest": {
+        "lat": 40.7287488197085,
+        "lng": -73.98468163029152
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "name": "Brodo - East Village",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1900"
+        },
+        "open": {
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1900"
+        },
+        "open": {
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1900"
+        },
+        "open": {
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1900"
+        },
+        "open": {
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1900"
+        },
+        "open": {
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1900"
+        },
+        "open": {
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1900"
+        },
+        "open": {
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Tuesday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Wednesday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Thursday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Friday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4720,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110625216435805471610\">Brodo - East Village</a>"
+      ],
+      "photo_reference": "ATKogpeYneRxFq75DWI_RYf-h8OLrrqK0psQ25J69yfP9iYg249Q3a_kCSEAMX6If5tfbMX7UJNaTpipdC1oi74_qM6jev1LZb8jHcoy-hpQI-EiOiPhwEnEt7j1RuCZKpy81U-TCsaAhKQ8f5Ooqw7F72mNfDkrkvwA7dtvcMTqzVFe8BO6RqwwgtlD9q28WX9_pLLgXzXLZ4Xv5jNbgRtFWHRmfWJGXx-D3FONrb0py8dE7907OL0oGed25j_x4kNsTb_YF20gksTWjY1LlSfvdaxX07lDvLfy_NiFrTWweJqo8w",
+      "width": 3150
+    },
+    {
+      "height": 3150,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110625216435805471610\">Brodo - East Village</a>"
+      ],
+      "photo_reference": "ATKogpfTx228Tjgbz4pxW3CK4oaSsvzin2aFXu2NeK4aUvvo51z_HrpNNkXmHqaOhagsuRbju3W3Bjgh6Hh7wF1-9n3Nun7b0Iuv4xM4yPMllmL5SDsb9PBgxqVejfBsTEPlc7_tzfumMJNoCAWT7MZ-b_Aj7GMkebEaSTh0CSxurffw4OHJXWD7vrf3yq7ONLp83jfj0mDbOyiyMri68JV0xnFEgliUpU52B15WFY20MWQ2nPD4TN73Qy2-AirHCEP9JNMnbQFuYTavQJjlbu0CQBchgewwZR2KR0xoyUW-Ow9A2w",
+      "width": 4720
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106859900339377667147\">kathy m</a>"
+      ],
+      "photo_reference": "ATKogpfZPOl6h40KjqbKVFN4Eog_9FZlbZmCWnQmXIgQUdXZGbg_l5i3ghD4h43kqEdQZWRsgXERHWbJBq3UCAR3sgdK-3eFAz2FGdu98ZSWESaREQbQBytIcoGc8p6lex8ahQNxjbp4UQlMKA-cH8_M2ii4iGZtw6MUjOVWwaA-LHkUx-aQtLgIht_W_mcLSm5cJkd8UjaFymfQK05npKxhgOUbq0uUXcr6ep2okTouLbbKVJaKS_ENJ0tilg1Om69fxKW1TJMNxqVC959ZiGKIB7axaL6llAh4F-Hh7SSqoPlGGPaDbi7JizIwl-wsavlUctpIdRgo795jkq3H6agE4oLYp__I1eyRKkcoID9mjumNLAyROHSEOStb8BArNBqGUKki3q1Fx0g36VruRqlA-NnpxS86WQvM_hRLTRhjoM27_u6P",
+      "width": 3600
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100648890124334458443\">Sophia Garrett</a>"
+      ],
+      "photo_reference": "ATKogpexQVmmP8Pnq2rptwzgn51RzUGzY5oO_6p1QYY7qI8VCnLdAcAgZigKtXl6R3r4iq37CE3TDdTTU8zBeI_e_y9NpFUPZyxzfyGIpl62lKRLgEgbGR9wJ6sBTkGSq6v3dx3enu4e1XFBCZMwaRYnQyRk6ySkBIQoixcvAJsXtKApXkR-6ky7jCqD6UHhjv1WzofMgeAnG5_95odwIXip4QjJUbvzjCpGW9jsmwSeh1_Lg_dpvbpjCGEnNYVn5Dd975xR8Xe78-DUcIi-HbZ_TT_a9-DxLBAtuxMRbKVAcUQLWkwYy5ERBT2JkLrUsLxj17f5qGXceXtHBzXiiTG4cNzXuRpNiVH1gn6YF76Y4CIIbJnNLNylNVWT69Y7OI03vPZ_A58a6wFzvCkOfyUIF_yYEShL-riGyaSZlNAtq7K0Zg",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113971966708616279579\">Angel Mont\u00fafar</a>"
+      ],
+      "photo_reference": "ATKogpdNQ4lq8eCk5h653nQEkj2f5KRvn3RuNmahuQNiLJ-LNqRP2CMQs5r_W9inpegmBxk_R2jVJ_7r30QdXUDg9liVmLKDG1f6HY0yH9U8TQZp7kbbTvIpRNNzyua0TiWCLXuWP7QTjLBYuv0QlxDVAaUKH0ypvQqjLhzmDyhA_IRAlswPOSsrf6GkoPwY7Eu82W1Sq4M0upkhtm0sz1J5JZorqs6FfeIZo55jdTmvGLjutZREwb69TpbFy1Uwky1srJO3M2avNfrkZj81fVqBSJQ_ltYcA0Yk-kLdOnfvPnG_LU9A17uKSQAHuI70O-Ddu6SkzF3vkpfrVjcHm4xeLK0q8sKP68v29zcih6lV-W8DP-ksuyZqrO6NsiCzMpOMslvODeimrFJ3yR5B48CAQGwy1zAa4VOHCic-XngBhyX1Ig",
+      "width": 3600
+    },
+    {
+      "height": 3264,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106538853586569670819\">Kai Yim</a>"
+      ],
+      "photo_reference": "ATKogpcsoNiwP_qKxssM1Bg4GTEe2SekK2zJ0Y1yWtdQGnnzfc6n-n3NC9lsphAI7_JxjvYCdJzSu0nO-Xb5vW6vAgAANJiqNCij0iYGMw55GbMvDCqP5Aw8STjsDvWc8Y0oOy6yQZTBOsKlZ2nRwZ10nZKnFI55Gh_X9ov87matPbFri9dwVFxCVBbkidcLd46YpqQuBB5XwtUenSPfCFxST5eyqhiTJdk3IOLJkSqNRq0w_BuXFNA919705ZcueSSrdbndQzfV8KQyISDea05C6etL9lif2dHTjGirALyJtnrRtCLcRhomVJpcof9L9YH1Smdk7_3KToQKt8a7ArVYHlVGwjK5E09NQyxx7W8mwwrAm33JpyiJM0sOUweL1as4w3HMp_38IcWK1LYOeuqO0ZWQr50i6EJ-Eb6y7cTIwEc4U88",
+      "width": 2448
+    },
+    {
+      "height": 4136,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105019534880625752954\">Evelyn Sokolowski</a>"
+      ],
+      "photo_reference": "ATKogpcBqxdNIGoasVQ8jGHPRMd9v4IfWT51ncBxcbkJ9xoF-qGGwvgiJ_GCfkB2zBLZxpYZpBANc8ua-NndQ4I-gQMAURjLnZ_TNK1lvKS94OOJU6CwSEg4e7d4pZICJE08HZtqeRoEnmjrt-m9x444ANfD3S77bxCMZskBZN6xIMCvI5IbDHO7xDb0U3FTZcojxhWtYx67zoU_1xYInh4CLKyzGcLfj90cnZefDxj8B2TOlApour2Dj0_SbW2pQoBXPCsnTm7sE8BquJD3kvwieYZVXhRvRGA3eBUHIMw2a9_BpIci-xXlV5UDApqLD6fy74lnkVd9F2Ckjue39spZ3NyXb2oeA207p4uRZXh4On7mTshnO1ODAnXln3fpHe6lpBPS6qF-DSHFSbACamfJHEJMuVKy5hQCmGPceHpz5l-nDxxM",
+      "width": 3539
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113971966708616279579\">Angel Mont\u00fafar</a>"
+      ],
+      "photo_reference": "ATKogpep0GxRvluI1L-N4JCWPuDRO3INotf14LZ44_Zh_2EaSPtZubuTmV9CrEyWAd04EFcuFriB2zdlt2GdhvEu6KLvyx5ivc657WOokA8myaTH-cPYIBvahfw8Lu30ybjUNv5YsNYhhzMU7ESWtHFzoW77PjeVVxRF6Y8jFu0IqD0jEmaXR3RwcXCfGqyDe6JhAvI-4Ttrw1ah3_2bvnSZtt9eYDiM44VzEtDuSqsmgA5daBIlhc8eJnmSvyu35ppC2MJ551m8nhdpUmrfa7okLrz2N4n-wPFuSaCoDsBbfaLoA59O0Dwplils71E7mYUq_YC0wsd6QXTVPGB9dvt-n0m6DpA50UQach7A3t3XV8eh2sr8jdQxvB6uyFNgQZMxwfGgTPdlLe8IpbX5FTTbRpqvyYoYolwZfaTA3I5jHb4Hluh2",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117808460219123378764\">Ruwan J.</a>"
+      ],
+      "photo_reference": "ATKogpciLJegtBBsAbp8Gmmt-M5jLmU7ho39BalT679wGL9Kbj3s5ciSznU1uUMpmDX9Aw0iWviyUurzoRYh1wWpqsjcptudfGf7hM2XkrUIuMOEuKO6aHUK2Jd-XLD94Shh7h9gWzRRgYHfvStaKBJszpwevnYixI3ni3vXWlK8wV9d_9GeTTYK4O096-MMLSeMiU9v_6aZ9MkE389w83zOuHShpUoOz29ovRASMdPdL9kM4CyAPAoEowRMcDccThvjkcMD-pTpL_yE6MbDFZI6yBTk_0cdoKydzWmnpS9Dsob_D9zn7gRRtnjLn9KZR29LrKDqFRsB-fclZApKgbDReYCmJ9WOH6c7sGRI-ffAFUYmNeyebERs-7Kh7EDXSIRA_WG-ROQ0pex03HqZSlLaaoIIvkgNALEaAUhnFJch-Y0",
+      "width": 3024
+    },
+    {
+      "height": 3264,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106538853586569670819\">Kai Yim</a>"
+      ],
+      "photo_reference": "ATKogpc1BwzHeJm8qyciMbfVPNkRwTUwYEPsxgpbKkPo0qA31Sct8QeWC9OG0aIICBdvd5Pa0emcU0MueW99ZdJkBy6kGCZeyhy6HNyHNX4gbRRlpuABJbauRTOWWf-LQ7bYEhhOb8Hjg07LCp1rE7blHA_lcrvZdphDZ56no0ByHo4XZJzJFZ4tFZ0A87L6pdf9gV1bcN2rOjv7Ez0y9y_MIjCPgFhsVpUzSFG5g3Tgg36bQ7mkAIpFIZ57RouxhQ8ZkV5uLD_wicFhJB-Qj3X-aD12KmFjAckMmnhp08d3wl2XyHp8f4H6hfXxiftvra8U7mJiauDgPnlmZ-nIxLJ2DqXZcg8dztx13ypwsEoK8KyFdcJgeSKvIyiRHPA3QP8MkHBa6_NTOtz2wgjWaARFkH8ypvxTqjXMAKIWa6bSULYLO292",
+      "width": 2448
+    }
+  ],
+  "place_id": "ChIJJfnw-51ZwokRBvuXgU0uhMo",
+  "plus_code": {
+    "compound_code": "P2J8+2P New York, NY, USA",
+    "global_code": "87G8P2J8+2P"
+  },
+  "price_level": 1,
+  "rating": 4.7,
+  "reference": "ChIJJfnw-51ZwokRBvuXgU0uhMo",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "kathy m",
+      "author_url": "https://www.google.com/maps/contrib/106859900339377667147/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGA5xCztFBXGF6cmE5ElnS33AUuo84nkbGBcoxdHI-KsHyrKBp=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "The best bone broth and service. I went to brodo 2 weeks ago and ordered the mushroom chicken broth. After i walking away a bird  decided to $hi-t right on my arm. I walked back to get some napkins and the lady working gave me a wipe, sanitizer and a new cup of broth. I was traveling and always make sure i go to Brodo when I\u2019m in New York. They have the best broth and best service. I will be back!",
+      "time": 1750091650,
+      "translated": false
+    },
+    {
+      "author_name": "Angel Mont\u00fafar",
+      "author_url": "https://www.google.com/maps/contrib/113971966708616279579/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZ9DlrgQaYHxPCayeVuzfVToLHFiZFoJms8C0k9Abx9F5a1g_5=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "8 months ago",
+      "text": "What a great concept! And they\u2019ve really figured it out. Look at that amazing menu with options for everyone! Get a cup of broth to go?! You kidding me? That\u2019s dope!\n\nGive me all of it! We chose an interesting flavor. It wasn\u2019t bad, it just wasn\u2019t for us! We wish we would have started with a classic broth first.\n\nWe thought it was different batches that had been cooked with the add ons. But it\u2019s the 4 broths they have as a base, and then they add the stuff to it. A little too grainy for us, want to come again and keep it simple!",
+      "time": 1729980458,
+      "translated": false
+    },
+    {
+      "author_name": "Sophia Garrett",
+      "author_url": "https://www.google.com/maps/contrib/100648890124334458443/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrMAG3d_iKWIdLKByJ3-oVXz2OYbXSmkX4idKehATELtRkyPYd=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "A friend raved about this place, so we made the trek across town to see what the fuss was about. It\u2019s a simple spot with just a window for ordering, but the draw is undeniable. Their bone broth is legendary \u2013 truly the best I\u2019ve have had. The menu boasts an overwhelming variety of options, making it tough to choose. We finally settled on the Tom Yum and Oishi Oishi, and both arrived quickly and piping hot. Simply delicious. A must-visit for Bone Broth enthusiasts!",
+      "time": 1735974475,
+      "translated": false
+    },
+    {
+      "author_name": "Evelyn Sokolowski",
+      "author_url": "https://www.google.com/maps/contrib/105019534880625752954/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVFo9o-ub-EVigpeMUCTUKLcS2bXYs0zUoldGNMU2fC9PDPF_di=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Simple takeout restaurant with a nice variety of options for your souping needs! The serving time was very fast as well. Definitely a great choice when you want something quick, simple, and delicious!\n\nI had the Salt of the Sea with chicken bone broth. Such a tasty option!",
+      "time": 1713052219,
+      "translated": false
+    },
+    {
+      "author_name": "Kevin Smith",
+      "author_url": "https://www.google.com/maps/contrib/102852759424150911337/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKE2MCYaz0JOttDkQTd2RCdEEtbAJeqrM6-mom8dS1-enWu_Y=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "4 months ago",
+      "text": "Got 2 soups, both were oversalted and a bit too watery. Neither had a strong flavor and were so blended that you don\u2019t get any recognizable hunks of ingredients - just a homogenous liquid that doesn\u2019t end up tasting like much. Insane for $12",
+      "time": 1739387767,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "meal_takeaway",
+    "establishment",
+    "food",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=14592839603008830214",
+  "user_ratings_total": 144,
+  "utc_offset": -240,
+  "vicinity": "200 1st Ave, New York",
+  "website": "http://brodo.com/"
+}

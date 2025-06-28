@@ -1,0 +1,435 @@
+{
+  "address_components": [
+    {
+      "long_name": "24-17",
+      "short_name": "24-17",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Jackson Avenue",
+      "short_name": "Jackson Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Long Island City",
+      "short_name": "LIC",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality",
+        "political",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11101",
+      "short_name": "11101",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">24-17 Jackson Ave</span>, <span class=\"locality\">Long Island City</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11101</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "formatted_address": "24-17 Jackson Ave, Long Island City, NY 11101, USA",
+  "formatted_phone_number": "(929) 510-7004",
+  "geometry": {
+    "location": {
+      "lat": 40.7487421,
+      "lng": -73.9385217
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.75000593029151,
+        "lng": -73.9371468697085
+      },
+      "southwest": {
+        "lat": 40.74730796970851,
+        "lng": -73.9398448302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 929-510-7004",
+  "name": "Soft Swerve - JACX&CO",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106870497913545318446\">Lalotoshi</a>"
+      ],
+      "photo_reference": "ATKogpceqXxJbZKkWEBynUcwGYFLfBAdbe_ezXRIN36Kqj5KoVCPK1tE0W8czDZ7ZJqd1uRqcsbzXZoGKPJzHaoHrulVsZODF5fhq4xifvfH5A4qwp4kNR9aZP-yKeYJybaiKdqobo99SFpKmKUA8UacnIVfdYCUFYkHa0u-UdmZsLcs3zowu0a1V_UCHL69ae8sxznG4ZdMAcXZJXlJhMhHg3Ks_EMIXjtkyoYaf0-G_mLhelTn9OVuMFEhw3Oo_RIVM5bvQqgBQXIa70lmJLnyvWy6zdHYcQXneU1xs2kQzl7dNE5WC62vEEhZ9OHduoNG8vsLZGPmJsCgIVO_0w7q_dzpA20O36exAOKmUVoTvvPRW0Hjcqf5U1fM4S2elzwqVv3bC4en4NRIxqSlOJZ7UaFywobAETY8nFHcSYj28xEnTbW9",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113351621973480314878\">Justice</a>"
+      ],
+      "photo_reference": "ATKogpeWdplYvAjAdviTso5tB6UNOt9I_PqU9vp0Qf13B8tQaz305SfK2_u94ug4_jdyefk20L58KMuvg2Ppiu4246leP43gPMyj1QiUCvP66J8jrL5xxANp3hm_ix2RyDFDfHQyD1hcIvmdo6WuucjlaBR_s1fseNLIDHoAAOfhNkZ3ITwNstJG9AHmHbWjP2IMOJiImVl5yJw7uQ20_Dommh2kcFRiUSB2WkTRpfH29ezq8YnGcV7x-RzVBUGVhJjj4J1AbarRG58_sMzjW_41AYKVd16s6y-s5Y7kueZ_SaQsUfVV_PRn2r1dszMHRXTwIZxZvI_h9yo7htfUFfBvMiBRcVVspSdbeYnm_8RpveEqO31aAlv2xNufNJpozWO2FB0Q5VwgPj-BBpHa9nuKo1t6hPZF96ZDtKAv1WB9CqaQ_v_A",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113351621973480314878\">Justice</a>"
+      ],
+      "photo_reference": "ATKogpc_U__zLc58DAi_NdaLsV-A21O3w6QrdiXQeypHz-gWnbURra1mf30ih6exPqZPziPuPBEnPUPJZ_5pEkPUrOA34zCmx-sQm2A00rfR3G0j2XYlPlmKymoryPDcyJpIgCm5E5oKEbSzjxZZUydTeL4wJiM64KUlfq-_rN14-zfchoilFP1hMNhZy6HuXiAfNa4nHQDwmqPtj5dT2OaEl8jxI4qfQhugqD2H8blVHgBRYNwte5wJeHwb-QNGmiZMr8wO7txP4z8EfTaPy3D_9dgM9QWCkdc6r1btUmyZPo2HILA8VpTpbFKs0mbo-EP1h4J_6P4TT_PZItyT9hesVHzmgkdsCwMbgh8UmvlO5VC7tR8Ufjk2KnIbJhbQyxzTkffK14_XC7tNPi5gTfzAK5p_752LjXrSAUFyYISPzCs",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102306067075913428677\">Priscilla Cen</a>"
+      ],
+      "photo_reference": "ATKogpft_uISkfk8ZYzqUStZCxWyEaAyqlEnkjBryCXY38LmLHWgxb68LP44NuGHNttTlqzjSp86XfhnT3yCORrDm36zHGmSA3PEUL_h7FNAEjK3V4figvozez7E8raQeVdDn2QuS6wRCkcr0LkbL9GpiJejvzxEu8XGG3w7By-tLUdVlF2glNAoSxHiLDY3CipWwE9EVloW1WbT6Cr7A2bmPfMHJEnrAZ-7VF8FFxLDWw5GJb7sXyQ2PqdytIAMoXSfskM_Jd9DzZ9IRV76MkHdsSpJJa-AkvzD2uXHAtVlhnCUfKBjaZV_PUbr3DZrnzUldgNdlhWgNRo-3zX1YocWlBLogcPMq2dE-JkERDqP43UiNvHcj81gsBKl9JeyATUdQl3ROXVWHNmYmkEy7cUJELblaVwPuTphUVPdExyfiJw",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105762505102258249898\">Kalpa Taru</a>"
+      ],
+      "photo_reference": "ATKogpf9sYXYAoRERl8TzIBHBt0UXGyMH-twe5KmRl37FDr3-0An6VpAwdLOdskF2JpPz6yWI2CW4ekCVNcoXiLXcqOBopGnaGErb6dhGedF2Xrm_bEKJxKWgnzRSoTdnl79LIbhE1EXF5njZjVPItcEkKEMEmnC0xyPRn30asnu_3l7578GUBcPQMTE1368WfVwsvQguYuWE8WzpW5zX0hHxoDlO6JY3IyGTs04Pkmj7e1qm4WPO1DjeL9Fdzf3tAH10nHPne0sd6HwejrFcMe-eOBmjORUnARGcS6DEER64l46eB5loRAJRw2Hp-kh45O5yHNmK3WlGwEO_VNC7ir5MnDjcHhCBcXBYPRnpaq_7GOqVnK7gNlWvG9_5TvFySZ_l2fOhujVk7Xax8BYJsgHtuq57jQYdV6sATVcLR0Ca4L9zn76c0e3klxsCWCPKg",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105394177073279234953\">Paul Padua</a>"
+      ],
+      "photo_reference": "ATKogpcvxiKq1Y2OWEDSw8C3UCMNo0ayt3zhcaZqhgJfmvmHE0RWGmpBtOOynvWj4Zp-nIAAJwVNgqv81kDBj1hDFwaVenzAFNkhyLS6-ACZvHR-Vi6JiwMUJvNJdPhHQOjTtG4rHUeQax2o97q7SoY1s1YXZTGYfkkGp5rGJHcfTg1vbhCwgSGs2BeD8lsZIgXAPzjfZRcyWHW0PZlHYEJgt8ua4hmKl9grJLnR5MoDiYwi7IxwPztvynZZqyQqxxC3n2e7Vzj-OYdlPBYq532qniYPNNLm9GJq5kbAV9dTmakJk9JwMLRpnRtrqSPuuAjKNqPrNhYTV3qDkE2L5C6G155wzvhV661WUsPC0WtEtn2gsUomHKpQF2Jj3Jf3nqwwBu4FaW3RqB9nVoz3nSmkPDqFwmUVE8h8PK0RORA",
+      "width": 2268
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113351621973480314878\">Justice</a>"
+      ],
+      "photo_reference": "ATKogpcp6HeiVuuVsleF2GWYy9afPJoeT-_b_n8uq-H5Wzhx2DhhVERFSrQJO8pSLzbkkdMBZy6tvAuuIWbTANcF4QDMC56r_vWc7leKMEMBc7rk0LkSx5XsTb6tj5WXQmnkKVVMnDctvMO5xEcGIay1ffEiLIYBtPKLTNzrzyuehAULthuIyviA_ORnFdIiPhl2yHXLTnT8tofTqYmCXst08l6zTnXhub211a5o-plJ9UvapV3ycF59iQN1UlDnJaGw7KYa7xyZPRorev33fO1m7gg-Bb92y8uj42mAGp66vEEcZKJA0YkAgK5u0ZRkSQs1cgKhp1RqtGUKs5H96V-0IAdUSyB0P_QKyrLZnrjMe_9F_Jv08x-E4xayzo0MCOfsrkQcSC3njQRL1-fA6raTXYU612aRG5g5W6GpsRv16QO7wg",
+      "width": 4032
+    },
+    {
+      "height": 3988,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108963987083729898053\">V C</a>"
+      ],
+      "photo_reference": "ATKogpdZqoqgKJajptp7rJVkXErK3TgyhiMLEBetIhFSOgG2h_O7OgRApqL4Aa-5ftQqqqJYR-W2BOF9DLBkmqpDCtSJM7pE5EW7pq2Uz0AT1aHrRFscur3j3u10k50W9a7BHhYgwaBkO-9C9mfMYq9UUd_lfFhMjPXMH8ZO7uJwiDeJEIaFiK_sVe3LdVD1lS9wmdPqmJeHFVlUF6buEDRv2TKw7ly685ndThFcghlvwjDZ5FqK1TWKt-IMYLxALGgPDUnamw0mZoFVs-32XHch0DeK0-mAZ0TBzsKKkRWyUKaYuygUWFU4adEky_VcHanMt7mJVPOpo_N6yd5Xn1oMDbTJaXVj6dwwJpzVyHVRXytYmR7xr-Z66FSE4QJ2cASqZa1sfxJebSbms9KPMSb9NCcB0nAFc0EY4KbyBGnqbuzQIuTW-mfxO64uOyXld18O",
+      "width": 2279
+    },
+    {
+      "height": 2208,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114157218962138792616\">Ava Janzen</a>"
+      ],
+      "photo_reference": "ATKogpeg3-4kGXBnGbrs0OoQPpw04SBV5mm4czAYzvEBfOesmfwgI0wR4T69tZYzY3QeZhTIKuNQF02nGThfIF5rIHZzDgAviC860IEVbyqTLDPD-HT6RYuGUz8jBtrO7NSEttP24Q-InuTKKSon7f6OBX8cEwMkMPWU7GpgtcGVHsLQ_xMxeBq__a9sg8fxJYpzcSL33Bihvvuc96WwI1YvavwRZLG_giXrNypE_tqOIJCkMlcfzTUuZQECmAtu6oKW4KNR93vWtmdACvR3oAzuZ7YUghZU7Wd5lFzN1-3xdgtTmzMp2xlDo2ZuiKhbGhM7n4AegtxP897jrtnrHNKvrNWpvXgcrDQ2NoL1-u6vRF8V4WXITj9oq9uwVjOEnbACIbAMOmSuuNh6QfSD1m7sb_CSC-HbPoSzJDf-tYe18f2XMAgh",
+      "width": 1242
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108116981929333946187\">Kevin Chin</a>"
+      ],
+      "photo_reference": "ATKogpc6-_n14FO7kF370ODDDz2lXFqapeT3rjTc3SngwFxBRFg3azSu3g2C_gGtD8dNjFDeOks-OjLseXGR5YAjkImFijsDo7g6S7roa_N4w0TenPFUsWio4DWTDubsfYGiI0Vj72ZgzJGEV993-LI4ZGUaD1dUnE7fi6CON_2W2ziCkJKFBwhEAvmmmrVU9icAW_atrZzT7ARJYIRSJV02h2BBQ89t6d-DqgqT7Ewaq3EY3qvHfh3qgHkjzJSnOXqeRbwUIh9rbGAdpyTmLiEsVQbMHdHO5TdNPNSKe1rsji1BqnbrpecHOYZfp-jF0LXlN7mzx-20fvGH3WhUt24N61IFTFcZFMsuWIg4BeV37_OlzCyA4Gb7Dwj15uMNhEAZoTeX4v2kZH8byGoKw2NBlprha2lsaJl269gA-s-_fbBzx-6sM3-L3RGPVEcoXqc1",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJgYtwrptZwokRPbYGVz1NRSw",
+  "plus_code": {
+    "compound_code": "P3X6+FH Long Island City, Queens, NY, USA",
+    "global_code": "87G8P3X6+FH"
+  },
+  "rating": 4.1,
+  "reference": "ChIJgYtwrptZwokRPbYGVz1NRSw",
+  "reviews": [
+    {
+      "author_name": "Kalpa Taru",
+      "author_url": "https://www.google.com/maps/contrib/105762505102258249898/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU41L1RJssy1Q3CYkuGul0YytkmYFbN6g2FXFitSWDfS2wkDKpF=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "The ice cream was really good on a hot summer day. Nice food court to sit and enjoy. Nice young hep crowd with pizzeria, oriental food, bar and other eatery in the food court.",
+      "time": 1750696559,
+      "translated": false
+    },
+    {
+      "author_name": "David Romero",
+      "author_url": "https://www.google.com/maps/contrib/107733672979730165279/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8dE6n8L1ue_KMqVreHM9m0YLfsxx7MV2ThX1uI1kgT-N0nQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Ice cream was creamy yet refreshing. It has an addicting flavor that\u2019s hard to find. The staff was friendly and pleasant. I would recommend anyone to go out of their way for this spot.",
+      "time": 1749660864,
+      "translated": false
+    },
+    {
+      "author_name": "Jean Huang",
+      "author_url": "https://www.google.com/maps/contrib/112632793278337166573/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKa2O1s5PoxYf0wTDK1mZ4W3zC9Rff9Hnx2EuloPMc5idn2lg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Really good and creamy ice-cream. The workers are also very friendly and nice. They let you sample any flavors you want too. Would definely come back for that ube next time.",
+      "time": 1747956956,
+      "translated": false
+    },
+    {
+      "author_name": "Paul Padua",
+      "author_url": "https://www.google.com/maps/contrib/105394177073279234953/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXnRJPxvaVxOV1PRlvqS9SUHOK6PjgwaEWhGbcFiKTKE4MK4Wn0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Super excited to have another soft swerve in queens! Really happy they have vegan options too (lactose intolerant lol). Tried their new mango coconut sorbet. Got some mochi and fruity pebbles on the side cause my friend wanted and the sorbet was already sweet enough for me but overall not bad",
+      "time": 1747957539,
+      "translated": false
+    },
+    {
+      "author_name": "Justice",
+      "author_url": "https://www.google.com/maps/contrib/113351621973480314878/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK4EM_cs__kBOKJPcXHpD_Nn7_VBopr0yLzX6qOfglputCIOtht=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Lots of variety of yummy flavours.\nThe ice cream here is simply the best. 10/10",
+      "time": 1747247960,
+      "translated": false
+    }
+  ],
+  "types": [
+    "store",
+    "establishment",
+    "point_of_interest",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=3190040836910265917",
+  "user_ratings_total": 31,
+  "utc_offset": -240,
+  "vicinity": "24-17 Jackson Ave, Long Island City",
+  "website": "https://softswervenyc.com/"
+}

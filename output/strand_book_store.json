@@ -1,0 +1,444 @@
+{
+  "address_components": [
+    {
+      "long_name": "828",
+      "short_name": "828",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Broadway",
+      "short_name": "Broadway",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10003",
+      "short_name": "10003",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">828 Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10003</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Landmark shop specializing in new, used & rare books from philosophy to finance, plus bookish gifts."
+  },
+  "formatted_address": "828 Broadway, New York, NY 10003, USA",
+  "formatted_phone_number": "(212) 473-1452",
+  "geometry": {
+    "location": {
+      "lat": 40.73325150000001,
+      "lng": -73.99095319999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7345956802915,
+        "lng": -73.98967456970848
+      },
+      "southwest": {
+        "lat": 40.7318977197085,
+        "lng": -73.99237253029149
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+  "icon_background_color": "#4B96F3",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+  "international_phone_number": "+1 212-473-1452",
+  "name": "Strand Book Store",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117808460219123378764\">Ruwan J.</a>"
+      ],
+      "photo_reference": "ATKogpcLNJ5jxia5X6o-7aG4APKNJc7b54v3oQydlmETWA_7L8oIcHAWpiBLdB27qg4TujXk-B40u8KldXVoIYU7Zdk5xl23wSKvE7Bx_Av--ElJC3CdXOBSOyyTpdvQAI5FzOTYdk3TKcrqnksNirNOz0zTkZim_u-HeDIme2Cvvlsthx9JQThQkXAAPwl7kLTBqng9D7XCiWZ2X7g49czzC1jGpagYlGELrFMZ9x1mQazjrDa3YGwWSXEWdLAOb3q3XM9Anyxt2VGAQFJdom7OYE7OFBHm5aH1XuA1lY_z0mrpWdN2CaEoX2fJUBzJlVDT2bSq1L5mx1umGRW7kR9WoSbAf4MI1E8yDsPeC7Ez3S52GN6HKwTiFY0Va0z1qcDqYJeN2pzyXW_O-aAEaVMhZG9_PgtADHc6onJd5hJPWsru8uo",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108527562114361389982\">Ambient Walking</a>"
+      ],
+      "photo_reference": "ATKogpf8iUbD4ed9RxxOTpQYob28SYzGh9SsdcD-pHTK43Aruo3ngbO1jO1PYgEJuDqi6bscrMpPNFJjwF5RTwE162M4Jdjrkv1SPRR2jOMHAHofH1NlBsMToRC3cYdFj8aPcdneLAO6a2X9VhwEyIxsbxfKoYFfi55tzyQBkIZqUEVVFzYuTIgSmUSx3RnscftW2AiASdDsnU7Ke2iFG2KCsidmPty3l8goj6oUGan0Uj2h9LPqZ-hZ1KIKKGMVculxdqw4wslcA5fc9ZfUbDn1HvNXcpeQNdhoSeraRGCegV0bLXrv4co60EGgEyudTOb8CEsZLRenCA2X6Xu_2E2w-4sB6gMCVJdksmMg6qzhcm_kAECuWDsbKLa3yZqszTCfshxzwJn3h-wsyitxJOFeJxhTJWFjd06dmbQ-AarxN3l_E6zo",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106163909367571547509\">Alper Ekmek\u00e7i</a>"
+      ],
+      "photo_reference": "ATKogpfEYolC8Ogo5MRCwV8FTy3oQL1BAxvkcXe6VQnkuH9Rca4VgtsphnoSBxTTQsPj6ZZXXQNXUbk1DLD1b98eQ7J6xf59dQcgr6uUNqKSMxk27BbDqWwbj04lUI4ooaDIrTNeE_xF05UmO_GwukbtIiAGC7CDRjdZv6BigcYfSEgkgU5a_AEMlPjAsEvcfvYkJtrEmavbb2s8KQLULdSFbr93kN62VwhQNhTbXcsG4-sx6I6FVuyMBY_qOv2ayaRutDJLBAQc-C3tiYl32cto8lH8WKGs7JL8S2lChnt2SvzZYV4HhEiqEe21En2v0Vsjxm3mOZdgi8Is2T_D9d7WckbSMwiT6HyP5CKgK2twih7PsHVNb1sEr9VzKrROptfrlEup6yx6dDRfQQUFOZOTXFMFWNMe5x-d5LX8vvtEFD-92LE",
+      "width": 4032
+    },
+    {
+      "height": 1727,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103068590416581777164\">Lisa Bellak</a>"
+      ],
+      "photo_reference": "ATKogpc7iV2P59kmHWQcGwRnZtlOMs6QXS6FnvsScBUJaLZjv17Tbup6jPA_55bvbab8Ssc1KTTbS8TLEd29SkaM9p9uhvHjMQqqL9cQmnbhpbeElduUr-aWZxsI0t18htjDGRWiEjdzVLJPL7LwVXBp8p-u9DBiO__oRJm15nOOtxfpqHsecVrXCM3D0a0OaVIg36N7_x82GTnkxPZTIBVLFm9j_eP3rY2qp1v4pG3fCoiQdBboODCu0muTyIGePCJ2C8g-2Q-rAoRCCpjuFziUtPav3ATWRgAgjMgLvDDCRzSM_b9IhhlSZBgdoEAd3sZfb6gBDNx6DDr_ZsWKMgvXk77dMsRg8hven-fvPoZLYttqBzlzwAMUXlUioYLg-nUOfXCR5Mcbgq6TmtIWYurh18pT_Nu6bJvU1ZfyZj3VOROFVA",
+      "width": 1440
+    },
+    {
+      "height": 1944,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110970249038240918011\">David Empey</a>"
+      ],
+      "photo_reference": "ATKogpd2Xy2CULXprX73ZTcI-0OFvUhDkJn57I51lT3iAgmW2z7S7OQwf6X3obvPRQ4MGBuhAEpiTag9WxWbGKdNR6LK31gPosLXTxmXnUtNvGQgwj0_tvR9wjWSKD6sE8IzTfolcvZ9qXgJ2HjredFjhosVbgdZxCFkgJCmghU0xGKODJbkqGU3UOoEH2a4Y_mHvIGijwi40Lm5VI8jCBUXjjgjkWV5t-2Q25Jy8SxRc-W0TfSu7yJtd9ZUUCVmYA_dHmv_Xg9cD3dLkrmMsi0rigvN0txv8pNxJmynNXNiVf3BOtfVjtU-ZMhkyAlt-zQ0t0Uvbbs0jzhf36x5W03Htw9g3h19ZTGVJoukyqws0YJ3k9TcZwf-mrcDoPBTeIu25Nautut3Hil1SqlT_oziWUWeVcOwvcs4k1KvoBp0GZCsqQ",
+      "width": 2592
+    },
+    {
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110522914481815771884\">LUNA T</a>"
+      ],
+      "photo_reference": "ATKogpd-mxUQYfvzNLbiFmzQMvs2j_GiMU4CM9qkTUwsF6w8q0kk7MIn_qXkkqGFZE_uGkMwevFa-Udw8qKcgr35rIi9rYq6XLRSsCeSBnzRyfOQbWdth7U9kY35REWDohJSrvKJ0d_8zKOH_zTB1Db_5vnREqJeoID0uZRT6L1JVTcZnoxitOwFCFOqBirmEWc0LQiWkESBOTTdVLFlERUSS16GdzIKszly3DdKIcNE6EjGk7LVQGhmTcBWAmBfNUlU4PWYDImsIHERbyW5fOZimnzVyVZXncXdKVHuPd2TPE2Ga440Ziu6AkKKB2nYrywsKkyofLo71Aqq6PKPp20mIrNp-HUfLveZXUi9hlxU5EZyBskN1QYuSctryTI6avOGVkpfutD_EDZXWdy32J_QqsqvWLrKwycJN0kbbINS_Xk",
+      "width": 1440
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103365869787954635804\">Arno Klein</a>"
+      ],
+      "photo_reference": "ATKogpfZISNns9PCy-ONBNWGPVwG3U8gTLeLNVYxu6x_F_Kkb0mqh_Q-w3m2uBfnn-SHFYstu728DDmqnnO9AkoC_sgS2JGlJmCCfSMt6QZUkcbCkdNCyrd4lAApSk9-ovNfAGF68TtmbCZBDGAVDG0ZxUdm9gJZ8GKtT2ENMRJdOfX78lLnT7p7_PlLxLV-ZYvoo86ii9eY2KwYBJWy3annCge39s9Er5YlTTSdMz-XAsYrXcSl5w0vGPixK5T4fUsZa03FIqdmm0__mAQbnZsIVMWAyQ_yxJUOfu4Y4vCCzEWX6u-BAgSx1YitfzHW5VpS5E-3ongxpURAPR2p-jgtg1ntEFOpnLuPQmZ3r3bzvCvtjnKUld4grq4ZtisTjJp1lidRMq7zbLqE3GHAMKEDnJOaCEFkNYOvDcxQ4GuRD7AabA",
+      "width": 4032
+    },
+    {
+      "height": 1440,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111981795705498544975\">Bea Morales</a>"
+      ],
+      "photo_reference": "ATKogpf5j74OBvzgyZodbUziK_C2MiWJN7yZwtkVPtMcLClCbxzmTWR5Ftcelc6nMTF1i-CsXWsPDO_xy1foqlcz-BFqGV7CY7I_s2aGru17jEQe6TiW7kN_-cFTxP760UTh5hClljXjTARTHvpzVbbnuqLmd8g9LoEQeIA8Oy3x20rjbsal99cJNn-9L_vOFjbS33dB-a566FZArbeXpwK7aaUFSX6kKXuMkh4WRljfAZra_uyuN6J57q-ehdnINeUdm4Wyn_QCy6vFvIKDo33BPiYBM07gi09zeccV3JSl8gAlvb9SC0G6-rYHoHnNPXklGMJTl7Na7EmZ2Q1erny-oYoGEqwzpGSBEXhHStoFPEFCiQaSABEa66Rw8iBtCIn7_lxeOycxIlxVVxR_LIK_gw05ziv7VGFk7QpEmcYeRTM",
+      "width": 1440
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107503863012802240064\">Philip Antoniades</a>"
+      ],
+      "photo_reference": "ATKogpfCbxLVGmyczrURCKt0bmcZsiQzlxOHIwgycAfifcK08xPu78fQACyqvqLqKUEKtWYkvoqzrHiDuIC47z1D_jk2OxCE2bk_R7ix7xXZLBbyMwujF4fucgGgdltABPgGdVp6ZI-MR8pLIsoUC_DVZPNxu4v6QgmlKAkPrXwR39nMBXevBhf3bknFlTzOazTo9ov7uyeK3QqPppxLCnNztly7xPyGjkYonFsWrPR4A2Eq_Sy3BPl3GFtqLPZE49Vzwn_QSCCOCAGBBIBBsnJXV1U5xIxSC_tDj_JpWCoFfEuDAoZYe3qfbKqm8j5bMITbpKbYXZGXqNnS8yZsHGPq6CAkFYWkz0H86SlmwzAh1txctJhrKKPlVBHvS6fOdhsp_TLbw1gLnb5WAoRo6MJ50NNaRpZp75QsBWjy8CVVh4HWFQ",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111081452633910337406\">summers Wang</a>"
+      ],
+      "photo_reference": "ATKogpdC0wCOihQgjEuZ58JssNXirB6ojIPShJqq0hHjZeF7vpdurd97hhxepTDvXxYp9j9TEBNnwExp9mwjomBo4W-aM5VCk13iARhrDjEyoLd9knROM-sQp0_YtLec9OXHm8xFH2L374JS6h-49znGuIccZQKFrIAQRJjUmo0L7qiJB6--l-LeK_0N9KiMD4ry5dye-nIemCo4y5oKqVBmg6McCsEcla3SXPymcTtlPC2PZiLJV5wUu-wTVijJ1W15sR1JSMbWlpjuqYVo8Nt39a68zDPteVsoljHdU5S3S3Mk79z2ibvF6FYKE4RSWCLWs_pP3biD0f5JvkKIenseUKG6dyHE8WSvBbNRGSPvTAYwqnNeQtXn0eiJJ4WiZuNHbOjlp2cDIY_daGcEQczILsY8jZJsJkXvH8acMvoYikw",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJnSKGEJlZwokRQIpiCvzKzV4",
+  "plus_code": {
+    "compound_code": "P2M5+8J New York, NY, USA",
+    "global_code": "87G8P2M5+8J"
+  },
+  "price_level": 2,
+  "rating": 4.8,
+  "reference": "ChIJnSKGEJlZwokRQIpiCvzKzV4",
+  "reviews": [
+    {
+      "author_name": "Jonathan Galeno",
+      "author_url": "https://www.google.com/maps/contrib/111408686257607855742/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUV2ddAI7BGs3sWXsnZbIvfPTd2cil-0tpkDskudx2zQz9bseyF=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Amazing bookstore, very helpful staff. An incredible selection, and i love when bookstores have employee recommendation sections, it gives character, and you can usually find some great books you normally wouldn't pick up. They also have a rare book room, which i love to look at as well.",
+      "time": 1749826028,
+      "translated": false
+    },
+    {
+      "author_name": "Amy Kang",
+      "author_url": "https://www.google.com/maps/contrib/109351341474089583290/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQ3gj4PrgPmWXv8rcCWar76zpAr1T_B_aZ3wj2j0e88f7J6PTz=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "The best bookstore in NYC!\nI\u2019ve never realized how fun this bookstore was.\nMy daughter took us here after dinner in the city and I didn\u2019t want to go home.\n\nI particularly loved the second floor where they had rare books and photography books.\nPrice was reasonable for unique books and they have books that other bookstores do not carry.\nI bought an Edward Hopper book and few others big art books. Their selection of books in every genre was impressive!\nCan\u2019t wait to come back and spend a whole day here in a near future.",
+      "time": 1748916990,
+      "translated": false
+    },
+    {
+      "author_name": "Cheryl Marquez",
+      "author_url": "https://www.google.com/maps/contrib/105367546295916010021/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWe784Ifqq_0xJ5jyS990WILclAFf-oIvZiJoCSwq7ug0_6HbdL5g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Brought out of town guests to The Strand to pick out a book club book, the experience didn\u2019t disappoint.\n\nBLIND DATE WITH A BOOK\nExcited to see that Blind Dates with a Book are available. Great way to buy gifts for friends.\n\nSPECIAL EDITION\nI picked up a special edition book for my summer read that\u2019s set in NYC, I loved the sprayed edges and the map of NYC.",
+      "time": 1748009942,
+      "translated": false
+    },
+    {
+      "author_name": "Kimberly Lim Legaspi",
+      "author_url": "https://www.google.com/maps/contrib/110969829192883999185/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDN8AaTceigxyoA1WK_-DLIkaO4b_sGYc-xIqaXyArKsBFEZPw8g=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "If there\u2019s one place in New York City that feels like a treasure trove for book lovers, it\u2019s Strand Bookstore. The moment I walked in, I was surrounded by towering shelves packed with books of every genre imaginable fiction, non-fiction, autobiographies, psychology, motivational reads, law, crime, and so much more. Whether you\u2019re searching for a literary classic, a rare find, or just something new to spark your curiosity, Strand has it all.\n\nWhat I love most about Strand is the sheer energy of the place. It\u2019s not just a bookstore it\u2019s an experience. The aisles are filled with people eagerly flipping through pages, discovering hidden gems, and getting lost in the endless world of words. There\u2019s something magical about wandering through the store, never knowing what book will catch your eye next.\n\nTheir selection is truly unmatched. From bestsellers to niche reads, from deeply thought-provoking psychology books to thrilling crime novels, every corner offers something new. And if you\u2019re into rare or collectible books, their Rare Book Room is an absolute dream a quiet, intimate space filled with first editions and beautifully bound classics that feel like stepping back in time.\n\nBeyond the books, the staff at Strand are fantastic, knowledgeable, passionate, and always ready with a great recommendation. The store also has an amazing collection of literary-themed gifts, tote bags, and quirky merchandise that make it hard to leave empty-handed.\n\nStrand isn\u2019t just a bookstore; it\u2019s a New York institution, a haven for book lovers, and a place where stories live and breathe. Whether you\u2019re a casual reader or a hardcore bibliophile, this is one spot you could spend hours in and still feel like you\u2019ve barely scratched the surface.",
+      "time": 1741486998,
+      "translated": false
+    },
+    {
+      "author_name": "Justin Rogers-Cooper",
+      "author_url": "https://www.google.com/maps/contrib/111903549911921425022/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1A8TZJS_mE0F7WzD-n-wOVsWybmxHZoyIboW4oaoBrCgL4b_ZPQ=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "You already know it is the epic used bookstore of New York and the entire eastern seaboard. It\u2019s a comfortable yet intimate space for browsing and discovery, as well as one of the premier spots for people watching in the entire city. I always find titles here and most are quite reasonably priced. I routinely pull rare or out of print texts in subjects I collect. The bags for purchase are sturdy. The staff are legendary studies in a certain New York attitude: arch friendliness and confident skepticism; insider banter bellows from their perch above the customers. They\u2019re almost like pharmacists that way. In short, you shop at the Strand for more than the books, even if the books are what keeps you coming back.",
+      "time": 1746703593,
+      "translated": false
+    }
+  ],
+  "types": [
+    "establishment",
+    "book_store",
+    "home_goods_store",
+    "point_of_interest",
+    "store"
+  ],
+  "url": "https://maps.google.com/?cid=6831339393645709888",
+  "user_ratings_total": 15620,
+  "utc_offset": -240,
+  "vicinity": "Strand Book Store, 828 Broadway, New York",
+  "website": "https://www.strandbooks.com/",
+  "wheelchair_accessible_entrance": true
+}

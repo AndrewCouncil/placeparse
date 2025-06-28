@@ -1,0 +1,404 @@
+{
+  "address_components": [
+    {
+      "long_name": "150",
+      "short_name": "150",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Green Street",
+      "short_name": "Green St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Greenpoint",
+      "short_name": "Greenpoint",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11222",
+      "short_name": "11222",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">150 Green St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11222</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1730"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 5:30\u2009\u2013\u20099:30\u202fPM",
+      "Thursday: 5:30\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 5:30\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 5:30\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 5:30\u2009\u2013\u20099:30\u202fPM"
+    ]
+  },
+  "delivery": false,
+  "dine_in": true,
+  "formatted_address": "150 Green St, Brooklyn, NY 11222, USA",
+  "formatted_phone_number": "(917) 274-7154",
+  "geometry": {
+    "location": {
+      "lat": 40.7334873,
+      "lng": -73.9555292
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7349435802915,
+        "lng": -73.9540722697085
+      },
+      "southwest": {
+        "lat": 40.7322456197085,
+        "lng": -73.95677023029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 917-274-7154",
+  "name": "ILIS",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "day": 0,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2130"
+        },
+        "open": {
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1730"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 5:30\u2009\u2013\u20099:30\u202fPM",
+      "Thursday: 5:30\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 5:30\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 5:30\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 5:30\u2009\u2013\u20099:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101797967343554751468\">ILIS</a>"
+      ],
+      "photo_reference": "ATKogpdbvDligH6An7w-lZWRpWH39fq9MAXQ8qyyEYzkEzGUO-W_grRZvbKGKgV7iIl20akeEgO9abDTAtYtdweYWWdELEMcgczHrEcqrqFKC8UQwEGU4TEN_PjFgQyUgfDgGmv5QmzkwnbktpKS4KqaZ5t4F6u4Cj-fWjtBA47jb5_qo8BHaTgJU1O7xbW0oIn9v1scvqkOpKa3kzy6Fm5Fk3qxtNH0CuPoVsa1ZLeUfhQK4FJRlXO_zw-n9WefwE9zjypsdfdyuRPt7XJhRBq0JhEdRYV-80wStFC0JVZFbdN0Bw",
+      "width": 4800
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101797967343554751468\">ILIS</a>"
+      ],
+      "photo_reference": "ATKogpdCodo3ewd1opdh-Chr-ef-dbkF6XO9EtEqN-gsCAKtDs30AyrY7RJ3pSeudtOOBMTwjLXB7tQkuxHwxkxSZK_-RQHc2m-c4GM0F-XGCEFw5n6sLKsXUq1G0faq5eAl6DVJEdpr16PijuY8rPaYWeLNuFmBSyq7ndss0NM0YsjZsKBLggp44iYKV4PYFTYF_bqJK_k2pV-TIiV5qAkKXx64OdWSaV3QpnBpbggoNhOGK0EaktFvISxrG6t-cuW-jljYjzJmd7ujRKgJ3laa6QmKDAiSJDwf3L1Mh9rQS3qY_w",
+      "width": 3200
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114054961728140146844\">Stephen Lutz</a>"
+      ],
+      "photo_reference": "ATKogpfHwHDRMISn1thVy3_R93YOQOwCfVOU_yVvxmDKS9FD9nTV2S7qbtZUhxFzOagBg1HmL3YqIt9rw1ZlCKpfKz61mvbKA1QIa6U1oxgsm0h4HDKpBFjikZVwPk7No2YDsS5KfRvuiwQKHmmSdTU15qJL8GAVoteRnT8mhw6yJRB8t-QgqbNZ0xkRV1rOBaWraXF53Lf0aligMOYDDCwXRzfF5cQKo7cV3Cr0NkFVHyzsfCgo2M9u57nHxrlbVcWVTn32B_7YzaHDDgmaJM9pRGvYhTeFLQwquo7Nm5tE2_blOaRLWGH-eyuvodV_t29iCUg2T1RHXLtgiOr-TgS6ZTig1MnpOH7WDGChH4kjdWHxOsphEtdYqvKtvEUauJ34chVGTyqe9aK72ccMCQD2A863ohwT6Nxwpn20xI05PqqVHNYNqD84Ax-bjnS3rpue",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105324769856891926388\">SteakEm All</a>"
+      ],
+      "photo_reference": "ATKogpf0Sdh3JShqekbSrGyZmZou4I4ILlcSb2RLOie5m2ip0kD8rGzyyA4bdvVWLVpvLLttVlU5-OQzE-CMTqbDtT1-S_G-s8ct3-4Bs_1ga9UM2Zfss2Hcqb4n9TgtNQR_IWB7fum8DI8MS8J7JFTX9pOVVQFMfCXq8wbguwR2ECHOfGCuhyd-6sVcPEhG9vT7ykMr75PIyV1CNX9vx_y3YhMVvGxuYpGPInXhRev8fcI8PD5gLqbLS9f7NhlGG0swMNqCDvleE1JmhVy3849ffjelE3FL6X4kxOA5RsguJ25tUNGpUfDA3fTBnydqzAKvZBQ7QYIGFUg725FUIpZPjSX-wpzJLDLEWsQ7XM3PDTYNUzEAA7_t5OSEQRlBuJ-88EgrZ_kwiCxbgoVFg81sNeTVWgn4u7ROaeJR010bmZEd0Bs",
+      "width": 4032
+    },
+    {
+      "height": 1872,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101797967343554751468\">ILIS</a>"
+      ],
+      "photo_reference": "ATKogpenQBD4OqB9q9Pmyup0iesTQdu7tYBeIdbIaxdTh2oDasP8HXAS73nW6ddcv89Sh86eeHaBUtKiIdFqTIsGt3ilOmsYILicXMt3qNXL4XCIwDBGrqn4vayEyN4UBfwdfNC6n-RTJnp7xNuqyIQY9skbFAhl7kKU-nD-k9ay92ws8Lmr9P1Ah9cf__vEexPcXb1o7OqLpAucnMLLYzwtfcC9KRZ3fNGCawtnpDgzUAEkeYl6OIc7w4mWJPm4yqQj8hMBgNnUc81WxGmUy8swHbMspCfQx9UrX67s4WNuSauigg",
+      "width": 2808
+    },
+    {
+      "height": 682,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114018746893905554358\">Waleed Khalid</a>"
+      ],
+      "photo_reference": "ATKogpeDaVch0yCLA_qKn8gtc12Ieknt2No773i0lQjFoD3ZRe85jo11sGlvvC1l8un_RJl9b40tQ742g3ZXp27PZrQdioIsvOwO4xroEYHpbzI-y8voB4xk0ofpmhP34BsygTFlvOdLLqHa5F_VezQjNzR18pPWk2-Lb-44ngpC9O-RyShYbDINzCygK2iBPyAYEUvTwYUJYFA_kPjKZa6j5k4GnLpA52Gh6luIlvVj0YcMKfcB7bT8cMPlDOgTq9Jzmb17On3aDFPmTmvmgzowT4WLrDjX4e_TwqlM_Zv2snCnVCukFvTkfZ-naIfjrd7ZJIu_2gODIx0wkTxy2grqzb07FHHLKMWLHyckxSgJKkYr_mNABvcOQZBtGiWhIZehjTbp1jqmQA6GiQbgDoHMX1mdRuwglyc-KncD7FQCq9pwHHpb",
+      "width": 1049
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113983836868252445740\">Jing Yang</a>"
+      ],
+      "photo_reference": "ATKogpcgP41w_okU78RHJJW1CxKfx_RQiIx2zNMdf42rET2MSBgHV9taskjHF0jwTVsSuaTyAAf6K6zTPhyyePqGWsJcACGI9F4PLCuv-qPoHZxld5MQsVW7z4nahXZRJi1RvjfaWh7-rSsUX7sahBrd7e4lha9QRm8acCOm1qpjDsF4DkSdG6VLPlk4wVlZCxbyoS1hrVk3HMg3Yg8AngvI0yDZV-OHw-sKXW8IzCBjnzQyo42vGi0vmuiVLit_VW3q_Kz_sDGAS-7_8flC0DUf5RpOAreQZ54jHqAgh2iQvGgFz7-5oyuv8SmFRZstHbEu3yte1o-hKcqqnvX-ocuXGFiyPqBdY2cLvs6qKD0X5dThYm_4XEHsq1efhN2nMvCES8X99sHL0UGhl9TxLsAukHfFkSkV1FsQzSyZIwL7WVKMoA",
+      "width": 4032
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111854923027813394770\">Eric Mittelmann</a>"
+      ],
+      "photo_reference": "ATKogpfPC-GLpcIpbm_1ib-_d56DWKV7PvgcuwHIyBkI2Y9qbZKFojJNWxeTWuflHrkwcbNXprRaC3JPm-VaxjNw6vlNsG0BSfSVSctxmjJzMd7Y8EJfUssmiAc0LZC1RQWDye4NomumV1HUy1wTtbcAAxwSw8AA842cuYnnVwPXN7gGloch3hft1AFPG1gwDdVGdS69bnPbohr0zmckxZk3jYXQzuXf_sndOOKhjjtTqF3Yxe8shHt5Ba6T5y5YtXIgbFN2bk2F6biTqZ1nPwYWCq8BCLHElYnkYdm_0gZUI8vdtBgVnYRYH6Apf-nLlWFAZRg6KbIJWqZmBMiXtgAwo6tlwrOkd04bi7bJaeU16LgUlXs3iE7myeFlD4XJUHdtSqdiywteWeHxHXS0daevtv9iQq0oeqJt75_zPpUwlsoeag",
+      "width": 3072
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113469402365158710660\">Daniela Garza</a>"
+      ],
+      "photo_reference": "ATKogpeX_5Eokcu33XH0ZJbEsRUtic-43VLeXYfQsVtUmf3aWaZltPl13o1hmsBIrSv8ufgcb8iqvuRH_dOT2WH4gpzGjsVDpmr6WpAQBooT36EvJNYF5agZfmKJX5CvRgSc-8coPP3ti3DRBJHFSz0NvevaQpvLkcUM6h2TRwFUky6AawGk6rZcWR3TUYgebjAmhFuwTMWZbyYc_Iu9m1OA748ELgk2qQ99kYGKG2jIgsBow4B1OelrFZyj4SP3zSxy-mUDfskz4I6jdMVq7gTbN75D_Gd41TGDot5o28a57jvIHC46mAfbh6hErecXCnXKMziXhvWmB2XX2vtdoN9f9zNihAULCAyXBRe7XDXXgCPZketdbskjuHylO5282ctF9gwPqFQ3PTJmFPNoLYiFQX2vJO3IxHHB1x2li8WBSSmfQQ",
+      "width": 3024
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116577799050594605872\">John Ess</a>"
+      ],
+      "photo_reference": "ATKogpcf_aQmTACTHkRt3HQHV0aeYX5Hedbo4W4fNpFgFqIr3l0Xx2JaUMIbbpNczt3SIqCcHikX7mu4cL6axMyNV3QYbRw2ktm-mUpOf4Jg5wLooX5gujMjVS4SOxMKkAx5ziUd-omn4S2B4o4jvBDlTg9MD3yZeIA5LmBEuxJlI1F2aX92kEcfISSOy3JkAke8cCPDYzExpH1j1aXS7d_46o3bxJnJ2AouimQm-GPjxCAJ3AjeVx6CC_nVoCFEVmG8HnFT3FLepnQ5MZRLmHo61vEL-yn1sm78vj8E1khbh5hoxi4S7KR1yPBsUKkOommiNCaAmiQarSQXbRS2fWMxoVgLuKVbS1IN0xniQDEWSlU2vPlRHTI0xL3KZyO4qSaQFjiONvbCj53P_31uU3qujyerV6JzlaioXvgYnor3A2LG-Q",
+      "width": 3000
+    }
+  ],
+  "place_id": "ChIJHZyajD1ZwokREWLihHYSryQ",
+  "plus_code": {
+    "compound_code": "P2MV+9Q Brooklyn, NY, USA",
+    "global_code": "87G8P2MV+9Q"
+  },
+  "rating": 4.5,
+  "reference": "ChIJHZyajD1ZwokREWLihHYSryQ",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Stephen Lutz",
+      "author_url": "https://www.google.com/maps/contrib/114054961728140146844/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUYafS9s6JMffwRN-CrZjLR-1z_jCEpu5pyS8kzn_kX3bJFKEN=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Always a great dining experience at ILIS. The space is stunning, the service is warm and seamless, and the dishes are creative and delicious. Every course felt thoughtful and exciting. The open kitchen vibe is definitely a bonus and adds to the ambience. Although it is not in the most convenient location, it\u2019s definitely worth the trip. Highly recommend!",
+      "time": 1749836359,
+      "translated": false
+    },
+    {
+      "author_name": "Christopher Lam",
+      "author_url": "https://www.google.com/maps/contrib/108877777802499023186/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8wEcppUdcL7kfCozoZ0_N3VR8-907dnoxrlAu3ehH9kSCfryE=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "From the moment we stepped into ILIS, we were enveloped in an atmosphere that felt both innovative and warmly familiar. The open kitchen design allowed us to witness the seamless choreography of chefs preparing dishes with precision and passion. \ufffc\n\nA special mention must go to Samantha, who took extraordinary care of us throughout the evening. Her deep knowledge of the menu and genuine enthusiasm enhanced our dining experience immensely. She guided us through the selection of ingredients from the dynamic menus, ensuring each choice resonated with our preferences.\n\nThe concept of chefs serving the dishes they prepare added a personal touch that made each course feel intimate and thoughtfully crafted. The use of seasonal North American ingredients, combined with techniques like fermentation and open-fire cooking, resulted in flavors that were both bold and nuanced. \ufffc \ufffc\n\nThe ambiance, complemented by curated artwork and natural materials, created a dining environment that was both sophisticated and inviting. \ufffcWe had a great time just hanging out there.\n\nIn summary, our evening at ILIS was nothing short of exceptional. Samantha\u2019s attentive service and the team\u2019s collective dedication to their craft made for a memorable culinary journey. We eagerly anticipate our next visit.",
+      "time": 1746552955,
+      "translated": false
+    },
+    {
+      "author_name": "Alla Mets",
+      "author_url": "https://www.google.com/maps/contrib/109128863701196350131/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXX_5HYWPgx5Kva-tWlYckoVUIWaXLRlQExKU9xrmnL8ZcNX3rMvA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Where do I begin...it was not just a great food, impeccable service, an a pleasant ambiance- it was an experience, a story \"told\" through all the senses: sight, smell, touch, hearing and taste - everything was involved and actively participated in the process. The moment you walk in - you find yourself in another dimension: dimmed lights, high ceilings, wall art, raw brick wall, and a very peculiar aromas  greet you upon arrival.\nWe choose Market Menu, and enjoyed picking the ingredients. It felt like we were active participants and chef's helpers.\nEvery single dish - was a piece of art! Every bite awoke taste buds in ur mouth. It was one of the best experiences we were fortunate to have. You could distinguish every single ingredient in the dish: the herbs' freshness, the fish rawness, scallops sweetness. It was truly unforgettable and incomparable. Thank you to the chefs and all the team.",
+      "time": 1743103600,
+      "translated": false
+    },
+    {
+      "author_name": "Theodam",
+      "author_url": "https://www.google.com/maps/contrib/115030959655245323636/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIrerQUyxk7kVP0QEt0O8NSxLHS2y3flmTyhNN0cOmWPDZTMI98=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "We loved the evening. The food was surprising. Very creative, wonderful taste and texture most of the time and real interesting. We did get excellent advice on the wine. We had a truly wonderful white Chardonnay\u2019s from Oregon. We liked that the guys making the food also served it. Friendly and efficient. Atmosphere is real nice. We felt welcome, relaxed and comfortable. This evening was made about us. People and food created a wonderful evening with a great experience. All in all very much worth it. In spite of a steep bill.",
+      "time": 1738686129,
+      "translated": false
+    },
+    {
+      "author_name": "SteakEm All",
+      "author_url": "https://www.google.com/maps/contrib/105324769856891926388/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWhV91EL4Bsr6DuK3JgCRSMOReB9dYzY_RPfZbJZDgkyTDJ9Cu5=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "At $225pp. This high end modern dinning spot was definitely visually appealing and delicious. We selected the fluke two ways and the squid. Every single dish was very nice and the service was great. The green grass dessert was surprisingly delicious and addictive.",
+      "time": 1744925777,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": false,
+  "serves_dinner": true,
+  "serves_lunch": false,
+  "serves_vegetarian_food": false,
+  "serves_wine": true,
+  "takeout": false,
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "food",
+    "bar",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=2643351806534640145",
+  "user_ratings_total": 235,
+  "utc_offset": -240,
+  "vicinity": "150 Green St, Brooklyn",
+  "website": "https://ilisnyc.com/"
+}

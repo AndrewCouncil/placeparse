@@ -1,0 +1,158 @@
+{
+  "address_components": [
+    {
+      "long_name": "Bushwick",
+      "short_name": "Bushwick",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    }
+  ],
+  "adr_address": "Bushwick, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span>, <span class=\"country-name\">USA</span>",
+  "formatted_address": "Bushwick, Brooklyn, NY, USA",
+  "geometry": {
+    "location": {
+      "lat": 40.6957755,
+      "lng": -73.9170604
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.70939604433573,
+        "lng": -73.90137081286413
+      },
+      "southwest": {
+        "lat": 40.67976802329353,
+        "lng": -73.94196680867121
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+  "icon_background_color": "#7B9EB0",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+  "name": "Bushwick",
+  "photos": [
+    {
+      "height": 1600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110199469321209613778\">Joseluis Peralta</a>"
+      ],
+      "photo_reference": "ATKogpeir822IMlA2HRmKx0xTAEQ2uY6WRgj3d6OHovve_VuhILgXBk98COB7jv1VzRNLSJMxs42TBRgzUBanmYKpGW0txXwLdiiQlEoY27u7LJ0YngLYI9teGEsp-CFQhHi4dGcQiSpKhF4ImASD99Aq01QBGlCJr5AERx1nDL2lw28m8_xDXjA0F_fnQgpOo57R3iIHZApcS8Ax52MghGLM8iM1jkMfqi3xh8zH8cSiumEln17_vcO5gI0FTEvU5j6i_iinjLi6d_6_QD3hC8dl-A5Cwi8D9ueppTZ9YLjS9zx9UmVCZBGsU0gDvHQm_KbrWVMXPMgxED0CC6uN7-b-iD-sKBflzbTzwQZ-S0_UBgNIAK1wpoyamFwvV01-CXbfGj0LSzzJM-1ihy4WUbpF9v7Dmduy0_SGeWffbpewEJmMsk-",
+      "width": 1200
+    },
+    {
+      "height": 2810,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112095114686961638334\">IG AlePendiente</a>"
+      ],
+      "photo_reference": "ATKogpd0EvCaytFNn_dxdZGyxp7Sw9Dk6OhgVz2OVY8tLr8A04TRuUAMLMG1bCAVd5ajteBlxhLt3LJoDyBo-JaMeOSLoQ7E8bJ1rwbSif0KnYQtrWigtA-7Sh5mUtpRrNUJ41mW2K0jXCteB-WxqDcBKakKebFuGJzJNLahv0WQC_USd_lOd1incNqXaXT4MWLIgj4DFIlHccwD70qldS_j4aeDhy3fJN9ujJll_hWDyK7MAK3uyTyPUE9OEZ75672xo_5qeQ8ZxB6YX0BJeFu8EWgjlEvtilvPe1vTL4VVF5MhlEmcNO7VFIyZYlHzyK-0ThcMTtd5DXPngJ9e2l8VQhC3N55JrXjEubhWGa6q0jMOVwbGxrTBmwjeXIcxqzUb9rPMNXNPJuakRuz1JLr6b7rb81ZhMxvPU567yZu5R5LBkg",
+      "width": 2810
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112119463267925644234\">Jackie Payne</a>"
+      ],
+      "photo_reference": "ATKogpeqPwLFNhTPrvqqcVMdlaPVd6fPGoIgLdPXlVe4oBtZq44BuaVkKv6lsVsk6gmZ1_zSjmrD1K_dnKcWnX0Oindc0yQV7ZgwwttUrjoKUyKlFnpczIrCPj2Z2jP0VrFRXZVS4fSyS_Nu7ObVbSUIx21_q97SlUro-IswySwBAJMIe8gSjCBUdHryICwWwGC-YY6pjIL8IBGZTW33UkpgYl5baAb0xd25-cSbG15q9iMIWLafhlPPGkwAelIs6mbFfMRuAicmPcBo9InSMvVcCsOWUUnEW4ejxwmV49GPj6syhFXtfqQshaq8CcNzffTBRsPlqyjdmjSV4CeKNRJ3f3kM5bbynDGcDRiE7w8Cp7gghO1C1VtaAAiDCERmIO6olhgxFLc-aT5w-B7rpYgPugLUqdBllkhAjOyCDyh6_F0lQg",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104165519432362472638\">P\u00e9ter Schm\u00edz</a>"
+      ],
+      "photo_reference": "ATKogpcjOwqZmjjkzwrkPzW636ASrSIl1ZxNnUvQ8CpHj2bO65aRoSDXKDh90PFI51lYBXETieEL0u0SGbJ3njWkRMnuCD-3gwtneLhZK_5etLM1DC6hV1owE4SG-ZDSDwebJSO9szj0V2U0wBjwlf-upjzQLo1_zaJDZ5fPUM14dNa70EovS5LZVaLKFBHva2-L4WmWuBSiGH1qJ0HHyFT7s2RWyLOxp0FuyT4e3Kd1r14LLzVtpXCJadPykMBTWDsxWNuOctMpxTW9pMYrshQaeTXftBHEsjRPEsx9wd2oma5hIqpe9hRq5oVQZWcWbCfZ8MJQ6KVmg2HB1VoCmjEAQ7mt6eaQRdX0sonECvsqH2s7P7Un3ZpRWPLmkYCmnv6Wb8HGTSS0tb-8GMG_Tx4T1-87nNX6RG6gaRtTAkOnV7pSiw",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117699653407447542027\">jose luis Peralta</a>"
+      ],
+      "photo_reference": "ATKogpeWjlE4D5tQBaxaMN2czHlTi6bK8Qm9-z9re4pw3n5Bt2hXDcjQVuGKjjusLokPV3A5ajI2AN6DD-mB4cDdqsDQV1xLiZEZ_1mK_eI16BBZ560VtaLvwjrn_BffXhkjOLLqgIqLDotZl7za8xBWD4oDFHi32BWr67aawY4zYsJTGGLATp8dOXA_Z5W-Yno9Iuk66yu9L5FkJDcC2fALNod_VvohicE-FfeoCS0LYijUOfBWMCgQGtI1fVXcAtkWlyivvILj8FOnO9cpfEl-zqHK13XxCdQbmkmLkeIp3mAqqREK71FVrhURLNCNZ6BlXV_EKT2_H057dsg0Pn408BTK3gFn3r3TYRGy9jE3oKX38oU-VNAZSGAltScxBUZLogUPV_Z3OgDxS3dPITuSPc_3sAVG5I7ybO9cqBO_dON2ZS5y",
+      "width": 3024
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102488516270529707283\">Rommel Reategui</a>"
+      ],
+      "photo_reference": "ATKogpeW6j8aaMZyG2HskRR_SvfhrggBtOlZz5oKjdicly-fZbeMhIXKuyHkaLmlh9DSJV6ygARLZnaLLhJUbIPahWkxIdcl7gMn0_dn51dH4m1ip4APdB5kvuKjEkxep0-RLAsFV_F6HxAKMvuE2GMGH10trp_NgDqz_L5S96DFzM-ALlop4qDUevtmPg55rPcWN2pAUMQqbF_5p9RFKFjMZMZRpdA25tqSHK00S7iAnwyyJJ32q2suQgYFVjudclxjiX0S4sDmkVgV0_HHJGu9HcdKQy-W9e8M1M_Oh7NbsDSWzfYKajOB-lbTtrIzYJB_CqqEv2GV4YjWaxWh4nW3Qiw1CVKfFItsuoHSOK7Cp7SS3bgiEeT97iOlCQJjvzeioxSRZpQag-phnpqqHdIkUK-vO23gl7SFYmOW4gQWKTxYN7e_",
+      "width": 4000
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102488516270529707283\">Rommel Reategui</a>"
+      ],
+      "photo_reference": "ATKogpdOrd8j8-_xS4wvkAAL9DNGBajvIz6o_JqsErXmh_C8EqqiOHGZ8s-9ZAren-Keddr54EeB2ZaPXEIz6HJU78u-zCitF7fWJA3N1l99eAsaqezFcHnvJWOhvT4HVXpEZ6Drmc8IJfYz4G1wa8og1-FoPCbZEAF0azALvBCBFqdRQxwuUoVnU9oO3w-yjuXftan-0cgHlM1OJjoC5Rp9GcThrfXOX-hetHlEKJ5vIbfJMLf4ULaUSFBPMW_O3VWJCUQD4mL3tjGKh76ILa3oinXEWo4Ba5agykClsCJIxYPRWcGEYCkpFhPRz4bn1CmWCRVMPDep1f_5cww6kWfeipviC2LSMNj9PnbQYF-ESLv5gc6EG_NvDSbRhWMgADgUxsZpbdGxN1Wm_aDnOVAGVjG73OJkYxs67YP-OjcAu28q0T9l",
+      "width": 4000
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104165519432362472638\">P\u00e9ter Schm\u00edz</a>"
+      ],
+      "photo_reference": "ATKogpfFQW8wExGNIiebIjh11Eb6TpOOiPOYqfHlVJNlAcNl7yWKkKEUuRr4FrhVt7NjA3IMrJJOio-Ck-HZXekjDc6TFgbdn1H8218fSvnCq8_RfghxVdOjH9tOZi3KdNlEPuqU6VMl7Fv1zxBM8ziV6YI6lrHBeuYRJefwDxv6Oj8bXkHQvFloPq4Gwbf_6V25llkHOZlrfeKlmDBbbnYB6ia96UIc84ddurQMDO7lr1a5L4uxDLv2JE0b-n3CeSZFwVOYynNrqUIj9XZd4nOb2fnYA9ikUXooxntsELlpkF5RM4QqqIcwgRKKHj0K8-ljHTlwvx1brhuKCBUcUJu6u185fiycxcl_jCBKUBMMT_Tu47BUqhU922E9WCFbvKd_-MjUXSZtW5PZm7EwMagmT64hNCRk0Hzs1sW-ctd3NJamBg",
+      "width": 4032
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102488516270529707283\">Rommel Reategui</a>"
+      ],
+      "photo_reference": "ATKogpfvqq-Gdn2n2iNt5aVkvcRk8MbehP5bF8r2PGF4xeIvF9QjiInqKyqaO4vlMaj3fx9ZTvITm6EDi9vxpNPoIrU0vNWG3SQLlo1SlVOzkR_dOfKzNOXVIkrZjL9jYNoRp6Tpqbcj_MXAHi5o8q4CepRLJicKOFeTGg7G5SLkvldiYj4YcoF84pcqI0NrAHSJoJet522Ywg26ts17jxMlUm0YBhqnFYVGSt4-mVj9ZuYPGEpc89Kw75nQ6SEQ1mttQbj208ZqjOvy7P2VRXzBPNJNf6tnB6RPaZJtDczbd5pSQkiCwNS3pBqWbxkRnhuKSlHd1on0XQ5bok0K5WeoahOLHbYoUIgmKz41TcT8jrrnULwZr8c-7oFkf7pidmrwyAyyLW-9Qf2HAbjzvZ8KWbJnlN7fLTLmX8CMqhQbzPYOJxU",
+      "width": 3000
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102488516270529707283\">Rommel Reategui</a>"
+      ],
+      "photo_reference": "ATKogpeCLDObbIDqXGkZDPAJ8eZbLYk4m0TWWTqdLj6FpMAlZevpdN6Mq3j15Q2xcEoy1iUO-I3LBeg_gstSqg4_bUhWaHJ4iNriDls2kvLUummMU4tUZJvVTXrgdBCl9zd2Ozlzapj58013LYlpHuluuDprqOJKkmTVgQKnR33EbAnrRQJnND3_fYuxUYJmllJNMugahCWeFWq_uYRtsP4eZx6n3whV1C6VDTpYrDhag4eCwQb5I8mrOVwfhLBQnihtDTnIk9fbKWjnQzekvU-xGth1eAR8PndU3L5EwSq_DqaCbIpcLPOgOtCAcZBLCe9hOp9e7JCtlhGpTADXa3gT7XbNurqV8JKXGEzgJO8AXtZPPxhMrCz0AWEnxxAqNpxyi-kL1eCn_naehkXuqDePukS5IrSnwGBVJ9POS63dIHfxgZU",
+      "width": 3000
+    }
+  ],
+  "place_id": "ChIJU4RFqhFcwokRfMbASZnIKYs",
+  "reference": "ChIJU4RFqhFcwokRfMbASZnIKYs",
+  "types": [
+    "neighborhood",
+    "political"
+  ],
+  "url": "https://maps.google.com/?cid=10027766606010041980",
+  "utc_offset": -240,
+  "vicinity": "Bushwick, Brooklyn"
+}

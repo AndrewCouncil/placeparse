@@ -1,0 +1,450 @@
+{
+  "address_components": [
+    {
+      "long_name": "33-35",
+      "short_name": "33-35",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Francis Lewis Boulevard",
+      "short_name": "Francis Lewis Blvd",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Flushing",
+      "short_name": "Flushing",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality",
+        "political",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11358",
+      "short_name": "11358",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">33-35 Francis Lewis Blvd</span>, <span class=\"locality\">Flushing</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11358</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Hong Kong-style dishes such as clay pot rice, lo mein & dumplings in a snug, laid-back restaurant."
+  },
+  "formatted_address": "33-35 Francis Lewis Blvd, Flushing, NY 11358, USA",
+  "formatted_phone_number": "(718) 888-7848",
+  "geometry": {
+    "location": {
+      "lat": 40.7666165,
+      "lng": -73.7896239
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7679382302915,
+        "lng": -73.78838541970849
+      },
+      "southwest": {
+        "lat": 40.7652402697085,
+        "lng": -73.79108338029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-888-7848",
+  "name": "Yummy Noodle House",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101920286124488273859\">Kamui G.</a>"
+      ],
+      "photo_reference": "ATKogpd2zKyzHVdU3QhzB7DkcxVl6rheeiAyvDd2N8lPZFQ7DfNMDqh6CA_d0jsDQL-HXZ3UC8ktuP44kfj6isjh9iVhzJkZA1I6gcp2_exvZvA0-A9mii0rC1wWN1L3Xf7Xu7UJcm4Se9Yq0O_4uChbpZo4ulaBBkjsja8HdhIMqqgJexp-JJc0o0VT5NEI79vqxc_L5Q9_NYPpnUzRytCf7lqOUZDThHJiglz_OaoMuDOBiSOPtpW7EDU1LypfigYeclg5thE6zAVjpQwDKTzPONmDFUVbaVe_Y2Vs76lP6W7MjcbSXboAdirl2Qh2QKV5srRVSsOW8oa5AzGGa2AM3NgwYnnsHfT3HPCC9-O_a-pbQQgU8h70AzEZ0WvMzi29EL_ayk4wGI4FE2hy_i2UwAr5M0fWaIi9k3KCY48Xlsmx-g",
+      "width": 4032
+    },
+    {
+      "height": 1882,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107707072171858845870\">Sammy Chin</a>"
+      ],
+      "photo_reference": "ATKogpfUBxM-2GJNaJ0mt1eOD7JoxpQsKwWKvWi27xvWTN8kSasG_clz5Q54VMVJNd_6_dWH63j7v-L8aX2MiRWbXH8wPNhDILIIPWI42hjxqm9L0aO1UcSYbFfMjt68GbATUGqe2J0EqGLA75UGh0Gt3HdMWLN89gX7uaZAywgv009l1IDz0PFFGPzPmfhNekMCGuUQazTbFO-I3sHJXAO2jIl-bPEeSeWEJzIFJ4zpKhfW4G6KzkKzZG_lKCMQZxHzP9_qLlrNoKw5v_QgaCoFCsxkd1Al8D2u9Aco7BLn_W0-z0D9wWrBVdqPCTANWdTdw_ShTRuYiCmwqKGP--7m1u3gcHQtZadwyddIJDfb_ZnMvmmSeKXvZi-srsmKz-ELjLsKfEU6LULfva0kQL65tk00y3vausf6qAYjHwsHnhTTJA",
+      "width": 1882
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116585814957968301527\">Emelie Nguyen</a>"
+      ],
+      "photo_reference": "ATKogpdEyi9fbfQozAarmFYaPvB4r-smdW-icm5LeFJ8yN5kwQG9AEEmPVG0FbV3p0ZqLeC2kJ547kzCCLe-98NlbKDF31nWmZgHHQM1v3grxSTPyNQGrplUvcI1toOQgbuIOb7_cviU8q8uHWjjLlZ9I5sxQSTOw3PJdDL6qkUtQRZwvR0KzZiWLYCtNeZwbJgkwdwZfepBxzu3LDGJsidvYz657WyPh7AC7lofAgiScuDt68Ugjs_cu2nyG6oO4wZJCQpVYAwx2t-iorcrOAIIuV2S2lwBM30qr70HBokk07wHyIG3itVagqJwPE5EA60JvNhrS7YqzYmuTn-0e99FjpgBdY-h0wh52dxj1_Yv21JVH2s029V_dCUJI9RNUkgjJq95p7RKAlEDCLrHVuMAUWaBcwERmprTA4udUvRBH6EjGQ",
+      "width": 3600
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105585949220634047605\">john eng</a>"
+      ],
+      "photo_reference": "ATKogpfKXeANZQmoWmML5ekceW5GjhmbSUf6pXqTsUxfdkff_TiX2TNy6QSwNPLjEEnv6Hk_qSygyNJTSjQIOuNOLgh69ez016KkCkxI7J22_nwEbnrO7yEznyPkjdcRGYPIHh8c5vHT-s05VniG-Rrq0fHIPpxpIyUZH22-HHqWoF_5_6L2GcikTW2ibvBazSCxUHojcMDsDJ3CLBzAUc7awwY4FHHfo7AFAza9SPIfk7_huWZ23aApWroF4zM-alRi6hq0PIfZSXs3ujNPBILhV7VjXf1HneDbn2DemleIzvA10m6mk8cHYk7KRZqJR14Apy5swM6jaJozhCVub8_UcA8KCBMCF6iF-MZXqgUadCmEjilXwzEMczFWJypcqJ8rmY0YhDAXsVpUt3C2KIFRS00QcuUDXoLJfqNP8UTZNZFAt-kP",
+      "width": 3024
+    },
+    {
+      "height": 724,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111456037418836062991\">Tina Ng</a>"
+      ],
+      "photo_reference": "ATKogpddv1-8U6UEv071nIQumeXxT_m4-JPXypHMlnYOEY5A_0HGqaqpGilRRTtKiYvGet1Ei3NH-UZziJAsUpPkBxnZifvVTJ57cas9huT5WUdPCI44cuDqyktYaLB7CmnjXtma_uxwqwoPPeZ7_3eikvQBi6j33GohxHdqMZpJvUjZjub9yIM8FwAsL0zFJyuGaxz1nrqk_86y9zhQzVVIuQ5LVDXIM40W_2ZIrv3fsYsWYEibJPnMgPBRS0lc2Xlu3DTxoFmvYMHv1SaDS6qabcELMOoogXTbKIN4CPuWvOhBLn4Qa5xuQbtlq9BdB3WFYjkYz2Lu5Lzwyy-joEQFCmTLRNvlOFO_1wMBeIySH59zxzBwtBAPewIpR-g1hLzqOKEpsZFRcwxB__U5HGEV0-EDEXVjJHLTRMSZMwJ-wHNWJQ",
+      "width": 1086
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113908601113410154695\">JZ Liang</a>"
+      ],
+      "photo_reference": "ATKogpeflcYgjr-R5lyBYTUC1CltJ0ffLrFpbs7xALedL2a8Q_bDa3xegX9DUdkKHbxxHxNMlfFAcRYuY0_O0njK1hVCsin1LcVtVInmzzR-xaauOxIuPkt4S005skMPujVrJGAw6e9GLE7PIDBKbFNUNJxPhkgeD8HWOfa0q1TdPorD789FJdYM5xEM0rGbflFlGl-0ggRr150VM3wzewnF2k5S1xl5DpYrIWgIJrc6Cn1-Ekv_LAPYXwi-oTTSIlrOTzZ5CJG_xv58yrsp4QSdleuOyyhdGVd5FWFYlYQH6UZbfUGNbyYr1u66rM65BF6OzXRWOFXC3TJPnfRFodPpFNwtxtmQWNgxCMzxWGvRjx0X-9z_yggNV_GbfZbPecFB9kF9Uds1RySH5x_fMWzJFUWUYRslI5YXw73QBpOLUKo",
+      "width": 3024
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109106814256933519201\">justin wong</a>"
+      ],
+      "photo_reference": "ATKogpdhTWtQlT2xR-62Q8ZPAycpt92t1xyt5SDh7YivNGQRuDy56oOEnZVJFf0AQ6yMIVkhg6R4f0SGO6xUL6DVjCXzxjBqD2ffHL05vTOfs-GTZsjScr5DyV5W2b5wAVzZXOKdJY0UOt8XnS1i2OKSgXsU-dgi391FYLQxmKbbkInAM5pMqsuTkd3RDl8v3puK0VFhZ5udEOTYeNBT2O9N4UuFo_i_LXVlKnkJ9SeOz8bCnLmCQd3mwAn1vD8xy8UyN9O-n8gpwZL08S4vQAl5QCpOgcCLF-OZNSqT1sxvuD0UlwJdsjevgaOWvUMhEEZWbfG2_boYqtU8ml5bhjY7PA8ENtAW5gff-vNorbiLVWALuUOgnqRgufqBaD7f6JRe-iFs5A8l10UMaPyeYlAFC2iAq0GI_FrSSMwnsqF8kmKr9Q",
+      "width": 3000
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100532520101923832776\">Song Lu</a>"
+      ],
+      "photo_reference": "ATKogpc4dDmjU8-4CIx4nDRwAuzNP2t_9v-ItIk74rLXoE_GYchdyx20rEMpWhyRcjJxszxAtK85neh05Qy3Alkc1Nb94zLV1mjv5M7feVdb_ydHNYgYLLdSU2g8RPZ_tMLCt6Cx8E0BOb4A9HGH1jfTd9uH_2twfyiPKKbj5ig6t-VNduoslbBjeCefoz9AagaiAh9uTu3lgykLu77hicMIjhDp1ySVu-cD8fSvg7Lxe2sjbC6tAGEjtNPECSM4pSlRkjMh-1IbzFaHyH-RQC2MRdIoGCISpjtmXnqtn0ngfj57VRBue8Qlw6Ep0GBoTUfLEVCLbP0re9coisbMRC3KiIzLPdMP44_azrVu3C562lGfduBXm0OIPtuGGWac8ADZJPUuLvzIMQvs_U7rD_SInr_KFo7UJR1oFJuNQfwEkD1IThjh",
+      "width": 3600
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108242602833839769539\">Tingting Li</a>"
+      ],
+      "photo_reference": "ATKogpfya-bWz3hG-cAXMo2qDefz7QIKKcbmp9NG3-Fqlov5JlIBWeJWlRmsbfLTWQKrirIHgfO8W77ap2EnaqtCSlZeqanFpckkyybrpOczYxpp228Q1SynoZ6K3AeWJxrYFUjsj2ASldoyzy6YAcqT-UcgZXfoEcGzimVOGb405P2oj6_St9hkf2LxS86470dIsRjHZIFrAErqCM_vU2phCMSfBHmUoekzQffugf3DdpjqLi-LjTI6-p3X8frEZD1JCoxy7pxfsnxT7a3nzcb-rUPkMCKiFxHDzZJs_Ym7VNYZ88jurTO8K2idKA1fDZhMPzkCAOEXqyBiaWFBxcQ5YNErrR8O7eo_RPoitIIl02abh8ubScAIo1IiVnbXgtRWoTS9OsmVG9BM5lIIwMzOA-uB_H7HBIx9imL1NanDUi6fWw",
+      "width": 3072
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105585949220634047605\">john eng</a>"
+      ],
+      "photo_reference": "ATKogpc8u44Zktu1xVwT88nsW6M3cjxlMrc92uBKTUV4EicQDTGRoo4XltcttH2lMn3wzid8sRhqdSH_oLFBZizLkxDAEYDJ0ri21BOWFRGDKqmxhKthAnmCoKo4pvwlHe8Xau6rnKwQdCMbC_V6ul5X_Hetqq-Bk7XOn2u2kGh-oYeJ0wNRUS4PmFmvtG-2L9gnqgHada7fxyetAcJsZOkAJzSc0HBtMWYgAMrjmJs5nOHQUczBtpbAEJULkvhdjVXoKWU0NLzqQv-FwFToMufrGFJ9p3ZUdc4iwjW-PTGFwvH-PNYvevpaLSzHxbzlo2Z65Fy6HpabEmbsJcR8WAVkcR3Rc3XrvQfkl95UuAcJNnYpg1HQdJ222a3zLOYMpto96lSs8vAN6ZJCglaG-48Jc4x_aumWr2f9NOGEkEcVOQelYyM4",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJz__1TsphwokR0jywVu1dqOM",
+  "plus_code": {
+    "compound_code": "Q686+J5 Flushing, Queens, NY, USA",
+    "global_code": "87G8Q686+J5"
+  },
+  "price_level": 2,
+  "rating": 4.3,
+  "reference": "ChIJz__1TsphwokR0jywVu1dqOM",
+  "reviews": [
+    {
+      "author_name": "Will Fong",
+      "author_url": "https://www.google.com/maps/contrib/110340486250949194587/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLJqulxbxAw5XbC75ovsEFhh4u0nC4O0uYwU6aVL2MKeX2L6A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "a month ago",
+      "text": "We were excited to find a Hong Kong style restaurant with great reviews so the 3 of us traveled from Brooklyn and 1 from Forest Hills to meet up at 8pm Saturday to give Yummy Noodle House a try.   Once we were seated we ordered the HK milk tea, lemon tea, & 2 clay pot rice (pork & salted fish and Chinese sausage) with the female server then asked for a few minutes so we could discuss what other dishes we wanted to try.   A few minutes pass and the male server approaches with a bit of an unfriendly demeanor asking if we were ready to order we finalized our selections in front of him while he grimaced - HK pan fried rice roll, HK pan fried noodle w soy, shrimp wonton noodle soup, deep fried fish skin noodle soup, fried chive dumplings, salt & pepper fish, and steamed Shanghai soup dumplings.  The drinks and the dishes started to come out relatively quickly considering the house was semi full of patrons 1 hour prior to closing time.   HK milk tea was average at best compared to what many HK cafe's in the east coast present as HK milk tea - there was no depth in flavors, not much condense milk flavor, and too bitter.   Onto the food - we were really excited also to see they offered HK style clay pot rice which is becoming rarer to find these days.   One of our excitements of the dinner to try, yet it was similar to the HK teas - just average at best compared to the others in the NY/NJ area.   Lacking favor and quality in the rice base, proteins added to the clay pot were average nothing impressive, and even the flavored soy for the clay pot rice was eh.   One of our litmus test items for a HK cafe or restaurant besides the HK Milk Tea is the HK pan fried noodle with soy and Yummy's version isn't exactly authentic in all its ingredients but it was tasty, had some wok hay, and noodles were proper - a decent dish here.  The other stardard HK dish we rate a HK eatery on is their HK wonton noodle soup and Yummy's is another eh.   The wontons were lacking shrimp and the mostly pork filling was overly salty, the soup base was lacking flavor or that umami/shrimp/seafood flavor, and the noodles weren't exactly amazing being a bit limp as well a bit soft and missing true HK noodles having that \"ghan sui\" flavor.   The pan fried chive dumplings were very decent with flavor, fresh chives, and filled nicely.  The salt & pepper fish dish was eh - nothing for us to order again.  The Shanghai XLB were eh - another nothing for us to order again.  So for the drink and food I would say Yummy is what it claims \"HK Style\" and not authentic HK food.   Portions are decent but if you are looking for authentic HK food and excellent prep/flavors then it's worth a try but it's not the place.\nNow, the biggest issue we had with Yummy is that at 8:20pm while we were eating and still a few other parties eating - the staff started sweeping all around us, spraying cleaners around us, and the male server asked us if we wanted to order anything else.  Then at 8:30pm the male server printed out the checks for all eating patrons and placed checks on everyone's tables without saying anything.  Then he proceeded to sit at a empty table across from us playing with his phone while seemingly eyeing us with another staff standing at the rear of the restaurant also eyeing us.   We all felt the pressure of the staff wanting us to finish, pay up, and leave yet we were half done with our food.  At 8:35pm the female server comes over to ask us if there is anything else we would need and one of us says - oh no but we know you want us to finish up and leave.  The server then says - oh no thats not the case.  I then ask her what time do you close?   She responds with a \"ummmm, well the kitchen usually closes at 8:30pm\"  and I ask her - but your listed closing time is 9pm isn't it?  There was no confirm or response.  I mean I get it - there are 2 parties left and you want to go home but the whole night we felt some unfriendliness from 1 or 2 of the staff and a lot of pressure from all staff 40 minutes before closing time.   This isn't how you should treat customers.",
+      "time": 1747754826,
+      "translated": false
+    },
+    {
+      "author_name": "Mags",
+      "author_url": "https://www.google.com/maps/contrib/112456020401935456785/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjvrJx2RtkJJNi5oOr29ywKcYGWNVzKDGoHWpctgypRfKF3S6x=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "Authentic Cantonese dishes. A spot I go to for clay pot rice in Queens. Anything you can name, they got it here, from soup dumplings to congee.",
+      "time": 1749325806,
+      "translated": false
+    },
+    {
+      "author_name": "Emelie Nguyen",
+      "author_url": "https://www.google.com/maps/contrib/116585814957968301527/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUpwsqS7yg6aXm2cxgpL5Jqf6SY_jYc4rUTSGxfnpBvgH1fuARNRQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "Absolutely DELICIOUS Hong Kong style food. I went with my friends but I need to take the whole family here. Four main dishes and an appetizer amounted to just $18 per person for four people which is insane to me in New York especially. Absolutely a hidden gem!",
+      "time": 1722354828,
+      "translated": false
+    },
+    {
+      "author_name": "Tina Ng",
+      "author_url": "https://www.google.com/maps/contrib/111456037418836062991/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1fhc5tOyqfk11x2P04Wwir2pl6C07r5tJVJZTNALtAA48_3IBbg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "When you're feeling down or lost or sad, come to this place. It's the perfect place for comfort food and for no-nonsense ordering. My grandma never made me any of the dishes at this restaurant, but if she did, I'd imagine it to taste like this. When I first visited, it was a rainy day and I just got a bunch of work to do because I couldn't speak up for myself and say that I already had a lot on my plate. In my little funk, I went to this place and ordered a bunch of carbs for myself; I think I ordered noodles, you tiao, and dumplings. The dumplings were so good, it's not the thick skin type; the ramen wasn't too spicy and the noodles didn't feel old, they felt fresh. The food wasn't extremely fancy but it was good :)",
+      "time": 1713468183,
+      "translated": false
+    },
+    {
+      "author_name": "Rosie Lu",
+      "author_url": "https://www.google.com/maps/contrib/116864447772582149372/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfowAlE9n0SwVHWArZYT11mHjjqgr9g-Chjxk_2-ZCpG5s0yEfzg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "8 months ago",
+      "text": "Edit: wanted to update my review that the beef brisket with curry sauce (C2) is crazy good!\n\nFood was fine, never tried hot pot rice before this. It\u2019s cool to see authentic Hong Kong style food in this neighborhood. Interior was comfortable and service was good. To be honest the food was kinda forgettable but I would come back to try other dishes",
+      "time": 1730215443,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_breakfast": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16404464916640054482",
+  "user_ratings_total": 455,
+  "utc_offset": -240,
+  "vicinity": "33-35 Francis Lewis Blvd, Flushing",
+  "website": "https://yummynoodlehousenyc.wixsite.com/home"
+}

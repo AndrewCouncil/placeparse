@@ -1,0 +1,443 @@
+{
+  "address_components": [
+    {
+      "long_name": "FRNT 2",
+      "short_name": "FRNT 2",
+      "types": [
+        "subpremise"
+      ]
+    },
+    {
+      "long_name": "81",
+      "short_name": "81",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Mott Street",
+      "short_name": "Mott St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10013",
+      "short_name": "10013",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">81 Mott St FRNT 2</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10013</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Tuesday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Wednesday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "formatted_address": "81 Mott St FRNT 2, New York, NY 10013, USA",
+  "formatted_phone_number": "(718) 496-8163",
+  "geometry": {
+    "location": {
+      "lat": 40.7166171,
+      "lng": -73.9981349
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7179289802915,
+        "lng": -73.99668531970849
+      },
+      "southwest": {
+        "lat": 40.7152310197085,
+        "lng": -73.9993832802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+  "icon_background_color": "#4B96F3",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+  "international_phone_number": "+1 718-496-8163",
+  "name": "senti senti",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1900"
+        },
+        "open": {
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1900"
+        },
+        "open": {
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1900"
+        },
+        "open": {
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1900"
+        },
+        "open": {
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1900"
+        },
+        "open": {
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1900"
+        },
+        "open": {
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1900"
+        },
+        "open": {
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Tuesday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Wednesday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3659,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117901196100799190323\">Nikki Gilland</a>"
+      ],
+      "photo_reference": "ATKogpcG3IRpQReJvBkxUdCpa1yXX1I3W2kl56_2q-7TQlv4ORAGPRWpE_ZSFhJqMYSGYATZ1wmm4TvTHvq5UOSELeCNRon3CCUe9uqZF1xUm67IGn2shbScZgkKctxFAoSqQ3hG-SeulJGHEdd89u_yB6vMraDhgJKEOi5YOXJkkfAxc7nI10JfkTtW2DHHcjnWO7TJI8fcGcNOtRwdO8TZYDXlwB0v6RVWMMX9yUwgDlKZdcwYUbKgXu1IhHPq46GbmeqvPFDNb5ktA52dButdve-j4bVWyxL5Rpqov5VxIobIZ6y4dkWNSaBOsbr8TlYp30hJOwcexnKfI-p16NoRcTmLKmA99aA51ad7Y9fVelu1nZfN9FqXunhUPMnS3dOP3LsKoJcehJ--yc9IgqENYD2fD3pVTMsqcQPc8R_Z_JVPxw",
+      "width": 2744
+    },
+    {
+      "height": 1360,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100503641359973679666\">senti senti</a>"
+      ],
+      "photo_reference": "ATKogpc9EX68npjUH1gPYH5gU-5Z7UXhWES6MGhz0yooU9y8fD33ovwKeGRJ_vwEo1sDiOq5nMvZMloSmyt5U8X1--ht5-7FsnICUw-8Xe4qkkqvJR08iC0cf9DbzDF5I1_8tY-D0lrODIRlksP_zPJMcmm_EF720J5PFTSClnWydXp9xUQNfN7kM8HdZIQmeeyR_M_cmCy6_QjLwCJFMZKl8K3mVFutreXCWVVcTyWgmnJhOvAzFvFdEtL4npfT3Au2MO8ST7dEFCIiDgYj73KZbUjhSHodQ_PQ2OaCxwFRLlJzIg",
+      "width": 2048
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106634007242480479104\">Edward Halim</a>"
+      ],
+      "photo_reference": "ATKogpfZdhCroHF_keyWGez-dYirFBwW7kZ7rdCPbyIN25AWzIQMdCAC1_fDgogmXdbeDSjmaYhqEX0aHNaq3r0kq0S-9OK9PcNO2TxJg6FHBpkGcfHd5AEOBtd0BfOE04529EQdacn1w-rVvoMVScgDjx3v_iyYrY-8U5Ncd_-cbqXrl9Tq2BZ2llv2hu-OCQxkjC4r3l2FmN-jq6UegOVBQAdzRPViKHg2XHdCObd602FekokXZdVUTN3piR3AGIC4Qw1JDcYzRo7fX00CcCchak_4E_eiKtQ3VS4HC7KsHg_WDR2BWl_Br2J3og5aZbfyfKL5lJVTKnrB6xe9hGQw6Jb_O4C1FDeLaywxiF1LMQnecJcuQGQVZw0N9jYYVl-380JXnKFN7qM1-FmYApJ_lF51c2DV24SPaw0wJuPZ5I2gAg",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101737253743308666561\">Cheryl Abreu</a>"
+      ],
+      "photo_reference": "ATKogpfO67hc1GmZy2Ez-kIyA4li2AfPfHIp5LhwVuEkjBU1yud5YXe9JGBXIeG2Qm_OIlsIixvhFnU5n9nS7QqRNiOFZQ6NCkrTBz78Y1TQbyo2hm4hlwJQe3Aoj4zLtBQfQMcF_GSmIhUqmf4IdHcgbccWZZu76NDSC331OMEy61LrjZgQxLdXANyShCrXYZnFN12PTgFb-xvFS2fIn8W_o-fSUx9KPY6Sb4aO7jPZrkeZEzMDB2zrD9podCtO1XdzBXpKW_x-HZW1miyAmm_p41mO1MbKb_wJYH001yp1FAFpC6TsnMHXL4RAMnk9vAwoWujgjoV0qMBKyZo9YlRIc0agmWj9t4wVLfseZ8KCtmDXhXw500Tnw3aUe4EFGIBKc7iZWS9LExZ3HaC9puj0d4l1mZDwEwr_fxqDkfSzs47fjxXX",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106634007242480479104\">Edward Halim</a>"
+      ],
+      "photo_reference": "ATKogpe8B4esx7bZWY5QgtqHyYnkyjBKUZ043sHFteaIjVIcGA6nl04VNDBwgGqjJ5YNnVlH9E-8XSVU4NqaHRhgJqtjeViDSR03iFsaU2j69ylijvFy3GL9H-Uu-FK9-DnfK70q4IArX_uNYadr7mxWmO78jtgj2FuHQ1qRMTGsO3H0ZhyDyA2jWKWd_0-jDTIvsZ8Nzo9sxxoTzaeqIEyJ3u905TwcJuwcWXNQJ_6FORgEnKWjmidgXgdoJo3VpkFjbL9CkGPH_UNej2xqpbP7B-yfFxGRyIToVHrh8lB7CTHE8226P4_K_xV8kUZXNF3kDrBSwDcfyH5qlhyZ-LAvUqlOPcmrGOF5i0yN7CTaDpbKGrnTBPjIFiXe5BMzhjSBf2Lxn7w0foFGcNwkFrJO2Yn9fl3ZXXDp6Q9Fbd5u0ReGqQ",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104682019340422771019\">Cait O</a>"
+      ],
+      "photo_reference": "ATKogpcrv04VbcdER9i3j7NwQ1ObHZ9hWnqSKWVkiHCc0Jy-G4ZomOfdvAp_xx69GHHhxLH7icCzZL4fj7Rw50ZikyhWFV419A7UcxVWhBjNV1VqvnsAfrOROiMrNyIkJBaJ9JWAby4xL8itYhM1wx2eAfJpqAzb62i5vQlQnivfIO1Qjip-H144d0JhomODP6RlO_GT1ZeB0oJ6O2R8HEBiQIE4AG_wb8TiaXdl-xm5JzCRbJX1L3RO5RBQLCBTiKuQuHOKvQHHDyf2v6DeQHc-iK6FOL0O_i2LGPi6MXLo2YYDDD3xTFEMpU4C-BcRgxdrRiEgpFdes64YRrWK0ecyQ9zhIGzPazMvUaV8Gg6Lslj8jNUO9l_EAMkNw3huDpvc5RgzkgSoeK1guPgPomvKP919n675WDjpNRCQTDdDpBv1KA",
+      "width": 3024
+    },
+    {
+      "height": 2048,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108488426305205786045\">Deena Miller</a>"
+      ],
+      "photo_reference": "ATKogpfK-FVT9NwxVkSn2LTi_0VT6vipvMr5r1jYGiRFY9BAzrNWYvOvmtLw_nivmYJXx7igcbbYr5J2aC0Nne1nrEUO0c8_JHf2d1ohLTazMTpUHlp8P2_G-SP-MHz4piCHxvgkKeOgK0Y-BRcV_PlZmLjfp65xJBV6ZU1cIHZz_VNdV0i0jQv9pSZNVAiDQLBXSCZ6eUDDS_BHuOdPzrU3EgyPgrX4wUO1E3O623tzxeVi-LhE5H8OniopwTrvIArXF4kfquxsyFZsfMZsqwzE_mvrYJXcv0FtQag1fO27yETOOr81KqUl5FbG9vULPe6LOr-1pwHcKk422NDnLcvMJKmZIXKWQMwYK2jLrhrXsAZx4kh3Pxsd-2jgjEs5VnV3lQ8U4XO553FEeUbcMftofgOpIohhISQ8yj0Jluib4SvEbw",
+      "width": 1536
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117612319440361715580\">Sabrina</a>"
+      ],
+      "photo_reference": "ATKogpfUxJA9VkPKgmO0xuA6nvxkuWzhDu7GNUXwP2KvLsQH5B5UYDYxeSp50OxcFADJ2IRdpfIaJi-GPxQVbTeBw0yhz7qtzXnOVgRr1aFIomTASahOqzntqJ_abfR_yLCYcq9rj-Iti6XjHxKEl1GiqKysAR58X1liLXekAyf4PedBsHQYdGb6WQT9GH-UZN2xP2EAboaDzebvMVcFL8Wesdl_MMRC_W4jszvsWVPExV64dWDR50kYaTt1DAbj1_41vMdi6YRDNSveT0m1FXHrHchL_DB0PqaWT3je3nDYw5w-aXBDiZK1pP7mcYKOS-NXl9XyIW8jqh8HfTkqrAvBIP8drA2352G4Uv9vCtsNTGvedp5wdX0uvK0ufKkdKGAkQZtEi7rd9vFv0ZNxlDEK1khTi9sD2qQyr_H16nLXkVxRLA",
+      "width": 3024
+    },
+    {
+      "height": 1000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100503641359973679666\">senti senti</a>"
+      ],
+      "photo_reference": "ATKogpfMzBGZmhZ07Cbr4jGwbLXPXkVRWD0nq-ZLQnqd55Z27qrElHKDGl44IqDZN7nNYpaO75vsQ1lIU2sgdGl1d6SZugkAtW4w_dTKJA1WhiwwLTJJ5b-KoKPy0oO6Bd91g2klJEup8KtP54jPm3OggMkeizgF5m5M-qAJRUhf9OQR2UKKHrmF_4dGEllFLVgGrrHBsN_pNhUZGagXF9ePVRLPh_5qQBwRjVX4lNoeeZYtzyFqybc3jsBM8EiJUJA4S7v3WU1FQNdmvN9yAfwV0nH9NUnZwuAQNlPcVjVh-ZlIqQ",
+      "width": 750
+    },
+    {
+      "height": 3913,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117901196100799190323\">Nikki Gilland</a>"
+      ],
+      "photo_reference": "ATKogpfdH1kfi5oEqaFl2K1_luboPiwKTdAMm-leWN2hMeG9BWFC4CDSz2VGEGTD9C5BRvKc0BMLYOUUlV_cA7Rhohvzu_697MWzbfnqJhgKKw2SkZ25YWwdYOPFBFkPdeZa6Rntv5qGSJU_ZgzfKnKugs7A9vGpWWZQrjxNhjMTCk2-dHqkKSrnXgvdAVEXI6cHVChFUaxV93w9cuRUp2TAam78lLu6CdIa5mRUxVQrcQwyzjnojvpa-jwdZYMI7MD6jUgz2uG5_hwohm9oKwmHaAkvJ0w81F8KZM76o636C0OdzcGIL_Rsb4hWe_qAXY9-zFPbYSi1c2EJiTfnO2QNu5ZwNz03ah-YVthVq_h1ihLwKTEr1WZZIzzJwz_F2FI1BGnKIFOFk6VUefEfHTUj3Edp0Re-yCo8a-b26FgX1Tn4jw",
+      "width": 2934
+    }
+  ],
+  "place_id": "ChIJPQQJuidawokRnPb9DhoE-kQ",
+  "plus_code": {
+    "compound_code": "P282+JP New York, NY, USA",
+    "global_code": "87G8P282+JP"
+  },
+  "rating": 4.7,
+  "reference": "ChIJPQQJuidawokRnPb9DhoE-kQ",
+  "reviews": [
+    {
+      "author_name": "Zamora Cabrera",
+      "author_url": "https://www.google.com/maps/contrib/100249580352817326968/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWK7ZjFsQnj--7BFVc3uTjG-tmZStfPMpNxf2PYdm6S0Jqu7XW=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "This place is really nice with tons of skincare products available, the workers were very nice and helped me with picking out skincare products and giving my advice along with what the products can help target. It is quite tiny though, so there\u2019s a limit of people at a time inside. I got 3 things an oil cleanser, these cleaning pads, a serum to help with dark spots which ringed me up for a total of around $66. Then again a lot cheaper than shopping online as they threw in a 3 samples of other skincare products.",
+      "time": 1744684316,
+      "translated": false
+    },
+    {
+      "author_name": "T R",
+      "author_url": "https://www.google.com/maps/contrib/105518359002386272174/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIi-FJskNxwa4JsMcoGVlLOlSTo3hRE9y5mRXjG670SRdpe718=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "2 weeks ago",
+      "text": "They have a very good selection of products. A bit expensive, but that's the nature of being an import store. I'm more disappointed that they charge 25 cents for a tiny bag and don't give samples with purchases.",
+      "time": 1749932314,
+      "translated": false
+    },
+    {
+      "author_name": "DGR",
+      "author_url": "https://www.google.com/maps/contrib/100328578983821603771/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQqUNeXqDYbVGrttgNr6uQ_24RgcVRc15nUS-zIU_LZ2ZZRw-eWw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Tiny store but packed with products.  They had testers on a lot of items, but not the one or 2 that we wanted to try.\nThere was a sign on the door not to let more than a certain number of people in the store at once, so we waited a few minutes until we were told to enter.\nI think this store is popular with the TikTok crowd.  But I think the prices are a little higher than other stores that carry the same items.",
+      "time": 1691612584,
+      "translated": false
+    },
+    {
+      "author_name": "Alma Matrecito",
+      "author_url": "https://www.google.com/maps/contrib/101609725966708280943/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJrSZ6S0GjrKm9JDVniDk99yb2n-vvU97sELGc5y0oHHBxP0ey=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Love it here! As a Miami local, I always have to stop at Senti Senti to stock up on my Korean skin care!",
+      "time": 1746461536,
+      "translated": false
+    },
+    {
+      "author_name": "Stephanie Proulx",
+      "author_url": "https://www.google.com/maps/contrib/111258352153523036187/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDCNTkjzJE3nddc9w5GbJCFOFWunzCI5pOzCBQU7bLBKm_hWuY2Q=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "Saw on TikTok that they have the viral collagen masks in stock and I wanted to get a few to try! Lots of products to look at and shop, staff was helpful when I was looking for the masks as well! Would definitely come back her again in the future!",
+      "time": 1725802380,
+      "translated": false
+    }
+  ],
+  "types": [
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4970289648723949212",
+  "user_ratings_total": 336,
+  "utc_offset": -240,
+  "vicinity": "81 Mott St FRNT 2, New York",
+  "website": "http://www.sentisenti.com/",
+  "wheelchair_accessible_entrance": false
+}

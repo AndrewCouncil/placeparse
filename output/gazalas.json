@@ -1,0 +1,449 @@
+{
+  "address_components": [
+    {
+      "long_name": "447",
+      "short_name": "447",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Amsterdam Avenue",
+      "short_name": "Amsterdam Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10024",
+      "short_name": "10024",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">447 Amsterdam Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10024</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "447 Amsterdam Ave, New York, NY 10024, USA",
+  "formatted_phone_number": "(212) 787-1800",
+  "geometry": {
+    "location": {
+      "lat": 40.784567,
+      "lng": -73.97705599999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7859319302915,
+        "lng": -73.9758093697085
+      },
+      "southwest": {
+        "lat": 40.7832339697085,
+        "lng": -73.9785073302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-787-1800",
+  "name": "Gazala\u2019s Mediterranean Restaurant",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 668,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102644864846236096796\">Gazala\u2019s Mediterranean Restaurant</a>"
+      ],
+      "photo_reference": "ATKogpfre1LVYQFdUjCDA-RpDZbcw8aAyadiRUA2brrod-67Cgz27-vmP9uuwLYueUFn8knEIOfgYvDPAAgnULh28MPJz5dbt9s_Kg8dYPuyxNqpMWZo_aFmXyXxo7VXaU1dj_v_5X-MvB-2vqnRS2jb26ZnAIW_bq9uV9Sjfqsja9Bk2b0uuws27oENCDC1s4RFyZhXC8kpDKj_3ZzLB-n9b3Nfq--aaKSAHwqAP3tx2h7nkM9W2UbZPRs950cYVHEtzWPbRwPaeBSBHH59KdxemjP2ZtnF5QmAAyW87mArBr4g4w",
+      "width": 1000
+    },
+    {
+      "height": 1280,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102644864846236096796\">Gazala\u2019s Mediterranean Restaurant</a>"
+      ],
+      "photo_reference": "ATKogpe7TUzgAU562sKd-pxYBEa6USEBId_ss1VTUKs0yEQmbHf6qnj2CO-QoVQXeKM9ifjxLQ6Xw41-RfjZssaSwIeLhvIqh3bfuOjpvK3JpVYkEljv63fOwSpthCygf9vcsZxKcEeH2LEGXNrcFOPc0_tcpBSC4w34eZxMm5r-UQhUBIEDlThlHEMc2FHsIk3XlyPcbJkrBLEGy-7EWEbh8YBAMXODem7CWcjdVUeq6J4kIJaBNLg8YOuGhRuJDvUn9gq-v68cOO8EllHs1QmjDhWCPv4_zV_qR_LshgGe8C3Zvw",
+      "width": 1280
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101371150189225443229\">NYC Guide</a>"
+      ],
+      "photo_reference": "ATKogpcEQLKhUyv2G3pLCWlrlYXkLkCK_gUpejo8FZxkpyLmNbXMTTmDeIqmOhfUHbh1Bu58_GQgAa6rZc_BgD2BeeLxD7LnG-XidzK7XrgnP1C9yNXjQj6ZZoK6RFiWrSJ4mcIt-9I4iSqNNd2u_i5gvi2GciB0DJ785Ukt38gDkFt9FhZr-5KketLWKi1obl8gHceZRH8sJSQ9yMIwR-lsNJhd0Ux8-hgkTuljBa0lk8dJjsLBj5NgJcKrn4PF8JgBylQ7zDKgkciKZ9-YWEYesoNdhC2wnvIgT4grCqKN1a3yi_oLS1W1QbioWmWIqEJCY4UQBs01H27eemQQvaEQFoFzaXzICRjHsmuzrOejGzYnLBYXIwoz2DskFShOWPQQdgN1vG7BAlw5gh0RN4ndQQceU48yvvgHg9z00dtEkjqsWsNr",
+      "width": 3024
+    },
+    {
+      "height": 1200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102644864846236096796\">Gazala\u2019s Mediterranean Restaurant</a>"
+      ],
+      "photo_reference": "ATKogpfCHu9S4zKOwbwvkRbgC87yI1rMEFSxWKWt6bROeIlebLqTQ6sUSFIWrG05hFZ2mmQJbL-P1rSpUrRAeTMV6MHHI-omyEJ1MGzMMiUpChsQxLYdXPOe7uG4AEOFOXY6AqqC9PPjmowSem64nhrARMejdq2Vhv6duGQNtkIHQ0p3Q_9VfukVHypVKQ4fliYFR_klOvteOb5bFtyJtHEkDqgEsEOrnpSybuKtOaZcpLOEbBqkJ5YMq5BKR5_ZktBOGfAK22zJk5TMtjG7AvXfafBSQyXL9YsbZfgJR1TOS7zidg",
+      "width": 1200
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110369803643892211209\">D B</a>"
+      ],
+      "photo_reference": "ATKogpeFhkSUdc2t-9N10XsYyujX5PzIbfSxt3jlipuEuGhU4Jac5mTcTjuwt2mMJzU4VXTyIcTl0bNRJMSWOtGIQWB9v8lM8YUyCFfXwaI8h7zCZR8NJXrK9HO_vIoTaX30WVJ7g3DdtbEuVLjgVcIZM-u-wNMmUQdpPw10LWyuSPL1duMCFTVRDplgUgW3a2dUbxH3CxUfWZU1HMBtjY96OIhWvv97vcAYM9U20wOoS3hXhr234SRNURNfeobdiKtPpQCwW8iiiX-L3kSybturnuLKN8jELAD1qBWGxSuq_2N6WsLHX34d7UQYlZa9ycWSep_Fkk1JBf76RA_Y1EvXqBtZZjLjyGAO9n5uO6_QV3o4iYF0TPvWBUEsvOZZdtB1X0G0-KPC69QziVN_Nrw5bwUwWn-6qqk3VZ64ak1ouwqBq5DY1wIBDbt54vx4RX-8",
+      "width": 4800
+    },
+    {
+      "height": 686,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102644864846236096796\">Gazala\u2019s Mediterranean Restaurant</a>"
+      ],
+      "photo_reference": "ATKogpct0IVrsjACIS9qf1PvK9G9dEutd7Zv_l2t36kfA7gK-igEof7ffCE53WoX_CwLP0StYbd6feBxXKot-n6kzGWg13pD9yzBoZMyX8xEq0WGu7bzXfdDH6kDgKLtC9-tnJ4bp3y4C2ZiVfqLumexP2V-Ec51TOadM-Ph6ISUquJD8lV_uXE-guh0sXQh7Han0AVVDbNs7dMmbKeLb9JEFygQHQBJKsf9mVjBzfG5CdJe1xikGvCVtLCDjeSeokkorIet4KdqRg0GQAW4VUvQi-dQ2AVJGd5PT3aDRox3z6co_g",
+      "width": 1024
+    },
+    {
+      "height": 1200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102644864846236096796\">Gazala\u2019s Mediterranean Restaurant</a>"
+      ],
+      "photo_reference": "ATKogpeYBiP9rtEjnKxBlTnCFZLmQh0txundi2EmOCMLNZLsvTGdMqsgWo0zI3duSRx7T3rLQjQMgljxGRp31JJnOx6wooAX8yXGefFFdZb0fvqaf2_WWSHBaeaWKofp3eWkSd-xs5PFoTUQGMJ9q1pojv48CC8Vn0B8HbyhjQnnenKKfB2CHHlKGEvibZJw-pMj6A3VEjOeUPJWPCjKKsQBZ6Kyq6ASOTnHrawjrAhBtoF_27XdjwUghlVqrd3e9cNAz2WZ68LM2Yq13SNdKzPvOdH8IoOGDXaawXhjzfWLGzmfWw",
+      "width": 1200
+    },
+    {
+      "height": 1200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102644864846236096796\">Gazala\u2019s Mediterranean Restaurant</a>"
+      ],
+      "photo_reference": "ATKogpfwdjnNKnIE8eAhVcEciWzYqnw3h0G0ZXdxT9BFpc8Xps-qAnhM1JB56ktpgOiaXNoEKT8d4dwsTC2Nh22nMD1tyz2vBRKcvZ8CLaNhUmgvxl_OPS2qyLTb6hOXDpaMz6CqhOj4ib0qufBdEHf3Vh6TS62gyLhIWyUHXeGiXD8whMGNUAbTLHthz2LfwzSVANH8t0BeW4zFjMSkNxfs1XvThnqvfNBgJj4h7nixFwxoUx7puxdMYazdETV_vvVsh7hW9zBgju4og5byYIPladEkCrk7MZ80DZE89C-R2tB8WQ",
+      "width": 1200
+    },
+    {
+      "height": 667,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102644864846236096796\">Gazala\u2019s Mediterranean Restaurant</a>"
+      ],
+      "photo_reference": "ATKogpdmSKvSRLMKzlIlkk9G3tmH9UbLUYk6_l6CY_rpmG1krkHKbWP4aYCwPaHKahZw_SwrXeVOqQ6b4HeHUMOEpyo3JQn0-U9H_ey9exb1FV0RDDlIP_NsodGGw46VWGsi3TMqBkbFSRNz7mJyydv-v4iRzJ3M5P0R8HoilYteul6Z0Pc75mfFSrBHdN7R461RcvI0X_6BQkXHSP_MMksUB23-CrZgGVm3hrdVyCjU0TCB-zYdGnwqgA7ZAmEYKF2Nn8zYKuHxMXxwDwwz2lfLWd2eQoz5IqaKuxqosL57FOpodQ",
+      "width": 1000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116508613387585310062\">Shachar Ashkenazi</a>"
+      ],
+      "photo_reference": "ATKogpcAB5f46IE-ACQkuvvHt2IPudckBIsnTfAJA_yq0vZEreoNpRXkCXre_eAXR680Jw-mLK7ve-qjBK0mi0JhFyvjOSpkXt8zEtZF_6qHx7VLCdyOxUqzGPt2-Ig7fkWc8k-dLak-7kUrMB4rw__vOIlUJd7wD7eAIIlLvumVQLUqXjfCJxbyAEZTijN84TszJAufWP2fLcCyLYuX2HPzsQF8c7m1MDEcn-aI1nStyE6_KlDqykv0XU7ZHe0OBNaaDzsSplscKqWeYHY2f3AX8XJLzLNKbxDFrVzaAu4mCHKFvm_qUoxv4U0SfT1BxuT2x-5q4Ul1Rllgw44I0fw4TG7RwatMubWvgMdVxoNCevcXEPGXDNXq_YTxTYjSjZCwt1mY9o4KbGoN70g9Y4lpbBEcdQ1IHuiVLxQQh1CrRihLkr2R",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJzTGU4GxZwokRi7JGJTqGBtw",
+  "plus_code": {
+    "compound_code": "Q2MF+R5 New York, NY, USA",
+    "global_code": "87G8Q2MF+R5"
+  },
+  "price_level": 2,
+  "rating": 4.5,
+  "reference": "ChIJzTGU4GxZwokRi7JGJTqGBtw",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "D B",
+      "author_url": "https://www.google.com/maps/contrib/110369803643892211209/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5zdBaSyeL8mYp6DO7j8-6Tak88Jm82zlvBhjNK0hncd1pf7Hs=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "What a treat! We tried Gazala for the first time and we were extremely impressed. The visual appeal was very traditional, which was great, we wanted the experience.  The taste and texture of the foods were divine! We had the garlic bread and oh my goodness\u2014 talk about fresh and tasty.  The crust was thin and chock-full of garlic and the intensity of the heat and the garlic was a big win! The kebeh was crispy and seasoned well.  Our mouths were in a happy place.  All of our appetizers were spot-on! The eggplant is a must- have. Everything was fresh and presented so nicely. We loved the cabbage and corn, great way to get your prebiotic. The entire experience was great the atmosphere, the service and value were great! The host was great, we did not catch his name, but he was so very efficient. We plan to return, soon. Great food!",
+      "time": 1750103432,
+      "translated": false
+    },
+    {
+      "author_name": "Roie go",
+      "author_url": "https://www.google.com/maps/contrib/111104442836281512488/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUnJmGwx0GxXGxjBRw9Kn3WE2aeGRAzPTIR14zQi6ESzWHuU2u4=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "EXCELENTE! Great mediterranean druze  restaurant. A gem in the city beneath all ordinary food that we all familiar with. We ordered the vegetarian Gazala plate which was very big and delicious, and the spinach burekas, which was perfect. The portions are enormous, overall great great experience. Don't miss this place, a must go in NYC!",
+      "time": 1743907684,
+      "translated": false
+    },
+    {
+      "author_name": "O O",
+      "author_url": "https://www.google.com/maps/contrib/115329823821933052469/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL04ys6KW9FCGAgHTjvvKfbYX_zEeUMft5idayBj4XeJwUXTxc=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "The food was great, the Israeli salad was amazing, the Hummus mushroom was delicious, we ordered another one, the mixed meat was good...and above all the service by sweet Rosa, was wow ,spectacular , above n beyond ...definitely recommended n will be back!",
+      "time": 1748917124,
+      "translated": false
+    },
+    {
+      "author_name": "Mark Ross",
+      "author_url": "https://www.google.com/maps/contrib/103253770688797368185/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJdxPVnfwHcBTpLoOaIgbIYrO79zbgCBV8Rev45Nn3TnYFrRDA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "What a wonderful ethnic food experience.  Everything was delicious. Nice Israeli wine as well.  The staff were attentive and knowledgeable about the menu.",
+      "time": 1747172656,
+      "translated": false
+    },
+    {
+      "author_name": "Nicole Malachi",
+      "author_url": "https://www.google.com/maps/contrib/117516849529103874982/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVR5ZcZaZqfqkm5Wr641-Dy1KMLBODhur74WwZlOjz6yKAUBXIE=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Incredibly delicious authentic Druz cuisine. Excellent selection of fresh, healthy and clean food. Loved the open kitchen, the homey atmosphere, huge portions and warm service. The chef is PHENOMENAL!!!! Felt like I was visiting with that aunt, everyone knows is the best cook in the family. DEFINITELY going back. This is a must try in NYC, (without the NYC prices) !!!",
+      "time": 1705889878,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "restaurant",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=15854507122496025227",
+  "user_ratings_total": 507,
+  "utc_offset": -240,
+  "vicinity": "447 Amsterdam Ave, New York",
+  "website": "http://gazalasnyc.com/",
+  "wheelchair_accessible_entrance": true
+}

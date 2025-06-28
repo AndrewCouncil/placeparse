@@ -1,0 +1,451 @@
+{
+  "address_components": [
+    {
+      "long_name": "37-65",
+      "short_name": "37-65",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "74th Street",
+      "short_name": "74th St.",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Jackson Heights",
+      "short_name": "Jackson Heights",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11372",
+      "short_name": "11372",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">37-65 74th St.</span>, <span class=\"locality\">Jackson Heights</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11372</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Traditional Tibetan food, including vegetable & beef dumplings, is served at this homey restaurant."
+  },
+  "formatted_address": "37-65 74th St., Jackson Heights, NY 11372, USA",
+  "formatted_phone_number": "(718) 424-1869",
+  "geometry": {
+    "location": {
+      "lat": 40.7471617,
+      "lng": -73.89134899999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.74856373029149,
+        "lng": -73.88997646970849
+      },
+      "southwest": {
+        "lat": 40.74586576970849,
+        "lng": -73.8926744302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-424-1869",
+  "name": "Phayul",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 811,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107106257818878795231\">Phayul</a>"
+      ],
+      "photo_reference": "ATKogpdqtshPZ9HfWkdEfLa5rSjuHIkwq5uV2bepylwJ8kql9B0UMP_TrEn623dWzYLJCB7VU6ZrqT5TVaZ-MVUFNhvsnsA_n3079upqpHs6zPEh62o6Kb5nMtOMvViXfYd54m8NijX0WqnIrvYM5HRrHyNLraq2_uF6KvuvWPZik2UiGg-O2KpqCRR695FJThQ3ijdGgwsvh1hD2gypyibbAfwhROJh22mXi7dgMagUPq6KQ6U6sXkB3vrkIRtLMnqBS8hUX-5YizSLjDbV8H1MQDsT6zPzxeEzPoXGQh4iL-NkUQ",
+      "width": 1440
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109049002905825727131\">Meena Jain</a>"
+      ],
+      "photo_reference": "ATKogpdF0KFT9Ykd8u338ycsDCgAKt-ZLGAyQfNAzNVk4Z7aI5SlNlBy7hAiIlCn1jSp9Vh7adDbhZiDHzZhnocCGSxZYtkrcTvbPLo1yjMV1Cy803qHUYmSAW4uMpEI9qgpHAkx2dieY8LUfbFzdE0Syyv5tc66dBQppTFKwh7q2M1dr0ZlgTmxwHt5Luq9WIFmwCB0k6r2ZNdeRhVzIGQgUPNnNWBrRqEo6NYv-O5vchpPNo4hGAyQOJQoOSWf8SoYXbCuQC3gAm5ubv13fPypL_oYmy8GMDY21T4mMZ0O-Aep0fuRHScip25NR3tiVFKvxdhoa2vI0Q_idjs-qvDNGwVc2otPNctdyp22zwWdUn-RR2s7jxKzKTFvPjdye0BFet5YSQUcnSAroZt3ds3FjSAf8Miaz5nHwIqySsrdELgSaZhtdCwOg8x8cLdxMp9w",
+      "width": 4032
+    },
+    {
+      "height": 960,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107106257818878795231\">Phayul</a>"
+      ],
+      "photo_reference": "ATKogpfv5TrhVc2CRe5hs9BHYAC3p3i4KTsqx5BG4OdW84o1BDvCpSEmqWYNiRWXRJjttPHvO_kL4vGl72mPGNNFPocYcE2Tn_8J4Fs9n-__xVFCooljmjGA8YQt-exJ_OnwwdcL2pvo1ZoSj-_Bx3Q_WZa6N33qsJvuXHpWbVSeneV2M03c3J0FjwUYtY7wiCfYzXBwtqFMzzp4EGxuyQod69n61as_DXv_0PMoOUcUh9NM4BUEAptw2UNC_5tqfSYu1pxEUQ-XFjL3ksfmSs2OvXRMVJurMKguWYOaP6oHMZ2grQ",
+      "width": 960
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107662777699730971839\">Aditya J</a>"
+      ],
+      "photo_reference": "ATKogpd4PbYbPgv12IQQvySYJgAJa5kgpP3JR9XyEem-UBOKDP4SVARiBbQaMrQQZAMddu6-DJsW3Tr3ajieT0lTInF7zKa5kCpBVqUNhescNYHY7i8eDe1QfJ772_9v0EKgJK_UDiRm6a_zH3fe_2RLdvDJrpx0s_fJBUpi0SUSi5xZ4srfpIlCqTCjOaHLe0ip8sWW7nqLlWfUkkx0eiyxCnGKZdFwpFdD-XOb16fYD25OKoIUC6TK-3hmJ3Ol3TdHkupjMyx-ffVC3hJOPBfXS36SnbjbCUE9gs428AjRijbLUGGwJZIXrt1Qj6fXOd5vC8tL7v8lvpYobvNUGGQLvYLGo6VDPTwsacZ8fPbTnX3jwv7SG4nNYtUacZJGuwSJxkE47VE_-URU4fFk6qcYW0W1iUy1EjlA5qiKdA9MmaEt-Q",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109049002905825727131\">Meena Jain</a>"
+      ],
+      "photo_reference": "ATKogpdddLqJu0ijls-fPX6KsWZeuF0BWxbIlQP5_cWVGwlDDtmskPoSw8Ef_qCSOfDxFKuKbCh08Ga1IRYrap2bLNa1LItTlGjug0IkujCHtaDDOX_pVwNxCVZ_EQLUssQ8nNxsQePl2888QgLlI2ey50qMvN6wW9R95xz9Zkzt_nsfXEPW6RnfcULmN_Ex7XUMGUbZu8WiSF5nd_JewTQODjqK17GAbUK1uYAj7Cj56YL4Xsc1jRiUzYaz6n-2Kccr6uz_w6sb0jXv9QdHoXjg_ry-RQFfZgQqZ8MJIogueLcSAYptyGaUxLbK37zZmmpvuFRB0kmS_PJUqZc_80tu_KnGewuBV_c5jkvIGLE_3zkpG7NzGFVWWmblcqo6L4qsrIJJdJ4b-a_ErPDeL2wUPPh_p7VReJ2PtRgB7YeW10eRGB5h_7MPgdFHqliEnQ",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115559900359779911252\">CHANDAN RANJIT</a>"
+      ],
+      "photo_reference": "ATKogpcvwSx1-qVyP_FiUh_qSDMe3oioN3ieCfB3XdlA0CIzkoFkwJB10IH8jh6pfOC2ZeI7UmL1KCIyindNp8QRJ37oC3VEmU9sDo1QKfmjFB3PUO6mbaLgFjTdd6aXO-aQ6tPiHUAmhOoDx7pgdH_rdZhTTLEBOVJMwMEinGn7Oe52NYPGgsn3sAo23inLGaACXjloKgEVY7BdpTPEx18laqXQsgx1rC3PB89mab_V6okbDl3uzkqLT-sNdCd3uNe_C5m_2CO48ymZQMnnFYgPu3yQy9j9ArSk0Tmb-vCjE9wuVuyFb8pZxCL2Z__ZTPvMUMrRm-JuJYEDEKJ26BNbyG14Ejsv8nivQ4cZUckyXZsP_AAUcQ3kKpc3vqzzXVwevROhZWRnvrWmdfaVShM_-A5ol3PPbR07l6pmOfw7uMtj68-L",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115559900359779911252\">CHANDAN RANJIT</a>"
+      ],
+      "photo_reference": "ATKogpfcmShuza31O6o5cih3NIr3mGVoyI-UurJia_jltMwx3qQ0bSdH3Yw8DnYEBk8XDWLjxDjxEqb_fgnngINQVqsLd0DymEie5zIPfOF0DhErhOzdZbVFcWuI2_2TzazaGfGQm_Br09_wDsr14jfm8JrPGA3X8VbS88kbNg16otn_L5QQNHHPjMGThOUbbzFxT7ClgWTqRtohj6lzqIGiXbI3m2-udm8JkTMjAVqfPJ5pMf87jVGCENHBDWdZhyCAShslwmR9cCLprxAQMWvFSMpb8dt5G1o02zdeZb5-gEDciMZof9LuTPXqmVYREQ-rzgRfxkxj6cZNqCVwV5tX-9UlD_Dby6DL27c8sGzwGTEHzURLHHYxlVB26RHTUFNZkorE3cz3peu1Hic8OGqnHnuWgZslOKLkqTwD_dNYLI8",
+      "width": 4032
+    },
+    {
+      "height": 1816,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103368525810800052619\">Jake Jake</a>"
+      ],
+      "photo_reference": "ATKogpcuLcQnVbv8b2RGHR87dP0TrSEb0XN9Oo5UUbBhxkdD8mFqwqca8FXOvN9NEmZ8-aKOzqhF0Nt8pgGgnr6HRp-QNKJNUscIXqQvgnBhigcYkNnaRFqFldVbyAMObWScUitx6RRnbcC3lqBSyw4pZ2fjThGV-tsLDY0SWMdSd96VyXvAbUvKt-qzgQPjTc5_5kzLDvbgFNL2bq90EOflnSYrKIFFJfUGJudob4c2a0Vr8PdMTSgnybuJzUDr6WOXxVeCPNagBNnC_AWIDqvaoINWMaunzqPfzuDkufjwIswQwm-HewxfJhbE4ijCAiH9dFh_fAavmb6zN11iOsXiaESGJsKV__8HJsPs9_t6-H7aTqBAqz2ne7yrCVEUwbJ81tfkl3-o5ZGJsg4QBG-_73kLtwqfK1_MIUC8G4fDWmoRU_sc",
+      "width": 2605
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114990865470518664904\">Uyen Nguyen</a>"
+      ],
+      "photo_reference": "ATKogpeqldpLGtHF6YJTdUuRSmI0sS-TaB3STvFdjHGZnfu02z-W40OPuuLjgWmoLlZavzz1o4iGcIrgki-aFM_W7GjKIJduuVgyrqmTW36NyLsfz28i9qyjmDGxC5wwCRhRcU-6MuK4e1LO74nkuscZn8hWpOcuNyzfBHLhmc-G72IF7KWH96JPgUzqPWG2-srAMdj2nMmwCq3Q6IFh0m233JkPPMCegx4Lby0ZoJw4FsW3GI0mboikZhD9-MvYfiYU4ymUyoseJobkXo2Jcvcr7hqstjCWpvRsAwKiX2WQpDLLOE9iK8mMNHfXr3h_zemTlRQ8PnN-F3BV60BX9vba_vBKr8mP6ZYR1cvKBGQk9QgJSDFBSHW1SYyFDKgW3hwRAhOqu-xO0htoHkkcFdG2rTobIr1sfaoRczWT9Dh3ovY",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110969829192883999185\">Kimberly Lim Legaspi</a>"
+      ],
+      "photo_reference": "ATKogpc385Au_NhEo2GAthbkCqDw2-LYi9O7t9hA4erlxaJk7oVjoP3T6a_EIvdPgmwW0YBoNYJ31iGUnIet0C0aA1mqfUMdpzW1LV4ElQZwKLXfwtQsyaGYPkJhYSdYLREz8E-jHIM_voT8hJ7cfUWqJoJgOG-S5AcdaVIL4kjAF5Mvc0bwGTvxo3B-tAQ7ukW_0J2eHH1_bo-WK3ejsgXnNFp93O5aIRhbwuoxyIlkHhVtaPLC7YGRZwwVV_8rmZHaO7rNWkmMef9RNWPxLUdGjjX4GVSwGEqoZUaADugMjiqyR4OE5iLq7pIKr1xWzeoZag4DVsb9bZ681KGAkhZjNV7goBdoKFRc5aOCPGWPge9EW1rgD2BA5eEaJj2QyEqCr7qt2ackTnv9WqrVVU_EMJgGzFJAPgpABDtTk252IDLOocWT",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJidFNLAdfwokRDaE9PudSm7Q",
+  "plus_code": {
+    "compound_code": "P4W5+VF Jackson Heights, Queens, NY, USA",
+    "global_code": "87G8P4W5+VF"
+  },
+  "price_level": 1,
+  "rating": 4.1,
+  "reference": "ChIJidFNLAdfwokRDaE9PudSm7Q",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Kimberly Lim Legaspi",
+      "author_url": "https://www.google.com/maps/contrib/110969829192883999185/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDN8AaTceigxyoA1WK_-DLIkaO4b_sGYc-xIqaXyArKsBFEZPw8g=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "4 months ago",
+      "text": "From the moment I stepped into Phayul, I knew I was in for something special. The cozy, unpretentious space carried the warmth of a home-cooked meal, and as each dish arrived, it became clear that this was a place where flavors were crafted with care, tradition, and an undeniable love for Tibetan cuisine.\n\nWe began with the Cucumber Salad, which was nothing short of perfection. The crisp cucumbers were tossed in a fiery, garlicky dressing that delivered just the right amount of heat ,spicy enough to excite the palate without overwhelming it. The addition of crunchy peanuts provided an unexpected but welcome contrast, adding depth to an already vibrant dish. It was bold, refreshing, and the perfect way to start the meal.\n\nThe White Laphing, a dish celebrated for its silky texture and cool, chewy bite, was enjoyable but a bit too mild in flavor. While the texture was spot on, it lacked the fiery tang I had anticipated. A drizzle of chili oil and soy sauce helped elevate it, but on its own, it felt a little subdued compared to the rest of the meal.\n\nThen came the Beef Thenthuk, and from the very first spoonful, I knew it was something truly special. The hand-pulled noodles had a perfect chew, floating in a rich, deeply savory broth infused with garlic, ginger, cumin, and slow-simmered beef. The vegetables provided a fresh contrast, and the beef itself was incredibly tender, melting effortlessly. What stood out the most was that it wasn\u2019t spicy, making it an ideal dish for those who prefer deep, rich flavors without heat. It was pure comfort in a bowl nourishing, hearty, and utterly satisfying.\n\nIn contrast, the Beef Lhasa Fried Noodles delivered a fiery, umami-packed punch. The chewy noodles carried the essence of smoky wok hei, while the beef was perfectly caramelized, adding an incredible depth of flavor. Tossed in a sauce that was both spicy and slightly sweet, with hints of garlic, dried chilies, and scallions, this dish was absolutely addictive. Every bite balanced heat, savoriness, and a touch of smokiness, making it one of the absolute standouts of the night.\n\nThe Pan-Fried Tsel Momos were nothing short of immaculate. Crispy on the outside, yet soft and pillowy on the inside, these dumplings were made with a smooth, well-seasoned potato filling that was simple yet extraordinary. The contrast in textures was executed flawlessly, and when paired with the accompanying chili sauce, every bite left me craving more.\n\nThen came the Fried Lamb Ribs, which were an absolute showstopper. The crispy, golden-brown exterior gave way to succulent, fall-off-the-bone meat, infused with a bold mix of cumin, chili powder, and coriander. Each bite carried a smoky, slightly spicy aroma that lingered beautifully, making it one of the most unforgettable dishes of the night.\n\nFinally, we ended with the Tsak Sha La Kor Hot, a beef, radish, and Tibetan spice soup that felt like a warm embrace on a cold evening. The slow-braised beef was melt-in-your mouth tender, while the radish absorbed the deep, aromatic flavors of the broth. Infused with ginger, Sichuan pepper, dried chilies, and warming Tibetan spices, the soup had a complexity that unfolded with each spoonful. It wasn\u2019t overwhelmingly spicy, but the subtle heat built up beautifully, making it the perfect, comforting end to an incredible meal.\n\nEach dish tells a story of tradition, spice, and comfort, with an impeccable balance of heat, umami, and texture. I left full, satisfied, and already planning my next visit. Phayul is an absolute must-visit. Highly, highly recommended!",
+      "time": 1739065742,
+      "translated": false
+    },
+    {
+      "author_name": "Amos Nachum",
+      "author_url": "https://www.google.com/maps/contrib/117355437336170460626/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK3AvdVCzYFoBwZwjCyPrIcXlbfpJZ62NmBq3Q5dN3Kr-GhwQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Nice humble ppl making a really good Beef Momos, it was fresh, hot , tasty and savory. 2nd floor , small restaurant, I tasted only the momos \ud83e\udeac superb",
+      "time": 1748134278,
+      "translated": false
+    },
+    {
+      "author_name": "Mushsharat Bisha",
+      "author_url": "https://www.google.com/maps/contrib/106887088575870274471/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWu3x7v1QtDFmLU9zQmbpWF8ZxoxLKZaLpR9vQ4jmDRDt3N1LbF=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "Didn\u2019t appreciate the 18% gratitude without asking when paid by card. They asked me to come on the front to pay and I was on a call so I would have gone after finishing. After a while they brought my card and bill and I see that they added tip on their own.",
+      "time": 1742789690,
+      "translated": false
+    },
+    {
+      "author_name": "Sarah Elizabeth",
+      "author_url": "https://www.google.com/maps/contrib/104506565083295051944/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfh0xr5M_SuvBeB0e3qp_R43kFz7Y_nmp5VkkqWyh97d8yxNk8Ug=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "We found this restaurant on the Michelin guide. We ordered many dishes (more than we could eat) because we don\u2019t have Tibetan food where we\u2019re from. There was slight judgement from the waitress but oh well. The food was incredible. The restaurant is small but not uncomfortable.",
+      "time": 1740328640,
+      "translated": false
+    },
+    {
+      "author_name": "Christina Huynh",
+      "author_url": "https://www.google.com/maps/contrib/100729859632545352071/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVu_Q2mGqQS4BVwQUxZftJK5PYvNtxk5jB_ixksugHV19VXEdoB=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "3 weeks ago",
+      "text": "Up a quiet staircase and behind an unassuming door is a small room with a compact kitchen serving up some solid beef momos. Ours were huge, juicy, and generously filled with flavorful meat. The wrappers were thin and pleasantly chewy though slightly overcooked. The chili sauce on the table added a nice kick of spice that I really enjoyed.",
+      "time": 1749319920,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "food",
+    "point_of_interest",
+    "establishment",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=13014086701352329485",
+  "user_ratings_total": 696,
+  "utc_offset": -240,
+  "vicinity": "37-65 74th St., Jackson Heights",
+  "wheelchair_accessible_entrance": false
+}

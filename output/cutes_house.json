@@ -1,0 +1,418 @@
+{
+  "address_components": [
+    {
+      "long_name": "18-19",
+      "short_name": "18-19",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "College Point Boulevard",
+      "short_name": "College Point Blvd",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "College Point",
+      "short_name": "College Point",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11356",
+      "short_name": "11356",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "2220",
+      "short_name": "2220",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">18-19 College Point Blvd</span>, <span class=\"locality\">Queens</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11356-2220</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: Closed",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+    ]
+  },
+  "formatted_address": "18-19 College Point Blvd, Queens, NY 11356, USA",
+  "formatted_phone_number": "(929) 988-1017",
+  "geometry": {
+    "location": {
+      "lat": 40.7825546,
+      "lng": -73.8457313
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.78391398029149,
+        "lng": -73.8444640197085
+      },
+      "southwest": {
+        "lat": 40.78121601970849,
+        "lng": -73.8471619802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+  "icon_background_color": "#4B96F3",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+  "international_phone_number": "+1 929-988-1017",
+  "name": "cutes house",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: Closed",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 723,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103672336084053227354\">cutes house</a>"
+      ],
+      "photo_reference": "ATKogpejmjHYl8ukwvb-Szw8BjB6zUzKXXGmSEAff3YBJGL2J0AUMIEO6dW8Y6FhRswJzRnt0GhsCJyElgKanO66fCq2h8J_JaIy_uMTo9QegehWOToz4gPSGMJF-t05030KpO_lOHQ9EGwGciFP19fkeXv6unVcXO0_XQRiD4AoLA9pPgXalB2e0KJ0_u-y0Ou2H2w0fxJUgmU7e1VlNix_TKqfhPPQr2DcEEb_wKK67u1hQw3zXZRzd79tPv76lOE74tE8_ZkdUzwOlW24sOcUYhjPg9Pt84e2LXsSLBWuaL_PKw",
+      "width": 1284
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103672336084053227354\">cutes house</a>"
+      ],
+      "photo_reference": "ATKogpfZomY59a3Qb8C6Ft1DEG_Z5P4dXBAv_PWDybGwPPq-c0dKBBAGuw1UbPr7NFGj1wM0Pi0oMf9cDKs8KoJ0rpct0AMQEZHFvh88z1LRGYwuC8tASYHn99syG8N8WAFrzMR9PROoCpqJu_nNOwPY429jqqhNcj90dknuVtx26BIRxg5DXhICJbMe27I9pk2a-vjEKNz3-JOk6gQS6_jpENEpGgNH0AyjSFsGOabnSVz0FMNKRiOy56_dR2kxmdrupG6LIxg4QN_tUhsp_uXrn14YTDL8nHTB74QS-gKRtr5VmA",
+      "width": 3024
+    },
+    {
+      "height": 3840,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103672336084053227354\">cutes house</a>"
+      ],
+      "photo_reference": "ATKogpf96khNnC9PNJpUy1CEn08iHVKont27JdBWYaR7ClNDehzDCnerRytZjdXEQb-wG4U-mq8QcIjL_GCoAYC_AauK7WG6BqTw9V8k2vp9aThrbyCbBY0Zp-xUlv63VQY5wv8072EIA6uQaAg-YEoJa9eEqWCRbvA984kZPXpUnvC4gpLTNdWiWi9-hR_g9EHt9I2UZOdJAR97vrxwqKgcdZsOj0DuG5YLYl3SAczIv0tqT2ggACqbVLcRFtnh7h2F4RAf_zcBvY9w2kTbmSX2W3J4Qih1WtjIDAldtqFBRvW27Q",
+      "width": 2880
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103672336084053227354\">cutes house</a>"
+      ],
+      "photo_reference": "ATKogpfpmV9hpCWao2OpifYZax0gyTVXdUwQ-bR_6ua2goqTE9Zglkx4h4_CIqtdz5lWggwnH06WutYyZYPARzDrNJjUduyd4DJz5daSkvAPAtMskD8pC25ZeWoJpoSqjNAVD0K15rEmajLWvdFpkSJky4GODoP-wXTwxrcXfNYAA3Hnn9pSlIVZBHU4aiMnrtuvDhOvLonEfFaW_Q_uMJLn5IH1G-JT3BrwFScxDuWujqsaFU2_fH6woi2fbi5-Tsglb17bNXycN4ayz72-De37zYxIMARIRNn6pFFYJ5jtnLStBA",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103672336084053227354\">cutes house</a>"
+      ],
+      "photo_reference": "ATKogpejY9L_TXKZGbiMistGlHgFyRYgiJ2vvOIxM2knUGGNIsBSoU5bsl-w3GgmICclMgmZ7NSwhALHGX8EPSs5YzR717p3NyrRoWvEVNRWgB9WqXE5_FPtgdHCXkrx5YKj8Ou6RaPbMPOGopQpi1B2umEk2hjLEmF5T9XcUDz3sTwUNG6K2EOlEMhI5ksuheJSyc6UDaEv8fLaYiXOYwiOzjdq_9sGKKBfx9KqHyJUjDU_o4vAGlZ_B4yuMOOxGvtbUXLpOR3FASwiEzhXhNs2lfDrGP4yQZByyH22b5AnzNkWvQ",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103672336084053227354\">cutes house</a>"
+      ],
+      "photo_reference": "ATKogpdwWqOdEG0691XSs4vtMV3hS3cb-Tz6uDLigQ1TjeYOmlQUds8PVafxy8DwoBIIQMkO2-CNXEGaYRYDnX5arRhorTaihUzK8KE9MY1KMixuwM0Q_D2lf3ivFOjDlOXjRF51J5-IGPptG7XDSdt22tWZ9Lv8iAiqvOf1xZEsp0IkRCDJXgiTf31KMUDkal0warktjzOc902m3oZroCmCgSeedrEA_EkoiVeulO8YE2Ew4vi9kT6PihLNrTNrpDvj0TfHePoyh4b8cUNHnq_hGrhdr3pBKspsV-bEYu2I860zQQ",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103672336084053227354\">cutes house</a>"
+      ],
+      "photo_reference": "ATKogpfoUydzZEiA48rpgD1ciXriK_B_tiQB5aBQIUcZXt6orTT9bVk3jJow3jbUKqRJa0SRMpuLgAfAoTymJnhx1jJqxKWGHW6Hzzu8_5JkYekRCXNzl_xx7_MXNz--7UGHx0DWNJu6zg3z3wpFI0ucNfAa7GlWvpllTZrLEBktzCnSk2s75CBijlP68Op8vbWSkYF996UT3W8OYV4QhH9FwWSFsbfF2nVp3M0OSdV1jU1zejUFNfyJm1r1w9kTM6akhQ3CVA5yJA7WRYVUvD0HeRYcwhpcHwcBm4G9-UMMmD6GqA",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103672336084053227354\">cutes house</a>"
+      ],
+      "photo_reference": "ATKogpe4Jo2Pmx8py6zhehkgzsirzXuRRQAyUML2PTq1I1A_42v0ZzsvPRBiRmkB68b5HUPmlxExap_sCAOSz9uGDObHqo6C_Piey21b6i3iaqPsqKWZ9OTN-PR65ocmwid4h6Jj5pVZQgvLATLOou0xI_WiTCxmbyFgXpKjt3szWUjRFJuaWe6wSNYhn2A9uoW5EUHw1DBTXkd73vt1aB1vPLouC7Nx3c2hmWE2HmiooMpfLKC955uADB7xWoJoucYLOM6XGC3W-zqT2dmQemYOk7LRtiOUfzrzF2ATr00eZG3_JA",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103672336084053227354\">cutes house</a>"
+      ],
+      "photo_reference": "ATKogpfdTn0Fajt2YfTisNi5mPH05cWQvLVqKOp6MCWEKfRRYAl8zeCQx0Uea_YG1Hnn2kBAhM_RZnbkkxdRuU_IOOb546tutBLAx_Zfgw_EhdvmLiHJtPqX-kv45Qo7zniyMYqCTrNSFv2TSfnHGXgduMOzXqE8e3VtXEAprp2Pb1D_hW3ezE-ajXjWUjyjp7Bol5Hx9VJplFDuOQfKBToR27zVrxEGXIFWkowl0U3516h3wSMhuTlB6TgE9XKGqsl5Hg3cuZID92lkT3Ni7LbNmS7_H4P35zcYw7_KwA1jGnI-cA",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103672336084053227354\">cutes house</a>"
+      ],
+      "photo_reference": "ATKogpc3aZdLD4AyAUs_5oDjrDrOYTLSqps9joVuRtcWVj0XoBKPS2I1EgmyVD-wkKrRn2T2I4z-KHXZUVKRt_Dn96PZUaz-glTySKekz8BZvwoxE0etoGAfuSkGDQZ01Qa5fY9dQWe8UCnHKlgVb6IMstWlS0zZmtubzWIH_WGJuQmi2VlP-Y1AZc84iSfIRuvGj7PwRTQ_QB5kLW-HHfJXzcvRpskDiSMIlUqpdClUc7zOioUsdBoUTKbkQP1B54_RGLud0ipgt5DxUAPa7zGSiFfEFuomtwhkN8_u6aY6Az_77A",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJda5oAz_1wokRmI78xUwg67o",
+  "plus_code": {
+    "compound_code": "Q5M3+2P Queens, NY, USA",
+    "global_code": "87G8Q5M3+2P"
+  },
+  "rating": 4.7,
+  "reference": "ChIJda5oAz_1wokRmI78xUwg67o",
+  "reviews": [
+    {
+      "author_name": "Andy Odom",
+      "author_url": "https://www.google.com/maps/contrib/118323731617835569896/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLr966s9Na7aV5K5QoaXDtwPwzV0Mzg6HYANh-_LoXZ-hXSww=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Very cute and small shop and the owner is extremely nice. The cat is so friendly and soft and overall it was a great and calming experience! When we were finishing up a bunch of people started coming in but she never rushed us. There are hundreds of little charms and decorations to use and no maximum on how many can you use. There are tools you can use to decorate and there is a table in the front and a bigger one in the back with placemats for groups! She sells drinks and collectibles as well. Overall a 10/10 and we hope to come back next year for new phone cases!",
+      "time": 1676660662,
+      "translated": false
+    },
+    {
+      "author_name": "Steysi Reyes",
+      "author_url": "https://www.google.com/maps/contrib/112921739718448809841/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3gs0ylOW0RNwU-g2mbKAA083Qu9CHTG9v-adTT7EmJKPzVssv1w=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "The place is nice place to create your own phone case, mirror etc. The first time I went I had so much fun making phone cases with my best friend. The second time I went they didn't have anything for androids which was unfortunate but I still decorated a mirror to do something with my best friend. No one was there to greet us we waited for a few minutes then I went to look for whoever was running the store. Their cat is friendly and soft.",
+      "time": 1715087709,
+      "translated": false
+    },
+    {
+      "author_name": "Cookie Cutter",
+      "author_url": "https://www.google.com/maps/contrib/111824504430447983574/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVnCQMWO_rMmi78rABQX0RQL3IoAgAs2aVAoBpotY-i-WC6ezlW=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "It was so fun with my bf and there were plenty of options for charms on the cream glue cases. It was a super fun experience and the open/close sign is soooooo cute.( I made sure the open sign faced the window after taking a pic)  I love my design more than my bf\u2019s. It was a Wednesday rainy night so the place felt much more hidden and no very crowded, making it very memorable. One day when I save up I\u2019ll get a tufting lesson. And the cat is cute ",
+      "time": 1672894615,
+      "translated": false
+    },
+    {
+      "author_name": "Melissa Rodriguez",
+      "author_url": "https://www.google.com/maps/contrib/114187378422924849496/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJWDbjUxd_1vJWGqIY84wu4kbUfhKLnCksnOrdyM2L2gchhoRY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "my first time coming here was nice.  It's a nice quiet place to calmly pick out charms and your placements ( not to mention the LOTS of options for charms).  I came for the decoden case but they have mirrors, crocs, and figure stands to decorate too!  I will definitely come again\n\n(ps: the prices are pretty good especially comparing supply cost)",
+      "time": 1674782437,
+      "translated": false
+    },
+    {
+      "author_name": "Bella",
+      "author_url": "https://www.google.com/maps/contrib/101294914449263449642/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWBxU6853jYRalO-gWuADOE330GiYNDZxQVPi6SJdyG58DIGbuK=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "The whole experience was very good the only thing was that they only had iphone cases but it was fine since I did the mirror. The lady was very kind she explained how to use the pipping bag and she answered all of our questions. I would recommend to come maybe a Sunday or in the morning if you don't wanna be with other people since when we went there the place was empty.",
+      "time": 1717349101,
+      "translated": false
+    }
+  ],
+  "types": [
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13468894624692866712",
+  "user_ratings_total": 52,
+  "utc_offset": -240,
+  "vicinity": "18-19 College Point Blvd, Queens"
+}

@@ -1,0 +1,607 @@
+{
+  "address_components": [
+    {
+      "long_name": "150",
+      "short_name": "150",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Ainslie Street",
+      "short_name": "Ainslie St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Williamsburg",
+      "short_name": "Williamsburg",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11211",
+      "short_name": "11211",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">150 Ainslie St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11211</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1430"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1430"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1430"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1430"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1430"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1430"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1430"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1730"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 9:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM",
+      "Tuesday: 9:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM",
+      "Wednesday: 9:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM",
+      "Thursday: 9:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM",
+      "Friday: 9:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM",
+      "Saturday: 9:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM",
+      "Sunday: 9:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "\"\nSmall Japanese place serving ramen, bento, and donburi, plus a range of sake.\""
+  },
+  "formatted_address": "150 Ainslie St, Brooklyn, NY 11211, USA",
+  "formatted_phone_number": "(929) 295-0480",
+  "geometry": {
+    "location": {
+      "lat": 40.7125269,
+      "lng": -73.9487831
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7139378302915,
+        "lng": -73.94742981970849
+      },
+      "southwest": {
+        "lat": 40.7112398697085,
+        "lng": -73.9501277802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 929-295-0480",
+  "name": "OKONOMI Brooklyn",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1430"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "day": 0,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1430"
+        },
+        "open": {
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2130"
+        },
+        "open": {
+          "day": 1,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1430"
+        },
+        "open": {
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2130"
+        },
+        "open": {
+          "day": 2,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1430"
+        },
+        "open": {
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2130"
+        },
+        "open": {
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1430"
+        },
+        "open": {
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2130"
+        },
+        "open": {
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1430"
+        },
+        "open": {
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2130"
+        },
+        "open": {
+          "day": 5,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1430"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2130"
+        },
+        "open": {
+          "day": 6,
+          "time": "1730"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 9:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM",
+      "Tuesday: 9:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM",
+      "Wednesday: 9:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM",
+      "Thursday: 9:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM",
+      "Friday: 9:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM",
+      "Saturday: 9:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM",
+      "Sunday: 9:00\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:30\u2009\u2013\u20099:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1366,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113329149724628630849\">OKONOMI Brooklyn</a>"
+      ],
+      "photo_reference": "ATKogpfWUHI7owuWqUnbkjsrE6ebxnUFLayoJZYyJjzi5Sgy3OaqrNlaQ-C5yoUBLTdpHUhUe03LVUif7keSWK4xTrUyQu38KgMSyKVy_2UVg2ayHmBN9xsnvNIJdBRAjgk8RA2eRBNbcLuicsbG1e5JRbt0ecf-8WVmaN64SAfysba2WUNI0-P55trYE3ZNxna7PblD7rtgoM6sJO0X6WIj7Q5ibSImBkTnkZKzKcPM03atmFakwqfnIHwfKaqilviUT-q_mKxnOU8XAsQTdbJFv4nhBqCyFan_Ea5cU0J0fTBEyQ",
+      "width": 2048
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105198936559294126437\">Pack Katisomsakul</a>"
+      ],
+      "photo_reference": "ATKogpcEhMnZ7BocmJlWJY5uCk3Iy8mS6J2reMdZh31D25qtF_CgYx2irV2ByGy3MzWQWz_bfueDXnrWJnjysw7ak7ypR11oP8SYxkXANOswa25UbJZDT9JPuBrXgmYp5tp3xyYCoFOjyldO7Du1b1nUpYlXHJ829yuRtSloqJWKa0CmtJCM-ibhs6KPShxhJkvnuc2Cbz7EsyKYRgCRiEWNWnwAFkSZWZZI9mvq_z6V4pu9nDFuDmvjJZbApEW62ECyuQv7pa-9thxp3SYsvbd5c_B99V9IVfdnSNlvjtfaCAagkq9qF07i-XEoTh4K11KXZgNdJpb3DYh381jG2Cmbk0OCHk-NQWJBioxxa3nuMDkvUgqFHu_HEGSTUb76SPIHmubHA-9q2oJDF9r4cKyZ7c_n48shLtfp6dIaTZVL-FTHMst1",
+      "width": 3024
+    },
+    {
+      "height": 2438,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113329149724628630849\">OKONOMI Brooklyn</a>"
+      ],
+      "photo_reference": "ATKogpd_ULmEFKsnnstZMEk-y9sEPHIAzicfWIK5kzc8uuVnLSTz1wx68lJtEWhFn3LdQprpBReVHXFNsq2nlHBg0h_18kJ7awHfIZkKAcxerXLDs4DXrVkgsrsQTMjClDdgkGvNSyDnTWttf2HL4X2QlTp302PAWEgz7iPKMKwXaClM2bi2mcDIbiJGCUBr17qUelxOOX_wLMukkeKstFLA6f2AgAz5rd95kZJn9gfoAynYMQ2jL_6Pmv5mqTb2_DVCpEQwoSDUhdnUJLrUfdZ7HDdDepF5zf3gy45vf_ZG5yrsRg",
+      "width": 2595
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105198936559294126437\">Pack Katisomsakul</a>"
+      ],
+      "photo_reference": "ATKogpeRj1qHv8G0NP-rkjB-RfUVFxd4GHfuPs6y7ggRoHPS7IYPfEKABIXDaC8CmC15Ahz45w9Fwct6WwTDJmhhfVFpLrGt7nL6dF7w2YD64DInj67xo59mCcAlaRlrzvn_O3Tjp2yuPiWUTqD7_V11k-oky-5P4-t_8UAFQbxGsd1hmaCI5QptFIdmoaGePPKgiKdsNAg656pAPKUIQ4oMagDZWyVYGYszeL4FpQOhRXXGrnZY2SpR-XzgasQ167MgHvrGfQX-qxGFWx19plPe7g2Shc7dPc2YYz_UlRwxiJjpsXq4DC4tAV7vY0R1uAsoWi-HG0WeJz7RRYNRKBpX8JC2e8goAw5YJZNPwfDDNUYlz_q8XM5Zi_VrlaIoMi7x77ycMpl1wf5fEkn_QUn2T7sUjeqH-2P7sg4urWbn-FrSYw",
+      "width": 3024
+    },
+    {
+      "height": 4045,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103551955612011726405\">Emily Eng</a>"
+      ],
+      "photo_reference": "ATKogpeYsU-awXzd_YkZBdz5a0Z0U6r7zqNuYdQU_Ow6c-EL8C3GCJb0La1LpcJzR9QD7sZw_36AexRAzB_G8-stH8mP8HgCBb94Q3wcexWWPHHy5jZ4mv8d2GpqxUzUacswV0hcTyIJvvXurlq1sImxbf_lKPoJuLoC040WCqhMF3tU1_4NQ6Dy2VsoxbDK6ZjOIGQIins-wYC0uLGA7uti0x7doR6PCVapkTc_aXBdcDPziS2TTE6ATRBzfdi5WA-e7eDUT-CbHMUYvVgJ7de6UfOYpPeLnr85RtPvNVICKDWGRClNrYlwHCp64vLdXqqN2qFmhVMU35hHpzW0e-geQlXym77RvmGi8Aet4ZclN74zpvXxHQa0Je7-6VjWxZkhXBGNkWv_HVV6abbAL_zcZfcZ_lJFg_AZNUQ_hqRmJ-ItEf7r",
+      "width": 3539
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116622516592328866369\">Bill Wang</a>"
+      ],
+      "photo_reference": "ATKogpcbw-HjxokJAbOIC2oUBrk_60js4IBZVMgr_6zBfLK3Yri1ifjg7D3gBoLnpYY6kL0mpEmc7VbkN2td_V-dpbK5TSK9an2nAkKD0Bo1x10xaSrZX-07FIIZQZsNGwAjXq6X5QJzEs8svCwD5nQTJPYCeLYdNdTIQLjFWAeUrm9UZzMqSv9J1Zfxg6LEHNklyzLhcHv10B3M2yYuYUxcFb_4LQwmf3VlFN2MopkroHcz4EQn-aqom__hFocttsyMo-dKvbHUbq-1JG3zDDKq1IyOdm4JHb5cL09Ll_JTdC54A9L_WyjUGJOFv2wF6IJUvjCNMxFVoP-7P6Fk8xHOHWXIDivuCKebml-XFf0xi3sx7A4-bsGQk0IvnMc_bMqQ-xjIL9IRLWKwubVkuarvupd0DMOHAm49nckr1Akp_JRmVdo",
+      "width": 3024
+    },
+    {
+      "height": 1577,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100493690661652707074\">Jenn Back</a>"
+      ],
+      "photo_reference": "ATKogpd1rl7otOhcfTmgGHDy-5zMq_HUcdEdqX469wtQNLoKlBgC_NSsp1wk6lUxCpIn3Gjjgwug9rReEcNpWenVuZF5c_uD-2J_OkxweCq3dQtUGUOtuCISoEOfuvtwLmpGApigyIod3JNpxa_FakGkij-8N98RCDdsgAgyYH_Kh_ggi2uteGXhyZ2VwzDQNYR_Pd6W7cBIPDRb048MubSEG6iRm3Y_Eg13Prc-lcjbBE0nAJnvn7RjjPxTXIVWC6KwuEDWAukLiiwnHC3la9xL3gBwqSUyzw4SEQFFqkrs36br536v5OGbRdZ51XL0osGtu9MlYMRMaXNPs8KTK924OPYK0q5ctJsltClaqGpynDy3Sb-9HxBIoZPxxW0scD5hql-kL7GIC0QypaqiMaz2YESh-o9pyOeKJhUhRQ",
+      "width": 1054
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117419383316507164489\">YuHsuan Yeh</a>"
+      ],
+      "photo_reference": "ATKogpdQXMagTqdchvLt3NmTOK3AyoaIAWdAFQlMPB2k67b4heDD19Vr01ZyWegAZZ21dREq6JwUmQo5ST8Yg3TqnxIdg1hFoVVIyhtYAUsw6NCAgWoQhxVnIlJ6ctbRNZZ0I8XhKbsBsAiqeEbEdr5kjKKfagclYgdnxF9Co_Aswg4SAyajljfcF5_Is2sM5ULNhnct9JhvtedFt6zex9yRLkwVFKtPOPUbN_DbgnRc1et1tGC_6Kxic-Oa2p_kpnfZcpcyjz09Px3ohKWEhbqNAxiKOS51f8DOhAt-sZ53n0zme0iftqwRTZDVgiHYImqQO9HcXXKUnv7vQYJ4xPvcUDWp-Yi24X9pNKWbHUjRs4rWfqn1lg-zGV0I4LkDFMtJk8lBBqurUaHFt2d1CINXmkPHEjiskdctM_cKOScVuAfIpw",
+      "width": 4032
+    },
+    {
+      "height": 2635,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118188010787230085978\">Li Lin</a>"
+      ],
+      "photo_reference": "ATKogpccK9ggp3dh7f8aHAdr-FkIuSgDPH6Ij6S2RIhMh9kqN0_t7nH3DAH7A9UdJ75IusMFK2h-W-4Ls61C2lQ8V3RPU3Zga84Ckf8y0UiUkZkxaZCuhiP8YUlF9f0MW7M6nIFVsoGlu-mHfJTJxzNiIE1s2SdjEiizDQrKnV6PPKQFrbXkWiNaIiIXG-R-rXP6PGhTvurEfYL98F1wknfWlGs3_ncgpvn4gPXalce9Mac5dAfdLNmBkHeLJuqedz70ic9KI0nkzP2b7jOn-LSl9wJTvcbn448MdfoU7xIBi4SKIO0h4T_oR-op1wa3z_v259Q4NVqo3xe5eZCAI6UjQWBROz3pMnum0URxCx7Wl2VZbNx6KVgXfsRwsYgOMdFnPDkyE_WkksFubVuEJj9j1bQldYRWMKg_Ij4aUarRs6k-TFo",
+      "width": 3502
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107407419213336521847\">Julia Chinn</a>"
+      ],
+      "photo_reference": "ATKogpehKTt2UUYMptYA_nOSOaUKI6WLxirT0NaOT-mhbzZJLeeZVLOF--3P4r_ZUPQcVNJpSOqS1KaYVNt0BBRF1sGfkKXuZBKZROO8xy78kxjg40WdOlsEmHtQb5Yxv1BN81jhrFGODYUi99gY9kGIBvJXtgaUMJu28FNYo_hBC9dThQBfG8oD1ZhfigH7YQKccRBEyg02f3h8fsxpzJzqZtk5fJcFR_BjHe7SpaMISaAswQNU2EO_DXV5tQMcU-qydTk9xK9-kCxsB3Th_lKa4tvaBf27YcMldtYu9rpJpt-VtMRWvTXvQCefFFMP_PoY4I8bOShwiDCN-z9goihKXTtd8pFNpTxtz4JMevL4Y7flSeEveTaS2L6_KzLNnzRvQYJbANQiuuLwoh9ghacxQdrdw8YnGt1sXn-qtTv9IAfHzg",
+      "width": 4800
+    }
+  ],
+  "place_id": "ChIJ2YwyMVhZwokRE47dTb7x1fo",
+  "plus_code": {
+    "compound_code": "P372+2F Brooklyn, NY, USA",
+    "global_code": "87G8P372+2F"
+  },
+  "price_level": 3,
+  "rating": 4.5,
+  "reference": "ChIJ2YwyMVhZwokRE47dTb7x1fo",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Maria Serach Alexandra Lemire",
+      "author_url": "https://www.google.com/maps/contrib/117987450880660936369/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJr1gEWVOJG1XFEAt5E4n9pm6kFFp1rZ-aj8w4NprisYrWlPA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Delicious food in a serene atmosphere, particularly delicious on a rainy day! I really loved the scallops with the house soy sauce, and the presentation of each dish was stunning. I could eat a million of their little tamogayakis!",
+      "time": 1749926521,
+      "translated": false
+    },
+    {
+      "author_name": "Xin",
+      "author_url": "https://www.google.com/maps/contrib/115499328070754850684/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjMx0oceFkfDk2M_NiYYuKNzU8oJDZJKDh-mAWmGHwZx1uVfiq=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "This place is so special. It's definitely one of my favorite in the city. Okonomi serves traditional Japanese breakfast. The fish is fresh and flavorful. So much care goes into each plate. Everything is delicious and well portioned. Highly recommended.",
+      "time": 1748370661,
+      "translated": false
+    },
+    {
+      "author_name": "YuHsuan Yeh",
+      "author_url": "https://www.google.com/maps/contrib/117419383316507164489/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUMuvr-t-rpmTHxy35Pax-z7WdyOTxQdSJTXN9dYvTQFRpNCRCIrg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Tucked away in a cozy little space, this Japanese eatery feels like a hidden gem. Every dish is crafted with such care \u2014 not only delicious but also a feast for the eyes, each plate like a small work of art. The warm smiles and thoughtful service make the experience even more memorable. A place that lingers in the heart \u2014 I\u2019ll surely find my way back again.",
+      "time": 1745598893,
+      "translated": false
+    },
+    {
+      "author_name": "Pack Katisomsakul",
+      "author_url": "https://www.google.com/maps/contrib/105198936559294126437/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWU-EJZOo_p1mlQWH4-s7kD0FFjqwTKAb-lEdQHK46O5OtsTRcVTw=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "An amazing Japanese breakfast experience\u2014every dish was prepared with such care and dedication. I loved the atmosphere and the depth of flavor in every bite.",
+      "time": 1748982076,
+      "translated": false
+    },
+    {
+      "author_name": "Jason",
+      "author_url": "https://www.google.com/maps/contrib/114603788537727994893/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIVlyNef4jmmL26EiMVJOU0skvVwpMguCNqB4vO_g9QjHWdGaQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "This was my third time here, and everything was still amazing. I was also told if I would like to get all of their amazing flavors and stay gluten-free, to call them at least a day in advance, and they would prepare all of my meal ahead of time 100% gluten-free with all of the normal seasonings.\n\nI love these little gems, and this is one of my most favorite of all!",
+      "time": 1741789220,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "establishment",
+    "food",
+    "point_of_interest",
+    "meal_takeaway"
+  ],
+  "url": "https://maps.google.com/?cid=18074618479173799443",
+  "user_ratings_total": 1292,
+  "utc_offset": -240,
+  "vicinity": "150 Ainslie St, Brooklyn",
+  "website": "https://www.okonomi.us/",
+  "wheelchair_accessible_entrance": false
+}

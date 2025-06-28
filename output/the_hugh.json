@@ -1,0 +1,397 @@
+{
+  "address_components": [
+    {
+      "long_name": "157",
+      "short_name": "157",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "East 53rd Street",
+      "short_name": "E 53rd St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10022",
+      "short_name": "10022",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">157 E 53rd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10022</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "157 E 53rd St, New York, NY 10022, USA",
+  "geometry": {
+    "location": {
+      "lat": 40.7581212,
+      "lng": -73.97001829999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7595132302915,
+        "lng": -73.96887271970849
+      },
+      "southwest": {
+        "lat": 40.7568152697085,
+        "lng": -73.9715706802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "name": "The Hugh",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "day": 5,
+          "time": "0700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 7:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ]
+  },
+  "photos": [
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114393473125650188626\">Alex G</a>"
+      ],
+      "photo_reference": "ATKogpefkypreUjFqYc-0bLaDlaH7DGz6-wyFTc6KKVvZvukXAMmmreGJLFg0aQdAxDUqeo_sflIEcZwiG670J9QMbm4MiPoLjMq8pklrthGmHDi0ZDXpdfWYRX-j8lOMajc2qk0gl5jB6W9uJK3DH8MlEQyl-ANcuRNL0f05QWuNf_ym98Nf0JOwCvwqGSGZma6_2N_-c6c8Z8FSxAUbQ2bV_EfL8kgo_0a7tSSusbj5rkifKXlxMrn0vPjx7XsPPcQZseaMuIFgoN0nbZW_a9D58sdQylGjeDSUzPt7qMszquAIy7pZvq7NT-4NmGflAmAzELw-r4QqKjzTWjPMJwI9BCEvGdB62MtrWH4oHyX8d3-aFR3I5xVSTOAOpVeNshs6Id3dJYO1PXZ86cjIky7WkDkgeduHZ4DVi6CMN4MJUwao_Sb",
+      "width": 4032
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107192946440648306133\">Jia Sun</a>"
+      ],
+      "photo_reference": "ATKogpeS8xmBrQyDbEYdVJt6Qig-Y2TCfM9kJX4XjYGnpDUiH3gAWj7shDI0Pknl2Y4Ew0584929SWvm43i4HM4sfCFn5yjJuzARM33kJfhBXjlNFT41jfl9c63y9-_MP_M292WFMgackNuQW_NelxdH7ibuzNEGXZwOQBrZqax1Op0pdTyjHpIq7vOSKbGClGoq1e6fNcGSukELa22hUE2Rd-JoyjOPnOYl27c8gcDvzSc5Wq587zvwEYhCPegpCVXOU_ISTbBCaRFDp-gOIp_-vr-djiys5E0FSvvCtP2avRdyN8i4-Hw7TQmm8U9Ar5iHlupSILnk0HxUEbu4y1yUZ8UUregTWZCZcmSIeniSxUyjpxLcLnJDnZU20TlR8oq7eFNVk6jhyt-Dka-T7sCxRtHTNYIdFu0U2bIalt_SSmMzqczkzuM5ZpuDexQMDeUZ",
+      "width": 4032
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109043515752937696097\">Supakij Khomvilai</a>"
+      ],
+      "photo_reference": "ATKogpcXhEfh0hsX7CJiIkrM5yMFDITyvb6QdLb-1VnO7CP93Ikxst2hnpV7vF-39ZdwQ9GUznsa9q1_Xk7TmitCpMT3Jk4pU2FL8VX2erDP5XAafP_gXphOf4KEInYjuWur6L-4edAGdeIZ0YhHxi9M_Lp8nK_PCSa9mttqliWSKHgR8U0DxEWCl-5P3qRDVz68hZJpHmCmBnk4U9VQzYysYZVTtGbXMhYSEqy7PIgjKtPHqMUF9FS_DxQeCbGgJIk3iCm6xdfySrr3Ssu1zezhV8EpUjdWUN5bTf0nq_lTnoW95qkOzcHB94U_wQ2lfHkxX5n7Lpyrq5xs0L8xeoiMRUuUA3YdPZ6A7927WkObp2FuA9f6uhwD6ytE9VvvsWXf8TJUJlpAp3N4qjHlu7eB4VWIRPkG7Q1mVBzWVe6jeuU",
+      "width": 3600
+    },
+    {
+      "height": 3500,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111992418820715754305\">The Hugh</a>"
+      ],
+      "photo_reference": "ATKogpfyTV9Kd_74Xj3y51nyrnrvvNK9cdtZy65LlLYCRMfY1zoObYAWz15_5ZM3mOo_ITdk95N7qOVrot2whUQ1I6Npztz0hmsriBywDPW6tEXHruUu1TdHE_e15ybkVnVljT7SkqE-pLcm97RVABGwN8oBvZgPHwpdpcbKHRas35CpZtOfrJYgGEYqX1pbCZ-xjzNt2UcS9luN4Az_w5lta6uLEcSvO6sgyMWk3YJ9-qK3Mvvb7nWqCS395vWRUv0ka5ZF1D35Uvh-YZ4yp6zqJNmFa_87OtrbVbL5EanhjCGVeA",
+      "width": 2335
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115244380871067125861\">Rachel Arnold</a>"
+      ],
+      "photo_reference": "ATKogpcnwsJKi29vWJ_0DtcXkNhvOUzS40d2LRCMSUhF_2prHQR1clfBX9K0PkeivoHhxFhEizPvY8z8-ZGeH7jBiZ_FS5rYeqPTB-h-JmHHUICRrNiND_IJ76auaqKSVQSfkmTOdGtMKPR1try9Z7nPD3VzqBDUaKIYY8TgCVbjGhftxSmoCGXRNfQ-PQLqlUJCBIj3CSRY2Hm3Bd-mwgSDBu-dQYC6CUPKh3MRdXeCazjqre4tHrI9mf8GqhwuMVebU7nGusTVG_9s1Biub2bU0t047ZLmHalmBbIN4senkfdayaRyPWENYwJrDcNoMZ-fWLjZeAd74cWeLfhuj1ign2CTEwt9iKN2qILJ72zSvlQ3RQeywre4AzZ3F0oS0RDaanBDtLoZoHLwjRl1EL64tieM6MqPJblsbMF0oR8HHZgG07B14w057c0L6Q09mw",
+      "width": 4080
+    },
+    {
+      "height": 3599,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111139605921648680928\">JJ Jones</a>"
+      ],
+      "photo_reference": "ATKogpfosLR4ZjaxM2YobbF_u51uGAWfR5gVojlxq4wbkMoQv8pV23P-XM9VE62LmO94Hhv_PA3dhbhjT1YqV_a7ylj8ZJU3ysbMIYIl6eTVNQfMexw37kwExFRQE976xdAx5iFLLRKhe24Z_UMYqY2aLJXOlEyf32Kkg8T0zqS2oPNjvrx83I1orxnQxvQDoYJjcL1uPaALbjtbUhl2zTmYnAL1GFbSP_8VRTvIbmTNBRlZPeO767UH0_DyBECcsYmOH_dBRozUUSEn3FAGH4AsTB44JlQSAIol37IcqsZpzG_42RU423yxDzUNphd8NgV9qnecZZIC_5jvO2H10rHesn1NxJBFcYce1GkznYVpzdT29pkls8yEmqQUIXP1sdeWxEdfbufTj4XpxAnMSU3g_OhJgGfHZCaZRT2sS0quv3OnlA",
+      "width": 4800
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115369023465076579731\">Michael Cooper</a>"
+      ],
+      "photo_reference": "ATKogpefEQ1E4vOKfvBrQncav_Nx5Ow9l6ulHjl5e7a2bnS_y5q0B9j6xSik_hUreEvnp94zDhZWCvHCjCjlNcyIyPSDV49bzBQztAieN-Pc0jioydkfKb7DPkJXu-frAMYR1nGWlyAk7Wj1AtCv6Dl6k17-Jmc0FBqRszmeee_xsMoEgE5R-1PjfiKU-7P7CLcv6wv2dW74tLIhESYnpQYnT8G3IMvDtVIeeGFyPVKHv7ssgLxIoTFnyQgIhxB5sho2MSFu0mil8aNT30uAlbtb8PvGLelMcocK17VFfKDRZ7UMTJUoMsMtjsDxkZUojy8Mc6qFTWGdnSiBEgSLQkM7AljWmayj_woTtf3sJCNwItcNjqkdlJNq5kLYZNbkCctaeOIlFIZV5jhwMV2mC805eVyPsuI256y_Kr4O2MM97dGTdlxR",
+      "width": 4000
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111139605921648680928\">JJ Jones</a>"
+      ],
+      "photo_reference": "ATKogpfyddG862PzFrmfcq_E2SmSbx-QkjOnpnwpozV1qr0FVjwl4J_Cx_aGgTSDm4Dip02LWC6FW5ya0v7xHMkbXbXBKabUwfMDS_nhVapHnrwcZUB6aGMsrBWB8VZkaNlbMZfXAKBDJ6KVqfRN3GLOTaGzSS0df3yf7BppkDoPi5jDcVxcYTlUV9vax009YsfCGAn1C7YumQRppsocenQOA73Je8_Z4KeYH-HqE3hxU6dST_GXUEjm7493UkICpXwfP0nGvFTEANW7fTsdHxvgOQY3EsFiQjOjjmItHHHAN3QcmhbVrtodQohIpfGP_N_wcn6pDQY5wRpXOF4Ls85t5ybofTgP4Yyywf29HrMz7IXDaATtPnYsYMsJOdD5m7TNThs6wZjgyxSI58mcoSsoFHBGBd52p3ZPULonlRy1n9Ecog",
+      "width": 3599
+    },
+    {
+      "height": 3599,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111139605921648680928\">JJ Jones</a>"
+      ],
+      "photo_reference": "ATKogpdlc7FAD73HcQT1W6IUdfxWKKL-jA79Phl4QwIAc2EVRDEBCuefYZfVIcTE5Df2iWI-ZhD4NdTexHiuGocAXHNrmovzj_aAKnq6IjdEXxyEuTVgyw4EAtxtoLvmKDVO4gkVM8SJxFa-1PKKjklgSYjd-UDXIhzIdkXCjP6FuSiOdgiMHqj3HyaeZXLBGUsOR7DyJ0_RTu3orGpb3C5yaxgnJeW9ES1UdsvApKp5Ejuo8gABo10ETX9CA9DDuyo86m3a6hnK99p6OvfGet0-zmzJZO24mu7M78oQLkMkVQbTh5db9-Pjm6NXtKIps0b0JG1qnhIXYom-ehXlP8MoRrsmpPo8iZYqBmGw4OuYOaCHVlIWC1ovVm9yPoXis-ygmKf8AyRf9hVi9DEFNvStbqffGbfnL7-AIX9e5X51tjaMeQG_",
+      "width": 4800
+    },
+    {
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101414298630303099861\">tonny xc</a>"
+      ],
+      "photo_reference": "ATKogperArUdv3qKK_hi4v9H3tXAQA_SUYG1d5-1uwXT7rdDIB3JXLbF_Yw5B3pCd4CTztRampHlul8osRRic8GM9DF0QNjAPnug5rDVCsxuV4X73SSzOAMBMgdRHhVQX8qNpKB5qUwrJ3Dfk3mrzu7SLRWzANFeI8e5Il-4NPyDwBABtvYAG9LkCRNpJGmE0nNoRIGU2WPQqIFUhWo5XhbOwhwgkuWKznyVzpikkFQykd0bRYAqZuxqPMKbLooSxrQMm3wwCahERUs9u_CepuOsMFziZR_bCcXoZEFB_QsFLfbqWfmsSskABG3-GbeoHaaIrDue5yPqKl1kLdLizVfFVOn8b1R7HijCn7Zdl81dk49UYjQwJ7ckgGGLSCxzPxJMzceJ0spqf18uchxF2_YfUdvma-WAOicRkjxyeLOzyqvKJYX33kzRp-GwAEIWJhh9",
+      "width": 1920
+    }
+  ],
+  "place_id": "ChIJCwFFZmBZwokR4O1BUs_zrJU",
+  "plus_code": {
+    "compound_code": "Q25H+6X New York, NY, USA",
+    "global_code": "87G8Q25H+6X"
+  },
+  "rating": 4.6,
+  "reference": "ChIJCwFFZmBZwokR4O1BUs_zrJU",
+  "reviews": [
+    {
+      "author_name": "Jia Sun",
+      "author_url": "https://www.google.com/maps/contrib/107192946440648306133/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_ZDAj2fUkT-qCYvae5R1ZEMwRzwy7_xz_Nbd_De5aQC6YdLWW=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "a week ago",
+      "text": "Another overpriced food hall. Good place to chill and eat lunch you got elsewhere. A few spots worth a try, most are eh.",
+      "time": 1750337735,
+      "translated": false
+    },
+    {
+      "author_name": "THE EXPLORER",
+      "author_url": "https://www.google.com/maps/contrib/113768639315364178628/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK1-lhOt4nSJQ1CHp-qt0H2vFuwX2-DKyZFMQqrp_zGHnaZVg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Went to the Hugh several times in past couple of weeks.  Great place to hang out and enjoy the setting. Many great food options. The only speciality coffee place recently closed but I got coffee at Alidoro.\nUsually we get a salmon salad and something from Miznon, the Mediterranean street food place. Always good.  Great place to take a bathroom break.\nBack again today get a decaf americano coffee from the new Maman place. Great coffee. Great place to people watch in nyc. Always very busy.",
+      "time": 1749488706,
+      "translated": false
+    },
+    {
+      "author_name": "JJ Jones",
+      "author_url": "https://www.google.com/maps/contrib/111139605921648680928/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU-ynwbX_SquJreIm-8ohIBKxYDvaiV6kOakZhk6TRev8Jwbari=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "9 months ago",
+      "text": "Absolutely Amazing Food Court. This place has some of the best international food selections in the city. You can find different food from African, Jamaican, Korean and etc. Great place to just chill with friends and enjoy happy hour. Highly recommend when you are in NYC.",
+      "time": 1725634900,
+      "translated": false
+    },
+    {
+      "author_name": "Vignesh Theetharappan",
+      "author_url": "https://www.google.com/maps/contrib/102321077663162853290/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWu6XxU8hmACW4gOeN_xxRxslIIXaeCFWmwb3Yt4uwqrX3j5QqDiQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "One of the coolest food halls l've been to.\nLots of great food options that are surprisingly not overpriced. Great spot to work from too",
+      "time": 1745247126,
+      "translated": false
+    },
+    {
+      "author_name": "Supakij Khomvilai",
+      "author_url": "https://www.google.com/maps/contrib/109043515752937696097/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXR0AMV6QbmqQK6kraAR8kAZZQwsHazpiBDOqCiLEq_UrzXuYj3=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Good food court style in Mid town NYC. Good place to have lunch or dinner. You can buy food from different restaurant and enjoy it in seating area which located in the center of food court. Clean and nice seating area. Restroom are available.",
+      "time": 1716087548,
+      "translated": false
+    }
+  ],
+  "serves_breakfast": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "restaurant",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10785263279409327584",
+  "user_ratings_total": 641,
+  "utc_offset": -240,
+  "vicinity": "601 Lexington Avenue, 157 E 53rd St, New York",
+  "website": "http://www.thehughnyc.com/",
+  "wheelchair_accessible_entrance": true
+}

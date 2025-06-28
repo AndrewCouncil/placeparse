@@ -1,0 +1,575 @@
+{
+  "address_components": [
+    {
+      "long_name": "241",
+      "short_name": "241",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "West 42nd Street",
+      "short_name": "W 42nd St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10036",
+      "short_name": "10036",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "7201",
+      "short_name": "7201",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">241 W 42nd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10036-7201</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0000",
+          "truncated": true
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Bustling local chain serving big plates of saucy meats & other classic fare plus jumbo margaritas."
+  },
+  "formatted_address": "241 W 42nd St, New York, NY 10036, USA",
+  "formatted_phone_number": "(212) 221-9000",
+  "geometry": {
+    "location": {
+      "lat": 40.7570239,
+      "lng": -73.98866260000001
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7582828802915,
+        "lng": -73.9874210697085
+      },
+      "southwest": {
+        "lat": 40.7555849197085,
+        "lng": -73.99011903029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-221-9000",
+  "name": "Dallas BBQ Times Square",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0000"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100407682243951753745\">Dallas BBQ Times Square</a>"
+      ],
+      "photo_reference": "ATKogpfFY5VdoFA84JSUa0aTHq9CKVfStlmYyvIvKtc3MmXhK8nvMEgSPXyGfjuoO_tjxy8MnBcu8PJa_wqIm3MUjSzbi5BXldZvI51WimjEFGfNOiphVu-JaRhLKpqzRzA5cWjqGc_UfMl5RSsc9v9FizHjJ4XhCscqg66LwaIxNS69xUsXZX4fTIcbfCdKKfDaeJVdKO_8L33N-wSsq0myx65WBwB3xEvYZYOUAacgNMMxi4QnuPcAbHJFs18V5vU_E_NkgBOk3VLdiUe0_NAyzhu09BoOJhfpr1KoCL1zHQLuRw",
+      "width": 3200
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100407682243951753745\">Dallas BBQ Times Square</a>"
+      ],
+      "photo_reference": "ATKogpf8bVlkK4G8WZ35JWuqaSu1-iB2lPM_UVSuKoYxm4De5sG7wkxScECWxMKavZ_sm8raAqKYUPTaQ3RloHIJIQPGjUaKaMSIplx-iXeZpecQYTlSIv8sh3lkaFakWPfUJy7_TIXFsllmWG9DKPmFGuULdI_MGms-H74om0GYJvVYrIHLl0eLqa4BmkcXnPPF0Myld_SznQM59HymFjyB8C6PCEvUlBsYKhuAOANRDjBgS52zQ0K2zVOzTGza9UlDYdT5PicUBW_OK0oqPNGBXrf1Siaa1u0Y33JKS9x2oAhpgA",
+      "width": 4800
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108919403858478287096\">maria montanez</a>"
+      ],
+      "photo_reference": "ATKogpfyw3QQ9IQv1f-5MSm50IXMJEW08R6a1_ZkN_L7adNUAdyC4YGy7M1JQ_VvJmeo9ujOhIuer6-UpWWVLXMaGHjcM0RedllF8_6abqEx_dS4sXa2Y2o0mJxe0TfsvhApRkJoHDn9_ZEC2e0YF80fAABOv7cjMFdmH-BV8fMtGLDsFoPXt34OnbbvzsJIPtgsXhrjoJ9gc25eelHnu3mFbNBpzBp38psqZAkf8tHaeZjT0wJhEbec1TCKydmjVFYbKiAKahYruwZfTrPy-hmmqTzZb2xaTdfW3VorvO0vlzR9jtT4K8H450gdm5K0I-zu5R5EMpTK15IOeEPmb6Pblp-6rNVrydMNLkQSKO9R2BF-_Czs4tv6Qfzq7tYXIDD0NaUwxlNOviDijlqBtv_qFk67BGLB-6MZ6B0QprfkDPokbPMvKt0pmsxSoQiz1Q",
+      "width": 4032
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106692808245038415311\">Nadie Lennon</a>"
+      ],
+      "photo_reference": "ATKogpfV92vrLiG3KY4QqnN_ZG6Gq2fSpt0ORki6HfQYpYhkWwZuNz9Eex9DdXaiyDcIzBldn2-hZOTao_6juM2x2fYAnSGW8iVMr8wYl7PwHEWY0Co70WR1Yb4DiPCgecjNAIv7PxDcvNIzshajaIH4ly6iSH11zcQoTVc5IWcWUeiM6zl_CHMmfJa-xRoxqxLGJ3N_G8RUHvoejPajAJ78NyK-wQWdDUQRV3gRQGztEeJBixIBq2tYXUBmTE4UDsaawUTfVgGzcNJe5sVZsGs97z2k4LK17NpjBaoz61JMlb4ktEreahJV6OeIMQ7ldmI060QLg50iUcrfel94VPQd_xqGuR0TpfumHuv8z925V4paUldI12EBFUQ6Au75tL1NN4ak3_AoZ-o_d9encgjOHkqYcX_O4eBtFqg0JWIbWcfsbt31",
+      "width": 4800
+    },
+    {
+      "height": 4096,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106347702123712055041\">Frederic Faure</a>"
+      ],
+      "photo_reference": "ATKogpe_m4oXXcm1puDgAWAFgVZXw0dvszA6CFjXEPOC73eo5O3SgsHgyjbvl0HhC8TWLL2b5are0XWgoQrnzD_gDwdEviibnMioA3Zz48hX2ZLSm_r7A-fDeAvb0tzsDRwLzDUdksBOI7fzkhuUy9TXallswy2seRuMm-O_fv8JTWokhpQuXeEd5vqBG4OQ6BD1n8LfH2FdsNOwBW2TK4K__0XWt-L1QnXMNJ0o1zZFih8FkIxflRFQ_UCi8f9aSVEzlUBxFre163v0cw-F_Beh2N1X3YB0HpSMe29TWW0b2L4B5Z3lPquEnQOyXGTu-Gii1_iUN1uL0biK2NwCfc345mu6mbUwBG80Q1vldbUu2vRsREqgLx2G9KXRDAlCrQG5eY5bRpSbK_M0aUTrgXEfn4sCXNRNuPtI__k6bZ0mF-MY33Q43fp8ETQc0CI7Zw",
+      "width": 3072
+    },
+    {
+      "height": 2620,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107015888877944336321\">Arie Arie</a>"
+      ],
+      "photo_reference": "ATKogpejA-juf8bbfN9ueS__5y8IszmFuUzAm9wq9Ivib_kOnPRZRZwSgwEWaYcLHP1o3wZOPNiM5ed6kryL-aD2pycR5ACj4MK8m52OivHFRi06zyvFF1hhKbtarkAS0_rlGHgDFu5D2Zj9xRZQtU36zejNJTFAXFLhxRGAPElgdT9ehVh2iLgLEiJpuqwQ_wOxR_YgX9eGKZ4E4z3vZpqzmKmDJ5zjGfnGzc0dWD4ju2MoTp-GfVU7NOemJUphPZPzxxFs3x6bAuUvFqREeqYshntYZKgmryUjc8ykDJjScJh8nBSKRhDy_YZrIICxQuSRT6EmzLAZ1ixklONhsf35J-PRgnyQ4Gt7g9xbM6HxXx3JuRe5km7_pShcKmt_mv7OQfebdf7_HyI_J3NNY6EKF3gL4JlnjsgUKQd8qGzm_Wc",
+      "width": 3020
+    },
+    {
+      "height": 2250,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103233316076261615038\">Colin Bosler</a>"
+      ],
+      "photo_reference": "ATKogpfxMoK_jin9dgnS_pdFZkRaA51PCFg14Fhurik-m2rdeByasCUDdmygC3L3hJLmFGzjUoa4FfcSf2gFhM8TC6SalQLMzdi7AIzsZI-5K_9_aoV94z8szXIjG9MxQcXKrOzBZ4U9-Q_WfmW6zogpeByEgq_gtMeYuMjRl1WFlwu7w-dGZbUWkX6fkKdiSw3LDA4dDEZ3fHvWG6ZYyhK0TrhdMzqdO8j3Uz6HvlI8s0qtUmwWDroYMafj-JHdAm0MvS5y17bQQMZituWhj-rbwcNuaEScFUab-rEvrPkn26z0QqIe9H0gRLgFlwDdOABQ5hZEurhti5D75VzyNBw_2BLxUVASiMmqlt4oQxs8ZQmrxw72SZwIvsASXxd4g29sjyAGSA2ACAPav7ydyJ-cJAmVgWVyvReQAhWckwUpfnq9aQ",
+      "width": 4000
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105545167102466744381\">Vio</a>"
+      ],
+      "photo_reference": "ATKogpeaHoL9zjLHLATLSE9bdNsNPXMNXdw_jdW-6iqifZG_j2sDxEzQVtzJpm1mk7bA9xPbaAmCeDqNao2Yk934fWnhu8eEuPU8ocHub5DSJ4GcPRiYbqal_-VOXycj_1iqFtKDggT3TWT2XZshKSoZSYIkZpnxuvM_2b_zDGJbmlbQ5Jj9i9mMjx77CkBTDc1zYJEfzmuuiekoWe8LCiu7fTtYOwR2CIk6b8JXU9u4YghrEljscscsDUyXSfLczkYDeeWEHFO7RUDVMW_6aXJ2RmBSoUoSxc3TaSojK0u2PQp83m2h-TUdp9hEjta9JRG_PsgyAwJLCt3NJr9RWnv-s9y2XaPERpn4P072-yjJmbXLkBx342Tamn8I4FF2TFSyrFVzV_WbcMihEaBgZBgi6V0Lmp86wX01N5IpCoa4iMY7pA",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100399812541040027966\">Megan</a>"
+      ],
+      "photo_reference": "ATKogpccVCNPvNL38Pbp-2H8TBC70ucjAP85l1zjYmYGu4Y0-CIe01riWDmyjWfF9iRi3EnyAsnJ7Bj1T-mMe_MSNgx364ttQK4Jzei9NjwTgemu91CUuppV3fW_LBfnMmnlmo4rUPBi83WiDQgqfKJ7qbtT2aa1FW_lVob6diMNxlfofaRXGttKgBFYGKe53_-Kcz4qMaaoHIisPv5ECBut4Geqhxazuj6lwitlDj9q0IZ_fkJ4yWhQ6ycI_Rs4tXsLRUmRlqp61MBthvxq1NNTtNjKRcb3b6DmR94uqtyXa-Yb2T1kTY9yMQjGKnSKSJblrzzkBKmNdQQYuHs6mmOsZsF-uAcDH0-tx68lt-CjCxMeT0Wge8rHXa0R4iL-57vtLxA_5vgCm1lHlWH_hDxYd6VFqLERuukFen2F2ufaGV3FgTmH",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104623193526700452053\">\ud5c8\uc18c\ub2f4</a>"
+      ],
+      "photo_reference": "ATKogpdblUIpQ6SwWS1C1C90Z7jUQ_3Guf3pH1yIFaW7Q7DJ541GsUshqc0ZJeVuvPwxtnt-Daj0rcbM-0shAqOaafXcEA91QUzpz2JgJEg0uYGLQHzacCmmqVcoeDFZire3UYhZO6LZpvIlGKOwBP-55IvIxIF-7rVu2cw_JU5vJoD8c5bxfrd2PiWzIuyKGcQFZvqbn77a_QXbG0jB4cJMGQ0PbdHVpXjXgZGF8xieFKCkuLU4_KM3iHL92vzvZyZAHhoWAqxMB0JAPzpfrR72iP98DaTMt0zfDXhqjqT3SVQkNZEMzEeBMEc9rEz91bK9NzkHz2QOJAzSTJ9ZSu0RoHImjKg7gYuBuAoZaf4udHmZ1db1fC2qPdnBzhA6q1LEJbF-mDMvCc8YZEMfVQ515t_hsaDeJSHzNfyj43-5WD9PrQ",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJn5a71FRYwokRGB7grb84QaI",
+  "plus_code": {
+    "compound_code": "Q246+RG New York, NY, USA",
+    "global_code": "87G8Q246+RG"
+  },
+  "price_level": 2,
+  "rating": 4.1,
+  "reference": "ChIJn5a71FRYwokRGB7grb84QaI",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "maria montanez",
+      "author_url": "https://www.google.com/maps/contrib/108919403858478287096/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX6_o3igk-vn1lU-DGukvbQUOTNg_BtP7wDiGC_cgvnOdVfWbGUgg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "I go here as often as I can. This place has great food, amazing drinks and always welcoming. Some days are insanely busy but let's be real thats the city life. This was one of the times I brought my kids and the waiter was exceptional, he was patient and worked with them. Food was out quick and was on point. Crispy wings, med rare steak, fresh fries, my son lived the henny burger and my go to is the onion loaf and chef's kiss it was perfect in every way. Drinks are worth every cent.",
+      "time": 1750153179,
+      "translated": false
+    },
+    {
+      "author_name": "Shar Dorsey",
+      "author_url": "https://www.google.com/maps/contrib/109645037840372711157/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrxVJ-WGyEDuumAi2E2o4Z2Lq1y65ZTdOlEa1LrmfsbERAKfOEVQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 1,
+      "relative_time_description": "a month ago",
+      "text": "The service was horrible\u2026 from management to the waiters. HORRIBLE!!!\n\nThe food on the other hand was pretty good. The DRINKS, were good and strong and worth every single penny lol.\n\nI would go back just for the drinks (especially if they can be ordered to go). Other than that\u2026 I wouldn\u2019t return or recommend",
+      "time": 1746359899,
+      "translated": false
+    },
+    {
+      "author_name": "Tamika E Smith",
+      "author_url": "https://www.google.com/maps/contrib/110236080691132681082/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1p3h0JBdrIW_pACrhEA_IpgCqukHRDWOKs88uy3f3WSebV870Mw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "This place was highly recommended so we decided to give it a try during our trip to NYC. The atmosphere was very upbeat! It was a nice crowd of people there but the service was amazing. The food and drinks were absolutely delicious!! We tried the sticky wings and ribs! The portion size was just right, we actually had leftovers. Totally worth the experience!!",
+      "time": 1736989940,
+      "translated": false
+    },
+    {
+      "author_name": "cheryl paige",
+      "author_url": "https://www.google.com/maps/contrib/110074904530324475382/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-LElPzmMVudCRl7WYEC68br5v2OogYXHSsgUlu4ROQS8Vgg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "This place is amazing! The staff was excellent. The food was amazing. I highly recommend this place! I am a true foodie and this place is a10 all day long!!!!",
+      "time": 1748091133,
+      "translated": false
+    },
+    {
+      "author_name": "S. East",
+      "author_url": "https://www.google.com/maps/contrib/115620032855166875870/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLtBs6cUDoEYIZdk7iS2Bh-sGcNSp2Q1kzEZ3-_xNc_p41XTQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a month ago",
+      "text": "Came here before, years ago, and it was amazing. Came for birthday weekend trip and was excited to have the cornbread as hard as a biscuit on the ends and the same with the baby back ribs...hard, crunchy and almost past jerky. French fries were decent and then they bring out cske pops that taste like a hostess mini donut put on a stick. The only good part of experience was how friendly the waiter was. This wasnt the first experience my friend has had here and she's a NYC regular.",
+      "time": 1748540632,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "2330"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "2330"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "2330"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2330"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2330"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2330"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "2330"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "type": "DELIVERY",
+      "weekday_text": [
+        "Monday: 12:00\u2009\u2013\u200911:30\u202fPM",
+        "Tuesday: 12:00\u2009\u2013\u200911:30\u202fPM",
+        "Wednesday: 12:00\u2009\u2013\u200911:30\u202fPM",
+        "Thursday: 12:00\u2009\u2013\u200911:30\u202fPM",
+        "Friday: 12:00\u2009\u2013\u200911:30\u202fPM",
+        "Saturday: 12:00\u2009\u2013\u200911:30\u202fPM",
+        "Sunday: 12:00\u2009\u2013\u200911:30\u202fPM"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "restaurant",
+    "bar",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11691688503537573400",
+  "user_ratings_total": 14510,
+  "utc_offset": -240,
+  "vicinity": "241 W 42nd St, New York",
+  "website": "https://dallasbbq.com/",
+  "wheelchair_accessible_entrance": true
+}

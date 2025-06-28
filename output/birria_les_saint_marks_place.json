@@ -1,0 +1,458 @@
+{
+  "address_components": [
+    {
+      "long_name": "34",
+      "short_name": "34",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Saint Marks Place",
+      "short_name": "St Marks Pl",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10003",
+      "short_name": "10003",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">34 St Marks Pl</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10003</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0000",
+          "truncated": true
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "34 St Marks Pl, New York, NY 10003, USA",
+  "formatted_phone_number": "(917) 262-0970",
+  "geometry": {
+    "location": {
+      "lat": 40.7287257,
+      "lng": -73.98830339999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7301359802915,
+        "lng": -73.98693241970848
+      },
+      "southwest": {
+        "lat": 40.7274380197085,
+        "lng": -73.9896303802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 917-262-0970",
+  "name": "Birria LES Saint Marks Place",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0000"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104475175959785961763\">ashley fiorita</a>"
+      ],
+      "photo_reference": "ATKogpdb15UvH7Rm-zIgo0QJxmi1CXOyryzav4ZB2ksMDr1wB53VBTi-2WeRcxYq4dCKBaeQYSCnUCyr2Q2HU2tDWy4KBoPT_87JC0roGN1JwDHwi5Q5uR3R2S-icvTxDuVEo6sTo9tpR-hf_PqCXlyrVwcfcxuIWV59zPKV-zDPSAZOsNgnJOtZPAZSnrRXpsILxK8gYjS8bIDyZUDcMXim4z0TrSoDRXLWQdKDFjfp2lbAr7jxIyk6dMcIOa_CwNAmKgYFQX4GR3RtfvufJu9ukYTAbzuC5yBT5NXSdXJfh-dQnPJImLqIz1XPrbROjcjDuXOB3yo89rhcFpM6eecy6EypOSbQsBCL-tPMng8xF4lcmzlJPEH6rd2sQg8mbMZ-eROJDUf2slF85FX9SrovwM5LAWgV28le34fNdahLXiT4BOiy",
+      "width": 3024
+    },
+    {
+      "height": 1132,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110453801486360617033\">Birria LES Saint Marks Place</a>"
+      ],
+      "photo_reference": "ATKogpdXihXF-daToM7gns9fu8QAVwJKC6Eqh1qV-Fg3tA0qmIrT_0S4e-TUiqHbuRq8979yDMX_uHBt1UFvZmu1qozrWEOSWZHuWSlMuBcMzrUTt1AQbU4Ot75w1sVHSBwTRcCD-8chJ_WEe-LzQ4OrI1o0oOvYyuh1YJNCjsmoOJS1muowURKKitNABHei-wlx2XXj-985y5uW-Kg7o9p1KgVRgR12VZonuPMVRQ1ExrlPF-Jyq35PHmnlzOO5Fu3C5qAYKvKE0h-wGYgUQwTc2KkwH4wPbHWsIMhb_zRo1qAdNw",
+      "width": 1079
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103260246806161142726\">Jeremy I. (Smshbr1)</a>"
+      ],
+      "photo_reference": "ATKogpfJ6BzRTuQq0vlStVzBgU85LRpy01EAFLE9taEHrLzFYr8jhSpdxw3hZqEmahyDimJsjubHM4w6AyjPbf6AGYv-gQsuDR5rJ0GMoOb1WeRBnvf7fJ0sTNcpwXNjiJaoVNFJnTbbh0tGH165itv5jqQoKezzp-qmjoEdMUe_M2dnfP30rGcpKbKWFkG7SHqiGIuEU5fwd_SXP91Xaq-MygvXeDVniysvdzb5m1U-xqhR1aRG3avXNQ6GRhS_VPMeeF4JrfxWxA1YeVl99bv4w0VLXzdIgWgJ8afv9sVXvQ7UVU-eE_XK70O_jyqpRH6hCWQM2Jg9s3YlUYAp9i6JvhJPV87orjzxw-cY51tZBim9dwSlzLk70qdPTMM1y5S_mzH1pEy7BsdzfemkYDf_SD4GN34FNmMPBViAW1MFVhT9mwSbwuVjL2HNnCOP9qh1",
+      "width": 4032
+    },
+    {
+      "height": 729,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110852946375491042100\">Farhana Moumi</a>"
+      ],
+      "photo_reference": "ATKogpdParu8SEOvOwFV42HmrCpJ_Yf8NVhqbXSl0SBAtdz5xGlJvi2KjOjE7NPDMmq6tf2bnrRKDP2vPvhLkL540U2fepJrw9N16VIY9GkBDil5YGsWNB5x1J78Kmn0bgs4Blfv6HIEGz2ZLV1GwFzmn6p8FjhshlO6CvNAIbDLKQVXOX6S_7cF0ETBh-4MdF0wzN2UVKnC_Kos5MrHXa2TIGeKW0itrr4ihj-j8NIB_ryui7iFhXc4AATQCQQ7ZILzLWJ7zrSMKY6aQDPLBnnG1NaL0oJWf8YZYsUaG36iPOexlUvUsGGKbAzXh0dANQ8H7mVANe_xjPuFFQEYhpdluALEyBDO5EPuj6-_TGFN9_RYG_MGntKX7wVoX4ebN7o7rxSRG9hJ8DErg9X6pYT-AS3tdk_ygdhqJhtnWoDQbW1BxA",
+      "width": 1001
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114185630651978875466\">J Mc</a>"
+      ],
+      "photo_reference": "ATKogpckgUfhUUw9gVDTBgIql8U_VJKtyStMoSATl2cqvkY1BeMkWVpFoAGk89l1xE6-SFDb70mx1IQHmOg884hh0768xFrN_NEHfrayJucsue0zu5xCMdEBT6p2WEWAtR8e765A8KU-nKn1XxSKHBhqlGddMLthQ-f_gSPFupEXv0NOIPuPaVtQrlts3_QTsoHIB-BY2hdlEoUsgAFGcbDr3m5mxbGhR8gLfilEdpo3OQUFOScI-joyFBBka8rEdg833SBfpRf-CXo0MWZ0zbwAu0z2UtiVanNPu28rD3fH8_T9doPpkDmtE0XrpGiHQ5m4ibKZxFFxYlu56RsLLnJMsL1AZJILpsATr-jKIBd_SyXfn5phka3clFJDH31mGO1VOtxW6A3MQiXJxcNd0DNzX18-XZgBAypfTVJntDEQbAZTCA",
+      "width": 4800
+    },
+    {
+      "height": 1460,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105888874075674338115\">Ny Boogie</a>"
+      ],
+      "photo_reference": "ATKogpfizPFgQu6fGNCWUmh6XDQ8x69Ad5oWpTHuxVUmz8pqQKllyYM9q1K6MPsYJep3FGq8D_6_vhjHyNWzPZJUVweqy_-mR2i-nfidkwXTYGzzuQj0i7gOafpnA9PHAEsPpn6CkdvP3lO_6uIdkWMUnzOEcAtMabnzzu4APoqxLRnCfN5fAoAMy7Yyfx2QN5alqWzYSGRkuQF0AWIqfq4WvP4Eg9Pmnrs_DL-a5GdWVFSsPR_KTlgEj7QFxK5tkpe9CPPNhl3ZU9i4RUB4HeSmbNk7vGT6Ztqyl3GG4bSxmuX7rvn_OyDxK0DheTIFm3tK3-NBYCF3BH-7mc4Z9rfglDBXNg2VAAwIPAtlm8aGVXLS-e8gUG6HrHWuizkQkZ_9CrBCmcJQsIV6ivlQxmPFV0AsLrl0dZjOaR7xysp2aFnQGQ",
+      "width": 1170
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115710097890028705980\">Duvan Valdes</a>"
+      ],
+      "photo_reference": "ATKogpca2I53bVTOHKELTYs-8H1XqAxz0uT8w3RnMC4iVNOp1wQJgU3Vb9hgQekAEh6wzZ0XOC3L0jpNoKyciCFZuVVaqIXUdtm1VPrXZY6nsEmQhSpwG5RwwlkMHNb8xP3P9XTBPu2Si7AtSrilBeco51sqzzIe29yYHYmd-ZBFALHVwSumumN2G6q2pQUZ5d247TkQB851jiE0d7vDejAhD3GTssLCQc3CGv3Ndlp2zH-D9hErVAsSmwY6ydjbMbRGYz5J4sOZ0NIiEbD8HPNlXrBbHfarxOlhLNcWqTz5xDzZmlYzr7BjS_4Iql5NTDmwOAcTJfhvKM7Hzh2yAgno3sEzXetep0p7yu93uq6qLG6MiL4DSbRZtzcBY8LSZOKnAFUUJd1dZ4xEWoJMt1kD-3ivG7--JJlSGmNFeq3cHbALcuxs",
+      "width": 3600
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104475175959785961763\">ashley fiorita</a>"
+      ],
+      "photo_reference": "ATKogpcrk_JFWwYx6TLK3_6u7pf8bBsFKD6_dpJnshUcBIW5qzroiGLtJ0JGNrqGlWWPRpQDCcaAQOZ-mTJQVrK3m-0-rqptoLcglFMjPAm-4Fuzb8i2EwXaF8F57J4YUNx5QK6QoLPHXExxv7EC7Xd03dSXNupDCvdm_lpNA2iaW2ujeDKvlEE5ZoTotf5ULju47nBC8ainA9g1UP-MNS6nPbFefTm16jT9msgxA6hJsCkhymbxRSXXEdKgOTZhpIF49NzhDcREa3tD0mxmBocfKlqqUlC16yimJH683LTFC3vLSQvRN8QyQR5HaXrgMucIRL4VDxGiZBolKTDlNT_3dxh6R8RtJltIRuMBgt4xk_6uW_rrmi5OHCeEG7sl5dgHr7BKDf6t4zgHd3CaIwHmTDhJhbogE96l0fWM6laieL7phg",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116764927483213882717\">Fit Gear Hunter</a>"
+      ],
+      "photo_reference": "ATKogpeRHn7zdcR0q7M7VijCNXKdRMpLGMi2vFjP_FvhFDteSw8sWNxbsHXTJRFud4bup0qavqULH-9qJS8kd26qiC2dQWXdq1B4ZQG5OLqehhCINHBzKlsA0ImWbGVJHSwJZoBAh7GfibNxB0NSlCgxfznoC3l0ZuBndE3NpoBAT1SYd9_GtgZxGDMhshp2bzqKvYVS39vdA23uQleunKF0ih3766iupFWu_X7cl28IDVaUiUc7t-TwbIKk9EsTzErcJckowprU9XbK-zcpSGIUZw9fp-1Bq5zqqO3ReYDB4_vI7eMImV6fddPrXGcObDqJr1VUlamtOsQYOdLVqYbUHiUIw6XbRkz0QdM2qx3qBV9xGK85vjQWV9zpV5PjCY8KAd4FrNKsVpXB1oqrjBdVLEK8ndjnRgWuFF4DVtsLeBo6aw",
+      "width": 3600
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114136819840239269606\">Michelle</a>"
+      ],
+      "photo_reference": "ATKogpfeAX6qmzWIO9AkaIyy-Fa0zosAUTdB8kjwrkLQQiIjfK8BFW_Up22PFW67hG00ihIb7AJ7cYp9sX8JjbDmf02DXCZoSv5zVEgBgHNiMH3i8A942E0P3WYbJrJqKzZQvEo0xotiK9U9tajd45Kmoi6KOz2fflaQrwC0o_UOZ94lLCZY7wSIi5H22gEf-zXxjSYhLb2F4N2Ty19dFfkYAadM75A5C6TJbwIIew5Iej3vtKmGLRF15gIfBTilla-V_utdHck5ZTqHYmZkyJ0Cm057V2720HzF5Vb8e36fUcu8Etl4PRIyUuI0Ppy03eEqp77vsCSocVSeaBEcnyIVqNzJ6I5Jmz2t6f338tEfLlcTSTsfzdpjahmEZvD3cNAKyWV1rWkC8zlPbLQdCbumvJT5K3tnbgRIx8HhaB7XTIhYLw",
+      "width": 3600
+    }
+  ],
+  "place_id": "ChIJOR4b2lxZwokRxuGITUSc9G8",
+  "plus_code": {
+    "compound_code": "P2H6+FM New York, NY, USA",
+    "global_code": "87G8P2H6+FM"
+  },
+  "rating": 4.7,
+  "reference": "ChIJOR4b2lxZwokRxuGITUSc9G8",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Mucahit Ege",
+      "author_url": "https://www.google.com/maps/contrib/117488583565460018811/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUAqJPiC5VziMJS34NrUBfgV-ejmNFYEtMFT3i6QD-LgGT0Yh3Y=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Dropped by with my wife on a chill Tuesday afternoon \u2014 no crowds, no chaos, just tacos. Were they the best tacos in East Village? Maybe not. But were they good? Absolutely. The sauces had a nice kick, and the vibe was super laid-back. Staff was friendly, food came out fast, and we left happy and full. Sometimes that\u2019s all you really need.",
+      "time": 1748397079,
+      "translated": false
+    },
+    {
+      "author_name": "Fit Gear Hunter",
+      "author_url": "https://www.google.com/maps/contrib/116764927483213882717/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVzPvv_1X7Y1YMLwNQx1XkxNde-zWMfdtPfVX01N5M_Nf03crU=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Don't even pause or think about looking at other menu items - you have to get the Birria Beef Grilled Cheese. It is absolutely next level. Unlike anything I've had so far - and I've eaten at every taco place on planet Earth. Don't even think of getting anything else - it is that good.",
+      "time": 1748286309,
+      "translated": false
+    },
+    {
+      "author_name": "Ayesha Bahl",
+      "author_url": "https://www.google.com/maps/contrib/108899190038864068854/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjULkJrDbtNTI1fOaMF_UCEM6h5uZkDX3dJ_tIUFxzgw--c9zvYy=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "Delicious Halal Birria Tacos (along with a handful of other items like dumplings and nachos) and great service! Typical wait time for an order is less than 10 minutes. Sometimes it can get a little crowded, but for a small space they have lots of seating. Would highly recommend as this is one of the best restaurants in NYC!",
+      "time": 1737142766,
+      "translated": false
+    },
+    {
+      "author_name": "Kayla Tubbs",
+      "author_url": "https://www.google.com/maps/contrib/108089865586389154955/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKDRSMftkIo5Sb-bVsWpDDf89njSzMbQdGWStUXYAkPEVey7Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Foood was good asf and great customer service from Anahi was great. Thank you sooo much 10/10",
+      "time": 1748462432,
+      "translated": false
+    },
+    {
+      "author_name": "Michelle",
+      "author_url": "https://www.google.com/maps/contrib/114136819840239269606/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXn9ICvi4SB68gxWhemKuFxSr-Hk8ckoO86JD1pu--RGeUNuTARpA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Came here with a friend and got the tacos, dumplings, and birria de res consome. The tacos were quite small, however anything drenched in that consome was delicious. The broth was rich with a strong cilantro flavor. Portions are definitely on smaller side and the dumplings were a little dry, but overall really enjoyed the food. It\u2019s pretty messy but they have hand sanitizer ever and it\u2019s usually not packed. Would come back literally just for the consome!",
+      "time": 1718453474,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "food",
+    "restaurant",
+    "establishment",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=8067244649699926470",
+  "user_ratings_total": 474,
+  "utc_offset": -240,
+  "vicinity": "34 St Marks Pl, New York",
+  "wheelchair_accessible_entrance": true
+}

@@ -1,0 +1,466 @@
+{
+  "address_components": [
+    {
+      "long_name": "167",
+      "short_name": "167",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Grand Street",
+      "short_name": "Grand St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Williamsburg",
+      "short_name": "Williamsburg",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11249",
+      "short_name": "11249",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "4294",
+      "short_name": "4294",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">167 Grand St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11249-4294</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0000",
+          "truncated": true
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 8:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u20092:00\u202fAM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "167 Grand St, Brooklyn, NY 11249, USA",
+  "formatted_phone_number": "(347) 799-1078",
+  "geometry": {
+    "location": {
+      "lat": 40.714757,
+      "lng": -73.9613578
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.71601813029149,
+        "lng": -73.96007126970848
+      },
+      "southwest": {
+        "lat": 40.7133201697085,
+        "lng": -73.9627692302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 347-799-1078",
+  "name": "Nan Xiang Express - Williamsburg, NY",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0200"
+        },
+        "open": {
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0200"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0200"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0200"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0200"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0200"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0200"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 8:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u20092:00\u202fAM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1020,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117686732411497883237\">Nan Xiang Express - Williamsburg, NY</a>"
+      ],
+      "photo_reference": "ATKogpfbtNjPX0_koL3CJWMlqlub4uZ66TyK-2A9qs-5Sz2_r8vFDdfQeF4Hbvt1k4SSqc8-XoGMsqqrEBjhGEEf1YGjGGboksCvBpCt8KZ620g8aZ27maAUiVf-qIdXPsxs58oXAvUw0kL1ukZvPbUHx3rFK_HdZFnYRNFULpl2HDZxjYADmEtVr9QKjiIJeAQ3hfViV4RrW9ehxV0RHREhW2-Zv6Bo-hX2WBgvKaTlGC4olq1ozEoz32Sz_VgVl99v4CI4FR5GEvhhq_378jp-en9F-TymDyTg9irbTP0y80z2gA",
+      "width": 765
+    },
+    {
+      "height": 3202,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117686732411497883237\">Nan Xiang Express - Williamsburg, NY</a>"
+      ],
+      "photo_reference": "ATKogpdumQ1AXKiq379juQ0Tb713HvRviSizPKk4mKNuzKDlF_DfCAGjEKE-WoxUF3sPfjpjcEejjcMH9Tw-5eSjc_57YghbG7BufDSdC5JhHzx9fyL5E59WoBAlfwlIOS9kOHzdZvULw0ZS0uzuyzz4Uj-bBIelYGyOvCxsuqtL4jumIH3Gj9h6tG3r3vW-q2yDVsaiLD_F-4i3ybeHWRsWkIWAaiYNPOMhx0bASiWMm4BC3pn7c6-uAlxbHhIQo1yDJUp1CYL6oc7v1Dyw2GLU3_lbhJw5PkLg4q3uVjlEuwVP3Q",
+      "width": 4800
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110068869657675327731\">Cheryl</a>"
+      ],
+      "photo_reference": "ATKogpcvm5A9kvE94Ooa-LKI--R0ceRT6PhJGcxUivJNDontfqCjVkKYvg0aZSoAQfx-JOtilT4OSBrg72weU2Wfyy43LEDd8Lmql63PiBFiQ2K-HAIOonryHKnBBcQHjDDqa7Z_vDM1ZuH212Nu6YxAtuLU-ffVs2HvqNTj6VQDszdqo3gVrOkThjnWgHgd5ytovdEvN7qotXlk_2zmDaOD4-kTQ7E6PioGRybeMNkBgUlii28bP3AkM2LHbn7oy9LtDElIswx7fTXGFTedjIgD9Sy98ElQobzyouCl2Pzh8uRzXj9dNCWcHqfSWLlRjWcFs-S_LNmAcCwnxThLFlAbNP2mYEA0aqE0YGZO8wEkNnaUbm7nrx_6_T6nnTPX4iG36Wbm3zHXQIJWORH8sZRevA-cWN7cFV_ktBkQ3trztx9bqVjhae6zbcMkoCDdx1zh",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108029922749961762349\">Pooja H</a>"
+      ],
+      "photo_reference": "ATKogpdbNNsuLg1OoJkAnp9x3neWlTr3f45UzablSg3MQO3BCA1qxVD0m0x11R8bwZ-c_EmfHQElUSlQ0gp9nT5jL1RUSOeq8foZ8F9i9Lc6Xf6TQiLs-40NuS9dXZXj-Y83u8ZeE_W4s7YVw0YzEz8rbue2gpYhnAZm5Y6I_yIK9fcAsTfkujIbohk6DZc43aKxGjxoIEyNI3VzqB6p-GPUStCTSbxp7d89K1ZRraN0FbBrIXShMLkE_tp7J9VM0QojjBD7WPmxZprVd8iEcp4Qu6YnrAazzzfZBLfGhQJr-r01Jk08CF6cYppJ5zD_uReZkVSONLXVRlGGHD3a8e5cibGn1xgCqXC97av6I2ineeog8d9lKO_n22nbLyyrKyqEdliWKDHdjI0AEfy-pRk7C8yvcrHWk-U-JHiDTtPuSKfCw-gY",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116051159465667829285\">Susie Su</a>"
+      ],
+      "photo_reference": "ATKogpenvgpFo7xpFj02yliOPlL3o5jrPQ54GT4WaCisrxvBYmkaYfBzTCY-_EHWBK2lYdyCEfCnxXJKKRkLgRa7TcTGV8wQ_xaL_3IXsOE7q1hWbPUbFBgBma5vReh_K32kRjK4fjY44eCUAxT0AbZGpSFZxqB5Zv9f3Mz4mBj2nLsE8ePgmzjWZPksUEL8kK11ljPGIdNMHuz4vbdLgucN749cGLRauAX7Fj1ELN9c_boy9wdGlyf-xIvVQxRFoHgLoMIFf1mKUr0t2fiDbxFNE6i7Mceyyp_BOSt9KHCOxmc2FA4WiqDgKDtgRpVeBskgT5NPOPNbMqasC8BcLdDAieetIjXlxlZv0Dmiqfx5Uq0DHeCVRVamt8POUiXsyrxE2J0gSQ79266ArMeC2Afu3YrpBfKZDZYXbahcUtCB5RjFvBg",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117686732411497883237\">Nan Xiang Express - Williamsburg, NY</a>"
+      ],
+      "photo_reference": "ATKogpfStT0Us8fhOYxvvTGO5wgI7i9jpcwZ6dJvWb2coTpHJZ7TRmCsdY_73e2m1CZ0VaE_4eUtMe5bkRRenS4ZnbsFjfO5bDf76UtfdjCCFt10UR0ZjPawKP2i-ovHYwJm20y95xt_kaaaO9yO2zTztz3ZKQZM5j7BJMk3cUYux1vglqnaXxgp9E8vNEolNnVVXDidITkiiUGxeQoLLBtGXJVxahu5ccQUtFS7xyuHxxJ7glPUDnNBkygnlRJaVTMq0z41l8GWk_acbbNS-3QCdh6IGUcbCsAOw0Hrv_CyfsLh2w",
+      "width": 3201
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108029922749961762349\">Pooja H</a>"
+      ],
+      "photo_reference": "ATKogpdsivicMuu05EaerdPDysm6UzF2jnfSWpmyybqyQNjZXPOkIGcsx8tEda6IFKR6DYA2JKdD3qUs53CSLbXEjqmYBYjETVlB0KRFoN17tTYGh4XQieBK5giIjUgMAoBh1cmHTWSbyuQF-636p_0Tev9Ak6JHb7RY1EgoWbA3hj5m2P9ikPO4446UGAtFfRAVPyI9VPcYf8fhBKrPmDKa6G1_dfKVRJeMF2HzjEo6Gp3GKPVzjr6Rqfd06EsPuhuVJr-GI5gZqRA0rOWSNI8yYcF-Wi3NyMqLgBOpu3E2HtRKz7pb0yVWVt8y-j66XI37LD7nUAkTczMU2YGy6ICicygDbWrJS4l9SJ3q8sP6gBGUI7sOvlMs788_9eYIXXQtjqGtvOWj_zmXcEnLD90rwFPjF5oKoUO5Xgf851d2JmhvmXO8",
+      "width": 3024
+    },
+    {
+      "height": 4513,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111157966669845016875\">avirut lerddirekrat</a>"
+      ],
+      "photo_reference": "ATKogpdufh0xFAC5XQmxXI43zN5F0pJkcvk45AD1p8R4v42R6DCPDlRCr3FJB9yTzTrA29j9CZhzuzTa2LVqHeygUSaTahPd6tKhWB-MD3rWZN8f0IU0ISOADfG4Ybe56QMCdTIpuhpBcLWHm4jH6QhBGT3IEMpgnnwL1n-KU8ZtU0Iak93Uro_PHKLm9JextnypUhnuC_drx8OLpmjTLFtK59ZSTQQ74OY7fLwArBgkcVjT6ViOXQqSNJBuDEAWbgJy5v-uD9mJJkCdN09SAmgfd3kEDeL5629KexyQoYQU27zdpVvsb0aXZJEz_59j_ZL9Z11J9uc0vmOZYQI1UYFf2gWI1xI2LTpju2USqEJUI3W8tvWGxQtCkQ862d17aX2Eyxlo-6ruN9QAMEmDMoYfm1573VFrcw_j7CDTffaqB--3J9jx",
+      "width": 3663
+    },
+    {
+      "height": 3377,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117686732411497883237\">Nan Xiang Express - Williamsburg, NY</a>"
+      ],
+      "photo_reference": "ATKogpdDcqFwIWXte9EiSbEHxNYFJCRHObqIpIIbWThF7BuBAcINpdZ8H3htf0_yXD3hcOyvKCrhwA1bZ9MIGov1VJckg1svUtyuhvND8oNDmY4OOdkckP2S6GkJ5f641JQdXuCXmJFKs6OuR7mRyIuiggaIOQF2TGZnckuBWD0aZloEWNkDPBPkyI5CdJXUuWSx1IyQv2eeDjqO8xTYJt4DxWJ7Jew95wEsG66VcrUonyDcw9WcbG8sHpJUTJTjnGjafpxPIVv0gmqlt9j5Cltlvzwx_iRBhEmL75cpUUIs3bibeA",
+      "width": 4512
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117686732411497883237\">Nan Xiang Express - Williamsburg, NY</a>"
+      ],
+      "photo_reference": "ATKogpcbD7Yo1KeM8T3yZKiLwb6eEKB63EvIL0eJoBPAzzkfflz4XsRMVbGQ4ws9SdeCTtwA9qWsTQ-fZx5kk9_mhpxPjTGqLj9O8UHbyeA6YKQDqZZZdH7d5Eyt-uxKzGxU_SIr3B6Nx349mMz5ESBP1rJT7mt0DEp6TTEeSZhKGVl5Ez0g3jLqOM27uDgDmLVRN3Dd-YAN2ACg16kUrA7htCeSooux03WMyaSICOX7MmfYEojNMwRWEE8sdWZ8MQknX37uGtA5_ZKrqc0zIMwR2Kn36yNWoqYZk1lCTI-4qkhOpQ",
+      "width": 3201
+    }
+  ],
+  "place_id": "ChIJs-DAOahZwokR22b9nTj-IWE",
+  "plus_code": {
+    "compound_code": "P27Q+WF Brooklyn, NY, USA",
+    "global_code": "87G8P27Q+WF"
+  },
+  "price_level": 2,
+  "rating": 4.7,
+  "reference": "ChIJs-DAOahZwokR22b9nTj-IWE",
+  "reviews": [
+    {
+      "author_name": "Angel Hsu",
+      "author_url": "https://www.google.com/maps/contrib/100630143300975724579/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIM_1Yvb4CfxJhAJ9P0vvn3VaUh94q3HGmnnAo_E1qofLtGFQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "3 weeks ago",
+      "text": "Food is amazing! The cucumber salad is to die for. So fresh and flavorful! Would come back just for the cucumbers. The soup dumplings are pretty good too, each bite exploding with hot pork soup. It\u2019s a self service place and food comes out quickly. It\u2019s a small cozy restaurant, limited seating.",
+      "time": 1749037811,
+      "translated": false
+    },
+    {
+      "author_name": "avirut lerddirekrat",
+      "author_url": "https://www.google.com/maps/contrib/111157966669845016875/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX73WpLsjFlhOTZmRrE6AK3JQMmp-4xSXn0hsa8t_cq5XxHsx9F=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "These dumplings are absolutely fantastic, especially the spicy dumplings served with peanut sauce! Each bite is bursting with flavor, and the spicy kick perfectly complements the savory filling.\n\nThe prices are reasonable too, making it an excellent spot to enjoy delicious, high-quality dumplings without breaking the bank. If you're looking for a satisfying and flavorful dumpling experience, this is definitely the place to go!",
+      "time": 1741891571,
+      "translated": false
+    },
+    {
+      "author_name": "Kevin O'Brien",
+      "author_url": "https://www.google.com/maps/contrib/116160229269517140471/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLnrwO0LpFYsksjroSNknDjWRz-pd1tSvSyLHRgcVt_pxWY8w=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "This is a great dumpling shop with about 6 4-top tables and a small but very nice back outdoor area with some seating. You can order directly from staff or via a touch kiosk. We got most of their menu when we went. The hot and sour soup is good on the sour side with a nice amount of acid but could be a bit more spicy and have more mushrooms in it. The hot sauce on the table is Szechuan pepper based and has a fair amount of mala so be warned. The scallion pancake was pretty good and comes with hoisin sauce to dip it in, came out super hot and crispy but could have used a few more scallions to better hit on the onion flavor.\n\nFinally the soup dumplings: we tried every type and all were amazing, they come out steaming and hit but not so hit you can not actually eat them right away, great flavor on the pork, beef and pork+crab. Overall this was an amazing little spot for lunch",
+      "time": 1742670619,
+      "translated": false
+    },
+    {
+      "author_name": "Yashita",
+      "author_url": "https://www.google.com/maps/contrib/104432231969015230747/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVuZPlDBjaMcbPTzRZJlNvKrbml0-nAQ1lt7MSwPVoc1gClWE20=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Had a great experience at Nan Xiang Express in Williamsburg! We ordered the chicken stir-fry and scallion pancakes, and both were fantastic. The chicken stir-fry was flavorful, with tender chicken and perfectly cooked vegetables, all coated in a delicious sauce. The scallion pancakes were crispy on the outside, soft on the inside, and had just the right amount of oniony flavor. The service was quick, and the staff was friendly. Definitely a great spot for a casual and satisfying meal\u2014will be coming back to try more!",
+      "time": 1741841147,
+      "translated": false
+    },
+    {
+      "author_name": "Vera Quill",
+      "author_url": "https://www.google.com/maps/contrib/116556808242474828304/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJBjg7P12NrSR9EGk5oSuanWq0MjgDW0anIi_1QbxIPD6gs1LM=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Fast Food Quality Soup Dumplings (Express baby of the famous Nan Xiang in Flushing). Super fast and easy to order / eat in or take out when you\u2019re on the run (the kids love it too!) Love this cafeteria style concept.",
+      "time": 1744841997,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "point_of_interest",
+    "establishment",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=6999154815032714971",
+  "user_ratings_total": 642,
+  "utc_offset": -240,
+  "vicinity": "167 Grand St, Brooklyn",
+  "website": "https://nanxiangexpress.com/",
+  "wheelchair_accessible_entrance": true
+}

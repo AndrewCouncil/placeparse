@@ -1,0 +1,413 @@
+{
+  "address_components": [
+    {
+      "long_name": "232W",
+      "short_name": "232W",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "West 35th Street",
+      "short_name": "W 35th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10001",
+      "short_name": "10001",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">232W W 35th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10001</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1530"
+        }
+      }
+    ],
+    "special_days": [
+      {
+        "date": "2025-07-04",
+        "exceptional_hours": true
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: Closed",
+      "Saturday: 3:30\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: Closed"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "232W W 35th St, New York, NY 10001, USA",
+  "formatted_phone_number": "(646) 882-6666",
+  "geometry": {
+    "location": {
+      "lat": 40.751858,
+      "lng": -73.9912983
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7533212802915,
+        "lng": -73.9898655197085
+      },
+      "southwest": {
+        "lat": 40.7506233197085,
+        "lng": -73.99256348029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 646-882-6666",
+  "name": "Sushi 35 West",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1530"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 3:30\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: Closed"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103584788527421177629\">Matthew Cohen</a>"
+      ],
+      "photo_reference": "ATKogpcAwAtvqk6tvzX9rWsPuNV6WVctXwWdJh4ZPwlvRjOG4Vic4bm52wQ78oSekayr5nLwcZxuw_eluDyiT-_zM0xwu0RnxQTxr-_y67UBvd7Zyj8wCJKo-Uez3T7slSURZpQNOB2vAmR1tq_at3zvExMf7Vzs_2KR5uybnpjBuWf_QJ_PwToanI27R7vafMdw0k0NLgW3SYyNql8VfFpzADdYIga9ZUCtiRGXJS15RB3fMbi2KbarxNwHxtj-kFE3i4bbJPltc1J25rgPR4qOpw-2HseIFDM9jJy0txX4gOwrZDzU1U0QN9GeRIFeJaOElqxCig6hPVgzrCKJc4lEw1K2ZMdhlHsdSaLmcri0mx0xiyEepkv6zbM_mdDVJnCB5ikfzEHH9ynr_S947va7HlWEHkFR7OKTkMyZ-OyvNRzPE-l6",
+      "width": 4032
+    },
+    {
+      "height": 2120,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101288069775423626654\">Sushi 35 West</a>"
+      ],
+      "photo_reference": "ATKogpd3fB82W1SHtL2iEmyZ_eia8Es543hVDABlHRShO10gKX3nnddZV9PyJibHS0DHOyLyrFJy9Z4Xnt6x1Vnc6pJRWmQ95-UoEJ9NofSztN701_YPFrbC_HRGXXSc1h3U3Km9ueKhtfM_YYsQsWpMeSwk2bBOWsMwrQe6tQ4mJOBEJcQ02rxzYlE34Jj5pwXsYg3bB64HQ0ZSN_17f-srp5TAw6dYE9qeSrE1vtgEPHliC7qPioLKH4wIRods2Tif2xIe2387siFw_JEh5KN37ywMFUSOGtjyVgM4UgMEvd6QZA",
+      "width": 3768
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103553565244837122045\">Alice R.</a>"
+      ],
+      "photo_reference": "ATKogpfGx0Q05nUtUlunLpJWIIwHc7O-j03XLVhGtEe9lI3syilJqBhSTn-4fM13X1_KbFvhZTHZYALzXT_EOrWpKIc8znPuqNFy9hxjqLioQmRYQjqOfiqCBOFNQ1JTOPVmMqpXqIy2AjOj6K_Lk4GW727eOmDSYOcNO_kqH-CSudWEAYwwsDibSX5LXLrgOXUAyC9LCxN8vkTjNZBYydRHDA0jbGje8LSU1PJ92kHMqqsCSs4vO2reWTpKdCjURYYgmg5OCo7yxMomXPfm2bjwA0aPRQrpoqGzAivr2BcED_oCV0tRGynngrygsSwXYgX8Ftb1SiXju_M4k5SE9IXGQae1w58FVClZi3CMQi2IW2WLj1dwhAVgWA2rxB0uPWyGyWuCGvCJzDAq9RE0j2OLaxHlPHQ0fzqDWCSDa0zLATATxQ",
+      "width": 4000
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115878967810096426328\">ReedH</a>"
+      ],
+      "photo_reference": "ATKogpeSjpq96yrEUKhnjmkA7WfzmrpVBWmGqBH65uRxxKtz21q3w7YGHoEBYSyaDQF9tsAjK2WAJ1Dpz-Bq1IbP13CU5f2hf3gkEnMxkXUXTtSBAaZzSkVWHPTPpiXkRsmsMTbBJqZepnTKSmtAxlz00oLZwTa9v-3bxr_hYNdVQr8zF37dcnEuIeE7aVt9sM6MQJuyV0DQBJ4jQnfuKnRGdNYegY6trxij2giFxsPZe7stWkL9ppX-GecEOfOmkYTnDwzsAUCRL2rrEiFcIUVRR5CyN619UKCrXiBY0Je0RaZFAO9y-DttpBMe6RT0Ttix1TN9prh22x7Tu8N4ntWlyRXxjyzNM7bnUbQPJFiypk8UyMDw1M-jrQdoxBbCrIjxCMSyCNBPxANRKCGGcNbbQ60vXYYO47pts_Npv2dvoFY",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100663778923777318834\">Brett Starr</a>"
+      ],
+      "photo_reference": "ATKogpcwpSI6Dmj3Aq4bthpx1PB-8eDycrx5DGlf33lbNBkdmPhecaXBHen1CxMY8gBNFjWYC6gTi_OfV6GNGS2-27brjaC3BlDex1AhZc6zVpj9tjFuS7uwyJa6bnTSxsbvxICF4VwYqsNlNNntNFQjgRsINoTFdJLWKoy7zWJV7G2l9VqfB3jCoISeEMpsRopSFb9iVvDkQpUKX9C1i1aVmdM6wMoL79XwG7lnWkXqyrVJQCKWCtLKrXlnPCMgn3TEKIHOAmvkOT9Ylt90fy3RTRAcJ0qiiWYh6-Adn3sF3qZWL5nY764aYWqQZzKovcp7cxyMEmyPtdJ7xb0TNaHySpFP3bZJPCeSO8nLf0TNd97n31FfFp2ms-kQrcH0X7czNt7EgaW8BCDXLaKSj4JRN7dL8WN4I5VZjuoQfx6u5JhStSkeh0LHS9OiOkDDAw",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108155232961956592191\">Peter Baek</a>"
+      ],
+      "photo_reference": "ATKogpeml133tl0O3G2Ccfcl5l-3-Dz2hVQgyz3IKOVEO_lLF3bTEgTz1kBU9Y1455432u9qR8kPsBrD0_-5kEJ_cLsgKjOoWHbERbgHFZWC7gm6DPerN58ZFZQXzZvVl7MOpk64W_bfW3zcCgUz5lUA9eeU14yLf8XqaKdSIJu3Zf4FPb2B1LAicovZHYhFAuSv2KIhIRdYifYqnDrBGbceEBR8FqR7dpbMZc_9JRVKZPO0JIDnveG9j6NFP8H8thQIo7caFvsEoPxzH_3BgnzWVuzTgQjgjYbc-ie6lyH018Jk-2IIufBr7yLYdxQoruQMARZc3_LpSUEqQtG9q3y_uKQRsZmx9hm2w_DEyrnR__DpE_Jv-tym_inxJzu8ecghNR4v8wGW7qng56lvtuyS_AsRLY6bjo8b2MHm4L9dUCdsOWpW",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103677371709193560804\">Daniel Lee</a>"
+      ],
+      "photo_reference": "ATKogpdfQzgmAroW-okg_8l4w3_hYc4E8Engeg8ITLW63x_jL--IpoARcu5CaZM0h8g3yF8XEAPgdLCx4_l_FyR7rTYW1Ou92SWXms1U6piuQRHFZz6Qfc777jhOF2gOGOIFXiU983jGHC_6wyMfIavb6HrmD4oCBXv157GSwG9VFfoJP6sdNySuSmiGrYNdXzsNitG-9uzCDtfvksDLeR2jXLWauamOdma5K-fPdZdvzmwdlmjNg9RR9yTOIGMGcETIWDVKq7C2cLiCV_WWqiSDJ4_pNONfsElSM3GzcxAtlDfnhE5erEMXK8mQUAgHUq8w1svd_nILSmnp0pNZBcfqepZxeDtuaiaoAsIIoQHxLM7lHiiRgoplA4-BmDmJrHvVC3W8x2R-be_jsCX0qnKetTPMjZx88oMJPDcsktAbvzHk3Q",
+      "width": 4032
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111254583962502576251\">Carla Briscoe</a>"
+      ],
+      "photo_reference": "ATKogpfMnScV4EZcXDDvKkxKSgMNcMnBB8nbRcJTFqx5x3wxIiT1VGjYRtgqeRY2p5xzELxVWAV_I5eHfA-W0mtK9nnRrkQ9stAAKZVnXIYuEG6Votm1obvkLL4urGASsGxiJ_Fn0j3LxUahWHL0iXbrSECVSkrezdMvLjDh1X4wh4YqI5EjHA9zYiXeXqpgL5x_zfYWS1unS1LYS0RSxTHJawizwCX2M4NYvptVtNkDTFzpdfaOKFyJ7vmAv5ZhdUOflpMGV_gj1PU_hC5mFnr0WY7ucbiLTznRt39Cu2sy_Yqg-PS8NU_cAbtbGBp_CbGM8tNizAgJJST2nYSKhAfW3NHse461jLit4dhMY_fhfITI9vlat8aCLdmCEMAyTZYaeZQ6n5k-bqtgwzTmMvsvsdmVFR4LXR-GWFQatdUS5n0OHSNd",
+      "width": 4800
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103709479732537214561\">Sheryl Roberts</a>"
+      ],
+      "photo_reference": "ATKogpeQL1Kmd5gZM5eEY4uIHi-D6OaTYpzmolQiv0jlAtlE1ugF5-Hnrbv6aMpojlsLDKOnlZ6UGAPwTFQaHpvZ0B1YmlCqY2zJFX_BR-yGX-VVNIsNG9b75joTazaaAXBnphWQBDGm-46LSpCfFg6HHuf7VPBTzZZZq63FjfDCCdRdRPJCEnSvFwq6RGeDWoUpfRp8KNFQELtFCu7djUWzPNl4Ln6VkZvnHZrVLYm91X56410BucKemswp0lAZMJndkn7FAxfOxcUBw4Ibe63RuGq-eZE5D4hDM3FjlFSFPyIVM9G3w3DnSba177tZURXdIiPDoTATytc9QDrzZqipQFcItpfqL9KzCEBv8g9R0FURHkQp7MxTdwiv4EXnS0LrQDBhl9aWo99awuF9EIjgGThohVMlMV6Xo4EO7oCeGBbU9w",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106359348113828479438\">Brighton Young</a>"
+      ],
+      "photo_reference": "ATKogpe6H_NftbCXaVZUHaJRJT-eHYb1IQuMNRXODDbJ9DP4phx-_61KHTfoHWbho83f_8kye0f_WraDlHjuomy9qFsoHE870U98K6_dCGkZwfNJ9XBMY6eegSytwLFdrArKlexCgT-G2fggPkX_tUCxpJNxlOEuQdnYKly1M1G0lLYWF8o3BLdNFIDFkVXnHJvMUMdekrH06jmrc1s5Otk3h7x--a5Z4pE7nNF_9xXV2oamq2kG9Sl1Pl1HohuXO3Mt0dfMN2J1kc-TStRNKs4cdTEFxmKCl42p8Bh1pnRRHOgcx3fBGi3C-MH7L122DcDRiT7jHrma31xLoTu3HQVfvXaVNDvcJqChn8ZKN9VOFlhtH73SPbClMqrXUKtTKQrlXVpTtRpd0DtRJAn09i9dZBpKDRv87JmhZcI1yhZb-mAL8w",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJuxVeogZZwokR8J75zgiqFX8",
+  "plus_code": {
+    "compound_code": "Q225+PF New York, NY, USA",
+    "global_code": "87G8Q225+PF"
+  },
+  "rating": 4.6,
+  "reference": "ChIJuxVeogZZwokR8J75zgiqFX8",
+  "reviews": [
+    {
+      "author_name": "Carla Briscoe",
+      "author_url": "https://www.google.com/maps/contrib/111254583962502576251/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJNZhGyvP0k3gM07hrT7rPoB_Td9iHvYpiUl1Kzj9H2B69LPA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "2 months ago",
+      "text": "I loved Sushi 35 West. It was one of my favorite places and I will definitely revisit with the hope that this was a one-off experience, and not the new norm. However, yesterday, I got their Sushi Premium and spicy scallop roll and was disappointed.  I went around 6pm, so perhaps I got the end of the day dregs...but I'd say about 4 out of 10 of the pieces in my Premium were not as fresh or tasty as past visits...the quality and freshness always blew me away on past occasions.  For me, Sushi 35 West has always been about a no frills atmosphere and high quality sushi. I've been there at least half a dozen times without ever being disappointed.  But the quality of the fish, while still superior to most sushi places, has gone down markedly if my visit yesterday is an indicator...the akami, salmon, uni and chutoro were especially disappointing.  Not awful, mind you, but not the sort of thing that would make me insist others venture there (which I once had).  Overall, it was very good, but not great.",
+      "time": 1745006132,
+      "translated": false
+    },
+    {
+      "author_name": "Maria K.",
+      "author_url": "https://www.google.com/maps/contrib/117377568616718520627/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkvCdcofjfwM3vqXRM2-dPs79ltgYif6lrnRhtnF0jMWqvwawB=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "The sashimi was fresh and silky. Good value for the amount of fresh sashimi served. This is a little tucked away \"blink and you'll miss it\" kind of place, with the stairs to the entry located next to a tobacconist. Some tables are set out on the stairwell, which is perfectly fine not fancy. I found the service friendly and fast.",
+      "time": 1745961857,
+      "translated": false
+    },
+    {
+      "author_name": "Jessica L",
+      "author_url": "https://www.google.com/maps/contrib/110099845731322239817/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxzuX59vojg71L7RmgUZLMYsYiXie6MHVQX_EP2Ol_LAMpww=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "Ordered takeout, really good! The fish is super buttery (in a good way) and it tastes very fresh. I will be back to try their lunch sets. Portion looked small at first but the dinner set was very filling and the perfect amount IMO.",
+      "time": 1749337934,
+      "translated": false
+    },
+    {
+      "author_name": "Marie U",
+      "author_url": "https://www.google.com/maps/contrib/116072421864159564804/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIaNTTmNyfTe6hAOW4UfXJsuW--B-2GD5qk9vLaCVmOkqVtPw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "A true NYC hole-in-the-wall gem\u2014one of those \"if you know, you know\" spots. Great bang-for-your-buck sushi, with fresh quality at a solid price. The Sushi Combo never disappoints",
+      "time": 1743638304,
+      "translated": false
+    },
+    {
+      "author_name": "ReedH",
+      "author_url": "https://www.google.com/maps/contrib/115878967810096426328/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWsidbgJWXrG5VbkkR8giN5WtaJ-KEAgFCQbP-pDkL34CoX9I7F=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "Definitely a hidden gem, this place is located up some stairs inside a vape shop and very easy to miss walking by. It\u2019s also largely take out though it does have a few tables for two set up in the space for those that want to eat there. But for no frills sushi, this place is the excellent! Reasonably priced and always very fresh and high quality, it\u2019s definitely one of my go tos in the neighborhood.",
+      "time": 1725036883,
+      "translated": false
+    }
+  ],
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "food",
+    "restaurant",
+    "establishment",
+    "meal_takeaway"
+  ],
+  "url": "https://maps.google.com/?cid=9157412372136697584",
+  "user_ratings_total": 457,
+  "utc_offset": -240,
+  "vicinity": "232W W 35th St, New York",
+  "website": "http://www.sushi35west.com/"
+}

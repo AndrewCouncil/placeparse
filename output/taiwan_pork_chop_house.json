@@ -1,0 +1,423 @@
+{
+  "address_components": [
+    {
+      "long_name": "3",
+      "short_name": "3",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Doyers Street",
+      "short_name": "Doyers St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10013",
+      "short_name": "10013",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">3 Doyers St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10013</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1030"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: Closed",
+      "Wednesday: 10:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 10:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 10:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 10:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 10:30\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "3 Doyers St, New York, NY 10013, USA",
+  "formatted_phone_number": "(212) 791-7007",
+  "geometry": {
+    "location": {
+      "lat": 40.7142517,
+      "lng": -73.9980109
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7155493802915,
+        "lng": -73.9964482697085
+      },
+      "southwest": {
+        "lat": 40.7128514197085,
+        "lng": -73.9991462302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-791-7007",
+  "name": "Taiwan Pork Chop House",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1030"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: Closed",
+      "Wednesday: 10:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 10:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 10:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 10:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 10:30\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101038177603319548234\">Xin Hao</a>"
+      ],
+      "photo_reference": "ATKogpdyA5LtXuNt27ORQn8IiTq5pngM86izcTFBP3gHw8XxyewuAFJ3-J_2bbPQKuFIJGCaVOU0pEMUQz1kgqzgmosiyHD_jTNZPFSPeHRs92Pw65NRlvxTDk3JCYb-nsrdt_YDNqgwAtrZ_ZSz3SYu55wtZEv_rrcb64xmRpCulZio_SjETPnptc_RoxXp1lq-PHOuhDaMxVSTp0SYfj0LlrID08jcjxF2h6wfxlOL5b53f_-SxP7lkY205sVSge0sjbOPmkgt4A6PYtwCYZA9XXroShjtUwCeimJqCQPbBBVmZvxNCZeoHhrWc5k1pG7nQqwVsC5SNVvAdCXoykNgs3F3DBv0jot5iSg0Tnos3YQenx263_2wEoolOdQx07tH3KYtj40zanBLJu9ey106lsTKSWfNMT3Z3XjdpzPEbuRqQA",
+      "width": 4800
+    },
+    {
+      "height": 1000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106001204686148989271\">Taiwan Pork Chop House</a>"
+      ],
+      "photo_reference": "ATKogpcv16u6qwZKkp1GukU9MS-mjoKScH791AH-gXceupTm8Gb4mWzQ2D6QLmQMRaIr_o2eDPFM_DbKxqRYxrUvr7OOod7Cq308ccZxdHkUCLHJgpTxKEJaLcgPpw0GsxHOZyV0-M6hnhAqYq2-k9peR0-vW7RV29kT88JifSN6KIhjhSRdzIbgyAeCGNIqrw00C0czkBzB67FRP-dcnu4lbm2zAbC-UHJj_oip2Aj_io-ksN_dkCOKG6DdFBY8GY2EUmJQi3vWt_OSgDh5qiC9en8U1PaASCjM1P0X5NllD3HBjQ",
+      "width": 750
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115991273996550713250\">Yinan Duan</a>"
+      ],
+      "photo_reference": "ATKogpcrKqh__P4885KwWjd_SNFG5KTG_QsPLt2ru-i7XDz8Yo6sqomNB2JONG2aGJP7uwx-qJeTV0m27mG-F-Ua3KigYFdcujkNIVuBkYteOLttd5YB3ajD7uw7UO2Jeh-OU7OvQ4ogP8opsPPkLq6X1tAoZXYLsLDXJVySrbRlDXE9Hw-OwG0HN412vcvc1ZpcCZJR91YN89zV4C6OJuJ8Bn4XQtE82WtRByUyQ0aZiLndq84-3qhAp-QT1iz0wd_tDxgzlbeHS30yuV1R5bKGnhadDksKo4jyse6MsteVH6MTgPMVHTL5rgIeNLYFcV7ethEzETOG0o9C9W3ho7IiN3btRbqPNL4aM1AIoh_oIRJ1J5eLBN5FG96SEH4vXrH2L-gPySwycrrkXpo4RHbdboZ45bc0yqXzWQKMU-1WFf0uwBUaPYU0zz-fJVXW0eiQ",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106082551065517934282\">Hannah M</a>"
+      ],
+      "photo_reference": "ATKogpf6cPvAMhpj5ufgJYXnh-PkpD09NORO78t_1Zc0aj2tcj5HGGww9T67CQpZ5SgPJeEcowLpAxSoQuFdh4SLFo7rJ3fghdiOvIQhVtaC7zNh0trRbAoFKy1C_0FjIpVIdx5VSarSItC4vZtwcXNaeFt1TdCSewlHGpsQAhs5nSjOPVsMIVMQwBNVCUdIYwCbfLniohx9fn8PEAvFFSn17JzNFyO2tx3MWRe32ptC03GmkSOAIEof6sOu80qKv0CgbqXEKg5h-fI-9jCLnD1cBzVDlxkzNLs3vWh8tgVMLEQChalKOdoK--JDWrWRFAurbEDzXAtuq8pZJi3sYbXgqYFSm9rw-55aS0En5NwZp92SA2zocFukUVbgkPiOlFzxQVBHeOKw_cn0seebS2dxME55tSTaUJzEcvO_yUqrZic1wg",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115190111940780547518\">marini wasli</a>"
+      ],
+      "photo_reference": "ATKogpc7Kh04_yKOBHPvARmzmLN64X5vaoTbM06BGXQNV_-UNGtWSwzm5MNztiEjpXZ_1hWFdIFbXraQW-RUnxisMeYpK-6DyQvKfzA_h-bvVsxZKUQZ8BJ8aqaKGG9WQ_77GUm3XwYKEflXUKdLpwry6uHymNjbzPApAH-vhbiXzMKZIiSGyyd7TNCjFil1T0JZuRsV0RhXqfyDWt1cI73m8TRlYBaFc8qKdl0nYxr3ICjsBEGOVgVCbVZD9HRF0geyc-BtTx1kjynBM6nXrciIWLXaZX-j0h3EDkqCoW4adj1Qj-KVMDGZ-i8ap4yNvA5e5xKdrpUPPCqIzc8h1AisSGFbpJWK1uhTyYm4Bw7LpiwZBf-71_qcFKIzKCPC4ChcE5HfKmSkcjULlUWKctL7xSmXrR1BY1IG21V5TE6AKO8NsaXA",
+      "width": 3024
+    },
+    {
+      "height": 1256,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112932995851549871677\">Daniel Ngai</a>"
+      ],
+      "photo_reference": "ATKogpdgwWkWFu96ZDVSSJCAx_DEeNmtJUq18CJLYGzeKshJed9HIchHibqsJJ-apY5T4NSuv__9ttXx7L9O9Ly0oPm21kptiYmRVEEGa2r40csMZqx6plR7-ai-twwamM9133Iljao0fdFkcGtEqNR8DEns8iGNkcJLerBvmz2Erb7FRffyKvncDIl7WNKDBSFJRwuZlGrhxPCbUswzB57B-aWIyZ236SojNgvkRCR96BhUNXVgAZouoDfA4_EvcxhVD4ApcbHZMFLYcKpU_Hr4UZ1QP4FcIyN65-DF1xYtHVA4F9HfFawak5hy-g_Gbjoqf1T-43a7HIvt4ZaPVBj3LGxUTWQabAHiv_XI1OjNs_NX94PhGjtGXAPNNQ_ztZvQXOWn2v-tZqxfAl-J1_MRMGCHMYJe4Y3oCweAO7_0XbGSRFVP",
+      "width": 1320
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111143370856483078960\">Matteo Ruggiu</a>"
+      ],
+      "photo_reference": "ATKogpcXuwl0kn4vy_xl8G5r3a69ZxNNfPSA3dkuTY6nSWFmOntJ82BxQ_d-KATRt-kRNjg7pacXrE6aU_YWWxaj9yNhbpsn-ONcmQC3F2ZQdtoc024vSTwcaDLNCTGZo4Zc44-vpsRl3rrbQ2BtvxdWsVUbYMNmKLgwhdlwWSVehCUIApQg06M1xmZTOHjgWxs2Np5XlswfeRAU6px0xZL0DEBNSwKpWwI-vcJHs3DRYjJqDs2eh4q0Pe19EBqx5T_8J7msA4vQBmFjERu2nv9y3rIUdkajxrf0z76C9ARFdlw7O11qWNb7REJ0bQy8OPmTllkaSI5l_cDUDl0h1XHb_KOvDkBMHLfipHZ44mzQd0UUJKD7fNOru_UZ15skJZ8r3ou1PaQOt6gwtRwHEU7jb7SaWRCLq1Qyd0BP-ZV-KOZea92o0tpOjJbiVR28UZeY",
+      "width": 4080
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112889436218051951014\">Chu Lin</a>"
+      ],
+      "photo_reference": "ATKogpdsrWwyiqpMNwZpj21DWnN0jQOtbLgj-ERkHxT_0Wz3ar1-uXWDewqVxkQBwub_hkhC1Ix5_rfrd9PAGDCBdJqTT9mJyl2B3PwpQ0Pzwzh72P2d29j6Io_60_eOofLV-4DFOeaMOY6CUm9Vd-j080CPIkdOTaHaRPAXsOVUO45-ai_MO_vY7eismUXDedm8ioWcw3QG91jIjg-S2i4g4r14Jfv6du93hQP0kcl266F2tA1CBdOsh5M4UWKEMI8dB88dc-rC9z7n4Aiu1cuhXDfqVDZQZAKJawngkUHZeTv8y0m-iGVG6vTAsdAoR-i3T7A1i7WhJ72toKqv50uIorj-xgUP-LY4bzM4bhHp2He9V6mNneUrB8uVDFGHu-Y_PPHqYzv_oFc3wJupM-xPRWpX3oyGoTKeUTuoxZUe06jIow",
+      "width": 4080
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115350320141219242328\">Stephanie Yoon</a>"
+      ],
+      "photo_reference": "ATKogpeBSb6d64jGdhZ_ySGyvew-vehIbJCEI8hnpaQ6BRCqgY1CSsmwT8L7R1wwUrWBjsMbFm7NdzqIftKCQ7PouMKBkBnCeKoDz94kMvSQrM9HnEONo4dKGuOIt_Ft7mEuR_uGqFm4dMyvh3kXMVD4NPa8i9xN9uZ4SeThDDd07yCug7hX6WFGeJS40AQVsvoyC0FMhnEgD1eP96QguMuwnBc1Y62U2Q7LEeX4EVi6ZRhLETM6ALx5nM8aHp07jgUe5I1LjxSD1YkygLW0vGInfiNAO54GlBTOFOFStU_5WExc_LAn5oUV5ZgklBIWUlXgipgzNKK7ZnFJG4rAjM5QDAjFbmYsrT1HXSZGCbSs2S1bbEfODwp_bvdQMI_k25hFfB-6kgx35agq-Iw0zYEVH-a-eVJhUEwwoxgRX4WV_28SFQ0",
+      "width": 3600
+    },
+    {
+      "height": 1623,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112932995851549871677\">Daniel Ngai</a>"
+      ],
+      "photo_reference": "ATKogpfQiZKQZTUhpkRjZFTOKCfSQ5C8UCgulUph76g0RzI1YJTnFoo80UI24KLwaN9ehs3jQhVvECBzcidReqqMPr_8fCh5iSHQecVN1ajXX3lI7Y57e4ty2UcrdI9Sw0fCdAdwW4asqxYjgcpC_IbGQYo3E1aWII_Rpw7n_hTOEIzFrVl6te_Q4Wkve1xVAurMFYD54JPf2ZOgbXTIeqFgOCzC1rO0IkJYLaWKZfL0DmYZWVa83hdwfWoPC2Ls0Sg3HZHyUR0vnw3UC4JsyoZ5D2KCaNlxfhqaj25fswre9Pn4JfQ9z68tjxfOjVBkfYuTyv8kPw05JRtvv71P8s-b87lHbGKAphWXod59n9s7XsWQZrRxhpJ4lPSxESOzwESSJ1sCVIkSbzR1KgMh2gJTmn5VO-ayXakPw29RBNJrH0s",
+      "width": 1320
+    }
+  ],
+  "place_id": "ChIJzaUdIOpbwokRgrVeM4cBDOI",
+  "plus_code": {
+    "compound_code": "P272+PQ New York, NY, USA",
+    "global_code": "87G8P272+PQ"
+  },
+  "price_level": 1,
+  "rating": 4.4,
+  "reference": "ChIJzaUdIOpbwokRgrVeM4cBDOI",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Chu Lin",
+      "author_url": "https://www.google.com/maps/contrib/112889436218051951014/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjpVgHPMCN2pY3dRZW0LCtM5c9L88R9q9SOePxgzCTTEtERjRu=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "This place is as iconic as it gets in Chinatown. Growing up in Taiwan, TPCH is definitely authentic. Their sour vegetable is delicious, I could eat that on its own. Their pork chops over rice is done nicely, sits on top of rice covered by minced meat, side of half egg and sour vegetables. The price is great. My favorite thing here is to eat on the street. Sitting on the plastic stools, eating and watching people walk by. It's a cool vibe",
+      "time": 1747140882,
+      "translated": false
+    },
+    {
+      "author_name": "Jia Wang",
+      "author_url": "https://www.google.com/maps/contrib/114856077503672550685/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKzEizmts8P6hJqm8iSuv7njX-lGkk05f0IFYEbqcqRgihgcg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "For less than 9 dollars for the pork chop with rice, you get a very big portion. The big pork chop was a bit too salty for my liking but still good, and there was a small pork chop that was perfectly flavored. The rice, sour pickled vegetable, and the minced pork tasted amazing.\n\nSimple, fast, delicious and cheap eat!",
+      "time": 1746667329,
+      "translated": false
+    },
+    {
+      "author_name": "Matthew Ho",
+      "author_url": "https://www.google.com/maps/contrib/109944309096907120608/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKuhZR4zIlUmumum1nbqMtve-QySmrlIBqCMh3eVCzyj0mRfg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "Taiwan Pork Chop House is one of my favourite Taiwanese restaurants in NYC. I've been here more times than I can remember, and I have never been disappointed by anything I've ordered here. They also have the only authentic Taiwanese-style shaved ice I've had in NYC (and I often come here after a meal nearby to have that for a delicious and inexpensive dessert.\n\nTheir rice dishes are fantastic - I particularly love the (eponymous) pork chop rice \u9178\u83dc\u8c6c\u6392\u98ef and the salt and pepper chicken rice \u9e7d\u9165\u96de\u98ef. I've also had the wontons with spicy oil (\u7d05\u6cb9\u7092\u624b edit: they call it \u7d05\u6cb9\u6eab\u5dde\u991b\u98e9) which are always delicious, too - fillings are super juicy and flavourful.\n\nThe shaved ice, however, is my must-order whenever I\u2019m here. It\u2019s one of the few places with so many quintessentially Taiwanese ingredients \u2014 the condensed milk, chunky ice pieces, aiyu and grass jelly \u2014 brings me so much nostalgia every time (and it\u2019s so cheap too!)\n\nService is brusque (typical Chinatown \"authenticity\") and the restaurant is... shall we say .. not the cleanest? But I love the shaved ice so much, so it's always worth it. They are cash only, but fortunately they are also very cheap, so you don't have to carry that much cash hahah",
+      "time": 1749268702,
+      "translated": false
+    },
+    {
+      "author_name": "Hannah M",
+      "author_url": "https://www.google.com/maps/contrib/106082551065517934282/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKeCU011OIZdGNrMqcR6-nWtYYSJqNunywvyDSY9NzSC5oRFA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "The prices were very affordable. Although the flavors weren\u2019t as amazing as I expected, they were still pretty good. The taro ball was nice, but it felt a bit dry due to the lack of milk. The oyster omelette was a bit fishy but still decent, and the Taiwanese sausage was really flavorful.",
+      "time": 1737357726,
+      "translated": false
+    },
+    {
+      "author_name": "Jamie L",
+      "author_url": "https://www.google.com/maps/contrib/112896284528115449408/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtjN3YNioXRP1w0IaaJEEqKJRqsiy3bxSIAoLukcI97EtHl7GE=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "3 weeks ago",
+      "text": "I used to visit here regularly before the pandemic, and the food was always excellent--I've probably tried almost everything on the menu. While they're known for their pork chop, I'm a big fan of the chicken leg over rice. Their soup is rich in flavor and comforting, though on the oilier side. If I had to recommend just one dish, it would be the Taiwanese marinated duck--it's incredibly flavorful and delicious. The prices remain affordable, but unfortunately, the quality and portion sizes have definitely declined over time. :(",
+      "time": 1749221442,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "establishment",
+    "food",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=16288395632486299010",
+  "user_ratings_total": 505,
+  "utc_offset": -240,
+  "vicinity": "3 Doyers St, New York",
+  "website": "https://www.taiwanporkchop.com/"
+}

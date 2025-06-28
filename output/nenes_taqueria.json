@@ -1,0 +1,447 @@
+{
+  "address_components": [
+    {
+      "long_name": "660",
+      "short_name": "660",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Degraw Street",
+      "short_name": "Degraw St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Park Slope",
+      "short_name": "Park Slope",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11217",
+      "short_name": "11217",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">660 Degraw St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11217</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "660 Degraw St, Brooklyn, NY 11217, USA",
+  "formatted_phone_number": "(929) 607-4551",
+  "geometry": {
+    "location": {
+      "lat": 40.6785269,
+      "lng": -73.9820318
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.6799179302915,
+        "lng": -73.9806633697085
+      },
+      "southwest": {
+        "lat": 40.6772199697085,
+        "lng": -73.9833613302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 929-607-4551",
+  "name": "Nenes Taqueria",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110699670267177384752\">Britt Lam</a>"
+      ],
+      "photo_reference": "ATKogpfraOYUQbFm8iHE4hFcVzeT3iyWL5FI5aoISxiKoAhbAKVuv40PxE_IxuKyna5D-y6vrsERCYZyPk2UjAcd1RPib4uMNnL5dNsT6nSBYmvkR27Pd7ASxULCabfne53waYxjm0RFpM4ZpQ1WBVuQ5ojIqL6HWDdX34Ts9RnA0CzEKnseC3srsJePu6tU_tlIoRA1VydVSgC-tfcoBPoGZo3I76l4KPIe6LiR_ppty0lbNotFXxcl11lEgZ_7_d0BYcgwlBzHaGzdu1qaOu3gYPrVIcLxgMIahSWsocpRP8ANmi5qeq8nAdGYfx0aVjnO42EhDwY_Dl8vjfkSAiHlpbpyQ8vmYck_Qm8wN20t61jSJoflGCeP6MFYp4RgnFUk75JC-L4R_rDAdriwR6DlAqL28n1hRPsnPvMQceDTEUM",
+      "width": 3024
+    },
+    {
+      "height": 1848,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101693257533266992248\">Esau Verdin</a>"
+      ],
+      "photo_reference": "ATKogpdLLuLjaP6FeVSaiadmsFXcUhJx7yMQ0dEY1L1zbF_R8j6VGnWoj0XQc_IXQGW6pkwutf9p7gFj9VxKLr-j3vNUSt0hunhfDxKtICsyH8iQ7WgLMPH7TIxVyPc7P0Bq4g7QemqdogbJja_HhVMv38VXrRAaE854NtiR-9V2iAQptlG8npdMANqAkDNIrZGnP1T1050tDe_cYb1EVAsv_z8Mp5H92CukQ0WKDd-3x-xa2cDBuMqo2E1Gc7gvP9D6hpRq27Mmhc3wmCnjwUFMjK5ZJCWZtUUMhVeSMs7UjGj_0CD3PIujrpmu9C3TCJGYlM1pikfCCMhV6EjETJH2J1Iba8W5LDSnDZu-RYQkPyXOJL1ZjUS9yv_n2i_RUeRC_mX3rLqJ6giaiaXF1Xc2sFY0ymikAuav84H1xjntojw0PQp4hLs3QzoIZYuJ-wJk",
+      "width": 4000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103639259454113407049\">A C</a>"
+      ],
+      "photo_reference": "ATKogpcCz0gamiaAbrBNvYnTFRDku0yogahFvvUgPh0V3yCOsrdbKKKS85CzVee4TfRIE8J_gII_nYOl0zt5HzaOL68JC0wLlzqwHAHJRsnJcrmxKryOtLQCQxISyx36PhJRSG3Rlm0lAZhP1vT85jDOQBagdYlmBpBIk90Sz5Rnx2Fhf1DY9sSGhHcWn81_iYcwxAtg-c6MBF2Q61mwmdTJRHtno4pBjoW-y4ZpnSBA_dElyOdezcPUe8fN12pCDobzhpD4J5ZU8HiysQTdxyhkssdAqOos508jBj-w6x0QdWYZOjn6B-xN0wi_WRrXHizqKwBpoVKB2L9nZpG---4CewvUpcAoLWmnpTgGfjHoVDWsREBH5HtdN3bzSeavJPpVqpc8g72YJd6cWgUtCTpTbd1WSTtEttGP50fa9A71wQEGWw",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111381853171800250999\">Francy</a>"
+      ],
+      "photo_reference": "ATKogpctTbIi8piVr5p5BAnqhRfMBCDbo1a-9OqQvJjtssE5vQnJZYSo_vq2Nv3OrTtX3Egi5-20P4lgc73USuPK4U2XQcaxjnglb_lABzxC3FTHRLhVfdeBem7tQKHXm1cB9jQAMRXi3gq5ncfJzWwqglgRCT7qx7_XMW37OGl5BFnmuqYdN_aLFYXH_51FVw1mBmInoFBxK_kG8eVFKNY5V-C0gYEXT_-mHLUAmbfdwq9vCQ5ojcvD68WZPojrKTJ9qUfaPLOd_63s1EGNs8RzdQJtYg4wT6rtEh9DtfioWFHU3ikWs55ZL52pnPawBt1v9_6uOrmOSJOEGGxdSO5i0QM0kjMP-9xONAE7ErSDvIN0ZZOmna2n95GvBN0uavm08GBvTJt27j8o6njfhznyONSN5HiQwNKTtx_K6TLIENUN1A",
+      "width": 3600
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114717584493064985998\">Julianne Apple</a>"
+      ],
+      "photo_reference": "ATKogpcqMhiyZcbZAkO5Zfy34iI01u2cY_MtO8WLe_HiKOLKN3IrCOg4usGbfW75VsqBa-_Mb0MlUEXTMtingMLmcDmGTwAKL4a_ZNtz4y3v087bWh39s6cq65K2j2ztL4GfpST56EZUUsPU5bYm4C9LYn9gjM2onCKcvJUu1qD5wXL_fF0yXCol1iJsrJyawa3GgBrHGRHzWYCXAUUu8ckUQ6QdgJTM2G6Bq0J_OMq8IgDvHXifvoMozZ0ekAmyPaIKM4bleLJfElIytVnWWXuPlcPEPO29euk3e3lnkbzVNGgiZ01-vmB7LAldjNJS-z92QqEB-tj0leT4AZkwwBOxZMPYptcSq3d0gtoa-qpzgd2iRRLuLCEvAcG_FdDbBDzCYTqS4KpCJmakQHbRxXBRETWNcUDUhLAITil_zJQkbXpCpQ",
+      "width": 3024
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115631211968478491958\">George Ferrell</a>"
+      ],
+      "photo_reference": "ATKogpeu15a7SFy4rIAE-KdEaFujb8O6HC5DZBjQ9QUkTv6WRNLx9iOSw00SAgn9B9HIGqc3-TDQvQC06RiZQatKTl2mhH7IK9Mfv3ONOFpeqMNG26tG41YKRJK4NzTh2GGwPfNBj3rqqcsmDebqXq1Om_qxy8JsxOND9gKCzfvh4eLVOip6-KjHhnxyCwyuQzojmZEADScUGcjGr6qCEbQ_r89H7OyQBYjPPPHgfO7y4AaOTn1L3qIadgUsHwBhkUiCtNH3ANAsHxxL3d8U2FjbC-wfevfE_YLRTEYk73tOeoNBy6Iei7YjbmmQLUdDQhAGwQ4-t1G0mPD8g8OPsTpPliqQ207WK1fY0UFsxyHoAw7o1qxQKmrCL4iRsbjsj8FqPdv8CVJoFph7zyhRV4Vlpqwj-rfTS2Ig1_00dyEFdSMGiaxZ",
+      "width": 4080
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115631211968478491958\">George Ferrell</a>"
+      ],
+      "photo_reference": "ATKogpcnWx1hRjctgT4LzZ6yTFDsJSeYQYjIBSuhR_I7xtC6cTVXHxQe29kPOythTtWJDgBiLTjyrWOZNdxQRdtEcgUISvgggOInvv6A1fJ3d00WPtsjZHVdb8JUnyTETX1FGP6hfysXqmGqXunA6MAVhOs27TlNnJ0auN5FHP2rT34qZ7UQdLP_AfVJ73_yoz2qvchGNtu3kAn85hEF703wsRQ4y_qK5FP7iPzC7wr5t5OKS1wYghYxJBpjYOUpI68Ve0TzA2RRCdkHPJLKO20__1HFGsO5B5mkHe1yJ05NcuDZpDkXnJFFZWT81C8LvUKLMprbDEldrYOltNkf3dAwv4gBXnCB7Edc0MV6clHFlmXNKxAxfwNQ3V8pNrwveS6ffQIiVjTLod6tm-87_vtQ-QrHLpkyUw9kWkcf_QD8CXDoIg",
+      "width": 4080
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112203976754208404270\">Suelen Chimanski</a>"
+      ],
+      "photo_reference": "ATKogpeFdrXPR01Lic4BxgY36HvHkhvT8tw9Nrv9tZo646U9sWu7K2iKhIleoMJbu7TgXlHc0UUi6Wx9a6IdNdQZtYj_sM-_9GkmPwsQPQOqITEuvp_BhUhXbbT0UfdCOVP92iR_jVO8fiTFWiQ3Z8UJSlMP3idYk9-Bi61TFcGz5An1keo4dQ1tu4DJsESKanghtsTltWerhT9WxKSjPiJNDNuTaiSJotE2Q6vrT6BmGKuin6Pa92q_KbRYdxg1cy3znlEv6fsOUewQaKpBEmmDitd2r--AJGwjNLr4cD3N39YBA_TJHIzfL57Ne8HG4ttmXYzLR1vZoWxPlCXLDYIOEqtvUNpasp_D8gDMCxZlVEJjFpRIN2w4R_K8XWf5Y80OlGOcm-w21DPsU4yipc9pDxmBmSugcIfiw3_Iu0frfw3YLQ",
+      "width": 3600
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114880955543195558146\">Daniel</a>"
+      ],
+      "photo_reference": "ATKogpdxhE8qsn0hLP4PIDFsqr0j31QS5b1jF4wW-63uBp3sQuxbZ6wVzYug6d2fr3-tnT9F5kAe6YqLmEkziLyYqcJUJId6onQeD5i446NHsCVbPpWy46xTAZmhZrEQ-VD_AvpXfyxJdR43vRNU1KVUwGFT2iOEKS1Eim3_8BipAULUfxm9_mBqsxLJGDBJnPOU7JhADRS1kVAansLk3Wsuoh5ezcE40illkJ63yew677AwsL7ySDdtBU0le96L5yo8xM1crj6iOndpOAGk2QYNNob-G52PtAo3dV6quB3iL25I9XSz7P_Mv5CgidXUf_acHiVBYmhtwVxU956jepZLRQEonH913ub2rgyouO-oMPf32r3ZxPgUbeLCNCFwA2ULvFjW5rOrDBvTuztp4rxb91V5bCVvFVnhbfNuDqhallc_hk-J",
+      "width": 3072
+    },
+    {
+      "height": 2992,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107631639713362602216\">Roberto Lopez</a>"
+      ],
+      "photo_reference": "ATKogpcoVSPN2ZGBJQFHgZhtK1eBJss57LR9eUiPezxVaC64QkaJiCB6hnpZErM2SetvCrvAor45lKmrysM_RfNnM4j4QySq4yxmy3-uEArUHe6PjKY5Y7Ta_WB0wWXkulXzGYN8lJcnz3oOD7YmckRe44z-YShubS-Hz5hzfRJNd2b7T77YXNeoLCfKOrLyXsGmM6rxd2DoF0UAMGNEX5baTi3jRkdLYbbDYi30evFviAZ9smccMTwRwq9-44Z6xawM20v6selr4wAW9IYHjCvowBg8-f2v1buYS_w8GDeCnpALe58vvOnURt-7E3GKyYFh-aORR2BPfztp9gQzvAdz5i-8wKLrizXEkeJB9GzORcSnztcjiFA00jtjoLD95g6KMfgV2ji67hzLi2xTks6FWT_KP3ar6Y9qvAHGNLaVVeo",
+      "width": 2992
+    }
+  ],
+  "place_id": "ChIJS8rSNvtbwokRtZqLNnAcOhI",
+  "plus_code": {
+    "compound_code": "M2H9+C5 Brooklyn, NY, USA",
+    "global_code": "87G8M2H9+C5"
+  },
+  "price_level": 1,
+  "rating": 4.2,
+  "reference": "ChIJS8rSNvtbwokRtZqLNnAcOhI",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Crystal Lin",
+      "author_url": "https://www.google.com/maps/contrib/114582232367357979096/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocITNC2sKmatByQdrBHe95tZdgWNnrVB_BXY1pqUom6Dr7FreQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "The tacos were crispy and meaty, with red onion and cilantro topping. Mmm. The birria portion is small, which worked out well since it\u2019s quite salty. I enjoyed the taco I did not squeeze my lime onto best since the effect, when taken with the soup, was sour. I would eat the tacos again. Mmmm.\n\nThe horchata is so thick and creamy, with strong rice flavor which I love. It was too sweet for me.\n\nThe store is beautiful and I loved sitting there while I ate. I enjoyed the water cooler. I do not believe there to be a bathroom.",
+      "time": 1746947643,
+      "translated": false
+    },
+    {
+      "author_name": "Yvia Pulido",
+      "author_url": "https://www.google.com/maps/contrib/115698027045146806117/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5ONLQWg5y6HkfVQhcUbZ0PAbEDiv4I9G5ywpcZOYUxHuyurKo1Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "Food was 4/5. Service was good, place is small so opted to eat outside. All the dishes were tasteful but the birria pizza was not as crispy as I expected it to be. Would highly recommend as they have many options!\nPlease follow my food page for more amazing recommendations @got_gourmet",
+      "time": 1742011677,
+      "translated": false
+    },
+    {
+      "author_name": "Blake Rasmussen",
+      "author_url": "https://www.google.com/maps/contrib/100828220502596214040/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNAbIMQevWqYSN5BmCXNUfPlvckQbZzMaFiQHBa2Ws5zV40eqt=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "2 weeks ago",
+      "text": "A good little taco shop. The birria is good and the tortillas are fresh, the food is made to order in front of you. Slightly Americanized and a little messy, but I enjoyed it and I\u2019d be happy to go back!",
+      "time": 1749916826,
+      "translated": false
+    },
+    {
+      "author_name": "Fnu Tenzin Rinchen",
+      "author_url": "https://www.google.com/maps/contrib/113493894638560697128/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXWSDNE4u-ECN_kiSqERCoLYEg8944BSwCooBsnrBevlJlF2Q=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "There weren\u2019t a lot of seatings and no bathroom I\u2019m pretty sure\u2026 place is really small but can\u2019t wait for it to expand! Food is really good I got birria pizza ($27 I believe ) and some drinks\u2026It was SO GOOD and BIG in portion. The pizza was filled with all the ingredients! Definitely WORTH the money! They also provide napkins,lemon,jalapenos, ice water and more on the side! Will def go back!",
+      "time": 1744145670,
+      "translated": false
+    },
+    {
+      "author_name": "Carlos Espinoza",
+      "author_url": "https://www.google.com/maps/contrib/118355883829334701248/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdGFeJPL5zrN3WNgeXSS-hCE2wkeT5W3HfJnOSJuY44pczi0hA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "i love nenes, their quesadilla is straight up the best thing ive put in my mouth. Every time i\u2019m remotely close to them i find an excuse to get one and add a taco for good measure. They said their tacos were chingones and bro did not lied, nenes was cooking fr. Love and nothing else",
+      "time": 1743124980,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "restaurant",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=1313393509608954549",
+  "user_ratings_total": 674,
+  "utc_offset": -240,
+  "vicinity": "660 Degraw St, Brooklyn",
+  "website": "https://nenestaqueria.com/"
+}

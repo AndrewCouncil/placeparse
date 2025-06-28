@@ -1,0 +1,442 @@
+{
+  "address_components": [
+    {
+      "long_name": "136-91",
+      "short_name": "136-91",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "37th Avenue",
+      "short_name": "37th Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Flushing",
+      "short_name": "Flushing",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11354",
+      "short_name": "11354",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "4110",
+      "short_name": "4110",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">136-91 37th Ave</span>, <span class=\"locality\">Flushing</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11354-4110</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": false,
+  "formatted_address": "136-91 37th Ave, Flushing, NY 11354, USA",
+  "formatted_phone_number": "(347) 626-9393",
+  "geometry": {
+    "location": {
+      "lat": 40.762512,
+      "lng": -73.8279173
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7640600302915,
+        "lng": -73.8264882197085
+      },
+      "southwest": {
+        "lat": 40.7613620697085,
+        "lng": -73.82918618029152
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+  "icon_background_color": "#4B96F3",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+  "international_phone_number": "+1 347-626-9393",
+  "name": "Monster DIY Studio",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104616968993187546571\">Jeannie T.</a>"
+      ],
+      "photo_reference": "ATKogpebSfpXsGhZ09HTaZ_UZYLqgU7k72f_T2Vl-fHIrmieqTPOs_mBcluxrvI5Sz-0IXP06aLWqM0jYZYpoVgpiY7wRSf-armzSY3mOnEKjBru6eqJJ3ncwfiwbYc3WttfgCniQCosgl35iy-LyArmxSFZhL2N5fhW-JzXT66SThrLeeuK4wgDkXfh9gC6hbaUOxaH32ybbtCslcB2amluuLFsB4DmpoLa0X3GKFnV68-8iqEqOVp_tFp8h8HsrlGR2NkGDBWoNWccJicLYS3iV2sbPpKupl-KLzJFpYDeKyfdPPBk_R0SDwCOgPzO1IVi6r6-alTagoabKt6G-h2nDl6MpYl0yYWWS2yI9WaK0-vyq6Z379FLQUYg6X57KGRl389tUaar3PSflpIVsmtj2xvE2MzF1PioBng46pUgFTxBtQ",
+      "width": 4080
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102556396872800056906\">Lei Li</a>"
+      ],
+      "photo_reference": "ATKogpeb7k6pd4OXB2wgONu0SL0yDtCJ22uEGmGiJyGvCZzm6_SWQbnNyn3ayc7CTv_WFVt76zpLHKFTayGnyOZR6KAC543ZYlH8XYG26g56nXi_vUkMtgaC5G7tbQrcbFsiPsCTQ1SBaCl7PmhPaVZNbsZo5TUdXzaanWXCFgZhUBtsiAuwVl37WeysSkuyEZh5O2dq8sVy3NFx4QLfmp0LuE9HRPlT-lNNLu5rFYvpY9YyZc43pthxLyFZUgdFfYSmPoK4khvcTWKbuMfodb_kf7FDZFhELcCxTshVeXGvVxVN2ORsrb_HmpqCfpNA-odMjaE6sHO9bp_CR7esroYmXYHxHchCk4JCBvi9f0aKVJxRp0Rz5_8pPcePfh5fmMaGOIFaftoTJKnIO66mx0S4z3zpi_vnSXnu23LGmEq9CA54mtnpeIxruIePMXEf7Rms",
+      "width": 3024
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104616968993187546571\">Jeannie T.</a>"
+      ],
+      "photo_reference": "ATKogpfXt6ZZ5d4wujWeUcLVb9K0vq3qRiAt4YL9-U4PUK_kDffLdoHnO2XE91leHNDlDNsEPIQ_E0U3zdVFTJbUVDB5N4ywKho6ewNGLonwrXGystc8P3Ak2HEqRI9bLtEyaw4q2hlpFcb8BrTEP6tyNERSdNmKcfFQNxC3TT7hK0Qc1wjV6THjO1MVN9KQsEbBmPkDXDvJaBPgPz3YYPWYFFZ7ZTuaoldsMZJSngg4Yf4_BrvY392mwUCkuiCqrTDBa3DD9EIwSVk9AHdBypSO4su3sV6929Vle3L_06imxgutPOdAySeCOHPRaSTlm6wBTZ5bMsp0Sv5f00p2VNbaxu10gAF_QkVuLhmDNAMmIsaqVILgkReuuBMgKOqdwv9RUmfTfnYoGsG-R8VMSLqv4hioKBWGL15SECLh_2TvTUg",
+      "width": 3072
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104616968993187546571\">Jeannie T.</a>"
+      ],
+      "photo_reference": "ATKogpdnaRU4hrTv_9yOUkbQM8Hefs35VdaWLJE5z0TIESVFC34Nm0zebLSkHeuWaF4pMeI4CG1SlimK-C-y-BVHu2IdQfchPitfXuEgYDGK91W4b2DUHH8XEUXmCvqiamM5awDtaxkefnhHBVH-KCoVs13wQddQUeE9PcXWLVuEkBXOdlAoXcSWAgdoURi5DqG2-hnqCBoweRlN9uk7z2YNUNtxbBaDTW-XO_tSETqLRrIkYmuR86Ofnb5-dZIffUsMLbSqGqfXSNmsvz68WyyEgjyCFt7rByNzwhoO2mo5LpHiUgyIXNPKw4qSLSKnq75iAVcPg9yo1GP90-KocIfjb8GDkUMQ6EQ5A1vkNzKlzatwXwXKBvHIA1iAIOaOlaL9oftmkeyuyjQqKfS8ACUmrPyd7nli4HVPkqUZEha9k8CneL-K",
+      "width": 3072
+    },
+    {
+      "height": 1486,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111169490485346152084\">Stephanie</a>"
+      ],
+      "photo_reference": "ATKogpcAI_Q5paz9mOHewr12-2mYXuk_j_gZ4TyXPnK76a7INPEzi7Uh9GyCrCgIPwKqU1dAKVQNy6lNlA_AeGzEnrKo6Y-vj6imEzLNZQ9TYMLs4s6pQnUxfAO6dGMP1V_deKJlUEC_Rzj4LYsZrU9xYq9VDpcdmjeZXIVREe5eIXYT7LPiNlqrh8UnylHf3R7bR8PdzC4B0csopbplIDF0K5DyxdOd83qbwrp_k66vzNrCAgluAL-IdARGf2XMmcWBZgQtzB_GXkiWpQ6m7qbeEkXoAcf9wiNknvWmi4KQ8C_23fYHi4q07cg7XW03I95AyMbnc3KoBHkuUruT2Zt8pN4dSn7yziFb0-BhUuVeFVdH7V1_q7OOYHrlHuXmiAxRH8AgVNOt7Hvs-LpqGEdTf09IX6fLabuLAT6z75KRncAm8GjW",
+      "width": 1190
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104616968993187546571\">Jeannie T.</a>"
+      ],
+      "photo_reference": "ATKogpf_WJbQBgFyR8wvlAaL8rETYbQM7xoFsuzuqBcjasa60BKEmMVpMzylljfEPqDTegVG04UkFnZJERa1FjW40o1z-V4OYvc84jmP7fmUQQ26U-5L-7WD-Kb8TLA5os4YKQ4g0NaOygBKANZ2i2L7LfEORYX9KCXbKkWQCzKbKIZZcukLA6S7Ro8bO1WgpqgYUxDdzp66pVZDGkfFnXVJcAduxHoIT6TGDCpy8g3U38t6j3ExyCJmmS0OgNzSLJVXcOmBB3NixtLcmAdpb5ECOsUeR8JHd6JOP19nb8lT75sydo3_vwiGnEQyalMGR6ERo5xMGlQ6CmTkKP_cjhKTFALjvuSmDm_yR2GK4CNHXEFvtVivjNIjpcwZ_b8T0iiE7VwnP13zB8wZgkEDvvLc5tf29qmnAq704U8ERr2suNtEz4o",
+      "width": 3072
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117612606482359757010\">Maritza Berges</a>"
+      ],
+      "photo_reference": "ATKogpdTje9Lf5-Dh_rRGiIiPz-Ac0wS6NTbdNEr_AcuYPis6tnf2ODf75nllmucul3NQpoTl6ni9ZLRHiXeBBXwXrgLBo7ph8VmIo9-CCmDaXds_kQRaLRabkbISpDpNwwvcmtIxZn7uCPJxy1ACsX5ydCHd7KoLaeegG-uh4eN36dkoOXl-jvF7A-NYZmtVOKBTxsQi5Ab_IRg2BHL4NY18AiTTujGIhqliKVOvgVpY2kJ_UVz4aqP5Wv_DW3RqufDWIGQPA0sOIXJoD1lPM7Vr9f5MrGnm0KkfRWsSQFfBjG-8d9dw5_pCu-lyVRJ7aGFPn-Vx7cqqJWRPd-RchM8o1vhQaLZ5AjEhaxGiH3nY9yIjWqU3hIdlV8-yJQuEis3yrXmbro9-zVUY9RxLRWD6Hzpbfv9st627YTo8q_33K1_St15",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116083084868785744927\">Monster</a>"
+      ],
+      "photo_reference": "ATKogpf753AnvL1dl5Er6FI0rSY05UxuAH-cCgxzATRAIArXUpIRkiQT8Lp3sejrEa52HBzFkn7EvAdEXf6HRAr8NnmuLcGNsEV7A_pPc-7j6mPHPsP7bdVNs7UCYOLkQk3qIRwHJHXwvE4eW3_W6lC8uv_1sbKOYIODa0wuGzlSEqss09nMJW20CLVYZ-I3CA17Iyg1CSC7wi9EUYgJHhe_SB9m1vEb98XELHD78kR3RbFUr_e7lxqeAbiic22pZSbCqZ-lIzZ0YtJFKoHoVQoiRSoYeRogjN5TbGQ0my34c9Obx4aWO1MWJVTdpRvQnj4S-6jXfQvidpqK6AtyALfCQOV2g8TlaYEKQ_sdYePSMjfg1pzesEoL-iEs7V36AZq0d8Ehrx18lEiNKbf9tITdjDP2Dv7UNdbXtiICZqI7MCLyN88",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109946080765223176769\">J A</a>"
+      ],
+      "photo_reference": "ATKogpfUDcM9Lfo0FjXaCnJcbVzU1v8BNATiwVrw0rgV0xFgndNDFniJFjROZ1HuyDBPrs5Lvhjalv4g2u2B-PIBcDzEngdMzFMf7UXodE_d5gpoWjIJuw5caS31928RC5qW39Fm8vPZWpaFpYMlJAhG08WujRPtmCC7h3Kj2LCy95WhtFlMY5xqRs-d-2wr-B_SbEK-KKjz1mgZRQZtkiMhgkfsFmTbr3IKhUu4e8OohriZgQZP_VJOT-bVxSCURws1yNl5sz7Ahfh9bzZ62OrUJwBrVsPAVe90U4w4_ZXy40O7hTD_RssF2pvTT_P0UTYbyrB8D941cupc1_DuBP6ldjMxgBWvU5A8nBzTNPeSbM2Lge9IcU2kx9h7U5cx2y9Z1_frimIT-Qo7gwrN5ELjbPLd3XNeB5ymd83ghHa796TzIBc",
+      "width": 3600
+    },
+    {
+      "height": 4284,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116083084868785744927\">Monster</a>"
+      ],
+      "photo_reference": "ATKogpfRkfDSGExiOw6ks5pRQ2r7OsIFPnwsmMe3Mr_exiAScRY-VtHzRAtOWwFvSnV-iwsaAhfguKzqgBLW0Vm_4OOLWPx2DhwjUQZhR20KgkjLRK92iA-p7bHNf6UdfJLFtoAoJLibISoJ3KkOif4nkv3CPIUq9zd8dXlTTdwulCdwKym4mo-PNOoRmOEzHjgOGT4IgbOGNh8ql38JzZUU3pWDw4FxibwyM8rzQoSqwXwL0lY5vg0zV3ovrm_C2mSLzFYMiR-u5Gvdr_2Jdj8d6uzvogD9isRqOKNKWkCPOC4uwehG1G4wfeVlYVeBEJW3GJeBJHEAJS8QrhoN0AI8rwir4AhF3gi225N-IRy0y4aF7wKtnDgtL8zUGKKh7vC5ikdg9Cz7jt9zuopaYF9RyuXlTKR6YYbUiuHzOsaUMwoWvBDl",
+      "width": 4284
+    }
+  ],
+  "place_id": "ChIJRfqT2W1hwokRbsp0oH-AwUw",
+  "plus_code": {
+    "compound_code": "Q57C+2R Flushing, Queens, NY, USA",
+    "global_code": "87G8Q57C+2R"
+  },
+  "rating": 4.8,
+  "reference": "ChIJRfqT2W1hwokRbsp0oH-AwUw",
+  "reviews": [
+    {
+      "author_name": "Stephanie",
+      "author_url": "https://www.google.com/maps/contrib/111169490485346152084/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKSbkksD1aW9OLnTd_LtKWCl21SLJyUi0VWe21DJHNj3SY5pQI3=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "Went for a fun weekend here and had a great time! There\u2019s a ton of projects you can decorate and the charms are included in the price of what item you pick. Bigger charms or blind boxes cost extra. It is easy to get overwhelmed with all the charms but the staff was so helpful. I\u2019d recommend booking a time to spend here since it gets crowded quickly. Definitely stop by!",
+      "time": 1741614365,
+      "translated": false
+    },
+    {
+      "author_name": "Julie Alvarez",
+      "author_url": "https://www.google.com/maps/contrib/109031668115227553913/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJBgsAfff2EPlXBHWyeif-xLfOjDpFqwMKwWYlQZT03ppjfXGU=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "I celebrated my birthday here with a group of friends and we had a great experience! I was able to reserve a table for up to 8 people during their normal business hours by sending them a message on Instagram.\n\nOnce we arrived, the staff was very helpful and welcoming. They gave us a menu of the types of projects we could do, and there are a lot of examples of completed projects on display to get ideas and inspiration. There are a range of projects of different sizes and prices, so you can pick something within your budget or what you feel comfortable with. The hair clips set is a good deal at 5 for $15 (plus tax).\n\nThere are a lot of charms and materials to choose from, and you can pick out as much as you like as long as it fits on your project. Some of my friends had never used cream glue before, so the staff explained how to use it to us as well. There's no limit to how long you can spend working on your project, so everyone can take their time and relax. There are also blind boxes available for purchase if you want to add them to a larger project. We spent about 2 and a half hours here, from the start of our reservation until everyone had finished paying. The staff will pack them for you in specially sized boxes for each type of project and will secure the items with tape, to keep them safe so you can take them home without worry. Everyone had so much fun and was really happy with their projects at the end. Even if you're not confident in your creative skills, the staff is so helpful and the space is so inspiring that you're sure to come out with something cute!\n\nI was a bit careless with my project, so I accidentally messed it up on my way home. I came in the next day and asked if I could use the same materials to fix it, and the staff was kind enough to help me pick the same colors and piping tip to make sure everything matched up. Now my project is fixed up and at home safe and sound. I will cherish it as a memento of a great birthday celebration at a wonderful place, and I can't wait to come back again!",
+      "time": 1744641908,
+      "translated": false
+    },
+    {
+      "author_name": "Katie Kvartskhava",
+      "author_url": "https://www.google.com/maps/contrib/115936985247081769787/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0MPHG3FL87oiEKEapfVE1Ecj-qBKXUi6PiJ31ZMAL4DwYTw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "I went with my pookies and the place was so CUTEYWTWTEGGEHWHWHEHEJJWJD they had a ton of cute charms and things to choose from, if you want a cheaper option there\u2019s a discount 5 for 15 hair clips I did the mirror and it came out super cute! (Post to insta and tag them for a free hair clip!!)",
+      "time": 1737928012,
+      "translated": false
+    },
+    {
+      "author_name": "Samantha Dross",
+      "author_url": "https://www.google.com/maps/contrib/114214811918397999826/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJUAVJ8U5Y7xZ1BOBiiXwmlzJakLaYvajc2PrB7fXF3okqKK8E=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Absolutely LOVE this place! We went here for my daughter\u2019s birthday with some friends and they all had such a great time! It\u2019s such a unique and cute little place. Staff was amazing from the beginning when scheduling my appointment and having to change the number of people attending last minute to being as patient and accommodating as they were to our large party. Your staff has patience of saints I will say! Super friendly and informative on the process, giving detailed instructions on how to do things. Thanks again for everything! We will definitely be back again in the future. My only note is to take public transit there and walk, parking is not the best but of course that\u2019s not on the business, it\u2019s the area. Just a side note for those that are traveling to this from outside of Queens!",
+      "time": 1744136676,
+      "translated": false
+    },
+    {
+      "author_name": "Xin Wang",
+      "author_url": "https://www.google.com/maps/contrib/105528319807711577638/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKtJXzacxFHAtoBSwPfYnn-veJJJWte04GyoEGUsLq6JkVFPZ4=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "I had such a good time here! They guided us through every step and explained how everything works. I will definitely come back to make something else.",
+      "time": 1736368262,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5530843103028890222",
+  "user_ratings_total": 218,
+  "utc_offset": -240,
+  "vicinity": "136-91 37th Ave, Flushing",
+  "website": "http://monsterdiy.com/"
+}

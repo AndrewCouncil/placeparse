@@ -1,0 +1,448 @@
+{
+  "address_components": [
+    {
+      "long_name": "159-24",
+      "short_name": "159-24",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Hillside Avenue",
+      "short_name": "Hillside Ave.",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Jamaica",
+      "short_name": "Jamaica",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11432",
+      "short_name": "11432",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">159-24 Hillside Ave.</span>, <span class=\"locality\">Jamaica</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11432</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Longtime, easygoing outpost for West Indian classics plus baked treats & snazzy custom cakes."
+  },
+  "formatted_address": "159-24 Hillside Ave., Jamaica, NY 11432, USA",
+  "formatted_phone_number": "(718) 297-2359",
+  "geometry": {
+    "location": {
+      "lat": 40.7077924,
+      "lng": -73.8018676
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.70917633029148,
+        "lng": -73.80048631970851
+      },
+      "southwest": {
+        "lat": 40.70647836970848,
+        "lng": -73.80318428029152
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-297-2359",
+  "name": "Sybil's Bakery & Restaurant",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112707176887621000157\">Queen Nickey</a>"
+      ],
+      "photo_reference": "ATKogpfB2w_zXsQdq26T1HV6a2IAhByVgQbDS1LYqUQoWFoPEGYnvGCvJ31NlxvqL2FTF3OUao5fK0B_00YgSeWbJk_-So9Q2gCnkh1GWEIcUKI1s6ZyE3jV7vLate4scyDFVHd3kVanGhnNNXwm2FKzGKBVgzOU9nGaDp3sKWtfs-9Rfebto8nu7kTbl6-C37_taI809pu8OII5GGppF2Ww_CgbJOsuXKwymFL6oBW0wMe2tjnwEivrK-B7cRViWdHu3znD7bQU0CUjSeYDC8OA0AEUvMyFrcCuNHoST9aHs5D4zVmEAft7LgGoddzNG5KWReMrqhhUXWNiGmgZczx9z0M5KseFhmzFJtb_Gu8WuG3v-vr5plZCH1kfc5FbUSaO7ZkEWTP7qUZzQD5C3TjrJ5_yfq2v08CcnBBljbn1VpgivCoFh4rc9zvEBO7zuw",
+      "width": 3000
+    },
+    {
+      "height": 720,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117042312824475946062\">Sybil&#39;s Bakery &amp; Restaurant</a>"
+      ],
+      "photo_reference": "ATKogpfX_QPwc5aety6r1COFnGSRg9dFySYR5G8zwYrEkDM4K2rYDe3OLOhV-Xk3MXRN3eUeBaw9bHCh1ABXSk4jdbOHtfEI0bEnjPjkBHaa7mZOzrjnvKK2av39pT47ojqMLJFMbsLmWqlbwPLx4s3_deJm_Wr-Tnw2obq9Z6YB1MLYSpZd_zhYKXVL0P9HjB4oudwwtOa04Qdjg0SlXpejvPKKhhAHzafMri7cwNnwE1jnJa-uoMkniP2MixGBcSA5k3qxNMGNDcTwOrZS8QE51u-meaP3YbUS0qEySz7PRenYHA",
+      "width": 720
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110617409374544546619\">Kasandra Calixto</a>"
+      ],
+      "photo_reference": "ATKogpf1UkHIqRoO4VXYh4DwVdHg-fZR_TzTtTJhvIMkIisduqpFeKfNqEfdHAheCkWlZwygiShkpLwSjjGsyPrmmlwmQhpxWU1Aw111wOs9jAhlWahw2cvN_Dswpj-BjbJ2xX4G1wB-gqfkpUh8tDZHKiaLqxRCuecFMwjm77bw1cu4nV2cUC4wEQTgqyima_BApCLgEvAzpauZF4myIeOeZkzeTXLBCfEX7wJtNQwHDDNKd_lTs_OaC1mWXDqA4DI684lx6zs4PygS8hNqQjIcxxGayZliryuALxXZ0yKJ_NByOccDsulzbPNaLCdLNwlqZ81OSGmnaXE76iwIP82zvX5rwb8OOEX9X4nhchKGHBExfxeV-hiJNSwyar8YZUHOBYxhg3wTb5Ji7kJMYE-QqHLOjauzxIvgR6RXZ387rorP9w",
+      "width": 3024
+    },
+    {
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116367299162027797478\">V\u00edctor O P\u00e9rez</a>"
+      ],
+      "photo_reference": "ATKogpf_uqjBAIWfD1Ahmg02ABa6a1X_I0wnmJxtnEZzudxiLnj-wbmdXSH5YSGXz_hYTrQtwEJDcrcAZSEL2GcHnjkySLcMTCP341Ak-NF4S82Bt3So3zWmKRu0y6n0GTHdlyF4Pgbq7Eo1W5eoxd8kXYGpLP4IBEdg72foRnb4KSPpdrxZPFEXXMt-jNq8zLV0t4r5tPkGgruKMSyGjzkjKTuzE0MkbqVzEdJsGMgcwp0W1OsJ6uGmzDQ3j67HxJo92HLO9EjcuJ9w3fnQdaWMXuL_S1q8OJqWKz6e1XF1E4TRQHLl4fNrNq7x_48oqDlLMP8MDsomOaM5OFvkdaQRJrMS9GLuSpLqW6sad5uEoVQnLlCyalzNcaTSMYQbDVyLNLpYiocZuA09N9klHS2RLxcKmmtfUSsAWZQ9X40pHoLENw",
+      "width": 4000
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112707176887621000157\">Queen Nickey</a>"
+      ],
+      "photo_reference": "ATKogpdjysnL9sO26_LovW12RAr4NpPhAZxvmdnbcVEaNPXMaU4bu2JVFs2mX-Goi6-ZV5y-Ay8Qi5Eu15aEgkjffAJ7DDSC23DgoaTMfnqheFJPqJb_BV9iz__t7T--ZTd0kC5E4_ObEkt6W0OSdxGOa7_Ml1uyLCDAfonQU5sPhNp72ucLJxZK0J_Anj9Yb-TVr3B--iynoi-2-uB9IhdW35XKKuhfYYEh89m95cxebK1T9FuHglhmFL2cnQX6f4_xRsxqiJJ7PZot0uo4uKFSNTc4lq9bCj1EKgzfskYiP2fN8F6Lvd7rQkUdPi8_w_gAZkcke7PCZeo00KNAQ0Vyi2pxbwL82fe55GMqFHucmxR2adbSDbIqR2LBbl0fVj_Q6CA5YCGb9DzymKBPrfvndo2pgZM8YPdeSmQmzeBrLD2Gn3cdFS_7-Dbbb1dJq3I1",
+      "width": 3000
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112676629934199873664\">Sherwayne Morrison</a>"
+      ],
+      "photo_reference": "ATKogpeWdqmR3N5M6fmbtqqNpw3r4z2cgSSIuKRbGIREHOFZv1mN_YT8S5bLkWeHbk2Uy3a81c2CKRAm-f0RD4CHfP-4K0o0rDJx_1FmRq9Fb9hPLmm3a4ckn_ESxB8naKK4ASAWbNGDbw4Ggs1iE4on9hHWPhLRH8y7IKesktWvApT0p4OqW0RtwHVEOggMOdqwZaFMe3WiCJ_rkuY01bc2rZgL6EwFZBmBupPcekfT8x8Yn6hy-XJv3OySTfcy6D4ZpaVMCpkDVjMJQBDurtycmrT7mkBfmei7iLKGB7tITZCVsaE7jNB92UNKHlncbaj7ENroq-qSfTjFwVZNEBvw_26OWreOH_Rs0ZksOeBnIC_KPNNsgPuIef4egPV6GQmxxq-camfXsu8feqCGeTb-4SsQm7Id6rU5D93HcCD6M2RzFc4",
+      "width": 4032
+    },
+    {
+      "height": 720,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117042312824475946062\">Sybil&#39;s Bakery &amp; Restaurant</a>"
+      ],
+      "photo_reference": "ATKogpfVTFVD8UYlnR8oxwoWlSSuMQbd4zH-vfPuDn36XctZmG7QaM0hbOiacn7_-ehrCpWRqDkABTBTzHejKTZ-1A0Xqgel4KXYSt_Ejo09BxTL2NGMQF4FNiV51PO0yVwGBGqfEKemEnIRzPM0iu4UKnMqPtzOYEoBJn-EJIV1kiQPanGZz2YaMjkDciD4S5u5PFrnMfugAfE8If-CM5KHmvSoLd90XltjXPow2riVS5kmwFwk7cp3RhoChOXd1_L2r_j1gQ2OslCC6tA2tjXNgCZrPrVI7DWop8UIXsLou339rQ",
+      "width": 720
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106700696681042474172\">Ling Shi</a>"
+      ],
+      "photo_reference": "ATKogpdjXGo1kDpvNqMgxKWsyAt8W_e43xLnTMWV2kyTPP47OQehXv_ALpJDZLjPjFYi-Xl7enlX1tCE1MgtAE4ddqOtFNPOskbGzb_Hal9PSlUXLVODTxvNquAFzTmufcY7S6sVDEt-wDCCrE5pvYKY24tuiONuwpq67U3m9Q5dhpcNDaHf3fcuB5BnLxZDMCw93wpjDzduSI85AmstHErXfyUxuysIyu97i-sQThp5_RqXZz74m-R2SngLQSW_NmWays4KpAwcQJqSmnoqmcCvCbwi3IG2naI-UNCSwpRjHz8yc1TT_DABbKXTtCJRD0mhNBuUDxspgEjT6pj1vNM711tOH913XjBU5ldOTUG3w0I1ElpyKvZ4cU0Xd-kuD6IHXM0On3yTelz1JcLf4bt12RqEBae0_S14BFJCEiBynM9O6Q",
+      "width": 3024
+    },
+    {
+      "height": 720,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117042312824475946062\">Sybil&#39;s Bakery &amp; Restaurant</a>"
+      ],
+      "photo_reference": "ATKogpeJeV1B-iitPp4yblPc71oQWj1eiOIND8OZ0rwrpRBudoOnQA6cbwusSoAzx1_3pwyHdW2elL-nIHhMIh-OcBjqjUUy9ezV7tsDD-h-iuFyCK-nINwyLpEhqVyOx5S7HNbN4TQMx9j5FJVS6y5rUkAV4BgoWSZsw2sPxXl5Aeae3PKLN6-YBsUkxMa8Rkr2k8cXoCULHPXjDvs0d51Qwu1AB-ayFMn44f9pzR_xFR76sbbOOjOyLYmf_sjvBIyKR_hL8cg2kLb2BryAN6Hm6ykMeMyDXWmrck-FfdWQhtJ8wQ",
+      "width": 720
+    },
+    {
+      "height": 1293,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110617409374544546619\">Kasandra Calixto</a>"
+      ],
+      "photo_reference": "ATKogpeTe1Ly-YB6B7CuJ7eE4OsvOHI5XoLGfvn2wptLjOLZOQtEk7lq6WFIhR-WUCyf8Oc4LyEH1wGrR7EsEAJ5SiluRgWyCAeMYNJRZVD_Ja5xnvWMgs2960aYVxPMvv_WzGuTza-G1XlG1F7z9DeBnMLTy2rR4PgaiLEdDLxa13tQ9Nl-o2uDfDOVgGJmJlkhWwnLb1qeOJOoGIEgmnJqDyLfSgq4xqFII64aWQ58wSprlkQ50LiXRvq-M9Ikfbko44LH-JcmOojm-JmCum4EuyvZ9jF7js-hkEFqm55V4ViSLO2TVMSthRkCFG3jvBGk4vJgTCBZoSJfxJ00aFmtXocD1EyjVFljGHP_DvkQE_r6HQIs_6rfQLwhr5Ejc51rf-VVMDPUTzWfnojwKpG3j4q16jAJTXwzYRXE8Yn2uRip8IM",
+      "width": 1260
+    }
+  ],
+  "place_id": "ChIJL7GPxt1gwokRFcx-mlU8sys",
+  "plus_code": {
+    "compound_code": "P55X+47 Jamaica, Queens, NY, USA",
+    "global_code": "87G8P55X+47"
+  },
+  "price_level": 1,
+  "rating": 3.9,
+  "reference": "ChIJL7GPxt1gwokRFcx-mlU8sys",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Lenny (Lenny)",
+      "author_url": "https://www.google.com/maps/contrib/103344152313959483789/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxlhvdUm6XfYlC-LoGk-AdCGoiOsAM7dcvj1YtzwFQ1pi15ewjVg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "A Must -Visit Caribbean Gem in Jamaica, Queens!\n\nThis Caribbean bakery is an absolute hit! From hot, flavorful West Indian dishes to an array of mouthwatering delicacies, this place truly hits the spot. Honestly, I was so excited (and maybe a little overwhelmed) by all the amazing options that I completely forgot to take photos!\n\nI tried the currant rolls, meat pies, and cakes\u2014and let me tell you, nothing disappointed. Every bite was fresh, rich in flavor, and just what I was hoping for. I already know I\u2019ll be making another trip to sample even more because this place is easily a landmark in its own right.\n\nMy only suggestion? It would be great if prices were more prominently displayed, and the checkout process could use a little (okay, maybe a lot) more organization. But aside from that, hats off to the team\u2014fantastic job! Looking forward to my next visit.\n\nUpdate : 2nd visit - took some pics & tried the doubles ( it\u2019s ok - not too overwhelming and not too bland . It\u2019s not gonna take you on a mental Caribbean Vacation but if that\u2019s your hopes then better buy a plane ticket :)",
+      "time": 1742654008,
+      "translated": false
+    },
+    {
+      "author_name": "Space Dandy",
+      "author_url": "https://www.google.com/maps/contrib/100563658592719678557/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUpsyu8vW2oXbHTCKLwcc5cH-Jvk0s4MCCm5AZoYHbnHtDP22X9=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "4 months ago",
+      "text": "Delicious tarts. Very reasonable prices and helpful staff. I tried 3 of the tarts; guava, pineapple, and cheese. All of the tarts were flaky and delicious. The cheese tart was surprisingly spicy and savory. For three tarts was $4.50 which is reasonable. Cash and credit are both accepted. No public bathroom available. Very limited spaces inside so not a dine-in location, but more of a takeaway spot. They do offer food for lunch and dinner and are open early for breakfast. However, there are limited options when going early like I did, which was around 8:30 AM. Definitely would come back and try more of the food. 01/2025",
+      "time": 1738332392,
+      "translated": false
+    },
+    {
+      "author_name": "J M",
+      "author_url": "https://www.google.com/maps/contrib/115586378019359384192/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVpOllKdYr-nIN8RyTwQD6D-COZhvJQNCYl4aco1I2OlXkBGdlunA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Review: Top-Tier Guyanese Flavors at Sybil\u2019s Bakery & Roti Caf\u00e9 \u2013 Queens, NY\n\nMy son and I stopped by Sybil\u2019s Bakery & Roti Caf\u00e9 in Queens, and the entire experience was nothing short of amazing. This Guyanese, West Indian-style restaurant delivers bold, authentic flavors and genuine hospitality.\n\nWe started with pepperpot and cocoa bread\u2014a rich, flavorful dish that tasted like a warm embrace from the islands. The cocoa bread was soft, slightly sweet, and perfect for soaking up the delicious pepperpot sauce.\n\nFor our main course, we had oxtails, curry goat, and vegetable fried rice. The oxtails were tender and perfectly seasoned, the curry goat was full of flavor with just the right amount of spice, and the vegetable fried rice pulled it all together beautifully.\n\nTo drink, we enjoyed peanut punch and sorrel, both refreshing and packed with authentic Caribbean flavor.\n\nThe fish sandwiches were another highlight\u2014crispy, juicy, and unforgettable! And we couldn\u2019t resist finishing our meal with a slice of guava cake, which was moist, sweet, and absolutely delicious.\n\nWhat truly stood out\u2014beyond the amazing food\u2014was the hospitality. The staff was incredibly friendly, accommodating, and inviting. Whether you're dining in or taking out, Sybil\u2019s offers top-tier service and flavors.\n\nI highly recommend this spot if you're looking for authentic Guyanese-West Indian cuisine served with warmth and care!",
+      "time": 1747440981,
+      "translated": false
+    },
+    {
+      "author_name": "Ling Shi",
+      "author_url": "https://www.google.com/maps/contrib/106700696681042474172/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKhGY_6OZUr3qcabBJCVLwEN93pCDq_IqQoV0KtulttRDvGlUM=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "I decided to try Sybil\u2019s carrot cake after seeing it on my TikTok feed. It was my first time having carrot cake, and while I wasn\u2019t sure about it at first, I quickly grew to love it after a few bites. The frosting was great, though I wish there had been more! The cake was soft, moist, and less sweet than most cakes I\u2019ve had, like those from Whole Foods. I also tried some puff pastries, which were decent, but the carrot cake definitely stood out. I\u2019ll be back for sure, and I might try their hot food next time.",
+      "time": 1739205713,
+      "translated": false
+    },
+    {
+      "author_name": "Maria V",
+      "author_url": "https://www.google.com/maps/contrib/115935807531703562077/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWdghlFfglRP9YfIM8nAioIFFujIh610t59woY9UKeFSIXTxmrg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "BOMB! Found them through TikTok. I ordered late through GrubHub so I wasn\u2019t aware that chicken fried rice was a lunch thing but wow! First time trying Guyanese food (I only know Jamaican and Dominican Caribbean food) GUYANA TOPS ALL OF THEM! The chicken roti (I probably didn\u2019t eat it correctly lol) was GOOD! MEAT FALLING OFF THE BONE! ABSOLUTELY delicious! Their Butter Flap is soooo good! Their Mac and Cheese is so different from how Jamaicans make it! So unique! I can taste the mustard I guess that they use? My least favorite was the bread pudding. It tastes like perfume but again, I\u2019m not used to Caribbean food. \ud83d\ude2d Customer service PHENOMENAL! The lady was sweet to call me and to make sure I was satisfied with my order (and to let me know they had ran out of the fried rice). So so sweet! I pray this restaurant continues to be abundant. I will order again!!! If you can do pick up, do pick up because Grubhub of course gonna charge those fees! Loveeee! Thank you to this restaurant! \ud83e\udd79\ud83e\udd79\ud83e\udd79\ud83e\udef6\ud83c\udffd\ud83e\udef6\ud83c\udffd\ud83e\udef6\ud83c\udffd",
+      "time": 1738642628,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_breakfast": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": false,
+  "types": [
+    "bakery",
+    "store",
+    "restaurant",
+    "establishment",
+    "point_of_interest",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=3148926902823996437",
+  "user_ratings_total": 647,
+  "utc_offset": -240,
+  "vicinity": "159-24 Hillside Ave., Jamaica"
+}

@@ -1,0 +1,498 @@
+{
+  "address_components": [
+    {
+      "long_name": "Suite 199",
+      "short_name": "Suite 199",
+      "types": [
+        "subpremise"
+      ]
+    },
+    {
+      "long_name": "717",
+      "short_name": "717",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "East Martin Street",
+      "short_name": "E Martin St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Downtown",
+      "short_name": "Downtown",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Raleigh",
+      "short_name": "Raleigh",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Wake County",
+      "short_name": "Wake County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "North Carolina",
+      "short_name": "NC",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "27601",
+      "short_name": "27601",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">717 E Martin St Suite 199</span>, <span class=\"locality\">Raleigh</span>, <span class=\"region\">NC</span> <span class=\"postal-code\">27601</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Relaxed locale whipping up African & international offerings in simple surrounds, plus delivery."
+  },
+  "formatted_address": "717 E Martin St Suite 199, Raleigh, NC 27601, USA",
+  "formatted_phone_number": "(919) 741-1111",
+  "geometry": {
+    "location": {
+      "lat": 35.7768983,
+      "lng": -78.6267962
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 35.77816963029149,
+        "lng": -78.62544871970849
+      },
+      "southwest": {
+        "lat": 35.77547166970849,
+        "lng": -78.62814668029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 919-741-1111",
+  "name": "Hady's Restaurant International Cuisine",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 2000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116277642915200703280\">Hady&#39;s Restaurant International Cuisine</a>"
+      ],
+      "photo_reference": "ATKogpeAOvxow4rUE_-dHp5qjIQch4Rmd0dg7efYmAHlrHUxwDNzLzwaYB1q2b-g2F-nnsMGeFZXZbwh3wI4b20YEFPrpidA5dfI2cZjW2YmBDrPFPfddx2UH4BCM_Ov29_oOysZJcJxJEf0J6BdoSJTxriKLKx4INLVs1-7B-ZPHIzoQYmHT-H9ld332tkV_yrD5cOIwt7qjiYaCvgKn2QIPSuLz33wwTxMACln_u5rZyhGF1U5s7pAdOm00uJz4de3k6Q42MFNywZe2J9k01euLbhpuQsifAXkrLC-8S9AI7SAEg",
+      "width": 1500
+    },
+    {
+      "height": 1360,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116277642915200703280\">Hady&#39;s Restaurant International Cuisine</a>"
+      ],
+      "photo_reference": "ATKogpfFQHqya7Sy4a1hy3-wqYb4Ivju1E1Z2w_L8JiJ_JGSigwYxpjhqbprX4peyG4PxnAQwNI19zaQBSXJMOjk-NCrB00Y2t37cOSj-JuG4HOFpuqjOh4PxJnuaD1m4NtZ4Zxxa-awb49Jk_haYnper6iqnKCxNjae1ASh7XW5cY56YHVLeGLrbidH6jCqQnBut80eZgg5WQBjHm8bdWPr92qgaOtpkJx8rejJWGWL197gjX4u7pjtU6Ae6Nn5vFdlL84HqzXXjFggMU2S3LMOndp6KrZV7ODTaNrhQtLR8EVZ6Q",
+      "width": 2048
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101660977401020162354\">I don\u2019t forgive</a>"
+      ],
+      "photo_reference": "ATKogpce1U_1oQ9eaDjnO-T45YP7bvlYU-IvDs3Qj-hepDiil3Z6poHpvi39pZ_KuXAFxDfR6Q6b2rOvNaIasVhpi6X6Xn9HHXy5s060UjnstMjehtVXBhogkbDhqMbc-Pc_vdEKmPiIPZo_ETLhkGYsuBx2IWsY_m3KVqFHvobrsl0LCdwpEujcq978afGqn1zSC5MrHcNOoh2n6b5twbyhZshQ6HEIaTXRQOfgvgN2zeKycwr_BSyUuqo92_rfk0iXRbzB7NHsvX26j9LL3nBAf8V39mKYRVDDhtX-TuGllvPRe0spSDpMjcdC5WddqVyaMB3QQVvd8dYXadnioHywkAfNDEuWgXipB-jDNsINDgNhNL_SO5gTJ9409unBK48MdfCc5BWSddb-T6oaLsAtGx2B-a9c7llIs9jfussgvvSovFg",
+      "width": 4800
+    },
+    {
+      "height": 3012,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111607640281186635333\">Rashad Watters</a>"
+      ],
+      "photo_reference": "ATKogpe104xmIbqApH15dDLIJWiD85XIB2CVNKQaS9p_mRDnJ6K1lJYhhr__AFa2U371h65u_DtTVFgMA4S8xLXipQ-1GdGZeMfFjwXUzEiU6rHq8wDqlDDKRAX6DgW0R7H23Kc2RRyUKajcYDbt3Mu7qPS1iy9ae2z70PxTB4FxHVk6Zdn4AoTeACtpiUOVGUd2ilVdgiWJX8zCZCyZvgkfwlKZ7y5sTJF7TqXG3P2zVI-Kj-Gv631ULlwe7jhZLOOOACqLHAO0PEQXKzMg-FAdi7-u2ViQyODKFSdnR6z2BXL5qrf4rHfEn35qXYFLTufENlC9YoUXV-6rxRT2ipTlkZyqyBXndyvF0XYPbVn6ah-vL5PEJpZLOS_rIqeXdOYoisIsms8qf6RCq_mVwsVzlyGXMSycYZJIvDWWWZI1Ce2RriqJ4gkzlPW1CoWEP8Yn",
+      "width": 4080
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116277642915200703280\">Hady&#39;s Restaurant International Cuisine</a>"
+      ],
+      "photo_reference": "ATKogpdJb4TZ08nnago0iBGI6G4C3seBgpALofE8f3IV0xjd4-wCVcICngaJIBAp_x99ldB96yEot5ftABLkic-LEDv_cVpkiyFwjSd0pRxsoBoYAA1BjDSlOH9ROsz93vx1SB8SZ3dxG5xnFALZJ1SDTLBEy_TMPDX_EIAPbFEDrqZ6-Kyv7rWlPW94qZkIHiiHlhzoTuDlApkzcYwUhppXkLXggPoMQtuQRyFNz4Vof7sr3upJzhaUAlHc8oGgS3HbdIoPoOhazJXwHrz5cNJ7l86y1_cWrO_rcbtiodkl5L-p-Q",
+      "width": 3024
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116277642915200703280\">Hady&#39;s Restaurant International Cuisine</a>"
+      ],
+      "photo_reference": "ATKogpf7KikKBwPF8DUUvSPteKIQaNyNSvcEfqPR-PV7QJLH_ORSgNhUoduhn_BVx1ykM1y0sUGpdwGKM_V679sVbsh0jkGjI6k1Y318aMDZY4keT5SMB7QEgBxfpqtnqqHBBbPJa-gP6rBMvXoBsh3_gkA0-2h-fll4ht1rX6NTtQjR5Ld74cYeOmKQY72HXXyBcLGsfQtKQN30HnnJbvSXmbPVXp-e_SlFTY6ul-dPmK220sGQzvAnl5mcewIGKZxx4ElR2q9cSPFBPeO3nuz3llY5XU3Qrnymnrwlk_lvYWWZzQ",
+      "width": 4000
+    },
+    {
+      "height": 1024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116277642915200703280\">Hady&#39;s Restaurant International Cuisine</a>"
+      ],
+      "photo_reference": "ATKogpcScXgdjjFYHRffRXtNJwxXpW8uOttvpXIeMf0sRAKihtxcJWU1tWi8dqO6xV6LrZnyLBIKudNBRGLVtfuqMYRinucSORxAPKTDOOsrP1P9a576Uer_bYux8AOJNAaT9Wym6z_km-7nEDlTQWXuG1TPsD6EWSrWW3gEepl9Z38e1dkVhTqrlGKsn45WYbYrXlKc65MuTiEqYUqeqxWw96UOJVUD9URQLohACNdJvTZMNtwUKoUS-a7-iQUUWoNJOwdfli0iW0zij-G7IFR_INZuowO2gvVnWc72wlPMCMrifQ",
+      "width": 768
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100187060050644475881\">Jennifer Williams</a>"
+      ],
+      "photo_reference": "ATKogpcjgBIvexfPolJRYUWJGAARydZhvF3Tr0ScS8-oeYfVCL5lzKOFu8Yg2cZZ2TkNS2ZPmguwnDJJAFEO7h24VKD_bBwkL3x5PoWnYahkSFwkdAK1fIkOhfDow_YX2xpXEwuP-ALTFn8AmrJHH7zSsz-xnKYhQd3rHV33c022WH__Ot98FVdlHoluZ3Orve67Tx7EAbGd7yyznVlU-TSGMX-_RKQr5jWByQkN601vT3dc7gfXmS6Rjo2vY8W2mNfw143xEIWDCEmHBx8jSXzlkXrYNCNJJJjDqwX88B7UCi_RFGhGWJt9Zy3F4_MZcCjMFAuAPSsRP95TEoAUgai2LFnObCtc-VgEskhbS2SZJWJkgXdEuCXN6CMOC2oAxIErpHsjBxUrOPF1g5qM-rhqYIKVTmk6szPd9TRBayz4tPyohLDH",
+      "width": 3024
+    },
+    {
+      "height": 1321,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116277642915200703280\">Hady&#39;s Restaurant International Cuisine</a>"
+      ],
+      "photo_reference": "ATKogpcmfyDD-sKU4O0OEm0ficps0OR5_cSNkdHTGzELLFfFrAwrtJ-NgUFFxNsEVL32Thm7w_V7B17wlqBnlm6W2VhOIGwy4FAR_nDt5vZgRWZe-6xAT5clLy5XYXYDdb9eimSZujDcKMzwvZvSbF-BMXLRYPcKgEhuZQDqPCZVDlpZMhN_XI1BiyDXEhWaCy8Dtapb2bBW_00BTmREKtgZFES1wnhEJm1T2_KvpRjORbh1BcER-Kdx0fg2aTYND7KJfSh7SaDt4ZW-arNi8ArHzY8I9bGE3EFxSEaffthapM8oKg",
+      "width": 1756
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116277642915200703280\">Hady&#39;s Restaurant International Cuisine</a>"
+      ],
+      "photo_reference": "ATKogpeNlvULSq__OBoEjWRFKDaOzkZl1lGk-j9TqxNRJfebgt-23XVuyJ8eSfmjZRbgUgDKaPjEio1Q05ZaOiI9A7Yug-UUG-Nxw67yWOgNNi2H9Q2Df2xuntcO2_nGPJgeCoFNYC2XPcvovS-QVo5cS-MuIBF_9tvMGUGA6QUUxLrsH2LX3F4_0juP4SUc7TUVNfqejge4Zb7byxzIXiaELxVyxTDCrMPMBKDMGT0EMs1izQs5oT-fR5wx-vU3cfNvFFpcEzIAk291AiryKbuuKHrYks-khqVVTOerYAplFQ_vow",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJYZC8dOpfrIkRdT9stANRzWA",
+  "plus_code": {
+    "compound_code": "Q9GF+Q7 Raleigh, NC, USA",
+    "global_code": "8773Q9GF+Q7"
+  },
+  "price_level": 2,
+  "rating": 4.5,
+  "reference": "ChIJYZC8dOpfrIkRdT9stANRzWA",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Jennifer Williams",
+      "author_url": "https://www.google.com/maps/contrib/100187060050644475881/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKIHjranZw1W_Z5cWEhxk9Y7SkPVO79EDV_ZFuuUz4FM9ionA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Food is always delicious! Customer Service is superb and the decor is amazing. This spot is always a vibe. Wings are my favorite!!!!\nThey provided dates to break our fast and even moved tables and provided prayer rugs to pray during this holy month of Ramadan.\n10/10 highly recommended.",
+      "time": 1747534871,
+      "translated": false
+    },
+    {
+      "author_name": "Najwa Dixon",
+      "author_url": "https://www.google.com/maps/contrib/101933706996319172186/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUMJhfoVSqffhn93Y8zJyqSmPMIf083Bb3hc_uDVTWZonsB6jfG=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "6 months ago",
+      "text": "A great place to vibe out at but the food has not been the same this year. I\u2019ve had it 5 times and each time it has gotten worse. Curry chunky. Chicken dry and got a single bone but Yk that\u2019s okay the meat be falling off the bone! Rice & beans dry ! Like ughh I just wanted some curry chicken. I\u2019m sad gotta order food from else where.",
+      "time": 1735358281,
+      "translated": false
+    },
+    {
+      "author_name": "Nzi Rose Perry",
+      "author_url": "https://www.google.com/maps/contrib/108331661491934551813/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKE0u7m5EkrZoAvqhevRQHPiXt_4LKJHmKgInSNFOuHdp6dmg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "Incredible food and warm, welcoming vibes! The dishes are full of authentic flavor and made with love. This place truly feels like home,  a must-visit for anyone craving African and international cuisine done right!",
+      "time": 1750702071,
+      "translated": false
+    },
+    {
+      "author_name": "Luminoso Cruz",
+      "author_url": "https://www.google.com/maps/contrib/109625225555062817938/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUVQtyIfD5F8NmrTGZO5rRdFa94ll1o0U_fUnaRkQym32hABs=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "9 months ago",
+      "text": "Ordered the curry goat with rice & beans and mac & cheese as the sides and lemonade to drink. My partner had the Egusi soup. It was all very good. I really enjoyed the curry flavor of the goat, and the Mac was very nice.\nThe atmosphere was very good with smashing decor and impeccable service. (Mind you, I was here when it was less busy.)\nI noticed a bug issue while using the restroom, but that wouldn't stop me from returning.\nI'm definitely still coming here again and would recommend it to anyone interested.",
+      "time": 1727172858,
+      "translated": false
+    },
+    {
+      "author_name": "Trinese L",
+      "author_url": "https://www.google.com/maps/contrib/117741219812049980455/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWf6UXEm_J7vJiVlR0og9w7s15hbAVsJYoC6tJK5BOFsQyY94T3=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "I ordered peanut butter soup with lamb side of fufu & jollof rice, gizards, & 2 different juices. (Yess all for myself)\nThe food was packed with flavor fresh to order. It was so hot I couldn't eat my fufu with my hands... lol\nVery family oriented and full of culture.\nEveryone made sure they spoke to me which made me feel welcome.\n10/10 recommend you won't be disappoint\nOh & they have a lunch special",
+      "time": 1726316349,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1100"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "0600"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1100"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "0600"
+          }
+        }
+      ],
+      "type": "BREAKFAST",
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: Closed",
+        "Saturday: 6:00\u2009\u2013\u200911:00\u202fAM",
+        "Sunday: 6:00\u2009\u2013\u200911:00\u202fAM"
+      ]
+    }
+  ],
+  "serves_beer": false,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "restaurant",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6975320474220511093",
+  "user_ratings_total": 781,
+  "utc_offset": -240,
+  "vicinity": "717 E Martin St Suite 199, Raleigh",
+  "website": "https://hadyinternational.com/",
+  "wheelchair_accessible_entrance": true
+}

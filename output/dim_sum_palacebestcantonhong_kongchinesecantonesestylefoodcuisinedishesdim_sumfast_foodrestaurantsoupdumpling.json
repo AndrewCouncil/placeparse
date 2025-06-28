@@ -1,0 +1,550 @@
+{
+  "address_components": [
+    {
+      "long_name": "334",
+      "short_name": "334",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "West 46th Street",
+      "short_name": "W 46th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "political",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10036",
+      "short_name": "10036",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "3883",
+      "short_name": "3883",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">334 W 46th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10036-3883</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0130"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0130"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0130"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0130"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0130"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0130"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0000",
+          "truncated": true
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0130"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1030"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
+      "Saturday: 10:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
+      "Sunday: 10:30\u202fAM\u2009\u2013\u20091:30\u202fAM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Restaurant serving an array of dim sum favorites, along with classic Chinese entrees. "
+  },
+  "formatted_address": "334 W 46th St, New York, NY 10036, USA",
+  "formatted_phone_number": "(646) 861-1910",
+  "geometry": {
+    "location": {
+      "lat": 40.7601962,
+      "lng": -73.9893445
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7616292302915,
+        "lng": -73.98795556970849
+      },
+      "southwest": {
+        "lat": 40.7589312697085,
+        "lng": -73.99065353029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 646-861-1910",
+  "name": "Dim Sum Palace",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0130"
+        },
+        "open": {
+          "day": 0,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0130"
+        },
+        "open": {
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0130"
+        },
+        "open": {
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0130"
+        },
+        "open": {
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0130"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0130"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0130"
+        },
+        "open": {
+          "day": 6,
+          "time": "1030"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
+      "Saturday: 10:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
+      "Sunday: 10:30\u202fAM\u2009\u2013\u20091:30\u202fAM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101755519346138225198\">\u305f\u3051\u3060\u306e\u308a\u3053</a>"
+      ],
+      "photo_reference": "ATKogpcuBh7BTNJyIesqa6HsmnYIl9DL4gteG4LpJUHCzgnVkNhpySEkX9Gey8EXx7H1qWaG5ktOuDMRacD7esKpYr8-uRIiL-3l7w28cEoVyVBno1yTwDbAmYPtNDRObF44HNLRZ90NXQSVQ4VNFP_og0LetWzCtNizIZyw5GU3qL4MQ67Olciq6yhtukgC92F0cS5S3yTXTwqOfr4mYHw-Mg2CCrHvwf03DOFSBTZudl1tvVd4RXYjoGESApEb6r6T-2Z715r0c3_xfgv-_Sy0jpeyvKNmdHf0HTlxRfx2sCMD-3B2HUvR_930A2r3JglH7ThAflpBKohKdzClTm143LrSiF8EQeTj6kANOrcendNyFpvBq-w3bRkQW-sJriOloeUs5qQrBdPilAfU8zrg8YVkoaMUHcgMYKlDzBR6YOry-g",
+      "width": 4000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116471052745956667626\">Dim Sum Palace</a>"
+      ],
+      "photo_reference": "ATKogpcJSCSrHyb0QDFVTaeijtv1OR-pRO3GJD4IjGrBRojMPeC2AKphX1FCMvMxG5o_gP5DItIrQEAY6qM9hoDWuHa-J3wIBS3JBxmzuKX5DlJfx9RU4wef1MVde1O6ASocu_4CWJy98mx-nt2W4a8f41VLoTaUt5JWUn6qC63OuvkATQP3PXXjtYxu6XW6hKRrr5Fgl4xjcIAXS6qOJ3DiF1Jacpe63Ibrcfgx5GoeJhseZbnP4EZ81K47Qo3ofldy37sAxxRhetr4jHU8GAixJvjsZycZiC4rcapM05Q77mLBaQ",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108325621532199040719\">Sue Kassab</a>"
+      ],
+      "photo_reference": "ATKogpc3evtIGhpUXV5OHdUXBJekdhK2Fh_Endtmah0rB6iEYwol3jpa0VzaM81laxsxVg6imsA33e1SC9GRJSi6YeJWoGhsHL3aPFn_p5BlsXsHOoPPzHXQowNcavuFyVvssANVEvYzkZnQFoP06gVbk2JJ_92x7jyvkfdc1TV3HolyRfp8WVDQ2_c406-UOueabVXhbsJqBds4tlmgY3Cgu-BazYa4ce25RqrDx_xHHW3rOwx30xqKzl-KfRA613hLE-37GAm7qmlI619yrS83WhOyE6RotlAeGyyN-5rdFIeoqg_ISjfNMAce0q9e4svnHkyEPl9ltjHXrhNuI6iS0DuIu5-D7hxq1mqMqAimtP0PBLFN3f7jQiIlzFB2RRTD10kBbwJJT1wVFQGUMPydBG8hbUGIOfnAk6PnJ6e7qsY8zA",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118111275987788457162\">Heather</a>"
+      ],
+      "photo_reference": "ATKogpfxiwymT0P80pB--RsqjRVElnAE_Ei3TVT4MPdSzlAYYa0XOuodFh8-8WeZ6EgJOGrIJVZyeAAawH9jVDKvzWVz3k3sI5RxVKC6nevgC2_ZpGnZqimUKenYnomw4GC5x8ePnd4uF2Vatxkx6Pizl90CH0BJ_W_xEMj0FhPQdlZ4MgMhxZCJU4hlMuu_iNVMyi6EL7YcBXDdbOlOmmwHMjuvJ80lLNAE_Al6K8tfrBsiRUHktRqmVoE8yi4Jk5vNmYbUz3M5dcdYJX1LN1MMaD5zcNjhUybo5NDCy-HWK46X3UlyXntZf2RrU2sfwjuJxvJy3q1XMWvIwPipZM2L6YUhsBqx8t9YuYRd64QHJ8A-dnzwFz76_0acBWZ0y8y9O6ZuNztDg4HH36UjMF3pQzVocS2W2L3H_NRzTqji6zxizw0HRLXF7jM0LHcLIg",
+      "width": 3024
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107543572927447845132\">Tak Szeto</a>"
+      ],
+      "photo_reference": "ATKogpdFLVyRHNdZRE0BO9Wwp_tn9KVW27xK7G0VbUK1Ka6RhY1nyvKCDeQMIcGPn4hS1VLYS3vQzS-wUycbPReuZKKMqTvJoOrO-ZdXCD2riKTeLgOY8YbSwiZv1MttKPmCEh-bafNbO-MhQIn_-FTauwYwg3Q0d94JRxpwUr1CTkYsMtsXW256JLxEpHmETRt_Uh_QqHzNd4O45WhMSehoEqq2lplYZTlGGHi0ZFRYGlum-56qsJSB1CVVnRVL6trAXATM4HX-rGyFra_VtAnfLlM73gX2anmgKpOMKrM-zWpyEx887YMyBULmqnD7kyaNI59joanshaWP3jW-r80xPhFmgmxw4tFaGMhhmiUB5GrRInfJZwFUjibeWtmTkXTwopvTRiRgenszxmLa6qFwyN5GDJYEcTzq_yk3flYVbvsWqRdGMXWvIMSO6BSbuekp",
+      "width": 4000
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109892917018146757394\">Jess Flower</a>"
+      ],
+      "photo_reference": "ATKogpdA25ZQXh4YsWc1HlUcCdYQMzNn9yccH6xKHJL6vosXyS-GBoGqITH5_8-ecUE5b66bfuEVkxnhFoo43S3_FZIAX6ImO9HxRSbVK6ugutScanY1FSUpYDEQaF30JdUtzbWwwxpvM_VMUlEAEhGWdQ6rfQwgkHL5DKL3LLCj9yjPCp8UblOMviwo4sOBmEZKltv6gDlZmF9wJTaGimrdFyUlCRW49oR2iSMzbDFi1C-lg01Ug2A7kcaSm0UqIOM0bZg8zOjC1lpPzFhQ2JGNWpiErA6XiyyWT473f64fpES_0LJqta7DaFlr16_NWVC_8khILr81HJDR4K3cTznhu9h6yW9aHOceqjwSb9QuVWT8mdF7_5gbEWZ03Q9Dp_RCl7_MfNpreo0HNHv84OQuzdg0fCx_0QEhHODMBfHnm7KZo3S0",
+      "width": 4800
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106254725258077328783\">Anthony Rodriguez</a>"
+      ],
+      "photo_reference": "ATKogpdgIedtynIwsX10Eykvo-GiTLJ5oiR_bFibyPK3chgHOQih-sHhUXkwzz5BhEuLtd4dK7HzNR0jVdFF4yjlp_TEkTqD2-njA47vB888Cv0TievoiHXwipgtgIQIEZ2uxuB3eKcSjQQf5E3T4PgWyO_jRDHk0mtC36Th_bUCdfOFVjtKoAyUWFQuXlIzvS2BDZxi1mTMuoS7SSYOxOAZYQjiE8T6_knF5b8v-D-b1cWv8Jr8vgGDl1iTb1W4qx82pkj0lqK2cB2xN6_lIF5jxrM_5ri1JEX7iyvCH7nRwadRb78VPfSUSjnkE2JYtt1PvKVnRsFsLS1KrdvxbJP-Bg2Y6MNpfxWJ7xrE3-r25vvx-aNC6c-0HzSXAtQ-dKba1i-lCq4mfqibuuGOgV1rHlqGPU1DI00FW5xQObemGfJlKQ",
+      "width": 4000
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101492853322595516123\">Eloy Yip</a>"
+      ],
+      "photo_reference": "ATKogpfdqRwVdjXuHOl38W0H7CEmqjvnwXFUUoXT97-esDUKi8b-gHWPUGOSC-Lm9knVyap8ZyoXUrxArUcq6wXqc7fDKjdszBwmVwLSH52BfsGrXIDWpgxA1UiyD2ChxiFVihv2fbM6keCASZA7OFKw8h5u7-oyV1E_teHzgAMFN0WDkQDUB89sojP5sgfeNu0E2wVWHrhJyCsMEcrieWEHHgk_uM9xSOaTrLZxo5M1WU5gFzr3VzOxaPq2lCHSYe98iAAfHG0tBz_dLl4gmeKrQdjvRGPTZdoBiSniNwSFZ4UO8C_bL-L1W4fR88W-zhTS1JJH1wI893U0OSd8FS51cj9my1yABAwzui-ECY2mOrMBX_o5CXSgOQgl2LaIj_8oetkmJhvb6SUNF6RzQl9ke28STyecqzCOrI_MS3Gqr39dPg",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109892917018146757394\">Jess Flower</a>"
+      ],
+      "photo_reference": "ATKogpflMIKrSjQgYoFTUpvZX3BI2Gv67mWSymkf53gKUFGPTjJRDI4j5OSCsXLT9d2V5j_Tuld-sEB4VcKdOKBYBvutFe7xbQ18o0e3w6UvbhokCXvD9QHfbG-78e55Z2jHP79RjS3qz3PSMPey4LVrYL0K6CSf8dgZ34zn8Vxm98pznHM-cgC1chpxNOJdC9ZdNnNbnClutDQuAkWAs8X1vvFD5-hAFfrxuaokxIeQrQ2Z5pNEjYlmNJX2CE0Uz_d1Hp_3krDEzovJor_4_w7YlvVAU3TdPAzkOSAl8QN3sBaMAAtBeyu_2HeqQAJz-wLoWjJIAquKW4DZSrgu5XHLgl7jAyds0QunrYMM_X-cqCvStjP6g3O4F_C25sn9S2O3WaaNr-zvJGbIyXUPbA6ku9opo2RZvZorwdzQVP13DI32_g",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113157457516747529653\">T KOBA</a>"
+      ],
+      "photo_reference": "ATKogpfynQ94DTX9vebVvQo18Ya9zhynmn8tfxgZcMHngYcIU20x6s8Xd3oGOKHDvM5K-fjCKnqdgE0qEUyUCC6N8M6Opwb1kGFwCSBVjiaf-GjZ2MmZisXIe7z4U9C0pVWl5iBnGZRcTioIPC6j5RdwqjTk8JIsc2vVjzvAOrj9NBQkbqryEpgf_5XKAbjlFS3pHKVFgoqrNUFbBu0VMxrtJP7uJSG1ZsnSVIHxg2NAADTjHJNsD0hU0W1wGwHSBhqTJNqDuKlJ-tD_mh-FFj8eEN8TOeXdWflPknZaH16WGqQSgqxvXyZDU5RibeBIrXGoUaCHgxQqvl7-gE7DIvM0o6kwZqRmEMAFpHm13wCim7zSPiufpnRNdT4eRPSLdeO7awDMPsqL2GCFGfas7in5QgReSQlg6xsHmMW5-NyZ_Lgu98w",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJg5jn8FNYwokRwH-IWxB2gb8",
+  "plus_code": {
+    "compound_code": "Q266+37 New York, NY, USA",
+    "global_code": "87G8Q266+37"
+  },
+  "price_level": 2,
+  "rating": 4.4,
+  "reference": "ChIJg5jn8FNYwokRwH-IWxB2gb8",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Gerry E",
+      "author_url": "https://www.google.com/maps/contrib/113195060931538007331/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7YW8MqrhOmY6fI1CaAkQSBB4aOgEFwhVgy4wpSrt6rtlJ6Ism=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Had some craving for dim sum and DimSum Palace just perfectly fit the bill. Parties 5 and up need reservations to guarantee a table. Less can walk in, but I've seen the place with a line outside. So roll of the dice. We were lucky when we decided to go. Got seated right away. The menu for dim sim was huge. You order from a menu sheet that has pictures of what you're ordering. Noice touch. The regular menu was just as big and boy, did we order quite a few items and, as a dim sum officionado, I can say everything was soooo good. Prices were typical for Ney York. Quick, no nonsense service.  Will definitely return whenever I go back to NYC. Photos to follow.",
+      "time": 1745449578,
+      "translated": false
+    },
+    {
+      "author_name": "Havana",
+      "author_url": "https://www.google.com/maps/contrib/113762091032619295787/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJc7O5y3UgEJqLhIpboF7bz68EtsTwg5HY8KjKDBBio6kIdTQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Very nice restaurant located just a short walk from Times Square. Would recommend highly.\n\nFood is excellent fresh and hot during evening dinner. Must try the beef steak in black bean sauce, this was mine favourite. Very tasty beef and large portion.\n\nStaff are friendly and service is good.",
+      "time": 1744581642,
+      "translated": false
+    },
+    {
+      "author_name": "Tak Szeto",
+      "author_url": "https://www.google.com/maps/contrib/107543572927447845132/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXnJRXarrG0cCiurI0VtcY_7HuoZYD_dWTQzgr_SNVS2_7StoIBlA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "When we're visiting, we always come here for the best Peking Duck!  It is absolutely tasty, juicy, and they carve and make the duck buns at your table. Well worth the money!\n\n6/20/2025 The restaurant is being renovated, but you can still enter and be served to the right of the previous entrance.",
+      "time": 1750462401,
+      "translated": false
+    },
+    {
+      "author_name": "Akilah Mason",
+      "author_url": "https://www.google.com/maps/contrib/102913183116015543722/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJp3SIlEPzBw7APHA2jrr1R7RD1nOEHOuBqNAI_yGyWrU7nEqeQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "We loved everything about our experience. Every single detail is a five star, from food and cocktails to ambiance and service. 10/10 I highly recommend. They even brought out a birthday dessert for my niece! Don\u2019t miss this place! The three of us ate well and have leftovers.",
+      "time": 1737775553,
+      "translated": false
+    },
+    {
+      "author_name": "Sue Kassab",
+      "author_url": "https://www.google.com/maps/contrib/108325621532199040719/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcTl9rKQOFU6cwjNQTEiJw2QfwOyQociVZY9cb7g8uqY5BM_Hz_Q=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "One of the best Chinese restaurants that we have ever dined at. The staff was very friendly, accommodating and attentive.  The food was absolutely delicious! The The shrimp and scallops with broccoli is a must.Next time we're in the City, we will definitely visit this location again!",
+      "time": 1748880997,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1500"
+          }
+        }
+      ],
+      "type": "HAPPY_HOUR",
+      "weekday_text": [
+        "Monday: 3:00\u2009\u2013\u20095:00\u202fPM",
+        "Tuesday: 3:00\u2009\u2013\u20095:00\u202fPM",
+        "Wednesday: 3:00\u2009\u2013\u20095:00\u202fPM",
+        "Thursday: 3:00\u2009\u2013\u20095:00\u202fPM",
+        "Friday: 3:00\u2009\u2013\u20095:00\u202fPM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "food",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=13799440545867136960",
+  "user_ratings_total": 2413,
+  "utc_offset": -240,
+  "vicinity": "334 W 46th St, New York",
+  "website": "https://www.dimsumpalace.com/",
+  "wheelchair_accessible_entrance": false
+}

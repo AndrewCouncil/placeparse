@@ -1,0 +1,423 @@
+{
+  "address_components": [
+    {
+      "long_name": "2568",
+      "short_name": "2568",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "86th Street",
+      "short_name": "86th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11214",
+      "short_name": "11214",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "4438",
+      "short_name": "4438",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">2568 86th St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11214-4438</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: Closed",
+      "Thursday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "dine_in": true,
+  "formatted_address": "2568 86th St, Brooklyn, NY 11214, USA",
+  "formatted_phone_number": "(718) 676-1868",
+  "geometry": {
+    "location": {
+      "lat": 40.5967377,
+      "lng": -73.9856271
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.59817728029149,
+        "lng": -73.98419896970849
+      },
+      "southwest": {
+        "lat": 40.5954793197085,
+        "lng": -73.98689693029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-676-1868",
+  "name": "Mtskheta Cafe",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: Closed",
+      "Thursday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 960,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111899059256302003952\">Mtskheta Cafe</a>"
+      ],
+      "photo_reference": "ATKogpe0MwbPQRUHi3wIWBgqVWt2WCrlGd91PdPRzNllvCX_wsVk5g5LKNgin1xmf5KTg0wJLbHjVTFhaTaQjVMwbG9oCnUR2FTFhXaKaKu4CwRnJ1MKy0ErUQpJday_2mRF2ItRnGgguV16q-9g2Lrn4RpiP9YG6pz30wkiFYdODG_7qPMZZv1jd0m4EJEs24h7QofxlsRTe9x0-WuD4Ki_eELSgto0LXGR_eNkc5BmL2ADBrnY3Bciu2AwPbx4j0iEUh83GdWdzulABk9hEidzmlhy8nqjPl0W599-OKuvDrpU_g",
+      "width": 720
+    },
+    {
+      "height": 989,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111899059256302003952\">Mtskheta Cafe</a>"
+      ],
+      "photo_reference": "ATKogpdEyg4_N0eAyK_J65WCJFjmM9fO9IvNE0fnab8zJ65hg-gqfhIdIm8k5-Uy4fMXnJB0jknHvoQD8iuzw9V4HfFsMk5S1YiImxlxyIF3wM2cIXpK-ZW1scaamK59oNqUmboYBPojl0Lia6OVE4Xt2uK4qNWAwIdM18dMyZ0aWYylKtnQfnERnb9tPb_vJnJl2GgBguyL4JwgZ8pCv2rC4Oq4xdsw4qx2lzuXd6Eo3BvZO79zEx1KeuCySC_kW-gOQrjHJVrwkovvk4taTR8zk2jlhKeC7zGZAHd6NisFHPc7Og",
+      "width": 1129
+    },
+    {
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103403276578104712745\">Tim Iva</a>"
+      ],
+      "photo_reference": "ATKogpdHQx7VSBJm6eart0jioR_9_F74SsF9N3fplB1wLNhqz_qkwoGG9_JMGODfhMlE_niWW5Tk6Mg2cB0GeSQKfacpLuMYcX0IC3R3Fbps08vpjkjtqGOwjmhtWgjLWjMPiPJ5US15TBSmSglbuhmSUJUU2cUN71O-le7NbdB81ZR0VMVG6ZkH6W03bvfmTDWPnw88iQOp60YsVYMwLwr2NoejS5zs-ZGuJpUj3zU8nhd6nztpNID7MbLigQg7fP7uY5uyOS17_0UVsAbxeaBh29r-UhSlZLLWwjXYZXvHIxDzyGvfnfWkOs9UcntWFuRapaXpMGQjpZpaH-m9onXu9rRgJMBco-EMEthG-KsCckmYgg9IXp14TsmvXSXvNAZSULYC6rFyG5iMg_fXWvkZGxj2MdgDBJx3xJBrP-SBR2M",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117778238796579343037\">Kate</a>"
+      ],
+      "photo_reference": "ATKogpd2MzCU5En4UPFaB2W_XXpZkKKU5HrKYKN1mX72jh7r4OfkcdUhTzI81_x4V4LtbzZddKjGf1Po0Qr3BTuS_H0U_GCAN1KinDQBrDuEeTw3S7VnRHw2IuBhkx9rwiNum3lmBBrOM5yip1C8xBzzU7UHP1Jrz4_bCuqzvi8x7TMbMauxCTzMgfpkzKol-8FNO_Dt74qYLeKGKvJ1UMmGx_2xg3CKfiu4xerUlDTWapAVAJ_oXsJkf4-EHRMJ0wNt4ArNImdZsShPM7r8MADoMf1_ulQjASwf42Z62orMkX3dzqWtNGmRwytix6vFCWAqCTKyThKdFkfVTgbpxts28MrUU0Fwal_H5M73h_iv4P2B-auTo_mb9ZQYw9BGRAiAegnvQXpUCHAnItd_sUO3Ni0egyHo0x6HvYGjB68IFVrFvdWW",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103403276578104712745\">Tim Iva</a>"
+      ],
+      "photo_reference": "ATKogpdXJqY0S21Z45ROYa-50RnZ9AiOH86uFJsLHzTjzd-fkI_9jgF3Av8cQ5vlF1gjVaA20mM7J_M3ulxmnQoSq86NF0vC0t_epw6bMkA_sFhWHFz9vB0vxwO9lWdh24qumthfo4WhSCXcGOeLXVcKPKklQd_LGwUHFRo_NnRfgTOe2bBSYY6KOCHTX4HsMfbKinANXoeIL4M-kbrv3PpLDqsrYQt6qVWbn36ia5g2GWjyMygukhWHF1Q08w4CwCILHsSoAlBMiGucHZhDjQRk7bZLB0oM58OzD4FY62c6J8dfUamSALdU-nrv3Q-ReDMDPJCCGyWcB-XdbNTybaBmUW9JRDZmyL-en_U-215BDQbgHv4fZFCEKT_GIOAhPDW0qaCM3RmViqf39WHCIkRF-2n29t0vaOmstIgssW8SLyLNHPW3",
+      "width": 2700
+    },
+    {
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103403276578104712745\">Tim Iva</a>"
+      ],
+      "photo_reference": "ATKogpeLF0ChLiEmNRRWU30A5Ccs0tlOJe93fmxz4e2s0s-RmCpvIHeM3MhDctmiQU1Ryoj2IAv2aiQtKeXn_6FXIEco0RLWXdOlqKiI-eC7E-p2OTb6CTlICj50Ixii79S_tKMS_t5B3t2velVWvZNWaIan9aLeHJ2J1L8rAkPwxqQKSV1grXS-W7EIzhrpz3k5GzTVS8Tla41lACzZ_g2YUuclZnCNl8jo5kp3s3Q63wku9sdyv3sFe16_MtYQYE3o36h3Hh5taQvTu_vFcfbot8vW2ikyUDdTuKeTDr5A2P99hBlRFCF26ysv114ZNl98hZ9Eda9YBwMU31GiXfMbyFJcMkgRadyXWXRkHuUE6mATHMxeRp4v8O5Q342Of-xusIyg71AJjnPaPJIAKYzKOvn4mK-SDt-I_B4OQcg_0AUQ8tO9",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117679829816239570467\">Lucia Di</a>"
+      ],
+      "photo_reference": "ATKogpfGZjIPyvCZkF4BNzH8sw0LJVx3h5GwvUtmPFO5KONKm4JnyktzI0-UnOIUhbS0aMEhzdourT-goci1JJpTOaSlwyBAAaeTNaJX5hCvyjyO2fBFLUI_Ohb0e-uNF1NPPBJ8Tus1mOZL-Md3kDu0M5SS4_odzFq4F6rDrsa2bOHdYJ2336MiaMjJPzhHF5dkVOI_g5TvcNlBznOAbWhVBLXRx6CxjciT_wmnazv5d1QnQRDvQMZQLrtVBI19El-IBbVNl9uWnRTHcnL-ByxUYsIBj2sAUOL5qooDXU8qF_574ezAhBknx32QNAuBekCnaMbgy9Fb1WLfL1k_xqTSgQpuEr_qFQla6xg1NGE6TaOgvcPOwVhNfnlV0SBiH7bdrlyqmdXkveq9NHPOBKbDC0F7oLuqNA1CLY8HiqtyaM4",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103403276578104712745\">Tim Iva</a>"
+      ],
+      "photo_reference": "ATKogped2l3Py07FNQ81fDs7h4OUEs2TbIEEb6_O5GLgbEa-50M9vsjG4DrE4m7OvI5NH6ofRZfLlUTgPYWeyxjBrWigwGjxfR55p5LHZU-1WzwAh5ZWz529sQQ_2v968Cotrowdf-JgVCJRwJOZWAOsyNEHj3Hiq5G60BQcfKi0XAmVO9khzu_Y17ehPLtKjkp5sZF8P7MSscOzIddiUTlblGWVy3Ecjrxi1D25U1DiNLb1LCVhZ2baYFjId9_GKbxx3-5e4BAPGuRq2VSDV4ekFY866GCIMho8P09uH7qWD7wekfjLC3OprwszmhEoauECUVmm08WCYYzMQRbuBesjdA1e-NYVDdO_KRJ-c4XfhaoL8NrTLV13G8inyPy9DDycKnAbkmz6v-5tkVIQT82bV3LRRyfkvyzNpEMVJA3P3vM",
+      "width": 2700
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103403276578104712745\">Tim Iva</a>"
+      ],
+      "photo_reference": "ATKogpeAsICCjSdkBtJBjeL5mYKCMOS0tRoNUmTmVD2dIbTG7v4QcD9jT-MejJhmNF3WO0b5qMujdOPoqMx7lmlz0_xyfNL83tSmo3YAf0yvNsbGZzubbXIltNTwRHPgQTtCGmynTFNhCbjrGotvTDuBkX9NXxquYNewkLSzLaFh14sj5GHgZvUOqhuFybpECNl-LfbZVqpZEg75H_01362sXVmBzGiRG5XFbTpDEKAIRpag7us1jP5c9cbIJVoH1eXObQaZZPDi27NkCGryMHPVz-km2t5q-KjSXiTgD2AFg_vhYsmDZpTNpJAm9E-pjLZYsqkb4ZJUCkExuaTP1rwjVyumJTT-rA5jGQX0ZYbxDE6jowUsHrPmZZi6aOhpDTIE7UH-aJyRwsdJ3NMcZ6RpBL-YO1NcsO3h5C1k3eG9-xYQaSUq",
+      "width": 2700
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108885385056253553573\">Jiang Lam</a>"
+      ],
+      "photo_reference": "ATKogpd-yPbc_feYSl5T1n6cFbD0HFvu5hEvZspv0tyFtK0mnh_yzzvxzWxs3kxSyVpTeLNRzhlQmppiL6x21Zs4MYdwlY-ORytBv0b-iW31a78NJq_7yyBfWR9aVf6NywJ8M6hqnLh0D9CjcDj20isjfVhxbjlqRqAW2QtO5aCvDB-CG7Op5E4QchlS5vlA5HPB-6oqvs12hhbuMdRgm3V2-0Ks2rc_9GON_zfKOj5miARv6jlShL4wTjl7Vr4BzEewuyhca8063QV5pXF5reaSsiY_DRjYJC1RA4k_9ZTgUtw576U93ILBjgxVsNvJfqnp3619f7-EoeG7FcLVzZAuAb6x5rPl91PA9WKtUxtShyNgFAwEucKqcfkpxwUcxv79b6VfiKIDYUzR0x-nCdKQ8w0WPSxnGzKu7DSC4wDv9jHoRHIfqJP2td-xEmxwm37u",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJT8WKg6pFwokRu5rncwZjk0c",
+  "plus_code": {
+    "compound_code": "H2W7+MP Brooklyn, NY, USA",
+    "global_code": "87G8H2W7+MP"
+  },
+  "price_level": 2,
+  "rating": 4.7,
+  "reference": "ChIJT8WKg6pFwokRu5rncwZjk0c",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Eric Tan",
+      "author_url": "https://www.google.com/maps/contrib/116630849727761312089/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKElknapq-aX_fhTkmPftsbp1IRcJ4tH3ATM8qK61vhCWqyiA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "We ordered the walnut salad, kharcho, dumplings, walnut eggplant, and fried chicken in garlic sauce.\n\nThe food was pretty good over all except for the fried chicken in garlic sauce - it was just a tad too salty for our taste.\n\nThe service was excellent. We were given excellent instructions on how to eat the dumplings because this cuisine isn't what my group was used to.\n\nWhen we ordered the dumplings it comes in 6 and we asked the server if we can get 3 regular and 3 fried and they accommodated. The service was very professional and friendly.\n\nOverall the food was good, the service was excellent and the place was clean and still playing Christmas music which isn't a negative in my book \ud83d\ude02\ud83d\ude02",
+      "time": 1736120187,
+      "translated": false
+    },
+    {
+      "author_name": "Kate",
+      "author_url": "https://www.google.com/maps/contrib/117778238796579343037/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKexYAxEdAjvkzSCfwDMy5ZPVMMJ-oQXijTZiX1-OI3v7QLnw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "10 months ago",
+      "text": "Pretty nice place for dinner and lunch.\nService is good.\nDidn\u2019t find our favorite Georgian cheese boat with egg.\nAs we were told by the manager-this restaurant is from another part of Georgia with different dishes.\nDouble check regarding the spices and salt in food.",
+      "time": 1724535347,
+      "translated": false
+    },
+    {
+      "author_name": "Daniel Burakov",
+      "author_url": "https://www.google.com/maps/contrib/110755853731267846404/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXr5GnAsfNFZ8K4GdmDhRSihlKjdWMX4REn6ECxUGuCUuRTCgjS=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "A beautiful dinning experience, well priced with massive portions great for sharing. It was my first time having Georgian food and it was delicious. The pork sausage was my favorite with the plum sauce as well as the tomato sauce. Everything was different and extremely savory. Our group had lamb soup, borscht, garlic chicken, fried and steamed soup dumpling, potatoes with mushroom, the cheese bread with extra cheese, and some complimentary sodas pear and green herbal and bread. I really enjoyed their bread. The borscht is heavy on the dill which I enjoy but a fair warning to those that don\u2019t and the garlic chicken is on the saltier side. The lamb soup is so clean tasting and delicious as well as the fillings in the dumplings. The green soda taste like absinthe or an herbal liquor without the alcohol it was a good different. The server was quick and made excellent suggestions. The establishment is elegantly decorated, quaint and clean. If I am ever around this area of Brooklyn I will definitely be revisiting and I highly recommend this place to anyone curious.",
+      "time": 1692108461,
+      "translated": false
+    },
+    {
+      "author_name": "Baya Sadgo",
+      "author_url": "https://www.google.com/maps/contrib/112337170631412256940/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFLCDIO8b4XEcbI9iXyG-7gtGPgrrDAqeO7VP_tGz0P1eU6Mc-GQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "This place has the best khinkali in New York, hands down. The food is always delicious and tastes just like home. The vibe is super friendly, and the waiters are honestly some of the nicest and most caring people you\u2019ll meet. I\u2019ve been coming here for years with my family, and it\u2019s one of our favorite spots. Highly recommend if you want real Georgian food and a warm atmosphere.",
+      "time": 1749236191,
+      "translated": false
+    },
+    {
+      "author_name": "Valeriia Plastun",
+      "author_url": "https://www.google.com/maps/contrib/110984941654252833091/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLgeXiSt8WLiT8pfO0TN3gGEqYVV4V3q010_qazW_98Sw5VZA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 weeks ago",
+      "text": "We visited this restaurant and were absolutely delighted! The cuisine is simply amazing \u2014 every dish is made with heart, and everything was incredibly delicious and flavorful. Special thanks to the staff \u2014 very polite, attentive, and welcoming, they create a truly warm atmosphere. We will definitely come back and recommend this place to our friends!",
+      "time": 1748651454,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": true,
+  "serves_brunch": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "food",
+    "cafe",
+    "restaurant",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=5157574877634861755",
+  "user_ratings_total": 547,
+  "utc_offset": -240,
+  "vicinity": "2568 86th St, Brooklyn",
+  "website": "https://www.facebook.com/Mtskheta-Cafe-196702580341113/"
+}

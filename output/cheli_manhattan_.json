@@ -1,0 +1,457 @@
+{
+  "address_components": [
+    {
+      "long_name": "19",
+      "short_name": "19",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Saint Marks Place",
+      "short_name": "St Marks Pl",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10003",
+      "short_name": "10003",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "7837",
+      "short_name": "7837",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">19 St Marks Pl</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10003-7837</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Warm venue for elevated Chinese cuisine including Longjing shrimp, braised pork belly, and smoked fish."
+  },
+  "formatted_address": "19 St Marks Pl, New York, NY 10003, USA",
+  "formatted_phone_number": "(646) 858-1866",
+  "geometry": {
+    "location": {
+      "lat": 40.729187,
+      "lng": -73.988711
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7304824302915,
+        "lng": -73.9874017197085
+      },
+      "southwest": {
+        "lat": 40.7277844697085,
+        "lng": -73.99009968029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 646-858-1866",
+  "name": "CHELI MANHATTAN \u6d59\u91cc",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107230707591929011626\">Melissa Naja</a>"
+      ],
+      "photo_reference": "ATKogpfJlYBQ_YZnah6ZXnEt90EPA1ZwgJd06BjwWiLWTbMj-9Cgn9CRHrYxxLO_pqqnuVBF3sCtcaY0PM1wrF8yxNEQGBYHGvd3nBm8n90zsnqHdyiKxh-wCOZmEHKSx-5VsvHKyY7_fnAzOMiBkQ-5A35IlrBdNPNXcIehhUZ3qeVxRe5uTiAmN_xdHIqsepr2RfeD9R7RDYnjJSp9KNSueUEeJl7iXS3bYK6FSbiPfQbOb6jTU6mlns16kwAd8LmNFAoBYuj74DuYSwDIcVhUiGkq3mDMxm8YlQ5FfFVs9pjC0yll0f1kZH7Zs-Zt1dpRU_nbeSNzRQbw7h_SuiDKdPHTsK-eQ45267rp5ZteOk4nyPGrvXYMwAM5_hGe83AIZ0f81EfYfrcxl1bbr3kGRkMUbtiveZUoXlCU05TLHnY7Og",
+      "width": 3024
+    },
+    {
+      "height": 4267,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113481296084767714037\">CHELI MANHATTAN \u6d59\u91cc</a>"
+      ],
+      "photo_reference": "ATKogpdttabMClY_2h0ZJoWq8u491-lY8BYrjhjPESembp4F8esGW_41km-l3ZG_semeg2Y1DZio6to1EWvnHyj6Gzl-skdQta1NtiPXPnyrJP4fqY4ZCcygrqFDhPTwxs6MAkdCZfKDV3KnYe_dmAW1FbwEgAimscMcfSCwmI6-FlBy2nFalSvZ37Ht-TXTLbMpMo7MJe1wSFqoZa_Z6t54JgzNWeeSW-3iJ2XT6_mYi3BF2t4k-fwWe_og26EIfiMFaPenqSBLX9dr5SuCF8QaLrb8QzB53IcwkAa0lILESmp20A",
+      "width": 4024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105145454320842521885\">Tze Low</a>"
+      ],
+      "photo_reference": "ATKogpeub9YHL5hdqp67ZkxbeT3699uzwCp1lvFn1WA_DaSeIyhvpe3WoIfyNeoij9i_-LXAF8bl8UPm3iqfR6KtD09vK3mE1d2SLFegjDH0mnuSvMx6mRMcW00VDojt9ZqcGq1tfdOvSuRtPlX1thxsBCBOx-zutYSxU0QNYLIBffwAfAnmBHU4WxRBv8ldJmML-gIWHXl6mNpa1KQTweSfYAhDWdAo4Sv0IwJyBB3CLtpmt0j6ICsSj3_ti8hM3jb1acd7CoZzC4a4lu2i0WpUAPNPawXT66X3Q3FgaZQOr9wl9lkoAHF61ma-6PLOlqziDB8p5tFuNhup1Yy3eO2eHfi7j1VsF1K2pqRU4wwfcjYEyUPgq0NthLuAiyOjVmnMxk_h-0pF4IUz8I-kifY5ZNl0N4GqqmVl9Ma3LxDGjp4oD-9M4MKePYm_rmdb3S8f",
+      "width": 3024
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105278389725057852124\">T Q</a>"
+      ],
+      "photo_reference": "ATKogpdBxqMa-9gUBkjAX3MJG8F10lvUnIgDM3gYgRWNk9Artq42MOYd939wL4XIMWGQtrjCK6Q4W0AaaDx5-hb4pOfcYlpZ0-1u0vLMdaN5bbsBKURR-lONI1Fa7WK4UCqstgUSTXsLTZyHe4-kCfG3nc4MhM4qZUwd9bYLq-mXV773LjF42WtwjbagFviWYnr0ElHUH8bgrxtxoIuF0ohHAi5udSXhJ40YuyYfVrdUIYjW6QDjKxaBb1s0ABoAqhaYmTZUjmGrzI9V04D_o5t4h3bAE2dqF4SKn4NRL11rAXzGzT-FDjPKHpC7Ah45t0IocRrQXxyJtpUAzFNHTvhDUzOLidmaTnkPqZOSz_5-Ei6npUdj55q8462HJQ2LwGrVFGH9t4-ox6A1bkLiImoAJE6xDxl2cNWgqB3EF8gwA_p8B_5y",
+      "width": 4080
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114414769227422566149\">Nannapat Soncharoen</a>"
+      ],
+      "photo_reference": "ATKogpfdqPtPzq9HFzRRSK0QiuHOOAlOQeBCEF8ukDUeXmq0-r3BaV_QaJj2XnXRfxqNCPFMEjrTdJ_0fFe_n7qPlIkiq2DFM4okn2uLEdCC1unuKx8XpMstEqBkcmefXeqgYGTX84Lm33vJ0DcorAJSFlZ-WngC0poPPPT2XpwZyOfpnPjN1PnBW5nIAzwPjps_5deNFmLCQE2TgMIAjyXLFqSmWFz5-Dp5c3MU5wsbQj3rRS336Pb2bVeMvRPsWS7GMySoyUJ6QHlm5j4fH5yY3YhmOrYCuCgLqP6xIgRrmBMGKmpmiu7j2zATNE0Ax9mab6eDfZxaXNy9OzwS2JnTkC1qnLDv_uvAbL8oZTyoaBX0mr8Nh0taayGAugbqzLBLBt8FAP16VklW-Ge8957rS_mBb5hxeP_BzkhAvFSt43pSyw2T",
+      "width": 3024
+    },
+    {
+      "height": 3212,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112686859515509695777\">Brian Lam</a>"
+      ],
+      "photo_reference": "ATKogpe8YmyK5fS3ud2Odlsjs9JqxfVfeZJqPd1XVb2rEIK_W8T8IufnMsXxo_iJTEaWTzFLJBnNSZ6IwmkYDkcKXY0VJ9lAvmHNTMOFQ_VoBnWPaWfLzXQpD32yd3IVyAmex9B_tkBejgtsJIzH6TOIl9tx08baUAquKJ5syDcMF3kYu1l8nxorCRKH7cEdGH_UFyq7oImLfjcMwVN4GjBTAcotS4iCkoE4biR1hnoA04VpKHG7kBgbgwfwnu_DMd5jPPt5XQd-W6bnmOHpOUXE5e5vxiPlDcmA280i7IkeXktkyRgvio_rfha53HxBhVEy649fqOtqeRic9KEXQoyHEL24QmWGZvvqCwvgMeTRXTHl5cX5C3VtUlxp5tK_mpubJ1-b8EtnzELrpw9pzpYXUu8-kUqSuHqdHNN0xu2FpwrHRAoE",
+      "width": 2983
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110819986315913402170\">Bj\u00f6rn Schneider</a>"
+      ],
+      "photo_reference": "ATKogpfIra_PaclpMYN0FiOBGvwid_X4tZDVNycX3XE37uE7YqBONksVviJb5VQoPSU5nmpKjSa_Rug2GRpvY0r0d2wGzEBTslmSkkTx6-o6c5xqPgGHIhjFlJo_WpUp0QHqPaRd5x7cryTNYmudsYb4bjMORE4buHxUEPTbtqZkFV2rWjZZoOkkxdrIizwy1Vs0QdE1rGb8zi0gUTm4XI02zIqmUkkFFXqyPUrSaKp1McAAdC_ZTiW1BUvFCBZHtc8ADBdbk0_f-2C4PuIoyjag7xCVts9Pd7595XPDYVIMknp3-5Wfz6CsvAfFaN51jhUPHXiuTqigheQ-DmkCNSxlkjsZRFAUEmb2jODsIkz6BF0mD8okv95RcpoVYm0dcxLd9FDTME-3K6i5XiN_7JEzW5Ms-VX_egBw4i8y3GhaUfsxvdyK",
+      "width": 4032
+    },
+    {
+      "height": 1108,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110464674015565241678\">Yasunori Aizawa</a>"
+      ],
+      "photo_reference": "ATKogpf686Lc-wuaY7dpsWchO_HNI0-39PLp1fBnZldw1bcVzHTQjmyXgRbfn0GfLl9UZf4mTphtJtlJNDBENUd4cAngyY-Sxf15MuK2We1WlZXKibRf04Xm0jla4Gy1WlXtNZRdA4_k5VlFg-VjMkqmHuKkk667t8K-g1Z8gXpNjeCBCmfRJC13xr-qtxvp6oyiS8syUdOkeZhYOKH1byKV_Rt192mB6DJGCpEVZbGrowYwNAqFvKCHRp-a9bNiTdJ1Ot2b5D8DZcuoeUJofud3EuAN-U23l5GJ_VYT4exHACR3r5GCmH0jOI4c87Qp4hOO5FbUW5ebv1C8yRuE-kHfokxgTIHGrd3v9zs37ZJz4qNB9cnY7Eal5dAKIUrX-hRGLVe2t6bKVBtbxJIfNAT4Kx9dHY1oV70RVtfMwchMYY5u9_6G",
+      "width": 1477
+    },
+    {
+      "height": 3237,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113966058396657211505\">Tse Ann</a>"
+      ],
+      "photo_reference": "ATKogpeRXnzzKK6xMbTjSHJ8kbR1-YMm9EohaKn89AMAT41ftsHbfa9dZEDIJRUX_Ev-CoWxAoXjAwtteka4yNacXr4y77jvwNntwg14stRVCo8U6Gfx3yualQj5LvkgMQAf_v3PXQskHyvuokIs6kJpSVinqQmrLYquXE5OgkFDW0Dr1qHP1gShy4NNxdJIf_2Bqw_Ztq7kBOdt7j0yuphlCiH4VClY70jMFBVs75RJi7WP9nQhE7n8so_bV8PEie25PpECpT3JuE-DuG85CQF8NvhI_cym8n0lX8IyqbpcpOdAshur6KiS71sgaI4z6jhLKV7xkiW2s4US2EYxjtx5pQTVVnBWUyrjg3fAPiQGc0NPAG7MZUzGkgGp2SDuuFDML8frMhO_TIqEvHjmxr7i_fDNUHNDdgrPQisrbKOC_zo37Oo",
+      "width": 2601
+    },
+    {
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111180726605966955778\">Anna H</a>"
+      ],
+      "photo_reference": "ATKogpeI8MqWCcbAe_qnSWnA7LHRTOjR0_OIq9wBQmaFjO_gcOoCzoYUmcuI5aZaPgIPJniLvSQzMQKMI4ez8VztBAIb8C6AEdPcOfaVPiw6By7JL-iOuQDpMhIRKm4zKAJDs4kBQRpVcXvICZPoAFc0UB6tiE5Was7owmOoUxu6BTBw3GO9zvZ3xxHZzoC7JzjroWRzvm3ziZRMIaW-Tagwz9MN7HWAgfSQB7Xg1xxOAWlMogiSkfV4swrIw2Yhzc2w-wBvJiB23zHCfRWcgHHI6sdbXRwgu3ikJ0TGRE0FGKZdpkkQPEvb-z_QYmKCLQNtiV1DgLFnGUeEKSS65I-kfFtZuffjrKw_5tM7JYKKeakZgtKzzkmavdIaenQlPUqi3rmpRDOoLC7fLRxXdCa5vVA5GaB6aQt__LbIOtmivyqKgqZo",
+      "width": 1578
+    }
+  ],
+  "place_id": "ChIJn7k4jxlZwokRhDkNH9383-o",
+  "plus_code": {
+    "compound_code": "P2H6+MG New York, NY, USA",
+    "global_code": "87G8P2H6+MG"
+  },
+  "price_level": 2,
+  "rating": 4.5,
+  "reference": "ChIJn7k4jxlZwokRhDkNH9383-o",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "J C (61)",
+      "author_url": "https://www.google.com/maps/contrib/104412749952095870141/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9XohAZXEGA0DQrVyKCIgLJGG3eQw6OTrmTTcjv-EcWMUQ9bHW5A=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "No wonder it\u2019s Michelin-recommended! The interior is beautiful, with a nostalgic Chinese charm, and the service was excellent. Every detail\u2014from the menu to the teaware and plating\u2014was refined and thoughtful.\n\nOur favorite dish was the spicy pork kidney\u2014tender, flavorful, and served with bean sprouts that gave it a perfect crunch. The shrimp was another standout, especially with their vinegary dipping sauce\u2014fresh and appetizing.\n\nThe mushroom rice was aromatic, with crispy rice bits at the bottom. We also tried the braised pork, which was rich and satisfying. The soup dumplings were more on the average side, but overall, nearly every dish surprised and delighted us. We\u2019ll definitely be back!",
+      "time": 1747107582,
+      "translated": false
+    },
+    {
+      "author_name": "Paul Cheong",
+      "author_url": "https://www.google.com/maps/contrib/107760199989401025038/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUgocJrP5Pmq-aNmb0HfiBnD_7i6ADN9eq7k2cBQdOiMZAHfmLfcA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "2 weeks ago",
+      "text": "Food was mostly great. The fish stew, the pork belly, the mushroom braised rice and the soup dumplings were all amazing. But the duck was really bad. Very dry. It was weird because everything else was so good.\n\nThe vibe was chill. They have booth seats set up on the side and that's where we were seated. But since the back support we had was shared with the booth behind us, and the support was loose and moving back and forth, it made for an unpleasant experience.",
+      "time": 1749562217,
+      "translated": false
+    },
+    {
+      "author_name": "Bella Lu",
+      "author_url": "https://www.google.com/maps/contrib/113204155917057274491/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWh01CsXyRrhSgopoKIp7L5GbPpLDcAXbCiMcT3Fph-UlWrCHGd=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "My visit to Che Li was an unforgettable journey into the heart of authentic Chinese cuisine. From the very first dish, the Smoked Fish with osmanthus and thick braising sauce, I knew I was in for a treat. The Longjing Shrimp was another standout, with tender poached shrimp enveloped in a delicate tea sauce that was both innovative and delicious. However, the real showstopper was the Flaming Beggar\u2019s Chicken, smoked chicken stuffed and wrapped in lotus leaves, then encased in flour clay. The presentation was dramatic, and the chicken was succulent and full of flavor.\n\nThe sides and desserts were equally impressive. The Stir-Fried String Beans were nicely spiced, offering a good kick. The Salted Ham Rice with mixed vegetables was a comforting dish, and the Jasmine Milk Pudding and Green Tea Milky Rice Cake were the perfect end to the meal, being both light and satisfying. Drinks like the Milk Tea with Yellow Wine and Osmanthus Rice Wine were innovative and complemented the meal wonderfully.\n\nChe Li is more than just a restaurant; it\u2019s an experience that showcases the depth and breadth of Chinese culinary traditions with a modern twist. Highly recommended for anyone looking to explore the best of what Chinese cuisine has to offer!",
+      "time": 1742507107,
+      "translated": false
+    },
+    {
+      "author_name": "amoguna",
+      "author_url": "https://www.google.com/maps/contrib/110145452800706941860/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJRcXNTjd3Dnlzs8aM3eSGU1UYDE24taCwFWjR9z4-8Jq-N-g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Wonderful dinner with a wonderful server KENNY.\nFood was amazing. You MUST try Braised Pork Belly and Spicy Crispy Pork Knuckles. Kenny was caring and attentive. I would come back because of him. Very sweet guy. Thank you!",
+      "time": 1746842996,
+      "translated": false
+    },
+    {
+      "author_name": "Sapphira Bella",
+      "author_url": "https://www.google.com/maps/contrib/106562632122231279000/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIjxIL7x-_1oD2XRL-YnxAiVHaKJyZPjbMWIGy85Gj1uN8AAw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "2 weeks ago",
+      "text": "We came for dinner because it is in the Michelin Guide- for such a high rating it leaves much to be desired. We ordered the sticky rice cakes, mapo tofu, kung pao chicken and beef with pepper. The kung pao was the WORST. The flavors were horrible, tasted like someone put ketchup and Bbq in the sauce and it had PINEAPPLE IN IT!!! This is not an authentic restaurant. Mapo tofu was OK but no peppercorn. Overall the food was very MEH. If you want to enjoy a good meal maybe the place next door is better as this place is expensive and overrated.",
+      "time": 1749656325,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "point_of_interest",
+    "establishment",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=16924523951320545668",
+  "user_ratings_total": 1228,
+  "utc_offset": -240,
+  "vicinity": "19 St Marks Pl, New York",
+  "website": "http://www.che-li.com/",
+  "wheelchair_accessible_entrance": true
+}

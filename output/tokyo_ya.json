@@ -1,0 +1,549 @@
+{
+  "address_components": [
+    {
+      "long_name": "36-06",
+      "short_name": "36-06",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Ditmars Boulevard",
+      "short_name": "Ditmars Blvd",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Astoria",
+      "short_name": "Astoria",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11105",
+      "short_name": "11105",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">36-06 Ditmars Blvd</span>, <span class=\"locality\">Astoria</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11105</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u200910:30\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u200910:30\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u200910:30\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u200910:30\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200911:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "36-06 Ditmars Blvd, Astoria, NY 11105, USA",
+  "formatted_phone_number": "(718) 777-8889",
+  "geometry": {
+    "location": {
+      "lat": 40.7740363,
+      "lng": -73.9081678
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7754660302915,
+        "lng": -73.9067092197085
+      },
+      "southwest": {
+        "lat": 40.7727680697085,
+        "lng": -73.90940718029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-777-8889",
+  "name": "Tokyo Ya",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u200910:30\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u200910:30\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u200910:30\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u200910:30\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200911:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114164352970981504289\">Tokyo Ya</a>"
+      ],
+      "photo_reference": "ATKogpdyiD8d1rVCAPgieu5noVE4Nr3c6YhOz4t_Vcd8L31cjCGqt1lJNO8foT13IDznz_WD6kAE9k6YzF6D28p2CZSd0X8FXdtrVsS7FN0Oij5KfPGziA8zPZjFmkkr2BRPXBQxPMi6qynb4PTa4fjSLHm5KTvjJOTkaD5tv2Hb52bW8oMmZPhMx1bg9OrXgPnVJPBdUmQeOX5WwJG0eDKREfYjRF9UuAm4Gmukz2I_fLzVdRxVS8OpqNoKX4uniO_deRP2UVXZ5wtYcb-IhbIRL3GnPFfrl50w0Q-89q8AH_RarA",
+      "width": 4800
+    },
+    {
+      "height": 1250,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114164352970981504289\">Tokyo Ya</a>"
+      ],
+      "photo_reference": "ATKogpdViQgO5jG2B_qIWXU-GHPVgVwCatZtExTO5RKn66hh46oAvd27tj-TKRmEpFMRFx0EzH-Me_m4ddW3G4raTP7QtvhweFKHSAgQ3So4pVPNHk5Ntndg-HfCSVSSrVHVgglXaeO_6FjrZ3yH-u_TasBBim44VxQ0xC7Y0BKAJGhhDpqHXnEOETcMyHTpbVwVJjcLLga0sp-SCIITHTkctXmyDhAGpw3OpVeTYXMcTCkagy_QuHZ9IUfWYopLoIzN28dlYdebj1AippYv-URSPYNQUxd7hcCycezO98oLAk_jOQ",
+      "width": 1882
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103395657343363874522\">Aria Salvatore</a>"
+      ],
+      "photo_reference": "ATKogpdGwaIcK4GmGtOJCOvVVMv9ff929Hya_fYzWlJhCynP1hZmFfR-aa8fDzkkWKQ2UZGBPZpHCkLX2ptKrlD52xNp3krcxof3Jn2RDop373uKN5MrS8Fbt5JpCa8rPw0Cluh9ygbBsdJsDB3r9XqfK052bhHqqsGpcA7MW0CqfeOfXY01bfPnwkXMWZN_P7DB0xwpjG5t7hyUqNmlSJTrEf22TOqDOhNmm3A77wTS4Roi7RsKmn9CLe9F6SaFG7SifRZm_KVPNK3RlgROoVbACOGOR_zq214P6K1zVzPTijneKjLgV_2n6NeQMkgARt-Q_nFavyw7zjU5vqa3HqZIHe4p8th5ED9RN_ly7CkkBepRbEmVP4k9njVz3mpC6uwLPg9EiRFjIQBGF8HuX1dl353Zy6wEW0t03_AIjqNM2O4",
+      "width": 4032
+    },
+    {
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114164352970981504289\">Tokyo Ya</a>"
+      ],
+      "photo_reference": "ATKogpcNpl_o1106j0m1_jZj_-IWc-9fYDk-Cqd3NyHGaybUo1M4FHpPj9uNNEzdmj8Oafi4qcf8lYvaNnF3AxEqHzY9KVFDlDToGtzNTaTdTX-pxa6TkrfUFZV10f3WQ973kgBQA3j-qO2jTVGJ0d5ISgoDj5oWGBZRgQZdeM3J3zcXDVu5bDDB1oqT8i-aAKHn5tEYHNxYY8kOhFQ0Mdcbrx09QWMxrR7uO5n_e1ceZomgo8jM0c7yVIqk6ooX2ZRhl9AJ_sAecVgSKu1d6BA9OokmxkqtaYjdLSW0ZGxelbyFBw",
+      "width": 1080
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115733207201221619730\">Zibin Zhen</a>"
+      ],
+      "photo_reference": "ATKogpd73heRz1bvKULFIrkAuO9vK79cn4EWHRgqfLhn-oOiGzwCpjl6Ndk6l9MObA7g5P-HfKC7zauP5X-AZdDX-iUDcNGEmHjo5ycn3f8aTs3ujRXvDeWjpvVIZEejOER-MWyc3Y1DsDfbty7BQMiLMYYIQHcx4U8BLbJj2UKQQlQO9GMq8soYw32TLGRDKluhaWYEMB8XFdIuLrZqD05eW6cVSWfpWe2dqXIiySp61mzeH57pJvgRoudkC4mGQgCqpQrmKqH92btyD14G-JDDMicZNXOpDvb6oacfKCMaZfkkg9_MEsu0xUG7NYV1MzTcNh_rGyZZVggAFewD3urgtYag4-qSyGhPIR5bJ6J_GBoJ4nYR3hc4Bqm8dWokeCo7yScNp1zz7ESf6Sr9_hn9R-aufBTqQcl4Na3RkiQo6zlSbg",
+      "width": 3024
+    },
+    {
+      "height": 3652,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102868016629340803791\">Emily Friedman</a>"
+      ],
+      "photo_reference": "ATKogpdVf85SyTK9XkWI3SKIHb-3gzHTxU3Zwvj4uUJq4fxGCnJIyYRtjV8uT-MPuiDHor4cdiBNfigi3sl1fREjYC4iqPcwghFVFWUyXHJMluel6w_EJl19YIlXBX1p8L8BKosnT5lYN05Ps11LtoIEM28m9qoUSiGtGaxKkD0ixm0UEeTNb5iUEXkqex2LEmwiziL_b54T4YGavKYMD3WDsGWaI3D6yjwJXIXzqcMJUGGW_Oa8rPqBq82sQTHrJi40cQyd7zq-SGM33vhcJ65SBdYvuM6BGmBfj9JyZiwWu4njeJEeK02EB_xprlivk5WuVxOTxrUrbTd81Nbu_8LAxxxaHG2GtpfTCpDDa5Bif8R4pyOERFf7hAjrRQBZ_zyeMM9MD6EEsGzfOCtm29VkoHWoV0JJLKCHC0R73qEPT9c57Frm",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111069795070771480860\">CLAIRE LESUEUR</a>"
+      ],
+      "photo_reference": "ATKogpfid1LYV9nO-92ni7U362TXKyMSAcmQ0mTIzvwKDWti-hETpiAR7PInFsKhKc9agSDfvi5Yls-gVqH0FxFqwo0oceTGJBzDI2SnGBG0gC-K6GHuf2LMXIRpyFFg1px-_est-cySshhtKKXSPs9xKFZyjMNxBl62MeCQMxAEITrk9BSwo-6LzE1sMa5FHupuHvxD4yUsqMzYEYQL3RoxBKnQCZehZPetOaqS280ACABTYTBKd-rNlYZaL2vJX2_3ytkI7uL-wTdlx_0VKw0ZHVZXYFFLtmPj5CMJ8-rdDBpWj54EXMBjHu8HmNa3YtriZjXH9jy3OAAd3JXBA6vmUuVWsUcY19WqqFeMPUlqJcfFJ15V6PLp7Gb_uonxr-XiAt0SDQTyYkSzCpPSjpEGgGTaeNWI5EYPst0tEGTSR_kYCQch",
+      "width": 3600
+    },
+    {
+      "height": 355,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114164352970981504289\">Tokyo Ya</a>"
+      ],
+      "photo_reference": "ATKogpdMyPUZKPYalnhgnK0477rA_qd3WJHOMRY4jfo1zrNsz9B8mjxHwBA6tx43GT6_WJVhXqpvo9epZnGtVnomzbpnXVreK_AkshUJQar4iYqRB1hReKjR7mdr-tjFqtFQEEEED-hJOiX_dwkpuNkDOCW-hA334GgdNMgIwjBPB3E2PUebzCqWgt0aAoa59plRrpMoHXYP68sp94OmL6s7UU_48mfFc7QQuCXuNWrBDCg4naioamWPRsmk4fb8yGNyOULbIk8nQESjYXcGb7CO4rqjL5ZDhpzFVWcz84Juzw7pUQ",
+      "width": 602
+    },
+    {
+      "height": 2557,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117315523266006779052\">Mami Higa</a>"
+      ],
+      "photo_reference": "ATKogpde4q3BNy2Ic1GCjtNVL4BTaZjBHWJwcZHBcO3bfo--ppSsLMMKOHUyjUFOAzwYaMbxWP0Tk_rTcF4PubazuH9yXfhGZDU6Z-KxJThRqNmfBl0UJXwbrWD86GiiSbgl2rAIatw8EtQ4Mp1P9qjHlKeTUQON-juwAn08GGayjZec3OOM3Gm1bS8giLUDdOtg0XB12QSmYbBrOTtJKebDE1H08SW4hyLcWnYDsY3zOx6XnzEP6-khQ6VThcbecEU8rXKgfy2ZaPr61xKTIYu0Yv1-wK1vu9lARbuyaQ3HreS0ssOh5W7KokRSI3ezVFi1JNL7MXcbni48RMvbOucW2VFKcXaNGlVqSiS1_T3tnYH1ZZ-WE6gSwYO7RYUdlTT_MH-9I_euuLtOJHzCSuFBvyN3WEiPb7nwKLX1Po8FJcrYKYae",
+      "width": 3409
+    },
+    {
+      "height": 2160,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114164352970981504289\">Tokyo Ya</a>"
+      ],
+      "photo_reference": "ATKogpftdu6kQ_-sQYmMKnC6tPoxYu2LV2VV4atLPDRnEZ--nLcd4yLYbZbSIzTMEuhl61CUXOwVvmKzKN6XA7OT3rK9pAE6Kq-v1hanreJl4tFzScEPZJpGPbi6K5vLS5EZlWJSbwOV2g-ij4T-m4sNit2Cuj4qylKb7leygtO9d9m5k8vcifii99ErmaKds7VnCjlGlP0MkpoZZnywl54krBcmygDZ3atAPoNZqsXYEW51cQU8K_Zx68_GDUT1Y-ZF71AJssQMkCxeQYxleFsD8mpu2F0iOYVrHqUwn3rNWkvuUg",
+      "width": 3840
+    }
+  ],
+  "place_id": "ChIJAxwnU2BfwokR3rwo_uhZnx8",
+  "plus_code": {
+    "compound_code": "Q3FR+JP Astoria, Queens, NY, USA",
+    "global_code": "87G8Q3FR+JP"
+  },
+  "price_level": 2,
+  "rating": 4.3,
+  "reference": "ChIJAxwnU2BfwokR3rwo_uhZnx8",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Cindy Vu",
+      "author_url": "https://www.google.com/maps/contrib/103231806225770009737/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVedGy_NFbUqoDWK8BeT6vkT49tPUtTDLFSXk--5FQ_zR1Ls0YQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "a week ago",
+      "text": "food was good, nothing crazy but we love that it\u2019s ayce for $35 dinner and for the variety they had it felt pretty worth it. if you go during lunch it\u2019s $25 (and in this economy we can\u2019t complain). food came out fairly quick and the servers were really friendly. it wasn\u2019t crazy packed and we went around 6 when it was dinner.",
+      "time": 1749947372,
+      "translated": false
+    },
+    {
+      "author_name": "kihaen",
+      "author_url": "https://www.google.com/maps/contrib/110126298015936263431/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlDFsA5YO2C_qU7OaGKjqKgTBH7KG787RzpiPwvG4o52v8KAGY=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "We got the 25$ all you can eat, and first thing we noticed here is that sashimi was in the buffet. Which is already rare, but also the sushi and appetizers here were delicious. Rice was well seasoned with rice vinegar not too cold. Even fish roe was available. One of the better deals when it comes to sushi AYCE",
+      "time": 1749841463,
+      "translated": false
+    },
+    {
+      "author_name": "Jesse Yuan",
+      "author_url": "https://www.google.com/maps/contrib/107151196602471892701/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUaGciavbxCPFvSAYJKtogLkQy9e2JEoLBDpe7MHoWkeQAHefzS=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "By far best AYCE \ud83c\udf63 in all of Queens. Price is similar to all others at Max weekend price of $34.99 per person however you\u2019re not limited to just sushi but instead sashimi in all cuts. Also included are all the kitchen appetizers, noodles, fried rice, niche items, and dessert.\n\nRestaurant is not too big and it does get crowded during peak hours but that\u2019s also a sign of great food and great service.\n\nBit out-of-the-way in Astoria but well worth the trip if you\u2019re into sushi.",
+      "time": 1747613162,
+      "translated": false
+    },
+    {
+      "author_name": "CLAIRE LESUEUR",
+      "author_url": "https://www.google.com/maps/contrib/111069795070771480860/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRTF0Gu-KX8GnbsAZnGJ2O79Vm5E36q6YvIh6D2zMu3wtORIo=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "By far this quaint Japanese restaurant is the best value for all you can eat Sushi. The quality of the ingredients as well as their freshness make it to the top of my favorites places to go for a special night. It was a last minute decision and we did not regret it. My Chef of a husband is hard to please and when he kept re-ordering it means  it is more than really good! Our diner was early on a snowy Sunday and we got there just on time to get the last table. Try it out you won\u2019t get disappointed!!! The sushis are so flavorful!!!",
+      "time": 1738546707,
+      "translated": false
+    },
+    {
+      "author_name": "Josh Cooper",
+      "author_url": "https://www.google.com/maps/contrib/116075788913382284113/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLaz1NauLO-4LC2eYmLqTxZR3Oi8ojUPAh9p4zejhZ2kdViMyk=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "This was a great experience for all you can eat sushi! I thought the sushi was really good and the hot food was also delicious. Overall, the restaurant was pretty clean and provided good vibes. I\u2019ll definitely be back again!",
+      "time": 1749067550,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "type": "DELIVERY",
+      "weekday_text": [
+        "Monday: 12:00\u2009\u2013\u200910:30\u202fPM",
+        "Tuesday: 12:00\u2009\u2013\u200910:30\u202fPM",
+        "Wednesday: 12:00\u2009\u2013\u200910:30\u202fPM",
+        "Thursday: 12:00\u2009\u2013\u200910:30\u202fPM",
+        "Friday: 12:00\u2009\u2013\u200911:00\u202fPM",
+        "Saturday: 12:00\u2009\u2013\u200911:00\u202fPM",
+        "Sunday: 12:00\u2009\u2013\u200911:00\u202fPM"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2278638793704127710",
+  "user_ratings_total": 284,
+  "utc_offset": -240,
+  "vicinity": "36-06 Ditmars Blvd, Astoria",
+  "website": "https://www.tokyoyaastoria.com/"
+}

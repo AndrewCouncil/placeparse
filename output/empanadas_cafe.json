@@ -1,0 +1,454 @@
+{
+  "address_components": [
+    {
+      "long_name": "5627",
+      "short_name": "5627",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Van Doren Street",
+      "short_name": "Van Doren St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Corona",
+      "short_name": "Corona",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality_level_1",
+        "political",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11368",
+      "short_name": "11368",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">5627 Van Doren St</span>, <span class=\"locality\">Corona</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11368</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Small, buzzy Latin American cafe stuffing empanadas with a unique array of savory & sweet fillings."
+  },
+  "formatted_address": "5627 Van Doren St, Corona, NY 11368, USA",
+  "formatted_phone_number": "(718) 592-7288",
+  "geometry": {
+    "location": {
+      "lat": 40.7402328,
+      "lng": -73.8531986
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7415467802915,
+        "lng": -73.8518739197085
+      },
+      "southwest": {
+        "lat": 40.7388488197085,
+        "lng": -73.8545718802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-592-7288",
+  "name": "Empanadas Cafe",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1253,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104232462017625634648\">Empanadas Cafe</a>"
+      ],
+      "photo_reference": "ATKogpfCn0XmGy-eFwNEoODn58bOI2zr32vV-h3Ty0B_2OTD7lz_U1GKdz6JXMwUku7QqyACsRIwX7u1BCgnJdFJGceZrB0Au2kzofgsJC2Ggl9ZsOigyKk4OpY7lzw9ircO6YeuA6l5QX_0B-jpRrR_tYBLHK3Pzgj7sBDkMgnkM5QUBQJzhmx4sSTOTrXZvoWYx52Q123WXpkRhCxnmQYmEJ7-8dDi1Lf3XnQMRPsBrCI6aL0LYe8eiKYMEcd7-Bo4o5eIYZrJ2Mq4rGzCVMWNjoVZWCgWSv3Bwsl86opWrz4P8A",
+      "width": 1242
+    },
+    {
+      "height": 543,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104232462017625634648\">Empanadas Cafe</a>"
+      ],
+      "photo_reference": "ATKogpfv1OvdhJ_AEyDkg5k6YbJJyeS6ZWOf_5I-5c6gA8vvld7NGcvaBJz6I6cH2LyBZwf5X-Rzjt6SK7qkTBGpKG-ostJ32AqUD_zNN2EzS-Sp6KtBYXmb1enzZWexFMvg2199DoIwuqRAVff0duPS41G9dXp7udJIAIdXUpMfN8HQkKIxRdnkRam1lV_8zZP0Hmo97BNdpkUJngqcj9x-ePLxd_0vsNmmsLmh2aZTEXFwGWYCVNxj6QpJ0Veur4AnvgBPbMEZHwp4LY5ShJ6eAAJ-rxPWJ73wC1PVHPrnnsnZSg",
+      "width": 966
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112033236948812333041\">Connie Kwok</a>"
+      ],
+      "photo_reference": "ATKogpegVt4eY8oL7nKQzrW6CJ-rZUMJhYNIR-JrDXaS6U6q0LBEmtkEy8STJ-pTfEERHIn_HeC8GThSTqLX0h9DNrf8IUFrXht5SWABSQEeX8vp9LsCOc4smTiMKgxYpjGWIhx4rU9DZlFm4itoNroEaawEL2uaRGvyDt5U2NZWqYXu6WqKh9O0rLEKoXRpjhhwcCQnWoyLna3h_wNPzuhWRBmG6AuWS53HMMpP3fyyQLl0kYbbFrJo7zuA7AZ_9Ev8oyV06SJoTe1nfCmdG0DPsoCSeHkoiXesIYiUQ77jteo8vdA2TC7HW72lYoJwKsxpkB4LlqmnX16BZvt6oZufs_W6J3RTRgfKvQXQ1ZBuQIBOhzAPwKtsgbBFXL2CWUfcax6QK9vk9T2f6Z_iQuW47tqMr18pLzfpm5i5VmIjBYJD4l-2",
+      "width": 4032
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105084343905677721112\">Namitha Srinath</a>"
+      ],
+      "photo_reference": "ATKogpf4FLiSulq1KVdZctR5uYUEHUOiP5eeU1UP7FgwEz1zpFM2lBCoDCTGXiLX5K8IZFGFA7_JtZyikyRHCAa8JLlzEyhzrd_IEK4KqglsuqGpDGibL4qTt0wD_mFCOURMVcJ_BzNtdFEfaE7qISxIpZ9lMnyWlJvGJK-aBfTGMvyIlxpdagp12tVk53egQq-_9LkvAWcTOzk-BsPHSNOnmp0vlS4r0tjV-3lPlgHvX-hWLHg0cwWwvaxFQ3l8-aesu98seznaBWzgLPmnEztj8Rik9khIvrbK92k61_lAefK0lniKYW7tIC_O4Wr97n5M7VlX-9W0NWJhFaxyLECpnH9KEoAssGaxOqjanfcUhRvJmRf7Ao40RgBTAcaH9QgPJA9iMwbXPl6k8BQUr6DeOGS7Nmq9L_gTsF4lntY2waKOCg",
+      "width": 3000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117294389995214979531\">Jay Garcia Murillo</a>"
+      ],
+      "photo_reference": "ATKogpfRoW4x22hPp9saUjXG879kA4F5CA-BJBgxMJCS73PtmcOkV_KKLFG41g0XyylcZlyx4PxZYEz0DMiF_JXD_Jw0oa4kWJxVKp6lxXa8Z35RIfjtbCDZ2DVwamuHtlL08KZqO65AAl1jrBXcaN776gTYagL170eEvZDmPiTLKPjNrV3iogpAZwRuXDpNTjd6UL3NhyCB1a2vHKJ0KZSb3tyLLOUVhPqujxHRLMSymIJuDulBlI3Nm8d-sB9c70BZ4x6pEw3kTRlRiKXhXD-Fd-N4jPmTRWhSCTR0HLHsCnYu-JklIDE7vbIcolrcPL45iNqlvjL5-TgSHgzDqQ7ZGAxD2Osh1qzLCQsbZKrPaSSOyzzHveYdUWBo906M_s5MXvem6gHQfhobvC8iPbKSRMw9BS9kGmOPu5P5icW6qNeYwbUt",
+      "width": 3024
+    },
+    {
+      "height": 1332,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104232462017625634648\">Empanadas Cafe</a>"
+      ],
+      "photo_reference": "ATKogpcvDnLvz3hkxdca2PwWhSfDi0vsZEgngsQeFpih2lVCI5ZDl5yXXPW17_KmVIR-4LhPyD3QHvYlwP033RkoA1D1gGy0j6z4HjiExpO7om1khmEPQM17DXoZxU6bugCWBpEN2EY5YN0Eq_Ap8NDEzY-Y4A9jRw2zzlpfibY-GrQ33b3yDuhgtFedJmPkAqKpY1LGQSwtx6Hqp18EW6WMV201n327P08gCaGDD3By29HZyBHAGQGC_2Lyf7K-wQdtRcEXzTAQHLWUR3sDCJX7b2voZ6cSsE9CHPx46tr3HjL8wg",
+      "width": 1290
+    },
+    {
+      "height": 4707,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104232462017625634648\">Empanadas Cafe</a>"
+      ],
+      "photo_reference": "ATKogpf3rXWAq-dnYMKaq9ze_dxSjJlhfpQev3QlhHRW17CKhu8Am0dcmzP1GBv54Hfva3jAH9EtSchtlQiloy4j2yxabf8MCVlLAzCdrU6v_SVp7lBc78bnx0arnXsKehK_vPtCYOyX7MiDmDtPSGgppMDNzL5P3IZbzief6DWR13hcIKp68CgIcpbScdi6iWrtRWM4wnfCfA9U7lPj-F-RLxTq9ZyeP7WZQw24uG6axhdmCQ05iAnWsxvipn1RG7P2hKTHJ_dXNVtVAvCmVq584UQh5JmRMNTQtPAtD-uto-BPXg",
+      "width": 3870
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105084343905677721112\">Namitha Srinath</a>"
+      ],
+      "photo_reference": "ATKogpe0KDlfJ0ermhPTLdujSQqEM0T7jBRDrLOfrf26zhTQo32kLjeGLzyvcRiwOb6gppDp1BJkXIIcnBGT0IYWls8GYi5j-bpxcjnAX3o3v41hv5mQ8ySFBdg6SgN-zD6RCeBWGdOE8z0d0pC7g96dZDGcilHCg5Qm1nyO34iVlMNN07LF1Kg1TbcDkik1WHOViXQ7wNXjwQIJ3FCKOO16-6tm4QlwSJDu3Qe-4ivwFfacPmAY7n8IuUO92Gq3sXI2B0-WAZPKdxMMZVLTtxHtmYmIvinlCFoQiwvDfIhISmo0DKjmKLFOp3Mx-IMtSga0YG_omUQG8TR1z-eKUlhekuv1V4R4zSLXgGx6eypfD3pBTIZOXfjEU-8taBLgDTZk_-VPia3M8TL3rUbCWgVdn8OzATHBiw75EAzGXwfp3vV0QA",
+      "width": 4000
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103850296877658175984\">Daniel Hardjono</a>"
+      ],
+      "photo_reference": "ATKogpf98dLMHhc-u2dKHcH7UzyYm1l1d1--ky3qEPuxsrMEhNCKn4sgC_6SdpXg57L7k7FL0npzwHBX_rUrLaawH0vk4fFcQQp05UxY7yOMxC1LeN40oYN8MeWp2OBkVI1ADGI7IiFVj2vD5VvzOKrx7vO9fmi8AyCUCRg-trFOGMgPd5736OQSj6lQyB30O4O_8zWuMGuhiWcq9TziK6CwpaVC0VBGoaKh8PR8iX5JrvV1MAi3fL72pg9Y60xhVwggY942A23g2TjvV9KVmZO3QRpnKH3FCCTPhVO7Es_NeniXFscJ2s_UEy_vhXmMYHqZ1wQ8OsxVTzaYxDVDlYbW_sTLUqJcYAikRLpmvWccT4LGt7ktJ81Xov3-xTKqMd2V7umjxncGK5-8haGzlcmEQh8uieJ52re4Ar0W7MTEoP-Ncw",
+      "width": 3072
+    },
+    {
+      "height": 2296,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103990711639146109883\">Thomas Overmiller</a>"
+      ],
+      "photo_reference": "ATKogpe7Zb3k1ZuuFHv7qJmoNvDQlACAyERAJw2diMUW8r6UO7DCLvOyztD3Rm406ZHqjMnFHKkgqr5A5N_Qi0gj4H0shBBDbdAR3Epl4YZGqvlNOgx26sIS-OCq-L6Irm20wRMcxJ2UJxJ0rwlK5-VOl6M803fDpubwajkstyvHp7qhYuJshmjOfUWcu6rzAG885nju_Tefc7dW4tV8zWcA2WXXQA7RXRGmzOQHvjYvM8iVqYTaHYaNgc0UsQ0iUdb-5PJvszIzL9QHwdKhOxIHzY4YA9ZrP-VQAmW1Yj_wH4I8fE8PBsDdgJ286cS-giFzq3k4RJeDc1hPeJsJWsaUs45WHIFLhBQ9yLd3cOD6FaJRlhebNG2v1I6hJCpsGxQURO-DCeJXjMDCrJAH8ANyrhImhUu6epj3I7ftSKo3WZEl7g",
+      "width": 4080
+    }
+  ],
+  "place_id": "ChIJJyc8c9JfwokRv5fvVApxk0M",
+  "plus_code": {
+    "compound_code": "P4RW+3P Corona, Queens, NY, USA",
+    "global_code": "87G8P4RW+3P"
+  },
+  "price_level": 1,
+  "rating": 4.6,
+  "reference": "ChIJJyc8c9JfwokRv5fvVApxk0M",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Jay Garcia Murillo",
+      "author_url": "https://www.google.com/maps/contrib/117294389995214979531/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVLPWJY56EWh32-g6j20hXo_rCjvkKKRepHFPYeKiisbJGRHSPi=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "3 months ago",
+      "text": "Well this place has been open for years. They can do better for the public . Now you can\u2019t even sit Inside and the place has an outside speaker service .  Took like 45min to get our empanadas. 3 total and 1 coffee. And price was a little overpriced for empanadas. The service to public is not very kind. Be ready to wait!!!!!",
+      "time": 1741816375,
+      "translated": false
+    },
+    {
+      "author_name": "Connie Kwok",
+      "author_url": "https://www.google.com/maps/contrib/112033236948812333041/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUev-g-uZKcEm6Bl054nhbVBVsusTbOmHOCPCKtv_USlHVv-l88PQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "7 months ago",
+      "text": "We came here after a visit from the Queens Zoo and enjoyed our first visit here! It's too bad there are so tables to sit at, just a couple side benches and a tall table. Oh well, we liked the flour ones the best, the beef is a classic, and my fave, the ham and cheese reminded me of too much of a hot pocket, but we enjoyed the chicken/potato, and sweet plantains. The homemade sauces are excellent! If you're in the area, stop here and enjoy!",
+      "time": 1731789586,
+      "translated": false
+    },
+    {
+      "author_name": "Karen Chavez",
+      "author_url": "https://www.google.com/maps/contrib/101273981416177101460/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX67Q4y-5XSJwhDaEWJY-r5w5t2syNeqM_lP7yu3EpU4bRqgf0G=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "3 months ago",
+      "text": "I'm not very impressed. The cheese empanada was sad. Hardly any cheese at all. The beef one was filled right, but the taste was nothing out of this world. Ham & cheese and beef & potato were OK. We ordered 7 empanadas and got 3 sauces. 1 sauce for every 2 empanadas, I guess the 7th empanada didn't count for extra sauce, so we had to pay an extra dollar. Also, at $26, I found it to be a bit expensive for empanadas, especially when you have to stand on the street to eat them.",
+      "time": 1742352302,
+      "translated": false
+    },
+    {
+      "author_name": "Hsin Yi Wei",
+      "author_url": "https://www.google.com/maps/contrib/110868603367525416287/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV6wyeQS3qqWofS2K8cOSTQ-fPNujyB-n3f8KlZVfySBQ9GOBek=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "12 months ago",
+      "text": "Empanadas Cafe has been on our bucket list for a while. It came to my mind this morning randomly and decided to give it a try to fulfill my craving. We got 6 empanadas with different flavors across different layers.\n\nThere are 4 different flours: Corn, White Corn, White and Whole Grain. I personally love the thin & crispy corn flour and my roommate preferred the classic white flour. They serve various filling options and we had difficulty deciding what to buy. Our favorites were the flavorful Breakfast and refreshing Hawaiian.",
+      "time": 1719634732,
+      "translated": false
+    },
+    {
+      "author_name": "Mr Josh Rains",
+      "author_url": "https://www.google.com/maps/contrib/101672527869527925002/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUe-gUd_3BkaAbla8MH_Dv-vbA3kn_EDmS_NcBhalhljrsYaJ6k6w=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "This little spot packs a punch with good food. We ordered the chicken empanadas and the beef potatoes with a coffee. Chicken was good yet the beef is by far the best. The green sauce tasted so fresh and wasn\u2019t too spicy. The coffee was decent yet I can\u2019t fault them for that with the food that good. I have to say with how small that location is they have figured out a way to have a place for more than just a few people to eat with standing tables and benches. Lastly, the staff is super friendly. I don\u2019t speak Spanish and they were able to work with me. They have a huge amount of pride for Queens and appreciated my Queens shirt I was reppin.",
+      "time": 1718053169,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "meal_takeaway",
+    "restaurant",
+    "establishment",
+    "food",
+    "cafe"
+  ],
+  "url": "https://maps.google.com/?cid=4869359911306237887",
+  "user_ratings_total": 2042,
+  "utc_offset": -240,
+  "vicinity": "5627 Van Doren St, Corona",
+  "website": "http://www.empanadascafe.com/"
+}

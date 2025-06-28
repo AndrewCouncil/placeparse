@@ -1,0 +1,453 @@
+{
+  "address_components": [
+    {
+      "long_name": "195",
+      "short_name": "195",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "5th Avenue",
+      "short_name": "5th Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Park Slope",
+      "short_name": "Park Slope",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11217",
+      "short_name": "11217",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">195 5th Ave</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11217</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Classic Indian fare in warm, brick-lined surrounds with a garden patio & lunch buffet."
+  },
+  "formatted_address": "195 5th Ave, Brooklyn, NY 11217, USA",
+  "formatted_phone_number": "(718) 857-1951",
+  "geometry": {
+    "location": {
+      "lat": 40.6767255,
+      "lng": -73.9800953
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.67810898029149,
+        "lng": -73.97880411970849
+      },
+      "southwest": {
+        "lat": 40.67541101970849,
+        "lng": -73.9815020802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-857-1951",
+  "name": "Namaste",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109678050463670439314\">Namaste</a>"
+      ],
+      "photo_reference": "ATKogpfA6fIpTQlf_gwoi_M_q4YMS9K6RggPdRFE0YmOcdAG4MgPVlUvxOx4WH9mXwQGun9Y5iFJIqFyxnVOhfmlY1MjQCYLXGpIcv1sbTba8dwsHxW_OM-mWxD-67Lc4x9Bw5MLtAmh0kyyWKDUqmlT8gAMoatklaHzKyKOVdpucgFnD_eOvIx3bFNhzpJQpYwPFdpXkDzazervuXaLlkGIUOoUHzfsyq7knWG2OnhjUrXGA0JO134X7mjHexR69MovpcYCLQJsWsRl_wlPtGgNkI1h2BqiWX7edxXZ0jSqnHMY4Q",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109678050463670439314\">Namaste</a>"
+      ],
+      "photo_reference": "ATKogped4zcRXndicX-pLYz01Pusgrcc4ZJHfNWdodVJohUZU0fN8Votg3Ybhd5o4dZFh7yMBwff-WEJ3aYHNzPfX8sPlXn_QZdGksS2S46ykSgeJHGWSeMYeEcLjrYNOn5T3qQVlHaESDRn_Sj7P-bbrYm2XXQDAqje0EAmFz36IVww02zdIb8NOeX7H7siiqlQH1NdZD66sw-oijaoZHn5d8awAYlT1PeYC0gK6RNXuAQPv-jrFebUaPVsI4qzN_oGKyycmfmQcuX4mhLQ_JU9whtGuaSKJFclKbkKm2h5WKpUYA",
+      "width": 3024
+    },
+    {
+      "height": 3204,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107928978057957478519\">Shahlo Haydarov</a>"
+      ],
+      "photo_reference": "ATKogpcBZiNQrMAsJOI6MCSzPXjHqx7KCwh2x3WRz75w9Jaa__hBqIaypJBILowDiJcD9aSxhoMmadaqrXcHOxhBsylt1YH-T5kS4Y1jWuVsw3TWHVAtF0aaMMkPqB4orh7NYzrgZVmKU4sQ1csfp-a-QqF10xQ_7ost7pMK1FWcjrpilt2mJaP8Mg5gevckG_pQ2P_e5rT9iPVncgOf9OUfJs46uqdT1p_JE_RXPaWDucDG0gqAa9oO1bkCubCysImfymlZE6WT5jcKYdIKgBc4ZkfusVAA4iUgbN_F80aJvFiCf7506v0sryJSmOiwQVw8PYXBKJJMJsbrIiRGdzM4SuCYUwQ3IaLy7YJWW3_t96qJzj4-7ataCqTtHNB-gY-MbcmqAcgO9yb4uwtfT9b7OeNJzgGQXuBWSLhaDFENS1Ckkjs",
+      "width": 4771
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109678050463670439314\">Namaste</a>"
+      ],
+      "photo_reference": "ATKogpelEJ1Ua9eEe3_OhF_D4D0BVyb_iUlSlfeaH7szX1bFpoyoSisiMvx0zLES_q9xyY0__LHFNxiHexEKEhS-18htuMnlKNnDyIXWzdtsVbylthcMMLIUORI4N2zEubRTkl6g1pw24ZpFR-gWLIu0hp0JtlHFMaVTKJ-RQyG6YcVPweXyPaGikMoot-bPP0mNMblxTZ34YsFd2xyqhc30pcS4_5E0vx7Bhn5N5wxN3EcwdjDqrxO8vnjG8atT2sR8tiZeJybk303dJsn2yvxRU0fmh7SxC_z5iwHI3SLaiQrDXQ",
+      "width": 3024
+    },
+    {
+      "height": 2796,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109678050463670439314\">Namaste</a>"
+      ],
+      "photo_reference": "ATKogpcNAAkSYSfB-nMmREm1KOwJqWP2Madgd-TxFsjFH_RGFhBllIkCNeIC3sg8M_S8AVHbiI0Xi_wM901Uuxw1f_JuOa6ln1A_xiXnSOFlbogZaVagKY6HETeLaO5DivDVYao7hDHNfrVrYydmkl8BZWyCVGUwHA0mXed2qsZ5uo3NyLsuKGysTHLE98mEkr6LwTxEX_3lAXsEUZrJpdKK5oWSW10lJXBTSm3_MhdzFK1R86BATjJZmg2Lii4Ut2fUBAs9zrijaE9UhmQWp4zqV9TLrj_q-K2d4us3AxWNtG7TQg",
+      "width": 1290
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109678050463670439314\">Namaste</a>"
+      ],
+      "photo_reference": "ATKogpcSh0dPXQ4w_eDLi3jR256NpN2_Ugml16jJ7XsAeRf4vkzdlxAA7oabZu6S16ivU4NChnHIVapFAGWoHjuOQi7a6Dqh2vMq-ad3JlCUBYUmwViP5eKPM-4m8utAiwuqVhQtnzs424q46eLXqQqR2QrG7TNQpb5fykUC6vt7_z8S3fw930OALezZDXNzWUMiwjpfUQrGthhBTNFXP0AijrVx45sFCVNJh5Z7CjdUZXATzwEGxLM0GZH93LlnzMiJs-s0iSv24FYH_wyKGobp2hYTmH3h2l7eHNXmW-_aX0L3hg",
+      "width": 3024
+    },
+    {
+      "height": 1081,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109678050463670439314\">Namaste</a>"
+      ],
+      "photo_reference": "ATKogpf6Vx-Ia3sUqCAxYDGgZVUQIQoxM02DTAomkKEmGnfKcPZhiYjpNB1OaftRAVxNwAzIkm7uK1yf28X5IczEArkOFRq4uJRHV4tQuSlOK8Ngd9HK-IispraEoV_gQlN4AnbHZTknDFbAwS3PSbnz6Q9eAVay6rX5MinNvkCbsownMM1ff2-oI0XbkZXHRanxSuo3rcWTn24-nAUe43SQpITh1rjDbpd8vjnENkQ9FraVRv2H5kXoIXXrMX_VCyGOoU3qL03HVEDJ37IakrGsBpCK05BrIBHZoXHQHXrO3EtvFg",
+      "width": 1081
+    },
+    {
+      "height": 2495,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109678050463670439314\">Namaste</a>"
+      ],
+      "photo_reference": "ATKogpe-vtN6UCCb3otM4RoyBYdavTWUk5zIY05m0dO5eJB8nJHTolJs8iqYwA8GmIC9Qz0uG7Y6Ab9GZNNzgL1iot5V_5CXAglwSYMfW1e_d2VYBzQOvpFaGP9EZ4tChEXodrCTxpF_ieijRaritX5EiGv7rmBrA2MwlIPrZzZd9S2KCmsRbuxdEGWmAVT0KgUTDJNuoE43o-eEt-_x4QYJKohU7VA-HxcIwDF6b5J2aQue2D6SMfm6OVDi4Bpp5wbQm0p0kh6eDy0wnI36rycqnhD5HOwhlQcJU307fq54hd_8Tw",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109678050463670439314\">Namaste</a>"
+      ],
+      "photo_reference": "ATKogpcDrMNdzNRoEZf2wR_7Ft6y93y6Wtc8O2gKoopWMiMGX_gSQ1Ljo5WAgsf49IuHdd2fBcxjJDUFGEb98jyZFwmzIpKPHRwUi_bzt3x2J-AhCgXT0Uoh4wXgX1XGylc6lmw8rBCJAW7Whqgif9rwMruNQ9NlmyKD_MmJwVuqu7lAzNdY-apj4UahS2eFwySuY4fhtIDRCB8AuwQmy94leRKy_f0sR-6yDxSp-stMCzq-7WpZAdXRe3WKUzJ98to-21AZRc9L2xULu8z41iQMMJ7cJ89pcScvwOhbIIK7ZFFf_A",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109678050463670439314\">Namaste</a>"
+      ],
+      "photo_reference": "ATKogpe_5P19GwfiCHalfSq9DS9Eq_Y60Wg2kenD1Yys1UlY5Bsp8Cor1GgPU5aMdzjp-lEguYbjEYes2cVFtsUNMUJuiE_ffwdfG_1frGBo0pp3UppjB0CdRXl85cjysINq7Cx3P4n8gi10vF0RG1VVpx2WvtIrD--X-wyMTb7hKTmr-o9C7jwwsL1Zfp68xre61jNSTmgs3XXtxWuUqOGfFhS_g-I1B648iDKOTgSniy6Ymz7GIih2VzTq0HjuNMsgWO-slfIWZqq3yyqjQlQ0cMjI-LZRMgxF85-AO6j93GOuNw",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJbaNJYKpbwokRt-22jFjSBE4",
+  "plus_code": {
+    "compound_code": "M2G9+MX Brooklyn, NY, USA",
+    "global_code": "87G8M2G9+MX"
+  },
+  "price_level": 2,
+  "rating": 4.2,
+  "reference": "ChIJbaNJYKpbwokRt-22jFjSBE4",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Dilsahaj Singh",
+      "author_url": "https://www.google.com/maps/contrib/112968200075395297513/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXXhXgKO0BhX62-xjaukavtwMEwC8ijRy7nJK012rINBy3WtUrynw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 months ago",
+      "text": "Absolutely the worst Indian buffet I\u2019ve ever had. The food was worse than worst \u2014 cold, stale, and completely tasteless. Minimal variety and shockingly, breads aren\u2019t even included. What kind of buffet does that?\n\nOnly saving grace was the server, who was polite and kind \u2014 but sadly, no good service can make up for food this bad.\n\nDhaba NYC is on a whole different level. Do yourself a favor and stay far away from this place.",
+      "time": 1744399189,
+      "translated": false
+    },
+    {
+      "author_name": "Yasmine Shrestha",
+      "author_url": "https://www.google.com/maps/contrib/115216007099868286554/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI4d7-_wxsVupIWxWbVKzQVfRnSQV7EIVdBdzFWHvNRnddPyg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "I had the most tasty Samosa chaat with mango lassi. Their milk tea is very rich in flavor as well. Will come back again",
+      "time": 1750019616,
+      "translated": false
+    },
+    {
+      "author_name": "Aaliyah CB",
+      "author_url": "https://www.google.com/maps/contrib/102023391325566492457/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkIcicGbjq6P4H94_weEmzRgvuRQZriF4WxKtETnmJxrriwS0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "Amazing customer service. Everyone is so sweet here and their food is amazing. I got the butter chicken with a white rice on the side and garlic none 100/10 well, come again!!\ud83e\udd70\ud83e\udd70",
+      "time": 1748988961,
+      "translated": false
+    },
+    {
+      "author_name": "Julian",
+      "author_url": "https://www.google.com/maps/contrib/102902952707220537038/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKd54JYxrCYOMMXyREM7oA-OLyiN96eHKPw6Qj3-KP2X6KjAQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Incredible meal! I had the coconut chicken and it was delicious, perfectly portioned, amazing spices, 10 out of 10!\n\nService was great. All of the folks were very kind and attentive and quick.\n\nI\u2019m just bummed that I spent two years living in this neighborhood and not going before today.",
+      "time": 1745871466,
+      "translated": false
+    },
+    {
+      "author_name": "laura 718",
+      "author_url": "https://www.google.com/maps/contrib/117275055754428394734/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5DzNGFgkRQPA36a6BBSJ0-8BVvfP0746ESlQb5G5ECAJ5DQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "We had lunch today at it was amazing, everything was so good & the waiters were so friendly. I\u2019d definitely recommend the lasso mango which was citrusy and thick, we\u2019re definitely coming back.",
+      "time": 1742688246,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5621849512624975287",
+  "user_ratings_total": 468,
+  "utc_offset": -240,
+  "vicinity": "195 5th Ave, Brooklyn",
+  "website": "http://www.namastebk.com/",
+  "wheelchair_accessible_entrance": true
+}

@@ -1,0 +1,447 @@
+{
+  "address_components": [
+    {
+      "long_name": "25",
+      "short_name": "25",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "11th Avenue",
+      "short_name": "11th Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10011",
+      "short_name": "10011",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">25 11th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10011</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+    ]
+  },
+  "delivery": false,
+  "dine_in": true,
+  "formatted_address": "25 11th Ave, New York, NY 10011, USA",
+  "formatted_phone_number": "(347) 899-4998",
+  "geometry": {
+    "location": {
+      "lat": 40.74294099999999,
+      "lng": -74.0091145
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.74440088029151,
+        "lng": -74.00767851970849
+      },
+      "southwest": {
+        "lat": 40.74170291970851,
+        "lng": -74.0103764802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 347-899-4998",
+  "name": "Essex Pearl",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108192464047297806734\">Karena M</a>"
+      ],
+      "photo_reference": "ATKogpd3rtd2CFPIpeAA4G2jZ62As7vEiwl3WqYQAXB3cR4EdzHGGyCdAVRoj7n5LbiFu3SCp9z5UwihrhHvFESofpSm2QkEJTqXOeWNgEeBRO3fTGKkHIluSn17oJOriXKAb74gumjV1CsNWZkpp4sDnHuZTNHvL6PSxPH8hkR31EPMSEJgH6QRxpCLMxYAf87vfkEGjcRhm9k5sNHZdhzf6iZCtPAxW8oOvXD50vIIQ_VyTHEwN_MkEWvfrzTyaOMKQpeSd8bD77CSNLtgDtuaIxKCAT-g8hyQo93cLOVOdutqpEgYuZnomxO7k1vaJW0IJxoPI78MGYIwXnjtWCCJHaM477ipWXjOppq3suNAHIa7KQRJ5wZt8vO4_2MethXyXberVC_rps9tHNt9mOfOtkaFf6_NlS0foLswtPEEKItiY6I",
+      "width": 4032
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113489815746759106796\">Rob Krieger</a>"
+      ],
+      "photo_reference": "ATKogpc0d376ihbnlktNQt4mOvgVizkktyZHHm9_ORbXX29sRyZ2wcKYXgocR7guSuHtnTxDDxWqEZipM7byr1_3m7xL2Ey0bfpaLXRFN29wlPwcAnMJST5cBTJeUORUFnKtdfNtA5vEBzeKF0IMdh8YNo3MrKgYERu0pBIlR3ssp18tgzbod3YkWtgUUW391XccYsK-jugTGK77Ago1Hak0uLrOCUf2prC5UaUDRdLV-KWhxNfhJXRAt4Dli6OvLVuOEvA05F29ui7w2fk0-SBtoSUt131fEA6RVowTHTmPfVzjv1dbFaNDAj9MH4C2rqYbuARfhCwXA27Viihxh4veG9Z-fN_iWhzFF4IZTp3rJ9fC3NtUJ59apEpq9IMgcTmAd-KM962AnsrvX4naFBBMqEsR9MPIx2ixb8P82WVvi30bPQ",
+      "width": 4032
+    },
+    {
+      "height": 1440,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114990865470518664904\">Uyen Nguyen</a>"
+      ],
+      "photo_reference": "ATKogpeJ6KqTCaBR3Qoii5KU5iEhWlPxMojOFh1a5PvP347GG6UieWVZDp0cySFFPxSN-F26GY1kR-EWC8m-1zs99U_iik1lbJSG1-42UWH6ZCYH369cORcEEG3XfGR405uLjT4svOFyEGMA9BTt_03QDdcdhbaDRt6_tiC-uRwLY9DTVOLopLMt43BT1AYVOyKFDpPbMeYwbDlnG0IMxLGf10Wt1nqEflx9MeyMEP3O37ysorFniHgLHTz0hs9rhZPsUf2nhubcTGotlp0brOedpTTBfWABBqo4GRCmbSnYdmAXWVsDVVjUJvafLgSolagX-dOAGKnlB8sjTxQm7YLEJTeKs7vol2zQL3g1QP214K2Aip8TCHeSHAixB-Qrmu5FSPzQKjlVIlVnt3OR6weNV3QaK7blT2KYeAXfs6VhLQ8",
+      "width": 1440
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100914396062182311529\">Dan Ferrara</a>"
+      ],
+      "photo_reference": "ATKogpeVrNvlYCsjKnElrM7TJEcvrODr6Ru97yCUTr7qa60fqZ0bpISCAAo4e8hy6FfFh0OQ8rqxoMRHngfETcTJtt6jCPjhDUzcO57DMP-5WYTf_DEW8RMNc-Xo_uzyGdWRaNya14h-TT1KROlchgNlLtH8cVbkgdgu0NnPdyeb84jZkTV41lydGs7fQjxkzux5BZT51L7XBcrbDdXOmMGEjEJgnWS-w1LryE3b_RXjJgjY9fRgTBfDKuPrY7oQIHE4mlfc7eY68NaVpTv0hoybV2uFxqUDuAldFoiQA9MoZVI_m2_AddwRLJQDnVu7fPIqC8V7q13Brs_2AV-pmYxvF6R8bBr95bl0au4N7Gf2YRZA_8RW2RnvElBDTQgHwVNLLEWWJsZ9HJmUBDFm6XNOhcDyG1-jA-Suk7BNlUX0lsCw8nKl",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114700455852836533897\">Hansi Liao</a>"
+      ],
+      "photo_reference": "ATKogpew5AKY7NdXZ1T3T-ZrgFlKLVe5_fSAUsrvMVQrK6OYRRvYjng9wtqvuDt2CebS0rwPOr-VvvIyFWVwKQpHMoFCwSOCSrWqJX906O-YRLRns6dZmn6n_WCzxCIrrWw7C5xqRs5aquOGWFg1VOEN5_q47vLsQ1aPDMCL_kOWiSMLKoKAEUQ-qNeRz7eig5_0UX-Ttr8v5veB-ONz9dMipcuCHWBZSvKAS6aGnUhHEg30ne6fwHYokpVMEvo4p2_DtU-LtUifVXyTcHg5RlekLWCA_dzDj5mxEhjjOJPdOdSjmOpR0Q4yz7DUy7WgmVScTZeXRdNIAQgXUOwF48sW6Idi_YsPa3re5mHqeGFp-e11z5zwfk5oy1tc1oE4QxJsQS8svBbkrQYil05CMq0UXFDMPjKlkr0HvxCReDSVXsBVMg",
+      "width": 4032
+    },
+    {
+      "height": 1440,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114990865470518664904\">Uyen Nguyen</a>"
+      ],
+      "photo_reference": "ATKogpcBGclZKzVkj2Sh3AbGTYY6saJ9u8XQ13P8DzGLfz8AH-_db9kOsf5nMMrKc8kHtaQJStLPx4qy4_MjIngRuEJDeUcuMKZ6t7HsPa8pZT-Y5K_6XGLhieZDRTiuANWEtx7f-D2nC5NDeEcKzWZsSLC6M6PPnkOKnz64e3eo30tUOhE6NTbTR8f1ZCl8MeZTTIhiHjOZ59a3WiN-93vu5lMKgc5gAHiMTESV4Z1jYraEL9bkzeiP56Af917dcJMfT34Ltx2AypYySiPh9WPFU08rF3CzKg6KddQUgKrZ7uygFltPp_hxT4RNpo-c9IxAEdbZ3kBJIDk5xt0BQ1Tr0f18aO4kgtiPWiUAgC9q42eXJmGrpSjON_ckSPqvD-qsRGI1rl50af5JjM2Opq3-F85XByKpf_ZpWm1xdP-pXk4meteI",
+      "width": 1440
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114832242006992408896\">Serena Wang</a>"
+      ],
+      "photo_reference": "ATKogpcg9dkCE99a6xJGp4ytcpzLfZcZl4c9vp2xeNECm4KrwZQl--eoevAutIx7F-V4Bi3XG1ZCr5mVMuYw_lDIuSnE_GLbiR-kyjFlEFrH6mrxADSvuEHrJga1WkbivUY1E6Zzg02lJdugvwPatUInhE8QARhASiC7GbNYDV7hSnOKTMFjzEPciaInYr8K79DSpn4FApDxugSeS9LOWG98RV6osvnYQ6RrP-khPt-O5TSZHv69NWbseEZ_nZrackhNqOQsA33ValK4nhkq2zQpZLGE_JIpx3boTK-VQ7RwbsbtHAXxQ8Eb0jfdB28QtjUOgx5JFROfPqacJfQN4UNvM1lhF2WIVxdHlWMOz8sfVeC-Az_b0ToYhy9AjMHyaZaBtQW5rct3spn6ra60sfr5tC8IAN5abDlgheqS_TLPXPQ",
+      "width": 3072
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104050730556189141148\">Richard S</a>"
+      ],
+      "photo_reference": "ATKogpd5LUyjV9L5W5Zg8zebXgjBL-b6imjGx7x0fizp5n6C66eEsFJhWWdNCdNRr1Cs6qkkpgcjFPAVUagAkRSoiA1yEuSXZuFXgempZZt3OTSfm5GK8P8iubst1m29URMMQgm7JtsIQVjfr7PtYgdZj5MtFvzPfQMvV7BkPhJOA5ECLWQElQDGdHnC17WazWfMvkMk8Vo7f2wikVLNSocRahQ3KD0LaGIRe7C2-uHPQaRFy8po5yrrNhZDg-s3We0rUIZHhifwOMn1ckcXwSy2-OaG82G04ptZYiUnkRuGnKVJzrDK_sYXa6HYlezh6yCmQDt1IAxG0PRf55B1WFGfTAg9oJMp0gJMcKAI2GC2mbblgiNEG8NpXlez97XQ5YIN_8TVIjPr1Ka01L_-gtitt-GeRpTUwxrBBnyZB_gVkS4",
+      "width": 4032
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104050730556189141148\">Richard S</a>"
+      ],
+      "photo_reference": "ATKogpfLYe4TZlUSDlGh841WOvX8mt3DJgA2rsaYHS57xJBLcQOl6kF5uwrUePNwFasmgYWa_07MoCbECPThHNMikWbutTKK4jOq1ftit1GGrFPEHmUYOILfBcE_VPeOum7kYTgZ-Sr3YZM7bI3yiXZe-8Lpz5ImDZnaV-_VgpDDMcEahkbjzq9mBqBk3t8HlqBuDGkaXNB1-_ylZ3GBbgTT5qjS3prm3xGaWcJxx3zC6AKwSgyWABEDOYpDvwOFNRQuofd7XLpfPHPRPtcwIo7xSQDhH4w9KjttUueentiWe4NvqSfpTlahuTBjNjmaHzjNJ054XSXHK6F8VGZdzm5Wwdm4hVI1zn-21yXdVLQFibDe03AiwUD7qjDQQWqxtnoBEdrfSUTmENwldEsOohzFnqaVmiSCiFNrkm-BakLpB6uL8lxf",
+      "width": 4800
+    },
+    {
+      "height": 2496,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109673791694826464177\">Jackie Gordon Singing Chef</a>"
+      ],
+      "photo_reference": "ATKogpdadJQzNo0K05Kdx4j7l8oMZD0H0OxqMXvaKvZHN2XeMu8Oq9TMP3WeEDxSAzZUhFjfsKDMrsvDoAfVNw7-zDQ6mxqyKVxdITP776gBTz1VK9vojDDo-92ewrxngWZuVlpS6aM4i0exd16lJmdrwLYiZdgrR5C1kAStTl3kUKHQWihpX6Ap398hnXhUDhP554HBlRe01GsQwC4AzZ0zhPjTXHGxHdHWghhb8iUsbnhAesomj7nCl0lCgJ7VFvMJJRsHndazRP4NEVejSKuWaAlEpj6OzRVVKtXMXw0Ft_bleOjYlp5ldHbfiX77-yC4kJ-Wj6wK-LesNMtSe2aRfL_tJEh_vspvMuTrADndXJzIMN6u5dOtjhJCNzRI5YlP70r9cs3r1UibdMds5EUDf3fQ8_0_qc4qYxd0wkV271k",
+      "width": 3000
+    }
+  ],
+  "place_id": "ChIJYdd30IBZwokRls-AuPkdmsM",
+  "plus_code": {
+    "compound_code": "PXVR+59 New York, NY, USA",
+    "global_code": "87G7PXVR+59"
+  },
+  "rating": 4.6,
+  "reference": "ChIJYdd30IBZwokRls-AuPkdmsM",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Maximilian Waldhart",
+      "author_url": "https://www.google.com/maps/contrib/109095737755110038314/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyfomfeFFvqeAoeqFXDlO5tVqpLdDOjqkQvbjrbcFV_sNENgpD8w=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Just visited Essex 57 on their opening day and I\u2019m seriously impressed! This little seafood sandwich place brings the flavor \u2013 fresh ingredients, bold combos, and a really nice level of spice that hits just right. Not too much, not too little \u2013 just enough to keep things exciting.\n\nPortions are on the smaller side, but the taste totally makes up for it. You can tell everything\u2019s made with care and attention to detail.\n\nThe team is super friendly and welcoming \u2013 such good vibes all around. Wishing Essex 57 all the best for their first day and lots of success in the future. Definitely coming back From austria ;)",
+      "time": 1743787852,
+      "translated": false
+    },
+    {
+      "author_name": "Uyen Nguyen",
+      "author_url": "https://www.google.com/maps/contrib/114990865470518664904/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXmFAAOtoiTsRdSAG04WYK_GMNpzsvAUP-hyZX669WwhVAC7P9JSA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Really good asian-style seafood place. The lobster roll is really delicious, and the seasoning of the fries is to die for: a little sweet, sour, and salty. The crab fried rice is pretty good as well. Another highlight of dinner is the deep fried octopus with coconut milk-based sauce. It tastes just like \u1ed1c len x\u00e0o d\u1eeba. Monkfish is also yummy. The meat skewers are normal. Dessert is okay. Watermelon slush is quite good.\nService is good. Although the servers forgot/messed up our order 2-3 times, they apologized at the end and gave us complimentary desserts.",
+      "time": 1702531239,
+      "translated": false
+    },
+    {
+      "author_name": "Juan Lima",
+      "author_url": "https://www.google.com/maps/contrib/105662480087228726221/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIH1p901gRahD3FqXZDEabaG5FS_GWJ9iuNyHak1hn63IZ_EA=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Came here after walking around the market line look for the best light lunch right before we headed for our movie upstairs. Decide to give this place a try. Wasn't busy at all and we ordered the full sized lobster roll with French fries. Included were a couple of pint sized bottles of water which resembled milk containers from back in public school days. The lobster roll combo was served Vietnamese style and had some good flavor for each bite.  The fries were overpowering with sea salt which made the fries taste more like eating salt which was a bit disappointing. The lobster bisque soup was okay.",
+      "time": 1700972158,
+      "translated": false
+    },
+    {
+      "author_name": "Grenten Dhuli",
+      "author_url": "https://www.google.com/maps/contrib/105036941222710424149/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV39pbQwx62-bNe3Zb3ub9XbHvTfRJCouMG0S_nRGMzJO5pRe7xew=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Such a great little gem inside of Essex market. The waiters are amazing. We came here for the famous happy hour oysters. \ud83e\uddaa\n\nCertainly one of the best deals in the city. The oysters were absolutely delicious. We were also amazed by the rest of the menu.\nThe tiger prawn skewers and the handmade noodles were fantastic. The food can be a bit spicy, but order yourself a nice drink and enjoy it. It can get crowded during peak hours especially due to the publicity received in social media.\n\nWe\u2019ll be back soon",
+      "time": 1702219746,
+      "translated": false
+    },
+    {
+      "author_name": "Cxx X",
+      "author_url": "https://www.google.com/maps/contrib/101484432565740462602/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXslZmj39hPbykIGZkF7WD30wC3P2NOv-6oSSg9VAbEQDtfxK0=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Definitely the best seafood place to go in Manhattan! The Lobster Roll is the best I ever had, also happy hour dollar oysters, crab caviar and lobster garlic noodle are amazing! Service is very good. Perfect for an afternoon drink and dinner with friends. Great value for money.",
+      "time": 1689455923,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_breakfast": false,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "food",
+    "restaurant",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=14094610942188900246",
+  "user_ratings_total": 128,
+  "utc_offset": -240,
+  "vicinity": "25 11th Ave, New York",
+  "website": "https://www.essexpearl.com/",
+  "wheelchair_accessible_entrance": true
+}

@@ -1,0 +1,431 @@
+{
+  "address_components": [
+    {
+      "long_name": "111-03",
+      "short_name": "111-03",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Lefferts Boulevard",
+      "short_name": "Lefferts Blvd",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "South Ozone Park",
+      "short_name": "South Ozone Park",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11420",
+      "short_name": "11420",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">111-03 Lefferts Blvd</span>, <span class=\"locality\">South Ozone Park</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11420</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0600"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 6:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 6:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 6:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 6:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 6:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 6:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Typical Trinidadian & Caribbean eats served from morning to night in humble, compact quarters."
+  },
+  "formatted_address": "111-03 Lefferts Blvd, South Ozone Park, NY 11420, USA",
+  "formatted_phone_number": "(718) 641-3636",
+  "geometry": {
+    "location": {
+      "lat": 40.68037400000001,
+      "lng": -73.821103
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.6817027802915,
+        "lng": -73.81983721970849
+      },
+      "southwest": {
+        "lat": 40.67900481970851,
+        "lng": -73.8225351802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-641-3636",
+  "name": "Trinciti Roti Shop & Restaurant",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "0600"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "0600"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "0600"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "0600"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "day": 5,
+          "time": "0600"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "day": 6,
+          "time": "0600"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 6:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 6:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 6:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 6:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 6:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 6:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117199294643703187269\">Tim Rajah</a>"
+      ],
+      "photo_reference": "ATKogpfbo2mTDyJqPBfWZBqW45qqi_UAYLfa9YhE8Gx9WcYrEPlbsUigraR-hY9qC-if9VcfsRgW5W_a4TIkVyQ5TJ7fg4-3kTXKUXyF4bQk5WVgnRJ7Em2kaQBJeUDcfvJ-9Gt3gOXvfOh3LJ1I6fGrTFjBeWhwqNG-TpB1odn8T6dpCuNwdECzzZtpWoYqL4VTq6uykAWZnYmqRmpZb9O8iD9tAeZVEusr2fvsx-TM36M3ujjT5sIC5vHhLGFkflTIY69pDGHCTJQ_2QV8KVov6YuDFfsHRhdR14LLhNPyemN8OWajp6I2quB23n5A4H1UX9xfbQzvlw9BNMviSpazbhqIHbgOXv6tgYpGHiLTT6_vItVcbgjNAndyTvwDMQPLbhpYK78c4WP2KXmFSXDV8ahR2qutT9_QWqZEO12R2dB7dYbX",
+      "width": 4000
+    },
+    {
+      "height": 1960,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115023435685134870896\">tavish suedass</a>"
+      ],
+      "photo_reference": "ATKogpddirfK4qtyLWdYIh3AFjucZ-zypYj36oE-C2mkYm4qHjQEHXWNFSnK6Yfk6bfTy-llNOFOSWTuEE6thREi2aQlSuS6ii8iPMVMovqWMFA57lFHRVfu_99xACHZSwidrcMiMBE3w4f2XvgK8SNEu3NlbgHJa6fLvAuwhVjrKuIA7M-Ctv6qb1aOo_MYSR4bC0yN96oNyjkVZ_bsyhxZmOLx8fMxSttsc-FCnUg7_m_UccR9X_xNAsDFPLexnJuEFQ971odTzAut03RTnJWPj5fT_HdS26xahdi1UEypcUJ0huWg9gU_VBVhkmxYMk7YW4J_Tk8IxOz3ScCVG9jMPqx_qRCoIDgZ-snEI2UsB90h5rOeCYu1-nvXWMFJhHLvNMc5tqwStBL3rT3ugjAOyar0CLiFeHf0GfiiwwnhyvQ",
+      "width": 4032
+    },
+    {
+      "height": 593,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103303100648118269862\">Melanie Cruz</a>"
+      ],
+      "photo_reference": "ATKogpegAjO4gx76nIxX8mKkrAT7NTbJ9qWbkAwLf8CS_WUoE7gHqgqdjyLQdS54HJrmpVI6OK7WzogI35mGJR1PNlDSSpA8qaX3PnhdSqXp1Av_yH_WkehxuOwRiBd2N5amCykI_RwC_Jg0IBodqwWlGol4mtBlterS_jfWyfXSuLiz_Y1d5Sev7RBF8pXimdeK_X_naxVo-Hf1ah_ae4s1CdNRizrq3-Z_Jl2fpllpFZkFG3qPObHgEvnRp7wmIMApmr7EbtlE-VlNagbqoUcmPqiqMFgDBcilfxzkucS_UsdIfXjxI8nAI00a-b1LzwLvzT1LVJrFXfHXIZH5dD6ChBAPY_UlaYhV1meIiUxNuITfAJisVUZCmI5Sw4Q3A8i5UPx0-54FKUrGCIRS-VzNbdzuP2crAO-16peygcSkqMEAbzZNAXr18MIlTfsK8Q",
+      "width": 1060
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117522077955920251806\">Stewart Bertrand</a>"
+      ],
+      "photo_reference": "ATKogpf3J53ekU_OyVXk9R3bk65MauFmtb-zJBUXrFdikALXxf2C_7Bn5eAGK3gSJhj7HjKX30oTK199BVfBbyawRSZUsdkYX0oB7w5ed4XA2P9ZlwgcYDQFc9asRlDnVAaVnYoStm7Ihno2OavazFH38kgx6MHWarksRVwj0upxxBE8Rh6YKhAzZRYcJQrZUiOdypI14iEoJRCtznHBnmoFsUFWFDDc0hltXK22jGanfDo3SqOP47_I8zwHPZJfMta5_ZNebfhDZ-1Uw3PQI3IVW_X3JuAN_OkRrJmcqId7_j7tie7QzjNAKdWDGe2ZVLu4dtW2lr7VgTa39WUEMVeHbUlx_sWihFhR9mt78471bpkbWqubyUq12Dlfjbf1nNCs2b6C_yBzUXKV5wxiv4jimDM9qHCEW8Pv_sltS26hbAejY5CvUSIAqnQbqgTuq5Qj",
+      "width": 3000
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101435563389591916347\">Exclusive Eats For You</a>"
+      ],
+      "photo_reference": "ATKogpeJHvOb-cu81HaMKKE1TcP1YLY8DgArkVlzr_GeuW88wu9QNS7Wxr8hngdBlP8c_3j4DVTh_N4Lctka29hS0I_YzrGR5j-bB7KbdqE7ClIIHS1qk8aaXqJS4dYNS6p3p4vfzmB5w3iGFXLtVS26m8eiYk7o04yltowaBWldC2ooFIVAuOOSdGgHp5Ykz69x7xpqMRLyt2oFw-GD81qhXO-XtpiQ3x1nYjVpMxb9-Xoafl0UDYsecqrGZEilkXVaPItNxRVCi10nh0pLkU6s3QNi33kDD7Upv_eZlq583D9O5oEc30yBUifXnVsbhiKG92WPduXNXB1gx__CGZcG7WELMpxTiB12gRL5LGUw3pgWyBQqU-qyjB5eq1Bzs9y2zN04t7nGbuzYrhhSwabOM0yfEbHLyWV-CsG2TvZDkVPlrrhB",
+      "width": 4800
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113324463285293620614\">Adam Wu</a>"
+      ],
+      "photo_reference": "ATKogpcpeJkMW1DmXmm9DOuOU1OS7FOkPV8v2h8fER-EwzUwHnjYgQ0leMu-FluwcgXpwZhDU2u4cDxlQnxcWz8rVve07XQNRFYuLRsaOijihCvBeSm_Oi9i5lHSbC7_olLrhCMbVsiJKVP8at_PCBnUAslvGqHFP_8_4Q6ULA9-r6ly7n5aqYdySAELRRdrkuXJEPNp3WPFCaqVpkV0-qopkm3Q5N2oEWEeKyzfNmesgm58DotBr9BUyTffWAakNL7CKA9XQ0KZRp0scmSsN0dfuGOHmRBjyX1PGqwTyR-8rh79e8yPlYLxuDk9w5JP-_44sPex-EHhMnDwlgcJxi3fgcDWsk9stGvPZ4NWeteG8IcehUO5XiodhejV4v9WoczmAqmB827HOfTY70NMkXYoHNAf7e0j4U2WBHIQBQPzYCtinA",
+      "width": 4000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101915436081082958512\">Erika C</a>"
+      ],
+      "photo_reference": "ATKogpc1x1_rCQhvFdrSDTmY6lTVSMYWYjwyvdo9_7NKFFuJm-PXdJX7BT3qlULheIb1VYhFaBdlptYr_cmtEcC4Gq6HLyXGC_nRU5xe3Mz2LnTTM7r-0PAtbkhe89DgTuq4TXx5wrXKMMhRitCY_lBiQmjBp_serviMAf7WETBc8SeImyLth0bqN_cE0G213FV9WPeBNrgfWrgtVeDtvN1GBNSeNJXDXsFkYf60DHaNxo4FGOSkVuG-s1ultAVjg4HtixRaQdfHuCLNf5ny5UKqSIuTffZmqKAxk2--0gUbBpzUJeO7_8RfKGO46WugAmB2h7m0ljHr0tSsYuZxa8hv3u07-Oj9f-VBNZruKLGEMA8FDOkQ1I9xvU0cI7xocrOxK7w6K4n1dbzkKfo7VbebSpYqF3-7r2JJ2zBNOY2iZ4Z2ZRst",
+      "width": 3024
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110674606469994110596\">Eric Harold</a>"
+      ],
+      "photo_reference": "ATKogpdr9cpGmTfyMCG36-knQpn_gBbsUYIH-X7OoHBfgsyoZBGZUyP8ib39BSLcSQsaS94XGep5sV0laywAAwrXJ747bUY77x31XflHJUpTfVdYGia4FRxgA69J6_T6bI9W3YmdtcCnqE231H-DOYtZuL9i85LHC9AQlcSOTyuwlGer7Da6opCP2akvWoz6wyEhvKqkA_yyW2exue5VVH0un5qMvNqdADhIRUXL4XsvnmLP5rNKe3bV6uC5eYMrpVyb2naAI0BgEjMF9o_0bUV8XXQVtOhfAgJ6ClYyhZp3Yh90TBA-f4qCZOXGj8DXt5PNpHHWI6YQmh9qcOo67TwLuuzH_UiGZcTp9hPFZ8sgOfblHyPfBYMfn_z386EyFtT8O3x76f8MEXOxfLhzsUVbrur_bTFnynOPVcTErGkMcmc",
+      "width": 4000
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115731192930500381217\">R Bell</a>"
+      ],
+      "photo_reference": "ATKogpfVi2Dk1VS5ElMh18EdFffxpGE2PQjFFS5pu0pNFkOgjr6L0iirw0B0mPeTKOA5k1ancf8ELwhBfl-XKlxBM5DDXsoYnMD21xG1SZ_bOAn1IjCdX9_Rgi40pADTMTRQjbt-qxpRU6uWTSq6rwERRkvggiWZeJgMcBVs3Dh6ZnSV9m_qM4jf5RHWQFaMik_U3Q1TE0tEaKXfVEQIsSQod3FN8Nqu7bV1kSWt3-br9cJ_AH-AznQ9CbqIJMy9j5G8AEJBOLW4zwB3oNF4jl4zFOQSUe02Qs1jxYk7E5g943rz192BMkMqyQFNnUGIRtIo5iO9Vn_2-PMw4FoQB3ulwpdhCghSgp_JFJDA_q7t1CNltlaEiTH9FtpK3_uE4_lcfVhNWbEeizTMX8UDIfx051-A0bAJ8m7K9CQPAYAbybM",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102797239783749296576\">Prita Rozario</a>"
+      ],
+      "photo_reference": "ATKogpcTpY7D0cOIShJmT-c6N2Rt0P8hWVoKkCUSQJUms39wdNVhgsCdA4c9GfZQ6kM60huVcDu-KRjDRVEXlFSCVZ1Pq9A_bXGe1mmJYQC1NRU2ecUheFmvUMBSl_T4MqQCEzcNIwGyQSU_WsjA-8Gwylbn8IYGJRK7fgQsRnS_RilDoxbeLjbFlsV6rttr5Wi4UGu9iZJ5InvSgizDbvHRGeINt-dFGBJ7h5GujrYW68vJ7tl5ooFtsT6agNXtliDFWSN7_eohQXEQVN_FvJrXFgxHgdKIcdQi1DJVsgtIYRYbq_wFTzhcaR9cYQMG1e0s78scbG3mgiR3jPxBfUGdAFtu_ZdTW_nEYyZhq0c1aTnMoJTte7VDukx8c5F5opcm5Es0k98ikVuo8bOw0cWXYdCyQNDg6LwPLvpn7-h3jO8neCol",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJldBYqUdnwokRZjmk27CkPKQ",
+  "plus_code": {
+    "compound_code": "M5JH+4H South Ozone Park, Queens, NY, USA",
+    "global_code": "87G8M5JH+4H"
+  },
+  "price_level": 1,
+  "rating": 4.4,
+  "reference": "ChIJldBYqUdnwokRZjmk27CkPKQ",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Erika C",
+      "author_url": "https://www.google.com/maps/contrib/101915436081082958512/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtAV1rydS2IhIem9tr2dj5bCNqUsVb9KkNMZ1YRy02oLmpeHE-JA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "The food here is heavenly , well seasoned and very tasty , I traveled almost 2 hrs to get here and it was well worth it , will do again. I got the chickpea doubles and it was so delicious. The only bad thing about this place is the execution of giving out the food , it\u2019s very chaotic and no one seems to know what\u2019s going on , from what I witnessed , orders are being taken more than they are given out which makes this place packed with most people waiting on their orders even though they are ready, because they do make the food pretty quick it\u2019s just getting your actual food that\u2019s the wait. But overall I would definitely come back.",
+      "time": 1737341752,
+      "translated": false
+    },
+    {
+      "author_name": "Saskia",
+      "author_url": "https://www.google.com/maps/contrib/108729140482824619859/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWI2ij6TB553o5Ma5oXw2v_o_GQjO6WhKctiOOtWExJeHoXokhpdw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 1,
+      "relative_time_description": "2 months ago",
+      "text": "I saw this restaurant online, I was eager to try their bake and shark, having had a tough time finding a good one in the past. I originally planned on traveling to brooklyn to go there one day. However, yesterday, I was  25 minutes away, so we decided to give it a shot. However, the experience was chaotic from the start. With too many people serving, the atmosphere was overwhelming, and I struggled to hear and understand the staff. Despite ordering a simple bake and shark, I was bounced back and forth between the cashier and the ordering counter, which was frustrating and confusing. To make matters worse, the food was subpar, with the only redeeming quality being the size of the shark. The addition of pineapple and tomatoes, which I had requested, was a misstep.  This is why I try not to follow the hype.  I didn't even ask for the price of the bake and shark. I just paid my $33. This shows how excited I was to try it. Based on my bill, the bake and shark were $18, and the 3 doubles were $12. Overall, the experience was disappointing, and I wouldn't return.\n\nTo be fair, i'm not going to add a picture of the bake and shark because I ate it when I got home, so by then, it was very soggy.",
+      "time": 1745777030,
+      "translated": false
+    },
+    {
+      "author_name": "K C",
+      "author_url": "https://www.google.com/maps/contrib/110971713134993659472/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIQR_n40TKDCjD22hGV8J4YHT_QvSZoz0cJYAzZlOqAWBWX0A=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "4 months ago",
+      "text": "So it was my second time here, because I absolutely loved it the first time. I was so excited to have my food. We came Friday evening and ordered 4 regular doubles, 3 chicken doubles and 1 curry chicken with rice. The chicken was not good , undercooked. Could not eat it. Regular doubles were fine. But couldn\u2019t eat the curry chicken or chicken doubles, (boneless). I called to tell them what happened because I didn\u2019t want to write a negative review and all I got was will \u201clet the Boss know\u201d, that\u2019s it! Not happy how they handled the situation! Waste of time, as we came from the Bronx , waste of money! Highly disappointed!",
+      "time": 1738445662,
+      "translated": false
+    },
+    {
+      "author_name": "solotheartist1",
+      "author_url": "https://www.google.com/maps/contrib/117930795213039105969/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWOZCZJsQ3s5Rm0gbV4og-3k7xPwveb-WW_YYqH69SoN1GsqQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "It\u2019s all about the DOUBLES for me!!! Delicious and perfect texture and flavor I feel like I\u2019m in Trinidad \ud83c\uddf9\ud83c\uddf9 ordering them from a street vendor in the back of a truck! It\u2019s the taste of trini food that makes it worth it for sure! There will be a line but it moves quick as the cooks keep it in order.\n\nYou have to get the fresh made Sorrel also it\u2019s perfection in a bottle!",
+      "time": 1737691107,
+      "translated": false
+    },
+    {
+      "author_name": "Makhimba Simon",
+      "author_url": "https://www.google.com/maps/contrib/101784335399555167031/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUKjeMoOHPAYFP6FeuEzxLlcv2Ja6ULsC9c7n10DocRfKJ4Ou4r=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "Honestly, this is my favorite place to get Trinidad food outside of Trinidad or cooking it myself (or family). So so good. I'm giving four stars because there is always really long line which speaks to how good it is but its still annoying. Come early, like as soon as they open\n\nBake and Shark is \ud83d\udd25\ud83d\udd25\ud83d\udd25\nDoubles is \ud83d\udd25\ud83d\udd25\nSnacks, Breads and Desserts\ud83d\udd25\ud83d\udd25",
+      "time": 1747014481,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "food",
+    "establishment",
+    "point_of_interest",
+    "store",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=11834515000328993126",
+  "user_ratings_total": 5321,
+  "utc_offset": -240,
+  "vicinity": "111-03 Lefferts Blvd, South Ozone Park",
+  "website": "https://trinciti.com/",
+  "wheelchair_accessible_entrance": true
+}

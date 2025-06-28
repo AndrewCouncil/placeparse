@@ -1,0 +1,443 @@
+{
+  "address_components": [
+    {
+      "long_name": "214",
+      "short_name": "214",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "East 10th Street",
+      "short_name": "E 10th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10003",
+      "short_name": "10003",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">214 E 10th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10003</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1300"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1300"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1300"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1300"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1300"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1300"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1300"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 1:00\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 1:00\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 1:00\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 1:00\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 1:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 1:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 1:00\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "214 E 10th St, New York, NY 10003, USA",
+  "formatted_phone_number": "(917) 262-0311",
+  "geometry": {
+    "location": {
+      "lat": 40.7293258,
+      "lng": -73.98596309999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7307119302915,
+        "lng": -73.98458666970849
+      },
+      "southwest": {
+        "lat": 40.7280139697085,
+        "lng": -73.9872846302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+  "icon_background_color": "#4B96F3",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+  "international_phone_number": "+1 917-262-0311",
+  "name": "ANDO patisserie",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1300"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1300"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1300"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1300"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1300"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1300"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1300"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 1:00\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 1:00\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 1:00\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 1:00\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 1:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 1:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 1:00\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108994516710989498466\">perle75nyc</a>"
+      ],
+      "photo_reference": "ATKogpcRupsBshGHsBz6P04I-btyx-xubxZJv4s5P5upz1sRuUEU_cq8pbEJ-vnRB0eJQLGTro3NG9AX1DYpMwO738SzgyA2U9eTZ4uFhiHUhbVDKW_bOeOBM8aNiOsNaJT-8z20kmksVWB3QkIYoowU1CcCuP8gp9mlDHURQoQBaBIlHCrN8SIgXYpPq1GRf7LO0niSuIUAHBxS5agsmEWDRnHURKKX5xXalPmm2DzBKZLS-aOfBEeMrXAQFZv0LyyDYlHSS7EINV3cne3ztsgt-0OULRNN5GPYA0y3ojAbM80n-pCuSUJDvirtSj1wMSVPtezI4mnXQ8GEiUakp0EFaw8z6chOgJ2flctDIYhARI1t_yGTifXEBYBTKWPDJh60KVIGM6qW8sjIVig9oGqFzRMU1ODYJRWDkS4PyuhhPl8sNOs",
+      "width": 3024
+    },
+    {
+      "height": 4176,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108160539494892655473\">ANDO patisserie</a>"
+      ],
+      "photo_reference": "ATKogpcxu3zgga1P5gVXk857dylGSIkC2zTTsCwswyFOqlgIrMPDJSBabK3wlhQftmDZFtrlB2rSq13SqkRjlHb1sT2MpjMU1lP6a_Y16x_FasGq6iF18fk_UIpoMa17reSuow0u-kxwaCVDtk9hEAe6fq8gh0GriAyhcDhfx1Ls9AfiCt3HReijT0LOzYkj-hXBWnuim52p0jGcb9C3yqY-YXd4ysTsy3jD88k-GhvYVLoUDEdA2kJ7n6M2KZg-UsMBb9-ja3ZKQoqhL3WnXTLedcZLj3CaOwVIcvuipL_tz0ODBA",
+      "width": 2784
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113202607745299869186\">Phuong Nguyen</a>"
+      ],
+      "photo_reference": "ATKogpckS6hpiH_Eh1F1hcX9ak4bGeCEiwTgFdDI2j_uZmfohrOkAYlDov9kE020DaCkXHCPmuBiS4LO0wJEtImDi2AuSUkKG1aAws4A4MpPyynLyb5EtWKyHB-4eS6s4fxPetfWR0YOrc_08pWveVpWuWaHpw-jZsObelLIU5uyrMVglbu1IH0akJa_DKPCHI3bK1LGErVAn92IfA91-FAbq5jHaKiv6qhneLqgvQmLTvj1z7LmKFhxswHHWsmecxLW6I6YUHGVDdin9aS7ahsPRkmy31A6HnfY6nFdaCF0w9pQg77rZ8CkcruymCXiN4Doklz_8z0-FsSpSHFniOom5m1FTNO-4GszeXXz0zNYQAix-OZ8zozjKHMSo3AJMIrwCMGnWEunUpcBw7b0iu5rQ6LHEBtaFJHCdxS8OQMr_sxjJA6QwHi-RJzJyjcrvtFj",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114899797906468495989\">Caroline Cen</a>"
+      ],
+      "photo_reference": "ATKogpd6KCputv7-ukPeKecGp93B8a92Ga8WwJbYvbuJvd3y1QPPLZr3TL0jNKiCDaqZx2-571J_hBrjO3d-QIrkh6bDS2JW3U6I6AWILJN22a0uFhFyuCqH-A8jrXYTeoJnzXOiuunk6S_pSQajH4PnK-khr_Z2oKU5cnx7vp69971HNCMNRYNOjaWyCEuDz4i88V9ONNhyw_JX2JNNK6v1m2SfeP6YBRW5C5bJtiAPWkaUCY9CcLbIjkDVGXPb7YPmpeW0sAkQkBSd_F2OjYAYTzrrOh5Nrr3xiPa8zRtFJGfFolpy3ZGm1C2kPnfuDhVH3RzBtVTpMX-djOwCT_OYeNQykNY1VNbMKLjJEXa6jRSxnlhYe2ggb7n4vPS7kbpal6ibybyGoVEETM4_vqnIG6K3HaDmajKhg3iYnM_7qBzmGw",
+      "width": 4032
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113167487700020376789\">Rabbi Rana</a>"
+      ],
+      "photo_reference": "ATKogpdebTdlGPsmoMRsAxBsBRXxQwym7a4oI6Ao2YE0O-AajIyxaBIvoxnTzWJmuOyx_jZKIiazHPYimhYCpOiEBwe6G_wjoGk2jzK_P2mAHiRJANFkjKH_-bbgJiZiEgc5P1dH4YG8N7ZFjMuMMql5aTBzxF_nQYOPVKcEcQ9uL_Gw5nWI4qLvmvSv3KnLWebGn8UccD3gcvl2bZdy-IQHj-y6Yo6QA4KVWLAWqnPzDXpPCUpz5szkepZpbG70wr00eprjvBfrbXzo39qUU37jmHELX-JCzhwKfpel-r4-Emv92suJR2Vnbn4X8L2yWnga9D36KmL9wQp1-PcPDv8tSefQH-OKiHTkc7N5MCkoum7TxRrBNH4v3lMgw5U9ZY_whLENrZOmqSGN8A6dNFcAUKM0du8Sc2VyphtY0MfUUcqVaFtp",
+      "width": 3600
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106622831094783562236\">Tim Hung</a>"
+      ],
+      "photo_reference": "ATKogpek4RJ3Zbs8sOIJoiJ-1CsZABO6IQtvP3u57FQmV2uaWnVw7HxC206QkjJ4N3tqr35-wu8mOQCJh_3JRFpD81u84jydP1ufrcrwPeKKVjz86DhuhbtL31P1TEM0od6CE5hlvl5VrnirWUMtVconCMyY9psGhiicB8c5i0SBc3Ht3qZZkOgnos6f7IjMpx_Wvg9-c4HdPmpczkqOEAGEBPpXpfbw4MPkxpbSyg9h2olyENK3zumXskbNeIYMYrrPGW30eUYdlfJdU-ua1UQOZL25g6GI8Anui8RCPC656KhhElirPJvCdINNBM8RhjGma1GqYOJwfH5GvULE4Ufx40goxBcJTMkqTx0xqF39nsmmqkuPZt8Z5XTO_Zfoh4QYykOkhgpmukkwOZoDtQb7swKXhb9MmN_jbeFSHpfJXpofljYPTWlbyU03bizFBtHP",
+      "width": 4080
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103099793088979675281\">Elena A.</a>"
+      ],
+      "photo_reference": "ATKogpeQaAE84lRiQu0C6sJvd7GDlkjHc6fFPH8Byxim8JUdTJfT0lBJ3_yyVY5Ft1dp1Z-oHCf4ceBgq4e-0FCFBXf7Q3dgahr2hWq6dBEjWnv0gZ65G_5Km_lwTPm7Bx4HyQhcGqJ44NSQajelgvHjvrQfQQDerF9KajGcqIesbEh4Zw1CUFNBroF_i5w30dOnjKHyNQfduuVYxm_scXX05imu5kSgDgeGcr1Hs2WJ7zmowUYd-lewv6bd3tQd4K14oq196v1-wDAdZsNeHTwbyi59ppoAZKPvmKt2qmna3Ww8Q8wbX9ozu5OOxC49cgZIGerK744h0nV_Uj0cdk3mBR1phUJxZrsEZ5yXl5_aM7e-4s5mmo2x-gv1mg_j7cN8Q2lnY45xhLdQmPEiIRLpdmIZ_8LoHxXOSFa6du5zTf1ReUaw",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113395433060572539793\">Genuine Guo</a>"
+      ],
+      "photo_reference": "ATKogperCX0thkXikQz9gQiGR1Y0NOdhmlIjS4W44FHhZKKKgdlFT0HJ91MbawZtG9ZfW_Ee0D_1DXBeAe8olZo63__WoVYWs4VyP61Gtg3-Z72jO8DMQlIeA10eFxCZ2uxOK2nxKT2FwHBx8mWYX_oP1fVw_Y9fufiI52hLK1I7x1Ru3Af1OV1Los1_41WzSwEZiSD2vWtN7R65jkFkAliRqcvcYt41kmcUrnCGsDz5snkvZi_cWBCKKjLPckqhV0DQo4szNLv0n96ozJYbN9wZcvdRAXuw_pGLz_Fm8lbp5y-Hqoo62UeF5R-AOidcONKIG57xL7v7CCi3L1sqTSyN3r2ZwKuttkGG1IPIGsroSZZajMnJSclb8APXjcK1SaX1PjlEPDE0zMKRJNXXWpMlsJmYFaZ-kSWVu6K33HdcNGK87Q",
+      "width": 4032
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116564366357984569440\">Andrew</a>"
+      ],
+      "photo_reference": "ATKogpf_zLHsIqNjUnt_IxKC99FfqjaQCBVa3EROy6ld00jg5k2aljUgTN-rVWobY6zO_yInHh8dX0S94Fy3ch8SYT5N_ULM-BJwaATaj33rBB-_8wuZZC3G29t0LE62h5RY9DgNL8n3HSaxMQ6UMOEJwdbsfPrsfZKuyVmRL6LXqfgHEosuPTRh70FX-S7DQDRwR0zLgh60pSroRv5F_k21kwwPXU9t7hJvnoCPzcNZA9iHMTK_v4iSBLWX33HusF3P0wsJus9zZeKhip6_9CVNjQSCfOnck_PgXeCoJRsY_m3A0wXlvgZ6xfVWDwwYe7LxP0rK38JXVQf11flhYwDMbtj8fj0P0aaR_BpJ5ktarTyuxWcPeKGcUiKvb1T0IDTbDfh8x23JY_1ACQiW2WvHbN8k5YJamQ-_cr1f_Oh5K8wDxkL9",
+      "width": 4000
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104633562915625419250\">Niya Ge</a>"
+      ],
+      "photo_reference": "ATKogpe-qY32S-fCdZrjMWlEYU3f4VbUNWH-k1ioresF00Nsh5LLrW2b6hHEX-OUE0pN6YCqwUgAsN4YudFVW_quohJ0a1CsUqpa6Vt8k0ag6dT6mVrFUn-OZwH0G8xbfw-wlNhSu_fWyajcDkVtCzfnZNBrfjVXLeFIrO6gv3he7UcDvqJgEA8H3k1w5-6NfVxK6A5izKNrNJAMKWPSRP_-DkYP-2K3s1fiRhPf_PZYXHh7Ei0LWrUzy3_sVTzmC2sVmhMEOZq1NNUSQsgfgcjMuBApvtlW8i0-vetDDeN_hswvQ20CW1mhl4OVTjJvSQoLnLi2-beJhp6T6Xw24HiE61-KM2f1c7hZJkBvkcNG56czaQn0ZytNT59moEa3J69aEcOkAMhvn2EUy_QsKCaIPJyRptOyBUJ1GEwl8NxGBkgh4g",
+      "width": 4800
+    }
+  ],
+  "place_id": "ChIJIUflsoxZwokRjZOVMKRhjWc",
+  "plus_code": {
+    "compound_code": "P2H7+PJ New York, NY, USA",
+    "global_code": "87G8P2H7+PJ"
+  },
+  "price_level": 2,
+  "rating": 4.8,
+  "reference": "ChIJIUflsoxZwokRjZOVMKRhjWc",
+  "reviews": [
+    {
+      "author_name": "Henry Ruan Li",
+      "author_url": "https://www.google.com/maps/contrib/105334065682346186603/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXAWniZv23SxyZo2UF1cR74QeEt0ZjEu_KQeqKSsByirlANtOk6=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Absolutely love this dessert shop! The desserts are out of this world. I tried their signature Basque, and it was perfectly balanced\u2014sweet, rich, and full of flavor. The presentation was beautiful, and you can tell they use high-quality ingredients. The staff was super friendly. If you have a sweet tooth, this place is a must-visit. Can\u2019t wait to come back and try more!",
+      "time": 1742926810,
+      "translated": false
+    },
+    {
+      "author_name": "Nick S",
+      "author_url": "https://www.google.com/maps/contrib/115044447080496717666/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlTttR_6suCv1G3uNxETp00P_1rjkvOx-Lx_2z_EIO0zj904c=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "Ando Patisserie is a small desserts shop located right outside the NYU campus, serving various Asian desserts.\n\nThe inside doesn't have much seating (only 1 seat) but there is a lot of seating on the outside on the street. Staff is friendly, though seemed a bit overworked as there was only 1 in the front of house. The food did come out quite quickly though.\n\nThere is quite a lot of options available at the place, though we decided to try the earl grey egg tarts. The egg tarts had a dusting of cocoa powder and also boba on top, with a decent amount of earl grey filling. Since we were here for a trip, we decided to wait until the next day to eat it, as we were told it would be ok if we did. However, it didn't seem to travel well. The cocoa dusting basically fell off most of the pastry, and the boba got cold and hard that it wasn't really that good. The egg tart itself was good, though a bit heavy on the cream.\n\nThe rest of the pastries look good, but would probably be better eaten fresh and not overnight.",
+      "time": 1745447653,
+      "translated": false
+    },
+    {
+      "author_name": "Saveur Spot",
+      "author_url": "https://www.google.com/maps/contrib/100021487886653695590/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLThpwxZAsEB6AVD86ID0FPxbQiJ0eB1bvwRR_yni3wY-mNlQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Everything we ordered was just excellent. If you love the contrast of sweet and salty in desserts, order the sea salt cheese cream sponge cake. The umami salty flavor of the pork floss with seaweed complimented the sea salt cheese cream filling. For a unique take on basque cake flavors, have a slice of the osmanthus oolong basque lava cake. The floral notes of the osmanthus pairs well with the malty undertones of the oolong tea. Add this spot to your list of places to visit if you\u2019re ever around the East Village.",
+      "time": 1741376641,
+      "translated": false
+    },
+    {
+      "author_name": "Michelle",
+      "author_url": "https://www.google.com/maps/contrib/116284362867542468224/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLr1HnFNMgRu0V2w5ty78ah0WBilBhoEpJa_FLYx2SS7ODqpQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a week ago",
+      "text": "We tried the oolong basque cheesecake and the mango pomelo sago. The cheesecake had a subtle tea flavor\u2014super creamy and not too sweet, which we enjoyed. The mango pomelo sago was pretty standard, nothing particularly standout. It\u2019s a small shop, and there was a bit of a wait when we went around 5pm on a Sunday, so just be prepared if you\u2019re visiting during peak hours.",
+      "time": 1750103894,
+      "translated": false
+    },
+    {
+      "author_name": "Aimee",
+      "author_url": "https://www.google.com/maps/contrib/110789031301842757844/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJnJqCflwmPXbLwtLLY_e7TS1eo79VZSmfzMH5cVwp55vQJVrs=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Enjoyed my experience here! It\u2019s clean, service was nice, and fast. Got the osmanthus basque lava cake and panna cotta. Would come back again to try the boozy tiramisu",
+      "time": 1745178784,
+      "translated": false
+    }
+  ],
+  "takeout": true,
+  "types": [
+    "bakery",
+    "store",
+    "food",
+    "point_of_interest",
+    "cafe",
+    "restaurant",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7461727515440419725",
+  "user_ratings_total": 1744,
+  "utc_offset": -240,
+  "vicinity": "214 E 10th St, New York",
+  "website": "https://www.andopatisserie-official.com/",
+  "wheelchair_accessible_entrance": true
+}

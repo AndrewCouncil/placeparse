@@ -1,0 +1,806 @@
+{
+  "address_components": [
+    {
+      "long_name": "53",
+      "short_name": "53",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "West 35th Street",
+      "short_name": "W 35th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10001",
+      "short_name": "10001",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">53 W 35th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10001</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1415"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1630"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1415"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1415"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1415"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1415"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1415"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1415"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1630"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u20092:15\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u20092:15\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u20092:15\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u20092:15\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM",
+      "Friday: 12:00\u2009\u2013\u20092:15\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u20092:15\u202fPM, 4:30\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20092:15\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Late-night izakaya for soba salad, sushi, yakitori & other Japanese fare in a spartan-looking space."
+  },
+  "formatted_address": "53 W 35th St, New York, NY 10001, USA",
+  "formatted_phone_number": "(646) 368-9459",
+  "geometry": {
+    "location": {
+      "lat": 40.7501561,
+      "lng": -73.98625419999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7514534802915,
+        "lng": -73.98493281970848
+      },
+      "southwest": {
+        "lat": 40.7487555197085,
+        "lng": -73.9876307802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 646-368-9459",
+  "name": "Izakaya MEW",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1415"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "day": 0,
+          "time": "1630"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1415"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2130"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1415"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2130"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1415"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2130"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1415"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2130"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1415"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1415"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1630"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u20092:15\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u20092:15\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u20092:15\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u20092:15\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM",
+      "Friday: 12:00\u2009\u2013\u20092:15\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u20092:15\u202fPM, 4:30\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20092:15\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106209373168147329910\">Izakaya MEW</a>"
+      ],
+      "photo_reference": "ATKogpebdrNtsi6HVwMUJR6k7SKN4VijLlEXpaUHp7GEUmquHTqljrrIJpjFCbbPl2nz49P2r59zNUAOpoQLzGzaYfl1eAlQYAkNp75kUQK3KaeCeMyvtsXl_vKAy_rSVLoHaOBRcEv-rr28QzcFIBuzJ8_5kUo1nMCuJ-j8-T7HMpaFLldgR_fERVZ36uzpTBFeNP8Bt2sNHiKPqnsWWxwoARXTrzhSY2aiafAfTsDupm1hyUkrZxjLTvqirXJKhfNQhHRT4UOSzd6uRpnQZG3C-y5IPCxy3jeJaRT9vM6aLZAweQ",
+      "width": 4032
+    },
+    {
+      "height": 2627,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115171973250484315827\">Megan Lin</a>"
+      ],
+      "photo_reference": "ATKogpe_NeY0aq1ODuz9zIccxh5ALLraDuB5dx8CAxnBHCKUA43zGiwIajkqqgpVOLikqm1wkTjNHSw3ik_QtzssMpFg3elTUtr8Il85tHQUBO-tCG3a4B49m_dSaR4dAgdXfQb4vRk45jH2TDi7YfEahvtbvgkxFTV_-P8mbP-TFWJebjHde3gFaILrLYmjybuGnGsY_5G-sVQXu38vKMlUDiMQLpbZUg56SzisGNd8iiCZIaI-CxrxVh6w6gckzD1kkacJG-12fdh-K_9kcPDTkj0082jSJ3NX5FD5mDTk-xsJE6WGXEShluJWHhtMlqauNvfElP9GpsMao0cKiBzSopKvdjlMYz5pL46moiqx8kA8lrmkxIHsGtMBuKTAkoZRmR2VbHnj132DnBenWE3DdawCJz4PEzrv4U9_m3AlZqs",
+      "width": 3848
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106751832816964117460\">Aydan Kearns (Ada)</a>"
+      ],
+      "photo_reference": "ATKogpfulPQp9i6XKQU4FSV-MTHHgqE_u4brOTs8zdHcEHkNnlZJn0o0xx5FL9xIV7LYxIQXDZ0TpQWNwjtpS3ENsQXNiMt0q6C1kr-IrICzrmhgFZeCfZK4oljYA-u9eksbsRaDIgt44EL3Qy7b7p4ALYg7o2groEocKD219q2Jyp1MgiLKWb109MLVjIhYi-FS6qxGvIIaFmG4aNJ_A2cgFX2DHWGqzob2TOsGIV2wNb9xdmrYmoIXHSjPqBsjcZ2hSFWM1RJNeJKtgN-R4cquv8hcD9ZVJfITpwC5YbGwsRJNS3XAbVvWfzRsNkqeh185gRtRBBm_giMRkVAO03CCz7TccgraQAExjTlGAGaU-gjihZXzvWmlEk_f4v4T_DlOwhzhnoRaVO-VHwIH43HPxjy3Rt05byQ6zbsV54cA4eA",
+      "width": 4800
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106022290391959656407\">Christine L</a>"
+      ],
+      "photo_reference": "ATKogpfbfavfPicKaoehDDOq51nhuEq1cd_F0zd6Po7LHOsm8PG2whPB4nrdsrxJNfKxu3UdXTV5a28B8syjqKa_YieEUAfgSg_4OLCcMnBULIfBtL7ODwT5CR2hMT94O76CZSEuu16iIbiDEmgTjWGCcp3eo7gBaUKbyFgULh76BewoP3bG1AuX7EfKSR6buCjb7KEJT_CZ7LpS6oLBpFRhuAbhOHCdcgKwyceoJdtoJYjj82B9_VUvqg3bp4_txjhaDBy8Gb0VMy5l12gKXIDgbbylEuhYEipuiEqBnzs1UOix5La6Jrv7ScrPjafJcMfrOphnyhtOW5irZvrB4Prna7S5TnQJerSzDa86VEf_M4QsuE4rRux0n350xMNRoWsZsLnfIXpDqT0ZzQRdU7tA0VvISuIPeJYrHVaBYs8-oMQe0iI",
+      "width": 4032
+    },
+    {
+      "height": 2591,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109149907687558941582\">Natalie Yung</a>"
+      ],
+      "photo_reference": "ATKogpf-8tjDNOe7byWuS70byPocA_uNW_4dNLxuh05rBE-ope3uXKZWLLUAmiE-pU4TYvyI2AaWRTrqZWObL2U1y66GGy-17lnPPIsEi-mhNIKljeUyxsyYvnYcwu2wJKx4S7jFs1U6Ve42s-9BL5gkL_B4SjspWwenKGNrl7beda_PZQjm85QyYGq1q-B2OaoEGQGlbL2fTm28LKVEtoK4UEwQcWdrZc03ee0eQ4NO47xtbP0xEUNlpIgGFK4pRcjDZo9LWNM0Q1s3IbIck5fzzOXVKRJRwNmxOAlTlcbkxbQeJgqs9Oav8OfZXcu3TlcZf8ol7xg-E_vGIZ5AmcKxFwB_I36k8ohTOzDfuueKROFgO6w61cXN94iC2LxRIY3AWIO_nbAUrObBUlIb915rKQpihB_2bJxN7IC9nT7pA68",
+      "width": 2591
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101206385386797719110\">Babak Babakinejad</a>"
+      ],
+      "photo_reference": "ATKogpec3FlqnkM0IjCYUAVR8HdKN46NRtEHIBO7VJ-wHjRNZQOMOtal9U_AEoXPQKABmwlMAD5gksyv4I4civjrWZAqA6CFnfnsGsIWORMXm-uHLIuLSP59R5WFhqzjDzBpEuUZRvLccdoB7Bt1C135j4l2FT79VR_xj0WZ3-jEwA_Z1HhuvRmsMin5h81AdfksET_VVfyNo5Xm46TbY8-0RLVsFuWeaQH949NqO6ncIfyGWfGir8sfJQ14Q-AcZfQPd0cqvjXf43MxGahFBVZcqBNXWwPN9LBdIbBnTYDnMhc-9Hr2HSZJG_y82nOodb72MftwI7vAGxF1n2nMqi2yYU2PeJXxwt2Zj-9neiewLNEMpx35ecHGdu2OkWXrXXs1VZmPfQ7NvagyTY8ZZvxYI0TyHDlprEnIuKtquDJrmFN79qlHs85Lm3doYX_b5Q",
+      "width": 4000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115837901027739468098\">Thomas Michael</a>"
+      ],
+      "photo_reference": "ATKogpcRFohI80MaT2oCywKBtz1A-k68MW_XlBN9NLfPj5e6gMyc4mGUsSTLXzllrYyeOPKP0AF9JI7OSIYXybRHfqkFx14RJey01o4LtBT9OPhfy33KmgNXgM4UcFXbovuBM44slK-tDkKFoyHZPWDcNPWheFKEQMLbOoV94KpKzAGzxAl4PU8p8QfTVHjqMhPOdnoTKxnRv0z43Tq6qAc9fGEkJ2ztCAFMDxPDfXEeuKXtsz9F2TzqwaQV9ThLVaTsGtoubfz9x1OhokySlm2xE2Sea-ZuLIMby8ytS0jl2bfoas9VEx_qG-mZzjso5S9Xf7Zvc3ADrbEQ6fkjqsHfOQrLTnat7WauriHckoihvivTHjnkIJM-3dzdY5EsjVzuk2GwvjWbYzZERUNNKhiLSpwjovSyCO386fGqmpeTVutlyA",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104233833295585423679\">Devin Chen</a>"
+      ],
+      "photo_reference": "ATKogpf_htDd6UT6h02MWhDa4V_x_-k1ogoDmqEtLlzexzQSFMjAUc31q1cD4OZ3TbI-7_ch2gN3TZZbXp3L4gRBp6wiKh_BbBBtVb0h6PKjbt5KW5MuBp8jkwsZIkzWnBnARBqKNGSmLW2mXieuxsjUJF3JN7Pa7zCA6oAVfKj3vlIjfFX3yMXAGJmKJcmpmckR6VN8EyYxixYXdg3d-PpnZALgBkHbE5YFWHiuFiWswxapOFSEYyiV8HSFJtHntBrk2s7-i4eSrfDilDtQLm6YMGpYsyD7oSDxY-xXuJEX4z4Tx5YMf7BSZare8NI1OyJVwemA2MmZy88auxQUBsZ9_6AEAwVTTScn3ErYn6ULf6Pgq6_iDCnMVKl3UAl7Awcr8hhL8QqSWESQyyV0fzMVv_vahW25mkmgv2yVodKUNmZ2ONjK",
+      "width": 4032
+    },
+    {
+      "height": 2992,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106659319545655249197\">Renaud Morvan</a>"
+      ],
+      "photo_reference": "ATKogpeUS2zkWfs_rwejD5O34zH-bIjXLtE1xtcAwmkdtCFcJrXsy4v1ETJ6-9pmrShq_M5_vDO6YpE-CGCihW4rmnr1yb_Q3BgPE11j8_I-b49zSpZSVqqcol_7P8XFGRfOiiFM-bgE3cLFw26xHPA84kzhkJB2mhBAq-EnwfI4Ron0bF7jrrS4rcxXpzr0s4J5kBB3CfM9HO6pJmCjeQ2R3jdBkvSJ0IovhUmQYqw4kFq4o1cAZHfZN1ZzF2yyJrVo_edWIQSlIFLnpwkDpGRT3eN-VkmL2i0Vw0c-g9DnP6dsIYSHpbQLqp6XgpEAQXrhWW4gNQxmRunVwBcZmQ-dcoz8l7WtJXj5WxK5yRKe3vnrUgxrx3kXzZojnqt2UYJTOcDeKeX-jqUDC6o06Vee60dWqJnepwpY3s6Vm1AYQ-LbkGQ",
+      "width": 2992
+    },
+    {
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105886249995844039245\">lee songme</a>"
+      ],
+      "photo_reference": "ATKogpdxuIKhlmUQKgh5BwZJ-znDJQGZHyg5824YYiQOKEyxrdAw0jLMp4KoA5E8t2sFPzSCpdXduUyj_oLfREL7MI1C66J_KTxFlHenN-ebezGR0uSQToOk0UnJLPYwjog3Y-Hkwy5Z-Eb40l25HZTDXScAQeiOzmmq6y6SD76-Pj071mU4ISXLiooGTQB4rrYKo0Mqz_W4X0s1kynHlTOMwKZbNvAQMqiO1OsGEHRbrD_c0LJ8N8GPGN_ZTna9ExB8lFrm4r9aKxACRn1iMKLNV88y8rjulAyhvQ9dMz6Y_Bm4CjPcEYQ4JfZfZnZMCQmJVq0NEObMJo280usQvudEN-4A3051GFAnMs4J9X7bWX0MG80E16EDKwGgcmW82Rj9uFSd3W3cdUA9m7ZkB7i1nBfsq5CHKOHKQGFLWwiMXUs",
+      "width": 4000
+    }
+  ],
+  "place_id": "ChIJh_4leqlZwokRJxjh98xRrd4",
+  "plus_code": {
+    "compound_code": "Q227+3F New York, NY, USA",
+    "global_code": "87G8Q227+3F"
+  },
+  "price_level": 2,
+  "rating": 4.5,
+  "reference": "ChIJh_4leqlZwokRJxjh98xRrd4",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Krystin almonte",
+      "author_url": "https://www.google.com/maps/contrib/117800206654093611915/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXMfO3-3XgHCn7z7CuJuWYzpi92d5OkGDEBPe4mADSvQX-cfoDDeQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "in the last week",
+      "text": "Hear me out\u2026the food was delicious and arrived quickly, which we appreciated. However, we informed our server of a serious food allergy and specifically asked to be told if any of our dishes contained the allergen. When the first dish came out, we spotted the allergen ourselves and asked for it to be removed.\n\nHalfway through the meal, the server returned and admitted that other items we had already eaten also contained the allergen. We expressed our concern to the manager, who simply smiled, explained that the server was new, and walked away. We paid our bill in full and left unwell and extremely disappointed.",
+      "time": 1750631354,
+      "translated": false
+    },
+    {
+      "author_name": "Vanessa Kwok",
+      "author_url": "https://www.google.com/maps/contrib/113782090199868749680/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvvqx2jl-I6rIo3xRXFjlkQHagccAmMj5-sDgeAm3lCc89YHNgJw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Love Izakaya MEW.\n\nThe tapas style dishes are perfectly portioned to order plenty and share. Must try is the kimchi creamy udon, it\u2019s so good!\n\nService was good, they\u2019re constantly busy especially during rush hour, so it\u2019s quick and easy.\n\nAtmosphere can be a bit overwhelming. It\u2019s a smaller space so it\u2019s very loud and limited space.",
+      "time": 1750054600,
+      "translated": false
+    },
+    {
+      "author_name": "Mia Huynh",
+      "author_url": "https://www.google.com/maps/contrib/114746114434966868203/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWE4czd-grUsa03QSphvyCOclM_Ar_KI27-4Jd9NwQtCduvru9p=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "I've been wanting to try this spot for a while, so I was super excited when I came here with one of my friends for dinner. The door can be a bit hard to miss as it's hidden between Cho Dang Gol and Han bat, but it's just right there! You go down a staircase to enter and inside, there's lots of tables and space for groups of different sizes. Service here is super quick.\n\nMy friend and I got their hamachi tataki, omu soba, and kimchi cream udon. The hamachi tataki was good, but nothing crazy. I really liked both of our entrees though. The omu soba was flavorful and full of pork belly and topped with delicious eggs, sauce, and bonito flakes. And, the kimchi cream udon had seafood, mushrooms, and was creamy and rich. Would love to come back here to try some of their other items!",
+      "time": 1750776969,
+      "translated": false
+    },
+    {
+      "author_name": "Alva Parinitha",
+      "author_url": "https://www.google.com/maps/contrib/117815934995809706380/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkohZo8CTksnZjNYkCneGqBdpV-7rbP_mEe_plmDzOBW5DWFpPlg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Small bites over large portions\u2014every time.\nIf you\u2019re someone who lives for flavor-packed dishes meant for sharing, this hidden NYC spot is calling your name. Every single plate felt like it was crafted to nourish not just your appetite, but your soul.\n\nBest $$$$ spent\u2014without breaking the bank.\nIt\u2019s not expensive, but every bite is cooked to absolute perfection. Perfect for a first date\u2014affordable, cozy, and made for sharing stories over shared plates.",
+      "time": 1745263261,
+      "translated": false
+    },
+    {
+      "author_name": "Adriana Medina",
+      "author_url": "https://www.google.com/maps/contrib/109243482200772530644/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUHUoymr4fH3SwmMONWOo4Bcd-fmIf3wWkYf7ND5BioPJfY33xvQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Izakaya Mew always hits the spot. We ordered from their lunch special and were so impressed! Everything was super fresh, flavorful, and nicely portioned. The prices are very reasonable for the quality you\u2019re getting. The space has a cool, modern vibe with good lighting, and the staff made the whole experience even better with how friendly and attentive they were. I\u2019d definitely recommend checking it out, especially for lunch, their lunch menu is a total win.",
+      "time": 1745949621,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1415"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1415"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1415"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1415"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1415"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1415"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1415"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "type": "LUNCH",
+      "weekday_text": [
+        "Monday: 12:00\u2009\u2013\u20092:15\u202fPM",
+        "Tuesday: 12:00\u2009\u2013\u20092:15\u202fPM",
+        "Wednesday: 12:00\u2009\u2013\u20092:15\u202fPM",
+        "Thursday: 12:00\u2009\u2013\u20092:15\u202fPM",
+        "Friday: 12:00\u2009\u2013\u20092:15\u202fPM",
+        "Saturday: 12:00\u2009\u2013\u20092:15\u202fPM",
+        "Sunday: 12:00\u2009\u2013\u20092:15\u202fPM"
+      ]
+    },
+    {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1630"
+          }
+        }
+      ],
+      "type": "DINNER",
+      "weekday_text": [
+        "Monday: 5:00\u2009\u2013\u20099:30\u202fPM",
+        "Tuesday: 5:00\u2009\u2013\u20099:30\u202fPM",
+        "Wednesday: 5:00\u2009\u2013\u20099:30\u202fPM",
+        "Thursday: 5:00\u2009\u2013\u20099:30\u202fPM",
+        "Friday: 5:00\u2009\u2013\u200910:30\u202fPM",
+        "Saturday: 4:30\u2009\u2013\u200910:30\u202fPM",
+        "Sunday: 4:30\u2009\u2013\u20099:30\u202fPM"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "establishment",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=16045570988164847655",
+  "user_ratings_total": 3221,
+  "utc_offset": -240,
+  "vicinity": "53 W 35th St, New York",
+  "website": "http://mewnyc.com/",
+  "wheelchair_accessible_entrance": false
+}

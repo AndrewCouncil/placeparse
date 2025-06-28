@@ -1,0 +1,424 @@
+{
+  "address_components": [
+    {
+      "long_name": "35-01",
+      "short_name": "35-01",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Broadway",
+      "short_name": "Broadway",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Astoria",
+      "short_name": "Astoria",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11106",
+      "short_name": "11106",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">35-01 Broadway</span>, <span class=\"locality\">Astoria</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11106</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "35-01 Broadway, Astoria, NY 11106, USA",
+  "formatted_phone_number": "(718) 545-3980",
+  "geometry": {
+    "location": {
+      "lat": 40.7605556,
+      "lng": -73.9219444
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7619096802915,
+        "lng": -73.9206836697085
+      },
+      "southwest": {
+        "lat": 40.7592117197085,
+        "lng": -73.9233816302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-545-3980",
+  "name": "Caravan Chicken",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115071871564562861124\">Juan Pablo Sandoval</a>"
+      ],
+      "photo_reference": "ATKogpeIs0eeiXMcKFk224m1-418ZkKSchltXxLhQcqZBTeUy5Q2m7n-TSy3217Prt3x0-Fwp0pN2drXF6HRMebuyaDdvcoTgJMwyRnEUkHxWNMhFkIvq3Ir-2AinfMGynZT5W6k-4zoZ2Z3Ry8NOXZ-PxV68da2h05E2_48z8HyKK1cts84iW1ZldbM8pEHhWaqcwTJXL4dhtyKe75r3ZnF-ly0eascwJbXmnneXNYi6tg_Vzbo17DuGvII1TQppV98H0kSoem1gV_6yKfPfNOq8pO1eO1RsMTeiCw-wsYh5DX4NJAACx7Brc_MWfD-23dHBeWNGvVb5upR-R0UXN3pJHAfPy0HB5IVNQE7Fjqy8__WkAaE8GJ_5JQZA_mD13CJCvIFB4ptU-Yt41FJqSxGRtyon-wkJxsVNEUSfIh22_kTVx5H",
+      "width": 4032
+    },
+    {
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115071871564562861124\">Juan Pablo Sandoval</a>"
+      ],
+      "photo_reference": "ATKogpczVdqDQxlYTe1zTZE92wnJA3e8mEyM5s9NuZb8ZkdkB__081FFjk9qZ27GdVSUZST1kKjT5LXzLNmy0VJUNR3VCncWv1phC1mFdox_qtD-pKiUtjsbXJX06fxdc0rswkK9C6XSZPFw3J8OHx15TtCBd9tQwwmbMOKavG05rknd-i0We_5bRMUG2_oeJ-XUdx79aa8lPJv6POYeXdHo2gitUgJlyz4vHLRYHLrvlqcFQ7TEV9KlROEhljYkQipvSKPpn79IupoViqRctoX77_ViCrRWZQl--wF0aoHMDtm4C-fElwolyh1f8wQ823c5_lGST_mGvw53fqJMeSiIdNDkRdGQG5S6JAzqoEFUyS00MpVOa4Dlyne21H3PrYORTUT2x4Q2Qt2UPvFTM5yBjfoNNVn99UOdKmU2vLwjzOpLcOWd",
+      "width": 4800
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114422551583028080541\">Christi Balaki</a>"
+      ],
+      "photo_reference": "ATKogpdpyqaGVuOwRLh6OQ6E2DtQr8oFwmTE_be9YEgaqDs9bIgHLDaa6cw-12jQyAFIw3LNAXPKWtpqrW3F6bPQD9mdyYMbNGu8Z8wy48CWtZQmvBCzotuDXF5pf-PXa61RqOnhXiv_WYZi1v4PHt2KC7vJv0U5tK-HmWstsWJVVo99c1LZkdeoYJV9iy-H8u3tt8PrU3nWRmgUg-ywQrBSf9qLIDwX90oybF1Dm7E7K2oEovWFeo4ylpAZ8E8t3Bmq2UaRgf99FYzUT5PGvv44XqToBfNw-HxnXrw8pGNtva6zqMpNReXG_LbHWfTLSCj8sJ0kuSxm8ZLxPa0Py64d-e1rIGmD-T2iV4MGgr52NglMr42aEqRKlpypC8BEOvrZR_HYz4lbX1zgFjyjUUCNcOe0AbeTwIgnqBIJESioxFP6E76J",
+      "width": 4080
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115773041748447717437\">Johnny Novo</a>"
+      ],
+      "photo_reference": "ATKogpcYPd20SxKiU_NIWGpAeDtAt95hp2_9riF8u0u0R3TeSSCv67s7EKRBhZs0-fp4Bcl9_kiG4HrN9yJmxP-lh02EYjWlSuN5mF9Oebsag6_ayNCFXl-7GrzCwyxvRCPA0CgpkkoZ_Lb0OO2J4ndCDqN4hfFsL5RPYlhYKVtxNyY4ulKluaZ6qar1gw1cgX704RVIOySJi7VPT4XFGgqGhyiA1fLWVBgMepgqr4ANZnI6IsXfUceQck9As_m8qmGDA9lFhyBQPt5JMcyyYRZKygjYoAkNGQqRVj8MYlghlUDKl80BvCoU9ryhoFjRQ1prSHy3FfOR_M-2Y37uFlzzDPxymC8ZH-nB41k_MBT9V5IDWNKP76ygEX5Ur6HS8MCjP6otX_gbuFkXq2mb1huVE4CMFzgYGgBv2HrCPpxrfNmh5cCZ",
+      "width": 3600
+    },
+    {
+      "height": 579,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102912249169803941507\">Y. Z. Li</a>"
+      ],
+      "photo_reference": "ATKogpe1D2VwEVsnjLyDKu4uwB3aPwa9OqbePL06ne-1P3LaiwT3rxVjAULnm5AxpU97EZd2ZFlYCWynr5CR294LAiNXpBJLhiUny0qzT1T2SOiQ9km_v3ep0cr1fcpCk3PRqODLgqTLDDxi0ZAyESNWaYAUVlQSrfBImkg2oCJYKJaQE7ENkJOVlO3ZOkUlSYfElaiqp1k_blwqJWs3lTAG3i9WyzNbxNl0CAcAafzA07EwSC0J6U4sAG67Um-kVjIMK3x2IhLDuP8BeLkZ0---agGtMlxAHdGOB4bvwunWHi9CcG84Q_vLyVQIl3ozQ6VSJEryXiiqKF_xZwYh8P-XmuO_uiAqnWGhbdulYc9JmN8xOtZLcWtzzFD8QJyX4EMKJMtzW67XGslyLfenx8cdxIbYyVhbdOdtM6nvdaorGrPyyQ",
+      "width": 813
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101293228419691296687\">Eric Ng</a>"
+      ],
+      "photo_reference": "ATKogpfb7ry6vwZt8o4Lw4QbjowZcoO8pj2Bz5p0ufFQwd0hQqAbY_mdUOZRd0UQJbDHuPbhw7sNxEHLf_danE1qVPr-VhFjekdFIroUUaq-wdBcGL3Wylrk-7CSAy4Z0xcsgZoyzj9LVbyHbwl7_6BpPBNRDp_dNCh9QoMbaDboWcFn1CC1UmDgaiwYpXajb5uyotVnBoJdWkAMK20Q5x2a_zIyEA0SluuynVcNdyJL3Kslq7PynputNHTDlBDbVMFdp0lX1DpEdKCq8JbcYHERcG0UGm6njnWUDfLjTIx-qpWLS2BjUufDa6-QqSWEcefedic7k9JcOywLXdzKc3Pf20ztMjw2lzHl-ywuI8J3gKaOy92HEpS8sUpASmhZgndBCKJr6JOWasD0uPdd-ALA2njwcBPAyktJ_WrfZz6FRQhJc0qN",
+      "width": 3072
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113609974570871013212\">Andrew L.</a>"
+      ],
+      "photo_reference": "ATKogpeZgIjJsCWOLtUuk67MjRtdOSC7hfwSILprMV1DyXHdzUOAhwhD2DQRbqHdlUTi9CWHYMLtgRXkjDvFg6Uz_lnhqnnXecqhLuFlncvE2qEwTeR18RRRDVuDTfUNzNZCmnkQWjtaaFfFcM6-skypPW6hlX9OuDcqHcbVAxsoHvLrR37mE-zFcAgifzAa5_iQmltv7csMxx_FTwfsPAxqz5vjqd7UgWbqzVvnuqb6F1Bf-9Zp-InFe-jM9H-SaB9nXYCA4lUGXcX4PgDHxwH3QRsmsjg1TbfydJDwuMjnDFjjOG7teIoWJnZhoYiydQubwqB4iU5qDxyuEigeUoGBitVCwfMmMKyjUhQpB5ERdBXX_UyC-sqG5g1A7w1eCgpmOJFv4DMTkLwV3W4e9jGFhKEaO7uu3j3fyLv1ojzAmprvm5daVtEuQsv9hUKI6U8p",
+      "width": 4080
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114792152344868388329\">tsang william</a>"
+      ],
+      "photo_reference": "ATKogpeN6pFDwhHWDXrzWDFQoUhr1i6QztDv6sandiZtGWoXZr8atBtY9YOxv0IMASAv5quQtBp5kZkHdt42kePgH4pwyAl3lQaGx3w2TTF5zpswj7UMxd9EkHQF5C8xntGpJe8l71RAkY5m4jHb1-3m_czelXr1Dvr9iurE-u7-0CmnpmSBToNi2JDslXxrEW6htnO8OHPqDreebMXq9p3AQXVVgZ_YdyCSzkVcYkHIk0uiVXH6BQEXPMv3toXKF1ScYKcXW86ew_29dZqNWBD7NzFXEtIVeXItfsQCq6mPpZi0h2TjOnTLm-rHR-cPtuNgrfXV0xps_cn8fwUKZyBE3MsQDP3WH_UpLS9PKyxOcUFjoWCF21fs9A74Ntva4CsDjWDPTYaigq-XQbJgPB5G7zAI2uGLImpwro4MQ2rPcIEZ4A",
+      "width": 3060
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115095695647677579516\">Yat Sang Yan</a>"
+      ],
+      "photo_reference": "ATKogpd07y7CzvkQOl0lnleoQUW84pC5GaaYGrRGZTXbQgu33Z66AkERb9B944dfsC9UQzrPmERrpHRQLnFHoN2t_KBjv4uLhxHcyBOFXCeIStM_9__9G8eDNjsKEnLOFFILIraxjMSbtzAv3MftEnNC13gga4VLhJm6nuVIgwsFlUEJ4RXS8YlO4JsNTaRqRgpz1bTLR4TGioD91mQPBRdvLA6x34av3GDSdso-V0agMkOzPoKDJdA87tPrK3W_cWXQsctwvxIH3QqD34aR2yyv7jKrNYZ14Y6x4bkALCHaSg1sA-CcJKrr2KcfhYUTKk9yKRUQqNsPS5CElFhDdojfrk717Fs7uCCD3YuaR2O15sbx9TMCqhpYrLBOED2V4zDBUmc2EyQoCzCceJHdgZ56k_l0cArPevN-SJPiNHu--L95rY5T",
+      "width": 3072
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100902619982961453181\">Garamon Kanegon (Spacegizmo)</a>"
+      ],
+      "photo_reference": "ATKogpd0f23lHhxo_e4Q_klSB6KJthX5_Dh4dcX22kE307gpoiRcPaWuj0MIjFR8EZ8McqgNcjKM0HyuOFoPCixsZ3i-jDteqWH-eK5JX9TBEzD2cKtOmC0iIEsEXiXX_nBfcuQxuA35AuKXcKy7CFbNJXXnv7GkTTlAvJzFtotoUZH4m-ybYg8tfb5i6V8RZ1rTMfnwCf8o3Dy2rxUMBqHLkw-T2FXqOAKaYj4ENWE9AkmFCKYMJrRfxTm6jR0bqkFMmtOpk_yLIYP2yM18xCcqG7OvlTixYhGInyoF_HJUpW4DBsie9v4TCcRjhwbLpa2KvzSfqwxmwZasmbgVT90Lp-V804fiR_eNrPJVpXkg2Ld2W7N22qcyCCDENhgCqG_LpcdRarxE8m7WpQEDF8bqylTDvIX2rNwGz52sdl7BPMCcojl7",
+      "width": 4000
+    }
+  ],
+  "place_id": "ChIJWxsEMDpfwokRFmKpXBvEaWI",
+  "plus_code": {
+    "compound_code": "Q36H+66 Astoria, Queens, NY, USA",
+    "global_code": "87G8Q36H+66"
+  },
+  "price_level": 1,
+  "rating": 4.5,
+  "reference": "ChIJWxsEMDpfwokRFmKpXBvEaWI",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Andy Liu",
+      "author_url": "https://www.google.com/maps/contrib/105645000485496508376/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_If1Xc5MhKAitICq9_iO9TEIAE_tQL6BojGlB2hq6eW5W1aw0=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "I tried the 3 Pc. Spare Ribs and 1/4 Chicken with Pork Fried Rice ($21). The chicken was extremely juicy and tender, and seasoned super well. The ribs were also moist, seasoned, and flavorful. The addition of the salad and rice were a nice compliment to the meat. The portion sizes are generous too, and this could be two meals if you\u2019re not super hungry. Though this isn\u2019t the best food I\u2019ve had, this spot hits its niche perfectly. It\u2019s a no-frills spot that offers delicious food at an affordable price. Would definitely come again if I want some quick casual food to eat.",
+      "time": 1748831769,
+      "translated": false
+    },
+    {
+      "author_name": "Lucas",
+      "author_url": "https://www.google.com/maps/contrib/110161042968925901923/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0a3GZEt2odp7s9m1gxjgoocM9IWTBkbHiKdNfob6qni20pK9SKQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Fire Peruvian spot \u2014 got half a chicken with crispy skin, rice, and my fave Inca Kola for $16. So good. Definitely hittin\u2019.",
+      "time": 1747578216,
+      "translated": false
+    },
+    {
+      "author_name": "Amanda Wang",
+      "author_url": "https://www.google.com/maps/contrib/115831370021301095459/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW1GEUVXk_S180lIbVxzHuNHPfCTibfe6brpaiVYiw32rSvrRs1=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "3 months ago",
+      "text": "Too Salty chicken but love the green sauce very spicy very good. Ribs were not very smoky and quite fat. Chicken with broccoli was just ok would be better in purple onions for my personal preference. I like the broccoli tho it was crunchy.",
+      "time": 1742087377,
+      "translated": false
+    },
+    {
+      "author_name": "Annita Eleanor",
+      "author_url": "https://www.google.com/maps/contrib/109425967706248330264/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUu7nwkPi2ZXAX5S7m2V32nlxJdxxjl10IjlfnhhThZ37znt9bRHw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "My family used to live in Astoria, circa 2002~2008. This was one of our favorite places, & my parents knew the owner back then quite well! He was/is a Peruvian Chinese man, & there are still some Chinese Spanish speaking cooks, so I think that explains why the chifa inspired menu here is so good.\n\nI came back for the first time a year or two ago, & returned yesterday with an elderly white friend who had never tried Peruvian food.\nThe place has downsized a bit in comparison to what it was in the 2000s (it was always small tho), & has gotten more simple (for ex, guests now have to order food at the counter, & the nice divider between tables that used to be in the back is gone, & the food portions are smaller & have slightly fewer ingredients); but it still has the same essence that it had 20 years ago.\n\nFlavorful & juicy dishes that are still reasonable/good prices, a handful of chifa style menu items that are hard to find in most Peruvian restaurants, & quick + polite service. A nice cherry on top is that the Chicha Morada is still homemade!\n\nMy friend's face lit up as she tried the pollo a la brasa, lomo saltado, the wontons & the sauce, & especially upon trying the Chicha.\n\nAstoria is vastly different from the neighborhood it was when I was a little girl, to the point I have actively avoided visiting or befriending any of the young upper-middle class people that live there now as an effort to preserve the home I knew; but it was so comforting to see Steinway is mostly the same, & it especially warmed my heart to experience delectable food at this neighborhood staple again.\n\nTLDR; If you have the opportunity to eat here, order a mini feast & enjoy a full tummy for the rest of your day! They accept credit cards!! It won't be the most delicious Peruvian food you can find in Queens nor does it have any cute or pretty vibe by any means. But if you want a quick bite, this is worth trying.",
+      "time": 1748041983,
+      "translated": false
+    },
+    {
+      "author_name": "tsang william",
+      "author_url": "https://www.google.com/maps/contrib/114792152344868388329/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJCVHU_okLPr_Mvk8CTo5iX8-Mm9DCkMZJB44iyzFNnUt4dID8=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Great food and service. I had the quarter chicken with ribs and rice and beans. The ribs and chicken were succulent and were not tough. The green sauce was not spicy but it has a nice herb flavor.",
+      "time": 1738718911,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_brunch": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "food",
+    "establishment",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=7091414710069322262",
+  "user_ratings_total": 948,
+  "utc_offset": -240,
+  "vicinity": "35-01 Broadway, Astoria",
+  "wheelchair_accessible_entrance": true
+}

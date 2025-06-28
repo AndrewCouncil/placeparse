@@ -1,0 +1,466 @@
+{
+  "address_components": [
+    {
+      "long_name": "35-50",
+      "short_name": "35-50",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "31st Street",
+      "short_name": "31st St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Astoria",
+      "short_name": "Astoria",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11106",
+      "short_name": "11106",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "2321",
+      "short_name": "2321",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">35-50 31st St</span>, <span class=\"locality\">Astoria</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11106-2321</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0000",
+          "truncated": true
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 2:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Tuesday: 2:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Wednesday: 2:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Thursday: 2:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Friday: 12:00\u202fPM\u2009\u2013\u20092:00\u202fAM",
+      "Saturday: 12:00\u202fPM\u2009\u2013\u20092:00\u202fAM",
+      "Sunday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM"
+    ]
+  },
+  "delivery": false,
+  "dine_in": true,
+  "formatted_address": "35-50 31st St, Astoria, NY 11106, USA",
+  "formatted_phone_number": "(718) 304-0046",
+  "geometry": {
+    "location": {
+      "lat": 40.75700399999999,
+      "lng": -73.9298204
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7582888802915,
+        "lng": -73.9283307697085
+      },
+      "southwest": {
+        "lat": 40.7555909197085,
+        "lng": -73.9310287302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-304-0046",
+  "name": "S-Meat & Hueso",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0000"
+        },
+        "open": {
+          "day": 1,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 2:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Tuesday: 2:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Wednesday: 2:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Thursday: 2:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Friday: 12:00\u202fPM\u2009\u2013\u20092:00\u202fAM",
+      "Saturday: 12:00\u202fPM\u2009\u2013\u20092:00\u202fAM",
+      "Sunday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106007480796876259107\">S-Meat &amp; Hueso</a>"
+      ],
+      "photo_reference": "ATKogpcgZfI-1I1wUnY7Z1DpaamTzrDNsn-wec2mugq8O-ZkQI8_CjoZr7989LZwwfVFqNnU0YQgEOVVSd-GSM2ZYlf3swBvr_sxsNeiXj5ExzBhaIi65VMfpODSkExRZdJQlnxoACKbm2zC0NcCo-cNwuCBGWbKOO63BEz_f6bEqF390rVVFtLfsxpqH8fxuP7Fm9U1YlB9PZvlddWzwVn6MVV6XXhw_cuTXNBApQ7YccYy2hwX5_zZu3OBg_l2hffyW9t7JG-K_83vi63qW_Hp7EI_wL3lzgAmVF4-yoymRLP-PA",
+      "width": 4800
+    },
+    {
+      "height": 427,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106007480796876259107\">S-Meat &amp; Hueso</a>"
+      ],
+      "photo_reference": "ATKogpeav3xJ_O9g3zbUgdzCpRA3OZRC5xBaBd79_06r3qAL1v4A5yVYMN1DRg5_zfjMh4Cx-70F8cSANmU-k1PjCecwZdvn3Te9L_-xM204TbGuJU36zXX4atETaqduzzJsDCkAWZ5ILTdHb95Hsry_vN6qc0vbQWGAYBpA28w99pRtZnwWvUfsoSd8Yg_38Q4wHaHo0dEft-uw9j6PLDTfFA7BaauFynJo3r_l1RjPOZ4th_R_rprWcmLcx3NoR_82_NsH4iJgvvaEsKWU0fANyVOvFj9uIdzpSLAMhKa1KZEg3g",
+      "width": 640
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113928605995619537526\">JAMES RIOS</a>"
+      ],
+      "photo_reference": "ATKogper7bHTfHC3ObtLo8pN3MKQaAB3p5ysa0sByEh_r3141YWu6QjEZsK6DruqBQLUO2to2DApblyswml3EAnHkGz29z766CO9NvaOYD27yOcWrkAGauuyv3yvORp94s_jn6E_vf5t-Go79sBYv4Drx7ICp2spIttVx60BEZyGpUoDbpI892TNGrEyTR3-gZvNRGcTGFDTB4sg-5XvInMsCnB3anIsn97FTUutu4pJXYiCkIFlou9SdlvVmc3DVlI0S7L2SVW_3BgDE2sCKAkVVC27F5HabxwvkYji_kNFihVHtlN7vxjOricKOznpeb0nlN--8wbajxmoLnz3gqhgP-Yb8zyteYluD9LquaWkrzah5HqyJNzWhKsEOwONa2Ho5BCsAHfQsW5FVc3EbIg2a-3swyyh6UZHsdfuXPCUinTAhcY38ToghN81XumSaGQp",
+      "width": 4000
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109717282260808192052\">Jonathan Rodriguez</a>"
+      ],
+      "photo_reference": "ATKogpeNiksRXI4jbvSAXx1hTygVI7T2LCpO5h_Tz-OjFvOQgp02GQ5mSOaKPZwWXGtn7szBbcRUdeRtKCrLNdH3JBv9lHnQvYFsY06TPkGJbwWdQWwPHIZZGO58911_ySc8ZVwfCBon8bnK0ZNcRahCTt-wwyN8CHaRFU9QJPCQHdRiA0fJtp_qntRu-AM8RcQLrO-7wPXHL7vvGQKbGg0GIddPwHC93S1txEm0TzGbbqputtkkuUY4GVGu-18tJAy0BIArQTEQspbG5VQqLDQGNNER79Cko0pDueoo9a5r8ohRr2LOOKNolOLJmxHMJWJd4HWewS5V5Z9DwZ9_PaSLPeRk3-gmn8v3wUNb8ar3ZM6hYLtLXHh1KdhK3Bco_owdS4xqEC67ZJ7TVt-de0sUDaR_37V3c0W-2TPtmgKFbzOvgTw",
+      "width": 4800
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113928605995619537526\">JAMES RIOS</a>"
+      ],
+      "photo_reference": "ATKogpcV4wCOQJrRxeOx15epP35u518T6xV_6UeFU1JJeehWYmahUoTDQoazDCHACh6zuxgjkOsdVPv4-XDM2nXoo2XNFU6m6VlCTxmvbcxa8_SRXA7q5nyolasl1Dak9VCVukBnPSDy4aky8BRC8nrdnBUCh19SadLvOkaNZJPmvBfjIB7xDy7jfZ1U7GrmUMu0PyPPsCJyB24UiR-U3MNIYrFD_ALnUTFoMSIqhMtzJb0adx6U13-tE45fWXT4pJV7dbFsYK2zVsAMaoOJHLxVDNFsM4Y7yd1RXrCd21nsYjw_zpjMzjt85sTWLgaCYdyOCPMdWaOBwMMHxCxWk5-Jn0BU9m0uW8lLReHvybkz8f8masWaOXyhOTsNGojhMfmzsoV_PPL0_2OFIcVo5OjWLrau2Q_ISwiN1DK-luTvrFfDPw",
+      "width": 3000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110008811876710865167\">Leslianette Ramirez</a>"
+      ],
+      "photo_reference": "ATKogpf4seB2FFpDrfWJ2Pimr7Y0uqvL0JEqGBgMiQyjNMiyKRN2cg2LKxomK8HhbzQ8Qo714w5-wqKYhtxYzQfvl27QPlww4gycY7KP3FoGhMjYr09txEiDHY5LBjRqR8gSlMmlKgU2fUQekzkaQZlNBLNXuOCUTtvh-LF-JOcFEdtqnhtVO2qCp-9Vjh5cSLVF8xrOqo_Ltwp-ic5SZ0pQmMZaCR-25JaXU9RUlziFRzbixkr3Byt_QCscNfWXxwiC1qvuccYAz0vYwKo4ZajWxeYMaC5HaDXhY05QxDanGK5sEf3oySxcWy_qjkbuII0Genjqx2pFSkMXr-0Ku2nPxprLUmbTQ-nfngDHNdzNkbpl3z4oI0Ca5ic7HOWrFjZIwZIZO1ofQKY9YhcS1gLN8gyzImYd6sI-KK7tb9sZv1VuNg",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116268254381194272917\">Michael Altomarino</a>"
+      ],
+      "photo_reference": "ATKogpdX1Xl8IMPIAR4d6UvGi7OC9fcAndMtQoVTt3gWusOlgFPgYUFMgw6V1qVwD2LyKBRiRQZJjwrgjmUIGhoQJ8p08hVsyaVgOM9PwyQKUMLZN3fO5SosxbU6JflqZMEOXefIcCGTQyBOHYUHLaA7h3_tzwOTRJZsyEH0c_3cGUye5TrkcR6yM_1SxAtti07S-NCM3hktfLph8bSH3gGcbtvsI-LJ77r6Tg0xYBBdkg8N6_oAzTJyfMEB_F3YQpxU4hdMZAKo681CmK1i4qEhsR3Ut0SNPecH4nbV0Qic8Fpim67i_MfeDImh0y7_OV509ydAyduX88KXs79mYZcnQQndadli2yK2OTiW5wxk_2zqYBnl26OqsUaf7u9arOp1WMceAzLYLwTTPsNCMIAYWtx2uoSEDhsrA0O_6p2Wy7rIOg",
+      "width": 4800
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105074741883283955502\">Nicole Chang</a>"
+      ],
+      "photo_reference": "ATKogpf3xu0GnQ0bXYJ5Uy5efd2PsANbGjo_ZmiGxy2O5k04zScx84IurpP_hVND-gOZuC1gemSjr5gkjd9rEuV5BRBZ4wL6CsxWKT4PJMYX9XGC9ZLIBMsnQEGd7kr-bSYDPH6AMq2E3bCR0kNoeaRQDiMMs5Qz7RkH2wuNx3X4Fz0QfG1hbHESZDRJil2F1Kq9A1DL384NBKL55xu8DMmtoDdeiaVAjh1ys0jt5pJreTw9X_B5xNWQIhmGFolyxK4841xKu7EfpagxotHKcbSPXaedQlpXZ7gjmTyqNI8k4DaoOms7IWoK2G0vOLGoRlX8DQuyx4LKrpcgCnoyapSSWPmfPIuYjGh2Z-rY-drSGip0bf7fIz4E8Hie34o6Lsac9JfHuF-jxd5EuFpUm6Q9t4Oz-8Q8hTzcJOwherxpS-I",
+      "width": 3000
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108709589489759983494\">Jose Almejo</a>"
+      ],
+      "photo_reference": "ATKogpe7Bxv3yJomGm4akqj-OyUtud403ThDcFK9LLjn_wYEQIfz-YaloIjU3cJzUMhaym7Gqns0s-JR3fmHAHee2CQo8GP9ZgDf5sQgASllxTpUM_fOu22frEFli5SUmyxrEuMf6KhNj9_jmHYrXRHjt-E_vqiZvJAamRICahkpwJNmMHB2hU4SozWPiIdKkKZEIzxmz8jdy5vdjKnIy8SThTqIf1QW7MLLxqcuiXzpMmY1Q6fD-BkkpUsAXfjKTOriKSi90qQUxx_9lWhA-p24u1DVMC85ctkFl4sbX5ohfJ2SZmrP4-UpaIMlmxZY370Pk_fK1U-qrnTxSWvNBDndGN0YXGMfcNNx0XdNhsrwyObuGlIl1oJcRjIcrvra8_l7zAO1Xb-VNWHvLvv4xCsVQFdC9UpM2fRaIfYF655o2lMeGPTF",
+      "width": 3600
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105074741883283955502\">Nicole Chang</a>"
+      ],
+      "photo_reference": "ATKogpfdA9zeSAEWqpqINMNqsROgJ06pbpOIS1ul1NTmr3t_mxneqyVQLA57IqfPLlvT5En45yOTvKfYdSZHf6khyBUiq1B5jvDBXL5aaukwvDQ034HTpq0xfOhOhIOz2kOJhJJb4pP-4XJTT9CeNe0VpzdZMMP-xL5Bs6RbPi2_z3Ri_axMsa2dS0TZ_1UCTgGZ4Y1uN7Erk4oi-nOG1C2YGc_AS560jIkK1p9pKKseYxXLGRyy191cRUkpe5K8R071SA8-Ub8-Mr5pllwKDJNs0CKETaQ8zUiEcGHQXOBkiRskO7XxtLmvOEDagoZf6y6Oq9smFhIRUhIoXyfuhZKDyfELaERGxm9WI6TPdaW-3YKIKJnN5O-EXfhK0YyH8p1lLhDvHH8TOg_Mqown_F92Dn4_4zJdb_w-jblnOrdr7w46O8GW",
+      "width": 3000
+    }
+  ],
+  "place_id": "ChIJ7zwV-HNfwokRDNmvAibXHfM",
+  "plus_code": {
+    "compound_code": "Q34C+R3 Astoria, Queens, NY, USA",
+    "global_code": "87G8Q34C+R3"
+  },
+  "rating": 4.7,
+  "reference": "ChIJ7zwV-HNfwokRDNmvAibXHfM",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Kevin (AussieFoodieAdventures)",
+      "author_url": "https://www.google.com/maps/contrib/107203837341723663240/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKhH3ORwgBxPneR8rKfe9BmN0hHZNzAU_F6q8jk5Ja-yxeJ-g=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "We tried the All You Can Eat which came with steak, blood sausage, pork sausage, pork belly, fried cassava, sweet plantains and boiled potatoes. Although the menu said pork ribs, these were not available; neither was there house salad. The steak was tasty, flavorful and tender. Don\u2019t expect NY steak house quality steak or cuts. The cuts are very traditional Colombian steaks. We also ordered a side of Chunchullo and these were fried to perfection. Crispy on the outside and tender and moist on the inside. The side basket of plantains, yuca fries and boiled potatoes were delicious. The arepas were a little dry. The 20% service charge was a little steep. Yes, you could ask for it to be removed but really, just let your customers tip as they see fit instead of that awkwardness of asking for the service charge to be removed. And on top of that another 4% credit card charge. They were transparent about the charges but my conclusion is that the food was decent but not value for money.",
+      "time": 1745161573,
+      "translated": false
+    },
+    {
+      "author_name": "Jake Jones",
+      "author_url": "https://www.google.com/maps/contrib/106500738350973366897/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWwXZC8e1rXTHtaMS9PWPGr9-qPRpzr-1x6slQo6PwFmusAto-HZQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Excellent evening having dinner here. Nicole was our server and did a fantastic job a lot with all the other staff and owner in creating a truly unique dining experience. Will most definitely be back again. The Tomahawk Steak \ud83e\udd69 was excellent along with the drinks. 5 Stars would highly recommend.",
+      "time": 1747974478,
+      "translated": false
+    },
+    {
+      "author_name": "Jose Almejo",
+      "author_url": "https://www.google.com/maps/contrib/108709589489759983494/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKR4t0yp-bEISG0UgZ7nCYJk9XaTkTc8VBxb37ucYSma8QCQg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Absolutely amazing experience at Smeat & hueso. Service was amazingly fast and friendly. We mainly ordered the all you can eat option and included the burger to try along with the lulu margarita tower. The tables are close together but cozy. Food came out fast and was super fresh as it served fajita style still sizzling from the grill. Desserts were unique to Colombia which is great. An oblea held me over as we ended the night and even was gifted some shots towards the end of the meal. I can\u2019t wait to come back as we celebrated a birthday and the staff made it special which we all enjoyed.",
+      "time": 1741482146,
+      "translated": false
+    },
+    {
+      "author_name": "Aaaimee lll",
+      "author_url": "https://www.google.com/maps/contrib/111094247170631137841/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIYXvw7FGgFbGpIDX0xh6pmpnzHUuMm5LqLyK-RnOJ5bGrtVw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "We had all you can eat meat, the portion is great but I wish there\u2019s more veggies and the beef was a little dry. The crispy pork was amazing.\n\nI would recommend order separately instead of going for All you can eat if you don\u2019t have a big stomach. I went with a friend and we barely finished half of a plate.",
+      "time": 1750587403,
+      "translated": false
+    },
+    {
+      "author_name": "John PINKY",
+      "author_url": "https://www.google.com/maps/contrib/114928978157506788624/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXp6obwkHRvSz3K9-gIQKzSTipA70MK18ShOiKmEcTLgsjL1Vwhmg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "3 months ago",
+      "text": "I really had high hopes for this restaurant with all the beautiful decor and obviance...loved the atmosphere \ud83d\ude0d the music and service was fantastic from my gorgeous waitress Daniella. I ordered they're all you can eat 39.99 deal for unlimited meat and sides... unfortunately the meat was dry and cold \ud83e\udd76 \ud83d\ude15 on my plate not served a sufficient amount.... the sides were good but overall this place im sure has wonderful dishes and even better drinks but it didn't impress me at all. Hopefully one day I'll return and things will be better and more affordable.",
+      "time": 1742774849,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "food",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=17518394683794905356",
+  "user_ratings_total": 1947,
+  "utc_offset": -240,
+  "vicinity": "35-50 31st St, Astoria",
+  "wheelchair_accessible_entrance": true
+}

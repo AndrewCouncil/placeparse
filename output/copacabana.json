@@ -1,0 +1,450 @@
+{
+  "address_components": [
+    {
+      "long_name": "31-13",
+      "short_name": "31-13",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "36th Avenue",
+      "short_name": "36th Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Astoria",
+      "short_name": "Astoria",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality_level_1",
+        "political",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11106",
+      "short_name": "11106",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">31-13 36th Ave</span>, <span class=\"locality\">Astoria</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11106</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Unassuming Brazilian eatery featuring hot meat & seafood entrees from a weighed buffet setup."
+  },
+  "formatted_address": "31-13 36th Ave, Astoria, NY 11106, USA",
+  "formatted_phone_number": "(718) 545-3685",
+  "geometry": {
+    "location": {
+      "lat": 40.7564033,
+      "lng": -73.9290576
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.75767218029149,
+        "lng": -73.9277665697085
+      },
+      "southwest": {
+        "lat": 40.75497421970849,
+        "lng": -73.93046453029152
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-545-3685",
+  "name": "Copacabana",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109850878987968081829\">Sledge Williams</a>"
+      ],
+      "photo_reference": "ATKogpeBmEsnJakRg3k6eP18FUpHCIHy-x4XN4Os6w9AcBtH1Cv7CuxUQQAlTFwnidBOPTyy0CM69FXjGa2xVBqCDGVVIopzwnMlw4-a3Cl4uMS190CpAlig59SBYAeG9I7jc3jKN3oIJV7uGIPPrJj7E-JDfj1d26g9qLP-uOjt2sc1HyF9APYArQl22dXSN72q0T-CY8puuffxhFt-XtLLmsc3I_KpVlOvDWgfkWOPoRPbfaXGJMn4KGfYui_3cxrWB5BtdTW4j4AxqtoDdzS1tgsMWNhAqcjbydFXhpRvSr2XcwQmTrAGAE8Z5cwsEGFDxHNPlIiB7mQ4XnmZviMWoFVAnK6OTTk3eOg1D5Wq9ObgGa0J-g02JQk-jr5bpDDmHtorA9oxmIp051RuwO6HZiw8I0mYeX4bSontv3MQq3c",
+      "width": 4000
+    },
+    {
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117811256036223388556\">daniel gallardo</a>"
+      ],
+      "photo_reference": "ATKogpcoLeFNP2FdOci6iAcCV8vC6MXC4ijumal5QhsDvdC5VVOVc2AfNrP0XUHWJoEIenBR5TFzznN4tMPzjYJZIWTD2CvLlNZ93Dsj2U3Wth6UuF-pm59bns0c7jTS_DQCrEHwCAxAzZs0FxrDCSYldtMe_CG1ut8DKERkhl05EVezLxqTVIKZTKl2aM9FZG09W20Ju3QiXShrOvmi-hlONc9tKjin3g0ksxhYV2uT2Vw_S1N4I2H-2kkEAKJQCiko-WyG9fiTiSQ3eNzngY9ZBYF9nw_BhXyqkcAoiuyQ5adxhLofgiiuNWtLUk3XS_gsqleHH66wqql1tix1kVSJaWTZabT0XQ8dHJznPMzTeeOv8rFqGe0r2N3M1P7KBWvEb7lqzIRgCOAd4TpEruEfoahgsWU1GAxM3M-Ambbqck7cUsMO",
+      "width": 4800
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109850878987968081829\">Sledge Williams</a>"
+      ],
+      "photo_reference": "ATKogpd2PKX0xULjog71Dd-bGxldjHIWpjSXOvOfLPsHHiOn4T60Vx_5bGnpafkPZxqKiJNAhpRngixiaiITJeVWCsMrCqqo6TnTz-K4Uq4vn6F4nYWU6DounSFtWTDgBMr-tKSW0jfnvRLmUaFKb4qWcf3_HqVTCVlXVLB8YVoXTSkDYI5lCWaTxPeBuyemz-3UBJGCK5pig0VmD7iuri8sQc5rS8SiYOWF2g5WiA0fwxHHyQ5zn0nMDA3r2U_j2vLH-5SxXgYRuu41_Zl01vDfbXrUf4eo6P4tB03ateTti_GNxWCROc6l6Ki1d5p-dXuJzdPBGFIbl0LHIXDt0kX6S2oShlkDmSH6jK9do5KF1DUNfZUyp7DFxBMUyJtuL5HNcgeLNQj1OPrnYzxJ0Zd8WMj-9SR7X7vuEp2uhniQhl2F4Q",
+      "width": 4000
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109850878987968081829\">Sledge Williams</a>"
+      ],
+      "photo_reference": "ATKogpemmHpIOF2pK53REJGVYX8zDNh68ffotwVyRw4hIKROAdZspwml0J2m5eydD0HBLZZEIx4jPM3s0Vk2czzwkjuvLBm5NHNEJzxR0YlKvAmox52UxWcDpYL4aKz2R1-mKnnhK1GwD1Ps97mbCcKk5yf5r7j_oQT1R7BUNXvhvoQ3jyDp7qC7vNln_MD5QJbwptHRzHwLZBfeCx7sULBMTHj3uqWAqDDT0OVoTWIUYzfSPhcDFSWbOHQZ0Y9_bkR_3MNjw339MxoSo_8VnvudV8XFYx-yjnCcXXzwV7kCFWz07cgXEnyXqIq9PQnymRcTeNKPaBWlp1iLULazlWl87FcaNRK5cW4cCn4JrWij_uAS-vLa2UDLfe4J7nOqnU1BK4quWqLg7vwEzAO02qGETJpTnJmY5UxktKQ3-OFd4DtJCi8",
+      "width": 3000
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105829345245506464142\">Brian Morales</a>"
+      ],
+      "photo_reference": "ATKogpcddxeNRe1JzayCxf1fEHFDgebPCTVUxqpJgnBOb89s_7oUSUkFXIkyB9XkH5DJCZVQq4WnNE5O7v28LI3SH5xNr-hklhhwm3nzykwZsAK4GCm4ACaoRxAflVojP56HF_EGvNH2HGSmlt1aMTW4l-k5VC1S3HyV5sAbY3PQL3uREZbzsYi5GSSYmVE5erapJupu0dQpi-pWlTNVNK6xAxT9wIOT0FFoZE3xQBcmH89lBjH0QTN1cZLUDNXysXB2ReCix_90kklHbo2M628f6HOLnGOt3FnQDbbizwjbhhEMWZuQFolFptXuYfAcFyacqQAh-HACRpqwqb8nGCAm29uOnuGO7-CrqAZHziZMMOuonr5tJCdABIFvi8tUbKbnuELyCORjeGaPW0Y2aZcAsXwho7U2fynZwXVV52UKXsrkTiO706TNEamuOYwrhw",
+      "width": 1868
+    },
+    {
+      "height": 2976,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113983174792813712809\">Syrlane Albuquerque</a>"
+      ],
+      "photo_reference": "ATKogpd_DRXrNzBN27WbuIbwDDz0sINLsX6FWA_vc-KxEiQuZbe1NoXJLvGkm5FFtdtlyjJ1SVQN4GDHhFXGzV8-gmTM-A7a7taCTRx0k5TFa40F1XSr93clZW9UEkPd0YqIcRhf7O2Tc92GJnVYggLb2M7T_RSgNMgLBkJIuO6slykhtRduOVIIvKv5AbFUiqA6awdlChdQNvPTkhkhNyDK4jMmaP9f-jGZtjnnUL0REUH0EVh5vI3-0SSGzqPxvZGD65zd-W1AwLX85b4ItLlVYjwzC3KQ3OnRZ1ecdpR18c_yyY_fD68dAk3WYktQA_gUeIsRpDrrqTenk1j_0iWz5CWeuYQCZ298j919G0dGVoFvlsjnh8k9b5ItWRbBBkWRq9mKvgFafKavu3pR7hMbrLcvThC_5ZCRrMSkLl0mWe4FI0ew",
+      "width": 2976
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105218627344643214814\">Pink Rock 112</a>"
+      ],
+      "photo_reference": "ATKogpdlFuDPaoV6Iuqk3nYO0sR8PamD7CdTWrJlDheaEHxiYcTdqvaEIUuiBkpYrHI-cIajFtiTdDLP0121DUBm0WhwQW4CPmzzoPrt78IwF6ztgRTGCsDXJKTsnByblj0Zx27G8q6h0hcXWc-lNK3Bg6W1VTSogmL4QvvvmtymIZUDQsEqNHiFdotauQR3kpD2SRRDdZBvpFHmnTX6Lkq2WNKfGdJ8tSsFSucewW49C6VwbCgF4XI9elLPJ3CEDdSjgJu_lIJM-hdWBCKlntlZBTwAPEE4-PkIszyF-7DarLPb-P13ilr-2zQSFuMBqawlWBp-9I0QBZj3VWa8l9RZPAF6Zz8t2awN0dC91MToSkSJifW8g4q2QG7w_ADEmS4NjMufjgIVtFM_dXaJBMxy0QmEuUi1Ndwmckm8_XD_KBMpCw",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101197734141837531368\">America Toribio</a>"
+      ],
+      "photo_reference": "ATKogpfItE1mZYYdwLLqJ4dYkzmagWUWjQtz7USAVJ0bcwgzC-X3tX5P37TgTCU8nJ3wuHSovsYll95uPFrdRajzeKID6e_aENUtEf7pz8PBTMvk2lMTIZvf2hPyXmIP06vEx9FPyB3vkbcMfmuRc0L6n4hc10FZAsiKNv341asw_DOng12rYlk-2KhnmIhazxc2MTWYXGfmf5tIVSeWoAKP7RT_u2KN6prJ72vngzXuQGo6va47IjCik0mSjma9FhErwiQY1trfd-pIjVimO3a6U77D-D81JCmd69b4MjI_tzkuoYOg8qKY38_7mNACJ6ZHlVmzVLuhpl79ARINyndYh-EoIS5x3IfrzjP77ofz01sjsjIdSiH_qDIF2wjtO4NXJx4_siyrpQONyJqV7Nve4-WTaK6E2PnxRRB1zly0DKzY6g",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105770167341868399793\">Anamul Riad</a>"
+      ],
+      "photo_reference": "ATKogpcZQMP7VZ0qbAujYN7RU3zmcNaOC3VmZubW5xXecsvL5v1I4yjJ_mdTfOEPgaJnphhIgj3-sSdgThMH4vXRa649v4NStaJghOqzhcWMOBPZVWyeA5V0Vbris3T7zreiYkc4_jV3U9BBwWpsGa9lp42UeNUSKq8Syd7tp_1gnbS6TzayIjJxwpC4eBseetROSz269GfaHKP6n9BM-R9xhpOBLOcHwqASXFyOY6xU03SEdoOWbpN1TeRtzlqtabQ6y6gl_mGtcyaYuBVji-5O7jlQeiDtYlnMbmR95TuQ4RvfvySp52BIrRGNbcLnmXUB6Z5vH12BcWHMAGqVq9l3TM2CAWZwi5gIM03yyzvToPNnom_D6slWU5-hkANwwbfrp1lqt5eqBfnuF0_ECmG2_qRHMHctEk7XLIUwoFFKLmeNWHxz",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101197734141837531368\">America Toribio</a>"
+      ],
+      "photo_reference": "ATKogpfxmbHODvUF8Va-HQYLgnqn1say5gZvahuo4fX_K81H8FCP-QxoAnsdf1PAm9RAvSk9vXlyCfdFBgT2DUCimfLfC4LsaoTOS2KTLXKmeOM6c0vqD4LVbzpOxgcLswk1JZPBAZRb2K3TRSKVQ9aIV87ahL_OUsmKlTMTTlhY7KRMq8haoMozPodI_aD8lz7HlMvsi6hI6RvBocVcGIV_jSpAVr9f9FOToxjXFz2AcaGdJlrJwm1aKp-iebNat9qpBWAKU81eyLS75tCS0ary-3PICO03EvgcJJkz5EIvj6zkhu3NF44maIe6B02R2aAg74Tu-MBItSkD0kTpFS-L4X9REnnHVPWOvXZ973HhS1vYtwSKVi53jPmVwaqErYBvp5K4pYjPVUlZnoKc9P9RgXTtcKnjSbakfI_bHHsSD_3zdbxU",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJxaf4Ey5fwokR_cgU3o8Eo0c",
+  "plus_code": {
+    "compound_code": "Q34C+H9 Astoria, Queens, NY, USA",
+    "global_code": "87G8Q34C+H9"
+  },
+  "price_level": 1,
+  "rating": 4.4,
+  "reference": "ChIJxaf4Ey5fwokR_cgU3o8Eo0c",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "nibelis gomez",
+      "author_url": "https://www.google.com/maps/contrib/113837617536162304796/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRc6OU9kywt8qqdq9lHqG_WY-Oh5j6ohAZa6d7hxV00U-V1ly1=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "The restaurant was really clean, staff were nice, had nice selection of food for the buffet, and good prices. I came here with family which is just three other people. Great stop before going to a museum. It's a resedential area so not very hard to get lost and it's also quiet. Train was very accessible and it's also a very walkable area. It was nice weather the day we went so perfect day to try new foods.",
+      "time": 1744946918,
+      "translated": false
+    },
+    {
+      "author_name": "Sledge Williams",
+      "author_url": "https://www.google.com/maps/contrib/109850878987968081829/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8oMvMi4CkwZQ8Y6eEZYlI9YUVn6U9nAHu2uT2gOlzqT9zhTc=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "Another great Brazilian buffet with food that doesn't disappoint. Went over to the Astoria location, I've been to the one in Jackson Heights about 5 years ago and this place has a similar vibe to its other location. Food is also affordable too, my plate was about $15, bumped up to $21 with dessert and can of soda. A bit disappointed I didn't see any chicken anywhere in the meat section so I settled for strip steak and roast pork which was pretty decent along with seafood and vegetable yellow rice with a plantain on the side. It was a relaxing lunch and the service was pretty decent.",
+      "time": 1725815475,
+      "translated": false
+    },
+    {
+      "author_name": "Allison L.",
+      "author_url": "https://www.google.com/maps/contrib/100824378751685313967/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_BmtFeAyPX9ZlAaCc0GpgPpRECV3CpoJExznN_ehu_MTXHNK3=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "A Brazillian buffet that\u2019s pay per pound with a great selection of meats! This is a fast casual dining situation and right beside Rio Market but the quality is great, there is a large selection of rotisserie meats right when you walk in. Highly recommend for authentic Brazilian cuisine!",
+      "time": 1744867626,
+      "translated": false
+    },
+    {
+      "author_name": "haseeb modi",
+      "author_url": "https://www.google.com/maps/contrib/117081164780965014722/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWhHIrU0d9HkFxLJcgd_7keb0TK58e9qFCSsNzk4MY5VZU7ccfi=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "This place is great if one is looking for a variety of two different types in a cuisine. They have BBQ + Buffet and Buffet + Salad bar. Their salad bar and the buffet is quite okay and has a good spread. The BBQ has steaks and can be made to your liking. The portion-size or its weight dictates the price, however, the staff over there are not too strict and that's a good thing. Free soft drinks to go. Price is reasonable at $11.99 & $10.99 respectively.\nNice cosy place with business-like table and chairs and they also have take aways.",
+      "time": 1709842615,
+      "translated": false
+    },
+    {
+      "author_name": "Lucio Tassone",
+      "author_url": "https://www.google.com/maps/contrib/109035009278814283287/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJxW_Ug07hZf4ySrIVPmd02U9sO8KfvXy6SMq2rl4HiojHgiw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "a month ago",
+      "text": "I paid the weight of the plate. It should be illegal. Usually I spend around 20$. This time I spent 37$. Almost fraudolent cashier. This was thsi past Saturday at lunchtime.",
+      "time": 1748459749,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_breakfast": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "establishment",
+    "point_of_interest",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=5161974613849458941",
+  "user_ratings_total": 1162,
+  "utc_offset": -240,
+  "vicinity": "31-13 36th Ave, Astoria",
+  "website": "http://www.copacabanabraziliangrill.com/index.html",
+  "wheelchair_accessible_entrance": true
+}

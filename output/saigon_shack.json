@@ -1,0 +1,458 @@
+{
+  "address_components": [
+    {
+      "long_name": "114",
+      "short_name": "114",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "MacDougal Street",
+      "short_name": "MacDougal St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10012",
+      "short_name": "10012",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "1245",
+      "short_name": "1245",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">114 MacDougal St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10012-1245</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Vietnamese eats provider where pho & banh mi are popular, as are sweet potato fries & Thai coffee."
+  },
+  "formatted_address": "114 MacDougal St, New York, NY 10012, USA",
+  "formatted_phone_number": "(212) 228-0588",
+  "geometry": {
+    "location": {
+      "lat": 40.7296889,
+      "lng": -74.000625
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7310680802915,
+        "lng": -73.99932151970849
+      },
+      "southwest": {
+        "lat": 40.7283701197085,
+        "lng": -74.0020194802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-228-0588",
+  "name": "Saigon Shack",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2130"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2130"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3540,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109896805750470100724\">Maria Eugenia</a>"
+      ],
+      "photo_reference": "ATKogpdTf9l7GMhWMfWjDpWdzsPItLstJSnO5yyjX9vH3levsKqZ7VJIWbILFSHizGmP6zB8oHmB8AoL7AhsChVt5Y36xMkP5zviXooN12XT6wv3qI2WQluBwQ3GhfHREFA4-T0l04lDH_QPms_Sb_0Z8Af9zHE9-ZT1G8MSzddCkgnf6y6uF0ErY_gvVNVlVd5yhF3C19JNcbVNvzvcYF-ZzuM2Yw5qex4O_PWwet-nJJt1vyAT5gLjnJ_UU3UV4-Ieh-JeMWNkt2qG5NPu0rj43OYQmkodd4NM47gvz9jmmNwAo6cOiXJEz2HB3_Hj8bH6__GAPqoNOM1Oss5FfmVwKpGDLE9BrYrJliIfG74cI6OUenrjIwAvHGNwykQ5Fr4wGw4AImHWYd-F2WwP88LUeJoqMM3mePfY3MrLKn4D77Tg5Q",
+      "width": 2956
+    },
+    {
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107761688250896733907\">Allan Omar Mancera Leal</a>"
+      ],
+      "photo_reference": "ATKogpcT3lg74uO6Fa92aAjWn3nAH67HXZUgjuWXcJVQQvpg86aQQsoo63Xa6wA098o90ksehfF1Geiwzqy9eAgK9qyHGn4lCJot0U75MM45lL9SKrIbRmEKeOKQnJn5ysfNfC4LxRQetYkfaQqkQ9fCufBsjPJz8CmrqpO5fICqX9VRBplTqelUCDl410-VZCeMiN2QK3vGi_mudCOT-mFk1EFv-ecxgTxAWur9-zTJgBHhpZwFf2cDwZV9aQ8pwiXGGeVIOEDorxDS92YPtlFc1X6R1VjseVvX6J9IuSuWstusx0QP4yu3G6pGd2Y1Ebuj5ddPkfpIaAmDkbShb-R2EqsOWRp2lwfo_KsFF5YrZMxgawiknKe1ig3FSMwPqJTuaMSFsI-FyzEk3vMqcgsxzRnLS2kN7X6GHqB6IIHS_-xEcw",
+      "width": 4800
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103010987590483124915\">\u7d00\u5609\u6def</a>"
+      ],
+      "photo_reference": "ATKogpfdsxJQ1OfATQrhO5zI1Ue5UpTe4qKopIK1pyzqC1XXmmkGrquemVzqR-BHuM71NlFzz1TCvT8ra5gYTwm6JL9XjatQ-livyiY_D5I8vgDWv0v2UBMpas-iOPP-1XRD81wNiawlswRO5xU2ebybC5PF2n0BAURausEpp1ONkK-Rut65CmPUuqTr8zSYA4ze9Nxp4jh8cq0OgNvwn3pQrtjAbL-fAz0jbjC828qHOyPwMEPnbrDO-0aeS0vYHTSDQp7pP7LWYnMnfNwVVpCtG0kCMXp02_8iLKOP5QmI4YA7RWHyAT_ufa6O1-xlLWO_7h-OTjxWVP7QhPugH5TSPKNc05ongy0Fwc94L5Wld9yTtvGMpEN2RhIYc5YPxqqGIgF9L2bFdoM7FQrPVWSRnWcNYQvYzG4uoMeO8KUdth5tivNGVn9YDe41ys1Q6Q",
+      "width": 4032
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107705833309561868785\">\u30b9\u30bf\u30d0\u30ab\uff08SUTABAKA\uff09</a>"
+      ],
+      "photo_reference": "ATKogpd9uGOlT0ncHrZm8TwLWb0a2mSnCpGSX98aW3kY0iro4FzwbGpDFRGVj8bpkEUu740R4KokWcyD815G37nr0BwSWHLTgTrGTPHcLLcq7Zpua78g68pjjPdnSWGrc73tinZwTFObGo4KUu3zzBC3yVCf_CLcP_GKzjjWAHhZWWexS1oIYrzanz_H997-QfPWlcGrV8Llx-JaBFYNkzcmW-MrVuHNBDvYaqW1KiaR5tFP26F2cuPPJwQ4-nvSgrpjcsvKLdMSXRdE_cpkNxQEogHQOBaiYAX6itOlXgXpaRkR_prqmQ0n5HVbkQ23KQb80Sh0txsqgTc5wOZ2WFjr5EGK5jpXMxax6NQtzRyhrD_VzuxXTJVLneTUoriQ3bpVovg_32oTKN1cZzzaCiN1w-ImnTX5dEps9IytU0Ubz6k",
+      "width": 4800
+    },
+    {
+      "height": 3472,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115192924017099948567\">Laba Kumar Deka</a>"
+      ],
+      "photo_reference": "ATKogpde0BpUOi5uurE8MZRpWq4en9DtJrHE3aous9bLlfYkeBx47iVH2sfKZ5TAM38ITnQSXSwDPpfK7p2HL4R3SDfm52uNmINGNdLZN08obmYINprvE7t_7vwvHo8bbcaEZuTXVwLbFmGjN4L1neQgZP1QqhwUQSNEWfyGguFuvqTwSkZDNWYDN1BX2smr0ghKDO9uBIx1Dzy6l_7WUvWU-aewIooJNowd4BE1OzbhL5Hzr14GafK0Z8jdx1xa6M6pN7P06bL4LkpUSTZko0AEVlJEuAF0bu7VnJwwZh4ScMJaRfYq0tCj5BreKFZshU3C5Qz9uCbK8Wyvw7x_jNmiy-X950GPtn2XpTCV1wCw5snuhbU5DNWktI4CQYK5cmiupVxor-jxKOvuGjQZzj6_Ny_2ew6001R0YxAi80o4Yvbnlg",
+      "width": 4640
+    },
+    {
+      "height": 709,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109396461464581188270\">Popotatoes</a>"
+      ],
+      "photo_reference": "ATKogpdgUzGsks-gPxvFebi5hbmGMgx10aJa2Aw8Qo_43OICORi23ak42qosW5Dva_tLRC8iSNjn4j41VB3Fh8rRwU0wHJIwOdCUxwFWy080xMdLUgY44RJega-UODo877UyenJoBz48gpEqaErUjKZ2XqW8R24MguRAl2lTLgHMdqCQ7HYSegRU5D5izzMrPV-nT0Ii2ocxkC5U3Wd7asBPjR2m_7AlU9OBTsqnGZ2d8--Ov9yLzlnezwQIVjhEbwhnv4ackQP-kDUVr-xQpYMLyZkLOQQoMp_MpZqhFsa-5JSItGE8T09ezX3pS37pLMevShJ6gc0rk5-ySz9VktJv3Hlr2oGwSVUwwU_s27jCt5HX8R5HxE_1HV5yG6YgKftxvGV77NB0Ireha-RuxO6UscK_bA2rELTjm1BuD-jOBit8bw",
+      "width": 709
+    },
+    {
+      "height": 3614,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102674257647124995164\">Farnoosh Namdarpour</a>"
+      ],
+      "photo_reference": "ATKogpcOWkii2pQfd9PgRFL7BkOH0gLmS7jzGOl-JJawP0j7y0X5SIxdYl4sKB3lwpqjo-stQ0847tGjpunbLKr-2TLzs5Yrlgx2hFoyD0aYg8gp9-0xvGfrp4NogEPT1M7NJvS6kpcBTokgcM7Elq9DK9cXtNQbR0x6yx4VXAG2Rr3c1vdwvpXS9C10buu2svKyfWxXKhnP-vgKU6Aa4mss3QX5vWct6llLQRwJZrUr5gwavF86wEmDR-CJt24FsJH0ZtPb_cUKJJOWWlJHNrhMSVivpkJMX1NpKhYJtc1pwCqZZlDwX7rB-rsY1SYl8_q1zqEZvmJqJ0SihWUvaN1WiJJd6DPhtWBGS78dBeEzpF_LDsMJuSREoWrBKaLKkTv0ubq5ohxheK4YXus5eyGuzvjhHsO03JC0xEOpOcb48EYJgdxa",
+      "width": 4800
+    },
+    {
+      "height": 887,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115304179833040531178\">Alexa Eunji Lee</a>"
+      ],
+      "photo_reference": "ATKogpfmT7dCNPU_BOZjyIA4XGd_X6mSVM7jTIGG6dMx56MK6rviidQEE5hIAL0vjpjgGPoIn0VDtY_ydmSc8_rHPHhRH15mieRkYLOkyZYb7ToGzM-E4gYc5XKsmle1tGDnzC7Sc1522dVo1BJBcWU6kBFbJ7LUr3vbiv97lsS7acmmnlagb-OXI1GLfeZuiWjdgxrvwHG72uyj_MFX0ZVKxqAy_SVbRLPPhIj4lAyIbCBkU5t3R8GHgGrbWQ0QO-4jxixfVNiNfe6E2tIntRfFYv-FkyS2doDHOevVhqtgO6iB-Wy37a0q9XPVZiow40SfcKa6cZqVyeDWdCV_a42H1X5rlTAKQhIHNkqcK5aptj-vHunuHtzR9aWFId0U32T7P1CG6IyAYnL2XxdHKY-JppGHyp8Q1UQ381NYFlrsEXtJXnY",
+      "width": 1260
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107705833309561868785\">\u30b9\u30bf\u30d0\u30ab\uff08SUTABAKA\uff09</a>"
+      ],
+      "photo_reference": "ATKogpddExN5VPwK2gnsW6vQB0ZY-TFD051Wf9lGFPUHB2Duvg-dtRp4TSoqFjWRjxVrFXC3S7cgdeoel-T97t8nL38-NX9xfaami0zzYduSEjpv17za3lvdbT1mgbsyGICMR4tsLmSehWvzc8o4P-J13LBRz6Oi7PahcmV22hbhu8ZSnuwlDVDpxL5TbSg4tltprH4qJl-DI8wFcD0Nw8RyGO_9PH_vDC6t8ZqhHkutcUx6QJdcDvODGFSRPLh5YTBcXtCBAf26DRCu3DXj6J5M5UfBtFDbc_hsYyBlqywzB6ICf3YgsMHaIz96mK3C2pRAKnu81h5iAGDO6lEU4ZswfKdVQ3sSqkh4SbEtf9b4qM28UdPFTrk4oRQ1BkD8YK3UZa2m8U8jRPsBzP9t2neuVMXphci-3reyeknPVwDy-hiREg",
+      "width": 4800
+    },
+    {
+      "height": 2855,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105229872591470007995\">Abdullah</a>"
+      ],
+      "photo_reference": "ATKogpdtGjifXCRyJYvMTHmcicjJMrXJLbL0OVYAQqXgjpUJ-424FoaU_Biip2DcfIw5N6neyv9OLqedi1eBUQ_mnZNSfikCi4v-2SoMJ_t0Ucii5lRj-8MIxleUtGToK6KUZ7jsQvUfT5PcQY8d_WZRUR2Muh5Lw4_tLuZgjfZ26nXPK7Lomlo8OnJ9IVTAm74ql8sNXDkDfEDOrEPb_0BlHiXhkTK4pOO64l_wViNUmbfIcHuNqVFs8T1f3csHz4D9EUEXcvsdvzU8G5iCQHlOmtXx9xvMyXNbGA5yHLSQpHdSynAfZaUvprAaS3YWZoBUO7Lk7BRbLwMOr9QTpdtRKgffdTikGWQm3sCTn4RoMsMVaNzzfICc1sTLVK7570KKXPl0TEyLkoxBK3Vfs0E3UXAeNyBLJNhhODN6SY5mwEpZu4gh",
+      "width": 3218
+    }
+  ],
+  "place_id": "ChIJp7CcJ5JZwokRCZHeOFZwxkc",
+  "plus_code": {
+    "compound_code": "PXHX+VQ New York, NY, USA",
+    "global_code": "87G7PXHX+VQ"
+  },
+  "price_level": 1,
+  "rating": 4.4,
+  "reference": "ChIJp7CcJ5JZwokRCZHeOFZwxkc",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "B T",
+      "author_url": "https://www.google.com/maps/contrib/118304138611578700246/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJvh2S5ajnh7TX50PXV61ihW9HFc-9p_PNNSzipJgqPwwMUYwKB=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "An absolute delight for the taste buds. We tried this restaurant randomly on a Monday and found it to be one of the few restaurants to have a line waiting. When we finally tasted the food, we understood why. Magnificent.\n\nThe pho was so good, we actually returned two days later to have it again, and this time, we went early to bypass the crowds.\n\nAmazing food. Super fast service.\n\nImportant note: this restaurant is cash only!",
+      "time": 1746918460,
+      "translated": false
+    },
+    {
+      "author_name": "Thomas Kim",
+      "author_url": "https://www.google.com/maps/contrib/100752771861825202543/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4boLnso6l5Vz-DR2_RLUJ6OQEbVPftVS-oP2AV5P-O-buSB3ngQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "So good all around.  Decent prices.  Good service and a comfortable atmosphere. Almost went again the next day.\n\nGot the beef pho with extra noodles. Some of the best I\u2019ve had. Beef spring rolls. And my wife got the vermicelli noodles - really good as well. Noodles had good consistency and good tang but not overly vinegary.  Oh and the sweet potato fries which were great. Not greasy and good firmness.",
+      "time": 1736719196,
+      "translated": false
+    },
+    {
+      "author_name": "Tiffany",
+      "author_url": "https://www.google.com/maps/contrib/103277174394958657934/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXW3y0b0QbXVgOHCmS7ipi8sfBsZd-qH8fxE37orFIB2ONhcJhS=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "This was my first time trying this place , glad to have discovered it through my friend who always goes & speaks very highly of it . I had shrimp oh o& the saut\u00e9ed broccoli appetizer. The broccoli was really good. The pho was good as well, but compared to several other Vietnamese restaurants that I\u2019ve tried it just seemed like it was missing something. Maybe it was because I couldn\u2019t really dress it up the way I\u2019m used to. They don\u2019t have chili oil. They have something else that\u2019s more like a spicy red paste, but I cannot remember what it was called. They did have the hoisin sauce and the Sriracha, though. THEY DID NOT TAKE THE TAILS OFF THE SHRIMP!!! if I am eating a dish that is wet and I have to pick it up with my utensils to put it in my mouth, I should not have to pull off/spit out the tail of a shrimp. I should be able to just chew and swallow. And it was super weird because they left the very last tail end on, Something they could\u2019ve easily just pulled off during the preparation of the meal. My soup also had bok choy in it. I\u2019ve never had it in my pho before , it was fine. For us to have had two orders of pho , they only brought over one small plate with bean sprouts, basil, and two slices of lime. When I\u2019ve been to other Vietnamese restaurants, I get all of that just for myself, so I felt the portion of that was kind of small. Maybe that\u2019s why I couldn\u2019t achieve the flavor I\u2019m used to. They are a cash only establishment, but you can scan a QR code at the table and order and pay right on your phone. That was really convenient. Service was good and the volume was excellent for having a nice conversation and being able to hear the person you\u2019re talking to. If I\u2019m ever in the neighborhood I would give this place Another try.",
+      "time": 1744714806,
+      "translated": false
+    },
+    {
+      "author_name": "Tomer Lahav",
+      "author_url": "https://www.google.com/maps/contrib/107252601241818368957/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWS7c3vBEecV-0CNgFOWdQqMU7Qtu5kJjFae0cu3wtSeCoqPEg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "I used to go regularly, 2 or 3 times a week for a period of around 10 years when I lived in NYC.\n\nI'd have the Classic Beef Pho (with beef on the side, so that it doesn't get overcooked too quickly, as broth is piping hot), with a good helping of Sriracha.\n\nI honestly am in love with their Pho, dream about it regularly, and whenever I visit NYC I try to pack in as many visits as I can.\n\nService is quick and friendly, prices are reasonable (*cash-only*) and the food is always top notch.",
+      "time": 1749820573,
+      "translated": false
+    },
+    {
+      "author_name": "cassie",
+      "author_url": "https://www.google.com/maps/contrib/106718938330124638617/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVwZGdibebvKCX5D6sXknNawZwYeH-G4FoKk7AUYwGK_W69kOJpkA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "The food was amazing! Went here with my family and we all throughly enjoyed our meals. I got the lemon grass chicken meal with rice, super good! Definitely on the more affordable side, around $55 for 3 of us (including tax)",
+      "time": 1743788001,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_breakfast": false,
+  "serves_brunch": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "food",
+    "establishment",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=5171944737705201929",
+  "user_ratings_total": 2799,
+  "utc_offset": -240,
+  "vicinity": "114 MacDougal St, New York",
+  "website": "http://saigonshack.com/",
+  "wheelchair_accessible_entrance": true
+}

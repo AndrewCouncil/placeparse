@@ -1,0 +1,440 @@
+{
+  "address_components": [
+    {
+      "long_name": "137-06",
+      "short_name": "137-06",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Northern Boulevard",
+      "short_name": "Northern Blvd",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Flushing",
+      "short_name": "Flushing",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11354",
+      "short_name": "11354",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">137-06 Northern Blvd</span>, <span class=\"locality\">Flushing</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11354</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "137-06 Northern Blvd, Flushing, NY 11354, USA",
+  "formatted_phone_number": "(929) 329-0666",
+  "geometry": {
+    "location": {
+      "lat": 40.7629767,
+      "lng": -73.8308062
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.76437848029151,
+        "lng": -73.8294847697085
+      },
+      "southwest": {
+        "lat": 40.76168051970851,
+        "lng": -73.8321827302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+  "icon_background_color": "#4B96F3",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+  "international_phone_number": "+1 929-329-0666",
+  "name": "Sweet Cake",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 9:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 698,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108305323396193448178\">Sweet Cake</a>"
+      ],
+      "photo_reference": "ATKogpfcD19Uqx0IRy_n4mkTNE-Ge6jNpS648zL0-liZfLl572WvPrHj-7ISX_nEW_nCyF9aC7IuXDhNzWncG-YD8LIs4grGqBnke8ruAR2-YMBvHy0bPVOXICkL6gubXEIpu3JV6nmB4ncNW5w6TAgfht0IZGdiXed7ZKOAsNQ2HEiGViIFr739xhXohW2GMpAjnpi0CPoEUJdcGJV6YZKugXWjJAxhXZUMFeLbYThR3tubeGmpAYedbaU87OSgxHAJDjLuav2UvGqRzaTU9cF39VDxbvVDOUQWOevirs60GGgTew",
+      "width": 828
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115900477835003672308\">Yash Khemka</a>"
+      ],
+      "photo_reference": "ATKogpeSJ3r0mlXD4Pr7RGj0-54I5yXOR_MRl10QcaI8-lCIHOQaal-ANnsw2joX-4p4fYeiQidCMp3cKsS94NXHyLjNY_RNRPWU_CHmIWPZ-gAPZA-dQEW9_SqLtMz4q-qKdgmWVnG6IguPGznNr4J3FfMZ2iG4p27P9epcrpHbIDumnBbwhfQZJpKe6ycr_nTUsM4JS6hNauis3--dUeyD10T4lm3oxfQByccecGcRMiQV9pE9ckCOhF1s6vKHnyxBLGCMNUDK9AY2ZKTo4_f4awAisygO9OGn454uVYBUH26x0DniSUxsOSw09KPdaJcxAq6ENKU5W-GDTqs39P0FppZdjf2qbQLpQuaNU20h-LWyfG65fWYmbyGBfbbLQ5HLKfPvlF75kGwFDP_3ROCvhF5OGPyIcOkPZvIznKy_9TJ2-uo-5eWeMKNs31AjGg",
+      "width": 4800
+    },
+    {
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108305323396193448178\">Sweet Cake</a>"
+      ],
+      "photo_reference": "ATKogpednzZrWW0sN4Mh6Xd1WJfHMv56S2YSRNUJ9RoCI3bDudVieMGIbyLSXbjxAElqcF-BWUcQprbNjgrFH-ByN5moijCLnthQnlUdncGfgNp8lr-FYhijjI2mxjlTYQwtoVGysPoejcsrn-54BcssoNqA1QO1uN56dO_JPigQ8Dh9eKVFquZiAeEQhoxvhxoMyTWN_iKTLHOUYfyuep3Lt1jik-b3GDtkqJIr9phZCoH4T1JeS3Av9zTC8qIjuPvAvfKZ-Fzx9bB_hjA4k7ZK3rKx0W6Zn--_dIPKUbN4lxSUuQ",
+      "width": 4800
+    },
+    {
+      "height": 1536,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115900477835003672308\">Yash Khemka</a>"
+      ],
+      "photo_reference": "ATKogpe92iw5J1Bu1AbKULNduqIGOLGqdzbfNWvTnUC6x4RiMYmfHFKL6V17SPcRIQYLo--KmHZTIuAAU2Ko3J_2u4gau71tDsNFwIiQUqmwQxuEM4NMkzbktYz0vpBr3qFiElah8sjpI8iv3ef7FK11PlPMYQ5WgY0v4gw2yP0xiaG0X9IvXw30wHwX9g0bSwYzQZ2BPPqK9pId8MoQHezwjAHO5EDHoggjUNpWqa8ZG6m7I66jg2nG4OdAyVqq9mpvNjpLLzBA15O9EcFF7LC-rlb35zCyUrV5xBuTH_xgiDqsWzuRUYqtmEJfaQnzQM8us2ovKS6jLT_YXuWJQHxss-HxK7ADpagAhjzFooDtF6WubsuoCCnPS2QniEyM2_neVqpVBuS6xNUS3Cehbvz0y0NmfyVXTJQYPIOwv0SbrL1yFRf_iveIxHpvG_TcMEIg",
+      "width": 2048
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108906436490746479664\">Kaitlyn Wells</a>"
+      ],
+      "photo_reference": "ATKogpd7Al3eWoVHi0bHh02hCZzvRCqoZ7T6hCUQod75c0DnA2i_QdrqKNtuBFTx2ytXMKtMZtAuoJO7K1j-DJ1UcJTf9kvB88SWu78RImhLvcjIe5KSh42WDqn9lGFDuYtuSFTSs18mXYJ6QY0Bid0lMKmQihd9kzj0PEwdXSGyJJuToQ8_ZUBberIjGYHjRDIMZ_FZdbLsLXd43Ihy_D6k-ArGrF_NM19R9Z93MyE3H7zHcEBgwi9_IJqmUbihWs7DUdwUDm034I_LjjxSPCWUSaQ0g7rQ5rFa-_piFAfDfE8CeSYkqHPtj5teFnrQeK667Te5GQIV-2S02dzu898f45RQ3tC9rsDI8nfO-oBDlUN-YpkRB2JVEoPJm2KGile2pKYXCif8wMksZfaeP_s1_Ur81oPbjAarGwjIr3eMRQxbVpen",
+      "width": 4032
+    },
+    {
+      "height": 3109,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108305323396193448178\">Sweet Cake</a>"
+      ],
+      "photo_reference": "ATKogpcD3j2GWbOaLEu59p53uV9avdNG-m50SYEpOU97pqE_1RkwG6gH6h_biT2Dtn78GoehfKx5kjDQjBKe95KeWjur-en5vYONkdTiwO_eDYJyTW8cm2gBqbAfFjEutZtm8oN0uSZw5JE7zRA0LqUO2irLdapcgU-oFiJlippdvluDHzwKXEQXdQxAi4PEkuzKvvncIlS1kCCswSXAUfW8F6j6U0eQvkbBKzHrMX7nGWdmBNSklj5no84XZW1JagOcJx-sUwjpECGrt7xBn9neK2mK4qHttL299yyuymaxp9cVfg",
+      "width": 2497
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105491962620880850405\">V Hok</a>"
+      ],
+      "photo_reference": "ATKogpfc7xl33n0o4_LC7ykYtlomjV-iM6H2-rrtY36-NyDKIdQrly0QW_IXo08m42Fcd5CHsYSE3kmzmVcg1LJXJPnALxDzRowwJEod79dVpbuwqi690-tHFsPVKdKEhhfjl9BKU28DL-mL8mdi0PaF-aR2KPNWGwOb-C6alEU0q_Y957ulLa4bA8nXhh9LE9nm_DWEcG4lYbNb7w_kaAymLsjDsnZxxGZEMuZ5Za0zZsUIATPiZAAXGvj_TUE0Ziiuk_QN2HIdGtoc19RCmk6QiIeBRF0inXKH6MWKh2hAMntPrniv0a15xrixS3CK2MFV9mM-qifRIjnxzEjOgD95bGANsDTBww84ttAmwLhd8f8zIeaaGin3BhNrhoyBGSdfE7iN99Ghg7vqh7kJZN920BmSyE6sHAmCr1hPxipkdpaHB8nD",
+      "width": 3000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113204155917057274491\">Bella Lu</a>"
+      ],
+      "photo_reference": "ATKogpeJ9HOe8yZ8byoTUUDvr3ZDOFr9SaUu_3gHi8bPqTefJ-VdelYDYFdM0Eo38yS52ydlZawWRO9OhwBtD8DsBRDSeFAacMtvwWwIyTcOvDykHBviw1_6I5Mzu3FIZeQUGdIabWEvgmS_zR4g144AClejJpogx-gNEPVoP31-qY-ckI8iU6PqjG2ceQhZvvASJ89ivOQLrspWo-wWUP5J2ehRiCememfHJ2olzgJN3j93Eo1AMgWfEiDkbLXkig_e-0uNUA-mEPN_zpt2G98aCqjtfTO_38De0J0JHDZIdwLdVgSwHX7dNcHDI6U4lwUZccGd2G1LgyprMpxttpoaa7Zo2lBx_LjCGg3OmbWSgfa8GvCa_Oop_3e2AJKN4FFiU5lBE5eL4lGcPNCJivT6YkH74qob1_Q7iSWo8eOZMwkEVcak",
+      "width": 3024
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115900477835003672308\">Yash Khemka</a>"
+      ],
+      "photo_reference": "ATKogpdNDMBY1Cf7hRoUMFgE12DpBCHA_x_ZcJfDav42vH6Iz2v4ptPXK6UBN4nE77L9E6ZZPUbnbYc4vYDgKIFsYN_sBWp1_0rampIr1PzTE-f-I0VukMrYnuVpt2Y4iUGAIPcy-DgP984A56Fi53btC9J2THXdGXnjof853k9TgJccyeLHKFlMK3chIi4xwsAEqBibhrMqS2fz2jaqKQcUjrgBBSsDlkffvV0udGvQlgFUhhizG8dWkyw52KP7nAr3t105ZSQl2QUl7MUM9BwyLtK2UOIA4f1jTJz4J70MwnUW1vRkQaj10MQ9Da_FcJhQ6imaXhQUkgY1s4pdi_fNRm9Gu39AyPfe1oioYiDBoaNrkNc950dvWA3pj6laENQTPPrg5zLqzttsjqsPukfn-iDWKOBhB5AzcPAqYLP7RrY0yJ3mtY6bkXK0FEjwoHXM",
+      "width": 4800
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108305323396193448178\">Sweet Cake</a>"
+      ],
+      "photo_reference": "ATKogpe6NIQ9cigbpOqWw4ymRznSvEkRxRIX-FsdPcljwOn-TPDD7mnJnEyfC0D8WZACNhvNSGpXFqLQZkBzsbT3fYC1-KLZrZBmdAQ55m7d7gGQOXz9CCLzaB0OTwv7mQosUE6TMDhRsrBoFRydxc5oWbL0uwlOPf8U4jaxQ8JVN8hZFlqxqZzeUmdkXjbUgg2Hqqnwc_GfF4KGyS8B3zxm0y8zCpBuDwbp8fCMDaJd2FyU4RiveYtG6XVZtOH62HjvSAk3avoAxm4I3emqNSdDEOX6yZr713MlrpStmw6aEYMz2Q",
+      "width": 4800
+    }
+  ],
+  "place_id": "ChIJsRvSV21hwokRFnXOw76ysmU",
+  "plus_code": {
+    "compound_code": "Q579+5M Flushing, Queens, NY, USA",
+    "global_code": "87G8Q579+5M"
+  },
+  "price_level": 1,
+  "rating": 4.8,
+  "reference": "ChIJsRvSV21hwokRFnXOw76ysmU",
+  "reviews": [
+    {
+      "author_name": "Bella Lu",
+      "author_url": "https://www.google.com/maps/contrib/113204155917057274491/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWh01CsXyRrhSgopoKIp7L5GbPpLDcAXbCiMcT3Fph-UlWrCHGd=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Sweet Cake is such a hidden gem in Flushing! Their bakery items are so creative and different. Every dessert feels like something special. I\u2019ve tried a few and they\u2019ve all been super yummy, with unique flavors you don\u2019t find everywhere.\n\nThey also have tons of boba tea options, which makes it the perfect one-stop spot for sweets and drinks. The space is cozy and cute, perfect for a little self-care chill time or a girl date with your bestie. Definitely one of my favorite dessert spots in the area. I\u2019ll be back soon for sure!",
+      "time": 1747185317,
+      "translated": false
+    },
+    {
+      "author_name": "HSIN YI HUANG",
+      "author_url": "https://www.google.com/maps/contrib/105027347780549399297/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIo_8aSBLkHvHPYdHEkJh-pqjoyi3yyUiRukiWsxt5SZs4BwQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Now they have special set meal~\n$8: a special danish bread+ egg tart +small coffee! It\u2019s amazing combination!!!\n\nMy colleagues and friends like their eggs tarts very much. I always treat myself a bubble tea, makes myself happy!\n\nI bought 5 kinds of new danish breads, they are so delicious! Can\u2019t wait to try the rest of them!",
+      "time": 1745551711,
+      "translated": false
+    },
+    {
+      "author_name": "Valery Castro",
+      "author_url": "https://www.google.com/maps/contrib/108489780010873218357/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDnHAUTSBLOfMtES7JDS3I3z1Cl9jClRpBA8UP-x0j2_BRjfpu=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "I always wanted to try this place out and today I finally had the chance. It succeeded my expectations! \ud83d\ude0aThe customer service was very good. I ordered a brown sugar milk tea and got a free sample! \ud83d\udc4f\ud83c\udffcThe prices are very reasonable especially with the high prices for drinks nowadays. I enjoyed the ambiance and will surely be back.\ud83c\udf38",
+      "time": 1743016031,
+      "translated": false
+    },
+    {
+      "author_name": "Frugal Cyclist",
+      "author_url": "https://www.google.com/maps/contrib/113148947611018822952/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5NDw-24s_KVtW0-9yKcF7Jx-PlYPFiNy2ADr_QJaTBxv77P9N=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "Nice bakery with fresh pastries \ud83d\udc4d\n\nCycling 100 miles today and came here to refuel. Was welcomed in and advised to put my bike in the rear. \ud83d\ude4f\ud83c\udffb\n\nGot an Oolong tea as recommended. Enjoyed the Boba sugar bread & egg custard tart. Both excellent \ud83d\ude0a.\n\nPROS:\n1) unique assortment of pastries\n2) baked fresh on premise\n3) reasonably priced cakes for $38\n4) ample seating\n5) polite & courteous\n\nCONS:\n1) egg custard tart was small in size\n2) ambiance can be upgraded to a lounge style seating\n3) can use some plants to liven up the space",
+      "time": 1747691411,
+      "translated": false
+    },
+    {
+      "author_name": "Cheryl Woo",
+      "author_url": "https://www.google.com/maps/contrib/107508462843467662936/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3zxLhpdfcbp2ihyRgBJxDsu3DjkJY5iCVapnclZeoscwbUSOf=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "great spot to grab a quick bite whether you\u2019re looking for savory or sweet. they also have a variety of drinks as well. inside is super spacious and located right in flushing!",
+      "time": 1747763360,
+      "translated": false
+    }
+  ],
+  "takeout": true,
+  "types": [
+    "food",
+    "point_of_interest",
+    "establishment",
+    "store",
+    "bakery"
+  ],
+  "url": "https://maps.google.com/?cid=7328116076083836182",
+  "user_ratings_total": 653,
+  "utc_offset": -240,
+  "vicinity": "137-06 Northern Blvd, Flushing",
+  "website": "https://www.instagram.com/sweetcakenewyork/"
+}

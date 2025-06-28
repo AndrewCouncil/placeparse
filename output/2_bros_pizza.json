@@ -1,0 +1,452 @@
+{
+  "address_components": [
+    {
+      "long_name": "557",
+      "short_name": "557",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "8th Avenue",
+      "short_name": "8th Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10018",
+      "short_name": "10018",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">557 8th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10018</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "NYC-based chain dishing up pizza by the slice & whole pies in bare-bones environs."
+  },
+  "formatted_address": "557 8th Ave, New York, NY 10018, USA",
+  "formatted_phone_number": "(646) 916-4541",
+  "geometry": {
+    "location": {
+      "lat": 40.7547065,
+      "lng": -73.9918986
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7561041302915,
+        "lng": -73.99051051970848
+      },
+      "southwest": {
+        "lat": 40.75340616970851,
+        "lng": -73.9932084802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 646-916-4541",
+  "name": "2 Bros Pizza",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106044711378443940364\">Lance Swenson</a>"
+      ],
+      "photo_reference": "ATKogpegAFcD785x67adCSs3njOUHf08DcVfwPrHpghjXlOGAvarTQt5VYA0Eu4WYioXqFYq0xaR8ywqVfCzmG63uQid9vzPPNeO6wssg9rD36PoNmpCtKIB-5tisijGQVvCH246WIFZTBbLuhoWdgG8rDzk9aRqWsmD4LkY-GHyO-yqVCDLl0ddZIE_m-iNKFWGq-WUzAAjp2kEEdLYJPuB3H1VYM31LW9PaTz2q2BnXqiD2Wbe4A_7aDdDfdyFBH8ZxE4ZwOTs8uDSt98h0nRSuBbhcONFVs88lycBFLxEmvmym42CJ86zb3s0qFuDkPH-pOEgvlq-RTwNTsYjVZKK6Lf4OyteJ9gB3sAVSwl_wR7VKP2zbAIBtsCFLr8fpbAclqP47EBhyED_sipQCRSQ_3Ua8bjtZsr0wYFv6UHqZ8orKq4",
+      "width": 4032
+    },
+    {
+      "height": 1000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116786535337869480303\">2 Bros Pizza</a>"
+      ],
+      "photo_reference": "ATKogpcqijaHLbGxgvWs8S6AmQCOff2pQ-uh9hX_5J1w3sxyTR3Yg_a7aSbK3BbmuReBpRT3RERgBKTqfZnX8l-K26doyWuAvhw8Q-Olm5paCoiKUAyVTmouEMc0kntkYHaheZbfSHx-ncbqOCRL7wuA271zZoEOcUVxbqcof0KXXMFN0l4j0OD77sthA3qyaqFjwnhcE2WbJqeIyCiTLRfWAxvah6P8u3eln-liXElsl5wYWoGh-YW4uK6jJzHJqlrWouFtLsiR7NDUhpUIMOOD_gI2J7lwJ5rlkCFsKTZwliNf7Q",
+      "width": 1000
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115709990515507416220\">baja</a>"
+      ],
+      "photo_reference": "ATKogpdYHBWPJFLA0jrfqZnvQSFOADbTkTfFLGkgg_9yJ_dl2hQRThb5x7Wtr_Oqv-qwiZ6KYhutmvkty8s_cW6vbdyFcDe4kof63PotS4YSyBDSzW7KAsyElflWctKAyGEksfOZYmZV0vxjaj0Z9yRasew-dqCRs4lEjt10VwH4lpybgMVl4QhFhJWKKhE2C9gpUkpzuktpwwh31B6Q7g54WsMMVrphRJe2hae3VZhCmwYSfjpSkmYLIcFJ_um2AZumxG_sCgszr_exRjK9nx2oWsY2yMe_RTNQGCs_0T3pqY3KWQqxumPLNRaobPaxuHyj5TmSw-NLsGKhaS0ehjWd7GoxVPcOVvgj9lQ4vnMzt6sjfeP7Pc80UuBiB23rS9_Z7GI91MjEpSFBg2Gln-5G4iMbFT79vbVa0Okz7koa-51wpezE",
+      "width": 4032
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102290447861236992019\">Ivan Zharehin</a>"
+      ],
+      "photo_reference": "ATKogpdSWdD7SuGXNjd4WqWc9VEjrK9S4zJoSN7EuxuNAz2YeMntPKnLlX3kSEL5SERmLQLzZrt5m-mz0m4sNLvGqYpNmlwOCuHdmfEuBk5RCW3YFWlG6U53AXkSvFsM4sGJIFwp7Q5BWBjEuI6Pfxh2Ee48fECTz5c162N-tKzfnpZ5u-RkZuT-fjmgCj2aAJ-HcAi94563B4EdLVpgHFilJHUrmFToagpNa8im0cd2WtaCaqyiV27QYorCxkOyw4Tb-j7tYr7gAuie8gB7QlKefroJ_pURmCYCybD-I4QvOJlKIv9VaIBrfXH_6T2nPWROdEYsXp_9GthNES3xzq961yg1CYtDttJCtaYXaFzO_aenEQnVTEQNvrzTrok6IbZokmF7KONFdUdW7v3pQZvdVRZJk9rXsQicpYpGyrJbGzNzHw",
+      "width": 4080
+    },
+    {
+      "height": 3120,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101082238369533312256\">Claudio Tavolino</a>"
+      ],
+      "photo_reference": "ATKogpf429nox7MQAj0cGFzU66dNylmLPOI1b8DBp8Mx60fo4IANpy4J2rS_mgmgwBxswh7VG8orA1Ec7BPd7jeT6g8IHzGktwW300sucy1ciMzw_AZX3EQJ2LPo2WdceRHLooCpgCjOOnbqRcoA37th24gW27tLWPS1dVs9P_AWN1FIoxMAGAwp8XiY9lJaPuDOmylf4F_ek_VP4Bum-ZRROsp5te-uBTxjMZbUmp56bYTsa_kjRH7aAxuEek2u6rSZNQ-Y6-42nF3XckXPFmYgaJhYO6fcuJ9yfpKi9SHo2WZq-ACfjb9Ea6J9LJ6pzlPR9wEYuRcGJdlzBhuPXrLLRwXepg-zH9idHdB7Sv4ZpUD8u69ZTKwWnBOUqFPBjHOFC8HkyZ4U1eXG46MCRUEGGG3iVc9A5Fi35oPZN9Knu2DGdA",
+      "width": 4160
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110872330176335675095\">Miguel Hernandez</a>"
+      ],
+      "photo_reference": "ATKogpdqbNB6bxfdk62xxaAUCWFrmzIl9Aus-ZKxGVZdKN124DL8m_7xhsiG-pO9-NlCgfxziUQSUT12-DdlJ-_WzcXzlcKCFs7JFwjES_jYAPW7ILdqpkA_rETNSO3J0_xtE5JttI1eB6VD5GdI849IMWCSh12ewwxcI5d1_ob-8Sq4miGjE_L_S_YzwShF74stloYjAa-cu85prsxapg8rAnNShkbIqyWsJBI0JH0zwtsv3hIi7oto4HxzwtPYTRlsulCdC6I-8yWZyUfFoUZwri9b7G-7H9isBGd8iffRLUz6kjKlKVlPUOdzPKnkc49coRMar6bEIYaaY37IHu7v8k3dUe107jpp2EdglafM2_RkBLiRkg81AW3ZLTSw_fz3Acf392bDWx55ZRgg838Z92pROYJanshBkX6t2Mh7FowoVQ",
+      "width": 4032
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115709990515507416220\">baja</a>"
+      ],
+      "photo_reference": "ATKogpcYPL8Dt9wvp72H5nftqbgvUV_rCl9YZNVHX6npmZjzhmta2UX9n2fBrNq1PzJB493qUaSPlEP-D42I9RDPXSQO9kVPaPW41Qg2xf88rdN7arJUCZHzfp3NROo6aVyMI978WqVb8HHuhn6SCUJVTV2kk_jtcA_0GuBYyfHlRxQvtD-_asZo8Gz6Nt7PSLmag_aR6KnCLmqUjdvVDUe1nvYbxY1EzydZA980JeBpaK9OD1iMQyWaZvBsSsbNDBBfaE9q_k0tRuU6jxf74XEFp7rH01qbCNNwihFF967kgmxG-gLOOE_d4qyz60zgDRd-VOAXMs7FLYm1xdhOSEE8gZQEFxDWC6EqLnn83u6aUdqO13CyWf5y2SZ2Y-MoUWcDJ6Pr6w6__QghLEXjeH8nA3H2IPuY-L6C60v1FZOFBGonNQ",
+      "width": 4032
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106836564573390655805\">Jan Siderius</a>"
+      ],
+      "photo_reference": "ATKogpdt3ESCtiw4slglfWjqPaIcAV2gZyuptBmk0u0WRvjRebdXqPo8iYC82EtP-c52pzVrt2vec8xNkufXYAOYn17d_ayIWV-unUGJUhZCt0bifkXwhuMsIbou0V148eg3_932s0uQSGyI6B8_PuMFG0Tr73xdTHP_DTmGZueM4yjO30i4fMywETZslMKnSRCrNxZSbXBlK1TlveAH3H19ZZYZ8HMMTP8YA2cHh8m1jvOjxArA6rQ483jxFyUKe-r9e5oHGaEFZ5rlLI8MMyCYpgjNu2YPH4M5bSxsV3wZKFi3C7HqGwFz7Cd1oG53JwtEIYT_H7ahi_00oGnzxxMUHVpRTR3o1jn8InOD8shHNOtEDt7tiehg1AuYUxEUuIPMHjKbAZDXQffoE7eLVZgofazmciN-Yv1J2IgZDjUqSBvCpQ",
+      "width": 4000
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104576189039459433842\">Tam Le Nhat</a>"
+      ],
+      "photo_reference": "ATKogpdaIjO_dcFanW8Z8leo7SDcaLHSwBfItWnr5z0GJ40UY_gRP-qflh5K6GsJxb96pX0tZysSWLR5N7waGLxu80A-qbgyB3_GbO6bTDA-U7U9m67iP7LC-AKzuTf1bQWFiAzG_Ide0p3dhYQys0bWSna23s5rIdBRLlbBAK6RDwjfkKvemVNLrUgAMhARm3YqhAoyt1hQobuExvgTdTW6rRFvf02Nj1t2CixQNLZEnCo20qe8XZx3HYIctOXzNuvgeLukJ1CbZ90kLlw3PfYKCnrlrdimUY5I-lqLFPaxDnFGMDml9E65Ik8RoNoZ9Vcd3eNgDDsiE-sw8OERNsx8yQ-fTWToBpQaF4RNgkZZjBaVKh0u3eM5G5GwmbWHRKpd8-SNF7RMvxv36McIxyVHBUFTnzeO1k5nBjchewKhgt-TlQ66",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106229620708101656955\">YNA</a>"
+      ],
+      "photo_reference": "ATKogpd7n9yc_wqUg6qZQ2ferZTgiDIbQIpNKG1-q0GQ4y77EIGVDlbM9HJL6L901xyaRxBgQP-KD2xWdGpVQznAjkzTKZPzeQmYS-C9LU8Qj4mGORpPbNyiejWJz2cmCegdK79kTwD7KgDUnkL7XYKd3CPxgWhE_O7QdSHt-qERDtO37Jn57g5Rt6wuPsU5PSTeudz2EGp_06r0QxtEbFdyQSFRqcRBxDyNExp6bXLnHgQeNwVu8yAMYNkDIKGFDBM28ayUu8eRWoPT-hfSvwhtcfL12-IIPsRP_3rdDGLLn7vMY_xAejJjJglNoJGU2emcL-C_UDGe41pIInSRWY65F5OMckQ-1jDorAmA9YkhGJet2oTMfM65AhZ8Ny7YgHqvXlJAeAOqs4X6-17pjoIWksbM4pKMNNhO9vIenL88QZ5msRI",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJ1x6n_axZwokRwVtestFkcV0",
+  "plus_code": {
+    "compound_code": "Q235+V6 New York, NY, USA",
+    "global_code": "87G8Q235+V6"
+  },
+  "price_level": 1,
+  "rating": 4.3,
+  "reference": "ChIJ1x6n_axZwokRwVtestFkcV0",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Lucy Hodgson",
+      "author_url": "https://www.google.com/maps/contrib/115441746047333250920/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWj3YBSlujWnnjOLwwaOE1iyaZsLWkGhlb__qoMU_lnO_SPouEz=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "After a long flight, we stopped by Two Bros Pizza for a quick meal and tried their cheese slice. It was absolutely delicious and reasonably priced. Highly recommend!",
+      "time": 1742054610,
+      "translated": false
+    },
+    {
+      "author_name": "Darren Johnson",
+      "author_url": "https://www.google.com/maps/contrib/107925005866298557183/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKLn2xk66FFHFWHuRTOcGuQMq4pZPYLQ1oKw5mL0_kVfLG7d4=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "A great place to get a late-night slice. Has all you can ask for at an affordable price. Not much seating, but a slice is finger food anyway.",
+      "time": 1745893035,
+      "translated": false
+    },
+    {
+      "author_name": "EMAD SMERAT",
+      "author_url": "https://www.google.com/maps/contrib/115453710354861864021/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXx3lVt3gZV_PcbT-k-kgOu7epzYoeAfaIuYHgXUwf4T9qnXisK=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "A true Newyork classic , one of the best pizza places you must try when visiting nyc . The crust is thin but sturdy, with a crispy exterior and a slightly chewy bite. A perfect blend of mozzarella that melts beautifully, giving a creamy texture without being overly greasy. The cheese coverage is balanced, so each bite has a bit of everything.",
+      "time": 1742132558,
+      "translated": false
+    },
+    {
+      "author_name": "Karel Kvita",
+      "author_url": "https://www.google.com/maps/contrib/114451484821267999717/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrqZLHjxCWhtOzQh2ZaGUr3uZR3TeZWJx7QMdZvPFJVTJRQ8Q=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "7 months ago",
+      "text": "Two slices and soda for 3.99$ is the Most affordable pizza in Manhattan. Place is nothing special but you can feel the atmosphere of the city. We always like to do it at least once while visiting the town.",
+      "time": 1732150961,
+      "translated": false
+    },
+    {
+      "author_name": "Has Y",
+      "author_url": "https://www.google.com/maps/contrib/101464897563253489924/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWP4W8ArIoS56ZOZ0F2_oGe1pNRNfhaRXMynTbE07DG2uNo9ndUWg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Great cheese slices. 10/10. So fresh. Good deal with two cheese slices and a drink for $3.99 \ud83d\ude0d Could do with more seating areas",
+      "time": 1746443742,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "restaurant",
+    "food",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=6733273769699072961",
+  "user_ratings_total": 4350,
+  "utc_offset": -240,
+  "vicinity": "557 8th Ave, New York",
+  "website": "https://www.2brospizza.com/",
+  "wheelchair_accessible_entrance": true
+}

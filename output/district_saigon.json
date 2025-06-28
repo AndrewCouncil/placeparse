@@ -1,0 +1,525 @@
+{
+  "address_components": [
+    {
+      "long_name": "3715",
+      "short_name": "3715",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Broadway",
+      "short_name": "Broadway",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Astoria",
+      "short_name": "Astoria",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11103",
+      "short_name": "11103",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">3715 Broadway</span>, <span class=\"locality\">Astoria</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11103</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "special_days": [
+      {
+        "date": "2025-07-04",
+        "exceptional_hours": true
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: Closed",
+      "Saturday: 12:00\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Pho & other familiar Vietnamese dishes, plus craft cocktails, served in a chill, urban setting."
+  },
+  "formatted_address": "3715 Broadway, Astoria, NY 11103, USA",
+  "formatted_phone_number": "(718) 956-0007",
+  "geometry": {
+    "location": {
+      "lat": 40.7595925,
+      "lng": -73.9200184
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.76090213029151,
+        "lng": -73.9187248697085
+      },
+      "southwest": {
+        "lat": 40.75820416970851,
+        "lng": -73.9214228302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-956-0007",
+  "name": "District Saigon",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200910:30\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1333,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100803874298194447001\">District Saigon</a>"
+      ],
+      "photo_reference": "ATKogpeJLcH5kofoBpVrc69Js4FFSE81LKkcpPHin6AaWHSaOEtN6KJhy9SgtkCWu-RPMhiBabP--aq4xqK1HURWzpB3vs8n60re2ZI53fFRDCzeAgEV4abIWaQtLEUFq_cUiTPCv0LXKnm8m8JVsUVibTpkBOGtKzPlO25c1C1_-hLoewcVIKsw-003wSgb6aVBPALiUn0hKL0gQPUJxApSEWw8fyc5H9D3Gk38jKtjJtokz-nsxTWKHF95mVCsaIurZH0OrFb1jwYj6zVU7t0LklfMTd-tBEUF-4ByS4KwGM3XYQ",
+      "width": 2000
+    },
+    {
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100803874298194447001\">District Saigon</a>"
+      ],
+      "photo_reference": "ATKogpfGYp0WkglOfh45CIeBkSEraICxE_KW0PJAKvplK7sGlTZt4_HHbjAAE5C2ScqpIV58tm5KVer3N8yCrGfkGbc6vohnsBH0cA2_Tb0rFm1GTzztUGNJ-vB1yqQBuqHqfOKOHM2DRYImvBFhTgyqyFDqjihYclW11sepkoeZU9NaJatHjW3BSJZDhGD_OHVp1ddtANUVPxUSRvqLFuEJlCPFuYzntuNBnEdIA0knxcbPFdjY0qneZNeoyETYMoS5RP5wM_u9ex3tuEFOIdDh7WrNtavkCz4nKKoGeO8rnVNPgg",
+      "width": 1616
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100803874298194447001\">District Saigon</a>"
+      ],
+      "photo_reference": "ATKogpcUuZgLnBviQVk2PLAnxua9q13su3saA2yHEsUEWTtvh9Lr65tfxuJlBYrIu8oy4pmZ-dYjs_g0NcGazF4KPzzAJXCl6iAEH0sDxQiBU0RgzTG4qQ9sZ2FiK4tNBqQ3MyiJc4Z6AjBB1MCMtcx2bVJrRufhRF8yzZWowD7S5M8ekS_TCToevoermfc4r1VLvHnybxwckrcHdEf2PIDysVE_bwXHfbipzOr3US3jsMhibEPntowzKRYd4L0cXFMDDYw68wKb3G2fAR8w0UaEYGN8wZ2dNMJc_EEia4wmbk6KIA",
+      "width": 4800
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114746114434966868203\">Mia Huynh</a>"
+      ],
+      "photo_reference": "ATKogpcKRdFQ7UNvw5WfAr3WmWLlF2M92TMJ4m4Mnvv__MW9-QFai5LUdI4AtR1UTlONeIkX-Nx2A9D4grY0mFHj0mfVUvuekAdo8ydQOVXTv5o63Mi0FGrOBHWssxBVWzxPC_R_w30l7YfyCJwIUn-BhZsbPogJ6s_SAKT2-ewu4yrgXamJybIaVIxts_ykEi5yd5eglgfJgQOZg24Rcrgx8LMQMiY8jZF4IwrBhSKmSVqwxSuucn_WrpyHAMYG9H3l0WQJEgWeoXfH94hFFjZ0ijtkT_e1r-7Nti7EK_DCvi7aHzjx1rFuXl_hgNXVMpaKVjEKyD4oTZeWzzWAMHe_FnsGq8DklBU73KaO8lRexp4Lb3cB3ms-JKMzheorQ0qcCUoJwB1--s2HyS5KaQhaCfXj-1ixpXwAuPFx3WJd_qUQ65T_",
+      "width": 3600
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100803874298194447001\">District Saigon</a>"
+      ],
+      "photo_reference": "ATKogpeG5mqRt_3FIj1k3IxuLvtWgVXYCuJ5Hx_RD5XjbbkrZv36Z2vrOgLSLQzDuFc5m1jI2bTYTZfIihGcr5KE7Ruh2N1DMKtWcMfqGnkRWWVi43Waa3Ftdq8Q9miaRaMr_IDC6OgyevGb1esd0kXC8QzrPGt0_7QZ0bcIbuVm8d3L5khnxHmlmla60fa9vlZR8dGZ2c3a-z3gWGLFmfd8jXc4BHbAXK_AQQ4-o02IlqQVn6JEekAmsNfuleYTbEeOo9bNLRp2p2TLTOqMmsgg2SADiOgrLmwv7dW1ndIy-F7Vjg",
+      "width": 4800
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107100419871699451797\">Josephine Lee</a>"
+      ],
+      "photo_reference": "ATKogpezU9RPdykuLuQ7bCSh6kl-AvHvAe62LSRLK7H8STZyI8eAeldUF0s4SuYUZyxYzAJIyU8pzyTC1hrl5ZBT8GS2tA03VeMILGUeGy1lCgpLAj-GZocKeKD-rnO7ATfD8TSms4C6YW2AxTCp58IsYkkLU1ycySJsCOnHafTNmeq4Ex9ShSEzLOlPe-GtOC1ljHzy3uyYaM6xYtKYIDd1TfKNMcbWXGpeAgiN_p2FbAI4V9k7k1HtUKRCyeQjb5zKrXjPy2QRcWKMWw5R-Pr7tCDhdll08bEsH9MhwPo0qA2BzfkpsZdjCRVh3izStn5RwY4jwVDjSEUUQRgLAGw0UsO8N-1vyaR7LHWFUxGqLEz5CfL1UytPV8CeaCu_xNPH77RdCzyepjUQag7mfKeTfsSR_wLZovxPbW_sEdI14FqG7iU",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107100419871699451797\">Josephine Lee</a>"
+      ],
+      "photo_reference": "ATKogpfhg60Lxaa5CXK5mpwXcpuHbm0xXQB0uwenVQgv6hfu16Rwqk-HUzb_E1tawaefBdVcaELXmkwIshH7KBiHPrKE5icWRKXeekn-vodlZJjWClsby8JEB_8_UjNuJJNqAvcZLQvjmN770XWo4Lphl7bdYgfp7cLsiGA26iJfugQK4VYFSAxjM5f3pix4XQ24xPesnH2I0TEyXQC2u_bIttrnj63Mhr-Rk3S5JbKrS8Pqr7CnXAQMjqkQPHOYnloVMm81PcwdL1imF1Y3OztEITPdBDZerziErJEQbnsTS4Qs2liUsbF1rtKp24Dze3r9QKbDIjHoIRv4qRGc4FRKnDHbMdgjHY2DrOZrLBMrG2wBWHhVHiI3oZSoFfQ6AqFRtbgRH4l1Lw_q511dVNXyXR4tu934B7v5MxhXP7mpI9EB8hw",
+      "width": 4032
+    },
+    {
+      "height": 2153,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109624351485880255126\">Paul</a>"
+      ],
+      "photo_reference": "ATKogpeF594jlT6fyHskhhphtL5DEfsuDoQSSdd8uw9WbXT0CcsnXK-mwwN8J8ZJjJBF_9TnCnu9iKQsTyt086Z86pnx_rF13vcC8NqSf0f-LegHWEPjQhJtdBeTw0FQ6Sgssoo-1XennUBB7eoMsNHTI5ob4Ocv9yaeWRWNffv-ofxwFIKAsvWGiDbWlarFcXsJe2Tn_tpj6kyS1wXq8QRY63N79Bh4i1Q4UoN3sHHxZbyIYBQpz6Ckx05jRzEaRjmGaFMLx-GWRtJuPT2THEgKFEAOXCFSY1mZvd1fyGcueAkoesWmVCw9KLbGAhs1g4oxqOX6PFTk1q-U_FV_jopO9K2KEiu7Ib8h0K0fH6C5yHXlEPolSGDYOvNG8qT3zYDkoyM2yQAu-kboFwVJEEFoi-vONwiuD49xEXf6LAhef32-75wF",
+      "width": 3135
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101536565982806568612\">Tia</a>"
+      ],
+      "photo_reference": "ATKogpfd4GkT6jXGeYhnucoFQj17j96P6Wz5nHhJjnQIDkTferxaqYaEYexlf1NSMr4fnaZxueLA_q53sQJ-zb9RmmKI_I60fp4QbyX8qsiYRVFa8ZnLy6BmaDcxvSErbiiNYK6fOtKzjtIH25__JKjucxjV5rTevMd0pGx7P4js7UXHdXmRiT-76JftDm8r_ZgoZ7_1Wz0NQDUHIsj9xMP-6zPGjLkwzkmjPovPFcC9B8w-nEm74W0gJz5zwB9PwujJhqKMFplMye9bxWLOEmjh7ja0LzSoqiYOs9Ye9Yfrq_55dg0iPKyL7l5TcHln1R4Zh-mCSgHTJTfBSS-ULXuUPOCBm_jF5M24cFLsEArawtIz_OBxJUGVWPgo3LEgGSyHuk5M4oNOTfhzAXp1a72HgVi_7nNo6F72CaOb0R0gENr-8h8WJVAVZ137XSLqHQ",
+      "width": 4000
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113995634178175550574\">Jason Eng</a>"
+      ],
+      "photo_reference": "ATKogpdFAaA4qLhfcyiDnTr7LurhwpNIKzQ2iY1bwlfYPwfNBmvdVAyih0Dmr7XbfnC5NkFvwtl-mnUpl-d9S4PKnsztWuvc5zxrs4jtzUHGT01pnEaEXXLHW1Or4k2ic6xipGnA__Ig20z1lmu3nJH0roEDqB0spSMcZbosEg-9-Y7AyGo1c7rawATkHPzgTQjNOp4bHYXNRouHzNpTFpL2fzc7-pNVPMhtYUzqe-NfSfWTpy9HQi7wlnAS4hkbLwfJ43F3_NbM50ndbQKWaGCpaWpgB7LCdmu6NXj8uk57Umc8WO6OpX_KOwQTEUCZTwlvkimppGWMsi9q-dLY38Fh_1KgHbN0ASzxfETYWxTcTgCyQh8KxO7QGsSUvk6L_Eq-VURV8JOEgofWciYxB69eq_LHYDSsvKbc3xOtzDa9k50Tzhb-t8M6AzIGaQtNdw",
+      "width": 4800
+    }
+  ],
+  "place_id": "ChIJVeu9vztfwokRjvnSb6ovSn8",
+  "plus_code": {
+    "compound_code": "Q35H+RX Astoria, Queens, NY, USA",
+    "global_code": "87G8Q35H+RX"
+  },
+  "price_level": 2,
+  "rating": 4.5,
+  "reference": "ChIJVeu9vztfwokRjvnSb6ovSn8",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "judy",
+      "author_url": "https://www.google.com/maps/contrib/111814586275566110872/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLS7c_tclIiTL6hYoi0WrjzgM7q9AGAvth0nMJb_KbQSLuo59E=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a week ago",
+      "text": "Definitely recommend the taro fries/chicken wing appetizer! Vegan pho with beef broth was great, wish it came with a more variety of vegetables. Would revisit for the catfish and other entrees!",
+      "time": 1750428487,
+      "translated": false
+    },
+    {
+      "author_name": "Paul",
+      "author_url": "https://www.google.com/maps/contrib/109624351485880255126/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7oBc0ux8aqMEbj0-5Ah755j8m1nsS7wCs-BD9jc318V3ELA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Vietnamese food that doesn't disappoint.  The lemongrass chili oil fried dumplings were delicious and The Banh mi was excellent.  The pho is fantastic as well",
+      "time": 1745795152,
+      "translated": false
+    },
+    {
+      "author_name": "Lisa Taylor",
+      "author_url": "https://www.google.com/maps/contrib/117002643000268379528/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVGg5LXl94Hfo34s8xbDP9M2qEJQ_1URF_ez2hy39if3RGHxAeYUA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "3 weeks ago",
+      "text": "We enjoyed our date night dinner here. I got the purple rain cocktail to give mezcal another try, but I\u2019m still not a fan (also had to sub an ingredient due to a sensitivity and that didn\u2019t do it any favors). I got the District Pho and my husband got pho with brisket. They were both very good but I\u2019ll try something different next time. If you care about lighting I don\u2019t recommend sitting at the back because the shadows are too strong and lights too focused and bright. Next time we\u2019ll sit toward the middle where the lighting is more consistent and soft and there are colorful, pretty lanterns.",
+      "time": 1749256284,
+      "translated": false
+    },
+    {
+      "author_name": "Terence D",
+      "author_url": "https://www.google.com/maps/contrib/108004530105606293532/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXf228wz8kiBmUfJTDJzymtsGdbMP2ngmddEq7_fdayKL2WR5pgHw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "The vietnamese food here was amazing. My favorite entree was the shaken steak & egg. I also ordered a beef pho soup as a side order for my steak which complemented my meal. We ordered their spring rolls (not shown) for appetizer which had meat, shrimp and noodles inside with fish sauce on the side. Overall, the ambiance in the restaurant was great. Great for dates or lunch/dinner with family.",
+      "time": 1744563234,
+      "translated": false
+    },
+    {
+      "author_name": "Iris Santalucia",
+      "author_url": "https://www.google.com/maps/contrib/105939309087382747735/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXGYkRfxtCuuBlb5TRxXREcdLUqASSAzjtdD5SgL55w_odogk_m=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "So good! Had the vegan pho and was super filling, flavorful, light, colorful and delicious. The summer rolls are really great too",
+      "time": 1749686138,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1700"
+          }
+        }
+      ],
+      "type": "HAPPY_HOUR",
+      "weekday_text": [
+        "Monday: 5:00\u2009\u2013\u20099:30\u202fPM",
+        "Tuesday: 5:00\u2009\u2013\u20097:00\u202fPM",
+        "Wednesday: 5:00\u2009\u2013\u20097:00\u202fPM",
+        "Thursday: 5:00\u2009\u2013\u20097:00\u202fPM",
+        "Friday: 5:00\u2009\u2013\u20097:00\u202fPM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "establishment",
+    "point_of_interest",
+    "meal_delivery",
+    "food",
+    "bar"
+  ],
+  "url": "https://maps.google.com/?cid=9172196000160479630",
+  "user_ratings_total": 944,
+  "utc_offset": -240,
+  "vicinity": "3715 Broadway, Astoria",
+  "website": "http://www.districtsaigonnyc.com/",
+  "wheelchair_accessible_entrance": true
+}

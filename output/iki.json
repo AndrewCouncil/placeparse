@@ -1,0 +1,458 @@
+{
+  "address_components": [
+    {
+      "long_name": "STE H04",
+      "short_name": "STE H04",
+      "types": [
+        "subpremise"
+      ]
+    },
+    {
+      "long_name": "133-42",
+      "short_name": "133-42",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "39th Avenue",
+      "short_name": "39th Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Flushing",
+      "short_name": "Flushing",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11354",
+      "short_name": "11354",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">133-42 39th Ave STE H04</span>, <span class=\"locality\">Flushing</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11354</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Upscale hotel restaurant preparing sophisticated Japanese cuisine, from sushi to omakase."
+  },
+  "formatted_address": "133-42 39th Ave STE H04, Flushing, NY 11354, USA",
+  "formatted_phone_number": "(718) 939-3388",
+  "geometry": {
+    "location": {
+      "lat": 40.7592419,
+      "lng": -73.8325608
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7607521302915,
+        "lng": -73.8313016697085
+      },
+      "southwest": {
+        "lat": 40.7580541697085,
+        "lng": -73.8339996302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-939-3388",
+  "name": "Iki",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 959,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107174828928611403976\">Iki</a>"
+      ],
+      "photo_reference": "ATKogpcz3RZgDtxLCFqrb30eBEH9ooPhWsauiI1cb3f3fmIMMto4VWmykQxH367wrlkcyr_brBTO_q-jba1AhbluDT5368kii9_errq3sEmM6MphbTapVN4tMymQAHWLw-ThmI9_lNePOSHCzK-TfOIPuvPonuojD12Ch40plqsz35C8dpEeiV5R6uCCWI4Z9M-EsQv30EgDPwcSm-f30a4XUGRuHTGIcCkVbt7_8PH88CQf8Q3FB56aonhaYy6eJLBnKeeTnp6ElNapgVdXmVR9SVUdiJaq_q4L0yRZdTR5yoVAxA",
+      "width": 960
+    },
+    {
+      "height": 750,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107174828928611403976\">Iki</a>"
+      ],
+      "photo_reference": "ATKogpfjFpSgCsAmumpE2g34qz4hgR_oB3n0tre3spgkpDeBikhHwhr8WXTnFPP0MA47Pv9jRHyEaFLc_il40FBxcemPaNW4XjHmeSOFIfM0pUTH8C07-gvyI4Ipc2FyKz7zaqajh7b8kVkmDBMSMrmj6HHhyvMYlDysGBBNT5A6c4p7DdYaIuLcM1CB_ifAhyAP8YcqUBT1rlpCZLb8steplbmCyf0-h43JNIA07uwyJj_BnqkNroWUj_2UFOnXsV2U1HKmZu_98ji_i_C-yMJ_a_x89VufBM3BbKJ2s7E_Zu2ftg",
+      "width": 1000
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110130683692996518955\">Happy</a>"
+      ],
+      "photo_reference": "ATKogpcWi5rHpzDKDloOMZCzYmrGROiWuLtjVAN7VCxNC462s0X7MJzo6FxQkHMrew2ZBBbYKCgLfyMKr4u3qpiVsRdhr0xUD2XVRnnC3xRjD-k8nkLyZVmz5IXPaL6EARd9Dh4Ds8VWAudXXTwknD_n2vpd2TbI55OMSlOVHQ_53tX1i8T4MLzkJtK64TW0EQofUzmPI9-ZDtL3qViMwBDYrQ45cA97kqJWx8OXHipiIcq4WMN6XGP2PGvDRwGB-a3kIoEoWfRPcAxhh-9SmBWJdZll8tEaXmf85F8Ua75moKjNdNJhAxWgHwaypwmmmI-3m9kOH0Mi154BhROGIxwEL-d3mLlhmVId6JYXRADYhm0OQALzedUhKKHRfTf2SAy5PpJYWHHdGsPLay7TGZAxgoOq-8uU1-WycmJZkerAkdCGkxG5dan65AaRFJDu8RH6",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113302549024676957777\">AlphaTraveler1 Youtuber</a>"
+      ],
+      "photo_reference": "ATKogpdRB4q7aDtId6dj_1IgsJa65Esdx6LwkHXo9tC5PqbKkeXK8QLU8sGJfLq0FX5Gu3wuI-vHempQyeCT0wzYfxS-d-gsD1WPqio-YEIbUcz4GQXI0EFBhGgTf_M9MhjPnBkQWLadrzYyawUV8vLC3yH-ghXeeeRSO2qnO92Ivpi5vgGj8u6IF04GaaYBL9EHNGGOqz4JcJIiLsX7GNGS44CHhYDSwCONJZGh8e4wruFAxd2Opd0U-7VHrRVmSPGs2LEDLVen33lL-nRYpLKLcOj2SRmr7tjNIPosoczBdd7AKlJINJME4NSyP43wttkF0ytcqhh7HhmQp-Ta_9Vb0_G8W_u89f6A9EAyQGWmgI-ATaOhTXGQUh1h8elO3Aap52S6QQ6PTHsyIyh1PdRZ2Y2EgyBUdRGGsyxacuyJyfzdxg",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110130683692996518955\">Happy</a>"
+      ],
+      "photo_reference": "ATKogpdLOGMo5TBljcOlAtpbjFHjw-j5mRRN6PuOSbfzk7FaMcFzCFqNh9zxs83aafuYxbcSda-oTw4BNTMweZH4q8CTL-acSET7p9vGFkO93o9MpNy6c6wTMK6FnCOLuXyvqW-we9WkAZe2OsEwj5OGLyph956VxChlsFvCH_6G0FiDnQgGoJCJwM02ZvGKFPrQ1GwWPBNC9ifCevKLe8yqmKSOsfzRAyeBXsNmcCyCsjJxKsKJGe20pDKg8SctNx5Y8Of5lrbNLXgsHZsHq2rOVpXiMpSJ2s9DWMk59L2745zJcc6fILEfoGJlu26aCymwDlbwNAg6aHERKE_BfaSq5potGhCPBwr1TOQMVLfhhuuCi65ftVLFHzBftg8xjt8CaXduBhsbSA0Rs3zAe2pp2H2u0-Jk7Ja0MBoUBLaKok3VnIpfjbPStZfpeeeihxjn",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101586326315628915100\">Redeye Treefrog</a>"
+      ],
+      "photo_reference": "ATKogpcQmzzFbAvnwOS671_uhjmctsMdjFhkXFwaH0lfXXodpfPJ32IX6wrH4xvE7mm2QlvLaRF1w8Lj0BLzlOcjavnHRG7xG4gOlu_yqy81fwBsu0O1nQkMaMq3IwXBO1i6OdWUbWyLnBxfzY4x8ED5SR9HMBda4yBfgx6PEJvjxv4L75NgC2eIWQcTRZ1HA6FOJmL8EW9-N3yumQdYk1nbx9_F2VEUk6NYa8P_Iwnb_ualQjzee0AqMniRNHTrNFEk_jfV81W5NS43SH7DsD-INMOc442j_TQnaalz6JAVpevfy2BDcMVgv8PG3Z8dcrbMr69fM3pHIVRyLtqn8Btgehp7jlRkeEgQmFIEHni-UlQiEc10elnqWbJHFa6tP_D0o4xxbY6wKDeiZZO5lZl6hodUZYLMKRB59nmJY-ynEFp6b87Q",
+      "width": 3600
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107036228584462859906\">Thanchanok</a>"
+      ],
+      "photo_reference": "ATKogpeMrBiTw3i5EGvEYgW2YLvMHm6AXPJonEiASHUnuA-b1lrbtCVMJXSKXlLgdPG30zsqHDjjLsbFgwaq7WNu72nJTtggegw1r5sMdTJfixLVq0d232yFXx4CcESRZIEqDAwLDrmkjR1MutAN4n7Rn2EQ6VTYH9NoHfOcjw2N5lF_PmGWpxgi0hqb-mqrwUYgT4D6cW1AlsSvZal9lWRLRaiRTiWWc6Ex4RfNt6wPdaFyGvySnFu6tEAS4F3-jyiMFJTqEGakW6Tma3igGQJ6z5Yf6PCC7bRBglv9ZD_wYtxJJWwICh4phgeOPj-DawnnrSvrVYNuC1LIuh3LYw21cQNbioVNTivjRwSaBx5-MdEJNKS81TQfmFNCyXZqNbhWdLJI3Ik1AVvL437TtmgrtiBWmkldlftvMRTiWZ2hZD6RHQ",
+      "width": 3024
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107091203661301019664\">Jose Lu</a>"
+      ],
+      "photo_reference": "ATKogpcYqmqQ413xhoFR1IMBub6tK_W0ipe-sl0JhXy6310IVEnUb5QoGdy0zLXMrPDBRvFaLg5xTHV-0V7MUCJfJiq-zJTeLsGVS9CizMOZXhO-R2ikZLt05P0Q5by1mhUQHll62C39D7JF38iJJkyezdKs0Bm-dKrChSYxeG6Rkzo-hth1kwEEcvypNe31hEX2nxdfiF16ISwy4wTWQ1WKYihoN0fBnfLJPho9c8wGauUa0XUrjQ9lsz1U9JgUiieEq0q7MGzcOZBbGKzlP5D1iiaGXoQCXQavCod44zN8CE7f0XUw9aPUXK2vsHcMHkEQltbu8FCMyy_AOK6mGuWOn-fZYF3uJeaPDI5hNbgjNTC-CRm3_BxnFchfk-9-qc_EH44I4n81qXZHmS5aok27lSeCB7WvJ8Mdawf5yUH7CucInQ",
+      "width": 4000
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109975239742154047505\">E Law</a>"
+      ],
+      "photo_reference": "ATKogpcG15V0k6RqzncUdS6yIBh-tt-Sm5QdTITIucWxU9nJs9oPtr9ljYfTUT-HI2H2aTkHh6gZFb9Co5v8fBK0ZJBEd_EZQx-KxpkcA0N_W1h2abMG2qwWi_lL9odgoix4fItEhvnUhAh_WQtavTS4dC973UHXUekDVQ2KaPLIiKjtLrpCDWjiTGgMJJpyevFKTBLaL0Z71J7npaDBB4g7aI0Bb6aYpG1pGCgvhwFp1UI1EDydO2rYEvCAO57zQbzGUhRVk-JIVab4MQv0lFfSQJDAfe2mfG3qzkeuICaZ9J7TkcXfcLKe0cVaRfHN0UgPTnxME1dMd9_tai-8aTiH98rRjsSGGBb1tAQDW72os_mqlggJUfY4rrYs26ua5cmIK-XFQu9pryu3t01FYC6dIKZCCHPuSN3vuS9jMh_KTm8BwlHJ",
+      "width": 4080
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110130683692996518955\">Happy</a>"
+      ],
+      "photo_reference": "ATKogpfETzb6IkIJX4PV1aW-jogMI-ATQcxygTypZkBFjgH_67juGVtYwor1xx9fCy-VahY8v-RKp8QD6Ag6WiaNd_hK5FOgg_9-tvW5LWd7mWt7JTJFca9dVBOb5dlH8slqmLjml61aK1rWGLJsz7GCQhF54NuNA51_zSs-HivPXZsYRPvSBC9XugP79_bTDbwv3_1L6qx5xx1jNRuSmG7e8HHR-P2VOVak_qg-YEEua0A-YikyFuigDWBe9Ij_I8HpGEDgS5cB3JxDBAanjvHh-RASGU7lwLJkmS3nXxjL_YxdOnf3fP3d_smWRIwgRfribfLTNXWH3MU9PFoJXYGDALYO96YRySThCDb6uLaYCfN6qqbbUfMsvA5dEKeB5OBBrpbCEVifxYuCMfNf-EW3n5faa1Zk2dt5fjWnQsfmF2C1ZqM0ztBBQfLinA2fODa9",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJrXWjZg5gwokRW_QM1gYAXyc",
+  "plus_code": {
+    "compound_code": "Q558+MX Flushing, Queens, NY, USA",
+    "global_code": "87G8Q558+MX"
+  },
+  "price_level": 2,
+  "rating": 4.1,
+  "reference": "ChIJrXWjZg5gwokRW_QM1gYAXyc",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Thanchanok",
+      "author_url": "https://www.google.com/maps/contrib/107036228584462859906/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBrJK6LbgxXkpmdIQ6Qy3_g_E2Kltx4XAk4ilWNuqCg8wg-qUb=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "a month ago",
+      "text": "I been here a few times  but this time all the seafood especially oysters it\u2019s so fishy and not fresh at all the lobster was over cooked and dry it\u2019s pricey compared with the quality of food i like this place but not recommended seafood menu here !",
+      "time": 1747085865,
+      "translated": false
+    },
+    {
+      "author_name": "Rachel Oakley",
+      "author_url": "https://www.google.com/maps/contrib/100454559173217967326/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWz9_xZLSUcddZpmFqD_yfj2ObBCHHzK6EiOpjvYNIHt5tLupIilw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "a year ago",
+      "text": "Nice change from always eating Chinese in Flushing. Really nice restaurant atmosphere, nice and new. Food was REALLY good. Sushi was tiny but tasty. Agedashi tofu was really good. Noodles were super fresh. Excellent service \u2014 everyone is so welcoming and incredibly attentive. One thing I didn\u2019t like was seeing the slowly dying fish and lifeless lobsters in the aquariums by the sushi counter. Was really off putting.",
+      "time": 1717704064,
+      "translated": false
+    },
+    {
+      "author_name": "Jake Jake",
+      "author_url": "https://www.google.com/maps/contrib/103368525810800052619/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWX5AgzD1IBEo627QRMR6KniNLJw4mWdu-E2Tuxjm15-ZjVXXDY=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "11 months ago",
+      "text": "The food was decent, lobster tempura was ok, the wagyu was rather lean. The salad was delicious but the chicken dish was rather bland. The service wasn't the best, as we had to wait a while to finally capture the waiters attention in order to make our order.",
+      "time": 1721699878,
+      "translated": false
+    },
+    {
+      "author_name": "Lilly Nguyen",
+      "author_url": "https://www.google.com/maps/contrib/108267302082156440582/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW0V12X_j9IUKoiepDb2YQQgXmgfXGRqE9OUeoqRFZ5ocSBdooY=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "If you are a foie gras fan this is the place to go!! I\u2019ve eaten here multiple times and it never disappoints \ud83d\ude4f the ingredients are really fresh",
+      "time": 1743185566,
+      "translated": false
+    },
+    {
+      "author_name": "Stephen K",
+      "author_url": "https://www.google.com/maps/contrib/113481328813288507053/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVWXNYlOcJo-fxfX7qgi2MZNeh2Ep4zbEXugU9BaJduyQbH39CB=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "For some reason, we were the only customers in the restaurant. While I found that odd, it worked in my favor as all of the hot dishes came out piping hot! I am NOT saying that they would come out cold if there was a full house, but only stating how the food came out in their ideal temperature. I recommend the lobster. While it may be pricey, the melted cheese and refreshing lobster taste is worth it. Not only that, but it is easy to remove the meat from the shell. The other seafoods were delicious as well. There were no fishy aftertaste or any sand in the oysters. The atmosphere was relax and calming, although that could also be due to the fact that no one else was there. The only downside is that the ice cream is only one small scoop. However, given how this was a free dessert, we cannot be picky about that. The service was impeccable and the waiters/waitress were all patient and helpful! I will definitely come back, although not too often as the price are a little on the higher end of the spectrum.",
+      "time": 1739885873,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "establishment",
+    "point_of_interest",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=2836986319627678811",
+  "user_ratings_total": 349,
+  "utc_offset": -240,
+  "vicinity": "133-42 39th Ave STE H04, Flushing",
+  "website": "http://ikirestaurant.com/",
+  "wheelchair_accessible_entrance": true
+}

@@ -1,0 +1,426 @@
+{
+  "address_components": [
+    {
+      "long_name": "90",
+      "short_name": "90",
+      "types": [
+        "subpremise"
+      ]
+    },
+    {
+      "long_name": "100",
+      "short_name": "100",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Cedar Street",
+      "short_name": "Cedar St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10006",
+      "short_name": "10006",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">100 Cedar St #90</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10006</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1530"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1530"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1530"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1530"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1530"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1630"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:00\u202fAM\u2009\u2013\u20093:30\u202fPM",
+      "Tuesday: 10:00\u202fAM\u2009\u2013\u20093:30\u202fPM",
+      "Wednesday: 10:00\u202fAM\u2009\u2013\u20093:30\u202fPM",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u20093:30\u202fPM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u20093:30\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20094:30\u202fPM",
+      "Sunday: Closed"
+    ]
+  },
+  "dine_in": true,
+  "formatted_address": "100 Cedar St #90, New York, NY 10006, USA",
+  "geometry": {
+    "location": {
+      "lat": 40.7089751,
+      "lng": -74.01135579999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.71037108029149,
+        "lng": -74.01006246970849
+      },
+      "southwest": {
+        "lat": 40.7076731197085,
+        "lng": -74.01276043029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "name": "Sam's Falafel Stand",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "1530"
+        },
+        "open": {
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1530"
+        },
+        "open": {
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1530"
+        },
+        "open": {
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1530"
+        },
+        "open": {
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1530"
+        },
+        "open": {
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1630"
+        },
+        "open": {
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:00\u202fAM\u2009\u2013\u20093:30\u202fPM",
+      "Tuesday: 10:00\u202fAM\u2009\u2013\u20093:30\u202fPM",
+      "Wednesday: 10:00\u202fAM\u2009\u2013\u20093:30\u202fPM",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u20093:30\u202fPM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u20093:30\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20094:30\u202fPM",
+      "Sunday: Closed"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116590868215684319024\">Samer el Qasas</a>"
+      ],
+      "photo_reference": "ATKogpc20MK7FZZPMeNNu1XHcGgOTQPeL9iBa5zs0EIDd0hx7QDPxb3EF7tQUiPvxnlKQMWG4QJwogKrWD_olFlwzGDd7wpkBM3-lftNOxFbKAnJh_WbV2lWMaW-PPrv66gqSFc_0UlL0w-U-8wPvU-ELNDRmzW-SOH3R3eqnIMRZe44Ks444szvEh7Ilxy3biJXrUx_WAO-dw1_x28b_RasrQlSFhpckKVC8vGjVVLhQmDAAsNOVKwPj8ZiTaxHnqtaXKleeq_FDeSER1QECINJHjYepRVKeuEIwSZwbAB6Gh6u0ZkJiOo-mNOzSvvs11pZogbUF5hMtm59ei0uku73SIiGVZpaEAkSXq1Iq_rpG6vdNxaKLK39fIsUC5WPKCjGCHLPiL25wd9f0vIXOa3sm2KelXQy-Vm1mNTLnzu6ZA3d2w",
+      "width": 1600
+    },
+    {
+      "height": 301,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102459591778591658215\">Billy Metts</a>"
+      ],
+      "photo_reference": "ATKogpdBuZkVcWooGps7vsHxnJSyJdfpeHTKm3PSQes_5HyA-sa4_dLyK7_ZLEkwAVHltxIpevRU6QZbzATCrC8M8Aw2FjMZ9LbeafO1N-UtT8nUozbyJ_wc7i2Lxx3U_Ww-dY0l3oMN6dY8OFOB9f-gGWS5XDiDWB-QxqtFzsldl2lRGWN2x8TMxcTU4yMuAnfcN_aFrrx5BNjZXLKNcNm6_Go9Fhpi9t09qpa5iMZttujenY7BoykTVF2mWzD0A6MHlj0F28dIqh7HZgrV6q6KuWopg_p8l5ckKbw56J5mnzezDJ5MEuI1lCyoqZ_c1q-nCIXwxk8QEsfkbo4HEj5CBaZHTLQuaupeLQdG-IW6JZ511OpI7f4palFb82_U0Bkcqwy6A1jKmUZ43watNC5f_YWjsQi3ULIdkV9oYAoT6rILPSY5P-SHoIHt5KszuA",
+      "width": 612
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106679798205686278114\">Jay Kaila</a>"
+      ],
+      "photo_reference": "ATKogpcpkn7Oq7Z8j_WiHX3lRjAgxBysI1rteDQvKGkH8OKMDeOYbL3cVfuZ2gt6O2kufJpXoQrWdWZV7hNwyZoYlV6-S1NigJp8PyAoRgObTlyPaooU3JcY5cDuEkWP3hue1XU7TYP5McnLaqVZd-LBqe_6kYsjkOqEFT53PwZTbWJYhNw_zGXUsNlPRDJBh4mRVTJExtJgKGF2kxNjUBWn6e9BhbmX7dT379nIhc-hKqvrWZ-6kU5E8OtRAmtURhNVZDUQEmqlTXaWSJZ1zhrJolGtyX38U3HY3Em6BkOhaVeNQlzP87Hr-fZwAOo1iWkPgUW5CAR52ep8gTY4w1rDpvUfjbhERPoqSlaNnpbt8M7pAQMsqyH1ok7lrrwH7GR3h2dXrA7xAg9xAPLhQcI5z_AmMmeqd1QvWZPtlWY6Z659dgIY",
+      "width": 4000
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106679798205686278114\">Jay Kaila</a>"
+      ],
+      "photo_reference": "ATKogpc6J_H0Wxb5OUH0-9jtH7Xva_OE-zHiW9oCoPYo6trEbalnvdY5FoVYA1EjVlfCddwckKNL89B6WIl6qSfSyNuGacpiOxXh6QePNOFhFYBYhXKvN9nmuy0M07gKC5hLGzccMO-SDZiMk5b1QsCBHxwkAVpjD1oAxIKu-8hnK-PlI56e_tlkKr8AXzov9XY_Usu7dC0Kg6OMJbGoQjRfY0it7ylw4Dg-LRGVEf_31t1A8QTz9IHGjsC0SsYz2oX9QM0zCohhXK1PZVsDOvkl-X-I0jnj4619JteLKq0eLVVFWY7Qh2JlkfODvbxwq8acZyqpAX5jQcCVDE8fVOclKwespd0tq8HE9uildziVzyPf6G0EXBbltSpW-DU3nZdfe6YH_FfS2qCBlZHzmAE-WhzhbfKKAiq2dqat5DhlNOo",
+      "width": 3000
+    },
+    {
+      "height": 407,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102459591778591658215\">Billy Metts</a>"
+      ],
+      "photo_reference": "ATKogpdQDana7MRdQQ7XQrBmDkFfTBsiWhPeA8eAINPIuKOC_zzgfgaf5qZvik5d8BN5RKIf6s5-fQ3ltucSmzVRE1PFlGY6UIYdmdjQTlbGrE5rDC3fTKn0G0AgCnzN6ENCVQEo3pxtQGr6Ra7ROPLBD6MpHyP00ipEoDb9Yv4toPYmhnfAtkd6eeVQ4OcmCuoQvukCXsb08MwIcZnhZnjNEiGKl3wcdBzoE0axRu1qTrSiCQpVHplNjC7wu90svw__jFjyKgWwHKpLwhP8YRjjUwYBscq5DyjmzhHouF_QB76Ml_H6rwxv_HRa6U1Pg7dZsjK_4mrJAvwy2LdhJlfFMC2ZS6TUis3MueeoYiOfN8gOVMFPbfvbvPvLz-3BT3Ha4iuRm67GAUwuh_goomKFkSeBcNWD1zT-YIB4R99-UEJIJpe_cIVkfY0O6LnpnZlF",
+      "width": 612
+    },
+    {
+      "height": 1970,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102127736268993867732\">Heather Kenney</a>"
+      ],
+      "photo_reference": "ATKogpe3BA0XBihNuFliwpjEUUVFG1z6I__5PZ8UkoVNo30uOt-6BLmxmvusgzkwtMaFjHE9y2mHUZ4sCx_r59aLGWi9OKt-VKTG9sbZuOgT3QoYoER56OjErrAoUUKCmd1BMvxwGHC_Ebfu8Uaz7y5rSXuA0svMVr0rhd5zP7PvoQEZsJTiF35A2UN7GheMGhLikQr7bdwOKLyi3Bszhcdg_ACAgd6vpS15Yej1VaufgkpwBffnFypRRCWWrofXPi_bmFcBXGf_OamU6Tk2OXMmXqDDZgvTa-F52CC7C4bDDzu8HouI8F8vnm6_IVDbK6wo28ekNyHRGgJK-Cv0UuAu6galV5YCDfDvI19D26BVuRDbHhsKhbnNzMwsfRg4UfAgn2Tb5JykuIwN4B8glIx1wY9f3YiHfcqAc8oYcPt5AXO0-J-W",
+      "width": 2252
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114530835806841193853\">Robin Shen</a>"
+      ],
+      "photo_reference": "ATKogpfzjkPv3Q8CuPD48yPhPvsJxydEkRgUuxCh6cceoWEgGXDWfIQVK-cz-8geaoizS3EMDngls61qNi2y_tS3MVYRjlEsG7nYLssIE5jm757Yk8l5JK17P_BzX0ggqsJpg3FBvmlZCzzkP54NbuQpQcQISv1gO3N0wghv8tlx4LctxRfEBHl-naoFhH_5g2j_Shgxqf7_ukcRUwXa_VtNmohEvODV-3XQJycMV81dGWoMElPqbBrRuxrb4LYQas5r2QwHzDLkXeAyesvzR9Ii8edBy4Yw3iIfHuc3RH5ZDByfRAihY5UA3yU9XIf_gwUyKWpBK33pPTs0Hq4Ec9LvogvH4iYA2R05_BQ9yyzmWRnpSJKSg9-kYPa39mUm3-AhFw7Not1CBdTcd6KD-VBWXtXIPL4r_LRDoPIhJQAcUfmv02M",
+      "width": 3000
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106679798205686278114\">Jay Kaila</a>"
+      ],
+      "photo_reference": "ATKogpfMa8ymKmwy5vw1stHLYyjfseiz1TlXvMG6wDASBosbZLBidGA6djXF4mkShXwjRhLUXsLcvMj7m_43vHNFGmHoy3c78FXMDnZlkH_BRayzR5SjDdQ2H7qgQR4_SZyG8u-hkvZ3H8zODSpn0Smg5P0Z4APBDK37DahzrVuBiCGZR-MLdLJWHP-TpT4dhOGvzc8XdDw4iolFAGRobV7hYFdWM0h5lwFvWDkRlfA8dXmQciEc4UMrIOX772j32s9ooUEzFzW3IlOtsApCo9BsZXKV-9_Xtn13nQ2xeKkOcOA_f6iAt_3_zrYPam2pNzdVTqKwInrDtN6LiUJZizbDXcm3tLQKdMKVXkY3TF0D8eWrsZEQNcPSPFrKlDki5k4L2p5YTqKMtrQosqm1Bj_KHw-ccvvYEx9pgQoKqB-DV-o",
+      "width": 4000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110664565934535595486\">Dan Levine</a>"
+      ],
+      "photo_reference": "ATKogpcbun4xejJKi5sEoQnaOrw-vNBb_VCh12sI_XJhkrM5aljcefCY2ApWz6jCmL3fjgW9nn7NQFoOSG-wqhbeHxsjnskUFIcR5mSBbCICgaDKIeid1zqHIJOv1AsJjc-C1nUpfr0LVFeLTa5EfF32bAESwdlm7mfaEb3JaJg0FdFRQepa6YcZw6eFcIqT45XUXME-U85_nUewcO-xoRVzxBEA7m0J7Zz8455798BZCuI4XeOGumnacOysnBqeJ8P-xWgroYz2oo85FJlxnd6yjZeUC_qXxMVNnMOaAKs7x7xqGkmhPG0TgG6HpfpCKxXmtKrJC5-zx6wOhRMWaPHfColn1PcJBqfm7ZTA1Dtva3GjHEfGdahyQTWkOMZmX9k71-kWWz3F-lmCmV2iHkCksb4s0-pvkrK5JKlzTw9pqt8W9NS6",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111107561045738907232\">Sudarshan Ravi</a>"
+      ],
+      "photo_reference": "ATKogpc5URZWbPw2Ja9mHUwcxv9rX9LsZ3aFIqpWZXQPBYcFbm6JR-agDSMLc8LkSfWorER1sbl6KzzaNAQ6TE-M_FKOZDbtaMCyQHVOT3wKIdrjskxMxi2_bdiaP4TvO3jIEq9S0vaOKJVvjVf41KV1Hx6sW1t0N4S89XlvQa5KJfoWHHWN0MxyXYsbWgXwcDz60g7kn9J94SN6LHsf9leVsK4YzANWSDuFHXjJ2WGbJc9v3glQ1c5_x5G89jBBZzSZWJKZ98aHH6JHhnKgjfOppgA9Qa45ZlTklmMvVs5YQTHWgq3L_a__kJZqwpHQ-UVUdU8XzhOnRtSoEErNiFN02b4joFrwh0hlmrgXm7XO9CY1gjchlkmNXuWzywvhJa2Dj2ycZe-XfrswDK4rEVwrRR_lhNJVLFBU-t-zhstO-NcXxw",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJha_VQhdawokRuVhfhUyURGg",
+  "plus_code": {
+    "compound_code": "PX5Q+HF New York, NY, USA",
+    "global_code": "87G7PX5Q+HF"
+  },
+  "price_level": 1,
+  "rating": 4.9,
+  "reference": "ChIJha_VQhdawokRuVhfhUyURGg",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Natascha B",
+      "author_url": "https://www.google.com/maps/contrib/111934516526476643504/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKBK0-9aTU5ibB0MfwEYOp3quNRp0K7y1IxK6vzLpt_wFCX3Q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "My favorite lunch spot in the area. Sam\u2019s falafel sandwich enjoyed on a sunny bench is often exactly what I need. Their service is always super friendly. The falafel is very juicy (I often find falafel too dry but theirs are always perfect), and I love how they stuff them so I always have the perfect balance of bread / veggies / falafel / sauce with every bite until the last!!\nHope they will remain where they are for the foreseeable future. Thanks team for making my lunch break every single time!",
+      "time": 1746030236,
+      "translated": false
+    },
+    {
+      "author_name": "Deborah Sarmir",
+      "author_url": "https://www.google.com/maps/contrib/110903396177947644591/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVFiRk-Li7EaI7ImIQXl83_IrRu5CZsUZDRjrlM-m9ZP8MR7VpAZA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "I've never written a review for a food truck...but Sam's Falafel Stand is worth it!  This is a must visit food truck, that is a staple in Zuccotti Park in the midst of the financial district. I've visited Sam's truck many times, and I have never been disappointed. The staff is incredibly friendly, the food is delicious, and you get very generous portions! WIN, WIN, WIN. Enjoy!",
+      "time": 1742575574,
+      "translated": false
+    },
+    {
+      "author_name": "Ron",
+      "author_url": "https://www.google.com/maps/contrib/107685063773001418146/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIXlGudjxQ_miJOGl9IXy6hFe6dwvNAPw6RGChxMPIGOYHQVQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "UPDATE 7/23/2024:\nSandwich is $8 and platter $10\nFalafel tastes sour? I don\u2019t know if it\u2019s gone bad or maybe another ingredient but it was never this tangy.\n\n$7 sandwich with 100% fresh ingredients!!! Best bang for buck lunch in FiDi hands down",
+      "time": 1721758377,
+      "translated": false
+    },
+    {
+      "author_name": "Robin Shen",
+      "author_url": "https://www.google.com/maps/contrib/114530835806841193853/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXvU-wpnwK9rE1Qchb1rrgBUR24TleRJ-INlseXf7zF6owihk1i=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "Sam was very nice and the falafel sandwich was so delicious and filling and yet so cheap ($8) - best lunch, and perfect for vegetarians (and probably vegans)",
+      "time": 1724348641,
+      "translated": false
+    },
+    {
+      "author_name": "Jay Kaila",
+      "author_url": "https://www.google.com/maps/contrib/106679798205686278114/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLT6RjO4nh0GMvYRnNNFbdKWY-tALC3DgzXAiWcpq3UMCqG1g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Best place in New York for Falafel \ud83e\udd24\ud83d\ude0b\ud83d\udc4d",
+      "time": 1747017861,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_breakfast": false,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "food",
+    "establishment",
+    "restaurant",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=7513293134736873657",
+  "user_ratings_total": 263,
+  "utc_offset": -240,
+  "vicinity": "100 Cedar St #90, New York"
+}

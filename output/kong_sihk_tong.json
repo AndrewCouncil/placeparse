@@ -1,0 +1,447 @@
+{
+  "address_components": [
+    {
+      "long_name": "65",
+      "short_name": "65",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Bayard Street",
+      "short_name": "Bayard St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10013",
+      "short_name": "10013",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">65 Bayard St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10013</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "65 Bayard St, New York, NY 10013, USA",
+  "formatted_phone_number": "(646) 850-6140",
+  "geometry": {
+    "location": {
+      "lat": 40.7153773,
+      "lng": -73.9981397
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7167859802915,
+        "lng": -73.99675761970849
+      },
+      "southwest": {
+        "lat": 40.71408801970851,
+        "lng": -73.9994555802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 646-850-6140",
+  "name": "Kong Sihk Tong",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3840,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105601992699102170460\">Nic Garcia</a>"
+      ],
+      "photo_reference": "ATKogpcBQGPirChlEZILhWSJ7xDsKtJu3cXf_9J1xhtzqZD_Hp1_Zt7cjPqS7OVkVd3aE2l0wUa6byGV2yJH3zahGLZnvLP2g37rdP8krioLzup-QsIA8fB92Ajc1MVvbLDA22YURdcF3bPaA9udeTwMctkI8C_dBfd_kc2fJEcXp87jH3TjefVRkGm9BY_g27GbFxLqPh_YaRP9Be0ALJWRyCgOMds42ErJb4KRudWYs8dlPYKC5kozAWm-b_hb0-iBajslQo-IapF6Tw43dzltcIIg9zaifUicSEC2I__lcwb60xcO6UcMeM2N9_PPuD_V1mPmNnwz53ZESkX7CLxr-89ffB7B-ZySu9Ab7aFL58SV0BTlH0r-khp0nevtCRlE05A2Mnq41QkGtfnnfq4nJ4ttqjh2o9URcfjEb2q_BBI",
+      "width": 4800
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113471500259948084770\">Fan T (KST 1)</a>"
+      ],
+      "photo_reference": "ATKogpdGLpLjzhyjRRDQO6aDUe_EWM1yKrpkuuYbKpWkfqMYuCw83x9pnWkY0W6AKIqf9IyGFN77hsxkfVo9aTN-6t_O7Wa4dG_VTNddUPY__lmJQfZ-RDAjiWqKihYv2-0cFzmgstblVIavNzewcVPtCuhZ4FjBISRzXVOcRmA84RXLNDez2j9j2nKh_d00bO8BaNE1EN3Gghb_XaUmc1RmPajBHn3YtDHASTtk_qYMRVv9Suh8WcyWJ9WADHAaIuFwgAQb_O-rxO122cmVyYqmEIguvE_FTUrUJ89RRf9XwyBxYyqvCl2A5YTlKHJVIYvOIf1S8_N_KS17IZgWJdL1Y_078Cx0vWjc77Xh90E1OaWPRk5zAuiaSoyqo_lrOQf0zMGEHe-YMQMuZqVQeDt8CUXdPJ940qRG6hjny-EPSVsSqQ",
+      "width": 4800
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114814427210259074301\">Anil Singh</a>"
+      ],
+      "photo_reference": "ATKogpcZpyexuTgrtODxnl5AcBWP3M2_BQQOd9WOv6J3fph7hACecYxeIuFq-AQ7n8ttWM9NtxFWokmIvKzbIwRAPKp24GPp47TxsRHOxo0yP7NH2DAvnUPuzRtH6t6Gql4ZfOVJ53kTIBs0Ax6OTRDDS2wDbnzwANueQRx-fQE-18CcDBj6pI8Twr8ZwLN6-lXbDllj0QM-VMV-6AXNEPxupGE3RxvywVEmyT2rR2HpHen8hX2_3fxGaPx0lqzynl_SgPwoWFVw25ZtAiw-d81vZfYSr5DtU78xfTu-fxOK-AYlX9B-n0l4qHYakNbl_mZeuYEcrVpVzud_D1krCdyzZicgO_qL049eg-5JnbolK3LtErrDSif8qzVEily7cWAuZXOAJTqpqbhopCcHw7KntAg3AJjphjkc5-bB5sc3FgsDkiAwCb4HcaWAL01KP3-e",
+      "width": 4000
+    },
+    {
+      "height": 1299,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109759861756648236004\">stratosphieee</a>"
+      ],
+      "photo_reference": "ATKogpfqDUHJ6z4g4HR8-hxAHMYLHJuqmFaaz_fihoCD2kp81_brAaWEaEl9RdHJsiuAqif3DRaBIz5-kvhRvuGMcl2MkXzV81ZNbFA2pgi2SfdtHQFMeo4oLJ-7pQK3BDqYkO-D59E2EJiaUiHWPhbanJsi1kVEvPssn60HjsIdPwRN9CR856zlF6Ghurx_OhIRF-XTz5lhKVU8fBICUcNPoj5opI2lJYvZ9Yx51In-7J_ojc0AuONeWJNr13ObsEYRbKOmNMM-ZJt1GLdzULK3__d7PE_QAGrIifk9xMA7fViziTxrTQk4fSCBu6TEa9BiHEXc1z6g93IIEh-zxwl1-H02IYavv1bfzYq8zL2BUB80pgnB05r1vutn_EmUCzVA5izrmPchk0YHkxOxUj_88eqm54Sb1yWR9UDRQkJnes7kcw",
+      "width": 1180
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114814427210259074301\">Anil Singh</a>"
+      ],
+      "photo_reference": "ATKogpdXjG2L5Q4szUp_BLjPHqQkfi753_887YACSbmlRGw2Z_nazETwtW5Ju17gCCRLI1QR5kbau8DbPW2PfU3NTzImiqQFzqwHiSwnrVDhxSgDjNK_bYEStm-kx55E6jbZYmgfJ-RwmiZ6B5oFzFqCXHcpuYCnwuU_ovdqKjK35DiAIdqFsjlfyYUAkSjDwHHEYbIeDt5OhIErdoQHdQ4UwOEjuoLROq42q3WCUdTzQYZjX0XPeYqW0A8IcZBrG5T52Mwo8jahXtAKe47ynDu8VV4frsH_v5TekAimtRAOeCt2DMvykZ23ZZNOx08EWilT1yWGMuLtkrFGOF47Yaj5frkrujxBMQfVkz_o1ZS8P1ZdVn2EkFV2Sfyzhnd45-1jESLOqRyvyiLbNeihiLD_i5Umq4DqpD9W-TcPDMQrRgk9hkoLl-PxKk9jm-lPeEpG",
+      "width": 4000
+    },
+    {
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110507735938316886410\">Peter Le</a>"
+      ],
+      "photo_reference": "ATKogpe1ewaIilM93-Jf-nAs0ZTDuF6KL5CWKdRCsxJlrFRrMLhD76EUTS3Ohv0qZiMvDYvb3DeBde4PZjXppvIMUyInsau4UEVKdruu4fOUptF0hGSQmBb2j2eJkieJ-dC3qFzV5fYSEAZk9JotsM9gtfb5o7-iw1T8N_WQrB1CbclOhmjM61osfPSw7mxNmO1sp-t3sStMviJlws_nq7dDCpG7wiIaLMxcf7Lnl571HL-fTvydAB9PQVqo6jVnjxeUjwZ1ICGk3thyPfofUv3YcvOp-2BTleW2k8weFR4wBq09X5aPw8YHUieyK3MPT67z2xK8y5LGhvP_NbZmH_2T7MaiGa2PToZfaW6lc098X4f4Z2WLXmTwQdhqb1ruPQ6muj-xZMSItsTPWsDOUHJ8yq0tzDxtQWatoq5WJmm27J2Jj8JV",
+      "width": 4000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101099290888024115982\">Richard Sun</a>"
+      ],
+      "photo_reference": "ATKogpfSicYutgUuN4bRZaOX1UbW9TUGdeKaWYUFUYkBwUbfIbiOK1gdOTlcAHTkfMB-qWXwZi2d3-hIfcOMVvxfLaNSfrpDG8_3A0Qa9RSp9W8rXpmSLXf5a1S2ZTQkpt1rB_AUcOl78PlBmhE-BIDcWZ09Dzy9X9axqYSBP0vn7GHo2UPocRILMD5TS5Fi9ZY4DK5RwyAyhg392Gz5zM6_5DFnnEMopwfu-cYGtzPZKjAz5p82h_NuBeDWbUkXQm2EW7wZ7ApTh4KxDEMR6Bwbm1NSNl4Qknd_ETXGuU2jcWVpAyOd0jnDVtfk-OJuhvXztAqcntZY40XIQ7hq3iibfhIrCWRVQddezSr9UeZtXxtkEfUN0qblKzx_7UsDUOE3Nh1YNJJmgDpRtsruAnad69ihqdyE9aqlNJfN6h1LO04",
+      "width": 3024
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108854668157892786830\">Jeremy Lee</a>"
+      ],
+      "photo_reference": "ATKogpd4K16ha_FUsryTBTyC70WhJYTeuA_tJgLEuqghglDeutwwBeGs_uId3asv9T0QvxPoJqD9giL3oJCeeBzfUPnKqGaBLz7EGPFfu6gWvtyCku867GYk1p4kAGGCd-fpDYIEkDNgWKkBGUgjpQ2ht-d6-IJPyZLvAk3lk1ynz_CybcbbwfBLxg7NMecddh57OsqfYPhdEzNKobFXwCEWnNx1SSzrts60rfFK-xmUOgA2NbhERfAtuuWxaZhE8XdLMbpWfzxgcsdjcRunweMqyL4D5KyIhNC7Mp3ECYS9CMljAnG-4HXWXwbAwxIz4TEFthkpV-wvEIJrJ9VsSqdfktDYmg7T2C_2DE8KC0iWSXbxtMD3k9XUcc7oCmEUhWHlbrpB6_-TnRrnmCxggj-LZrpL_12Z9PJ5zKaMKa_uJB3uNWPe",
+      "width": 4000
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117575245709918332494\">Jace</a>"
+      ],
+      "photo_reference": "ATKogpdupqsMawVO2AA8IylhimdHtFhfWW1UGRcezngmzQpGlyX7_VFtNo0kOuroVnyiJmCuzF2OSkEOJ7I6__rS50yhVM2u59X_lfVS5OU4iPvaJu9whVkCdqKw6YhmYeieSdsUqmHSFVpzgU4hWFguFzGJB12S0G6qFkA70qA-U5iIjmp1xbprcmxDbIZE6LnB1wlQz_PpRgWtA8jPH6EuwCjdBOVl-1WOrC7tqxn-V-x9t6emYuxCC0FnixM7xfvqE3GEG0ThJySW7i_h2F_g_BkLr1e9E_NWS44C4ldl2siTBMTpP3yclS4GoK-qdJY0QMFLVg9qpFiJUMxmPjKoBRkZsBA_QmVBLYH9MbxbKYjb7d_ES_05awA6xPv47Frto4zhg4LT0Tf5UT6iIY7qz1T5F-_4AkHurnUGHaS3gOAaMhIk",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109549228828418311127\">Ng\u1ecdc H\u00e2n L\u00ea H\u00e0</a>"
+      ],
+      "photo_reference": "ATKogpfdo0IdriZ6Kh6mSKK-IqLgw-qNM0jX2u0pPaaw3W_3wZYl8CepwS_i9MESTKDlXQ-KMpEMH4b2tahEieHN4Oa1iD_PeBOY2PTqU8nSn3ljVwPQgrj93Qe-LMDACy7RdX0UDhPd_WuZcGqTc1B9WR8EOJDgchBX-ZGs6Tu8BRNR_BsNOAVTJL9r2GJmgCu2xJ5B5mGl1pc_Qd4tWdR6Vrq8umSfa_MJsjRWffSaluvkQvFY9lIQTslCB_7QDmi0-d7altGGZr9h3ahOprsDyZ1G4Zjcz2H5QDNp-ZvRiQgkMUiSWuWs4ICwSSPD46gLm7OuaUS_6MT343cVAxWXsZG5FeI6DZ9FpQXTzphWWYSlPrLDkxcDUyADLam6nQy0QD1rdME3_BVF6lbq9OuoXL_bgw3wBy8FcD4_av8NW4Visw",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJ1V_Xi5hbwokRV7A_UcnBKZU",
+  "plus_code": {
+    "compound_code": "P282+5P New York, NY, USA",
+    "global_code": "87G8P282+5P"
+  },
+  "price_level": 1,
+  "rating": 4.4,
+  "reference": "ChIJ1V_Xi5hbwokRV7A_UcnBKZU",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Anil Singh",
+      "author_url": "https://www.google.com/maps/contrib/114814427210259074301/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmlBS5GvLVZijVqgHAC1rdCMJSoMNex2xo27RXR3D0eotnjrf1dw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "In a neighborhood with tons of dining choices, try this! I especially enjoyed the Beef Chow Fun with brown sauce. The baked fried rice is awesome, but expect to wait about ten minutes for this. We also enjoyed the beef fried rice and Singapore noodles with shrimp. The waiter was very helpful with suggestions for our order. Highly recommend!",
+      "time": 1750555353,
+      "translated": false
+    },
+    {
+      "author_name": "the bb",
+      "author_url": "https://www.google.com/maps/contrib/106373354159261409961/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPdvJxcLJv6pBVi3A8j10VfYtgiwkWDG7XEvKWxvLp612oefJM=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "Tasty comfort food. Kitchen was sold out of some stuff already even though we weren\u2019t there that late so didn\u2019t get to try the rice rolls. Unexpectedly really liked the baked rice w chicken Portuguese style. Other highlights were the Fries, Golden lava French toast and chow fun.",
+      "time": 1748142507,
+      "translated": false
+    },
+    {
+      "author_name": "Ana Zheng",
+      "author_url": "https://www.google.com/maps/contrib/101134176142540180863/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVXtGjHOVYYdrrFPhvoCH_1a6zybG1yaeMfQGClEO3p8YiZWah36w=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "wow \u2014 what an unforgettable experience! I stumbled upon this spot and decided to try something different: French toast and pesto pasta. I wasn\u2019t expecting much, but both dishes completely blew me away!\n\nThe French toast was soft on the inside, crispy on the outside, and perfectly sweet \u2014 honestly some of the best I\u2019ve had. But the real surprise was the pesto pasta. I didn\u2019t think I\u2019d find amazing pasta in Chinatown, but it was SO good! Creamy, flavorful, and cooked just right.\n\nEverything was super affordable too, which made the whole experience even better. It\u2019s hard to find good quality food at a low price in NYC, but this place nailed it.\n\nIf it\u2019s your first time in Chinatown, definitely give this place a try \u2014 the food is cheap, delicious, and way better than I expected. I\u2019m already planning to come back and try more dishes. A hidden gem for sure!",
+      "time": 1749442307,
+      "translated": false
+    },
+    {
+      "author_name": "Fahim Shariar",
+      "author_url": "https://www.google.com/maps/contrib/107754217527403864184/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjbn2nVy0tQYUMSqotZ59ess8A4xz7-zIVrjmmu8WklN8rbE7Q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "If you\u2019re in china town, this is the place to be!\n\nI had an amazing experience here. Everything had immense flavor. Service was phenomenal, our waiter (the one with the Mohawk) was very attentive and friendly. Food came out faster than expected as well.\n\nI\u2019d recommend steam dumplings, French toast & of course chicken chop with baked rice.",
+      "time": 1749338182,
+      "translated": false
+    },
+    {
+      "author_name": "Xin",
+      "author_url": "https://www.google.com/maps/contrib/115499328070754850684/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjMx0oceFkfDk2M_NiYYuKNzU8oJDZJKDh-mAWmGHwZx1uVfiq=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "YUM! This is the spot for HK style cafe food. The noodle and curry are delicious and reasonably priced, the drinks are good, and the staff are friendly. Not pictured is house special fried rice which I also highly recommend. Bring cash.",
+      "time": 1748358140,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "establishment",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=10748335056092115031",
+  "user_ratings_total": 1177,
+  "utc_offset": -240,
+  "vicinity": "65 Bayard St, New York",
+  "website": "https://kongsihktong.com/",
+  "wheelchair_accessible_entrance": true
+}

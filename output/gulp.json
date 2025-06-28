@@ -1,0 +1,446 @@
+{
+  "address_components": [
+    {
+      "long_name": "42-45",
+      "short_name": "42-45",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "27th Street",
+      "short_name": "27th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Long Island City",
+      "short_name": "LIC",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11101",
+      "short_name": "11101",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">42-45 27th St</span>, <span class=\"locality\">Long Island City</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11101</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0830"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 8:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Tuesday: 8:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Wednesday: 8:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Friday: 8:30\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Saturday: 8:30\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Sunday: 8:30\u202fAM\u2009\u2013\u200911:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "42-45 27th St, Long Island City, NY 11101, USA",
+  "formatted_phone_number": "(929) 789-8644",
+  "geometry": {
+    "location": {
+      "lat": 40.7489798,
+      "lng": -73.9406497
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7503827802915,
+        "lng": -73.93940306970849
+      },
+      "southwest": {
+        "lat": 40.7476848197085,
+        "lng": -73.94210103029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 929-789-8644",
+  "name": "Gulp",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "day": 0,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0000"
+        },
+        "open": {
+          "day": 5,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "day": 6,
+          "time": "0830"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 8:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Tuesday: 8:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Wednesday: 8:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Friday: 8:30\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Saturday: 8:30\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Sunday: 8:30\u202fAM\u2009\u2013\u200911:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105005048655947407693\">Gulp</a>"
+      ],
+      "photo_reference": "ATKogpet8kyyYF1Pr9YKaasoova2DGPVvStv_xXqE7pxZ5BoMGlls9_lGxI2cXvyFUfNBImrb1cRZSLsv3kVqeFPKUdyLjiGJyXyELICmFVypxh12Gsve-kfKfHtEBZj8Pz8kIo-dIZDGkhO2QllAcndITTbyX0J1yrPQsVv8veME2SYxXwu5Ei5ee_XKAKSDeWZCek4Wf-i2i-ahrzya8UJD-Rd7gMVnpTZ3sX24o9PeNiTPPsdjOK-T8Ko2ZfQBUkYPe0gcxeHbK0jH6rXk4UF_CnjLnl539sXPkMjQdqG-lbW7A",
+      "width": 1920
+    },
+    {
+      "height": 3641,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105005048655947407693\">Gulp</a>"
+      ],
+      "photo_reference": "ATKogpeRGOl7Wm388N1DUtE-VMtbrNtvB5192wGEk2v9JyMNV1FXw7KEHdxXySzWpZHFUyLI7oWb3poYgd9nLc_4aMvxkVr8w6ReHGOWpXGSwRgeHl3M_etyXfrCLSctj-H5KzGqnVoa0gqXC2Hvfw5l5IsdpcuIrA66yQiC_zgntxiuiGlMFREa-WrV8GGBaloLBg3AdgZojpCUb32OF3AowMeeSkKEFRjW7hxpCGcgDCyZFbNsveHtl_pnvWi6sTa9wYJkQOSYJhWcsPU5kDbEvVNUhqbBjyaVk7FFox_v2062bw",
+      "width": 4800
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106093389419701465234\">Xiao Zhou</a>"
+      ],
+      "photo_reference": "ATKogpcyN_Vm-tD-630K5vk2aYEWnuxuwgodgzw9y_ZeX5Bx2lUFn8czIFGHaz7j5Z5p1WZySMUS6ck_OC6IzdMQbiRBAh7pIUZWb9UzzVihtoDS186pbwpP-SBNid_27dUDORXsNhgLeXD2Jzg-7oZc0NRoHUlC1UuP7TAnVRunxnR6fxWBIg-WKiDiesOEQlBQ3tWaPPy6wRfqt2ifwepyNmhAkNQIDXIesWM5cVCsCNj2J-_4UVRWtMgSlUkgoOhXhoGHhiuTu91ZpcIko-h_3Y96OsqKgfcOdYGtRYCWJpF5-BvB0VzrHM_wTcQBx_QZF_o3-uKlOZ_PhOzI45_4jSSb0bcoHrxvclklzSNQlGJ9dHMQ_HrFifXdFa-cICCaPJDZIWQJQ1mfXeFZjc2ApRoAhG1tGYPzpLzrEAj_bgpixckT",
+      "width": 4800
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105071906422364621069\">Courtney Peng</a>"
+      ],
+      "photo_reference": "ATKogpdLEKSW0q03BeA1LjlvzTY8ygR2X7xyoqKEsV7xalwXzp5YSEo7LJsdKz0koBA4uZSoCYWVmtMeZW6LqaB7ZbujIu0Km_cs5zNaTBM-EnVZ8pHYq1sAJXv_B_1xsAEq15bHjZC_zntHXi04Yvm8ta4i-Cr_Kw58EB9UDlnJblC5Tp8xnbNDVRI9oH2sxoKXWeN0DKmfsfyslEsww9zryhVOuaAzmaT1dG-s696RZLDMziQwZMBzpk0s-XYgn30fgUp1FXqApHIkGQ5LcjcpCllX71ulkYNO79UtM6uNE2xJfdtEkPu7osI-NuPUDyaNjKQU1mku4RXidGsRjvUyJN0DregoW1emXsp0PXWdPjVCNIuSk3rq3jW7QS2JR0D8sxJ_GS2RWR3zoTzRiwq3ddmPe8O8Du5cK8UgsU5M_4M",
+      "width": 4800
+    },
+    {
+      "height": 3840,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105005048655947407693\">Gulp</a>"
+      ],
+      "photo_reference": "ATKogpdHRLCHAKqLvZ__51oHA-cDPZQQQEGUpdl6m57vFFhWAxKy2Y4-jeDHR6w8Bj2CCSFN-Bu4Ge3LBL0NgAFPPzp6mfLBCjfGAZHYPg2WDRHDO5PIDOOzi4jpKjRbI4OyMumS8LEgRUGyz4fax2zzscTYw3-y4SA2gTUdQ54h3JFzI4oPi2NtZqU8tU7NTEsn63yeEUkMO_aEXHPzOa1qu8cJmXVQEGp6wELCdSzNg0p3s3guT70MxT2Hm9htXQ044FrSOycGUMdviVPAmt91DphDOoA8xvds_pOck1ZMDdTxrA",
+      "width": 4800
+    },
+    {
+      "height": 2634,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111921354913572384143\">Andy Chang (\u5f35\u5bb6\u8c6a)</a>"
+      ],
+      "photo_reference": "ATKogpdWWtt9RDKIY2Akj0XCKtR7PIpkRpVML4ElxasxI3ZlMp_fPfkvxQEfwWyMecvfkS5BK32Z5UrNK0fyj3XZAs798VnCnjyGB6_LZpxrw753RxT3H3QCWPTqB-NP0qYJiOJEM5VZBOv-Z0429tPCLXzw07emLenQtAo5Il5iVYlZLIlaVvypOTFwqsxFZVzsBo_XRQp6Z8JMqKY8pO70KKhdxKKei7leKFcdn4lfIGE_15SxMv-CJEVeZczzIUHFWrVShA65tVJT2mHd69zWOeCwfPoAzBqo8ApV3-H0b8NH3YRm5fKQvIsplEKGd62J8dySS_PY1aZ8zJ91n6qXLpGXmOblO9-7-fBbw1s_nNV_9q1J-bRJ8Gx_iTe5aUgDpA5t-eGfMY_WpsdW5hRY_agP48pJ_8AfGSAZoSQDQUmRa1d_",
+      "width": 3510
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111921354913572384143\">Andy Chang (\u5f35\u5bb6\u8c6a)</a>"
+      ],
+      "photo_reference": "ATKogpehBR1TTLNW-uv5FfRbZSiLfzOL48qxlPSPJoHhAwJzu-q-CLZZMB8UQANiDEKg3yCs_BxtyejNW16Jb1CbN9nWBZfOcmxQiyP2KuPaJZmvAqiEXT2RJWbi1KCEnIIyQZbkdBre-TyNFUvu9YRmieRO9aYg6IM_S3wQXvRHSNRUBGMas0U1PTORzcCPD1gFsC4GaYnLey4jyMBRcWXB167ebGqw30VXcmIbzA9GzhWlzi3jvR4YJCfSuiDo_-wBNbREfchkiZfBBbd81TeGjB9ZfT3sxcs8nnSP_GJyLVKUpSPZbKDbQ5zj9zK0gsnZdQGdJkSH27yYDZw3nylX-37up2Ja1nlAW4sg34KCQWSnm4x8DkcWAVSU2mGmt6EPOqvA4ZxejduY-Q0M4bI3hrYJ5jZ2apDs6I0vN-cxPKI",
+      "width": 4032
+    },
+    {
+      "height": 3060,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117322493155639888149\">Always On Vacation</a>"
+      ],
+      "photo_reference": "ATKogpc11H2FBHeyxoE1yOoU-yFHfKBjUOjf2PZn55kfQecDglXYrpBWKQqqIwV4eFtJamwQS6HUq-r4xKhSwBLww2v5W-x8W0FPBaCB4K_EBcmRUfUAniJc1U5174KRQhjt6LE6z5ex3rywodQ-IpjoqQcDIgSDu-ncE_X8kXMQhB_vFmTs_-Fhbwu4nMDDSFqT2yOPXYZabW056A6qjL3z0-r1iwnieiKxgVcQ0aTJ_CiTdkSoOlMsc466Du_Fdfg2BXyDVsw4o4yMBq7c9gvjrpo3PQPvvBahtexV1GHlEDksXif0x4RPQtbBM834_9GoLRWJdiMz9gmKS5XV5nvDrTwaxf2tVSyd2dyIErxLbzxKlAjVyjw5PC70bg9OqUutWBNIi4NWTKVylGZIY0xj4me8YeIfQjRa3NFLUBsz_tJFTahYFK5DR6AX7A2hGw",
+      "width": 4080
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110303700012271243163\">zeppe linz</a>"
+      ],
+      "photo_reference": "ATKogpfzH7nr20DiYhiFFzXIWEnX1mBpQEd6akFxG4w9l9GgD7u-oiYKciufhIAVnu9FRldiVkuFv0nN_NbPpsPwfchCNUFNvXdKULsr-dWtVAOqtTY6mDQ7ZGAjUid9OdfV5jFsxX7O05ZqCvFsYgEWnKzU9kY7OAbiNOBBW14UfwM0GaFzwHtQfKdYiTiAgvGe2-8OHawNbi79Af0xFL_oGfNkDmZHeVaY8lUfmmjNFbH-NqRAQ3-xPQvWNs239blZaSsyH0htodkUYZIZDfToXmdUgfbFbcRNa19sQ8gmoTzfgUcDNmfhEAohPtCcIhDKDFbFtXfXtkdbCLhm0mamuKkpzDjzTq3F-IS7ljMLtGiIuMsWCeaGdHsxhc0FN2lciEaxOZfx9FY7nnjyT0cJXZy8uLpLCS6I-80Mak5CGW9vrA",
+      "width": 3024
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100439314560808780798\">John</a>"
+      ],
+      "photo_reference": "ATKogpes4rqExEVOKlPCLSBzkXnS2PGO3WWTbPqzWBk7IJfd_Xnq0eHmWLZGay3ve8scT_EpAzVg-PwzHdX8Nds5bCxphWMU4ga1yr3awNSsDhqeq55OhdOjP_mc2E0P97rn8BV2ZM4GQ2HItmTvY6PLXmm2DlLBchFM82lC5TQUFLn9pliOHZyQnWFvJJ243k7FXRTqMmYmFFmYh8CGVmQwZ6Z7m4WWD3wOj7yoxr_2IIAcE6DvzZpbWrDslOhJtd65LBtgdZVSOKUljtd5f0MoD9_BkJjwxOkn57cmHUu3hYwwGg29LE4tFzvm9SYSrWXBe5bnLzaj7JTkeXK2zrwP7WAibNy_90oQo3qkr1wHd2F6FhyOdL22ADbkjy-zYUrx1Uz_Bc-xHtDmPbxLKTAgWbVbVzIi4uQqDQVoNAT4Mn2kxQ",
+      "width": 4000
+    }
+  ],
+  "place_id": "ChIJzdIV2eNZwokRxSJvbX8IIZ0",
+  "plus_code": {
+    "compound_code": "P3X5+HP Long Island City, Queens, NY, USA",
+    "global_code": "87G8P3X5+HP"
+  },
+  "price_level": 2,
+  "rating": 4.8,
+  "reference": "ChIJzdIV2eNZwokRxSJvbX8IIZ0",
+  "reviews": [
+    {
+      "author_name": "Vicky",
+      "author_url": "https://www.google.com/maps/contrib/112962719765901615475/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocId-mAzMSFbgw4d_zihsx946hhGX6Dc8W3_zWL0DUVBkA1g0g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Really enjoyed our experience overall! We got the signature beef noodle soup and pork over rice, which both come as a set. The broth had a deep flavor and paired very well with the karate and vermicelli side. We also got a little sugar marinated tomato as a free starter - would recommend!",
+      "time": 1750541143,
+      "translated": false
+    },
+    {
+      "author_name": "Liang Shi",
+      "author_url": "https://www.google.com/maps/contrib/115480310936185763639/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsmYyDllp7XE_1_x2szBq_E24jRrxS7T2I0dYl_LIZGi8OUhGm=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Braised pork dry noodles are amazing here! Love the chicken and tea that comes with the combo as well. Also the marinated tomato appetizer was a really nice and refreshing surprise. Really great go to spot for a quick meal in the neighborhood. Will definitely be back!!",
+      "time": 1750282305,
+      "translated": false
+    },
+    {
+      "author_name": "Kirsten C",
+      "author_url": "https://www.google.com/maps/contrib/102217670351155674425/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLYXVb_qb-vjRtSbw0hTraQkIrfSgoIS5JwuRE-wgR0rg2K=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "The best combo lunch deal! Each combo comes with a rice bowl / noodle with popcorn chicken, vermicelli salad and a lightly sweetened tea. Everything was delicious, particularly the marinated iced tomatoes they served as an appetizer. The restaurant itself only has 5 seats so  you probably don't want to dine in with a large party. Will definitely be back if I am in the area (the speakeasy bar behind the restaurant is also great !)",
+      "time": 1750008836,
+      "translated": false
+    },
+    {
+      "author_name": "Ellen Chen",
+      "author_url": "https://www.google.com/maps/contrib/112058430362033341038/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIHaSdgy28hePig4EFOKw6yVMl9RHhOM2EF15eqBVf5FvnKKWU=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "I stopped by here for dinner and the food is delicious! I ordered the braised pork dry noodle combo and the entree was so flavorful. The popcorn chicken it came with was perfectly crispy and there were also a side of vegetables. I will definitely be back! I want to try their takeout menu!",
+      "time": 1749776393,
+      "translated": false
+    },
+    {
+      "author_name": "A Chau",
+      "author_url": "https://www.google.com/maps/contrib/110264468017235941591/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVQldh_L8DOC5Ew3fNL2KAqqaIeTqkG8yQnMOWAzoxkiwkdeM-f=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "We loved our Beef Noodle Soup.  Such a comforting flavorful broth!  To start, they give you some \"fizzy tomatoes\" which was a sour and sweet delight.  The beef noodle soup came  quickly with some fried chicken, a tea egg and some nappa cabbage and vermicelli on the side.  I highly recommend it!",
+      "time": 1749853639,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "food",
+    "establishment",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=11322340281576006341",
+  "user_ratings_total": 1283,
+  "utc_offset": -240,
+  "vicinity": "42-45 27th St, Long Island City",
+  "website": "https://www.gulpjiabun.com/"
+}

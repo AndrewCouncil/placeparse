@@ -1,0 +1,448 @@
+{
+  "address_components": [
+    {
+      "long_name": "34-39",
+      "short_name": "34-39",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "31st Street",
+      "short_name": "31st St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Astoria",
+      "short_name": "Astoria",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11106",
+      "short_name": "11106",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">34-39 31st St</span>, <span class=\"locality\">Queens</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11106</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u200911:00\u202fPM",
+      "Friday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Saturday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "34-39 31st St, Queens, NY 11106, USA",
+  "formatted_phone_number": "(347) 396-5300",
+  "geometry": {
+    "location": {
+      "lat": 40.7585965,
+      "lng": -73.9278935
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.75998773029149,
+        "lng": -73.92663886970848
+      },
+      "southwest": {
+        "lat": 40.7572897697085,
+        "lng": -73.9293368302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 347-396-5300",
+  "name": "Arepa Lady Astoria",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u200911:00\u202fPM",
+      "Friday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Saturday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1164,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107121608658279424657\">Arepa Lady Astoria</a>"
+      ],
+      "photo_reference": "ATKogpfko-rrEVscK-VrW8slBCMySrRbY2KfvyHDiNEtObct6bbTbQS04E-zt2qjvAzZ3loq42o1gTl43mTbkQp6Bh0KnHfLtYUYoySj9p9eYZkLXAc_avUJeLjtQREtYmUTEZLo1itnntC6FnaEyFD_JdDrRcNWGL-HutSLODQ3rG_yfnCP-lGFOCXvGa4FedcuRIW74UyK6Dhj8pxtHPdWBWA7BFFbwEFYPE8GrzTSuLTCIszcvrdgiVaPG7H4fii_LpQ_e1a3WGg6i2rTjNYLFgv9Gho5j_FodCD-az4YlYBYiA",
+      "width": 1080
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105582368198727719794\">I love to be Out</a>"
+      ],
+      "photo_reference": "ATKogpd2N5y_ukvm0dBuDZkdz2iXHnIKCK2ASA1UArWwoYHSNRh6OxPGznRDjYUH5SFCXgNJlxuuscpcH3CKGMGEmNaDnzAK6lho8vId27P_Cx5rJvk4_cjrlTVroP_g4IpUplMqLc2-Gfq1s_BMYSSoWibslKRUntEmAz0M4SMGa0TfysD3DQPSwOnRIvn_1U7Yii7t18d929BsQTsXqiYhTeaRAQiqgpw3gBdeOeL2fqBgrNJMDn-7oFjTzNyUKotIESGt3EO8d_i8ydgZxqF4k9GJyYRy2DrcDPdH3J_PndYULdVCXMgIcVf3pMP15Ec5DSjFLHmtERLEhKJkh5sb_3laHV7ELx840enmvOcidzqzwbpET51ept9IeEmVZ8DTAfGCMakmnSEGnBsOHhm0GR43aoWLqz0eewqUeAF3eziGMoVzPhib5QqyxP1okw",
+      "width": 2701
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117581685644232156868\">Catherine P Corredor E</a>"
+      ],
+      "photo_reference": "ATKogpd-_48zFteTr6r_m14uBETiZq-AaZp3bgMbujz9NXoIwoAN81IQHOZ48bA50e0nsz5JVeHVFoKt7a38l9o1OY2wRjNGuEAfReJYWLQbIKfmu8-OINW981f_zPfaIrd_t61BvgcFAQIqYGHzeM5teFBqjZ5HS-nAQrH7skTcWtQGGCfA1sn_ZhngRxO2VKsMDXCYAWdVaft7kfYrvmgN7MrxcyyQn0x255oZNRgUf-VSc0eR46NtmhuK3Bjl4QaF9f1DYgXtclsPGIcYZterQcUd46qOe296vVx41ryTYI-qhhmTq8Ypk6pBqlkEMMa3jrB1Mq4K5u8hTTPec39un-x2D1P1_QEzDoUcb2xPTyN2w04jPizLuvSYPc48tOMMVZ2cWG0o4LcFlCKA0nTuIdqPWI3lMrgIOAVCRySA3ZQZ3VY",
+      "width": 4000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108793779790630895361\">Dustin Drewyer</a>"
+      ],
+      "photo_reference": "ATKogpeAqSUSWIT7hbbCdc9nfLtfDyWWa1ThRbBoN6yFpqtVASrQeRgfjVL7VkPZ8jh3G7yBVgV9Qv-l7rLyFSVlRl3xv3ckMkbOTMETxNfsW2WY-kAzjzMfJOs7f6jA7yweQhRG8FYSJJiS1XpsF1s3V_X8O6xjw_iA86A9Ocnf46eBmfNBapLfyDAJZ8SVLIl9l-p_wVeP0otMzEYdrPl4EW2TSR2LjRVpSP9zA8Jf33-_ZQP_Q0qldxu8NW9IlZuMfDcdVn8ugEArYQxZvDJ75a0Dhqwi30WS9I64KJnwWWtclVMKXrhbzSDSfwhwD1D8Oysu19PN-tenNI-eSPwbbIy2czhHvqTLtD5uIfdSsRZV5UhvdZjN2fecucHwzQ4mM3e7A7MGnHb5cJX01EYIAMVrr6FmfLEQ8AjaLepOQF8",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105226348597456531365\">BRian E</a>"
+      ],
+      "photo_reference": "ATKogpd2Z44Acb9_MQZ591NKC8Onl-1Em8U9B4plU0UqyEp8IvjcsbzM4fBxemqBUGlcX-iH2I5IblHbAEuGNZQsrzmQCHw2Zgn7c7cuYgbiYjyUjxyfSleFIfIecGfpSrG-0ZDPdgrAwJTzr7qjea4PgZww_3l16kPPKwOOjVPOxOulkcOZZukfy7ZLb0fUyJGeeCjQc4SYf5Yw811OTHnGX1Gv3L4qZpKaU-bbWbuTW3kbXpXTYDJP2Km4Tr4KGIXy10_EJzRUZq6imNuWQj4RcV8L4DrLrz8lKqpXhGbNUIaQig0FoD9Fe5EWZUqvo09Ha_I3i9ULVCFthhmb2WpcOy6eejF22e9f_MtmH8NIZlpESfk62izjCGkAsGEJcnEzb_A_qjNpLaGafzstqp6g73ymur5J0ntG1rUyK9elvFIKVw",
+      "width": 3600
+    },
+    {
+      "height": 2178,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100884095532465266219\">Michelle Marquez</a>"
+      ],
+      "photo_reference": "ATKogpc2ZxKGC2fWQf7rwhns5PQMlHWrgKmgvaMXGA-1yiNdsfm5QsmvCAvsapCyBL0y7q5s9pqc_AKNI1N9k46KB3qeChSKtQyJAV6XpkqcpZTk3snfQf129yCFcWGkT_EDTWEoWEbEIlrLtnGCoRGBETc8g66kLDmEJ9zeQ3jsYHHakRA-gR80guyGdd9ZNtPhTQ77-9ALZRdkvTPIIf022Ecy931guVXro0SnB3Ce2yKXgAghLKyBJd4LfSurZkJWnQBJa7ZlStma0U_VZjKu5SRZ5w0JFVKVfbta_sO-D40QxmazLfF2StbzKR9Uw3TeU63C6mRgsOeDn0oKc1M15-T6AuXueELXQA1xIIZd4YljN3wVpUvBXPLfuht1-lYwejE_9qCmpqqiERNEXrcmlZdL1ypeh5hyLERZ4OR6dWAJl2vwc436vEQRmYTikVHZ",
+      "width": 3870
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116371939985888145382\">Jamie Prince</a>"
+      ],
+      "photo_reference": "ATKogpf21MJuyyXVYEYwKjq1GYQi4YzHAJUKICz-uyTloQMQfEhipbm22yt324dTRNUlvoW2cY0PJpSV8lk09leg3JVvz3KsSfnVQzI7RXIW7-YUUMK52ONznoB2_9x2ANp8eOABcHZI5Md6otb6G-vT4l-SUDn_TPyZa5Wo9Qo01GHkQ2LOHBlyTpR8ni8-TuGaPUtEEmAQFV3WLjbEOYz09ahkoLA9Rpgcqs6Jhr2TZbp1iE4nQBCtExwgbmPCEA3WZ7cVL_hbrB4FXIHaDU-rnlJddzqCW-NpycbSJbVZO57T9ErN60XMn8lXQIcEpEoirs-O1na8YXqNX9Wv81y-M3DArEtW3pYaJr6cj8EGDw_OKQkbSF2DZyWIsg9kE88mnGnu3Tfu8TWQQAADSuUfdPV79tsqhrdcaIvTax6BJqbAwQog",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109334448001261424486\">Mousumi</a>"
+      ],
+      "photo_reference": "ATKogpe2DyYG-0qiW6xB2gXh3c0zzMN6E4Iz3Yq1-sfsqfzzloMJS0IHOOyzZrQwsQzN6iLq1lo2Mtzk_K48L8YqPJPxPJJW6l9YytAUO1KHPiMSA54UBONUjtRJ43TLStXnb0i2QtOpJaCblKB2FZMN2lj2U7wOwh5yOXdkd4mP32dNqSJv30bYdq10rK4DJsCMVC8xxDvnBYo1h7YAZOLbxm7pQ4l498oXYOtsWvNxXAQRr5owtRxF9iffbJuMKwpR567-nmELwpGDT1K_rqwQTRciM9hoJMEIrVFPaf56BbSzwFzPKdXQGuGLgGhByt0uAr9miIdNWscjpTFBx7FuDtLa_OnwKo-obR6Ol-LO-ICUtDLORbQIHSROWQ7gKsxEkBTAueevCM2UKsCuiFg_pdVflppyoyeyXlHSdgj--nNeKA",
+      "width": 4032
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111187060717039218175\">cleidy h</a>"
+      ],
+      "photo_reference": "ATKogpe6g456WW8F7zopjT9oyXDpxLkSKUeTHlanPlQWedtw1fOeW0Yd6g13RsYJBftJeBDV2_wuMXtxOK604eRBBqJlAo0xQYS_hnak-iRrBir_JdLOquMCsx2lB3B-FC5NxeoGBWmjH1y_MRlI8TgAVd09bzzgDAx48Ag41aRmCgKgFJ88w60p3KwmeZAxi0k42WoirC-EvdBrjCjgi1VeUZQM7TB44cpfrHsKbgirJHgszjvBs0_Dr5hyfI5iTiC2i-eCwzMkGia7HxUzeyEuUMpGmh0fjGmOmsH08VSxv6pfSYGGMFXzzz_8tO3XKU3x1iSv4UAGEFa07v8fjny8Q3ujb3c174DkPHu5HSFzpgqQ1krha04d-p6TMp_5F7LYGeaPWcRPbBXRjQ3YULgvk71OyZRcfQq48FVNwO24Gx1X6nvB",
+      "width": 3600
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116677581050720393498\">Christian Rodriguez</a>"
+      ],
+      "photo_reference": "ATKogpfvhbfCocAReJn58-kNnXU5oQ83L6vUTd0KlSdgobzcMH1EmxHPfjP6zV-lIduv-uumk0LAVbSU9GL_4DMn7mZarmOT6GGfRaVqrfTrICLb-R3Q6wWT2CFxvuP024XV6Q9e0OezWvyJ5Nsi1aaM0Q_PwX98ifRO7OYeePJR0cVuaQ_7dV-Hvv1MoB6Hma09VNhwJhx46Z5pJEnhJmare3fRn0obKnHpHbYBX3EfMB_lMdSHDnmstya0Pb5NuNiqsO8_-n4moNcqD77z8eZZMsF4nrL5S1EOOiCnC8d5FBEBcmeQWZ0mVbk20197urSS8QKPgEsuk8ssHoEFpZolk4WCdEOPYW-5s7IVARgR13HNBMg-XQlN_3iTvhmKRs-pL6vY_iWMnHaeAxFBZv5Fyvzpk9UWwT_S1pH5jo6aQD2mt_MS",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJcdMQQARfwokRxCUc7yEQZP8",
+  "plus_code": {
+    "compound_code": "Q35C+CR Queens, NY, USA",
+    "global_code": "87G8Q35C+CR"
+  },
+  "price_level": 2,
+  "rating": 4.6,
+  "reference": "ChIJcdMQQARfwokRxCUc7yEQZP8",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Cindy Vu",
+      "author_url": "https://www.google.com/maps/contrib/103231806225770009737/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVedGy_NFbUqoDWK8BeT6vkT49tPUtTDLFSXk--5FQ_zR1Ls0YQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "a good place to socialize! the staff was also very friendly. one of them noticed our table was a bit wobbly and came by to adjust it. there is a 20% gratuity for every dine in party regardless of size. as for the food.. maybe it wasn\u2019t for our palettes? it was a little too sweet for us and we had ask the waiter what they recommended and he did mention one of them was on the sweeter side but we didn\u2019t expect it to taste THAT sweet. empanadas were a bit on the drier side as well but we did love the crispy pork. wouldn\u2019t come back but overall it was a nice experience!",
+      "time": 1741012719,
+      "translated": false
+    },
+    {
+      "author_name": "Jamie Prince",
+      "author_url": "https://www.google.com/maps/contrib/116371939985888145382/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzNAYK2eRJKybI9nnUVuSiFDeD3VRbGf7kHVQB3MNubr8BxfLQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "2 months ago",
+      "text": "Great service (our waiter was super helpful), decent but not amazing food, not great ambiance (mainly due to blasting loud music). We expected more from the food: the street corn was just ok, the arepas decent but the fillings (meat) overcooked, dry & hard, everything arrived lukewarm, and some of the squeeze bottle sauces were meh (sickly sweet gloopy pineapple and another that tasted like Russian dressing). Loved our waiter but overall this was pretty mid.",
+      "time": 1743459707,
+      "translated": false
+    },
+    {
+      "author_name": "Mitsy D.",
+      "author_url": "https://www.google.com/maps/contrib/107555676573360807093/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI9zAuA214YLnkbRPk9JHatqeVSoMSBUXiJtj5Iofg-rnDifg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Visited for brunch and the food was great! Very filling and tasty! I did the bottomless brunch and loved that the drinks kept coming! Definitely worth the money! The staff was amazing as well! Very friendly and gave great recommendations. My favorite was the cr\u00e8me br\u00fbl\u00e9e cheesecake! Check them out!",
+      "time": 1744002690,
+      "translated": false
+    },
+    {
+      "author_name": "Hyekyung Kim",
+      "author_url": "https://www.google.com/maps/contrib/102700899204009413941/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKlKyiBAmOw6GnA2zBTKIHQAXTx1541ox6EpegynIlbt6jIoflL=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "Chicharron is my favorite. Arepa and chicharron were tasty but too salty. I wish they were a little less salty. Empanada was great. I especially liked the taste of cheese and beef. I found another good restaurant in the neighborhood.",
+      "time": 1745867137,
+      "translated": false
+    },
+    {
+      "author_name": "cleidy h",
+      "author_url": "https://www.google.com/maps/contrib/111187060717039218175/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWVAnTDEbWOK9Tf2J1CELKOmC88VBqhKdDwpf0OMlxHwFaFvVpy=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "Honestly five stars could be based only the service that was extremely accommodating. We were a larger party of 5 and had someone with crutches needing an extra chair and late to our reservation, yet they found us a table and never rushed us. The hot coco was just amazing!! And the drinks were strong for happy hour. Would deff come back.",
+      "time": 1734060121,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=18402851715274253764",
+  "user_ratings_total": 288,
+  "utc_offset": -240,
+  "vicinity": "34-39 31st St, Queens",
+  "website": "https://www.thearepalady.com/",
+  "wheelchair_accessible_entrance": true
+}

@@ -1,0 +1,448 @@
+{
+  "address_components": [
+    {
+      "long_name": "40-05",
+      "short_name": "40-05",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Broadway",
+      "short_name": "Broadway",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Astoria",
+      "short_name": "Astoria",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11103",
+      "short_name": "11103",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">40-05 Broadway</span>, <span class=\"locality\">Astoria</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11103</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0600"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 6:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tuesday: 6:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wednesday: 6:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thursday: 6:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Friday: 6:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Saturday: 6:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sunday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Industrial-chic outfit offering bagels baked on-site & coffee from a Brooklyn roaster."
+  },
+  "formatted_address": "40-05 Broadway, Astoria, NY 11103, USA",
+  "formatted_phone_number": "(718) 728-9511",
+  "geometry": {
+    "location": {
+      "lat": 40.7589444,
+      "lng": -73.91858189999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7602513802915,
+        "lng": -73.91731201970849
+      },
+      "southwest": {
+        "lat": 40.7575534197085,
+        "lng": -73.9200099802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-728-9511",
+  "name": "New York City Bagel & Coffee House",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1800"
+        },
+        "open": {
+          "day": 0,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1800"
+        },
+        "open": {
+          "day": 1,
+          "time": "0600"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1800"
+        },
+        "open": {
+          "day": 2,
+          "time": "0600"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1800"
+        },
+        "open": {
+          "day": 3,
+          "time": "0600"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1800"
+        },
+        "open": {
+          "day": 4,
+          "time": "0600"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1800"
+        },
+        "open": {
+          "day": 5,
+          "time": "0600"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1800"
+        },
+        "open": {
+          "day": 6,
+          "time": "0600"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 6:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tuesday: 6:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wednesday: 6:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thursday: 6:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Friday: 6:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Saturday: 6:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sunday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1152,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117786518480836944522\">New York City Bagel &amp; Coffee House</a>"
+      ],
+      "photo_reference": "ATKogpdDOKZ_bT3VSl5OYrmdUpncL_xCCi57I4eYjOZ_gM6wnJkPig3dDZaIO2X9VQITqJ5x8ezJgkVoCaDpSjD-HMkp8ohPnViMnZUyO3DXb6gZNfs6vxwiTYX2k_shcmkZ8cfZUHBtC6wcoJ8qo0KU_X4X2uTHPrANnuXfOxCso1cYCnBVJx50OMgo1aXrZQXYUO_nYmeUo0RgJ7rY8kwVglVDk2-aTBnKSRXZrfkX5XBfaZY1_3F0HiwUE4fmG6Y3ku14SqlXubMg51D6SCH6bi5LRz1TrxQ4E-Il7sYFXYp3Ww",
+      "width": 2048
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117786518480836944522\">New York City Bagel &amp; Coffee House</a>"
+      ],
+      "photo_reference": "ATKogpeYIYJikOxJzF74S3sSQeemSq2--jY9ksEQ4nY-aNAKEUYypb_GCDBP_o8vtgTwvYXMCEL92N5qpd0SbEYaE5FvOvvMmPgKzcv-gIH7qTO5UHycvErWwjIVZSoMhjcyRDqkgxzBTveuQOebN5I4xpTvv56YoiG7gB8Gryutmo0yncA71_vg4ay29eI8cKeb9C5R-Xj1Lmfyzqtx6cd-m9CjW6ZIdYMLP4VAl-Ym8ZNBjCO-_h1JBz3EM96-jPi-CDN7qZCqnCVXjQ4Vl2jB4omYRg1qq43Sa_z3X7BL0yu6Pw",
+      "width": 2700
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103953798914619685448\">Cris J</a>"
+      ],
+      "photo_reference": "ATKogpcokZuEyOGqW3_bpKM2GxgvbnoTvrDbL1FWXfTuwhtAK_u-1acCb7-YjBsimVf5EkZhERYYeTvUq6LsXhU5CucTROEVr9Mo8HwthliodBOOYZBREsOPstN-7LXBx29wmrgZDMIy4X1alkXIRSiEwTXgL5R6sfmx3Tr06Dr7DUXzhs_GItEKcvwwxbv8gXhNNeX0HIkNSKntdbc0IAG2aHxRV8wzIjBlHr0cPk0Hf1fgsUViXVuNsEH2FQ0eh6iGHZzknHcgWxbmcuz1g0663YIKep5wGa-h3ALLmAdiXO5WsMHOi649awiw1Lj3vcR0pL0JQ_R_aTwgbYJp-hW8Xt_5vzD8-cK8JvpwlkHrVVFTSaSjTnGNbjkATm0T4fldqwhqqRiBwnGEZJj-2YBIKNiz-c37JW294dISwFt_5fI19vIsaGlziUSJoJnBKDvf",
+      "width": 3000
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118417398616026076040\">Paige C</a>"
+      ],
+      "photo_reference": "ATKogpfrV1ggZtcWNcj4M2kwIVfcwZXubZbttdepVCHV354UJBrfat-at_U8bfH3vXrgzX4QGr7P55JU02zvHFdoIeDkks2TO-HSZ0YJE6VwWQ9O7dIshZUkh1lWVqKlp2h82WuV7hWLoud4ahzCIvXMHupf4uxM5xNghvW-w3byaEJQ90qlWNTqK6hMgvde2aMzN0eoawtD8ay3-JkAuy5Q5-RncSvkWaSVFOk6hMF79VPrROw4k80NtyWQal98NCKHbY2smANuhELbyenLBBSdbBf1MTb7kIUPDaApuUXm6ojtblaqr6xQhxKUCfsqexIXldcRYjUjTqkpBpAxO_oyClnDR_O85-3mfHdoMXwm-0FGv3KG-dIytrAMFH_vdT6siU3zG4E2kqr1djMdS6PDSCkxGjgCdLkifDFhOMTns6ST9LM",
+      "width": 3000
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103334520971515175447\">Levin Sajor</a>"
+      ],
+      "photo_reference": "ATKogpdv40RQ1Hp0h5fCVTZE8jnDdWlHcsrtANppQkpULKXO_U077ue6OpIaU6SyDaHRL8gCfbVnC9P8Pxs1OqbyS6MrKQqXWM6cyIeVDe60VXkcv47BVdvRYkdmQ4oreYKbvcUFnZUDdGnCj8qrFFwFWMUF2FXZnz0gJmDJb1iQ2rN2Ze4-5lpFT9vWmmrrX2zp1BM9HMPFym2g_ZT6TJPFkkvAa_4NAW9JC02t-NJmABjlOyh2ggJ0OwAmNC04EeCfLh2fDenvFrsNmYKCkP_jPEeOeOR2cyh31ns5UkfL1zSWx0A1nz1bllzAuCKK0yEp6Ly8zcimAIJC8Rzx73n3ZSbkKXPNkZp6VfjSt_YcG5sE3_nIpkkpVPFqOYKHgkbgMMrCU-d3AlJ6DPyt88JCd7TpU4Q1qSLgu13dHyhHlgU",
+      "width": 4000
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109767325773806299211\">Eddy G</a>"
+      ],
+      "photo_reference": "ATKogpchFexSIbZthoW4xkr-2f4b0hMrAUWzFHLquhPb_FkUEfMPxf3aLevzMB4DD1UxoX7VJ66rCVKbymnstUP8p0wnK8_miKYnWFCKFG0_yroxsTfJv2Aw3xYZFNoJKLI4dHnv09KZ9OcUWOiHLC1x7FKifxVPUZjmxicoPa8LDvG8h4IX6AHBEKp06PNZemtxeRkhHzcezRNk8pXaHgdakSBkeuT_Rnr45eUqAvFTXts-x2BEluMTVLiHnPH39F-b63g6U3I6tvR-edYdnUmsBEj2tORtsPV64KQuHVB5GKmYBJkF8_Lvx2IrOuD-JYeicuD7N5oowcwbxuCoDMMaFq1v0Asoe-jyQjJOKQg7uU4v7jmQCLJ1u9a30jxa5iNx0CShplJplJ02ovob24lD6fUuXLHFUcncgGKKVjS5pMjiihM",
+      "width": 3600
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103953798914619685448\">Cris J</a>"
+      ],
+      "photo_reference": "ATKogpdNI2E4-XpqYecRIgTLmDa2DbVqO49KrmBe4G2_scCdXO7R9AGLYPkHnpGS7yYb2KjEgw0LAWFR5Lz0wh7MXCloXToWBpaALvv_lCQOykWL5cqwxIJLdh_S-FQgAQomgbgOHNzCgAqQPPLfWUj_UwFRQqHY2cKUR5J6fCN5yX-cu9UvXohvaE6Nq_5lLzTuYOQ0KeL9gE6xIPnWmCG--sDc11xHEIjRjMH9MF_iZcBKRLyKaxzAxaxtx1NhKlS0BhahNSvO8D2zlBYICk3fLjG2uqWGqq5_9Pxp9l9GEX23aP2pP3eBZrXdVBI6G1802nBGdqLGTZCKd-oQejmgP41um8LnF9fx218dCiJjGJqyJgRo2FRaNaNgT-jjgSR2Pm0D9pGpPv_BfaBbaxlIVIfPfMNiasF_wtOqCUv30xuws8YeSVbEbjJHOY7rhZzN",
+      "width": 3000
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103953798914619685448\">Cris J</a>"
+      ],
+      "photo_reference": "ATKogpcXDXkEP0joMEgzZ1icwM1-ZnGou4H1bJ6aQl1333tH9f3NyXzqx30dkA3_E5e5l6lLM5SIxQO9s4lbLIAFv_eu1jE9-u-CiBCYafZzRaMNmJGZEpfeU1vqDp6vRDqK5nzrEw-9e3p5gL6UklPo148FyMiGEK2W2xF4MNI18xOpn7g6VglFoJs0_MRjflz7JAOv_ens4K22gdR9sC2mf39_o8lBx8fRdkbFGxH3FdQogrzjFFa522qRMvw3wezVUk6PwbXDCPkz1PGxJIjHZ32RGucgScZx033kjV8K2W4PjpHpmyQbgdIWaX-L0LTt0gRWwCZMgyNLoZ_jrD0K432nsRI8T_ZZ_pMZ-mnYJ19v20LpJVW1QW2nhGJps9HO4YIDrFm5Ss0OYNCvTTzZgVg3mcW70i5FHmsWifLjhv7r8AcfSxxfbwrcO-XgozSs",
+      "width": 3000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106023778038714321419\">SOONJU PARK</a>"
+      ],
+      "photo_reference": "ATKogpeD41rv-oyrkwp9ghlViDlmMMf-47DEkFfqHxpSHH-nMSfGU5Ve61jkwcK63nzJHunYLC554SeuYTivO8_QsNXv2jo_d4KSDMbLmuvCw4rnBIy2auAdhs9etRyq_pTpyM9n1S6AqFgZLjJKzpFTSjGbHmSVvYMxlHxBGRGrBdFbzVCzBTyDeHZR03vPPNmWkXyP4x4MF3RJjxYrEpjr3NM5PKBSs6RfbinYeDbOEarKb2Nx88I3MhBumCHnGHD7fUba36LHe1uuXR4Q_xvPeTTWyyKxDbI_pv8Vu87tjkZd6rUWlE8SLylbPfTjoYfttNZ_0l_qAexq2d1VS9Ci3brUH-rfnv9Itp77qf4_d_M_n5oRm21g-a9ZX94aqQRpmyvjUsLxdyKK10tdwuswSy7tfFgC3LCGVtCzwIRn7TCfMits",
+      "width": 3024
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103953798914619685448\">Cris J</a>"
+      ],
+      "photo_reference": "ATKogpfJAErRbZrEJHrt1admOC7ympWtMSfOk237688JUrYfDEpy4wYr_8NaSD_BS--MiT2WEGSZ5nBBKKRBibcaWpKcUg1afdveWFwHZGiwN82-BF0LQzM4JcXcNROplABVY60nKyYPgOmDykqN_Wi3zumusuaqZ3DG6zaSDCFHXWuvdLPFiuagaym2i60WSfhct3dVsyk2fgZp02ExBKrworSPYIBHfEPKNSHQ7Py2hG8_0zV42Ads0R__9UIE-5FYrmj0ZRjxBTCNQwLW2h1hKNsl5s3ELDMKNrIYDueFuICl-uD_hvUz5rZ6KnmIShIqKLMkB4fTtmttIq317birZzKvrW01vAPoqxMr3x-fFgs9B95y3YGE2NFZLOznZev07Fw4fFN9xA553EVi751Za9StCH8X2-vB62Ks7o6sDyNpYCiR0zbCiiEqkgTf9g",
+      "width": 3000
+    }
+  ],
+  "place_id": "ChIJ97BgiDtfwokRsbkP6Vl1seY",
+  "plus_code": {
+    "compound_code": "Q35J+HH Astoria, Queens, NY, USA",
+    "global_code": "87G8Q35J+HH"
+  },
+  "price_level": 2,
+  "rating": 4.4,
+  "reference": "ChIJ97BgiDtfwokRsbkP6Vl1seY",
+  "reviews": [
+    {
+      "author_name": "Eddy G",
+      "author_url": "https://www.google.com/maps/contrib/109767325773806299211/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZj6W7XG4-rNFmOrGaap4oZXNju5nQLdy6IXx5fMaWK8I4H4Io=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "This place has been a favorite spot of my girlfriend\u2019s for a very long time, and I see way. There\u2019s so much to love about NYBCH.\n\nThey have excellent quality bagels (and a large assortment), excellent quality spreads (and a large assortment, great coffee drinks, and even some sleeper hits like their quiche.\n\nOn top of all that, they usually have plenty of seating if you want to relax and stay awhile. If the weather is nice, they even have a great outdoor seating area, too!\n\nHighly recommend stopping by if you\u2019re in Queens. Also, be sure to get some of their quiche. It may actually be the best quiche I\u2019ve ever eaten.",
+      "time": 1718087313,
+      "translated": false
+    },
+    {
+      "author_name": "A B",
+      "author_url": "https://www.google.com/maps/contrib/117146589447156101947/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJJ4A5RSzJiwBohkoXinYsgAog1t4e0k8s5y5mgZ_bHGu6eoA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "Great fresh bagels \ud83e\udd6f that seem to be baked on premises. They're big, soft, and just the right amount of chewy. This location is small but cozy and the staff is friendly and efficient. I highly recommend as a quick pit-stop if you're around Steinway.",
+      "time": 1749246819,
+      "translated": false
+    },
+    {
+      "author_name": "Gisela",
+      "author_url": "https://www.google.com/maps/contrib/113627546371515436063/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2toNbnkDIQnM6XizwPqf0Ez5Gfc-rWhSuvaO5lv-16VONYC2pjw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "I love the bagels and service here and today was no exception. They have so many options to choose from and its exciting to know that their bagels are baked on the premises. Service is great and the ambiance is chill/laid back. There is dim lighting in the dining area so you feel relaxed. There is also outdoor seating all year round. They also have a.wonderful selection selection of cookies, cakes, and pies which I have not tried yet but looking forward to it one day.",
+      "time": 1557417283,
+      "translated": false
+    },
+    {
+      "author_name": "Ekaterina Spiridonova",
+      "author_url": "https://www.google.com/maps/contrib/115792007271398411419/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUkAyimGQ214VHXR9REISKPsId8Gh5QiDZscRFwN73iw0JY-X6N=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "6 years ago",
+      "text": "I had everything bagel with tofu cream cheese ($4.10), it was huge and very delicious! The bagel itself was a little too salty for my taste, but the cream cheese was 5 stars.\nThey have a lot of breakfast options savory and sweet.\nHuge variety of bagels and spreads.\nFriendly and patient customer service.\nGood vibes, plenty of space to sit (indoors and outdoors).",
+      "time": 1555164161,
+      "translated": false
+    },
+    {
+      "author_name": "RINAT TAHAR",
+      "author_url": "https://www.google.com/maps/contrib/100397328513161622608/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9Y__u04BQPFIvkYvzteaGgY3IFGUVfU-dF-aq0VdS0UXc76ApSg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Best bagel place, BEST COFFEE in Astoria!!!!\nThe staff is amazing very kind very nice, the place is always clean and have a great vibe to it\nThe avocado smash is insane and the croissants are so so so good! ? Make sure to toast them ;)\n\nMy clients love it so much they always ask me to bring them a bag of bagels!",
+      "time": 1738454015,
+      "translated": false
+    }
+  ],
+  "serves_breakfast": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "restaurant",
+    "cafe",
+    "store",
+    "establishment",
+    "bakery",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=16623196728623872433",
+  "user_ratings_total": 705,
+  "utc_offset": -240,
+  "vicinity": "40-05 Broadway, Astoria",
+  "website": "https://nycbch.com/",
+  "wheelchair_accessible_entrance": true
+}

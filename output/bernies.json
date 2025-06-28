@@ -1,0 +1,449 @@
+{
+  "address_components": [
+    {
+      "long_name": "332",
+      "short_name": "332",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Driggs Avenue",
+      "short_name": "Driggs Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Greenpoint",
+      "short_name": "Greenpoint",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11222",
+      "short_name": "11222",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">332 Driggs Ave</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11222</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1600"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 4:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 4:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 4:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": false,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Hearty, American comfort food like baked clams and drinks served on red-checkered tablecloths."
+  },
+  "formatted_address": "332 Driggs Ave, Brooklyn, NY 11222, USA",
+  "formatted_phone_number": "(347) 529-6400",
+  "geometry": {
+    "location": {
+      "lat": 40.72192500000001,
+      "lng": -73.950593
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.72322208029151,
+        "lng": -73.94918561970849
+      },
+      "southwest": {
+        "lat": 40.72052411970851,
+        "lng": -73.9518835802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 347-529-6400",
+  "name": "Bernie\u2019s",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1600"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 4:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 4:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 4:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114185630651978875466\">J Mc</a>"
+      ],
+      "photo_reference": "ATKogpenGKeN5hgT3PMBxSIwqC-JH0n7rYEhWYnvF2fgYPiCReaJ_yitQFyM29-B4eiIUbCfkjUsrnXKrdD6xYkGGGy9aAxSSAbDcOFtwI44O5zg5FFxCgJWzDMdWwXIfKMCi3fDmsZ-pwk1Cb7XdHc5AaUZONznuY4yNZdQ74ro3b42Z2sVCQizGiQ8MOQTRQhdYIUyXwT3ftDPD-HpDaGYw5ScLTxEE8RbH4q9diMDugj94T7wHTryOLtn-0o7_sb1srG6dVNOw9Kk08q5ViOynybRO5aCHQxc3WXSHdjxWipJZda6GHeEqfS5tGjKO0JXei2j90aL02drwlqNZx4RZSGjPYV7T9ChbFOUlcrixi0tr_McOPJe6uqy5FVFgC-RF6A0QlwEG7Ac4AktZN2lnJXiCSom3A_BEcFzc9TALGU",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115473127409528133759\">Daniel Pino</a>"
+      ],
+      "photo_reference": "ATKogpdjjBzvAozG6nHpaMzHogKKg1O6bYEXVJE02rKU9vivbYYqb3q1j7s7ozLyFgwCbXFU03YRGE90uuDo792OE4tEthN3ZWVjwZfqSLl0it1bW5nK3iHu9MlB4uDNXRp628_y54mc_yhEOb5g0eQgSYAszLLdJjjc4uivwMWov02yp3Qu_tr1XAUliQMXFhWnLM2gctxDu2FMydCivl7p06FMHTxdO7S0EL99C_gY56wEx_DrMfJpRIv8wrzpOe_2yP_Eb2vWIbN9ldx1ptHmFehfNK9B2V72UeeUp-IJFoBO2qYIf677unbbH-Y27T4nxBqwRpcH57xA4Zvun0BG3xWjfHJwMMOFC7oUsHU7IeaVYJwMFua0iQNs1HAreFGxsOHROF4_KymJYmNV71xEfjdCzuX5WIWP5gKHFvcOqSX5Bpeo",
+      "width": 4032
+    },
+    {
+      "height": 496,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108206818140547571463\">Bernie\u2019s</a>"
+      ],
+      "photo_reference": "ATKogpfyq3gqiDHMTPE0jWRS-xzcDxkcKExLPoCguWgE52QPD4rg0zq_iiF6Om3v8Igp3d8eeXKjSIrgT4dZA1Oz5maVv2b-OORlruwp8f5S7PiN5bhpxG-vWI8upQ4fsO61EWWybaMY1W34CYAfJCANlhrwXZ4yucd2yBSfMTR5oI98Zs6ZKVdcqhs1hIyz-KRaG4DRPCzBooPyyM2BAr-StTHNv2KulMFpuFZ9iQK8ouApBcDv38imKKMWecGOY0yfm_HAu7Z_0Mbw9NFg62nGSjqPkJIB_4d-Gi6IVcATRhiRTA",
+      "width": 640
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105263400023620321499\">Chloe Pan</a>"
+      ],
+      "photo_reference": "ATKogpeqXC_3xiV8MkHgAPnEiUv9-leb2qwA8Oimc_wosgTwNKku4GC97sh4lsG2lnA4iJgmdx3ipFH0ezShNVh7FgwCQ5UM5Xx85jhbSMeMx-Vm0YJoGpV2WR_YOx_O-c075WEzDGD_AwiC3dL0ztx04zyI1zpuuTlMuK9n3cq7AcD6k4sr_N9fJwDQU3-V19a6TjTWLwG9qHdsXQ0epTTxFKJ5EpBF5nwIST5luRK4rQOIHLEaTDIQfgFUguA19-npNP19IRYljms4p-PPDAsDOI90VDzist2ZIdBm9jXwFM1fKLHS9_3nP_t1ocJXorChyvCMjGbpsv1aUtRQr6v9YOU-5NaKcBBb90aJX3sZBnUo6EwhksLraFM4HZO85K4d9DuETybVdJYVjodXZUrFCOFZRk2yzeukpT19v4nILlLf7g",
+      "width": 3024
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105621541534631799493\">lesmallcheese</a>"
+      ],
+      "photo_reference": "ATKogpf2PzNl-07W3f1F90lo4f5kdNxDgMmo-hfI6fAb8l8AGoA-qtSgi2cJk_4MhRsneamVDbaA4xyIsHMJaKGdjnZidBnsTJrY-EYpbiKJgQpHdDueCD5LFDq22hObPX2d2YMJBF0xEhtCW2ZkOsQf_uZ9bEbt6NI65W8Vy7kftK9lII4AdluzForKN3_s-xbkIQvSN6ZOX_HZrMEpEJ2dIb0E6sOgeHHTkUbFYhgC0WAKx6l4DzuvTRCEIJHTlY2mrxLmiNq056WIQdFfvLDDgf-rmh_ghMWXYuYx7Ya4t0EQKaNsssCn8fI-EGRdwCEm3jdCgMXzSAhTJeJcBBKXCdiwzd36PX_DxIdMJev33L-JtKkmWz79r_ef74BYDOgOA_NDfE5aOigXSLD7c-ugpQXlr870bpdaASl-CHfEldxVbQI",
+      "width": 4080
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105565463236441517827\">Kam Chong</a>"
+      ],
+      "photo_reference": "ATKogpcB3tHCkzjaxU9vxjNs3TRRtmV72RpoyEKUxBnrdzn7PXBZvInYZLablSIZ1RCwvbkGj-VMIj9NGRiIE-8HHX57ncJJW_5LXnNbQCpavoVhGxMpkrVjttR0lsAXH_K1UVPueiU2P3mE4aEFO7cTj7Q5lRFCQLbCaRkFsmid_hgpyisIK5sMyNplE4Qv3JtAMSD8rHf18G1BsZ-40Ja1GcJh7GfnKs-xm6sPJYRMNpgNA7U_Nfql8-mlgml2ueRPR3BW6DV62BJdZdVtnoMBG4foNFdBWb22BHhJCjtT1tPNzpvebcszmbLws_E74fekBqqgAcAcR3aeT_43Tjy20kSQcaE9F7EbVv-Y8CuqCRhgx-_aLuzPM5yXBQVgdtvdRmTixwUsW5c302AESmFwvN1XQUN5A8UbKWJP-4bcNHHpWuM",
+      "width": 3024
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101778117623125088057\">Danielle Conquy</a>"
+      ],
+      "photo_reference": "ATKogpefjqUr4xjeqWOgAv0ZlED5REe5y6bWi_TTEUQeo0otvnYcK_BJ7ryob1cBnLKT6uBSkfh9_RK9EwfUFEciGVZn-h9zgG6tx21Tf_zU9x7StDy0RMAKlYLJtoJj3oqRtg5Z_pOipn390WSh9qXa9tdxD39AttM5_7ocNaFKLmrKKTZAjZsV0OdMmP_sKC8UJ0iFyE0HvaBemPyISFce859crV_xoLIhqDP_Iw88-wTLTCL5l4EiDEjKME6sayd8OnsnvXkkCBGR1ppiOak3zS1WQXdl2uaVjdYyIB_CV9IIE8X57TMtnI-DiTEzrllotM0bGx5JFqLDAwQRxYG9GjO9PGur0dVs2-fDtmOnNFCvw_5CcIacW4vhCHtNe3RzAuu--Fl1NMXpSMzrLDioKxGgs1ZizcXA3w79IHJ5meTnP_E8QbmVglV2cUoFugtr",
+      "width": 4800
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101778117623125088057\">Danielle Conquy</a>"
+      ],
+      "photo_reference": "ATKogpe4HiKxn3xsujSvqHa6DkLaeP5afrtrGTerOF0LYIoHU6ZG9USYtzKaxO4arUU8Yg-dtVQ_kqTOw9cy58oFbAhsCbcpyFsS23TEI875ibr8NToqjR5-RfAEL1RiEVGqiSy1ouv9Ey_qUfqB_sm5-80cFc8EKfK7OdMVuqJVtF1VCsn5Gw11ZWaqPDn5OL-tZadVChElWvVykoV29AcoEdPFVKPhOsr2P8s1PGOspaAW_VUjUly0LLS3nEwKIgPm_t49raFOeSWhk5KNj70QOyxP6tdqT2-wahhNSBU3UEly9DPnsgvWAYqHJxL4QjDUfxC46Wvy2CTCZeM-51afdDAmbE8f51oZjrGWm76umKpzGZxSOG7HHMUcKApFwDEkhAc7Zngtu-RK2ekBLVKxkAoHll4cf-sOS-c0yg9WamJbFXQd39pbWI-Qt-C-9BHF",
+      "width": 3600
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107221697055113375978\">Mark Rudovic</a>"
+      ],
+      "photo_reference": "ATKogpfdGOMir52Xz90HrJ2Z8s6kuHLHXEfBtVkNLdIXx6A6nN_sqZa4RovVi2MXoiyiUlgGL-8pkfAHuVsOpZJjlH38wQupT6xunPLEthFpjf6DEoXmVQntADh4PnC0opFPDNeOV-sy16eQp3xML2g0740AeRT5YMTakyxqsx_zhMxJRoktOMTzCElz3FJyo-A5aqpdfxDPO7bXp9KsiA7WK2hww9Ie2ZyQ-uRbsUNCVEcANpr0_4ph8q3uaFYayAbWmLRrmydIxgbXyYFJQM2s2JbZ3AWMYgJzGiRuxBZiGvmKcuz7GN6geCBrYe8QWbkbblwwQMItc32zf9a7jUoRJEfVxO5k16lhFr3Y__C36XYMla6b7I32uKf7AIZY2c6yioGIRCeHaKy28HJZhGJ0iXZNWNa3q0mvNfz3WEJTd2dxGgnZGfgwVg6UiLftZA",
+      "width": 3600
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107151196602471892701\">Jesse Yuan</a>"
+      ],
+      "photo_reference": "ATKogpfFZvXbxWeJnaDQIcVZCTf_Jq7gJZYCbRphHqW7TqAGKjJnR3OPJCW5_nEMOU1B6KL9Qab1293x5wbFFMG_78vixbwaVpw0P9rLjScx8aTAEyvfKlDSSo8uaxKluzgJb1lh86723_cf_gX69GfxGDO6u2LEFta9gITGPf4pxJK6GtMmF9FKQbys1AELN4O41eAtPUDsIbdh_ndMt4k-vHfcMWLobiD14ibsIMwL1xUTeBwraVN2yjNgtI_IK2gn3F3OzJLfSQqgLGF7lOXiEIfLQ9DdAFteIWQebfMC5NQaMTgWaQcvjig7dQ_SJ6bK5bYEY8V8KM_FB7Rr8t-V5Eacj54i1_uxq4LD3S7Dms5aV97DYXPl25Tcykh55DuLShzeItQKnGMTukkqwcf5R0uW9LQBl3EYOksf0DrhnmmfwZBf",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJ5T7dN_ZZwokRKJxbtcuO9lw",
+  "plus_code": {
+    "compound_code": "P2CX+QQ Brooklyn, NY, USA",
+    "global_code": "87G8P2CX+QQ"
+  },
+  "price_level": 2,
+  "rating": 4.6,
+  "reference": "ChIJ5T7dN_ZZwokRKJxbtcuO9lw",
+  "reviews": [
+    {
+      "author_name": "Kyana Ifill",
+      "author_url": "https://www.google.com/maps/contrib/106902456777025553539/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUaeNeUnRjtKNWX8vgafBxQlEz5_9sAtCLZKAZf0MGOJcSEdW03RQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Sigh. I honestly understand the hype. I am perpetuating the hype of every other nyc restaurant but good is good. Burger, fries, sundae, MOZZARELLA STICKS, and VINEGAR CHICKEN. All excellent but especially the last two. I was so so full. The margarita my bf had was whatever so you can skip that. Probably good if you\u2019re into beer but I don\u2019t drink that. The coke. lol they got a good syrup. That coke HITS. Especially with a squeeze of lemon. We ended up getting three they were so good. The baby back ribs were a bit tough so I would skip that as well but flavor was good. I honestly can\u2019t wait to go back and try the buffalo wings and the chicken parm but we were beyond stuffed. Honestly wasn\u2019t a bad wait. Should up about 25 min before open on a Sunday and got in easily. Looks like all the people who came when up to 15 min before open got in immediately (or sat outside) once they opened at 4. I know waiting in lines is so not New Yorker of me but it was definitely worth a 20 min wait.",
+      "time": 1747773781,
+      "translated": false
+    },
+    {
+      "author_name": "Sashin Aluwihare",
+      "author_url": "https://www.google.com/maps/contrib/108171881663327947467/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV2uj-uEFdoBJqkeShSbQe-PzFAoJOU8nsDPYkPrNUq8KjQEsSdAw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Incredible food! The ribs are an absolute must-try. If you can swing an early dinner, you\u2019ll beat the rush and avoid the wait. The staff is warm and welcoming, and the whole place has a great local vibe.",
+      "time": 1747388304,
+      "translated": false
+    },
+    {
+      "author_name": "Abigail Gerdts",
+      "author_url": "https://www.google.com/maps/contrib/109212061607083117537/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLp7ZS6rLdiljb7VaqAdG5eAEMujACNd7W6-MOxOjEFn0KvsTg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "a month ago",
+      "text": "We were seated after 10 minutes on a Thursday evening. The staff was really kind and service was fast. We ordered mozzarella sticks which were good, burgers also good and two other chicken dishes that were meh. This is a good spot for a meal when ur in the area if you can get a table but I wouldn\u2019t go back, it\u2019s pricey. Just ok overall.",
+      "time": 1746289041,
+      "translated": false
+    },
+    {
+      "author_name": "Y O",
+      "author_url": "https://www.google.com/maps/contrib/104187587200512954212/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIbzevHbfnq0_R0R0O1B9whkiWzOxrE5Q74Jj-o9zhkX0LZruI=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "We had a wedge salad, a cheeseburger and a chicken parm. All 3 were great but the wedge salad and the chicken parm were exceptional.\n\nThey have a separate waiting list for the bar btw and the bartender who is managing the line is SUPER FRIENDLY, PROFESSIONAL and HELPFUL. They are lucky to have the guy working there for years!",
+      "time": 1748877017,
+      "translated": false
+    },
+    {
+      "author_name": "Jesse Yuan",
+      "author_url": "https://www.google.com/maps/contrib/107151196602471892701/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUaGciavbxCPFvSAYJKtogLkQy9e2JEoLBDpe7MHoWkeQAHefzS=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "6 star review if possible. Everything is top notch.\n\nBernie\u2019s has become green points. Best neighborhood bar for great drinks and spectacular comfort food. They are only open Tuesday through Sunday for just a few hours each day but every minute packed with people. They do not take reservation however plenty of outdoor seating while you wait. Best to get a drink while you\u2019re at it.\n\nWhat else can I say aside from perfect place to kick back, enjoy and have fun.",
+      "time": 1718289529,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_dinner": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6698698501332376616",
+  "user_ratings_total": 545,
+  "utc_offset": -240,
+  "vicinity": "332 Driggs Ave, Brooklyn",
+  "website": "https://www.berniesnyc.com/",
+  "wheelchair_accessible_entrance": true
+}

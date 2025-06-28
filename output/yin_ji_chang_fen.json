@@ -1,0 +1,453 @@
+{
+  "address_components": [
+    {
+      "long_name": "38-12",
+      "short_name": "38-12",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Prince Street",
+      "short_name": "Prince St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Flushing",
+      "short_name": "Flushing",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11354",
+      "short_name": "11354",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "4430",
+      "short_name": "4430",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">38-12 Prince St</span>, <span class=\"locality\">Flushing</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11354-4430</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1945"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1945"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1945"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1945"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1945"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1945"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1945"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 8:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
+      "Wednesday: 9:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u20097:45\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "38-12 Prince St, Flushing, NY 11354, USA",
+  "formatted_phone_number": "(315) 878-6668",
+  "geometry": {
+    "location": {
+      "lat": 40.7598593,
+      "lng": -73.8326465
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7612347802915,
+        "lng": -73.83121086970849
+      },
+      "southwest": {
+        "lat": 40.7585368197085,
+        "lng": -73.83390883029149
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 315-878-6668",
+  "name": "Yin Ji Chang Fen \u9280\u8a18\u8178\u7c89",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1945"
+        },
+        "open": {
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1945"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1945"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1945"
+        },
+        "open": {
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1945"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1945"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1945"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 8:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
+      "Wednesday: 9:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u20097:45\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u20097:45\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105719683145584847685\">Anicca Tanha</a>"
+      ],
+      "photo_reference": "ATKogpdsxAf4aZx1bSJP33DwaazXxjRnq9-G_91-0a2lWzK2Yr5xlzwaEhWvwNgkHwpPMFlU6W2VWKT90g7gMHTpMRjpi9ndmgC8l02BxXQGHjx4iFdZ2eu3yxZO3VCRiw2FMGkYcNUHKBMLIsN0lsd20wK7uo2DOlmmPfKEo8L9YXoYomoxnMNQhj2Huj037wFjDLkajwVjKCOUIz86-J8cTuC3Jpv3qV4JXNPD2fFqlWTyVLX7RGuHomYXSU81NGwEeg11hFhS_h9HyiXF6kaUVL4HQ17uhlxwREcbb5OsWw8DInjpnc4qvb8iaa4upkA9sCn2gXvJGUJy3wQb5PAQ0KrOJMee0tY5u0pqKPHMfIYR8zGEZNAX1xzdaiXX2m_ErSva8qIq7cfcyrGVIwCy1FVjuTimyk8zY0hqa_Kb5l2QCg",
+      "width": 4032
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101408013617262539484\">S. B.</a>"
+      ],
+      "photo_reference": "ATKogpf4UJwcgMg-p1SmwUvGaLqjN1rPDy_4_L9SWJT0j4TFCD2HlNkQmjTkVXynQMCQfBWY1RQb9wIh8KFRQxusKC33c2PEoIclB49r7D9YNKL5hRdZ0kbs8P4IULW2VzaZtGWYA8NC-Kv3SL9bW96l11jIbS2R_kSdbY9_F4g4GI1hgE4pgtGlDOyJ7pdVdx0yQV4NqQqpGYz_-AosFghOJyAn5zPkRtBBGpFWzgE1I7V-emHOyP2v-XmYjO5O2i0pRikt-f7S_2QReiW4U--BdH47m_dItuUxm_N0UApMmwGHMwa2cYb-LOpTMn4If9rCRh438DgVTpTxmJzDPyuy6p097bjugKTYzhSBnGjPJcGn8sCd9kLNSdZYDEsWzE5KS6H2uN3UnGeiqCV0WkU-sHYr-YJ4sQ8l_NCS3Ljovs_tkm9u",
+      "width": 4800
+    },
+    {
+      "height": 2160,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117961593368174955590\">Miya</a>"
+      ],
+      "photo_reference": "ATKogpe7P3DapScALgadQME_0-HRhs0xy_u4qT9OWelfLVYXtfPirdpMNYnk-IUA-KACtyERFFK4GkmSfy6QzuyNPmWyMe1wIwqIIGbomfIpu91Sr63p81ND55eWO1bj9cI2y708LInyPgqITnJbeky0yhHwhTQN6tzN1kRqawmv4yv1aDyHNg7s0X6U8Cwh6T-Tob_D1Af6rjVrKGmbE0YmXgWhnwn3xbkh68wRoKemiLw_0WHk7e0JVV0RjDv-1lxpLhsmcU93iCF-di_HywgVqtBcsRCANXH1Z8VbXkAG9SnXFzD4xoBYqPgX8fJcY3o6RSJXKXxr3nELeXRAGkGmmSURXy0MdqZ4VbDf_v0XEL9TMzBNv7pO586ZZg3QpmAXJzlci6tPphXTv1TIp-1qFfVnJorKrAl9MTRQlye5AQZZ6w",
+      "width": 2880
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110468092061647031838\">Yunong Shi</a>"
+      ],
+      "photo_reference": "ATKogpfT2xZAWtHRT-nB8ryNiVOdnM7-pks6GpiVU-GDwTsG1vjRyce7mNPj5qYqodPygayiIWaW9oW3TLjvQCCnTFHln1QocDbyl-DC6wBEbnWL-Ajg_PblPRJr2WJNlPyNbdIkqzEHNavSQllDb6th8q7C70vEi15OqqOW0w0tFRTrBoLEz84eWW0kPqHQEK3c8PiKAVxccs7hH1S4xMRnoUimivurJMfKM9EaINYoEBijdyovDo7mbV3ZFU0hOZIRg_2nga8oNlrbjc37TguCYWsh3Atx2v9CyVYDgwg8_8h8q5kFN2mzPAl9OPkjAjHUFlRRTiCcyd-p0tNikKN3Lg9ZWaWEtt8aB4gGpq6PghXFY2YJ3fxrWs8qfTACRjP1HLccRRphM564-XYzn7WVWfVUJeFjlej_8fWG1rwqnNiGpezu",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109834411959414191272\">hansub</a>"
+      ],
+      "photo_reference": "ATKogpc7uY_7rQ5KMZVeGqhiSD6l8OlGktWZ6oQ8oMnl0uJcARtji5frAiooZ5Qgj6lOAd2h9CE2jM8fv_DmiVun4HOp2j39slOL2FzMJqIHum_te6cBE6Vbr7EmkbHwXHyTOonUbmlOVDdQ7630wo5Ul1C3q_fJT4gnOZq-eBnLha-ENsz0cO5WW7TBkMMh2x2i4PdcwsN1K5Nt9gZAeCjkQGcbdpJgyvFYnAq0HU9HglmuMTWWRut98AyoQ0AikcNf_zohTMuXOAFMvz647hzEfsqC0-ttRkn9gq9AWeu0uagRqSeULkELjxQWaWK6qrkGvSnpkewzvpMOgY0sH2yZ1d20XPMnaHmpoh-0UWryl6MINzmq-AuqbrSarZBrYPkwfVNU0_tXLfo59bZMNxA1P8Db_myVorVc22x5HPObYzgkj8MsKySHKEOMzfkIzjbi",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107065815283558786847\">YU YING TAN</a>"
+      ],
+      "photo_reference": "ATKogpclSc34hflHKDKjOi5-ECwBd9ACg-ikSvuflI7tivQUM70gnR3Ax0JjyIrUfGcJPIGWqd883EC4CRP9UmAfyx3nupkyllgc_WdDynRx0AjMUjkqgaD37jnuc7ujX_I-QrkHCSSMIQVIIs4gWSJ5lCwypj0wTTjAYTFM7NOO_PtUipcuOTgvM3O4vZsQjfflfagLjD6ENt2qotu3wnUV-v94tzguNsHw8kY0p8q7qlna-DAAQqBCwv7CH5Bl0ydPDmvn04DtCYEDifGOikgyqIVd_potDXkJQHOn_Ny-IQCvbVwr7uNV75lM5c8w9xVAkPI_Wm4k4ebZq_EPqCfSjixTMCv2coE6haQbk3-fffiXrFY7YJoWoqgXZN03mZK-Y-l_IPif9i-sJ4_t93YsA2qMFxI1HZy_ibieFgXnJrtsjDs",
+      "width": 3024
+    },
+    {
+      "height": 903,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106800562983091532554\">Min CY</a>"
+      ],
+      "photo_reference": "ATKogpcEuKDvxaig1n15NPtvQnwR56QeDq1owFIdH6ZqV7PJRzA3sPs4OCsX5-01YAW6yC0WZqBcfo3WjDEeEjOATRdg423ZZJE5hkf_YHqkKaiE-v0XST--0PbJk0R5uxErsHqxkNJZptMXXlXizUEH1NqItOTltoen20JriPwjEO0PjTmB7KYlV1aotIY8fwrcjeddwd_pgx8TEHXRylnb6AUSHb7E4NI9t0lwSDoHV2UEnkbUh0sCZ6r0HO66sEJBzcxgHsd6YF8FTceDo2liTIJF50LYezs-X4Toaa3KQjR-nXHLd7vVJX4uilaNOQPfR9D6NItAZ9LCSq0Z3GiRTVGjsT7Wy4a_IqWZzYnENSQes8dBSXrGU0rUBZe0S4xlkFEEIigvsNlTTXy1HYwGm5_YOnnpI7V7X5UKJam8gfxEy-wH",
+      "width": 1179
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106263988788222464171\">KAI YAN Lo</a>"
+      ],
+      "photo_reference": "ATKogpfLKok0vx-MJw-FUDXFjO00QVaByRr5uj3QyMQJmDyKtsDa3NdOjxQFi5nv-DiOLTTCczDIQ7pdMvifkPKWDLQvKz_A1KQtWfImic8BD1QlijGLz1FcpMAgXtCtm1dtoqWtee3DK4zWExrn-Jk4VXbFJfWLxIIMOaQsA2IxGP_uI2Kq775G6OA4otQ8br7FHl-ZC8zGyE9T8zcIFMEAz2z9qHQoD-ONKDaOpXXx6qTQd87zIlIdyaeHBR4UqxWdviDewhJsximGzXoV-OPb-s3_SmGdQaSOE3HrTiDyTOAAgmxOyt7RfBz3GQ0JSBJrkJsW9AliKkvdJgkBAhERYYU4ZB-0dVyHLwZRl33IpFJ9jWGeAnMnb8RmeskxcUKNmC6AVnuzBtCFn3mLusC4VCEaKEGm4zAVJHqaRoOi7ftZyQ",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110468092061647031838\">Yunong Shi</a>"
+      ],
+      "photo_reference": "ATKogpcCIzxKRJ3ZKAzDH0-tYgffFbKADE1rHCa2m_Ch3UzWEMsDNJbmODLUhXNtoy5NADL5jNZyTqVe_zMB3O1AUITJD2TdvYa1lSjB7sGb-VvvrJi1YJWCXN77j6nByRBKMmq_ZN-lMLa9mkZSPTKz04ktEBmxblSntBIvBkND6fw167VeFlw3qGFxflDG28J0stNxJv21Bny0IbH_jeH43MjlmvV1ryINa1c9UvD4agFSOdo-sOI9Z02lK7VuqaCWPkumxAgMNpKFdDijKfXdH_ZHdsq4nfxaMvrwAje1qbPgwWLdemQIVlLN_md7ZLRVTLdW2fQQzZQwVVZpAOWQc6RiFYTnM5_BemKfLhgE2mbaI0icKpdkYR9DDoLViyiR_RQ1WCSYgLsq-vDd3l-GxyBIgporZ8DhLZPXkusP4amqPn9d",
+      "width": 3600
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106263988788222464171\">KAI YAN Lo</a>"
+      ],
+      "photo_reference": "ATKogpeLIphXWYNFMxbwYAuqHKAafNcxTB2M6zI0CLL8P0bBHRIo5Q6rjNqFYMZHJ-alLeCgXY2uES8G24W0AOfkO0AQ4lQogT1f1WFhqG4tFanhwHiRfmXOIxi-yNL_CXQMl3C6o_eGaYYazCQzdM012cEmThnXJT5_PvGaWLwq6TO8Gc2N6QOHKBPrzVvhYKB0CbuLFc4etXtdSj8A0XIzBN0tc1yCoCO7cMTAvk_qnSW7qYR77IcVOB7-N193K3Az3nKK48v-ceohtsftpYuGgLmwfKrN8iPMngDTWJklfXbrLV0uwkvNyliTM92SwUt0o4Q79_PujbX2Nj-0-_ROvOOxzd3L0iY34pY0MmkfJN2hX7Wh19PHhvSCAam90xulvRm3nHZdEOxym9wDx4sSYODlHpqVdoidULEUXUYX-_IycvuD",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJqwTG-uphwokR_QqTc3u-m8M",
+  "plus_code": {
+    "compound_code": "Q558+WW Flushing, Queens, NY, USA",
+    "global_code": "87G8Q558+WW"
+  },
+  "price_level": 1,
+  "rating": 4,
+  "reference": "ChIJqwTG-uphwokR_QqTc3u-m8M",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "S. B.",
+      "author_url": "https://www.google.com/maps/contrib/101408013617262539484/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV72VepOg_6xO1-IMp395_za90pIVLI5brMQStKsbsUUe-Pkdpi=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "a week ago",
+      "text": "This is a Chinese congee/rice roll spot in Flushing, New York. The food comes out very quickly after you order, which is good if you\u2019re looking for a quick and satisfying meal. Everything is served on paper plates, so if you can\u2019t finish, it\u2019s easy to take it to go. The congee has a light, comforting flavor, and the rice rolls and side dishes are tasty, street-food style snacks. Nice place for a casual and affordable bite.",
+      "time": 1750036884,
+      "translated": false
+    },
+    {
+      "author_name": "Xin",
+      "author_url": "https://www.google.com/maps/contrib/115499328070754850684/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjMx0oceFkfDk2M_NiYYuKNzU8oJDZJKDh-mAWmGHwZx1uVfiq=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "This is my go-to rice roll and congee place Flushing. It's cheap and filling. The food is always good and consistent. This trip, we did not get congee because it was 90 degrees out. Instead, we shared curry fish ball, shrimp rice roll, beef and shrimp rice roll, char siu rice roll, and the special peanut sauce roll. Everything was delicious as always. We also got iced yuenyeung which is Hong Kong milk tea and coffee (not pictured).\n\nThe staff is adequate and functional. I don't need servers to sing my praises and validate my life choices or tell me their life's story. This place is cash only. It gets busy so it can be hard to get a table if you come with a larger party.",
+      "time": 1750688640,
+      "translated": false
+    },
+    {
+      "author_name": "Sharon W",
+      "author_url": "https://www.google.com/maps/contrib/114071915666227245859/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVOrUDeMKBXryxmsHjew1nUCX4sLFnxXmwR_yzy8W2M_x2WII4JvQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "I tried Yin Ji a few times with take out to avoid any wait in line, and finally dine in there for a breakfast on Monday morning around 10am, plenty of seats. I had different types of Chang Fen including marinated beef, chive shrimp, fish filet. They were all really good, I like how fresh their ingredients are, including the crispy lettuce. Also had different type of congee, my favorite is the pork liver one, the liver was made very tender and flavored well. I had good dine in experience as well, the server gave us small cups to share our congee and our HK milk tea when we dine there with group of four. Overall, high quality of food, reasonably priced and good service.",
+      "time": 1745804397,
+      "translated": false
+    },
+    {
+      "author_name": "Ray",
+      "author_url": "https://www.google.com/maps/contrib/109180863225458282360/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUEYCjUZ6H5kT91AnTXkhD1FlBm1jRgnfWX7fq2LqluxXmqsIOM=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "4 weeks ago",
+      "text": "CASH ONLY.\nMy kids love Chang Fen from Dim Sum, so I took them here. The Chang Fen was very good, very smooth. We ordered four kinds, pork and shrimp mix, shrimps, beef, and wrapped around fried dough. My wife also got a Pidan Pork Congee, and that's very traditionally made, the best Congee we had for a while.\nSpace is limited, as there was a family with 8 adults and a lot of kids came in and took over half of the restaurant.",
+      "time": 1748693949,
+      "translated": false
+    },
+    {
+      "author_name": "Hyekyung Kim",
+      "author_url": "https://www.google.com/maps/contrib/102700899204009413941/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKlKyiBAmOw6GnA2zBTKIHQAXTx1541ox6EpegynIlbt6jIoflL=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 3,
+      "relative_time_description": "5 months ago",
+      "text": "It is quite famous for Chang fen. The Flushing branch does not have many tables, so you have to wait during lunchtime. I ordered shrimp and pork chives chang fen each, and they were really delicious as they are famous. The taste of Congee was not impressive, and I don't think I will order it again. I would visit again just to eat Chang fen.",
+      "time": 1736903920,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "food",
+    "restaurant",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=14095068896215370493",
+  "user_ratings_total": 219,
+  "utc_offset": -240,
+  "vicinity": "38-12 Prince St, Flushing",
+  "website": "http://yinji-usa.com/"
+}

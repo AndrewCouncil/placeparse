@@ -1,0 +1,457 @@
+{
+  "address_components": [
+    {
+      "long_name": "12-09",
+      "short_name": "12-09",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Jackson Avenue",
+      "short_name": "Jackson Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Long Island City",
+      "short_name": "LIC",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality",
+        "political",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11101",
+      "short_name": "11101",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "4747",
+      "short_name": "4747",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">12-09 Jackson Ave</span>, <span class=\"locality\">Long Island City</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11101-4747</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Fried chicken tenders, wings & burgers, plus Korean classics served in a stylish setting."
+  },
+  "formatted_address": "12-09 Jackson Ave, Long Island City, NY 11101, USA",
+  "formatted_phone_number": "(718) 706-8888",
+  "geometry": {
+    "location": {
+      "lat": 40.7437765,
+      "lng": -73.95063019999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7450865802915,
+        "lng": -73.94923221970849
+      },
+      "southwest": {
+        "lat": 40.74238861970851,
+        "lng": -73.9519301802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-706-8888",
+  "name": "Kuku Korean Cuisine LIC",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104900590058523234697\">Kuku Korean Cuisine LIC</a>"
+      ],
+      "photo_reference": "ATKogpcMX7wZzOjqFv9rNniUJ5gTLUpmqc0f5y0CHco4WC8hcxBYbcv1WLFpSzoA0vLefeKR7bwYFNc62_OU3YYlRvCi4rmNQaXL1ilIqmkQp42ykzDVDjYanahXyqdmTqczQAjvCHy9IpMr5ApYoxblynoNeALHZHNPmXyN288oj-2kSjCafpRLRJc3pE6Fwu2kd4cDmnCOJDTKVVr5rVe9Jnq2xlhG2wJw7Uaa048t7U-7ZdNUhPu-rdnBXWsu3fZlEM8YdMeO8XqLeb1rHk4TzubNcsWqVRbZQmPpVZgiqi80Lg",
+      "width": 4032
+    },
+    {
+      "height": 3164,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104900590058523234697\">Kuku Korean Cuisine LIC</a>"
+      ],
+      "photo_reference": "ATKogpfKDOzdMz3RuzFd_ewvyVgn1Z0G2gOnJ7PZuP8QRWLiYfe4V6R2nnq7JDcHbrE--LEActykyloRVXr4hRXRdtip9XAcwPmVeFy1iXo_EaHoOuHkDtejKd6Bp___-duzzLLNB6W-7itZL3ekm3lrtK-XW2C9__OEBmE-cof9ZodSzPkByhoGn26_C4dH-9srOw4vctOVH2nKehd5pxCGN5YLg0ZxVynp6y76_bfHDbiSRb1rD0WhmDjaY8QmRDIXNB53eHaeeiBD4pC9mhCmTAhwMHFWZ_iVsjEgKSonR5aCyw",
+      "width": 4800
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116040512843385152893\">\u9673\u5955\u5a77</a>"
+      ],
+      "photo_reference": "ATKogpeq7gV_5YX93ihpTOOa1Fvk8vxRg--zAntpV_9QW38Syfg8YBeu1PUXIMjsnuJu591mtOkC5gzFk2w81_i9sbXykjXjQBhrqidSfzihKCeeUFpdylUi6SE6iikyg7Q_ib03mtt5y9KvUixz1Oj2TczWg7oinzlCwWfEN410l-1bGXqjmnbsPFsPxj-Y38GxhMAf79C3EIfDfLJceCoAOq4UVT9WWSQ1AhqZE8_R8zfoO4ZK2BdKA8sV-aOldggS_qsvqIxiWggod4h37RAsc7qHq8mzlxCrPJU0o_CucMChUXpuHIjs70qJjMRIKLsVheTbG87ylg3L7nn-HvKI-00BbvPKIdzGP9dU4ahtvYJNTuv50s_TBPm22Jp2cxLJvf52hy-Zb3BGpHfMEEH3eZyEYIQgq6fwKn_FjpHFathwdjLA",
+      "width": 3600
+    },
+    {
+      "height": 3158,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108292326545620517514\">Iris</a>"
+      ],
+      "photo_reference": "ATKogpcTIXvripNJYTTykR_4FYhycuhsS3SHp6UlJW_Oh0gOVK9y2FLfsHefo7v2VFVxGo-xmSuog7ZhBIBc-KmfJy_sxeOZwW9Z5m-M1WfkL3iJFQG90lqsGQJWp3eGf_hHeEeT1swlkCANsKPbm2gR-f72Smrb6k4fgeWK1IwJSuYqksH0Ugs9XgqRn-KLO-tSHfg26z2QoB6Um3wozYJqCyXRdz-ccUz5AI8Ci4L4SOBfytbhBvz0AcW1i2KoqFkTb_2VMJC65IQM2lhFEG0QNZlX80EoRISeoZKP6LPy9tNWCs1-Oagzl9vwxKmjRdLbV7xz3QaIqxHFcQyIxTsW6vVPzncmRgiWADVLpK_8nT1isYl4sRE8F70bm7fXXpRt97FGEfo9qStDdhXrm4rhgKYtNOlgmi-iuOzKwHz8hk-lzg",
+      "width": 4054
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102463372341565491695\">Chan Mi Lee</a>"
+      ],
+      "photo_reference": "ATKogpeAy8Oc7INVBXOw7hqJIfr1icnv7WEHzU6kHF0edXzYiO0jwveXLK3rFU3jhp2KqdtnpO42ofT_qEgbPqEPjm1QJktxeej6h8bXnZ5fQsYQOfEds6vVqT0G_AoxZvLFlRcbau5FD-b6ZnfpvKvkfglNJM4yWcHcjcZIqTsPGMkHdN7LzWb31xLpkkxQKCDeOkLkUh_olclB4BAAuYVoldVwrVLEH82he1XLJh1ufxAoKKKI4SWry9xT2O2hhime9NPmAu3L6xOd6-aT2qjVdT5WxKNZZEBNStKDer08GX1ox7OQ24lqqQRGpsYCEsn8KF2K8wBAnYkr_2HO7Zl0cAF5X4Xpp5VYzrzFPrcPIEcSJmM-tj0WKqf3GEoK7UEdDNZdTLTZqtamT9PcltRgXskyVH1NnlxTkt5XqAx2iI-VgHk",
+      "width": 4000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104475542022952173012\">QC</a>"
+      ],
+      "photo_reference": "ATKogpceuZs8EmnSWqdIGZB-ijFSsqQQ4eH0-io1hyGYlpbh57pS3LLZmIXJ8Xsx-usqrcDYjuxV5cc3Dqe2XF9Kzei973O8sFMNyEIzDtsscjuXkcmUEHcJun0iZXjiaTO1zf_JSq3dM7tmPnQ4Kv-OVSJF5t7qsAzjEaft3a1XS7XZdvUxJXQxdXEL8rUur-96QgIwGlTuI_Rr8vEmv8kZZ5pTnJ_UFc0Ej1Ti-x0t_6UPPR11JoGHRAVmZB-vhzatx0pMWWkB6Fb5QQuON7ePWRTEKh_OeOLa5p5fcCmS4xS8nL0tzcn4LK6DyD428GTRbq_31oFwTxBUMwjwgYoR4M4x7x_GLpxqD6ESzGUDxm2S11EtVwGVCZOxSXcINcKuUOyBsCjmG9OlXiZO-6mMEjNS9u90VWkblswwsxsmxXGMVr5p",
+      "width": 3024
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102463372341565491695\">Chan Mi Lee</a>"
+      ],
+      "photo_reference": "ATKogpdagQzyyE6-oi_yRjjLKKq2S--Csy2rEYeJXlEP0dBdhJHZUvlv3eDj1SYrIk4YXRSkUF5HPBu2lWAMlxhq09SbQY96JMTI2U_-gBIh_PuBHCNv282cGDdjKwoIz5sXyy7lTXMQ11rayX_DgvEGc2F1tK7Y_gnBIc2HKzF1t1rd5Dge1HAqnbW16aE6jNz_f5MBgRHAMboXC0dVFb1uIBpIz5CASj1BdMbDCVZEf-2CXJMkzjjTRPtb6V9d-MQMWRTvvJp7sdJKdOfTFdfGVeShb-q7dQKeth88mgJlWeMxLzk4Cm3SNZ-9nJZFpUfiaoNp7zqV3JIlTtZQtmoHxPy2ciNnmwFWzcFyuPmkqehOkpWrgTLD2OP775_hKLF8KGKDk3vjphl6PJIOs5PgHlLs2QMeM9lBj-ZkJO7j1O4",
+      "width": 4000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102931939855388880333\">Abhishek Nayak</a>"
+      ],
+      "photo_reference": "ATKogpcE3ZkC49fq5EvgFfceF8KsPu0YXXMbNZM6iHnt2SU3Km9tdVY64Y20bQlekOSAXmJNuRBLNppdA9NT51OFcFKoiCZGFbbqxFc6KFmj_FN2MbMi7v7fMcXpM0OleAODttW_vj6XvOUoDYxekGOVd69h_T6_-FVGFie9jLDiaU3NNSXwoo8jItefqnrBVKmOMLSsI_erShvgylO3zgWuaNWR5qwsWm-7uyc9S7UZH05La4lfm5TG-fHvna4ECHGmc_nFECRXKWPUrXqnFIkJ73KpQXUEHASwelQMj-Dr2dhwBylafRMR1N-rNJWTrLH4MDVSvNwCwZHB7L8Zbc0cYwIIefWon7XMQmEbwkTmtQxIa9zxwEhnX2SIOyJ7HJWINRBQ5m8RxZlxbUGzrt3aahY18l5eQhcaU-XZkbpg8JbJvg",
+      "width": 3024
+    },
+    {
+      "height": 2890,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111587272268381174541\">Janie Huynh</a>"
+      ],
+      "photo_reference": "ATKogpekG2CT20qlKb2EBCMJJIeCB3_ZrXRuuhw7_82MqxiGo2yEE3mWm9tY_XvTEivCnvkKfRzHJQ0us3_zz2tthOlj6E9HvQjQTr1Ei9tCZnwapKCqIUNO99DSuSkeivXtP0GPy7_eDBcnc6dkzjX9qodFzC8U-8bbywJCKZgxdYxzo04OY7N-Bp3zER1OuzhNanG2zzstI8ZDQiSBHfVIQf80y_dJRt78wqfNOJajQIIsKlsTleG6EFWGsoVB5Nm1xTua9Mt7iN4kxLR4YSYCdjnfN4IYfwCNNJjnIK_bvF6hCR3wvKZwzeneA-_rBrvhS43Jfw74HX8Uc5PeGQSGvdBLH3ZkrZusyZPQw5l0rRO5yxzVp7yqqH5Sz3RytjCtxP6E6AF17KgRZiwQtRJLXI-j-NPdFdHH2nvRjB-daeRYYrqr",
+      "width": 4032
+    },
+    {
+      "height": 2992,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116119956274657045362\">Paul Park</a>"
+      ],
+      "photo_reference": "ATKogpdTisMEUcaARaRKKgRwntNBSspsQs-Of0570jhvMflMklCnEtB1ie8OHt6IW4clsmvVz_HdSEq1SsJCZowB7GzWYgw-E5g5HE5-lR3ddzL5gxtaIwI1xErDEvwsF5rEoVnH-Egb8VU6KCL7CvviS_dPjwM-d5lQZkW7mC3XxLmkh8r7DXG_pyzD9cvzjaQ5OsYA70bRovjOiXleF0cuuOzADPFW09aJRlvw0cmFJGvGg4SH3kDm1Nr14udUz3kyg6mzCzhMwn0lNu_7DZBMGTJKWQV9maI9M8LZrCySx3ssDamya-ltfn5_ca3RpVGFpFmzMrfhyBtu5ettBpBjb0Lg8Pwg7u2TtuhvfiUXlgh6KBxhSkOj0apuVvoWb7IuS94mBOx9ffF-HUnj7sp0pDltUoXjwB3xQVW86KYi69ouQmna",
+      "width": 2992
+    }
+  ],
+  "place_id": "ChIJx9WY5JtZwokR68C8WLI5KsY",
+  "plus_code": {
+    "compound_code": "P2VX+GP Long Island City, Queens, NY, USA",
+    "global_code": "87G8P2VX+GP"
+  },
+  "price_level": 2,
+  "rating": 4.6,
+  "reference": "ChIJx9WY5JtZwokR68C8WLI5KsY",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Mia Huynh",
+      "author_url": "https://www.google.com/maps/contrib/114746114434966868203/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWE4czd-grUsa03QSphvyCOclM_Ar_KI27-4Jd9NwQtCduvru9p=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "I came here for dinner with friends and thought that it was pretty solid. The interior of the restaurant is bright, casual, and natural. Service was pretty solid and always attentive with our tea.\n\nWe got their half and half chicken as well as their bibimbap combo with pork galbi to share. Everything was delicious. The banchan was FILLED and probably my favorite part of the meal (not to say the others were bad, but the banchan here was great quality and so refreshing with the food). The half and half chicken was pretty solid but I thought needed just a bit more seasoning as they both kinda tasted the same. The bibimbap was also pretty good, and I liked the combo set (but I did think the galbi was a bit dry). Nonetheless, not a bad spot for casual Korean food in LIC!",
+      "time": 1743702668,
+      "translated": false
+    },
+    {
+      "author_name": "Lou M",
+      "author_url": "https://www.google.com/maps/contrib/118238278979313995765/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIoG0N1Y440DSjrDdcClGkukvQpLFmL1qaTk84yaa6WMZoB69s=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Felt like eating fried chicken and decided to try Kuku. Ordered the half garlic and half garlic spicy JR bucket with 6 wings and 6 drumsticks and it was delicious. Also got the Crinkle Cut Fries Supreme with kimchi bacon which was ok but not great. The Yuzu and Guava lemonades were very good. The restaurant was very clean and I liked that it also has mouthwash in the bathroom.",
+      "time": 1743896660,
+      "translated": false
+    },
+    {
+      "author_name": "Chan Mi Lee",
+      "author_url": "https://www.google.com/maps/contrib/102463372341565491695/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-0w2_vnWyjtyJBjtCM5Q7Ca9YhDkRmitb57TI9vImtcLHIKc=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "Came here with a friend. A cute little dining space. Menu was quite broad. Ordered half and half spicy/not spicy garlic chicken wing and LA BBQ. A little on the pricy side, but the food was pretty good. Unfortunately I found everything too sweet - even the fermented rice drink (makgulli) tasted like rice Sprite. I don't like taste of alcohol so it helped to disguise some of that and I enjoyed the first few sips, but when I found that even the food was sweet, I kind of found it annoying. The side dishes were a mixture of Korean and non-Korean dishes (such as side dish of maccaroni pasta). Normal quality. Also had the option of purple rice which I liked. Server was prompt and polite. The bathroom was clean (it's small and hiding in the corner). A pleasant dining place if you want to hang out.",
+      "time": 1743787723,
+      "translated": false
+    },
+    {
+      "author_name": "\u9673\u5955\u5a77",
+      "author_url": "https://www.google.com/maps/contrib/116040512843385152893/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9sGvZ6c6-K1o4XrFCttw1MFsLaIKLOrJ46E941p4cO1wSLz0=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Everything was so good\u2026 Not a big space but the food was delicious. Recommend for take out if you live near here. Will definitely revisit.",
+      "time": 1749432300,
+      "translated": false
+    },
+    {
+      "author_name": "Nicholas Casanova",
+      "author_url": "https://www.google.com/maps/contrib/106194116320817478714/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXmzWkJq8Zz2e9scKCXd-DaEeuNNOQ7XH-nWSXCYYVBCknKqcvo=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "We visited Kuku on a Friday night without a reservation and were lucky to get a table just before the dinner rush. Arriving around 6 PM is a good idea. The menu is broad, with Korean staples like bulgogi and glass noodles, as well as wings, tenders, and loaded fries. We ordered the bulgogi, glass noodles, and soju, which left us full but still feeling light. The space is small and brightly lit, making it a great spot for a casual meal or quick pickup.",
+      "time": 1743872062,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "establishment",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=14279289006687305963",
+  "user_ratings_total": 294,
+  "utc_offset": -240,
+  "vicinity": "12-09 Jackson Ave, Long Island City",
+  "website": "https://eatkuku.com/",
+  "wheelchair_accessible_entrance": true
+}

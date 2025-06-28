@@ -1,0 +1,450 @@
+{
+  "address_components": [
+    {
+      "long_name": "146",
+      "short_name": "146",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "East 55th Street",
+      "short_name": "E 55th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10022",
+      "short_name": "10022",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">146 E 55th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10022</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2045"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2045"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2045"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2045"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2045"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2045"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2045"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1030"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:30\u202fAM\u2009\u2013\u20098:45\u202fPM",
+      "Tuesday: 10:30\u202fAM\u2009\u2013\u20098:45\u202fPM",
+      "Wednesday: 10:30\u202fAM\u2009\u2013\u20098:45\u202fPM",
+      "Thursday: 10:30\u202fAM\u2009\u2013\u20098:45\u202fPM",
+      "Friday: 10:30\u202fAM\u2009\u2013\u20098:45\u202fPM",
+      "Saturday: 10:30\u202fAM\u2009\u2013\u20098:45\u202fPM",
+      "Sunday: 10:30\u202fAM\u2009\u2013\u20098:45\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Basic Chinese destination featuring soup dumplings, hand-pulled noodles, and an assortment of ramen."
+  },
+  "formatted_address": "146 E 55th St, New York, NY 10022, USA",
+  "formatted_phone_number": "(212) 804-8556",
+  "geometry": {
+    "location": {
+      "lat": 40.7592053,
+      "lng": -73.9695124
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7606243802915,
+        "lng": -73.96811236970849
+      },
+      "southwest": {
+        "lat": 40.7579264197085,
+        "lng": -73.97081033029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-804-8556",
+  "name": "Kung Fu Little Steamed Buns Ramen",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2045"
+        },
+        "open": {
+          "day": 0,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2045"
+        },
+        "open": {
+          "day": 1,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2045"
+        },
+        "open": {
+          "day": 2,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2045"
+        },
+        "open": {
+          "day": 3,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2045"
+        },
+        "open": {
+          "day": 4,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2045"
+        },
+        "open": {
+          "day": 5,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2045"
+        },
+        "open": {
+          "day": 6,
+          "time": "1030"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:30\u202fAM\u2009\u2013\u20098:45\u202fPM",
+      "Tuesday: 10:30\u202fAM\u2009\u2013\u20098:45\u202fPM",
+      "Wednesday: 10:30\u202fAM\u2009\u2013\u20098:45\u202fPM",
+      "Thursday: 10:30\u202fAM\u2009\u2013\u20098:45\u202fPM",
+      "Friday: 10:30\u202fAM\u2009\u2013\u20098:45\u202fPM",
+      "Saturday: 10:30\u202fAM\u2009\u2013\u20098:45\u202fPM",
+      "Sunday: 10:30\u202fAM\u2009\u2013\u20098:45\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102859176129970940093\">Andrea Au</a>"
+      ],
+      "photo_reference": "ATKogpcedBc8OiNHfSqn5S3Q5ExwISDlXv3gy1jcFkoRKUydNsVLEMTkTlQQYTBN2jRtp5tNGCAkejaqMFcuGdlB5W2ZvVUFbPLUCOBc4iEHJZWiMDensBZnPmRtTBD7xtytVKVZ8xGlN54TbyOB-7w_P-XV5p87K3XdOMIbSltpEMsBD2XsmfOPwrxsCxzxT-C8CDwIxvipbL71LKOVBIgvdAFPPU4bzTuUH2-mq5MnrrCeH08K2QZq4UuyqEq-4iw5ELFHjLWGyO_Sqp_euCrPBYQ0rYHRi0OttGy9gszfgOzlvjblNm1IG4TVlD1gUZCFrcLZeBN21Z5qtf_lHqX_xyUXh2nXvRE8F7zr6G9PVlpHmTDOOsPFIbfP_jQU1P_h5b4vd7u92Ma6y0fKFvKolJR8jG0OX6UOXCg0TlrrXewFlnwF",
+      "width": 3000
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117205555652493559637\">Allan Lim</a>"
+      ],
+      "photo_reference": "ATKogpd6mnDiZOJcFX4B_kzddKFArrc8IK3TAJOQ-I4EFLA6mzFjMxA2hHJUDbbQhRgpgHAZW0axy1TWLE0Sw_tcUrBe0_c4wlT8cVjXNWIoEqoGcD5wxrdbOj0P0J77nRaB9cXIBknXD9VYuG5XOSdWwCLVYf-cpr0FpQBYZdI2oPIvNxcH0N3ggSV30Mc2C0owmpZA5vc43bIrwjWRrmD-HfYinpVYFqfq3pVwKzRhzzEdO3DVCraleAj5r5xjKZY874AYGaQAk5_zb56Gps0lJbq_wKozlGZR7Y99Qhr7hGlJTLOQ0rj-CWItJ1HWUm-j_-rSUH_Pom05BUfy7Qh7-BKHWgoKYaZLGghpg-f0OnJwT-UYwADN5eVltGgg84LL1z_mmq3uSdXOzxG-Tky_UvzMy2jiyzjyiU8QVCxmqc8IxkPZ",
+      "width": 4032
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101391398296811227556\">Merryheart</a>"
+      ],
+      "photo_reference": "ATKogpe_U9UwedyCTVJtheeU8h5pvYwDCHWKNRqdkqew4qYasFCgybPThY_9U0snTTa4L73lwDztWtztAtJJ_vvc6rwGN7OX2H8Z2j4SThPczRklF4mScXdi93OYsOs-sDn2C2crRJbMZk6OMf32gObiF3X4ipC_Ojv_dVriwNyGbA18oVHZlAkN8IBZ_max_hzpaHMRBdav8C1b2ya3BqBJ7Lb-dF77lkJ1Ma1XIV9IgIWQFWLc8WlQOUdF7xFvQ7zJy63I2p-fO_x6BHwX-QcK5P0JGXTzpUGI12KK4xoijaRtdhpJw9yrxLp71KekUiSFmDx-hqT5qc6J4BeEUwEDECuiT56cjKm6skJlxMe3cK7cE2cBq5HhRbERPE_LjlIF4lSb0rwPaDQlVfBlu7ow1VnwaQTbpIDUb_P0qFt3wgiTyg",
+      "width": 4800
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105061099394492403376\">Michael Wu PhD</a>"
+      ],
+      "photo_reference": "ATKogpf5EhuhwCQOM3hM6jD5bbPrZLSEz-mw72tO3KBnb7cyS1AH7q1pVo4gkazoJWI-r67MzgQYHSsgOHsJxBp5xIzeaf5iuvKIFfuwJ0VsfagkIIuJNy33oanKsTrhaWbpC4KW-zx_AVdaURFMH9jcVQ7h0fdxJyuRAZAYydFKX9jQgs_EmaNe121g9WWX_BqKmKQYwLMmJa0bpMRqoK4uoNYNahMowf3IUq6AKC6KxedhQfK_siTLk4CiBHBpwoBk9-gB_pgk2Aw_SzBaHLXHtn_z_GMCSxGLXRrjNIoBV0jYP_5TireQCEhaGU3dZt_WsRouFMH_AqkT1_1xesDGIwiVIL8pmrq8sBgq9BtYh0jgbECon5cCx5iBWjNowZjSKYvDa-hPIOejKgWh5KDT3BObkRv6uVMfV481Ys8i-giPytiR",
+      "width": 4080
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102614905690518584428\">Kassie Osburn</a>"
+      ],
+      "photo_reference": "ATKogpfDbKQ_UKEZ-XD8Pzz7pGm9UAna_CqyvZccLRxtWxPsoFu_TS4JpVcJyyyR3EuuYk8O9dTaaX3UD46LnJQF5hUGWWr0T2hOeMALa2C_Z-b-PMj6cLwOOQRmWQNy6QzhOXZ16huTtOcx3vA2qSj0KPGqpH0DXQP_FDKqYfDZOYbFzESd1_ubvU_Ab1eHYBdcNnmggrOifk1r9RJtuHvz8mW-focuIlf_VyRSLhVfWcS1oCxq2UhAW_Q5JjASH3nRyFDdKJYxovnut2DTy7VXUB49MMBn2H2Iz6IEm54W16Jp3vKbi6yfwuBFiZDR0o9bJeJ1qE9giJUKBuEMWVDPuNY1C6FIgJ4-_uNdYGuWcS4LmGcWpIMS7n2wnLaubmJbng_JOBDAJ12XiQuTC92LwqjD7U6HxuEwdr9pLZg3lRdGZwsNbbrOzpmnJya_Aw",
+      "width": 3024
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105254558927573202534\">Luke Thiessen</a>"
+      ],
+      "photo_reference": "ATKogpe0MZUUbLa2JxmRF1lJsPzqcN2yNJH9dLzejvLr0zgDTQx_POkdRWNFnCZKJytSvdTBZcV2I7GQCvFHsEQpiTqcBF9NEDmMULtEYaiYVC4_Lkuga9sfFHbTvG5XLjWBU043_lN1lw7RLVZ7oE2nkXlKGfJn8Rlt7yy5QFinjDmwAzPfT33UC4fFf5FfBafDXvTzceI8hJeApHgS-yToxVauZYqJ7XDDd-Rb-ElytwMVJ1aNWeB8NaN6XyAWv6XjXeAugYB0S_cNOix-eo6PaSqGc1GH0S9RCkriSN1DvemfnpYCogG_FPAbVDUf0MJ8CRe2KElCbQ-h5sWIe6UE0aRMpujvgagFS1lzsw6iqKFQsVZbhAwQZQX7_sijuoZVvDbToNG9JRMipDO-uEo8m9vE715H2p88Hd-RZgxMS8TxXQ",
+      "width": 4080
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101391398296811227556\">Merryheart</a>"
+      ],
+      "photo_reference": "ATKogpeL1PrbhtieTUTmD6bzh3TxpEMpAy7p8t1UDhU-dBYvMUXEVZU5KIHcDv8mJ9LTDhnmzk-PtyNelYtl8lhVdM4_08WufaT2RjWMOIkizb4ez6lcVOsSzkhvwGtVq-kmqoXeZGYJHYmHaDyFXU8xm_eKm0k70OqMTyPmJqOO5JCv1T2B0QEIFkshnbrAHV5sZ-dwe5S5VXJGs4735xmz6ifbqngeol9_AXe1Upm1Gh4h0ckevpuXF4zrL2sa4mPKrEBaXzur4k_cB0QJa3PJvjlhx78KUULEY9d1rsnSCtJxYGtsewzoR8ZgzZZtrg1rIEaJZVFbeEXKezEbRV_2W2K_u4XidvW5UW8RLcd5VQ9_AwpnH3ewZ887ycTGYHulJv38K2bxaRPHNqlxH4FweDv_NSNSEjfkAItaH0hT5e9pDw",
+      "width": 4800
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101391398296811227556\">Merryheart</a>"
+      ],
+      "photo_reference": "ATKogpd7311Dz8b-aXDqAYTfbqCp-QQYv42SoFy14OnIKrfD88uzz27u9C7EbHVodN7l4B1QhtTDPa8Kfwh7TenEnm8aoVLTYSnjZ5ytHuSgswacwLNWOf8D2toon5eNPzTnH-Yi2OowCmY3kltiH64SCluD_gNt6k86-jg0gTFKqViJ-mhtG9AQRcleDEJwDRitRntoCVWjZvZtjMGnFMneyQdSA6mjtezwgbHoA9FH_uDpw1vZaCWJZ26pD0S8NE1MAaN5o4loq8wKnHK7BZT9lHYqvgQWSQYDOmU8mFhFGCYUSDOXqJ0DfYSsg7Q2aNRsBkaKX0fNwD84wn67s1eRe7ftiSxsvPLpUu98owynQxjI1E-nkCfpqAVmH6Xq3_29ouHTKH4HBa7pBijsvGeK3yK1asbTW_WOVS2oEfaiCRM",
+      "width": 4800
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100618337780799061773\">Jeffrey Tsai</a>"
+      ],
+      "photo_reference": "ATKogpdmulH0HDW5n_QaQg8NJfL-Ukw59f-I9l7G88R7PcYLNzNJGJLlEsdO6cqUAip0zrXbrYf4hIWKOOA_C5-kxc8Pf_NQughr-4yE70Uk7FdxKfv0DE8YsJC3bgNcxCdMFtv98aw6Em_4TGvE2taEOsdPkwHsB9Oc4fG_mTyXZJE6cy0BXKz_7pZ9_-813XM8X2XfnM98UVeNnSVLIKivG_Lg7lgA5pfuHtHaQ3b1Sn_LVae2UHZyYr3nR08tUG0CiuXAUJox_-C6NR7z0xFmM26G56r8PL4cNbS_blkGkee-6toYqY_IUeZ6HVgcHrzseJV4BqlvxOLZgigV3Zd7oacSsO2CbLdDJhUNXmTNlsAdvZumLwoMf8U2vXCq4cwAlYMw50F0VwJDgvCVIazPwtA3bjcxwXK20KFkUihwBSGbl81CrhkNHHjS_NgoSxMF",
+      "width": 4000
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102859176129970940093\">Andrea Au</a>"
+      ],
+      "photo_reference": "ATKogpeAB1G7_GA8SC8be-IJzvzB7plLl63xoU5FcYGrGufptfVbOTO7k5d49uYy0LtdWRodWLU7wyUC83cgc085efHzsd6Tj4VDWyVM4AcStr83vxGl4svJMSbyLHqGn_B44K28hiWuXRbJvpc6usIh_VmV62-o6EkYXbL_-NCoktr9wvFiYx-Apxp0_KF1U_ikCMkPjecoFq0xfHWzdt_ZiRRom_fFGXH7RNoMTfAVq7yai5ilSPbd3YVeiBJ-1gjVAezEzBARaaz5AHs0cQI078Zxow4Kn0JkZSv9MXb2Pbbh756QhyOigSsCFCVSOX1L4fFO1kUcYsGuSr-GwPsO5vqHNDThlGHYF1JmsqSFluhQZSiPQeVepYLWG_sJbK6ox9FP-BiuVXH8kJGcwZZvtw5G-DwAGpFPtDLyXarv9cjHvA",
+      "width": 3000
+    }
+  ],
+  "place_id": "ChIJC8BYk-RYwokR6opRG65OAUM",
+  "plus_code": {
+    "compound_code": "Q25J+M5 New York, NY, USA",
+    "global_code": "87G8Q25J+M5"
+  },
+  "price_level": 1,
+  "rating": 4.2,
+  "reference": "ChIJC8BYk-RYwokR6opRG65OAUM",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Merryheart",
+      "author_url": "https://www.google.com/maps/contrib/101391398296811227556/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU6wzR5nS5UYAGWowlgBw_zd3qLjbfsFCpRP7xs5j2UvP53kBUgNQ=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 3,
+      "relative_time_description": "3 months ago",
+      "text": "Tucked away in the heart of Manhattan, Kung Fu Steamed Bun Ramen serves up some seriously satisfying Chinese comfort food. Having received Michelin recognition in 2018, expectations were high-and they didn't disappoint!\n/ Little Steamed Buns - The delicate, thin skin held a rich, savory soup that burst out upon the first bite. A must-try for soup dumpling lovers!\nStir-Fried Hand-Cut Noodles with Beef - The wok hei (that amazing smoky stir-fry aroma) was spot on, but the dish leaned a bit salty for my taste. Still, the texture of the hand-cut noodles was excellent.\nShrimp & Pork Dumpling Soup - My personal favorite! The dumplings were generously sized, with tender, juicy filling swimming in a flavourful broth. Pure comfort in a bowl!\n\nSticky Rice Balls in Sweet Rice Soup - A warm, hearty way to end the meal. The chewy rice balls, filled with fragrant black sesame, added the perfect touch of sweetness.\nIf you're craving authentic Chinese flavours with solid execution, this spot is definitely worth a visit. What's your go-to dish when eating Chinese? Let me know in the comments.",
+      "time": 1740982932,
+      "translated": false
+    },
+    {
+      "author_name": "Apollo Gonzales",
+      "author_url": "https://www.google.com/maps/contrib/111023274717011771057/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXC2joyZjO63thwWCM292HyIQXrNN1AdAT6F5ACWQbkqX2FY3M_=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "3 weeks ago",
+      "text": "Very simple but delicious, recommended by a chef friend. Soup dumplings are perfect but take a lot of time to prep. The hand pulled noodles are superb, you need to make sure to specify that you want them, otherwise you get hand cut (which are good but are basic lo mein style noodles). Ramen broth is amazing, but very cilantro heavy so if you don\u2019t like cilantro, avoid it! Service was fine, atmosphere wasn\u2019t anything special. Would totally go back.",
+      "time": 1749256361,
+      "translated": false
+    },
+    {
+      "author_name": "Andrea Au",
+      "author_url": "https://www.google.com/maps/contrib/102859176129970940093/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKC6s_706QnD00Falj7QQG3oL3JEqFOElPStyDh-jtEep1MDg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "4 months ago",
+      "text": "Was craving noodle soup last night while in the area so popped in when I saw that they had beef noodle soup on the menu. It's a super unassuming restaurant, but hands down, one of my favorite beef noodle soups in the city (and I've had a lot)!\n\nQuick service, very few diners but as expected for a holiday monday evening.",
+      "time": 1739906936,
+      "translated": false
+    },
+    {
+      "author_name": "Isabella Grandic",
+      "author_url": "https://www.google.com/maps/contrib/113254269368100587039/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfM4WFzncCUNgqi2gQAdP-30tGf4x3B_1ZD86hmGVN9vTxVEPCmw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "4 months ago",
+      "text": "[UBER EATS ORDER]\n- Dumplings were alright, very doughy. Wish there was a bit more umph to them. The sauce was literally vinegar and soya, did not feel super inventive\n- the assorted family pack of dumplings were better than the plain pork ones (those were less exciting)\n- scallion pancake was dry / oily, maybe that\u2019s how it\u2019s meant to be\n- The boba had very very very hard tapioca. I was not a huge fan\n\nThey may be better in person. 12 dumplings, boba, scallion pancakes were ~$45-55 which felt high for me (granted some uber fees)",
+      "time": 1738295528,
+      "translated": false
+    },
+    {
+      "author_name": "Fara Yan",
+      "author_url": "https://www.google.com/maps/contrib/102926141774706631703/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWHIbLZXnTMzSkVBJGbJYIXUHh8E9n7wEOo-uOVrx4h0AY9rTPIVw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "a warm and comforting meal :) felt like a hug!\n\ni got the wonton soup which felt light and had generous filling. the soup tastes clean and delicious with seaweed, cilantro, bokchoy.\n\nthe vegetable steamed buns are fluffy and great too.",
+      "time": 1748911291,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_brunch": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "restaurant",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=4828226785207487210",
+  "user_ratings_total": 741,
+  "utc_offset": -240,
+  "vicinity": "146 E 55th St, New York",
+  "website": "https://kungfutogo.com/",
+  "wheelchair_accessible_entrance": true
+}

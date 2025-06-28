@@ -1,0 +1,448 @@
+{
+  "address_components": [
+    {
+      "long_name": "66",
+      "short_name": "66",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "West 39th Street",
+      "short_name": "W 39th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10018",
+      "short_name": "10018",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">66 W 39th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10018</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Classic Sichuan noodle, rice & vegetable dishes, some with a modern twist, in streamlined surrounds."
+  },
+  "formatted_address": "66 W 39th St, New York, NY 10018, USA",
+  "formatted_phone_number": "(646) 490-5444",
+  "geometry": {
+    "location": {
+      "lat": 40.7526861,
+      "lng": -73.9851157
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.75407013029151,
+        "lng": -73.98374026970849
+      },
+      "southwest": {
+        "lat": 40.75137216970851,
+        "lng": -73.9864382302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 646-490-5444",
+  "name": "Peppercorn Station \u9752\u82b1\u6912 \u7ebd\u7ea6",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2130"
+        },
+        "open": {
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2130"
+        },
+        "open": {
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2130"
+        },
+        "open": {
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2130"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2130"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2130"
+        },
+        "open": {
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117579868064257849406\">Peppercorn Station</a>"
+      ],
+      "photo_reference": "ATKogpfkDg3T0Av6-Quqw5DiESC18OlIdOSzSXVETIaZ-qmIHoQ9TcIZyAP5XAQW1Fhb3tZh6QfuRTT9AD9SyMpb8iZJYDtHucQJmYiDYWC0yqDo-UPrY_svZB46AwU21YUSnjIv3Puu7e7Xc2YcgPlseffLJGVy_58l43AAmS9u6emqpT0V-XDBjhguHDn24BvA8r31-_CjWbArlZGIf5fx38YtFZHZEMkKnQySGqfR2TLEdURIFZDpOA_vPLXg9apwllh4FLTJr1xa8A5GFx0gxvV9nVkm7tskuC7mR7Ju6zRr8Q",
+      "width": 3024
+    },
+    {
+      "height": 2359,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117579868064257849406\">Peppercorn Station</a>"
+      ],
+      "photo_reference": "ATKogpdDXi35wS3qslS5DrJ5B3SEEs_7lOVpFNeeUAAwmJQ9BdoUZ-AeDHvtr-_6eOnEeU3qfcAMkVWiC_qY6AJi-tJeB8NNvgUSa9wI-kOKPYmYr9n2P2ets49d3GaYNZAvJKHo9hITXQfuyWG5LWFRHEP6akwi0HHoTzFDjo1UKXZzKbptCYnfgc2t5QHde23qM8p7JqtbyjNQBXM0PjzEu-VrCV3WitTpBefcCf2R_9g_bA4uQEE4EAHrzO6_QuXjESkCRSAkPDMoYrcuiRbZ7hw7IJyWyuYQZTv9KFUfBhPDoQ",
+      "width": 4192
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114766118025775824893\">Serena (Jungley2k)</a>"
+      ],
+      "photo_reference": "ATKogpcKUwELpCKKkrDCbQQurWTWvfwuMJy73gd0h4ZPDYd-fBP4-WLV2TtUnpCdnRkTSB0_4GyTzOsNQW4BA0hSgq_DxbZagxF75Ox841otJO6U0NEscOF8hC-4wgbpQFhOn03GoOB5Vd7kkeAXoXYAwlNFjyqlb8T3JjBGCWOF79cmocqW75cP1e66EZGFyKOyYnnETOMFnnPjQ4fU3kmIHqF9jUKNtufXReowcbLGZxBGqzRiahJ36MgaeL_QMG3ERRWfw0lxbzM1ebfzqixLV9kra0PYAiPmGpofE_7JS--2vtGKGt2c1LBroh2AXKaLf9rpBYUYl19jipBH2sGmkNI4iZE6vWWY3G6BTu7wxOWiZSwj53jK_39l-nllRvA4KtJF9_kT8s7znQk1SB3eKK1mQMQdiXvDcnTI5iItpRVOpoYlA7KzektjHXnl4ss4",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118129559408373781633\">Nicole Kim</a>"
+      ],
+      "photo_reference": "ATKogpeJWATgUtQ0fF3hftMc5azKz-iJQ46fL4fnYHYQpW00D1GIXoD1xIkXAV06vui3uwngvlT3-Q_CM5OrABPWcs34AYqAhMHtR1KilXrB6nXHdDka46380UBl4Q4YRKuFtUTfwxAdnU1b_W7IfeS-Q5QgQtLnv9NtqNYEN0yv-zW83ylhAmYqsgiN7zrNZp0AsWrXVg6jh7nKRRko0ZEHOT_ocfJY7BvoE_fU3WOz1GBh4lYuKkced4oR2-9oHcQ_XmYkrIXfKNJh63IkFFex5KyXiApW649CdMGzLUbP9_II_LUhzPD6jd_h8TSGjUWNq7IyCJOBmf9n-UuINP5cmw5zvb5Jo1ukQ2u27bGdg29f4aE28KSpKHfXtlXlaPvWdqg73TysQQvwPv1a837mgmDoRKOBpa08i-QWVdB0V5g",
+      "width": 3600
+    },
+    {
+      "height": 1000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108879964627171547492\">Joanna Vasquez</a>"
+      ],
+      "photo_reference": "ATKogpcVYUF5UMzKg8KlBXn74IS72DUWsQVSrJpbuo8_YBmKkaKc_EmM_HDKMz-eqZ5pdoiDPYOISzljzBClOXWyWYMsQH8uvye_FKGJyYPKd4F9jhcMJg9dlDt3qRCFjjjlPajBdXkdaNhRdd2w8XLIu8-sC_pDFobhudVPHS-F8ZrOSlT2VCtAbFCWd_n20toWSB6yE1_MNtKwJ_XosgAeitVmErczbES-p92zdFPRS0RayztosE_vp0CdXC6ykqlbR2nrsEubzWH_Ptt4XHU7vMGZIMT-ryWRMBSf6zRuhKwCKigISW0XL3q_HcBKalM5qNdq-04Bp7cOR8HVdRh2rpW0fWBd3qp0j36fMSG0j6FT-d4TPqyVvE0VlFbgtQLNavFDkZacgrdkPqNITKwHk__iZULPcqKXY35y4miQzOo",
+      "width": 750
+    },
+    {
+      "height": 640,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117579868064257849406\">Peppercorn Station</a>"
+      ],
+      "photo_reference": "ATKogpcIZ5CjXBkvTSzxByKymwsmaAGztv8k8Ct6dl7zWb8QUU3RIJJQjJDwE1tv2L3zN76QmElelvNymkJg0Hp72p2xUzYFirSawbn0LZhXNbqg2s4ySKIx3JnYbrwL6JMtECqIXAB9_J9FnvblBTUGRCp9L_dXAr2BMQ3r2mzX5T0icjyrSuJ63PsSIPonqm7A8SamEzKxGCqtJ_6T52IOzxCy3jTvLdRMGYfMKENckpsET7DkZ0xIPKGqc3cFhnszZj3oR35HlTU5dz_iK5YqvDIwEw5JL3ACiLmdRD4daCA2aA",
+      "width": 960
+    },
+    {
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105886249995844039245\">lee songme</a>"
+      ],
+      "photo_reference": "ATKogpd2VcvZft8JXq7GVJjH-wqtaODzzNvA1qYQAvYdT8XReiSHMo3GPPJsdEhoCAj6inYNg2kQIf-wlQ6AjjCCLG6Ys8ZvNNAyVGui-Rm6XGtwt7KnI8jfUqYAskvI89ELpnkeljR3JCB_nq6hxIg7xwSs61r-OOFcTupcWAaMucvkn3h7IqlNGwzeoZ45GFxBC1vhK_KKlcBhS7_CZ37uhRr_NFI6xJ9mrXYDTad85NLrg2Jpn-KOSrSBnTyfosRhbHyt1kTF1JZvtKzQ8SrSclMizKeqpZZkCjsPjIa-3ApwGGjnVpKqYz1W-q_wD10Gu_muOjhIpwtMQtpVb1AiFYiJuWLkxG9HAm9hu9wdMeqeD1fVQXYU2oDk9C-ApeMwi_32fypHqO91_5r6W3HnQ2Hyy_gSnfk5a1n2H0GOWoX8FKNb",
+      "width": 4000
+    },
+    {
+      "height": 3840,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117579868064257849406\">Peppercorn Station</a>"
+      ],
+      "photo_reference": "ATKogpebjBzqeLdlqqzT6fjIPK7gBsWvlgVN7PyBTnT8d1_ABV3ecgXg-AXuZMIgG72TABfN9y2nMut784VzeSjwby3MXeW1DoTdlSm-jCh8wjLk3XOQdBsrs2xQCcfaEs2R5tyDqwBH97x19iLGlLZQH1Yp1WLIgjnBG_WUhxClFwgFK24VVGytkxXx78faKGPwzO4r1x6goOMpO9qjnsrCKMoc-aNKaCLNytJ-6x5VwCszN4ihN9Mf3lnT4iaPzKO2gZoCjrC3gbzIxMrjhstu096emp5rHeBbnIFipaymsR6X8w",
+      "width": 4800
+    },
+    {
+      "height": 3446,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117355437336170460626\">Amos Nachum</a>"
+      ],
+      "photo_reference": "ATKogpe2LJ75k-u1XQDOqTQ8zEiJ1LP_Pl7XpstQleadfIgaWwQ5yGONLWcjYjnMS-AbID8RGhPnIMyczc4wIW_sDIbRLbFkEh1mqHd2bEwS2fL-E0OT6y08dz-xH5Zq92OxVqNeobZZ-ekTP-W0fo_dmMxQ3WfMQ3rIBvJPrQxdRvt9BvYOJMIhjTTNAct-sONzNCIoYIj0SFkcAlRfQdtPvb1PwBMXRwVWYLuplCLn4B9bpTJhQp-Y_wYCpk7ywVLIzP-10HgD88L34AWCJABd13rhyGSjseAAA6QQ81IIKOPtLSCnaACijOjmOnjTXfBxg3uwSXCrMRzmCf-TedTaMBGXWAbS7RVyY9iKOPSB3sLZP04F3M5FKltWKG6Df_nht42v9P6S1JGnZ9ybPXcqN81yXrd8SvG3NV32dcxeqtufvA",
+      "width": 2757
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109741245329619037728\">Max Pietsch (Max)</a>"
+      ],
+      "photo_reference": "ATKogpe4pKw0agQm72fKLxQrsn2PSE5kh-ditAZ_f-_Sggv4ti_P8eUJZq0UV74zaO3gJpQrVqp6vrn7TcKjbAGQMD-X7AVv4mP46nWqVNW5iX2JWwPd3Yqiy0lpGsbV57qSyReZ_pKvNrhehJUtVabDceD8vjhErBclbL0pL6rCgkljwetjQ-dczP6AF7nOYc44BRHbT8kbKVmvithH_py0K9Vhed7LbQ-xNVobI-WrDmIQhL1N83HBQgVZd6OL6A6oIE6YdwWmDt1QTf-fe2OconQggeYaQB5P8bQN5VD6W4gHBpOWJyMcsklclCFl7xP3x2ss9COR4kpu-4ikqDwg38FqdQtqc8vWXJCFHXwx7zVvQHo4Cs-lHpwKEcj9Ln9U1ulsRvdoEPPFeYYHpyI2c7xV9TYkJEEpk1ManhrJpr8eV7A",
+      "width": 4080
+    }
+  ],
+  "place_id": "ChIJ5ckmp3JZwokRYISySgjWO7k",
+  "plus_code": {
+    "compound_code": "Q237+3X New York, NY, USA",
+    "global_code": "87G8Q237+3X"
+  },
+  "price_level": 2,
+  "rating": 4.2,
+  "reference": "ChIJ5ckmp3JZwokRYISySgjWO7k",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Joanna Vasquez",
+      "author_url": "https://www.google.com/maps/contrib/108879964627171547492/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXC5zHFSLtSqMipbzbAr2C6g9zBC7JWx6ESQN70SDJYLy3cIXw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "We were strolling down the street and actually looking at the menu for another Chinese restaurant across the street from this location. A local came up to us and said we should really try Peppercorn Station instead. Boy, am I glad we listened. We came in early afternoon on Memorial Day and were the first ones in the restaurant. Having the place to ourselves was wonderful because we were able to take our time with the menu. We noticed the lunch menu and decided to order from there as it was a good deal since it offers the meal and a soda can. My friend and I both ordered the fried noodles and it knocked both our socks off. So flavorful! Truly one of the better Chinese meals I've had in a long time. I wish I could take this restaurant back with me to Miami. Another great standout of this place is how sparkling clean it was.",
+      "time": 1749421607,
+      "translated": false
+    },
+    {
+      "author_name": "lee songme",
+      "author_url": "https://www.google.com/maps/contrib/105886249995844039245/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW9qq4IpDoyZeI1GJQ37xCg4fN28b6nyust0aWSTSHUBtSwGsLl=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "3 months ago",
+      "text": "I loved the okra the most. The rest was okay.\n\nHowever, the rice was horrible, dry, and hard.\n\nKungpao chicken was disappointing.  I really missed the real Sichuan style one.\n\nIt could have been better if they provided some small bowl of soup for the Lunch special.",
+      "time": 1741264321,
+      "translated": false
+    },
+    {
+      "author_name": "Antonio Rybalch",
+      "author_url": "https://www.google.com/maps/contrib/100997947751460791308/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXkjK7IdaLOxPof-1mJJ8lzeJpj7iZ81TlDlNt59PN_ZdrSd3y_=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Michelin recommended place with unique and delicious \ud83e\udd24 dishes. Was really amazed by ingredients combinations with the unexpected flavours. Definitely will visit this place more times in the future\n\nRecommendations\n\nFish Fillet with Pickled Cabbage \ud83e\udd6c",
+      "time": 1742582083,
+      "translated": false
+    },
+    {
+      "author_name": "Billy Xia",
+      "author_url": "https://www.google.com/maps/contrib/107608950231486378197/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDC3nP3eB6sOD-qdj9JnYRcIjXDfdESvZNwePO7p47OjD_Yyw3=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "Good enough Szechuan restaurant. Flavorful enough but nothing really stood out. The Dan Dan noodles weirdly had a lot of vinegar in it and the beef in the beef bowl was too fatty.\n\nOverall still a solid option. No need to book on a week day for dinner.",
+      "time": 1743130774,
+      "translated": false
+    },
+    {
+      "author_name": "Amos Nachum",
+      "author_url": "https://www.google.com/maps/contrib/117355437336170460626/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK3AvdVCzYFoBwZwjCyPrIcXlbfpJZ62NmBq3Q5dN3Kr-GhwQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "I got the spicy braised beef noodle soup. I love spicy \ud83c\udf36\ufe0f food and it was real spicy and rich. The beef was tender, the noodles and the bok Choy was perfect. The service was ok, not friendly but efficient. There is no atmosphere at all , it was Sunday early evening, few tables , no music and too quiet.",
+      "time": 1748337829,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "establishment",
+    "food",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=13347497251743892576",
+  "user_ratings_total": 399,
+  "utc_offset": -240,
+  "vicinity": "66 W 39th St, New York",
+  "website": "http://www.peppercornstation.com/",
+  "wheelchair_accessible_entrance": true
+}

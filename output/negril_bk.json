@@ -1,0 +1,272 @@
+{
+  "address_components": [
+    {
+      "long_name": "256",
+      "short_name": "256",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "5th Avenue",
+      "short_name": "5th Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Park Slope",
+      "short_name": "Park Slope",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11215",
+      "short_name": "11215",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">256 5th Ave</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11215</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "CLOSED_PERMANENTLY",
+  "curbside_pickup": true,
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Updated Caribbean cooking & signature cocktails are served in a stylish, island-inspired setting."
+  },
+  "formatted_address": "256 5th Ave, Brooklyn, NY 11215, USA",
+  "formatted_phone_number": "(347) 721-3801",
+  "geometry": {
+    "location": {
+      "lat": 40.6750768,
+      "lng": -73.9816857
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.6763594302915,
+        "lng": -73.9802430197085
+      },
+      "southwest": {
+        "lat": 40.6736614697085,
+        "lng": -73.9829409802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 347-721-3801",
+  "name": "Negril BK",
+  "permanently_closed": true,
+  "photos": [
+    {
+      "height": 3839,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105601992699102170460\">Nic Garcia</a>"
+      ],
+      "photo_reference": "ATKogpc9-1pPy0103K1_CCVqPzG9FiPRSHZ1U9MmHGgYWMiQrm0ExPtaG-BCW2HwcsS9v9vmKuQGI44Y2M1Xb6hyjmfUL_5iPZsQIcW7RMoJ5FDqYa2TxHqWnTGm3x92vHzAFWfxICjGapdd-CiSsAbCSOideYaraEJTz5-7CD39yltyfXA4ZPut10XYJLPYvkTd_N8kYwVcno3fIdwWjEz6vgxVHj9-FFhKK1gNXMlD0DRq63MyrAeoa-30bx2jMArp4Khlrex5nQh974kx-UhYAjTj62SuPDZUFaY-W0fghXv-nOKo993Nqb5dUgNHuYfnFOIpNLdMR8_4yEBYAV9kA2mCE3SlQznBw85SzITCbaz0LtHZ6Ua2GtlajM5UAqmVaOiL_WT4acb4vU_8B2azk_uEm0TJhs43ETqs_ecvP2e7yUa3",
+      "width": 4800
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117581931628738692844\">Daneille Grant</a>"
+      ],
+      "photo_reference": "ATKogpdIcFzPCsUPdgdSa645w1mU5Tyd8DyHZhhRg_qt7pKJ-eFov7fa-slCCl8_rDBL4jSTnnx8-7K7Qn2ej9BE0HoX8ARFe3VmgYL2mO3PiCcrwHXfPi3-huE4d35Um8tJIbFOKCJ9aLA3BZDCym9lsy3hai6Hpzsl2PUHtn75cJTEAC3o_9tXYpG2b923S90N5trYwVlwMXouplOJpUbUgvylbjJHpAxMI3C2sOVL5ZEgxU7P0Cw_fYSbbfeWpS2yRHFFd1sKOkWQQ3YZeER-pTvEZ2fZP8qQceckObU-gwvbDVF12u6ZBKat2ovVqrbIR3kmWbUWG-TZ5qcQK65vS7W3baF0ziza1PrlZ8HbcDGoQesgj4FfwnwB0OkpnKDpJNHqBVO-wiUL8z7e_HYh6VV7XDXeziAsyR3aIzUaPVM",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102085283676066207301\">Daryl Jasopersad</a>"
+      ],
+      "photo_reference": "ATKogpdgVh8BHBkTPgDKVM7NPysoj7ihs02cltWJ5768Qv4zg39PoAFies_QLmlJwYwwyETz9zLQGD_Dh7gNrY1capK1E7_35y78gvI6wc_r8OzI01neKbrMixKhlP51sgGNgWT_hGUbnGoF3PwFWb8eOBQS-NsA2eI-0rEb_FbgJ1PDqT1--FUMb1hdkVU68ZeVFkxVQ91sSwExziFST55V5ycdXFm0kfy1ngefN1HDm9oZZ0Mk-uEEOsd3O-StV4xtJqBlAJgnaO2f0i6fYOxBNcNSdfjjaUdDfcPgL9_nAZcl7iPBLrHGtaLPEvb9jMfoHjU2s8qG_ZJ-NTxGwamS5jlmBidu0_LCOlCdyGT-ivmPm_DPkbiXI1J6UuTlIUIfJLK6xhmgCX6g4X5l5wQIafqIeqjWzpA1nLJjzZXE8nBVypp9",
+      "width": 4032
+    },
+    {
+      "height": 2466,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102205946476100803650\">Keisha Edwards</a>"
+      ],
+      "photo_reference": "ATKogpcBqjdKWPUurL4OBAkwBxbhL2WNQD5wbuFOnlz5-nbEv4g8_iA0FHddZQxfam6b6OmEI4hyLA4EDYXM1VWWMtSMjboL0gxQOrZbsI_A1p1FLm8EZDnf2nhMTjkG6sogaP5teFY6efwBY8B36vy6vMrn2uCVnsRUeQqfGLOyEuDM60f7GOEHoztfCVLsKVQGbLJSw_6OCNkLvlOcBMJ4DDS-kwaQls_YKCyiBmXpn-_2JnUGXbnjV5leq1-Q8qSE9ds9N2x3U0AxYQwStDVJPA5HzxnJo_Lw4kTj3zpdpmL4eP9JduiHvvTsZJy7dQGVoQRUxTdjykiKJiE6-HGqpWPHsH4pH_-crZamYNUbfNzB6zdo6c4NI9Dfj5OqENN3PALcRUV4NkCh2KmkffqVfAejgpYlHhu2sRsW8E_Qzu4TkGpH",
+      "width": 2992
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110506822044626348632\">S. RIBEIRO</a>"
+      ],
+      "photo_reference": "ATKogpePctThQgxr4HOru-lSf-JBRkNbsINbKI9YErwjCjiiQ2hm0CW08yoJul5ZGhVncnqwYC9MueG5IwZuUunMIDdYzZH02wAKsGhiVEtBO0pxL4YpJEfBV9FKPzPzskyEZlQ3MpiLyMyf4qfhbeXjdf-nVIFhm4fNHeVPECM2OdyyK1Xexc8BB6ihQMjrelyHk5f3vk0EOVTQIJvDSOWyxKlhoneY0ppHJBnOhJVynJ7RQvxttc5PAJDKUW9ePQO0L_HPIUjolK1h18qvSMG7G6TOJZ25lM6k1BzZlm0MRm4rLcpVlzfgmS7yPWZnNxaKMqBHu2pRrsveG1KTz7Jc0j5IrdZDLM7WVNaTPWadDXn7KFZR6llaBCxpzyEX50ViBAyYwRca7OT1Fk2uNSA-Q-DpLsVGly0FUJF_APyjqTfiqVwj",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106107047113098730185\">Cynthia Molina</a>"
+      ],
+      "photo_reference": "ATKogpcPQEudDdiEM-l9POrMK4WSCppvWJjSmzcTb9y53lAoQ3ifro9op3jC2o6hfBO7eC3PFXeG4ZZWWqb8_o5vTRaZTJ_iOTzRw0n6vzSUt7tEuc7CaLkC34IlNviHUcCX1ZGvMxH32CKEUh6eRu608U9Gw9KncVWsiB2rY0ZaUKPkH_nXBm0bnaFDwxtGAb7KI32diu68pmY_NAuxl04P2PyYmI06p7CyS5oIcKZy7Br-uypqCA5Fqt-kJ1c-VMbCzfm4vYoeCdd3griz3aktcWMrMwafGvlIJWYPFHu6BC_V6tmOLh1j59UAEIMf2hDmTRUk9H10fLMY-iQQyy01yV3HwO7LpUie6hJ-N9az_SYDd6dGcthbrHgFNu70g1LTtDDyq1VU_XwkqNsWDImVBWdPGx3HJE1868PXdtS1VgA",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116789934456589075494\">TT Daw</a>"
+      ],
+      "photo_reference": "ATKogpdyfVEGSa2EYMsFVjatGYA1M-Hfeb6y18tpJ1HLt10_tGhiX8jAubige83kr3qg9G9YTnfPU3GIL77Ac8uklQwgSbHaA8nrciu3XRWhExgMpsLJJi-2aNH9nRAiXffXN46TK6s_zw7ZSCwU7FkAqoJvPSsFCnWO_O_QCbnrmX5rQnw8M3mOl2yz7ehsn2bCEVV-TJgFOiAMBLDl1ObPvwGlO8ESZ68ADr6AKkK3iwSo0YnFjNiy7VfMUi9eEsYQ4Wz4QwSX3Yaf2JTfqmE53ASheODi_qjU-Dj1GtNdzYwzS8sPL1xoHkYmLli5fHGk3BVPiQ9_zErsC1h9XzFy80MGDxN-fnG3Ndd15QBlLwlsJ7q6gsk7KUh8tz9LFYT4-ERYeP-YgpsQ32mKIBC3q18BciUXOasXB_bxUyYYG3XnaZs",
+      "width": 3024
+    },
+    {
+      "height": 963,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112491810734951827055\">Lynn</a>"
+      ],
+      "photo_reference": "ATKogpdIk2kgqdCAJxj1y9qw-kNaFhMaE6G2NADbihjoYyJbrz3paendH7V7P_sU8w1sf0O1CMIE2-uxjketl8salAYGiMua8viLyZxmR7eB6mE8eG8MKmLAsYCyo9D63i4GWycVWoMqixbtBUVH4cbNXbChGBcwV8H_Tc6KP1M02SbDP0VPJaB_laT1DKH2ikHSP3cvbVpMOSJzeAKS9zyxFiXqAqddSjERt1zCVs16IyCZHEoozDBqceXCaWA3ldzNRqjh-ljeEHWFTm0zIXlZCyIuVj8YpN0bIfNbv71HlKPvHnMQmrFgi68Jcs2mjBkJnZ9B2bPJW05sQYl-2vuqz2l2c5ibLs9S8dl-cpP-uaNKCO14if3881W5rEDNf5H9IrQqaURD1m_NzVk1Djn3C15xVTUIFTb50Ei9CwAm8eZD_Q",
+      "width": 1284
+    },
+    {
+      "height": 938,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110506822044626348632\">S. RIBEIRO</a>"
+      ],
+      "photo_reference": "ATKogpd-JWVLlW1QwdKKPfueF9zwixKgfWsxQUWWXqdA8KD97fp8tmpz4moqQv3v80hnCSOd043ABFIVf23eRdTPQ_aJV6gUEEKAxZ5ru4iuTHESKGkp-uD1BU2hhwOZ9lV7dNUg-w3cUXEJVyQSbcOS_DiCXTWiZm2CU7DpBXS7FwM--wg5aUcSlsPxT792YFOmPCOstQP51F1Ek-wCBazc0nVGlC-Bbfgd4RYaK05lrw_Rbm67Jc6wZo2TqapGiSeHeyaTUhyJ18YKocYIvvT5H-qn_-Txrfz5pE0wrOxYiOmWugkNmWB9ZPyHSWcj4hIqaIeuqi7I0WXOo2DdHl6j3V9CLI9mOv1500BeyTx34pYhsAf3bO5hcRErY8GOWM5f63hfxnNvIW6-QLfv3EaEFAoPHVnywkyZuLzno3YBfBPBxFfY",
+      "width": 1024
+    },
+    {
+      "height": 1024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110506822044626348632\">S. RIBEIRO</a>"
+      ],
+      "photo_reference": "ATKogpek13-9rorJ6qZOXUUpUhDvTCM0pJpVE6mtcTy5rlv7PQgixEWb5CoO9uxYtcPZAKORmUSzhVwiZuoDMsQwoK2_U2t3xs51pITWLL9GzsVxJGdNMVCT6HGmEL1tABMhfS1tyalVnBpiCATQ0WlSZ48PnfGAa9MzNSKdVnO56FpJWG0ExkePa6byi5t4G638igGCDl1Gt3SHLFRLI_ZnJrSlBWXPj_YMVmPKUz6nBsQkHf43_CIzep5j5FfBjOINRteZqM6pFPWWvs0UrOk-uNdGoNwIHe6x11J_bG02wkpgezvdXvrw2BAmuk9_cOmJ3TsJwfY4wg3rpB20j8HplCizGIBqaGFmpvC22gAsfgysE5gTNe1jpg3LjXC7YTA-rJ2OThxJ31ixCZWm0rdExSJgF-m0yd0xy1QgOXPA55XP3Q",
+      "width": 795
+    }
+  ],
+  "place_id": "ChIJD4gbEwBbwokRMwnySIeREvQ",
+  "plus_code": {
+    "compound_code": "M2G9+28 Brooklyn, NY, USA",
+    "global_code": "87G8M2G9+28"
+  },
+  "price_level": 2,
+  "rating": 4.4,
+  "reference": "ChIJD4gbEwBbwokRMwnySIeREvQ",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Marsha",
+      "author_url": "https://www.google.com/maps/contrib/101094665496870298031/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzL98m9H9EW1Daj5RZXIJPkJw2TvQ3IB_xpkU9fyBkXzyZDWHo=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "They did everything right with this restaurant.\n\nCame here right before a Barclay Center show on a Friday night around 6:15pm. I was pleased with my overall dining experience. The restaurant is in a cute neighborhood and i thought it would be small on the inside but it\u2019s pretty spacious. Lots of space to dine on the floor and a large bar area. I waited for my party at the bar with a soursop rum punch. It was AMAZING! The food exceeded my expectations. I got \u201cd roundabout\u201d that had a sampler of oxtail, curry goat and jerk chicken, everything was well seasoned and delicious.\n\nI will definitely return.",
+      "time": 1737887638,
+      "translated": false
+    },
+    {
+      "author_name": "Cynthia Molina",
+      "author_url": "https://www.google.com/maps/contrib/106107047113098730185/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUwS0k5s9FP3C6Q-qiUwwBXxdzDutQt7TJ09It1kXToOrAdaG1O=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "We got the roundabout which was more than perfect for two people even three maybe. There wasn\u2019t one thing on there that I didn\u2019t like, it was bomb! The atmosphere was great live DJ which is nice to have on a weekend dinner night. Baby I\u2019ll be back here again and again and again!",
+      "time": 1738386654,
+      "translated": false
+    },
+    {
+      "author_name": "Viviana Cleavland",
+      "author_url": "https://www.google.com/maps/contrib/109421037894214626643/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJBLIBXa0fhHLqVkE90QaPr8Rk7sIClNWz0vbucLdL_w3A1Qw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "Calm and great setting for wine and dine vibes.  Authentic Caribbean fine dining that\u2019s worth every penny \ud83d\udc4d\ud83c\udffc.\n\nHappy hour is definitely worth it including food for most dietary needs ( vegan, \ud83e\udd57 vegetarian, pescatarian \ud83c\udf64 & the usual diet) and drinks \ud83c\udf79.\n\nI can\u2019t wait to go back and see the live band perform along with karaoke on certain nights. Be sure to inquire at the door before being seated if interested in that type of event.",
+      "time": 1733358179,
+      "translated": false
+    },
+    {
+      "author_name": "Lynn",
+      "author_url": "https://www.google.com/maps/contrib/112491810734951827055/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUiU9CSpmEy44ViLgzOI_AokFNCKaatb_sjadi2BykylFSVEaTN=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "The food was good, great vibes and drinks with great customer service. Price was reasonable (250 for 2 roundabouts, a side of mac a cocktail, fruit punch and two apps and $40 ish tip) but the food didn't taste as good the next day so definitely get what you think you can stomach in one sitting. I would go back tho and definitely recommend trying at least once.",
+      "time": 1727461490,
+      "translated": false
+    },
+    {
+      "author_name": "S. RIBEIRO",
+      "author_url": "https://www.google.com/maps/contrib/110506822044626348632/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWk0Anj_2Jj2GM8mZgvccuERMefUqRNnKKsEVM8JoWEfYx3tw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "Negril BK was not the plan for this particular Saturday night dinner. However, sometimes life requires you be flexible and adapt, allowing the plans to blowup and fall where they will.\n\nJust so happens that ours fell @ the doorstep of Negril BK w/o a reservation and it was the best mishap that anyone could\u2019ve asked for.\n\nThe restaurant itself is a vibe. I\u2019m not talking about this new era grass wall, photo op, overpriced brunch setup that TikTok tries to convince you is a must. Negril BK is actually truly a vibe\u2026 IYKYK!\n\nWe were promptly seated and tried our best not to allow the amazing tunes force us to our feet. Our lovely server Tanzania was gracious, attentive, quick and lowkey intuitive at times.\n\nThe drinks of the night were the Buffalo Solider and Frozen Rum Punch. Both were good but I\u2019m gonna say for me my Buffalo Solider was the front runner.\n\nWe started with Island Steam Mussels and Guava Jerk wings. Both were good and didn\u2019t stand a chance. My only complaint is that they are doing their customers a true disservice by serving the mussels with only 1piece of toast because the scotch bonnet tomato coconut broth should never be left behind.\n\nFor our main entr\u00e9es we ordered Escovitch Red Snapper w/ pumpkin rice, Tropical Seafood Stew, and SD Lobster Mac & Cheese. Everything was wonderful and I was pleasantly surprised at how much I really enjoyed the lobster mac & cheese. Mainly because I have. often been disappointed with it other places, but that was not the case here.\n\nWe throughly enjoyed all aspects of this dining  experience. From the welcome without reservations, to the prompt seating, wonderful service and of course the food and the music was the culmination a of a wonderful night that technically was not ment to be.\n\nJust A Note:\n\nIn the end All will work itself out\u2026 and as result we will be putting Negril BK in rotation.",
+      "time": 1732486489,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": false,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "establishment",
+    "restaurant",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=17587279505065642291",
+  "user_ratings_total": 2066,
+  "utc_offset": -240,
+  "vicinity": "256 5th Ave, Brooklyn",
+  "website": "https://www.negrilbk.com/",
+  "wheelchair_accessible_entrance": true
+}

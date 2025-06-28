@@ -1,0 +1,450 @@
+{
+  "address_components": [
+    {
+      "long_name": "44-64",
+      "short_name": "44-64",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "11th Street",
+      "short_name": "11th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Long Island City",
+      "short_name": "LIC",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11101",
+      "short_name": "11101",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">44-64 11th St</span>, <span class=\"locality\">Long Island City</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11101</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Intimate eatery featuring homemade Italian pastas & Argentine dishes in casual surrounds."
+  },
+  "formatted_address": "44-64 11th St, Long Island City, NY 11101, USA",
+  "formatted_phone_number": "(718) 440-9914",
+  "geometry": {
+    "location": {
+      "lat": 40.7482743,
+      "lng": -73.94993319999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7496069302915,
+        "lng": -73.94850316970849
+      },
+      "southwest": {
+        "lat": 40.7469089697085,
+        "lng": -73.9512011302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-440-9914",
+  "name": "Go Nonna",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 768,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117455970465384609812\">Go Nonna</a>"
+      ],
+      "photo_reference": "ATKogpcrffgil-bjbJgdr2SE18Lyu3f6m-DSXNs6LpflPvY9BJUKSSXyCRg5pNnXOVXv3uG8YtE7jxK2bicGRSoDqS9abCAEkpf8YkhRNW7cNg62PgDBS7nuN8AJUUqlOSu9M2_15r7LIzc-WvIu5JkkEZC4k8h1zzuLZmlnVwZaD24t6InMPi9Js8rgT81LRAQBA2z-FFQNUgeCCx3CGlHeCaFWkxHs-NqqNggoCDdZXkrVfLHQ4WTCn87J-OHg1tsFNZt_ziuK_81npdoKF1p0O2O6SE1zfNBJSMHjdbNvSpuE5w",
+      "width": 1024
+    },
+    {
+      "height": 2447,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117455970465384609812\">Go Nonna</a>"
+      ],
+      "photo_reference": "ATKogpcn0_uoFor4sNMIPQWEO8ZnCsSheWlvlz1xWYXVAiKWxYpTdYY4ItkoYJxBUolaK4g0w4wI41yHSCGXXL9Cp3CAuOvB5aHV-0G-QIvl4RSRuBgZfxImvWwr_hmfjq42sz-su1UZVcAuTwQvyYfm-yeRlb_KdPLUJVbY7G1dFOv_FAR4PMGcm1D11XHHGoqWdwd0Y-09gRAgoq2Whrs1Ts1TftpU0mmMi5lGlU-ZSkSYb7_4QAHvxB4ZfGrtFuT0eY6jlz6PSLzMgnMohK0dpAOlgReiQ0vCt8w_A9U9Xr45fQ",
+      "width": 2447
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104621721160763235082\">Christina W.</a>"
+      ],
+      "photo_reference": "ATKogpfK15I3ebe0b9L89QNbP-2YR9-mPsnZwtBXVXcCz4pBSSEJGw6ZFlmWtB64UPqNsswsiEYHv_J3gaSIGzImh897cLLzpLKea8BSkIKRsLvKpVE-rA7CG39_4iUJzC2b5lNKoASKIf_6rsw0tDXEt5T-md9PQy1kqlFGRogOH5wFMdA3m4hn1yRxYMXaxNa6V41v73Q4zKskf2GuWjVrTQq5BsxfVTGRGhNqNamTgz1n37ZRi78d5fBXj59MTEmFzIv10hbHC6HMvb91UJmlXXE8vvD1_O96uPb4QybHuflWrB_BWMouUZ9miVxYHFvhZBH9YM1YtGKZW7pAyinTdRCxp0M8S5nKGpgc59LLr1mTUixgEWRVO3wqvN_ZYyoxrrM6WhxkSfWeNGd5V8oc13XqZ198Yj2iZESO2OmQ4ro3TA80nFWDzlbpIHglNXgG",
+      "width": 4032
+    },
+    {
+      "height": 900,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117455970465384609812\">Go Nonna</a>"
+      ],
+      "photo_reference": "ATKogpdSlkzCTRujcIoGO-JpzgnmLeApmzhC2RULrTwzkOzsml4ffE2NZ_QMtDwB9PlJND1LBFVgrsdkYWlHrela-1ZUIS7O_meFHqYm5ovRWvx0xykvhJoVX--gJpjeIKIwxZuLuhUVUnnUMiFZWgqbE8wg-dOCkdBpv2erDowQJtpCGHUH4qFaYjV7Kuc3GWcP54syqZ_A2nVyOD8_wzw3HQsSkrdgQebfln_riVvnt9JGRubx1xRC4pl9_yaOJhLh1007j8RywUtnUXidz49VMbv6uniSMpSM99adPW8kN6VoTQ",
+      "width": 1600
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102184133557375595425\">Yu Jin In</a>"
+      ],
+      "photo_reference": "ATKogpfM1oEXZroyjT8yHNkWUvpDdSwPYH3_LnnqCUbn7BJXkjuQQnXxpT4At8ZZl2YpSBAGuia9iVqnP-2pLK3Aqx42nETS4M22ZzfeIFgqbn6VKXE0X87yUVLebqkbdEVOyyOPlqWjo8eaeWP8Jb9y9B9LLq0HhgOD8JG1Zrt1Pr-grbjvdcI8vZwbxX11KW6EdB5wBYNfQRfnrJx6fLBBRhxsaptNYbVeVf2AXkxk7xR-q5Hsn3ZvRKoR1X7VeGENC0to_qC4r7GTe_qElcCCzNsPm022HrQsWHhn2SdwU7wNZm-CeMU0io3m07uQJzRf8Z7-Fde7gK5oa7u96RFG-fEs06mLdbkj3meAZP5M1rcW5UVY2Ezjs5aCN1CervW_6fdT4xbdKtFXUKQT-yKK5K9_xmSdOnbUsr9KtnLEVSg33g",
+      "width": 3024
+    },
+    {
+      "height": 900,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117455970465384609812\">Go Nonna</a>"
+      ],
+      "photo_reference": "ATKogpeJF_PBto-oPWh9wTXfqhWJZqaiXWxJegj1xLHc_j79QKo_8YGBOYt3e9BgojmLL7vJtm5inslIQMoY-YsR9p-1YLxWz4LE4VHz4ygpMoGJjVki8xszgjoAJ9H6XyYcokSeJQBT9_te80ez4TYPNvGA6MLLrUvqNvhwl79H-Qzo0Z1FXgpbOlpqF7jfCkMsjrEJ0WBfhDtFd7ZwZc3YDmNscblBXpw4hngHqdabjz-ij1CfLdmKChznCpqqnp8OJI5Gc3crOqmIFLkMN6BVDC-DULmRUDwYanNsVBv3JJvCtg",
+      "width": 1600
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100141602481698012179\">D Guo</a>"
+      ],
+      "photo_reference": "ATKogpfEbHWe-rFMF7sFVI9AuYsW3KjLcOjdX9oHk0dbP9ezksnWc0T5-h08HEFQSaOB8ftknPD5F0_Jul7FE8xTvo5LcJCRmG8tuunO1seh5r4mxgdajXt9WdhCIqphnREdoty7L4h2qHMBAU8tQyriL_x996nHzkEtRg002OwcaRfcOt-gGauYu6ySM__ZCmEHIfbZBXeOcYPf8ZfJvkCczpNCiBW3Ol9UxcFFDXK-ja26fx38bSyfNunLU7zTdNYGygbLXPcU0r68Bh8qC9wEt7pKzR01NDu8ztC_IIe20BPY2528VQldieVnQCGRxunD-zuZPAGfF3n9-Au7vAJtRxjzlJvo3qVPH6G0d-b-MkFPBUNRPCxQTE9zi6rJyXUhI9JqAjzNlODM4A7VE-WbzTzpB_1hqRhdULxyT0_EpezxK-O3",
+      "width": 4032
+    },
+    {
+      "height": 2392,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117455970465384609812\">Go Nonna</a>"
+      ],
+      "photo_reference": "ATKogpe0Ct5nG-CMS43ZUDU4012i4wM0BR9kh0wuNMz2G9lSmMbctLShKj0fp0aNNO42nTWd6V_SjjJkTfFmPkTtRaZaj9AnECe7DyoAHTdgReWlE5eFerKoESIIKfIgQsTeoaxC2jFz8HRghWCbryrkCtvt57CLqwffTKtq_irUtW75ehOPK4ZracPTdwtMrCnHyPPEbd4wpi_kSkwujy-T7fGn3s68iFggBh0ZPyTTi7E_sfUqCCcjZQXzBhPHmGTv17aZQxwDkZ4K31FI_1oiJVAvGikOptn2t4LczbkxHwJgsQ",
+      "width": 2419
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112751190562774578738\">Diomedes MH</a>"
+      ],
+      "photo_reference": "ATKogpd6nhdhMJe4LcrgAJL6DNYv6oLChLYJMi8SIBs3_FPR4y1g6kvLYZSbAW67jtVNaDXPnryY5wR0eeEy-NMegJwFRYJwL8flpN1ccOnuhOINvVq28zV3LoWY7tuvwCG8h38texWbzseYlEHdSlhEFLugvSGcGYHhZiHVNWUc6MqxwVyFM0IP-YyZP095QELlwO96M7Ybuw_9Ld9QP9ILLUHn3dOPJn47pUygOyBCa6YXMfa8lwDILcwD5XFl4x010psh271SbzU8BYX3x9uGlvb3beh0robve7TcyExf6EhxbK59EmAlqCYtGS90YVW8QFLx1s-YAb3afho8Gydk8W9rp2UuB6lHAHB1JKI-xxiHDbUMMwaqsE2Q8mfMZcTGFM8Vb11wmXxbs_lDPEWySJgb-FCZ-61HrHhdBPAoV1Ktow",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100831099538982105855\">Jasmine L.</a>"
+      ],
+      "photo_reference": "ATKogpcZhDJSckScitPlnwfu1oAWx4ew7QOwz0Q61CR2NWPYs-3JIyCoSgtiazh3aQvHh1Ab1m3GIGHVjA_8NUtpOqqkwaqGDCpZFRt5iPqxvfm6rZFcHzqL5wnlu3K_a8zcargJVntpb3nEL7Pn9KAdWgiL-OvwVrXsHoAuppNC5amCKWKLYSo-LREuDg6hty5BGJhGOmyQg72w5LtQkga4d0SxstWLPggUoLwqAEWenvZK1-LCI6o5i6BOdwh1QrTbbs0r4DQWWYWClakRMRk_Hy1cCgL6v0fjU5AOxYOyg8rwfjHMauAs7a4fPLfuGaXSFnrbwPNo89FoJoJlRyldsAYGSg3RNy2Iaz5vRdsmLkw57saPH7-2H1XlfKFvxesyzZMwXWJf7p2xkxLSJlaMBvVfyik_sNolymNyZPkAyUW1lNE0",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJWXJ-2MhZwokRsTD37pczIVg",
+  "plus_code": {
+    "compound_code": "P3X2+82 Long Island City, Queens, NY, USA",
+    "global_code": "87G8P3X2+82"
+  },
+  "price_level": 2,
+  "rating": 4.6,
+  "reference": "ChIJWXJ-2MhZwokRsTD37pczIVg",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Yu Jin In",
+      "author_url": "https://www.google.com/maps/contrib/102184133557375595425/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXg0iYMBhrlli9PvMzDXb2Pemlhdo5WUNAVYteckAxX4BOFmQ6i=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "my boyfriend and i decided to eat here after climbing since it was nearby, and it was a delicious decision! we ended up getting another order of fries as dessert bc it was that good. customer service was amazing, they checked up on us and joked around over the fries recipe. the pesto sauce was fresh and the chicken parm had the right amount of cheese and chewiness. 10/10, will come back to try more food",
+      "time": 1749584461,
+      "translated": false
+    },
+    {
+      "author_name": "Christina W.",
+      "author_url": "https://www.google.com/maps/contrib/104621721160763235082/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWs2MMCYSrPhfsyhOV8gc2beIt95XLclrQoCmFoSPHE0ZYc2HkM=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "a week ago",
+      "text": "Saw that this was an Argentinian and Italian spot and was interested. We got to try a few things and will say it\u2019s fairly average. I didn\u2019t quite like the Brussels sprouts but everything else was ok. We did wait a while for some of our food and it seems maybe there was a mix up between the front of house and the back. They did apologize and try to make for it so credit to them for that.",
+      "time": 1750372110,
+      "translated": false
+    },
+    {
+      "author_name": "Carlos Miguel Lasa",
+      "author_url": "https://www.google.com/maps/contrib/113449078604145549333/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2fTzau-zm42rV7dgeDv7i2ZR_wiY01hsGNE9oGDh7m52ygKO0-w=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "2 weeks ago",
+      "text": "Back of house really dropped the ball on this one. Food took forever to come out, and the quality was subpar. Front of house was apologetic and tried to make up for it, but this is barely middle of the road Italian food. Even the dessert took forever to come out. Thought there would be a special Argentinian twist but there\u2019s nothing special to write your Nonna about. Definitely better options to choose from in the area. Avoid.",
+      "time": 1749867163,
+      "translated": false
+    },
+    {
+      "author_name": "Diomedes MH",
+      "author_url": "https://www.google.com/maps/contrib/112751190562774578738/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_EPajmnHXuyc8bjLh0er4HuWEmbshP03o_hG-fma1uTR-GEE=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "I went to celebrate my boyfriend\u2019s birthday with a group of 14 friends, and the experience was excellent. The attention, service, and food were impeccable. I highly recommend it. Jose was super attentive, helpful, and always willing to assist us with any questions we had. I strongly recommend this restaurant. We\u2019ll definitely be back!P",
+      "time": 1736809684,
+      "translated": false
+    },
+    {
+      "author_name": "Khoi Pham",
+      "author_url": "https://www.google.com/maps/contrib/104724097943836795185/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3Dc8QVwAYF_rZSlR5f98ZG3U3qZNZbv8AH3RVHDgdQ65V2Z7l3A=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "Intimate and charmingly rustic spot for good pasta. Discovered this spot on a whim while being in the area, and absolutely loved it. The orecchiette with the brocolli rabe and Italian sausage was excellent. The taste was reminiscent of a homecooked meal but very well done. If that wasn't enough, the extra grilled chicken side was also oddly very amazing, much more delicious than I thought a side of extra protein could ever be. Hands down, one of my favorite recent discoveries for sure. A strong recommend if you're in the area.",
+      "time": 1737911667,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "establishment",
+    "food",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=6350413677211365553",
+  "user_ratings_total": 481,
+  "utc_offset": -240,
+  "vicinity": "44-64 11th St, Long Island City",
+  "website": "http://gononna.com/",
+  "wheelchair_accessible_entrance": true
+}

@@ -1,0 +1,435 @@
+{
+  "address_components": [
+    {
+      "long_name": "69-14",
+      "short_name": "69-14",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Roosevelt Avenue",
+      "short_name": "Roosevelt Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Woodside",
+      "short_name": "Woodside",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11377",
+      "short_name": "11377",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "2934",
+      "short_name": "2934",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">69-14 Roosevelt Ave</span>, <span class=\"locality\">Woodside</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11377-2934</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Tuesday: Closed",
+      "Wednesday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Saturday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sunday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Homestyle Filipino specialties served up in a 2-story space with a weekend buffet."
+  },
+  "formatted_address": "69-14 Roosevelt Ave, Woodside, NY 11377, USA",
+  "formatted_phone_number": "(718) 476-9002",
+  "geometry": {
+    "location": {
+      "lat": 40.7462644,
+      "lng": -73.89569639999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7476831802915,
+        "lng": -73.8943412197085
+      },
+      "southwest": {
+        "lat": 40.7449852197085,
+        "lng": -73.8970391802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-476-9002",
+  "name": "Renee's Kitchenette & Grill",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1900"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1900"
+        },
+        "open": {
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1900"
+        },
+        "open": {
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1900"
+        },
+        "open": {
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1900"
+        },
+        "open": {
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1900"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Tuesday: Closed",
+      "Wednesday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Saturday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sunday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103044406618663302299\">Eric Helferich</a>"
+      ],
+      "photo_reference": "ATKogpd432OpK9rvwKTR3pnpnqr9OtyKDRs71gJ0T-e2bYldtHq3LntwIbOo3QndjBGA_0pv9_ladGA7h4JVMxBfNJmjs4kW5jVPxtlikQSP34AWXbSxUMBTGQMe44dVxz4YcGpAm1Wtqr_1gaVvrfKB4Nq4EVVtlrR6uCset6W06oBU8iSai5zIpcL-v_pRqiqF7PAWasAM56B6XLRSHSJl7POR8aiQKM8rn9zDs2l7WPFQAwZmfqftwf2qD0omdqjWQsEj7XueiOYmYkevpT0hJx7nnW6gI9zFpB0Qhaq-73G76kidjTZWcFYjuwreLJWKKtx1b9RxuJvDpnEMKLpJSXbOT8k8sAADwgjwh_LmbCqiIeqQDqfzeGs2GeWmN66I5eQOv4POhv4oC_elYE88xd_9_S2__nVlwTxJYVjQTi-pZGHq",
+      "width": 4000
+    },
+    {
+      "height": 540,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105979215637754998011\">Maria Manong</a>"
+      ],
+      "photo_reference": "ATKogpdUPJADnerSA1v-osAjhz4vsW9TfMas3Nre9V0P1r8aI2ZpP7jB1AlDRN7SugCzLS0B_SOl8-1a3x-t4K3TpCHHIeQOrhv3ZPiECB99BGgg58B6Q2Uf9y-OG2mKoZCIn6EpE8L741EXYt3pCyQ6a1M-X-a7Xnh26vzDJKtjE7jVg0woEdLaP8tzbC_KoBAI6G1CGExzaNkbW6O8R5DcCdvF_ZvjraJb9sTv40O4gNY0tYOtU48cS72ncQWWQPBbw6PIyXGgpHJFTLOBm-wb76AhpZ_znaNONrQBl98qx6zJcnCyMBRzFL78yUNkHTWF8KK3ZRIbl10bD3Hc0qbjk1z4bpNv8shIgBA8GKWEFqBCkP4juTXXZX7-IP0MiX6uJwMc8Mo2Xw19aiZWeTHZzTiGfUcFfn9UYWGH2maPyQw",
+      "width": 720
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100227255778766791792\">Alex Chung</a>"
+      ],
+      "photo_reference": "ATKogpdXL-Dkor9iBucgJ-4eUivzt8bPQh1e3H14axMrdwI47tepG77zB_HQruDTGpC4xv9m-wadeBDZDhOzjUQhdJVsM1RNT2zcD1fAdNDOp352sW8Y30O6KIBchu17ZIfuN9MSXxIz0ykp6H-mKAkm2Q77fJyL6T7NkLPJsljqsiQf91PyH82YI5YSTOnPySXvpEUnKoSeb1A6NjW079RxT7Wn797Y97-Gz7gJxri8OwGsuBw5TXNsLfhvhnegtM4dLl48AFNIKJkuaygeEJHRoTh2i38pJkbHEpUNtsV9xGBr4lVa7iYpcCwEHEKZwfXYRrYwWbwH6w5ZtMu6c4vmTX_ijLHJjsS-b-EvqvfSae_PDLgdM-wj3dr7CO1dhg9hUEWdoHhSImFcE3WU4pJRvE1GsDGoDIIx8Ct2YAyr6BOn3h-Nbd6EzEQN2wchsQ",
+      "width": 3072
+    },
+    {
+      "height": 3895,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105933861610984461949\">Yon Ant</a>"
+      ],
+      "photo_reference": "ATKogpeE7_cWiSchBlaERxZJA_0qZHkg8xtni16D2htKZ1WvcVSYRxNtf_Z-UCEp57zPhOjO20pOmVvsGCXhQOwQSYaL30pID7Ga-Jqhp--vw-c5n1YqDx-8nJNRlgAIgrSr7FBBU1ZvGDSp3kdaJ4ujiz5o9QH28uNQPBpJCMqzpkIQLi50olBE0jwbmLiHrDVRxtLgoROfYz3ufQTyvGSlN6Yo-KlSG_1KNhPv90NFxu3zGfuOg2KDKkXf8kDTWyzF7n8xNXAyzh0k-6j9ES-XTzdoWh9tyQ_odpxve8Z9H4BHrCsXufCAvRDjQE9wJTWWg-y_Q955ObOEGnkKVqSAhT9PaS0abYK6Z4YpolCXtdnbQjfiEdyPxtj7iByS8QZDlUV1Pfsjf0rl9mCsmOvyon_IYEeLleGmnNzE0lCxMrLkgT4E",
+      "width": 3023
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103044406618663302299\">Eric Helferich</a>"
+      ],
+      "photo_reference": "ATKogpfJpiIRdj6Yor53_A0DbYIAkrzoRZn3OTlJdyvmKrlXHA8btFMbWWdXP7BBc8ksuI7Vde8TRdUo6-qx7SFQZQk7TKz7fnQ4a_hbataLwbZTDzMPfpiZgl3YF7PPmGnihVTn-Busajn2typcmHms8PIr2pAkw9tY2U91F37ssV7acp2DJ-DqcDX6XzyDtauPkDIQZfXn9GeKxV3cbZ9AVavE1flTnpT8oyUG1BD2ykn6rOkHTmRMOpakWwTLpvRgQzEWptBekCUnfcbhcr3xIE5nATTnZHGnKSTwgO_XX9ZtxiuTNAMvJL5fqnp23OJFi3451sOk2NeTZlCDvjPzNSTjpDkHOsvuQskaO36ozNxe0ZLmrnMz_sVey5pkQuVn6oCBxziBygXj3yt5KTOXuK-NupejOcacsshEDW-tY02V-Q",
+      "width": 4000
+    },
+    {
+      "height": 3710,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105933861610984461949\">Yon Ant</a>"
+      ],
+      "photo_reference": "ATKogpfW1rUOV0cv44uLUXUhLUZdDsBSWzxTZe4kGx2h2-BSSoFTSgLF48aScjkWZgTvaE-cHDGVXvmoND6EMFhek8M8Wa6bnNn8GPisQ0lwmV_iK1MBLz2LjPIvnInwU1MiKH1cUwxGUcBS_WNPx0mZMD7vYAr2l7pXrhQUA-ZxAbHkKwUVwuNg7PJHiu_Tn-X_sIjTmSAI2jhe9BJaTkfbEfVDVTOO43I1pG8eOzMQAqq62uStsa4iEQgXPodA7NBoV-4Yg9TYz9Z5MQmDYyC4hmJlJgZbyiKOlMa5PfRP4qO8hLDHYQLvQL9RS_icvCJ-zEU8bM061gSeJMkqrc5M0gQM6eg8vsEC6VtAAyg6FMW-NLubRVOa9_OxfP0jfQSUaRyKfDvNYYxdCQAnhcPuGAVIjnQLf6asII5Xve-2GPY",
+      "width": 3023
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102545308820745691051\">Kelly He</a>"
+      ],
+      "photo_reference": "ATKogpdxEzrYDk4YIlXtPEOZpJI-R2-umk3Ryrwap6E8JdQYIlHDQN3bGuMeHl9TuXMlsMdKAjloyREK1FByVjV8YSXMaykPxbxiB4wN2J7kH7q30rMIh2sGhimnbN_n07zEd2rc3Q9qZDZogGf3rARZLV6ZvvmXV_BfJVp0ruj2c1TLuso6ISib1FVVgWe8dfZ6eMFr5KQc-h6dUV4A0Mf3-nLpgKG6y5kzin0mWYw37TA6wq2G7kBqVTubXVZWFwrwO6jXjSKXNLe-X35coeKdGQyRb9w1rPnroIsxOEI7cgPD2amlifo9o035RcVQ-jmFpsNdoaJr3EcfbzpHLm_pDAnancC4ss_4vv2DX-DjdProtJdf0R7j1rDDQhVcaQpNbzEAMZZUavBKmbtUQNsUc3MAJE-JGxFp495yJCaAwzVp2w",
+      "width": 3024
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100227255778766791792\">Alex Chung</a>"
+      ],
+      "photo_reference": "ATKogpeWt50Eu_tsLpl4VBfRXwaqXPH8IK_4pcuhq3u5waKjQIKrBDOv7dJnj3wqLsZ5a04kI9YmY9tRrZqGcA83m0BMDQylHN4ZOOFd1uh5HeQfN32JUSlZBm38S3bfabVb7Q3HVtrjH4OMN4wpTspbUiSz2BP4YzkCKF5S6oE2J5KZBYPRGD4euHvVsHk-d3dOwENz72DoeUtHqjYoRjS1HRbgzisLQv_nMrT-LKbot8thfOXDdb9xFhjLlOgmiYieFkOY3v9ZjSMflqqJHFLgncgyRhtmVeyM3Lzh0chnWBVbrYXr4FaGvZLP-pCTxX12odKBPrnhze5fKLU4N6AT0eMTKDizgCtdNuaIgrUKy0tZrNjzllDHzMJIhqeWTfrFXbWAh9QEgzK21L6anNnf2n3cRUfXHTBXx-n7TIy0JRTX6Mr-Ni7uwz3_q-y_Sfu1",
+      "width": 3072
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103044406618663302299\">Eric Helferich</a>"
+      ],
+      "photo_reference": "ATKogpfDRLzGqHJzrX6Y0pZ8ngKnXPWZpHeQ_ch6KSN8RzJr8a1yt5qPsl7I0o5RV7bHlxSUYUKifgxFl7vuvxvCeyZEd4UaKtXIrRuvO7_bF2b1xsJjH80cAwnQQeyNZTTS_IYtk5RtHUaauD8R7IjWx51XEex93BqV1kOz8l4BXrr0SW2vFU2wCikPc-NlDxtJ1s222YikZ3xiHyU_8tdj8oUsgzJtUJ2BbdOeAGPmbmk7zfk7_4RL70fV3cqh_bdDwPn52wfCt9kNRpyAL0rOVxRC6yRj8mUvkG-1ZT2EQTVd7_bpjS193w9cRXh2CdnK0oVm500SCapj8Ex45leSMFnTfN5LgHIPkdPhSdtnV_aCBFYQ6Tjq46BA6319IKHUCB0yY5TP7Mmu6KlW60WwLB0Y4AQv_PAuEmsL-8TYhzfa2Txw",
+      "width": 3000
+    },
+    {
+      "height": 2160,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104953457759009568997\">Chris Ocampo</a>"
+      ],
+      "photo_reference": "ATKogpd5MTDbvzmsb0FGslp4IjHJE8bl8XXSyI24sscV5_PbYIkGknnwIr5mC3Z5ZDBzNe9dRc3F1DXwDTTyil0YkhPYUp-k0OP4Xyf7_css5FbPcIGndtb_reHfgk7ygTK_ffzFRttVqpxif85CdZ8AIvEV2DX278MKlwCFCCMTcrqS-UqUU4Fm3OStRq7m3-P-BJKKbK-n9cFTrHf8OJQrO_BTBH0b8l2cL5VHbhNlt033et0SYK6g9UA46EKDtt0E29UNy_iCho-LAlwD2-7PtXOxbR61lt6WIDORuk_WDd2gFfvcxu9ZdXFjonmWZl2b7iq4-ITv43DOW_pTpL5ih1ZaZ1SYc9B2ae_sJXTZ4pnhSZ1xFGjfVlwjpzv7rI8L7ri8upD46B8-B7iaDOeYAh6OsL93cCOcYo65M8C3bmPpcw",
+      "width": 3840
+    }
+  ],
+  "place_id": "ChIJZ949wwNfwokRhpCbCHtoMyQ",
+  "plus_code": {
+    "compound_code": "P4W3+GP Woodside, Queens, NY, USA",
+    "global_code": "87G8P4W3+GP"
+  },
+  "price_level": 1,
+  "rating": 4.4,
+  "reference": "ChIJZ949wwNfwokRhpCbCHtoMyQ",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Paulo Loreto Lim",
+      "author_url": "https://www.google.com/maps/contrib/104531858892404537191/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjlqpYDQOIbIiTAkxQGyoJYAKFEZhPcFPQTdAPf2q8ad-W0vAmqQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Great spot serving all the Filipino classics. I went with a favorite: kaldereta. The beef was tender and the sauce was very tasty. I also needed to order some pork BBQ. First, they were huge and, second, they were also delicious! Definitely heading back for more next time in the neighborhood.",
+      "time": 1744990677,
+      "translated": false
+    },
+    {
+      "author_name": "Eric Helferich",
+      "author_url": "https://www.google.com/maps/contrib/103044406618663302299/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIzHISkYkHWptQoQ_ffRzvWyfhvQIdc4J5qLPV1e4htDAa91Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Yesterday, I went to \"Renee's Kitchenette & Grill,\" located at 69-14 Roosevelt Ave in Woodside, NY, which is a delightful spot that transports diners to the heart of Filipino culinary traditions. The atmosphere is warm and inviting, reflecting the essence of Filipino hospitality. The menu offers a diverse selection of traditional dishes that highlight the rich flavors of the Philippines. Diners rave about the adobo, which is perfectly balanced with savory and slightly tangy notes, and the sinigang, known for its comforting and sour broth. The lechon kawali, crispy on the outside and tender inside, is also a crowd favorite.Portion sizes are generous, making it a great place for sharing with friends or family. The service is generally attentive and friendly, adding to the welcoming charm of the restaurant.In addition to the main dishes, don\u2019t miss out on the desserts. Traditional sweets like halo-halo or leche flan provide a perfect finish to your meal. Overall, \"Renee's Kitchenette & Grill\" offers a satisfying dining experience with authentic flavors, making it a must-visit for both Filipino food lovers and newcomers eager to explore. Whether you\u2019re stopping by for a quick lunch or a leisurely dinner, you\u2019re sure to leave with a full belly and a happy heart. #filipinofood #onlyinqueens",
+      "time": 1741018256,
+      "translated": false
+    },
+    {
+      "author_name": "Rachel Cheung",
+      "author_url": "https://www.google.com/maps/contrib/100564469593648729566/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWpmPfW3SFHrj6nmkyQDPFlSgVcjsIzlOrwqPXDUvadiUl1lX_K=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "6 months ago",
+      "text": "Food was ok, had fair share of Filipino food before and was excited for try this family style restaurant. Portion was on the smaller size and flavor was mild not rich, ordered pinabet can\u2019t taste the shrimp paste. Definitely didn\u2019t give me the wag bang flavor I used to get from other Filipino restaurant",
+      "time": 1735597830,
+      "translated": false
+    },
+    {
+      "author_name": "allyson Bernardino",
+      "author_url": "https://www.google.com/maps/contrib/110483983198102859859/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVv-kaTRiAPaBYWFAoUjPIhOmNJTJcoy9FgnTqPqNzY4arkl5x_=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "5 months ago",
+      "text": "Small place with lots of options.\nThey don\u2019t take reservations and street parking only.\nWe ordered chicken, sinigang, tortang talong, avocado shake and empanadas to go!\nIt\u2019s a must to try and get your quick Filipino food fix.",
+      "time": 1736930768,
+      "translated": false
+    },
+    {
+      "author_name": "Nicole Navarrete",
+      "author_url": "https://www.google.com/maps/contrib/106475662604571254986/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVC-vyhfh5Xi7sQPUffv6KhtcAWtuNDB0vHGWpy58uwHsHKq1ZAxw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "A great small place! It smelled amazing and what we got was great. For 3 people we shared 3 dishes and had leftovers. Definitely recommend any of the drinks.",
+      "time": 1748809217,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2608543486812328070",
+  "user_ratings_total": 354,
+  "utc_offset": -240,
+  "vicinity": "69-14 Roosevelt Ave, Woodside",
+  "website": "http://www.reneeskitchenette.com/"
+}

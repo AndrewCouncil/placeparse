@@ -1,0 +1,453 @@
+{
+  "address_components": [
+    {
+      "long_name": "35",
+      "short_name": "35",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "East 21st Street",
+      "short_name": "E 21st St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10010",
+      "short_name": "10010",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">35 E 21st St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10010</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 5:00\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": false,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Sleek Mexican spot with a big bar for locally sourced share plates, plus tequila and mezcal cocktails."
+  },
+  "formatted_address": "35 E 21st St, New York, NY 10010, USA",
+  "formatted_phone_number": "(315) 512-4131",
+  "geometry": {
+    "location": {
+      "lat": 40.7395952,
+      "lng": -73.98835640000001
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.74083693029149,
+        "lng": -73.9870470197085
+      },
+      "southwest": {
+        "lat": 40.7381389697085,
+        "lng": -73.98974498029152
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 315-512-4131",
+  "name": "Cosme",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 5:00\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1192,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105641580144879585384\">Cosme</a>"
+      ],
+      "photo_reference": "ATKogpe5SzrCeOYztxVElmXeC73su3tkdciYuqtWQPnedifFTLy2Ko8A089PLmK-tENghsNxA33-hT2OmHmRzI_Ioe-XgVHqdaPIHmEEjOpVoRc20e9VQ3W3uf7QGzV2OWJJjwS9x0MLcygHcqJfSlVDIxdowlVVHbIIqtx3CcSh6-TyI_abAvaVsLglpOhuxfsixIgpKInrMOSIhwiIEv4zcAVlWsp7P3CUjmm31iwHamCrX6xjKzAXxrBksGWPQ37PNHcXfPKsEgBy9_PFXnc-Ya6fQLC78MzFTA89OUiMn-28Nw",
+      "width": 2119
+    },
+    {
+      "height": 3456,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105641580144879585384\">Cosme</a>"
+      ],
+      "photo_reference": "ATKogpeWzhsl-cTmBmSYxSV0z9Nj-6AJ0zX8iUlzyALtVZvqkDauemMfRZnTUERN60IvaBQBjdbg1fRwdYdvMR6pEibGc_BAtM0-frpVN0KGmnUlQ4Oq8FQNzu4_MCatNgbGErrgwFuVwO81oJofLQed5K5G2-9jkb0aZNjEgSXudcJPZkmWpnDfBtf5EXkgQCPSNCsm-_MuL1FRncku4_5rzGj9z9tNUMbaNObflAOnlqVA2ZASIz9ZmY0y498Alft4xwWUZO9ajn_R30LFYlxAT1gNvPqmRRIbSUX29DTUS1pd_w",
+      "width": 4608
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100069368530705627879\">Maria R</a>"
+      ],
+      "photo_reference": "ATKogpd3THPUTeFIVaULSVsIFZ3wE2StowsohEKCKrVaqrv4e697aMnbsUzmJWOt7zPEh3ulQkeHlRDXcSB0xAQkS31G45dVH6K_utMOfb5taurlSaJ0V9mpmKmUrVlNW74z9KwXXWNARN8SCJBTIlISXeR58bqVFX9kLHgWCa7fKw1SfomDiP5UJFW-V1nJs-3IRHLe6Dbch_V2QTyCS7o1vyCutI4MEfKN1euTxUGLf5FCdvum5p35evM2WEsF6qOKG1XXqZ8J1qZvXZtHQrSZZwQb9GdOaH50m1q1oM-T8uuBIrwZSgGQRSIqlfCPM7586NhpoPaVg_93xqspOLJ_qKThywweyTHYuCq-grkwXqGAMAyEHQoOzSmnty3RLNTmCMQcchsS507IUUlt5myfvkYlK4U3FBFZoEocsWpdz0IGJDr2",
+      "width": 3024
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111629522545063292834\">Wesley Turner-Harris</a>"
+      ],
+      "photo_reference": "ATKogpfhJEs8JS4V5pP5PG1EcVdezG5L_6tfwQOSUeppq_NIvlab0TOrWKabLJDhcxIDJJSHj7h7FE5y3Oj31jwWrWi-AEBZm3x2rPlhjHhuz2QZW0S1wm9rLFiqlITCdxVJhbAoIxuyRrV_Vp-kz2nkGWEHWPxgPk1HhRilFmPrKiKdL0K7w7PnPLXBRsynepfZn8nAJLM26COGRwX7PBEhFZGyGR3LKtnVbF-pqqXR50eJx1vwg3DY37j4MxjJ0RXOWSNQQYrPJnWiGjPbfvtixrZCjd0TV1JABqw1jnHXpwivmYr8-orIVcBQHxd8Gs93igC9m-uir3wMX5bw5ENBlf4uT1IqHW-5DiYU6uxkQWQr7CuWuWe54BQiICBqQ4YpSCizflwB4a7BGqcaBZh9VsFITLRvm_hdQkhZ_QhYbQevCQ",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100780410778081795867\">Neil Ross</a>"
+      ],
+      "photo_reference": "ATKogpdacKFGEnLMdhBrA3hN6I6Z0UsyMreS8IiL2OPOdEPkS0sRGKlLiE7lIfMJnE0h440picfBvQYI7AdYeoZ60PUrDGGb6fd3MiG8ImDBF7ScnLxOWK0k7P2FDslNqmoDgOMd_qg5s3Llw7EdjFPcxGq_MA7fV5JfAYaV9b7eKtZPpKbM62qLQp40ZTXo4MrbTPm3l4Ls5EXdTa5JQm0_hMzO-DfqJQQBjhfh8xEojj-a7CQxqEHXXaE2Lgb9C6XvaCy26cEGIqLvWwmVjMg0fcopmSPxvqArtge_qk5L9uFkpq9grDB1_mL60S3q8S5qxougi70MWR-kd-VfOcvKGsevELu6g97wGw39M-OMfROB1AIeA-WYWWVpEqUpf8j-olEAeleZvJ_sS0u67r-5e2Io3VFMfX2tsqSK8QvqT-g_hQ",
+      "width": 3024
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111629522545063292834\">Wesley Turner-Harris</a>"
+      ],
+      "photo_reference": "ATKogpeVthFV_1LBB42djb8z41m8fYGZTOWcAGb57MEnnQXRFrh17a2lgrut47G4FEbRfAtSwnXyGxYK26UOHrsu9mY0o5dsv7HilJkQbtAnNKG3_Z9jncqg5Fjo2rnt-ktmzlOQzS47ZIZO2Ve7eBECJvYKzWf4lyupx-lNR1nnkrspT5f4yfTyBnur71LDz5Tn2R8dWkvr2fVw1pT2FpMzKl-fyiDx_2iYmyCWAGRIbZn4SsFzyRX8hnVkk7lzzcLbYKGSCq8kfRi-8stJWby8hYqcIwvpjHLhdZLKBqiO0hkMormmdsoJVgF3LGH6xdMLTXRncodODVHl80c0eIok4HGNmT0ohAklEap-tUIsVNcYhOxtmJgRvDGoQ0x2l6T_QVudi8LPAChV2zQL_omerSDIJnWe5X6s6fbUkDgtLXstbw",
+      "width": 4800
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104761514334169946533\">David Thomson</a>"
+      ],
+      "photo_reference": "ATKogpdwFWUHc0PHCk4hWVHWYgtXTrG67XdtfEiqEVwL8hxSy6ao6RupTMaJ42BT8KqfOxJBTGxjVxD7w_pij3G62PquUdZEtPvF0koJNk4OHzNQoUUhFbVn2FttdcamSkthJldi7h4NgA_ODwDJbSXknNsNLadzDvEJzYxnSyPar9UH0S7_ASkjkJt-YwHrjtahOhA5cQGyA1Cfd5AElUMfGjr_QG2m67MrT2MSJkBp_MnkrXMmJcAC9aqFFEnKzZ7RbOx2N9llEn69T84FdAK1eXl_Qemo4NK4Eam0rRP3zeJdh0t7Nx6S2kkGNjWbzE-Yk9n3xsoE2bH8LglhuYjOArya1O_LXKyCNxR1eYsUYB0qo5QWzrstVMdAK0DzU4anY9NAz46WzGx7-25xMnJRWbAW0eauASVTLGmIvOTqx2RvuZI",
+      "width": 4000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118154605818222909215\">Toni Condeafur</a>"
+      ],
+      "photo_reference": "ATKogpfG0v1n9tC1aUlp_ZXPpZVGVjOoiiZ1eldry0PofvSGtfos_ss5leLE8ldjPc83xV2zVBe205Gn9fLjMQmSTrbpLFI9ycaBTeLlpit2Hng9YxMf2kc9IaFfLG2I4_JCDD-U79S3mRo4Zt3NiMAfz_XUdr4b4nBD47STpWczy4o5OyhvARsuAIPecYz7AHjeflgyuggoeMT6xlhWAQWph4E-GrCXsUzxAM_vyZHuVCXDcJ3IX6RlfOHxXGRwNZ4NXaDBwXpCtjr6pMVvXocho-kas0VuRiACjdTSceyVsaFzYc9MthsewQcW1PnZ6k_4s7wfd3A_OZBvsnHjOcRNTmIHGLYlG-GIhTWAaOr09SBmBAZsVfNaGvadq7V5llXsP4qEji3tJSDovTmb_ju-SXhKxPrepFde-MMNjytZDoFUDtys",
+      "width": 3024
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104616968993187546571\">Jeannie T.</a>"
+      ],
+      "photo_reference": "ATKogpclqAKPuvPPBc1_m-fpQIV3yQPGAFf1kN59Lp3X9PdJTC68_eru6hm93mHjllImURfebjzZcndD5WLzXbzc6HZYzNztT4Ziurcy-s6sU9-A7rfKHD5OFGtAjtEEMOxXj1Pir8QheWMelNJ4WxhfS9t2t1cWoUrOihKGhOOhXTh1XWjpD-5iTUaqlL5l7IOx4ZOWRqGErcpSz-UIiR2D4i10J72PG9ZGLVXE4xvBhfjSttCj4Bs3iDw1EPE9fQmjCRjGnFrfODdkYTqGLI1uigoKm39fPbSPB5VpuhNMoZqLMft9gSmIM1THArohGQ3cvQUbbGkKn7LtYdq8zDG9iiOAjnHb7JSTSNdKGu_q6FqRBw4aiePnEmOgFVuZrLDQ3urEkrav-ngNwTUTf3OlLdm6qLnAIHDF9oa6J1ePvIr-IA",
+      "width": 4080
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107001842549342622544\">Leticia Queiroz Carvalho</a>"
+      ],
+      "photo_reference": "ATKogpdSq-5GzGt7fbBdgiFmYa6DYTUep8_85MVsyUv8JE1GX8MvvCv5fy5yvWMIp9-IW0QeegZ00kfxSXwr_52ZbBjJhFj0KzhqF2fY1jJxFx3qx0pilXd5EeOgiBIINXI2oJAuerGZiM9RO-T-e8uo09b_lIgmFtijBVj1AJq1nX5l0qwjwP0nMufbkIKtfEhsQVCWcS-hVFIo1iwk--K7eNOl06RnS9qLvGN3IHTYrj1BXQG8xpzL9TxlVIJb772w0H3bYNSdZ1fXrVoU0GQFYuBc35Ia63gFNCacky4GywuQqCdCoye-6ldEN2PtZhpJw17QMBgQybfVhn_8KTG4r2mU0YjG4I6V8UBLyK8n9SZ-oVujQcOPR3gs4SEhERapwawaFjurSAzUdSLeU5a9jzw6Xhv60arc-OSTVejeodlNSPRW",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJT-gYZKFZwokR7O8LLYuYMjU",
+  "plus_code": {
+    "compound_code": "P2Q6+RM New York, NY, USA",
+    "global_code": "87G8P2Q6+RM"
+  },
+  "price_level": 4,
+  "rating": 4.3,
+  "reference": "ChIJT-gYZKFZwokR7O8LLYuYMjU",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Maria R",
+      "author_url": "https://www.google.com/maps/contrib/100069368530705627879/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUuODUvNdH23nTVJlu2PCYOCKk358BT4RgPydcH8txEkaA2i98a-Q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Outstanding experience for our group of 4. Luckily, we were wise enough to order two portions of the Pastor Prawns to share because they were so delicious, everyone wanted seconds. Most dishes come with tortillas, which makes it easy to share and taste multiple dishes. Mezcal, wine and non-alcoholic cocktail selections were wonderful. We ordered the Strip\nSteak and Duck Carnitas to share which was a wonderful anchor to our meal. Service was very friendly and professional. I would highly recommend and definitely come back.",
+      "time": 1749569514,
+      "translated": false
+    },
+    {
+      "author_name": "Fabiola Fung",
+      "author_url": "https://www.google.com/maps/contrib/104412907791882211804/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWkeZmzHOFrYUwzjvzfibtlHBGa0SjA8_jmQLa5gzJ8_01AppVs=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Hands down the best Mexican restaurant I\u2019ve been to in NYC! The food is absolutely phenomenal\u2014every bite was bursting with flavor. The creativity and balance in each dish were just incredible. My favorites were the aguachile, uni tostada, prawns, and the duck carnitas\u2014each one unforgettable. The service was a bit slow, but honestly, it was worth the wait. Plus, the ambiance is cool and adds to the overall experience. I highly recommend this place, 100%!",
+      "time": 1746830182,
+      "translated": false
+    },
+    {
+      "author_name": "Leticia Queiroz Carvalho",
+      "author_url": "https://www.google.com/maps/contrib/107001842549342622544/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXQ-w8BDCHQ29cUgV5AzZdtuhcEzYOAbGDD4Fu2TrbmO3Ji8I4coQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "Worth the Hype\n\nI visited Cosme with my family during a trip to NYC, and it absolutely lived up to expectations. We shared several dishes, all of which were amazing. My favorite was the shrimp\u2014perfectly cooked and bursting with flavor.\n\nFor dessert, we tried the churros and the corn husk meringue, and both were incredibly delicious\u2014definitely a must-try!\n\nWe also had a baby in a stroller, and the staff was very accommodating, ensuring we were comfortable while the baby slept. Excellent food, great service, and a lovely experience overall!",
+      "time": 1735397499,
+      "translated": false
+    },
+    {
+      "author_name": "Hayli Bazan",
+      "author_url": "https://www.google.com/maps/contrib/105220709100158744503/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIpV26B5cTR0VD6oS41JGyIMcTz_eGySvD0rn90GaJIuZ10GLc=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "2 weeks ago",
+      "text": "Overpriced and loud. The pork belly ($42 for 3 pieces of pork) and duck carnitas (a whopping $112) were one note and relied heavily on sauces instead of actual flavor.\n\nThe duck portion size was very large, but the other dish components (onions, radishes, and small jalape\u00f1os) didn\u2019t pack much flavor either.\n\nThe crab was very salty and avocado puree was mid (would have preferred an actual avocado, as listed).\n\nOur waiter also turned around and left twice before we finished speaking lmao",
+      "time": 1749343169,
+      "translated": false
+    },
+    {
+      "author_name": "Rovik Robert",
+      "author_url": "https://www.google.com/maps/contrib/103521079678024458298/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvdIKY2FJUlc9BTk9ZWNw8YCCznXGxmE-ncjOBIdgcjAxzqgCy=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "Great Mexican fine dining spot from the same creators of Pujol - everything was phenomenal here but the duck barbacoa was sinfully good. It\u2019s a huge portion so plan accordingly - we had to take ours to go after. Service is friendly and pleasant.",
+      "time": 1737870691,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "restaurant",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=3833293956369346540",
+  "user_ratings_total": 2916,
+  "utc_offset": -240,
+  "vicinity": "35 E 21st St, New York",
+  "website": "http://www.cosmenyc.com/",
+  "wheelchair_accessible_entrance": true
+}

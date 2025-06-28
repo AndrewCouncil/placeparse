@@ -1,0 +1,610 @@
+{
+  "address_components": [
+    {
+      "long_name": "67",
+      "short_name": "67",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "West 23rd Street",
+      "short_name": "W 23rd St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10010",
+      "short_name": "10010",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "4200",
+      "short_name": "4200",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">67 W 23rd St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10010-4200</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Korean rice bar inside Four Season Cafe serving noodles, soups &  gimbap for takeout or delivery."
+  },
+  "formatted_address": "67 W 23rd St, New York, NY 10010, USA",
+  "formatted_phone_number": "(212) 924-2654",
+  "geometry": {
+    "location": {
+      "lat": 40.7427755,
+      "lng": -73.9919649
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7440454802915,
+        "lng": -73.99068731970848
+      },
+      "southwest": {
+        "lat": 40.7413475197085,
+        "lng": -73.9933852802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-924-2654",
+  "name": "KoFoo",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1700"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1900"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 2992,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116724433566793298208\">Dongju Lee</a>"
+      ],
+      "photo_reference": "ATKogpcJ8cNH1IhH4-wMmov2kVi0RTvLk_QNzol-CV9kQtgDN8or01xfxiO5fU9N9vavPZXOeDSB4Y2lgdNyauW5ffV6oEY9vM7FnAar7pW_oDNCxWj00guEYyJyolPO4fPQ3Kld4u9RhjgRLVClb6Y9uoSRye1IZhMvuvp2bIrXY5vl9jENm3MxWWDhQhL5xKTWTaN3SRnXTbybjhKsDXHoNeZwAXr7idZrFFJl0U7ut30lNpUS0nyKv2p7jjGcxfK48fkxmJj06nRU8sFaGsL_OuHBVH0ibcrCF7gArFlgUlAgtKwBi_ttu0VP4jD5AhQcWH9d7hW0H5gXZxCLq50v04uCR1-XRA7UPvwpPTbeEZpYDVqK5uq1uIZAuUTuZYx5ZzJvWTGIgC31pZSt-n65Ib3Mej7gLWuegHvRYwqjxlc2nw",
+      "width": 2992
+    },
+    {
+      "height": 1960,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106493083619000491799\">Olive</a>"
+      ],
+      "photo_reference": "ATKogpfmdOAU6fJLRcvu926ZQGxWXU5hhhruxgnEIVrbVW1zinHwKPBbnwLPK4-udpcl3GZWAvDIaD5Wpj9i6O8PEPAyaT8f5RM4EJ7ursP3_bO_zyYCOWMLKbKOm_k4zTCgY1ngqDWOZ3Ykv9SZORHSxASKX-taKdouRbxQhn8bKbchbkeN87pUtooxgrE7PKbglQxmjbgN9U2Lm_eQDaRpLxJIR_vdzVMvXiU-5ojfR_ESGlIwtK5X_LDvWWA60nGftCqX59FIZ48l89Rt_T-aHYUBHE-SFRxkxETTiV2NMhsjy-xKxb97cKRCel7PsbtdVS4o2u-SRO5wEb1P_TmNnopLSw38GEQpqJgtPVEqHv5XwGgnZECXasS99G69fJPOe8MQ76T6DxkY_avGGZ5MAMQQTU28gEOjAQWcIgXCB0ntVQ",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105104525152982049974\">Shondraia Guo</a>"
+      ],
+      "photo_reference": "ATKogpeW-2NZWf9B9CVd8RcEYvTWbWfjJHev-nZGWHnSo_S6SmnsoVmNpFLK5AXaT_r--DACC_UDPdvzG3WeIVoVqjp4MsAx9mXeTRSdJ25_7XxQIZJvoKRXKxHBwLHxbq38KMj6exX-bvmg5LL7XxEgUmDAEKynGmMBxodUoe4GNT5ca1ZHIIAJNarKVSJICiE6bDZP06LhB_uYgHf2e0B2O_LusF2ZlFDbSUKbfewnxnERgQkGKfZEplScWD0JMQKm5tA7ThT_4AQqvqs2cBSvP8-Q4yWpuw64jRCGhHqm4n7CXX7IhXdCMtEtHPJLrwa_6jw5UCfQVmG2VxWleLvJYKPtWvnTVk1gJR2_xQT83TEbA86nSYx4SEKmlpl-VhEM-JKfERZdjm6PvpANRnfe5oEFII8K2utJE3ABNN65lYawmJQ",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106554724664072209606\">Andrea Leon</a>"
+      ],
+      "photo_reference": "ATKogpcfM-3vP0bFgJcAgAIUUjlZgbqnvxQuPuzAGOHG524kPgNwqOFzpDwWii2Ao0J8cO4UnqlbjsTMpgsTLTT5Xri8dDD8Lzedcc8T4rPY1_TvTuke0EzH4_FRlQH1HVvbwArPvRcJFHjWpbvH2nI81B5lVSJOVueOR3SWV1Oakw4mjfH1FDdUV7DSjRIXgljyyp-4g9wCS_azHzfvP5NOhlz3O4REW9N1a_gLC5be8rn-jb3FjCulbReodbTafFrxaA6pkr1Q0q9g3eSb_22GavpM2cLtkFoe2Q9zKOCt9GiPTbDDoSi4ex_FmCUvQ84OXI5mP2xJho4nrLtigCgHPYP98-ZrwZ1EB1-fXwKARKoGB7e7ybiqqtOw4_H65Ths0aXE1ZwdAHEUPGzSfbm-xSIA6pSZnUBfMGq4SCVpFgWPVgQ",
+      "width": 3024
+    },
+    {
+      "height": 1440,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104864076723735240592\">Wontak Choi</a>"
+      ],
+      "photo_reference": "ATKogpc3opiEUGdWCPYF9oRPYc5fyx_zm7LW4bcrCjPu0P7nKdGUNuUBwcbb01FtJCRJ4Fn7DAvztv6miRThOLnst0P4Ld0zN7VdLOf6XMbVPuyuuZTa-TOVVSwGIjdjpcsDpZR0qLEGHVVy07VgEuo63BfpE91aC5uSsTFklVtqsdChIL66FywQRBbv4q56xvpcnUcM1Ln8dkAV3-wJRGAYieKH7CHdJY7TR4vVpyfCRjd7ht4ZnACHHa5KKELOS1HifbrFyEb5cTIdgoUYf0dYjNpQnFT-5pLvFo07EumfwUBzHGuCvIjdzucQiho5rEPnoU1oRNNdaTzGEJkTC9rc5-m-CRjbLY5hX-csQlGWK1Uk1WgzzYuBS3vYG58p7fmDbmDlS22PmaSf41utuyChdMj5lohiW3H5UcB8nUkmQZF_7Q",
+      "width": 1080
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115302341217318574470\">Steph</a>"
+      ],
+      "photo_reference": "ATKogpdbX4ukpI-2K5Ep6JCszK4qhDFi-qYMc1r0S7_CO3BT79uh3CTBzkFlm2OflpKWK_plJCPUc2oMBcv9Czg2JDqZhvDwOJ0D7gLgtGLQbXE-zRf7jNP_1ouQ48CdLcWLvauQutVLdyhaOH1swAQ1LdXlwap8z6J1QcNKe1awK2Wvs0-tRLjJus_hY3cOcB-OAhZGHj99s2TXnsvu3jVO4ddXwzWtO8uxpBkUzHH68LWQuBvhobmXPlNId-mPfmRJlciUnkm7t2m8VoAafYgYP501caBtCFzS6IkSEIXonh1xDZ3AhuEDFeDZcpATiVeRhS0nmZ-u3Iu-UdJplyYBRAXJNCY55LBd7KYuuwiiCqGUoEPeIWYnKtNF1V1kX7xO43Tf7wTAxJhvJiZQi9v6aoL8pDG9KwcKP4MpeuMOXi5b7A",
+      "width": 3024
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112226466409553141550\">Jenne Ramsey</a>"
+      ],
+      "photo_reference": "ATKogpcM1cuBnnmFPB3fRAxNnrxzYBW9dS6gU6QfUSrzpGe5UjYZ4p5Lf4gAolhUhuHV7o52Z2H_AC2IDD13Ya5v3XpsjT-Oz021pccTUkFdHlhQgAnSh2pNahh5cDObUDTk-F1ReeVVZyF7O9_vDmHbKzBhbY_J2Cv1FKJ28yl92dGW-DqV2MIRk_4jcwhY-4EEW_iwtBpSrb9-hjLttkGgrh6RZvVCBZCcs9WNvpeFnBPG37mpHuahpuqFoQgS1_7e_7fkBI78UF6ycv_QNqaKZ023aXauT6lV1tBJlegsY0jwQ-62oOI7VSBxpEO-fAc0TbS64ZeOA3mLI9E9_2Jjkc6Z31MUVLChI75Z5B1xnuuKJ3Luh2A87Biaii9gsyYa__cneUdWv5GCT6zIzxVZaQuH99jNpXmRTC9kVv9QHhWrCA",
+      "width": 3000
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111005338526080986194\">Lucy Liu</a>"
+      ],
+      "photo_reference": "ATKogpeQvS50cFwfUtEUs-nQZQUtCNGvftZz7XEQGqYb5T1OMBfwrgY7z2F3hwRa0DgIBcr_BJtWIHIMuZDhkDAXs8W3Vli-uTS41dMc94lZFxLhYDN0Btx-FDxnXSnxUFZAfZIy-PotJUTOKuurMk6ilu083iu4zpprDph65-2BpZjO3gv9TOlNebtSmFsEeK7v8v4LUPjcSwFim9aGeBpGgSRvw2ce3SxZD3gvS0cbgYbOzyDccNaEuUwAFqr3ABn6fP5CzjBa2jTUvJAEsdS5qfAlV1ylMaXvqpxC94GjkGR30lqAPtsMnAj9gsWHyKNQOyJD36i3oJZWSni59D7lf4_MzE9frxkBN_ITtYPiMFvxi5ABwZtrvTyt-eVrGMatMGIlCMQOTv0oGSONnEChcjiXN2Xin5CE46RXWuSLxnfRFw",
+      "width": 3000
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118319614513161021806\">FT</a>"
+      ],
+      "photo_reference": "ATKogpeMrw52_zlK1zVhZz7e3mFkvq0kzTs8Chb0P7xaMS40w2krkS82C2kuBh4IiKZ0bJPAkbeQnYx5HMYSjgq2LAUONNZmXOd38QMTz6LnDlC-1em0ERNesO3CR7LuJj1TueI17eCbzwntAj11pNEq--UoD4HEsycU0lIXPIw2Z78OEv_rH9E4_ZZnkj46xZ2Z9OpB6olqWA9C6S8KfAHk-aJ2uEOaybhO5dtZTSpYjKa2Je6Y0ecl2lScjqUrcBswwfDb8fiQCjdUfJ9Q4xg5JWUuEPzJyg_cdQ7jX3uR1mbCf4-sU6yh3PrBcxpMP8EAx2y5yxMhvbRdJ725kykGGK2KMEHXmbI1JAQblFt4FiyS6YMN5nzA5fWR792gmqVnpaZQiLOlewFpB8I_OjyLnxuclyj3PXHqkoSdip7kQhJ2LOA",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111016457781937333234\">Hinner Thirteen</a>"
+      ],
+      "photo_reference": "ATKogpfyb1w5C5G930K_v3_AWtvhcZpEKoPgzth7gmme9VBWf1gyWVWB_A0w-DrisGNaA_9ziRyoekR94SxADUUyemsQMJdjmAFPzHDcW18TBgP7EsXUd4EnZdV0c-SBQ1olayzgYtBDPwz2Yqwjv4OqJOln9hhSJN17BkNKLg8j9vgcjsfxY-BEEoRvzRERIdRgve9DuJiY1MK5iiiZBNelIC86X8eLb8uv11QKytSi_LVq3VrDcfL0uEHFNo7EdihssFxEgfLG2eJqRCecC4YAb3RcDtvbdLo1--KugJ7wXK7tcLCk1N3iiD9V9nqn_D2iQIW6TSWI7Qp308z0AblPJsr9bzrGRGzCR4Rks8oUt2OJ8lsuJXdwk5JaKBt4gA7WhKOvQHjWlGT420Q83vAuX4jRUUSdmUJibj8v_ZuPZvb_dzs",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJpVwii6RZwokRPhCANQzwQnA",
+  "plus_code": {
+    "compound_code": "P2V5+46 New York, NY, USA",
+    "global_code": "87G8P2V5+46"
+  },
+  "price_level": 1,
+  "rating": 4.4,
+  "reference": "ChIJpVwii6RZwokRPhCANQzwQnA",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Lizel Engelke",
+      "author_url": "https://www.google.com/maps/contrib/102861065114339419464/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLwrhSoi7EZi4M0hoQo_fb0cZHli5f9gggbugWto7qJ83XECA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "We are tourists and wanted some affordable but good Korean food. Kofoo is a little gem in this busy city. Amazing flavours and so fresh! Like my grand mother just cooked me a home cooked meal. Good portions and very affordable.",
+      "time": 1748474211,
+      "translated": false
+    },
+    {
+      "author_name": "Jenne Ramsey",
+      "author_url": "https://www.google.com/maps/contrib/112226466409553141550/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXOMrCOzt_KWu9kWBXVshOGfcLZ1txQpJIOnADScw6pBzmsTXyCAQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "This was our favorite Cafe when we stayed in Chelsea. Excellent Korean Food but also a lot of other made to order choices including Bagels, subs, soups, and breakfast items. We ate there every morning and by day three they knew my coffee order and had it ready.\n\nOur  favorite item was their Everything Bagel with strawberry cream cheese.",
+      "time": 1736723363,
+      "translated": false
+    },
+    {
+      "author_name": "Steph",
+      "author_url": "https://www.google.com/maps/contrib/115302341217318574470/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9BTKKd1jnLHU5p_8ou9ComMjhA3Sy8Gm0ns6AYoUcDcWw6MqP=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "I haven't been here in a long time, but the food is still just as delicious and of high quality as ever and the prices are still incredibly affordable which is surprising.",
+      "time": 1742249218,
+      "translated": false
+    },
+    {
+      "author_name": "Marion Wolloch",
+      "author_url": "https://www.google.com/maps/contrib/102231493563926653250/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIYMIQm2fbiZHWv9gUx1UBRie7uBgTKaSjKbDQBJn2QMA5trg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "I was surprised that my tuna roll was cooked tuna and not raw, but I ate it with a positive attitude because the staff were so kind. The roll also had fantastic pickled radish. The atmosphere is fun bc it\u2019s New York deli vibes but you\u2019re having Korean food.",
+      "time": 1747271696,
+      "translated": false
+    },
+    {
+      "author_name": "FT",
+      "author_url": "https://www.google.com/maps/contrib/118319614513161021806/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIUNPmYVM7qZ5njWtZUyD4Ks5H6qb5BaeKO-INkAp2-tJxEvi0=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "11 months ago",
+      "text": "This is a Korean place located inside a diner. There\u2019s a good variety of food to choose from, and the bibimbap was good. Portion was just right, and flavors were on point. Missing a fried egg though!",
+      "time": 1722205973,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1100"
+          }
+        }
+      ],
+      "type": "DELIVERY",
+      "weekday_text": [
+        "Monday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Thursday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Friday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1100"
+          }
+        }
+      ],
+      "type": "TAKEOUT",
+      "weekday_text": [
+        "Monday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Thursday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Friday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    }
+  ],
+  "serves_beer": false,
+  "serves_breakfast": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "restaurant",
+    "point_of_interest",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=8089291815938691134",
+  "user_ratings_total": 197,
+  "utc_offset": -240,
+  "vicinity": "67 W 23rd St, New York",
+  "website": "http://www.kofoony.com/",
+  "wheelchair_accessible_entrance": true
+}

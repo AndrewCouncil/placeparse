@@ -1,0 +1,451 @@
+{
+  "address_components": [
+    {
+      "long_name": "355",
+      "short_name": "355",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Metropolitan Avenue",
+      "short_name": "Metropolitan Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Williamsburg",
+      "short_name": "Williamsburg",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11211",
+      "short_name": "11211",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">355 Metropolitan Ave</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11211</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Tuesday: 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Wednesday: 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Thursday: 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Friday: 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200911:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Steaks and grilled seafood are the specialty of this brick-walled spot."
+  },
+  "formatted_address": "355 Metropolitan Ave, Brooklyn, NY 11211, USA",
+  "formatted_phone_number": "(718) 384-5054",
+  "geometry": {
+    "location": {
+      "lat": 40.714291,
+      "lng": -73.9560529
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.71554998029149,
+        "lng": -73.95472881970849
+      },
+      "southwest": {
+        "lat": 40.71285201970849,
+        "lng": -73.9574267802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-384-5054",
+  "name": "St. Anselm",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Tuesday: 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Wednesday: 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Thursday: 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Friday: 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200911:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 840,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102431410056555760295\">St. Anselm</a>"
+      ],
+      "photo_reference": "ATKogpfwBS1FbTt9RHUATPUDnSAQyiS74oh1t_61jmEVJJ2UiexXOQQi4XzYOC_khjfIi7KiycwS1T7IRkTDZZ02-kQDKCZMOPvJCcgPcEbBtlV2jnQOF-ZcRTrMOpIX_L_H54hnCPnjzKLs_HRx1_1W4S2m71vzWnsyXQBAuupWCL6vkZLpeTF8vndQJNyzTXC72hgrpJNnQLPreKL0zq9CcB2lAWHOr7Jioiw57RrLHcIgwTWq4ji-_bVyf6zKqUdBddSkuxsGTXA9Hp9khZ_k_IJspaH6ohtNVebf56bQT_-EQw",
+      "width": 1336
+    },
+    {
+      "height": 4665,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102431410056555760295\">St. Anselm</a>"
+      ],
+      "photo_reference": "ATKogpfBXSvBqKxS066FjSb0pUbGKpGmvSGmCC8TQ2pXwv2R9tB0O-wCkSWO_orkl0GP9ZPrtQODjN8tFH_HlSWoYQNu-TM_ZS3PQiTp4CAbmxWRc4KRz0GISzqjRskEzht6ZEsLOT3GANVdA8xCqkCF6q2QyKXrqF-Hp_iQufpyJGHvQwHR7PVSxKAtRcdL2n5HE_hXUXiyifWuOeiTg65Cf7pG_tcVJR6e9UHCl_aj0ym52w0Nl1n3JXphZu1b5Vd-wMW5Rm_BCp5_VJdL-OFaqJX9OZMDZa83EoybutNMM3wRYw",
+      "width": 4665
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114497285236564360768\">Minh Nguyen</a>"
+      ],
+      "photo_reference": "ATKogpeOlyQKb0f2QIfkp4Hcf8K7OerxVQXKQMExA_Fc-I91LFFdvy5Gb9Zgt5inMrxHkSXzw4oLB0pZxqjkwJs_MFlFZzBWeYm_ucuyF3C4jxSWsymQkHwhUQIpsd43_2VWs0ISj0Tfl8wp05W2B4AJX6bUbtSYb7cWlM7_nOEwUVLNo7vEhV9nJhiQeZnotx7NDzJXHR9XYhfvm0XDhKE8VdcMmPr2MRvAH8qWC4XOyFbt1wpIgdlE-kqzQ1y_GQz0s3f9XoWZNgWsN5rMU1JnDW38X2bSB508yU1aAf_UeQtb5WgAG_rzwqrWZziIT8lP8dW_gbVnuIyv9Qg7kHh9D1OJyp5AiieAk0Aj1Unv9dg_BLAsoTAXfWT6fnkkzD1p_2p0Oj30FiiPG1Cq0wyeliHg8rTPlid8kKcg-pbSLrXTlKFZM8yCgUe90aVCijL2",
+      "width": 3024
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116881931301246952790\">Wilbur Lo</a>"
+      ],
+      "photo_reference": "ATKogpeai7ENsW1aXDLP8WomF5kkQwkAgUh0dL2nJB9hYPG1lCnJ5iU1Cl8O1MS6KzGBavZIirZ34XZW1gdbB0591oVnRbiBibgLHUoIS3zr7RB3hJZIlY7o__T6Cup3j2lUyEcYNmSG7xTqpxG6lgzROFe95MVwf6zT0C1KbUt8JRufBrLhwzPNSo0yLdFIrevTYnGyQQkRhkK2oaB9rIyfdly35GTeWZw8fI-eK3eB1fSGv6ZjuZjQRFppVTillr6B3XUFv77Q-aR6wUTJsnrqbSJCKGjjyXbTThQbSrSZR8VQsKQlki9h7hFOfpKBdSvZ4AaG2rY5T8EC67IOjS95abjeGKxY8oWZz4k4YoozCMie321xB7dOnKT_HAxA3EQu-B6LyOAOJmfUMfUH2X72X7pOvDss03M0797jkvoB_bhm4w",
+      "width": 4032
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116881931301246952790\">Wilbur Lo</a>"
+      ],
+      "photo_reference": "ATKogpfj4UmgNbL2xifUK3enrYL4QGpTwqc1EmY1qugXA590nn1TDaCwE-or-ABr9IiGevL2yRlzHYVPyCvkazaOE0WG0DsKIY0XUvHxNYLqoEAOYxeN7dYBAGfXnz22oTXqvpn750dx1Knn5nqzCdY7OQcf9bkksKe9ud9l2_laWdH-DU0Iet2iozjHiVivrm8eDvYnXGQ8P8VF60_Tklga_6IZ5tD726cAwQLrWyaTfI_Lf6rwLMDvZ8f3B5jgLyfVWqwfQq97MHVC20XTZ6C1bKm_ZlAc7fIon6lduG24yilJqASH2_E8l89abLIj7C17qoES_qesYLNA0NFHa0oLQihy4JeizEquZkUdmfapG1ZikNaKbVoeUhbnPQYToUnIZNybMKYiBbT5eL6n7YbBG_lx_UX97yeq8J-fYetsRCvTfVn6",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107058472951006516002\">Masuko (Mr.) - Masuko - Chief Executive Officer</a>"
+      ],
+      "photo_reference": "ATKogpdb12bagF2bw8SpeC2vrlQuW4NFplt2jUPPAI9aXYghxv2hl9WQzITHethyURXFs8ZCj-Mkx3kiYOEoztr4gzuVpr6e1_mW7W8S9fd32_t6kBGhdX9oMAfZe_QHtZ33pPES6JAdXg3ToKvLsUuVlViZXdX9cwSC9g61ELl-Q0bxdmu79x17MhdoyQqxN_gVv7LUjMoDj15_YhJgYEA8MSptpjTo-cMa78fJl3dP2VG4RJzC3pRmIL-3POUv7pPhsArOH_gp5K4vVC1rlxkjz3OE2C9Kmq-Sh8E3YW0VKxfkObGLKPrZTMU2xbylH7mm0FO62ScO0nBrUNJ3E8Nm44vieqBTlObPKPbE0edGgo90TEp_mgdBHlJRdw5Hmm7aGwPG-RMBEFu8sHdDY013e__h9JGFpP-gmP0ZfwRDOwA",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112733328014832777846\">B K</a>"
+      ],
+      "photo_reference": "ATKogpfRHo5xlV62i5fnUc0wUpY3rqBdLFXy3Qynaxo_3YX99Sa_tleQqP8YFbKPzqBCYjOFjOFzj3FwjL0TIZRYuDNTycbk5tPvwXvtPrLa8fgtdrRNs2Ec5D5V7bLJnJeOuP61nkb8a8Ue8LSj57xwoDS-xd7q5AXWMaRlpKT5BdceyViGO16nR80i7StZBVR9nNE18tiitzIa9zx7Bv85jNZB4kuSMBZ4f-rmLpv1urueVL9AsWIFxEJ-mm7b4PuWsK2-r6DGTgIvZr4POcvuP85FCcj8YwMdaCl2rDa3bgUB-sw4dtwPrTS5x_mXlD9YLX15XHSZPkSvGvYzkesj9a5wVpvU2PR4rBB7cQI32jyXXLTSWnEO-A6s3DHog2122VCVfDwR2c4ODY5N8OTZFmz3jnoh_HI3ht3myvt6iVSbDw",
+      "width": 3600
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112062704829680295077\">Ryan Marsh</a>"
+      ],
+      "photo_reference": "ATKogpcM-a5AxLhm4gew5cqHG1R9GJjgDBvBdR7r6FZzMZoqUyC94DNcm_5yrEFKC3KS2ZLU58HueAY73iMlBzuBd8hjMjI9EMQc85KtGMKTnmMzwTxJOn4JobTgHjhcaNAMcA6Y3v0UJ_ninkRWOg5BP97pgc0Cu7BrLbketRJXXExwQCQ_d9UnNtFhFzc8e_UMGZ-vr6fDw8LCF2vyaBhr68hPMP6qx5qcDvULyt-7XnBr-MAB30Qtfldjvz0cRgJIAfPD4icmNUCbSKNgfZnZaofRK4LBds4TyU8dUnSNLcGui1iJaEiSeF7BpCDT-ljAG3Z_Lu1NIs0BI8YS7FkgsW3jjHigKzJvks1ZxQKv5X7QRtWxxjXr4Ujm2hp_j2Vgt5rIFfdwANO8iR5220kC1o4oK-dAnEoOMNGVAccd4hNzJA",
+      "width": 3072
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114095660721755749106\">Jessica Lin</a>"
+      ],
+      "photo_reference": "ATKogpejkWawHy5xOViGQTOjfCPPMvNAdqLLDJXnJ0cJ-tn8ZHbplQ2-TtZgoyh3FMmgtiC7E7s2uS6nHQ5Sp2heuwi5d7P0SKBw1JMCpwP_pxL_hgOzaOCDq4hClKPMkniOxdipchSJ5zUAacBjeVkP9BjgN_TJu5bMg4dps5H_tRk9Sn2pWFfgxvtVAhIDqi_qIxNsjwnp6tzudWqpFJ452FvjzaEts1BVfqyT2VhN5imh3d3B-Gg1wgbjIYaM7Ot-AhYhOkjpBuiG78YkyKDeFQXkVeenS1tBlVXhBfnGzvuOe8x1kLDDijG9ibr5LIkT0zEUw72sISvTnTkggw-zjwd8Uz6FAhAqxi_rJBvJlrESknROkcBh5glcQB8d4aCR0lwMODWQ3tdRnFI5RnDsUbsHlzt52CSoZrxDKvAwjye_zeM",
+      "width": 4800
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116881931301246952790\">Wilbur Lo</a>"
+      ],
+      "photo_reference": "ATKogpf8agEz09lZlqP0Cjws0QeznD51NLHrZHwD9PZFlyDGLie2pT0VIZ4mvlqh5SFTnL1DNsQHYOn5KvyJJIQrxeSrVX9EWRipfcNS5_bFagx1xg-alzGt5btJbMPgFGsi-DGtBMODBEvL49xsDhRkbEVgwuZ2UQy07NCZFlzFNFZySLFtOoF3p3yhasEIFIRuWRbLkom_vxn2RisGEfV_B_vqO8bBexrGobLb9Yx8Kfh6LQwxgju4zFuC5bR8zD-3YJ1QkavvaG8XwZtA6VnqIhzeQqeiVbX_4_MPkuT-IP9QBS0gaD2BgTi8eib9_CaLA-T5cM1_it66j1v2wp16BSpCLP1c_TrwrfUgTZytb-Rh8Y_mUiGiklDQDRusXA6dBZnbqp8HjRzcEZ04kLUGCzoXr7fDyR4CrAQ_vjXXG-ScIXdY",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJc3Sn6BNewokR_RkenZvQhlM",
+  "plus_code": {
+    "compound_code": "P27V+PH Brooklyn, NY, USA",
+    "global_code": "87G8P27V+PH"
+  },
+  "price_level": 3,
+  "rating": 4.6,
+  "reference": "ChIJc3Sn6BNewokR_RkenZvQhlM",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Kyana Ifill",
+      "author_url": "https://www.google.com/maps/contrib/106902456777025553539/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUaeNeUnRjtKNWX8vgafBxQlEz5_9sAtCLZKAZf0MGOJcSEdW03RQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "I just went this past weekend and I really enjoyed everything we ate. The steaks were seasoned and juicy and went great with Au poivre sauce. We got the Denver and butcher, Denver is more fatty but the flavor of each are not inferior and if you don\u2019t need extra fat butcher is perfect. We got this huge Bo Bo chicken that was so juicy and well seasoned and felt like such a bargain for 45 dollars. The pan fried mash was delicious and bacon was also good but not a must order. The prawn was really great with the butter. The lack of drink options does suck but I enjoyed my Italian soda. The sticky pudding a la mode was so delicious and please keep room for it. I don\u2019t like how my reservation for counter didn\u2019t indicate that, it just said indoors. Service was on the slower side and I know it\u2019s a small restaurant but they many need a couple more servers",
+      "time": 1743094059,
+      "translated": false
+    },
+    {
+      "author_name": "Minh Nguyen",
+      "author_url": "https://www.google.com/maps/contrib/114497285236564360768/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKUxJSb7gEEGJ0DjtkmUxwyWig6ybDpAO04xHbjSkBTMewnpA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "My fav New York steakhouse that does not try to put on the plates anything but delicious food. The steaks are amazing. Not many places serve hanger and they perfect it here: so succulent and flavorful. Ask for the pepper relish to pair with steak: just divine. Save some rooms for desserts as well.",
+      "time": 1748909205,
+      "translated": false
+    },
+    {
+      "author_name": "Margaret Kim",
+      "author_url": "https://www.google.com/maps/contrib/107358655900065770294/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ8278pjf4h51M010KCHG5S9gSwXKHTrs12sYAeDnFBtvb3eFzm=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Had a lovely meal.\nThe chicken is a whole bird.it was the best chicken I ever had. It tasted like chicken and a savory sweet flavor. Mashed potato was a little salty. Greens were yummy. The fingerlings were really good. Toffee pudding was decadent.",
+      "time": 1745777309,
+      "translated": false
+    },
+    {
+      "author_name": "Dwight Kenneth",
+      "author_url": "https://www.google.com/maps/contrib/111924169639245553527/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUfPI7_EDEcpPL_Qn9G0Wd-eUmJ9xJ-xCzZ1lnsuVh1UGld1Beo_w=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Visited St. Anselm in Williamsburg for my birthday dinner, and it was phenomenal! St. Anselm in Williamsburg is a standout among steakhouses. From the moment you step inside, the cozy ambiance, with its exposed brick walls and open kitchen, sets the tone for an exceptional meal\n\nWe arrived around 7:30 pm, and the experience was perfect from start to finish. The 60oz steak was cooked to medium perfection, and every appetizer was delicious. Each side was outstanding , from the creamy spinach to the pan-fried mashed potatoes, they were a delight. The sticky toffee pudding was the perfect ending to the meal . (Gotta get it a-La-mode of course! )\n\nThe atmosphere was cozy, and the service was excellent. For a group of six, the bill was quite reasonable at about $120 per person. Definitely one of the best meals of 2024!\n\nCan\u2019t wait to go back.",
+      "time": 1741306916,
+      "translated": false
+    },
+    {
+      "author_name": "Bethlehem Gedion",
+      "author_url": "https://www.google.com/maps/contrib/113221305314269864982/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2hIoJBEvRDlYeSauUZeUkSzYyYXSsw18wqijwDcGWBsSw1qfr=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "This place was amazing, the rustic decor and dusky lighting was the perfect setting for an intimate birthday dinner with my sister and brother in law. We had the grilled halloumi & asparagus (no pics before we demolished it), the clams, long beans, and the pan fried mashed potatoes. The entire table agreed that the potatoes were a clear winner and if you only get one side I highly recommend those. The long beans were also seasoned well and paired nicely with our steaks as some type of green. Our meat was cooked perfectly to order and server was very knowledgeable and attentive. The wine is served in an Erlenmeyer flask which as a science nerd, I really appreciated \ud83e\udd13 I can\u2019t wait to come back! VERY CELIAC FRIENDLY",
+      "time": 1748953209,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": true,
+  "takeout": false,
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "food",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=6018727318801750525",
+  "user_ratings_total": 1457,
+  "utc_offset": -240,
+  "vicinity": "355 Metropolitan Ave, Brooklyn",
+  "website": "http://www.stanselm.net/"
+}

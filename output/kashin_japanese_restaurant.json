@@ -1,0 +1,557 @@
+{
+  "address_components": [
+    {
+      "long_name": "309",
+      "short_name": "309",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Crossroads Boulevard",
+      "short_name": "Crossroads Blvd",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Cary",
+      "short_name": "Cary",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Wake County",
+      "short_name": "Wake County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "North Carolina",
+      "short_name": "NC",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "27518",
+      "short_name": "27518",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">309 Crossroads Blvd</span>, <span class=\"locality\">Cary</span>, <span class=\"region\">NC</span> <span class=\"postal-code\">27518</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1400"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1400"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1400"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1400"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1400"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "special_days": [
+      {
+        "date": "2025-07-04",
+        "exceptional_hours": true
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Friday: Closed",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 5:00\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "A lengthy menu of Japanese cooked fare, including donburi, udon & ramen, plus sushi."
+  },
+  "formatted_address": "309 Crossroads Blvd, Cary, NC 27518, USA",
+  "formatted_phone_number": "(919) 851-7101",
+  "geometry": {
+    "location": {
+      "lat": 35.7611751,
+      "lng": -78.7381393
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 35.7623918802915,
+        "lng": -78.73679871970849
+      },
+      "southwest": {
+        "lat": 35.7596939197085,
+        "lng": -78.73949668029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 919-851-7101",
+  "name": "Kashin Japanese Restaurant",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1400"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1400"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1400"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1400"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1400"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1400"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 5:00\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103096127779944547884\">Ali C</a>"
+      ],
+      "photo_reference": "ATKogpcp48dePmCHNAiyni4IlCNZkFX-QkvWdFA4PDNYkVrmrvIzmtlRjx_BekF9Q7T3XznOZfIAlabGldfh4MudzxtQCeI0rdg0HvsCncciFktrD1RC_AQXKsGyqkGSmQwWNygkoF6kuw69xzLtwjtWK435tua-i5x8f6LefAyQUSV41ZYppJdfR66EQ_lXKC9sCe6gcP7Mtx_aEEqjQFJ_NQvQFib_bV4PULeWbWGyIHgCxnxhEp6ix3OiQ5ve1-wYIMOvJpO7phGZv8-lu22v-5JgUfDxmNdwFcGzrQXdY4_44ziRVwEBmvy_v57kwCU6YNZdRu_vVczn4Ak0aqwXdptpFMuZpDEzfYfwgmKiGL6uM3tZELPLeqaeXlv7vPs0uxNWLuk_fSfV0cbCbaUzV0AI6aTCHSKbOOtrwV1YbR8F0w",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113103089930317478703\">Madelyn Figueras</a>"
+      ],
+      "photo_reference": "ATKogpedC6uOzToAOZas_Ubwl6kTP49l-yRQ0rKpX8IQ-WitzKzlkbsIMo3wvdA89QQXirDsuZOcskyTWSIIdw0A8R7U_hnBhuT7g6Z76EDx3qCGVCKNfVhy1hjSSrRIHxgJGxBqIhfzl-KDyUPXHiSESjJjSXTaSgOeR_JfhvcEXuIIxE00PEqj1IcLE1KVGb75gIueKYcYaO0DQ6mkUkRP9eioSwCHXeBPM6e3DeQuZuiK3Wou2CjhhMf70tQ2R4OQQRscEL_YqifFaHQqkQoKKIaG1lOocapqB7giBDLM4_KMki6gT0_4jLe2KDxyJIpt1mELtAZA-FbBne5oOKYjBXfeRS-opzBBs19Erb52LCFjrBanvo2mp7v6QDmKWqxdr0tNvQrD1Eydl8cj04a4yyheSQ3Q5YL2x7xqspemRNg",
+      "width": 3024
+    },
+    {
+      "height": 2048,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106037727132119498866\">Kashin Japanese Restaurant</a>"
+      ],
+      "photo_reference": "ATKogpfNdeiSEt2jNXi19WT_33uhxKv8R0_nxkHfTBmOyrsvdGu1L9vcxVQDvMefolpkfn3i3o5UXnAb5ahvOIlfa0hqOe9c4Ajrrx0gp70hC4K8UJ3HrK5Ce2Sxi-IXGdk3TnRjSYO1gcSlHNhXBqPT0kV9wu-jpBMqO_Ppopf2aMfq1r5y6GC_p5rurwBnS4HcRILKltWYFDEtcetjWctbGTSWdFa_aTi0LbySZpmI9SwqSAwLZviWANOKZ0zqcpOHpg3xkNe5MOL2ibIrux8mk4VUr9GfxqmXV2WCfhKi1snxwg",
+      "width": 1536
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103212901823213059230\">Joe Kopacz</a>"
+      ],
+      "photo_reference": "ATKogpcS_r3lNWoB9TpRJ7ddx7GRNbCsiBW8ILvfruPkFd1j0GrSNAmfuoQAQF7h6ET9W839ME3IAh8Opy7wo8HApraRzxqkicgs3GP0tPFjKK7YQ0Qe9WVFYbTrg0XX9xzTYVezzOg2OlILuGv_QG35E4pFfWSaXNiP6posV6LOHPpbrhltbSDvny8qT57jEpDLZIHCydD3rgQL3A92niL4miGOQhYQ0iU5YvuDmfQo3aDbcvUmzZSXcbKcDK1hc39-MZgWe0BqVGSguekpM-Cp6Q3-dlNP74SufiiqInW57P8OLbBiUguBMDTvqWvRZjSRtC5FNw0OgYTVj3OIQthuzsRj1xjtfwDC1WuHYX02LaNK3KEanbzHU0FwTJ0S1R66owvb2AtYBQzAGOVTzSc-sNe_K3-ebsnhJgyhQl9q2wj3Geg",
+      "width": 4000
+    },
+    {
+      "height": 1868,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117599068590850004576\">Cielo Ordillas</a>"
+      ],
+      "photo_reference": "ATKogpftdENT5T6uKpvM-4gJ1Yo4QHtJyvbt1I7irebRuh3QW-QYNpfdwKT-XTTSxZ5FdrqID_JSE--nh942k5LW9PJyPDDarebPLp1VLoA9HkWC7M5ktVWovYGSaqn3GrPv1AsM4Ue75kK1kzKi57ioIowYrZI3g1M4KxggqraiwwHXy4faJC5US8KfPl_BpUvAL6CxrYdTHWgAN1Lu0xlskfpWzcvAPokH11CKajZF75XMkVE81UX4xP34BYgfk_OTOr53anhP-uCpmVIe7NHnaeZeS00VzIcrFSkEFcqG6NH95m7BJ-Pvav_uW8JqQzudE3QBNf-YauZgrTODoawAgN270tjE1CIPA1EdcMOSFsUmLHmBYp2HLVDb4k8xmrPnr7OS-iwBd0vaZCW8ox-W8yzslVkilodCczyTDOg6d5QEkA",
+      "width": 4000
+    },
+    {
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115556127646182595865\">SpikePapp</a>"
+      ],
+      "photo_reference": "ATKogpcxSjQuNYb74FgfH75K9evLmMDjD6rDeusZ3-8O6u21gAGbUz9yTB6azPkP6az7I3_d44xp42zgthKfF_lykyNglUbGJJIOxQIuBwUps7dBg3T-5GedlfGa6v6BvZrPuULpI1SDz1zjtrQi-Nvu9Z85vvB1FDYoLlRI1uFS9XBzXdxZO3sQvYnhJ1F3MCkhwhG9faj0sNH7ELM8Odzf65iRvaExvaA1dQhPsuJRf2D45YXGlxTLT1pgawUhJmKvCGAiYmtxXljbOjkN4C5hnNLhLt7YmdO8HIM4ouExKa71vBrUjg2yrekcaZNYFpoybv19Lw7_3hvHX4l3yuvigyn8Jhx0I43MnRVuuD12ne1L19SDGzMR5nqcqdRQzbGBsUdrPzeWK70MRAt6UcdEDvlrfWhITk3AeTi3kP9qCRqpmcFS",
+      "width": 4000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114695111686064761575\">Tatyana</a>"
+      ],
+      "photo_reference": "ATKogpfbHxSfSLBY32ZTFIxqDhcl7r-Wo4Kq65xiFwni0qM7Z9iMeKcH58UMXGQfdqbi-BZw9769Wz2hpAORUCbKFgTihNgIfh8C58ts23ZjTGJW2OZbYMrdqNFCI9Vlej46nvwQ8WVHTStKtBtPy_zkrWGs6FE6A96nLCTAjVjRwJF49NzvsBGb2tgFSuOVF2C8SNOlKeMMwZtrQrVcJOpR91eqHIMAbjV9sDM7t47sCDOjFGsA3DJ-XeEqBiULCZhbabpZPkhVq17pvUT4F5RG9PRzAk7is0xn0Zbp974UkCd4cG5xcUOcw3Q3ZY5V_ne_jVZo0tvtW7MSiJp2rzuElPw2sz0fuydRESKDvbrHvNQVn42btm0X04o24VUlIA-2i0MzT3qIn5Xb7Y9_QQ6bHg28AfrvuiZXfMe3BnTwvIL81w6G",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103771686448826767135\">Courtney Catunao</a>"
+      ],
+      "photo_reference": "ATKogpelPJh713ma4bbaZy_SFnKelYAILn61j1TT8SzBJ7aqOiKcKzygNt8QG3i6YsBJnsYohWDk1LiXY6LoRZVpctXda2W9JmDTVwcnmlq-EXOqHRYx1BjL90WmAq83BuESScX7I18kVEmP13gQTIXCeyebh6kazpO4xrDobPTCkgErFvsA_JMsDAYgYFDHJMIxjjnR9YkVghNBipYtl8BX73nSEbEbqcWFsF5RGE7BCqq0thQwFqZck-shz4H9JUrPmc8esXBCcX8ay8XWAxe-5UcBQ7nXt07WhG1in4J4QnPJj_v4MU267oCp9rTPe4bhEoEGrrTT3JobT0_Z2QIt5CwNBBZk4p7GvW660DAEJuE4vVaZE0f9lsNQ5sg56fQLTyoPu6xOMuhP5CP8stfiMOT6BKQE2GPDF_TEqjcnFCkC0w",
+      "width": 3024
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101747676252723621752\">Hallie</a>"
+      ],
+      "photo_reference": "ATKogpdzfH8PiH6IAxPaY51rTV-YQMdIi8sntRiCzBASp4QTuGLuqEJVv7OGva2n9kIZf9Lg0oWZ4sLRnUSarP-sj-uujC19phvT1Qf4Gos6Dr5WAMnjE327la_9mokfYjt3f6thDFg9ULF74c1Hk7IWRui203dbv_PGmNe5wbe4PJdN0bx5wiXb1tdxgHgvXWZney1DdIOc5mlZuAXpZ4qGNnebLv5scgBIP4qQytKWGeJxLaAdNyiEBVBd2Smuo3v3jO5ypDF6IGwTQyzOh6F1ip7B8hfa8IykR4D9f_HAKaqTYJfhUy-o3eWBn0GeFF_DegXQ6ClnZETeqSn3Js4cgXGZqJkx4sOVH30e94YtkRMbLCZ78ifgp47eDSAMAR8N4KXVCGVUFACP71kzcrngoHNdiRrX89WtwoZ878kRhCAKeK25",
+      "width": 4000
+    },
+    {
+      "height": 2400,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102887238462595834421\">David C</a>"
+      ],
+      "photo_reference": "ATKogpeUOU6oyFaqHalZczcsuEyFslTWl9l26x7THH5QbItfz8xrhE8thvYR71vJg0UcaZgQK_4nXLv_rINFyVyxXXUWQgrZZU_ETnJxS_9fawVmFx3wLJgISX0lH-EhHsfd2nu8AmUxg4sZjs9skE1cL0zh50g8uSU2xZoe__ksUp7Q_U2g8TV_pzFtQHuQ2QxpTrFo2Es0Zz1zDudvsTGU9KpFJfQCRaXT6Nxdz4cVbt7ptAMmktRHWZnJ3p4B3dPJN9f82bE4ocEKjlgID3EuOXZcWWH9ZAbXE_3vJvcv_vhfEIGGyee5D3jP1sSnpO6oLJkxOYyBhWOMgGuSX6Qg2ssg8jmdzqkLWeLlsr_3jFA7rzmciYet06InVHjcMhpR2HzSv9uHRrEzGC81eoN72X0Ouonc9WP5nKYe9yuTGVM",
+      "width": 3200
+    }
+  ],
+  "place_id": "ChIJB0rwLpr0rIkRoXPNr5zMd5I",
+  "plus_code": {
+    "compound_code": "Q766+FP Cary, NC, USA",
+    "global_code": "8773Q766+FP"
+  },
+  "price_level": 2,
+  "rating": 4.5,
+  "reference": "ChIJB0rwLpr0rIkRoXPNr5zMd5I",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Hallie",
+      "author_url": "https://www.google.com/maps/contrib/101747676252723621752/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVprWSSYu-WpSPj-QXjh_T9s0X2HcxG3iHZT_9Z1N_cUNqmyEhU=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "This was a super cute restaurant. Food was great! Traditional Japanese food (sushi, tempura, katsu, ramen/udon, teriyaki, etc.) plus they've partnered with a poke bowl place so they also have poke! I got the Over the Rainbow poke bowl. My mom got donteri(?) Both were excellent. Miso soup was great! Salad dressing is the more sour version of ginger dressing.\n\nParking is pretty easy, and there's a lot of it, though if it's a super busy night, you might have to park behind the building.",
+      "time": 1739687847,
+      "translated": false
+    },
+    {
+      "author_name": "Tatyana",
+      "author_url": "https://www.google.com/maps/contrib/114695111686064761575/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdoC2sRoJeSvTRDmYlkN6sXoy47gLThTBY1X_HQJRkJXjQHl21=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "We enjoyed trying this new gem that we discovered. From the moment we walked in the door, we actually thought it was a poke restaurant. We quickly realize that there\u2019s also Sushi here! We were greeted fairly promptly and the atmosphere was good. The place is a little small and service took a while. But food was delicious and we really enjoyed our experience. I would recommend anyone looking for a good Pok\u00e9 or a sushi place to give this small gem a try! My favorite roll was the one they grilled! Unfortunately I don\u2019t remember the name, but I will post a few pictures and videos below! It is a little bit on the price your side, but certainly worth trying at least once. We do plan on coming back.",
+      "time": 1717639564,
+      "translated": false
+    },
+    {
+      "author_name": "Stacy Muse",
+      "author_url": "https://www.google.com/maps/contrib/110590728222746180226/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVPsKKJsZ8oWi0rYD1iD3BhjdJMZYUG7alkN2M1uPj8IMJrl5MQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "I really enjoyed dinner here! I got here at about 5:10 and within an hour they were busy. The customer service was amazing! And the food was too. Literally the best katsudon I\u2019ve had in NC! Will definitely be back to have dinner again soon!",
+      "time": 1711607315,
+      "translated": false
+    },
+    {
+      "author_name": "Brittney DiBartolo",
+      "author_url": "https://www.google.com/maps/contrib/112157676893178567287/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUTs-n7XVEpdqO1wzgwYoPMiw1eknC8UimKwBo1pZzyrMYrgoRoJw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "2 weeks ago",
+      "text": "Will never go back. I do not understand how this restaurant has 4+ stars. The food was not good, the service was terrible. Items were frozen and pre made not fresh. They added at 19% gratuity to our party of 6 and honestly I do not feel that the service or food justified a $30 tip. No where on their site does it say they add gratuities to parties of 6 or more. I took us over 20 minutes to get our drinks. I never got my side of spicy mayo, sushi was small and unappatizing. Chicken teriyaki was full of fat and the flavor was terrible. We stopped with our children based on the reviews and being in the area, but this place does not deserve the credit its been given.",
+      "time": 1749815049,
+      "translated": false
+    },
+    {
+      "author_name": "Matthew H",
+      "author_url": "https://www.google.com/maps/contrib/111879717385826023202/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUXbwKl4b7VN2-3a_WfB7TcnTLa8dreGg9TeB4IqTpc59I7nS2v=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "This place is great\u2014family owned, delicious food and has vegetarian and vegan options. They even have a traditional floor sitting room. There is a separate gluten free menu and a separate vegetarian menu with vegan options clearly marked, even sushi(!)\u2014see my attached picture.",
+      "time": 1747320118,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "point_of_interest",
+    "establishment",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=10554129225102488481",
+  "user_ratings_total": 649,
+  "utc_offset": -240,
+  "vicinity": "Parking lot, 309 Crossroads Blvd, Cary",
+  "website": "http://www.kashin.com/",
+  "wheelchair_accessible_entrance": true
+}

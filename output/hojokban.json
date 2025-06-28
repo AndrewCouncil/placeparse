@@ -1,0 +1,817 @@
+{
+  "address_components": [
+    {
+      "long_name": "128",
+      "short_name": "128",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Madison Avenue",
+      "short_name": "Madison Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10016",
+      "short_name": "10016",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">128 Madison Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10016</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200911:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "128 Madison Ave, New York, NY 10016, USA",
+  "formatted_phone_number": "(646) 454-0008",
+  "geometry": {
+    "location": {
+      "lat": 40.7457255,
+      "lng": -73.98477749999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.74702223029151,
+        "lng": -73.98330796970849
+      },
+      "southwest": {
+        "lat": 40.74432426970851,
+        "lng": -73.9860059302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 646-454-0008",
+  "name": "HOJOKBAN NYC",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1500"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1500"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1500"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200911:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1834,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111330459099599874908\">HOJOKBAN NYC</a>"
+      ],
+      "photo_reference": "ATKogpcrA0kfVPEez6CkqntBdMxhGzpwEoBPF5JTMctrT07-T7LnblCBZ3DwHKdzcf1BKh3gzJHyI8h7TMCN2TOiSnKzND4Vxhjsx4CeDMF1uvnPu-c34wA46Sv3GoT9ZJupoUU5RedeTYAeqhEg1zLEooyl6WMX-YFZXVGGWTQVyKG_kYFT8uIaZ-1Qu97vy_obX7juZ4h3kxbih60IOpaQ_PmoitYFz0mMLTBcHRJINWuX_EVRuewmW71e3EpX7utNJ6C4vViB9ZWg_aLVsaTVqxUfMxmyTM-6qTTLjXuSjApS8Q",
+      "width": 1715
+    },
+    {
+      "height": 1650,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111330459099599874908\">HOJOKBAN NYC</a>"
+      ],
+      "photo_reference": "ATKogpfqOlLx7qcRSS5eRCc6dtog63grEwEmbbEorEMzLhlHdwoprNq61j4_7foaEXM_ykq0wCzwhqZhLnEUf2L62Nruuy9FC8n6uMK1zXaLCXjTpDlP-f_csf988mQx_gnso5r8dbItxsXmCUrFlkgutqq9XGtlM1JiyQjJNm4SZ8lBKxVAn8JBXYqK5UnguYNwnerqp-LRSQMlGbW-xylAdkMRCvfvl4LAYCb-1xB_Q3V74rjRL8Ca4SUhtKh89l75bNYBhknQ2eUpG0CePqnDOYikZ2tKJ7YBFpz6OYap5QXmRA",
+      "width": 1650
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108596003726686630904\">Stella Chen</a>"
+      ],
+      "photo_reference": "ATKogpeRiYQnZX9psq-MpdM0Zyt-wHuSVKwc3l0TXwSgVFeqz_E4OHahCYk91iUGkVlGuB367rE1PFh2e6GveocXqEZV099GdFxY-zvcslVQ5ejf9yDrUCXXkhPXaH59jV2CwjDnEBoBzTw7ZzN-LvuK15cijxMZ5vUtv2UPCjU6O2DUzWIT3pJQujfupdDU2x-24r0MFtF84Rwpt3nzbKatUEfZGn1W9GiuEJj54lfMNoyi0J291WwYKTwPdWFNNBTXZ-shrwBj0_hQPwsY7GowjxlFdNlA9-OG9Ap4FrEecg-3kHNj0PcS8g0uBIO4XV5aCA4mTk8kaDfS8pAzXWku9nMmgo1f3EZgd8nArd98PK6s3-mD39WsNISLjpajg40mda8Gic3muqJe7eLXhjcvPcLs_DHIuD7LCbrXvKWqeyPH3tXZEugzpMdzbUsCt7Lo",
+      "width": 3024
+    },
+    {
+      "height": 2745,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107100419871699451797\">Josephine Lee</a>"
+      ],
+      "photo_reference": "ATKogpcvcau10SzKy7ZA3TTY6jrfQkXH5Nqn92pW6pUo6H0IqrRjZnb4t05D8GfEvw9WHxe2syAtqbmiGWzjsbepFUJadPcfHDV0odnHNgxWjhExqrnp37xqY1nC1-nKUcgEhzUFQzmkxU8naFGuiJ68LhiTbR3jS2LAQw79WOvfhIlTiPCX_Z41cdIOAJ6hyzupJ_JjcwylelHVxLbLC2nM4_WbYC0tSnpKTxgIIWdSBdtjQ1KR4WSVT2YW5_p55ZQWNXR16JZg0mIJFDsOnXoFnpf1b1FyeCY-_dH-Tz3kr4U_80ro5BSig7HU7m_w44RgCTlXNSmX37Za7Q27SeIc9KQVNBykPmjI0rt4Z1iaB2WEw55iaxnrg7DMthTfz9EGMyi_-LfGq2mstxfQv3E3t_Qp70thI0u5vuBF-pnv8-tj_rHV",
+      "width": 3665
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100332455181806153235\">Edna L</a>"
+      ],
+      "photo_reference": "ATKogpcdY_22RnEmFE4QRiqaTCe_Di9ci9Ro1nRMz0LhY-fsrXXD2atol5g8nvsNjDqgDI0mBhSXyZQVNfdbs0-bPClUWvcHIONB0_5Pe03vOG7u7josor6hqdaGni_ljtoHAlU9IlbJyizeATuhkW2ER967vhSYEaffOQbjoeEnuGM5OB9_I17heA78JQYOiOm-077eo0OKdVSCYZC2zq-uwqTzwp1vuRatRGJtBGiYti7ASomvZ6D2tVuhRX0vTKfkYLTRh8kXA7KuS5XeItYsIxSLb3Z6AhW7ELxoy6AHZe_njj59E9WfFsnNG7bUHRtASK4h-kGy9jZrACOhdBazFX5J_4-vZIdYJGMmjnqHsCgUnzsaGEU9JMOr3v9Gkn6Sb8gpitwaEXSMYUV0xTnuELHZ3sNP75ldPHFC4UiwnEd6OP6-",
+      "width": 4032
+    },
+    {
+      "height": 1311,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116960296349361134949\">Katie Mui</a>"
+      ],
+      "photo_reference": "ATKogpfwaCP6yUVlHjy6o2sB2Tg90BGwEpj5cswHXp_oDPjbgYds_DwdU4FU-1evaxvYu52P-bjPGLHp9uwOF1dX_cBIG5gmJUBkdTLe9QWKCBrUU4O5_DfvWQiu4uD8DAZVOCMFSmc5WOpZV8Een0C8nT88EALpxbAxMQX88d2MIQhWx48f7dvanFk54Cpk_HQa3f7IhOYhSkKRuzsq3g3YYzIKZgnkSWrKyx_Wd0fbRi5eOPD4PCWm65a35933QOhfms2m0uEejsl-Wos9ZMzG0vZYx5xIuL-A2FB-a3G8syCkQ8GW9pF7-soyi_JA2GxZfBSNDR1bJbHLjCyURVMLbQbkvHN5WfQAAxIlR_NyEr3hXM_BvnpOG-aFQP8sA-uKno4M-IB139TORCjduRuc-hfiyzz_4oxbqKblcDcgLZLnx1Kp",
+      "width": 1311
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100332455181806153235\">Edna L</a>"
+      ],
+      "photo_reference": "ATKogpdQek_G2GHfe_RcaxkGf-LCrTEkq3fSxvzk__ylqNQCFhbSMifcwLGoLPNNUuw7zJnD9AMO5ll9Tceo_ARQ7Ggb84g6OtVy9YhoosQXDJjyR7Y5gk3VuJFKmmF0iHBM2ZDnEMSbbQVIta2QWyjxlJ7-E07uC3kMFnI1i0rU8sHCHqEr2AAyAQlilHYU8IEs5wDK6eGN_4y9MullruAF-MfEkYYr0eZT7CGSDVFE5XCkaezIBI_aXC2yZPMsUfcS0pKPtq-KUpzV951HrJ_7tRlSZPsyMCflGpg9wK13oQuUP-JLRdCQvXmbZ8XZnSOwBxRIjsyC-VD3tqFrWsVsoyPFOxUsSh8gkf317kR34fn0IQSuSlw5SqiUgTlVZ6mlUkOZk49ZSBUlNjvC-dMue9M1LoI636gVh3e5jI0PLGKNVw",
+      "width": 4032
+    },
+    {
+      "height": 2920,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102379664536376980876\">Wenlan</a>"
+      ],
+      "photo_reference": "ATKogpddhLxOpqT24mOrroVY9Zl90KM0tTkz99mWfyRuOuQcVnazUuPpJvuls0G_v0OuCa9h3-L6pFjSB26g8K_qWGl8lU7WyXID70_-2NazI-eb9CSPOc69RW2N41-zmxjNr17ijz4sh9FUSrLj3Gpra_C-3I0oKrSEA5sIgIZ7MAOowAavYpBrC8vckLOaKBkClBkSMpQ2-newUIKh0BdU68IhcbYlgXWxkBRX2QatgGcxWIFEklB6AV5RN4PLURT57_UfOmd2iVW2qAXccGqFx4ZaCC5ceP0yKs4EmRVKRh78cXbOm4t0AKiTYULQPBGKreC2MD21nc8B_w-sxCOt2-0Bngr1lKgrOcMUIdWVLa_YLI1ccpxtuJ1ptmCD54w1OXJeR4PbGE6-KrbPs5xLUaFYS8Zqz1x_TVbpB-QvFIl8spJU",
+      "width": 4384
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109944309096907120608\">Matthew Ho</a>"
+      ],
+      "photo_reference": "ATKogpd6PkXhiHLpyYIVELWBbdaeTfZCdVFw3R0O9bkAu9lCuKVTESyNr7IJ9tSRQViQ3jN2IW1zTb9lbeGrTKlevM0_EZTlmHn9_7IlOV0lCKwCJextYI9OWwe_fGnV7vaO8Fd6FSakG_X47CvkU7BFgtnPpTpYXf8AiT0_SwJlHw7RSWB9SXuvvi7q2jENOIMocvSwidn6KZSGqjewxc3NAkYHuwxqIxx6k_dTGWmv7bBRE04RQTZVL99YzIQwG47B1dOinJ0tDDh3aGjvIBiwkIXQr5qTFdsayVcnl-fGkYMV9k3V93OGUhLYxmUZPVRwN3ng7gKW4KOHyNKzl1FO_v_tId7bVCMikDFaetCRR8tsV9SdODwSypYQVlM1ge6LUtlsHxsMmvOeydIteanPWxN-dzZwF7CDWXp7tfxo5OepBaY",
+      "width": 4800
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106345834830586355277\">Alex Zhang</a>"
+      ],
+      "photo_reference": "ATKogpcv6HATgmsYZlzyLAJKZYuzHjZo75fjIzD2iNFW1xYPOZMjwERgIye2dHFiJhxtJ9lzRCt4r1Gqz7R5nrQh76WwgukMRx7YggokOnl0RUxZ9WhIkgf3442lNc2LdgNR-2SHBlQCbSXnCE_mGHdCT-YnedFLDFp0RTOYTVAYc2B8q1LP9nMYEP7cis_gSGD7PLFKs0i_x6XD_nirpmVyQAu0jCcY6RXobBLRBKXrfAZkSLXCJnSIowjBt2Jm66qjvAu5BdRb3tSOb2NHgElBvhDPd_VrqNh88eTu0UJEIZNTutbR9pF5sxuZhg4_zd5qQDh6wOMccC2aOY7YPbiF3Fs7sLJRCs9XLn1jHShVNbCgvcf4TDjZmMy1_9TNzUBhTw4EhKQJ6viGMz052pCdPmblWPn0N4PuKeGnTHOnuYhgVv6N",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJ92UIyldZwokRj4AVxzDTXgU",
+  "plus_code": {
+    "compound_code": "P2W8+73 New York, NY, USA",
+    "global_code": "87G8P2W8+73"
+  },
+  "price_level": 2,
+  "rating": 4.7,
+  "reference": "ChIJ92UIyldZwokRj4AVxzDTXgU",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Catherine Shi",
+      "author_url": "https://www.google.com/maps/contrib/109567075100223480060/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL7DI4EgFNlClSJLE6hu86jll4AwNFy_erjowkaN7vPdhz0SLg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "We loved the ambiance and service. The limited edition ramen cheeseballs were very good. The Hojok Galbi was flavorful and tender, but not sure if it was worth $56. I enjoyed the little kick to the ramen fried rice. Overall, we enjoyed our time and would probably come back again!",
+      "time": 1746288292,
+      "translated": false
+    },
+    {
+      "author_name": "Rovik Robert",
+      "author_url": "https://www.google.com/maps/contrib/103521079678024458298/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvdIKY2FJUlc9BTk9ZWNw8YCCznXGxmE-ncjOBIdgcjAxzqgCy=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Was happy with all the dishes here - the short rib is phenomenal and a must order, and I really enjoyed the Shin Ramen fried rice. Perilla noodles are good but not necessarily a must order if you\u2019ve had it elsewhere. Service is relatively fast although they could be more attentive. Overall solid dinner spot option.",
+      "time": 1749911918,
+      "translated": false
+    },
+    {
+      "author_name": "Helen Huang",
+      "author_url": "https://www.google.com/maps/contrib/111257127043312977979/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJmovTJM_-TDzlpzIYNvwayy2j7x5ZOt-F3bYZ5TTdM9y7TkQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "I couldn\u2019t rave about this place enough. I love the creativity paired with authenticity in their food. From the kimchi and sweet potato bonchon down to the dessert, you can expect quality in both presentation and taste! One of my classic faves (similar to many other people) is the truffle potato pancake! They have a current special at the moment called the \u201cShin Ramyun Toomba Arancini\u201d and it is SOOO good. Highly recommend trying this place! It\u2019s quickly become one of my go to spots \u263a\ufe0f.",
+      "time": 1745970368,
+      "translated": false
+    },
+    {
+      "author_name": "Yani Ed",
+      "author_url": "https://www.google.com/maps/contrib/101318509929152691401/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKxqlN8cFqCh25fmF8XvgCUw4K66RIKImc6KkV1w60WtC147g=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "This is a popular dinner spot for Korean food. It was packed when I went, but the nice servers found me seating at the bar. They have interesting and innovative cocktail options that have Korean influences.\nThe food is excellent and not exactly like what you might usually find in a typical Korean bar or restaurant. It has a slight twist. Whether it's the webfoot octopus with laver or sweet potato banchan, the food is still delicious. They also have classics like short rib (galbi) for the galbi lovers.\nInterior is packed to seat as many as possible, but it still has enough space that you aren't rubbing elbows with everyone. There is a small vestibule at the front where you are greeted, and the restaurant proceeds inwards rather deeply. Staff are courteous and prompt, very attentive to empty plates and cups. Overall a very good place to have a drink and eat with friends.",
+      "time": 1745317686,
+      "translated": false
+    },
+    {
+      "author_name": "JaeHee Kwak",
+      "author_url": "https://www.google.com/maps/contrib/104666134998547922903/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5W5KIy46F4zvjbHakbzJVx_zfCUjERFibDHobKyRAepxCt7vm=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "The food was amazing, 10/10! The truffle potato pancakes were so flavorful and surprisingly filling. Perilla oil noodle was the highlight. The rose dak galbi was 9/10. We got the hotteok ice cream which amazing.\nThe restaurant gets very loud and it was pretty crowded, so it was hard to hear without raising our voices a little. But service was good.",
+      "time": 1746141664,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "type": "BRUNCH",
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: Closed",
+        "Saturday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
+        "Sunday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM"
+      ]
+    },
+    {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1200"
+          }
+        }
+      ],
+      "type": "LUNCH",
+      "weekday_text": [
+        "Monday: 12:00\u2009\u2013\u20093:00\u202fPM",
+        "Tuesday: 12:00\u2009\u2013\u20093:00\u202fPM",
+        "Wednesday: 12:00\u2009\u2013\u20093:00\u202fPM",
+        "Thursday: 12:00\u2009\u2013\u20093:00\u202fPM",
+        "Friday: 12:00\u2009\u2013\u20093:00\u202fPM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2359",
+            "truncated": true
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "type": "DINNER",
+      "weekday_text": [
+        "Monday: 5:00\u2009\u2013\u200911:00\u202fPM",
+        "Tuesday: 5:00\u2009\u2013\u200911:00\u202fPM",
+        "Wednesday: 5:00\u2009\u2013\u200911:00\u202fPM",
+        "Thursday: 5:00\u2009\u2013\u200911:00\u202fPM",
+        "Friday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+        "Saturday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+        "Sunday: 5:00\u2009\u2013\u200911:00\u202fPM"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "establishment",
+    "food",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=386978824452407439",
+  "user_ratings_total": 471,
+  "utc_offset": -240,
+  "vicinity": "128 Madison Ave, New York",
+  "website": "https://www.hojokbannyc.com/"
+}

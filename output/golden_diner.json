@@ -1,0 +1,452 @@
+{
+  "address_components": [
+    {
+      "long_name": "123",
+      "short_name": "123",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Madison Street",
+      "short_name": "Madison St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10002",
+      "short_name": "10002",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">123 Madison St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Serves diner food including pancakes and cheeseburgers with international influences, plus counter seating available."
+  },
+  "formatted_address": "123 Madison St, New York, NY 10002, USA",
+  "formatted_phone_number": "(917) 472-7800",
+  "geometry": {
+    "location": {
+      "lat": 40.7124169,
+      "lng": -73.9942645
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7137273802915,
+        "lng": -73.9928222197085
+      },
+      "southwest": {
+        "lat": 40.7110294197085,
+        "lng": -73.9955201802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 917-472-7800",
+  "name": "Golden Diner",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 960,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109083030738000254932\">Golden Diner</a>"
+      ],
+      "photo_reference": "ATKogpcvND2gNHBu8VWpLteQAR-3gj3ubEQqSCrW4E9k8zit5dpTwQ58Xtqez_7ifK7k78qY_f4T1Bv8H8EVG1kDIG1t1kRCHIVT0bOCLKS04I6EsotI60CY4OwiYW4HtAGywvynos849LoR13PuvPpsBlBNij4lOHbH4ci6qpDe2iQqVQ6_I_CLjsWytjUrLBznVRMkKBdx35QAdqK917O98UgWigW5JltHjxP8sphlF7jholpBjYPZV91OANtpGOO3Wt3UhNcS64ed9IJU3vdzUH6D2jAqcg9XYDsm4j7DoD4Klg",
+      "width": 720
+    },
+    {
+      "height": 720,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109083030738000254932\">Golden Diner</a>"
+      ],
+      "photo_reference": "ATKogpce2AIiKWKQjSqtSk220IKlsV0Xji7dOSeQf6mJBq-s_k-KowAVwGprS5gdH3swdAu322K2ZeFR-Y2LSJsKDk2_Alx2yz0HFMu8-JZbLMLNjtZXmXs1q6rnslPhCy08i_vkVU8Ff_apa5G66F0A-VvL8jG1jqUu4yEcS6bo8VnnQS29_aPsgo0oLrzeqPwmDO4n7XIwhV9gadlWQzp2A9KRzx9Ck32HIZS7zKTDdVreGgTzTEA-6wGvg-3U7pvSTjYUtuC5UloTfFL-_AXgLHlYsnZRUJ3CzgN8RON8ap3LzA",
+      "width": 960
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114117473799933690560\">Precious</a>"
+      ],
+      "photo_reference": "ATKogpf6dY9FDevvQ9YYdjP9CRTTpaFQ8UpLgWIWCECySJKqgjuB9rYm1SbxlbSg2C4LC9bLxicyM7MGj0KEGQRgaQdEQCMe--CW9GLqCIikd3lLryc4GR8b6dHVnYc6j0-sgVtCui5xMgc8D8KdUsj8ufC5j915yqil0S3Pe17QZXEAM0KQ-cm5MhAKIloHbT0LirQ_ZuxgirNh0TUeaJlUwkzjFv441pkHtchq05LKZKpX5xTpYsBSlKST_XpjEC0CantJ723fmjK1dqPtdm7edLycmguSSWVOtn_Ub59w0XWtyEJerCgj9hbYr01Z0eSKAAJ5iZA7P_IvmnCfAfCfwrxpg1JoHmcolNS9KMIpESUfVZl0GagKI0xSELHsblKUkJjlGgpYsYHcRHmW-SBPghYOjlpbk0OT06y9KkEiR_5AY9v4txv8O33PoaiBDQ",
+      "width": 3072
+    },
+    {
+      "height": 3488,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117543702041077635355\">A Zavgorod</a>"
+      ],
+      "photo_reference": "ATKogpcK8TMJus8OQ829bijKIwHreJJvTt6fZMdmnu2wgZWyyj1_AAO8aTuiC4Pik-fncPHR1E21zcy9KQZPjw4No-wm0CbZVOIFlmnw0KiCzI6crxsNSAcEOEF22rm2u635CWuYk5pu2Ha0_LcZMrd50bNrFkl16_VvEXEN_kMf9qoEn04rk0PNekdKgPKjQ1f52-Z3dKlnXovgFZrGKecR09WeCk6Ij-RDGk1rvgWZk-d6mFsiSewE6jAuUIoOi0knMkrgBlF2-hrK7a4xqX20Hfo2lslTOs-hEk1BloWoT0Gxir1EXwaMmstBsccOLzvQHTvY6LnfcOac-UA2yUutHQJtdLjOP9WH9RKHHcgYIv7W49UTqXBN0nU7QKyXJWbADw_vr68ydR-DIJY3VrXQqhBT2fgyCWJGjDDOYKKuo-XDp2k2",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106747537221789362099\">Carmen Hall</a>"
+      ],
+      "photo_reference": "ATKogpdaIfu6MHAi5M-BkA1Hka27W0OiaTDABXCXoHK1Vp7cVL5KHyJyVN1GZde9VKEUhvgUddUhoOzvzBaOH-EG0tL_xDUfn07bf0cVQn5TfwyuY0H3HJqY4DLu6Ce2r7C8dh544vW0rW9uzhqlIWyBtRwMR0Yz5CHVE2MWr8O720_5E7GPQH94NxRhYklh_92Fhdt53BSlxV6cPVqhTFqUt-zUa-OiEL7g8LLAALEXyCmihXiR2wtmzpuS3rv51h207wWdDuuVlsdeIjjE1-GNHm36bC59qia_aCPRm1vn0vZURckVtfibAcCyjN7tLo13p7L7z_b-uWbL0oyKHfiCszCJeEpNgoYjCRkw9arMN3H3ECZZsP5S7Zpu-OY38em49FRMxWwGoYWBAWwUpy4rUg31ddl1Mgwf3Lm9WYHRQhPN8JLw",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113892799745304522711\">Spicy Rambler</a>"
+      ],
+      "photo_reference": "ATKogpf1jPQbvg0M92PIndK-l4iLxv9wesg7-xUyp96Y9z2ic3TP9XbX5xiRETL3v94bCt1dA-v9HFbZVaXHV7ftWpRQ0f6GjNrvGsNbdyDAAGrbWwo75L2DCx47wAKM88fWMu1vR-UWCXN66g63l-Q9L5Y26DV9n1WWUUiPu5XNYgTW8hEZHWlxqktjHPBb1AujSN0oIcdxEnczMyH91NqePmefiBxCvolVnbK3hka-CKQj4RT-DoK1R0BjfPHVP0V2FK8Rx0x5AzJ23fw1cRZkBOPkImgCdArEGDkjMpqQp4cDKS7rQYR_vyKueycwoZM6XxgRptbecOpPh-vd-AE47nRfLiZ-bu0dUUlJ9jT-V6AznbjQTtDuskqY4oVNSQSiEDBxN-WQi4OMV_dKvHRucR0nQxULfUWrO9ans9Coht9a1A",
+      "width": 3600
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114873469524053132025\">Steven I</a>"
+      ],
+      "photo_reference": "ATKogpeS7XnA57aG2PA2Rl5kVS7ESfhgzfaOh4cfa8Ecml2pk1_CQYSa2EGWiWxzjVM6C9ENEcENW2Gc-q-vclDSglJF7OC0uymHb4BM44AHp6-Bk3QsFEgxBXufuq6pJLc0M1jP85SBmd8H9dNQ0-PReBwy-GaXQ88gN3LoWHy8itTZJLM-ro8rg_X-yeKo4VxA_GAF0ZhxkfqfLe7liHtxfFhcFmAx3r9HxRiRdh7p3KXRM5Ee7SrIWwh0CQhqaafXoMNSM6cLNjAcvd5zjXGBoFQVfQIAkw9IebOjXBj66w-RW-UckxWbSOi9rNaE64fHKddsinccXmJV9tFyKu6PjHNcv6gIcK8Su4lPZ_HxSKCNJ0beKn06a9J2t7X6oSBOrRNJSZNmxaQdW_eN1myJ7CB9zM904dg1DVwr5RQ8caOznf48",
+      "width": 4032
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105491962620880850405\">V Hok</a>"
+      ],
+      "photo_reference": "ATKogpccFRdhjgB46Xo0knJu-fu38CuZhoi4dvaOAljFy_350AcoVs-J8eGGUvmjcK5dM6Dwjrbx2t_MHRedGhSY9Dpk5pPoykB1ylPW2T84znIQKXHzCcZv3gt95e0FN_JxuAgsBpcLuExc8c62gPVWQ_tAzKMej0TiXDSwgisiM9FB_S_wYptV1vw2xZPdUDLHDELCGJZ8j-Aqotm1rxl75wz7KsRHOpqjwqX_JNNdwPX81Ded95ViPG-w5QB0G-Cw1yx62kFOJd52_Lt52ryUo3043oWNMZp7vHLChahv-PJW2XL8h6YSzdupTkjpGO_PV7D7sq3whIyUho0Eelxq6xHTKAwBprQS8a6ooNGUw3VfztXm0OTBVTyZgq5aoPyiDzREWCZgi2XzvsF8tbH5S9ndjSPsIV5FpClxU5QzdXDGcA",
+      "width": 3000
+    },
+    {
+      "height": 2100,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105049840827701416996\">Biteworthy</a>"
+      ],
+      "photo_reference": "ATKogpcYlznaQeBK19CO4FFQSge2-jqI8lPkKap2LBH_KjuS62ybFP6Ls7fqRq5a5kymB2vPpRp30CyuQ008CgDmEO6DYSLFYIsSVYhxYjXx5vyQZtzgN0gNwXvZSA4v_n10iX5_yYYYwPul_fHQMcyaAQvG8kfnIvnu6pCBnBhxGCqx3n0yko9iOfj5W6pyV39jK3SUAynatszuC0Hhmk1s6tlV8gmf-c62EU3WIYZQAzze5fvlMBPgnWuga0J-NFFLtwW2KWxA2n-JJhJgzI-GuWXBNd7qEUOsZVGaqIIIt6rCRxDBkfW3geifEjUO0RBCRfPgwi7D9Rtm_6zEAkw8lTYLujkC8W92KfCYnzY53QVrOr0kioK1PYV5WNFbEQSywl-T_69zM0Jb-Mrgt-hdnzWvvfxgb5h6A6eUdaXKqMjVeA",
+      "width": 1576
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110816252807755216911\">Tom Kastoryano</a>"
+      ],
+      "photo_reference": "ATKogpd81EJOLDbjqRqdaUDIg_CJaUnmxIJstVxqH2W50kdQNNJG0niVrKLpIertWjCv8_Q7I7IQV0sjSYKxr8vX3mNJUAEqLT8p3oCKnwbfobnHDoo5ybHCIqgYx4SwmMX2iY-XtUKJd8WR7jiyM265b5ZjIl2d3pvBuzXvTymA95uSH-n62PvdsvL4FDkJa4oBTSiWP90AFVkZB7PjeFsy9v8r8Ykjm7Ym0NwUcQK06vyBGWkVYmwkS1Oe_n39D0w8_9XxgV6bqMGbHlGG9uD5BFFtPLQSe_vStKqzBnO8czm_d_WSlInwiI_6edxwTayzZg3cc-dD7jO4z_cq09VkgwLwIPlje9jwUVQCHUFZkOkrCNAyhr4-sZqMdy0PV542pe6nXc7H4W88rraUynXkxLZL_k1X8AhYBP0lLi-l8wc",
+      "width": 4638
+    }
+  ],
+  "place_id": "ChIJ1-mW-LhbwokR7Ryv5ha-gzc",
+  "plus_code": {
+    "compound_code": "P264+X7 New York, NY, USA",
+    "global_code": "87G8P264+X7"
+  },
+  "price_level": 2,
+  "rating": 4.4,
+  "reference": "ChIJ1-mW-LhbwokR7Ryv5ha-gzc",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Ujesh Vora",
+      "author_url": "https://www.google.com/maps/contrib/108156106340152393816/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV2mqVBorW5-ToDVQePqGvK9Nn0fz7Bz8XmGK4D-I737G35KLeW=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Works cannot describe how great the pancakes were. My friend and I went for brunch and absolutely loved it. I got in line at 9am to then be seated by 10:20 so definitely a wait. Along with the pancakes we got fruit compote which I highly suggest. Also got cold brews and breakfast sandwiches. The eggs on the sandwich were perfectly soft scrambled. Will go again for sure and definitely worth the hype and wait",
+      "time": 1750277352,
+      "translated": false
+    },
+    {
+      "author_name": "L. B.",
+      "author_url": "https://www.google.com/maps/contrib/110630978594888596362/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjULfdfgw5f-41489Qm8uIRgt-Vd3TINCDVI2o7cxgELha5vy17z-w=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "A restaurant that meets the hype. Outstanding service by host and server. They managed a huge crowd with patience, professionalism, and politeness. The food was equally fantastic. I can't think of any pancakes in my entire life that match the deliciousness of their honey butter pancakes.",
+      "time": 1749770152,
+      "translated": false
+    },
+    {
+      "author_name": "Adriana De Pitkin",
+      "author_url": "https://www.google.com/maps/contrib/112869942406938056114/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUVfXi0nWCw6u74qlVhhdpVZbxNWZ-KuEuyWCZe_cR_sGvf_mQk=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "A very popular place for its size. According to the host, this place is very busy throughout the day and always has a line. My husband and I put our names on their waiting list at 10:30am (2-4 hrs wait time) then went on to explore Chinatown. We received a couple texts from Golden Diner while out-and about that required our response to stay on the waiting list.\n\nA nice welcome when we returned! Finally sat down with menu at 1:50pm. All the staff were very friendly & helpful. The place is very clean, charming and inviting. My husband and I ordered the Honey Butter Pancakes and the Korean Barbecue Wings. Both were delicious but the Honey Butter Pancakes were the star of the show and so fluffy! Note: Pancakes are available with Berry Compote topping. Looking forward to returning soon for the worth-the-wait pancakes!\n\nAdditional note: Definitely recommend visiting further Chinatown spots immediately after putting your name on the list then working your way back toward the area.",
+      "time": 1743444350,
+      "translated": false
+    },
+    {
+      "author_name": "James Jung",
+      "author_url": "https://www.google.com/maps/contrib/106345445285981004249/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLlqmEuXeMGyL19hYc1tftvxlRgQlxDMILH9qNkaIbFGBzIlw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Although I hadn't previously visited any pancake restaurants in NYC, this diner was high on my list of places to try.  Their pancakes were truly exceptional, and I would happily return just for them.  There was a substantial queue that extended around the building, with an average wait of one to two hours when I arrived at approximately 9:40 AM.  Their breakfast sandwich was also delicious.  The diner itself was quite small, accommodating perhaps twenty people at most, but the line moved surprisingly quickly.  It's certainly one of the best pancake places in NYC; I highly recommend it.",
+      "time": 1750136174,
+      "translated": false
+    },
+    {
+      "author_name": "Loren Henderson",
+      "author_url": "https://www.google.com/maps/contrib/108063829226085487625/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXS0h85wRcHcSdbg8iMr3Tdu7KuRdNkPlLQ0CdWVUKyOGmMfhs=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "My sister has been talking this place up and I know why. The pancakes and wings are outstanding. Best pancake I have ever had.\nThe wait was 2 hours and I know why. We walked around Chinatown and explored a lot. We got a text when our table was about ready so it was perfect.\nPut this on your list",
+      "time": 1748039187,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "establishment",
+    "point_of_interest",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=4000249899603926253",
+  "user_ratings_total": 2039,
+  "utc_offset": -240,
+  "vicinity": "123 Madison St, New York",
+  "website": "http://www.goldendinerny.com/",
+  "wheelchair_accessible_entrance": true
+}

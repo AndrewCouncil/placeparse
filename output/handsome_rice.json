@@ -1,0 +1,422 @@
+{
+  "address_components": [
+    {
+      "long_name": "133",
+      "short_name": "133",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "East 31st Street",
+      "short_name": "E 31st St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10016",
+      "short_name": "10016",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">133 E 31st St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10016</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: Closed"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "133 E 31st St, New York, NY 10016, USA",
+  "formatted_phone_number": "(917) 965-2944",
+  "geometry": {
+    "location": {
+      "lat": 40.7447135,
+      "lng": -73.9812927
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.74601053029149,
+        "lng": -73.9799761197085
+      },
+      "southwest": {
+        "lat": 40.74331256970849,
+        "lng": -73.9826740802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 917-965-2944",
+  "name": "Handsome Rice",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: Closed"
+    ]
+  },
+  "photos": [
+    {
+      "height": 958,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114580525085059836753\">Handsome Rice</a>"
+      ],
+      "photo_reference": "ATKogpcsPV2T16Qxb9jjv8MD-uq6NCixRHE8bj_JBdtzh05JeTC1mbpniV6zZwnSGLbVmQqOpirFTA4ryT1dFYF07XMNPN3oNh1iTc5w30Hu0vHzoBa7Hn35Q3WaVWkQDjUhs9X5x8OMlY_5sBcTaD0fvanBab56s1_ct4vQetjTq3j7Dx8ywtn43PsZQwm6MQRJ89q0GPK55qgA85Q47-aiHoDkm02M4Sy0YkSmq-9Q5D6cTLwsusPuRmXsgEmuRlbYvUtVGwtxtZSxROfC2o97rxWEODdE879o3SH4VsNkwuICKw",
+      "width": 960
+    },
+    {
+      "height": 3198,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114580525085059836753\">Handsome Rice</a>"
+      ],
+      "photo_reference": "ATKogpejHWOPQ99DFzBDAT6MNKMSGQtRp9a1VV_9XR4HtUeyeZDhC2KZBOSn0c_l72TPbDEgVlv1qg1ZkSVewDim9UJyVXddntZKScyMPvMXw1dVrfcG_fKHfnVjAt96lpJcEs2PZzklyug3J5Fj7q3Q_uyw1KQAwoD8ohGetjUaaOQabuE9lMEBqDI9GLWB7mb_SPWhmG9XJJqhqv09TBVQfIMsIHYOcTXtorrSPNe4W0tJ3CHw8uyh7cKXyWbVBpJ48kAer-TMxFVqxsuMPjDu2AesrlnQG7UwbRflPWsNaOLzSA",
+      "width": 4800
+    },
+    {
+      "height": 4299,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114580525085059836753\">Handsome Rice</a>"
+      ],
+      "photo_reference": "ATKogpfg7bHo8N9p5SpG39zuzqhm75FgpONK5PKlqniZCnBJP0Dyb5Dga-oeIAYjjt5fcPYrmtZ05yhrkGuNete367IvTJQcFGymi5MHDlyslLVSWj5ntPYAcv22yU6aPEabZbFV6FqJR5pFuXsk63Z4LRsA-ysvPEQ9czafXemU48y6Tk_6jjaXc33ZBiSREwuwOPq97oaxpV3LehZOnQlE--ABL90zeIw7FQk44QYWU2qppb_90z-GfB8bBo7btEt-SF0vFoXub-K0EzqyMUc6bdR_HP3ag2K2-_i-rHilMwmDmw",
+      "width": 3375
+    },
+    {
+      "height": 2480,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100647361569491182151\">hannssy</a>"
+      ],
+      "photo_reference": "ATKogpd21vNGJqD9d7ofc5-bkG8QU33jVbt5xb9N3zLLa-hNQ00XkE9nofUKSMmgLEjmwDBglNglnSXJ3lO6ZtFUuFH1niT786BQVqEeowYiJkC-1NdXTuXWGYxaSXV_22YkFlaiklsNUe-ohEZx6A4CFubh3j5ee2Kl4rZlG4WPccpII_CZnNQ57_i2fIemrod5aNhUcgrh5fiBYCx6Olkml5yivBbDRgM-LfPdFxi5oycpY9j2JPT-1FD8rKbYCQ8OLP-PyuA70AdvhaOE8IdxTk0djq2496A2oS0hzsOmvs9G5hH22jKOsrrdvQOCAfVTTU-Ta8PQ9WAR17gMqPGJPhgg9GhKc8yqehuQ-90YBm891hyc-mMbUXd137TxcAY4qn63hzgRTWrvO_7Eck0tuJ9e_IB0TzFgV26PuF64H8b-UjGanVdS4lZRBiCgFyEj",
+      "width": 1707
+    },
+    {
+      "height": 2228,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114580525085059836753\">Handsome Rice</a>"
+      ],
+      "photo_reference": "ATKogpeTqBKP4ez7LeILUpA99Wx4pN2uuEc3xQRd_t-QC_4j7NBHpguKLglgy4TT6fIUB673NxGi7CY01iJdx8OiUbEt_iULs3C89IM0LAmYA8248fgsv8MnhPNCAdH0Z8RzTWA1lawwu_jTsaJDVC4T7cyfiRD3b8yXcpLp071RmpAU4g9ALsEAFMSZsPot06Wv8E92A_cEZJK5UABt10wMHxjK27PYtfyUN4U88LaXPX7gXsib0ZECz-ewGUy73lQTQVnZV5mzc5uv_nUink0vEau08cDZGPB4iEzHw-21AtUMGQ",
+      "width": 2228
+    },
+    {
+      "height": 820,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101464282835607818672\">\uc774\ud604\uc219</a>"
+      ],
+      "photo_reference": "ATKogpdOyk5Dz7-8zCRdmzu7B2wH58G78Ye7qfu_2RNorIg7m7wivxtb_glxU9gt9jEZnCVmTBXOD-efu8BRaf6vi1NkR1mS-FyYIffxDp87tRE4uSwINUTw6MrI5Oo36hUcKXrn5HiX5Oqe4scob3TXBr-kKf6ku4XHGYGU6cQmIJyz2nVXUN0lhB6cgXgsuRp9Gq5-Ny0qUIOgnIdp5tJVCCMjL9zuYloKHIU7Z2R_M5p5TMNeuWklwUkqUrh3juuH4Y-6uh94wZQWz3_NiAl4fIjYDeK5UyULtnguyhVHCZKgS4pXsJlfx8Qf-7D7Tp47U8dUmi0fnt5wDI8Xd8AMJsrwFKTCTEHDOB8oOaUtfHcLOjrFvPTd2DZTlU4pSLZAKtVWzIaneo-BXJvX74t3giqdmFtVqtcoNY-Askrob6WVig",
+      "width": 1059
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114580525085059836753\">Handsome Rice</a>"
+      ],
+      "photo_reference": "ATKogpfZkEAiqjZ43rEnvx_ZjrPHXByS-_oHSJBlFQ8z1HzCHzQTlHeVCLjUoOP8V5NqC0ztqvwDQJ871NPvp5oAXSygOsgU9l-6SbTG-E4yLjMN3tmyes5XSEH0bIAm219V4ztBnGJ8XTZ_QKIJnUE2hOT4M6RkTypYJGFC5-gFaLArn8FfsVzC6hxfIDhbKG-GTPh_bgZVlz6pO81YUZ1L07ZXx2Ww4IyPRCP9R79kUhsDB9i2GpLQU7NXry_xVWjCwV7H4khV4a2RLRJibkNJ7-PmULTGW3Qg9NEdNcq3yM0GTA",
+      "width": 4800
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114580525085059836753\">Handsome Rice</a>"
+      ],
+      "photo_reference": "ATKogpesOfG2tVB8j8uirExTVGBFgidHAHY3OZmFAj5McWPu2WTTay0kFJvUFtlsLQ3lEONOb1PS-mo1JmbhcFA5b_H-TNrqIjkMpT3yOA0mZyxRxESr5LG6d2MP-BbHvzUw6egOQnZgb2fy-PR-eR1Ip3B7VU-guex_JtPTn3d3IRbMOA_powU9gx_iwXtslMYn1riP2qwnv7nbQ7dKgzKNHJOr2tkphPDb3FueFcpZlAfnK5pjxkQ0rCJGEkRKqfYzzbKQMMVWUWWmXztawe_M95Kp7sWofXbLa00Bv_Ll89JqKw",
+      "width": 4800
+    },
+    {
+      "height": 823,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114580525085059836753\">Handsome Rice</a>"
+      ],
+      "photo_reference": "ATKogpdnYrLzEUPy016wmorHI4iwGn0HHr1XAjh-wiBWOBQgikvy8ubchECdc7ccgFXNBqxK-JGWFOT1Gd2_vhp1DekG89U4b3ffxawhqknh3beuJ94oQ3_o1r6SY3VqjF2TVUIz5HG941na4dX58YyxUD8-azUqW5TTsb5JdvfDZl8eFOXZbuJqL81-KqV1NlErjNqLTeMAjVPi8qOFq3QE1wIS-yezlPVCgivnzUAWkBtSfZtbXiXANJUjpYa426C5EKv-uhACqKTSkpjlwqJSSJKMAWa4L5miYCo9h84pnW4Cug",
+      "width": 1125
+    },
+    {
+      "height": 2248,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114580525085059836753\">Handsome Rice</a>"
+      ],
+      "photo_reference": "ATKogpeNLfOE2qI4-JWlGTGkBqMEZNnm9P8lmVi3CA3sNrIt_qcMdXniHEB54T5O1s6iiWmBcmQJ9K-9-OmIhXIt79OzcuTFuSV8dixfj023ewiPKbgl0XEWa0aj7PjpHxRLsfonpg4_TGLzzhHgM-_EEQnOib-9wA80aQKjYbezpkEfJmyhPtXzvdO82Md97gj5E2UPkToU_8BoZPrY8oW2sj1voqFBKCaulztA3zwh6yAK8m_kSQOGVNI8C8dIvL8is1xrvmbjOnFLC5lhExEsh13MCkNZLc4zP59AQ2zq2zlnAw",
+      "width": 2247
+    }
+  ],
+  "place_id": "ChIJPYZsDhFZwokRMMRoYT7c2Uk",
+  "plus_code": {
+    "compound_code": "P2V9+VF New York, NY, USA",
+    "global_code": "87G8P2V9+VF"
+  },
+  "price_level": 2,
+  "rating": 4.6,
+  "reference": "ChIJPYZsDhFZwokRMMRoYT7c2Uk",
+  "reviews": [
+    {
+      "author_name": "Jeffrey Gomez",
+      "author_url": "https://www.google.com/maps/contrib/110926037576051324071/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSdVhPoqMn90f-3FZ97PoYafgr3bupeTraruxVDosIOmqXy96E=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "This has to be the best food I\u2019ve had in a while. Handsome Rice is serving up modern Korean comfort food and it\u2019s really good.\n\nI ordered the Handsome rice meal and Kim chi Mac and cheese. You get all Korean meats with this meal (Chicken, Short Rib, Rib Eye, And Pork)  stacked on Korean purple rice with a salad on the side. My favorite meat had to be the rib eye. It was my first time trying purple rice and it was a really good base for this dish. The potatoes in the salad were so good. Covered in a pesto sauce and adding that refreshing taste.I love how the portions are just right and you get a healthy balance of protein, carbs, and veggies.\n\nThen the Kim chi mac and cheese was no joke. It wasn\u2019t like your average mac and cheese. I love how they mixed Kim chi within the noodles. Korean fusion executed well.\n\nThey\u2019re a small shop but I love the aesthetic. Small inside then outside dining. This would be the perfect spot to eat in the spring summer.\n\nService is on point. Shout out to the staff at Handsome Rice.",
+      "time": 1733672476,
+      "translated": false
+    },
+    {
+      "author_name": "yj choi",
+      "author_url": "https://www.google.com/maps/contrib/103293716112071821421/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW1poSni0yaB0ph9ojUUVrlRaHHo3WDS-MsuVWzPHWEPDW9If8=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "After trying their catering several times, I can confidently say this place is amazing.\n\nMy top picks are the handsome rice, creamy kimchi pasta, and the signature handsome burger.\nAmong them, the handsome rice stands out \u2014 a perfect platter that brings together a variety of flavors in one dish.\n\nThe signature handsome burger reminds me of the Korean-style burgers I used to have back in Korea \u2014 nostalgic and incredibly crave-worthy.\n\nHighly recommend overall!",
+      "time": 1749797863,
+      "translated": false
+    },
+    {
+      "author_name": "Olivia Rubino",
+      "author_url": "https://www.google.com/maps/contrib/106857951643361639934/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVRQgK2LZZ0LfUBtWA4KaHeFgWl9rDhBbGbhY1bkUNdpTKv32J2=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "in the last week",
+      "text": "Got the handsome rice platter, and it was a disappointment. The purple rice was gummy, and the galbi tough and unflavored, lacking any spice. The pork was mushy and the bulgogi was dry and the consistency of shredded beef jerky. All the dishes completely lacked any spice. This place is not for you if you are expecting a typical Korean palate; the flavors have been significantly muted. I would have rated it 2 stars but for the fact that a small tray of food no bigger than a sushi tray costs a whopping $22 in change.",
+      "time": 1750707847,
+      "translated": false
+    },
+    {
+      "author_name": "Trevor Edwards",
+      "author_url": "https://www.google.com/maps/contrib/104182364560387439079/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUy7RQLlYV0t-2ul7tIdQiQeLEyafbAyLeM2ZFEdRu-8BS_eBbj=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a month ago",
+      "text": "This place must have fake reviews. Food was disgusting. 90% rice soaked in oil and fat and grisly low quality \u201cbeef\u201d paired with a side of frozen vegetables",
+      "time": 1748538736,
+      "translated": false
+    },
+    {
+      "author_name": "Natalie Vera",
+      "author_url": "https://www.google.com/maps/contrib/114268973558648964481/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYLKkl6PoUXVfkaT3asV39oBI-fP3lHfg1DiZEoqy_voTziF4=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Stumbled upon this place during lunch time on a weekend.\n\nGalbi - $18. Must-order. Very flavorful and tender.\n\nKimchi fried rice - $14. Quite good.\n\nBibimbap - for veggie lovers. Comes with purple rice, as did the galbi.\n\nKimchi mac & cheese - $6.50. Loved the spicy piquant sauce.\n\nSeating is only two small tables outside the stall. So more of a grab and go place.",
+      "time": 1745694581,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "restaurant",
+    "point_of_interest",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=5321526595195290672",
+  "user_ratings_total": 278,
+  "utc_offset": -240,
+  "vicinity": "133 E 31st St, New York",
+  "website": "http://www.handsomerice.com/",
+  "wheelchair_accessible_entrance": true
+}

@@ -1,0 +1,447 @@
+{
+  "address_components": [
+    {
+      "long_name": "A",
+      "short_name": "A",
+      "types": [
+        "subpremise"
+      ]
+    },
+    {
+      "long_name": "27",
+      "short_name": "27",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Essex Street",
+      "short_name": "Essex St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10002",
+      "short_name": "10002",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">27 Essex St A</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1030"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Tuesday: 10:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Wednesday: 10:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Thursday: 10:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Friday: 10:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Saturday: 10:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: 10:30\u202fAM\u2009\u2013\u200910:30\u202fPM"
+    ]
+  },
+  "dine_in": true,
+  "formatted_address": "27 Essex St A, New York, NY 10002, USA",
+  "formatted_phone_number": "(917) 868-1561",
+  "geometry": {
+    "location": {
+      "lat": 40.7158221,
+      "lng": -73.98981169999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.71714313029149,
+        "lng": -73.98839081970848
+      },
+      "southwest": {
+        "lat": 40.7144451697085,
+        "lng": -73.9910887802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 917-868-1561",
+  "name": "Homemade Dumpling",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "day": 0,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1030"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Tuesday: 10:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Wednesday: 10:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Thursday: 10:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Friday: 10:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Saturday: 10:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: 10:30\u202fAM\u2009\u2013\u200910:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109021969599416534948\">Linh Tran</a>"
+      ],
+      "photo_reference": "ATKogpeDhvg_h6Qrr7JlGDO2kBgHSxskOJgX88lasV5xjfRrp0fRZsAMjDT8XachkfEHokVLFn6ZAD54tMVHqqocHha-W-pNj9nCVPp-XD6Hv3YtqDvVmN-H8slxumVQkwy_iiFxr0cjzQWp1T5D3aulCKGOuJWlhlSh6R0GnWYkCGcwXPib2XT7hl3LQRnwd4yWNcM1hki0cYukNr0E267HHPYLTbtn9IdSLHf8evcJRThC1S5ecXEMtx6EMBMem3uJHXc96_SHiXTUEtc63i-yBG9ZEidOaQoseO7hbK01LKqcUVQtLfCkaRrM01NMoM8QIbdNWiFTMvhbEKkhLqCLY8zLK_EqMNyQHH0EGYJapfN2L_ruqHS5pVx4nKBgEUWnfHY-rsnRLVuiaQJBl_EpAX8OIN7Cly5_PEYupcFn-roxMOMn",
+      "width": 3024
+    },
+    {
+      "height": 1472,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113437131487727582412\">N Thayer</a>"
+      ],
+      "photo_reference": "ATKogpf3rSKyl7gneLbNoO8IdSlzGA5dKGOwkXVd5Tj_KG32kELAjdnA_sWsLYWs-9R65gnHkQqw6q5TKBjCdMIFho1OaKWgR_ygmPZ2FXFyUEFsxektFvopfdbVcj8bLHJTEifqoq7ZI8mV31mqpiOYm1JALGlt26hEvlzV-SGo2iK2xoqlCDfPVL_AJ5bfHzoYW4O_nwTBBqo-QYmKt_30ITfiyugJ9zPrNuuWvZ5hfae4cfC_ynPyw134Z7FLpAIfN-VNARC2VPiKg7bRUciGDceNkpYnF6ZBLVL63Z8H1poBR5SvgwIF9Lh0Hm79Lhim5P8WTU5EtHld3oJR4YV6SbnQPPEtziFNMcV0uDR8Tdp4sVE-mJVHMcOnx3KGe3D-WBdXfAnFaJjy0t6jG-94FzRaNimHdr9fKe_Rv0u_vQqcTmNrQB0lCOre_47URKCy",
+      "width": 2048
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102132563616213468506\">JONATHAN A</a>"
+      ],
+      "photo_reference": "ATKogpe7XCaNnzlRk99l-kgCS6Vzvi0UZsgpJ4rbHUNRJ3j9t3_7OOd9RqvAcYiLq0qQA8B5KHFe2MQAi6mfa6IxHGwPKQyLX2K_gZJfRa1vRK0yISepV0ZzHFUVznrdqKsGI6gXXnAO61EkfbtvdIdfFHUcCj_x5CjmvIGrSL1oBw_MxnIHGtC8cw2-2Wnbg2wgifgjFQkIrKGGrgV9ggu0yo-eh5PAyBOIAIlD6qbfsmyahSVO1wcjL69DyOO-mSxbqcAt-HVRVzob4leyDo8uYE5sxlJgYNE8k2R9FnVUGrPOF57JNom88UKJyqFNPH1f7_87OPJe-4Xgsf7EosIoxfL2pXUBrOCUoDzlUayjAQKeyRYqURgprAL4WSt9S5hpVUdJK_cnbILNyCAQwKHBXeamKWcq2xUwhJ1ZvgqjKUJckkzI",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108903660686250136593\">XiuQin Saunders</a>"
+      ],
+      "photo_reference": "ATKogpf5KxKgv-jlJwQbFutnfFVfqAA3pTOaDTAUwpgvsslvwh5IK4S4Rf5WOqI5hcH7rTOzSp7y_FrlcF6PKCjv0e1TGzZYAS7owckqkud2BBXvZ6XcZBlqrrmMAPdPZA19ckjdZtyB-ePjQialKganSLObkJCXZ9zcayi9xF7qAFf7MPkDC-ftp_5LkA9fKlUIpgcucjikiGuKekMGOt-FukLcbla4D0-rMQbZh24hXvrfOLa6CiPDw3sWflFG7LWgwHj3G2zMSaNcWf9Lt3yD2fZ0eQB0QIfxmCK3HSJHfwCtv50GsPFSBWXrr9uH-1MmFhK-K4ZNyYTBx6b_2aOHqiDlWjHY87HWPH3iBk8Fg4nahE-BgNXS_QWhNLH3dZeCTI3ZOIm-a3ofDVU3wOcN0lz9GTfQ8ldwHMcQB_bE6bplMQ",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108903660686250136593\">XiuQin Saunders</a>"
+      ],
+      "photo_reference": "ATKogpccMDPfJOzkbYYHVGM9ZSI_XOn9lYwJ4_RIu34W3O7x3cOLSJUiCNYKmNxLvRDZcy4SMXGL9BhujZmBN_aEklC3oOJscmiuZQus02TGLZ7YRnKkX1peI_3aiCJBhZfj-hL5UvvEcN7GCdoJORw4KvM7UNH9qumPp_LwcAhEHP8MB8c6IJ4WlRxl_XhQD2I_inMZZUrez5HcI3Ifua0jfRfToZnd2-eKJ_BFGz9JXkNZYVZIueNC8kS8e4VFFnU3Y-xhaePmaaqdMLCjqDP0Eg8tol0X3yq3y6SFPK4_rNUQAQ9BQsjxaIsMdO_cEBesKOYYLCggUjtigZsaBsHByrwEg4zKl6NV7snnYxW2OX5BPYvj1h2yOJ54Q5V1w7CMu6vFtyI5ALn-g_qVxjiYvbQFdHJ90qvEZ2AtngQ5XAuaOdg",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103534249411692035411\">Katelyn Meyer</a>"
+      ],
+      "photo_reference": "ATKogpc5F-8L0y10HeGjsvN1GrjyXg3liuenjyXOHgV7zWE81J1lX65u5HpDONPro9R-S1LWy3mIVh77GjPvJOGRaiNrHZK7hap3BEoQ0oiymgkpisD2sgXUT6w2h7H5SuM9gR7DaYpM7ilnp75OWpWSpK_guYdJN3lKxafGO4xzPJkDIcpjtA7bymb4ByDji_f7NOvEDvVzw17CX8-ljCQl7tk9aVLgDPu4ndYS9Eb88Gysu5zT8dAukRhxx9IDC7QNXu1Wkj-F24YxpqgPeixgceZFXekFrSFTDEv9CIlRjBO7uekbVRxu4PAmN8Z0NOZF9EUElFWh1mAtUqCC0oAAn6F0XdxNtWvMxDqF9M7hwOcg2_JCy6K6LCeDuW0pRxlF5M_f8FxouLylb5Xivefo9zY1hmmib7-UlblUwh2eluxkfetJ",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113437131487727582412\">N Thayer</a>"
+      ],
+      "photo_reference": "ATKogpcxC6CV3iONUTBM94toIyrcG7K8YxHKLgKNS5SPNdbsvKeJGCLXcF3Gd_xGkYCippyxGxsXAeTa1vDIHG4OXz8cW6Llj7FwStAUaQ2VBnZ7mObj4llC8zL3SxyWztKT8C_YEopxJ0pl83um6sTs3N7gPdW3mgWKroI_HuYedxKRZ22H7LDG-PVb8QmZtR-JFlxedtZu4kqetIxzMQ4LZmFFWNuN2GRYRoEHHzphjkyBqOId3YXSFDEtZS5jlEJLGmdbacxuJmIe-d3DS0SnrKlqEeHDo6BGcssAyEqyMNJadXF-VIat8KC1JjwlvONHsQz3hofQ1Dal5f_34TtpXoOZFZolQnWgPDOWEu_FZkGqPoRiX8L5pIURJGrj5pOkg5c17qNqCCUi1hWVYZrwelssGxf1MpV9F5ImxMXzkNNatQ",
+      "width": 3024
+    },
+    {
+      "height": 2048,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108832832530824433507\">Jason Zhang</a>"
+      ],
+      "photo_reference": "ATKogpevyfmGEFIGQLWGr-wCqKYNHS-jOeqySh0yMqb8YAf1-iDTvQewpAZBylgLH43ZeuB0fWSihDWTfnbIzunMoozowm2sQsJIOrzLav63bKNzh6iN-SgtWcci_iu2F6dKFwOVjz2RncibEJOw70_6cLxeA9j8a8pT7sB6HewPkcKuYYFKlt5RfxD3bJsyQ6JQIRLkW2HyD1T_kCl37i6vLXq89GZdQkQKmkrdl2FugtVJk2TKbEZK5toqWqBr1NnHZZipX_DS6jFNwjl8qCcTJ-8HZ4rAgJCd0spfnWFsQ6vWejfnCFZQXLMT2Duq77c7k2TYTcjstbazvp5tCKXwoRAi8heroWyjcW-AZ9jlLqN1dSaHSkeiA8554s6V3hweOTIe5bgzD7Lrwk-9IOYCJ3hmu3T_KfqVX7anPLdaDU0",
+      "width": 1535
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101408599427719381927\">mcLa twofivesix</a>"
+      ],
+      "photo_reference": "ATKogpdNtTFhZCeOVKXW_NpsqEMnDaX-ZX3hznLk43T7csPRzjMuV8G0AJ6UI36je2r52HGHFDk5lQU4h3-AsdZG-hmhG68CA8075O2IxGvyIOFfPtqrLZ9XWaxiMOhVeNyipCVoGolmDm0zL2pGzBNyfXJNs5kTVwHTqLG9rMmJXD72JGDtbaC4zGZruVDwspv56sZQPwYppqaJGSVgBw-K2XkkWSYXGmY8oYhA3SsADEUOWJKPLx5wNrRQynEl0Q_LSLqY9wHTdhgQITqQqKiBVtA2wREHz9A2GowDzQAIadLafYrwECSj3lZW5Ik4p3Cm2kiJefQRtEMzAT6dyaUEVEQHx65AAfTNh3Uk1mMK27erllr8I5uN_we1OYIsk2QPdIZY1XVzfLJNbCUDddayX32mn3ewcouInNYUPUm7r95HHJWA",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103534249411692035411\">Katelyn Meyer</a>"
+      ],
+      "photo_reference": "ATKogpdyNvNnC-2lxCfkSevKZs4KQ3wOaCdsKgeasK4vWVGJqfIlSY-mleeAuWra4FyX9FOCnL77rhn8-DQC25XuSB7BRMJnFG57SVBbvDwOVrIJlKFQOkD7pYB7ipvmp5IhIAW9LsfvAXiaoSuEqNFsLRPeai3zMTl1MBVBqAMShSc81dV59Piaiy3I7Z5jfiji1G90bGJud6jNB3S9FZ60Hu0iy3eSbvMCIDZf4uPnb5V0SfB-1Dca-h3BBpAAvMuw4KFnIordaXHnhNz57CczCBLsddVHAw8xMhrAML846tkimiFZbE56qozKto8gZS0sYzuinvQOqIRpzLVjxh-7PUGPPwmrbHbZNeXPPXglIadiczCKkkaStjE8I6xAutyounLtz2BROn20F_q3FYrZ-IrPbUO8q13U083t1INk-a_Bo_pN",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJefeh7ylawokRwwdaDQ5wPOc",
+  "plus_code": {
+    "compound_code": "P286+83 New York, NY, USA",
+    "global_code": "87G8P286+83"
+  },
+  "rating": 4.4,
+  "reference": "ChIJefeh7ylawokRwwdaDQ5wPOc",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "XiuQin Saunders",
+      "author_url": "https://www.google.com/maps/contrib/108903660686250136593/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJb_pphRPfK41TFH6i1hB44dvHEi4sznWASjEeVMM251EuBKe0=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "Can\u2019t beat $4 for 10 dumplings! Very happy with the food and kind service. We arrived just as a batch of pan fried dumplings got put out so we had an easy time picking. The scallion pancakes had a nice crisp to them and the glass noodle filling was a win for the night!",
+      "time": 1731853016,
+      "translated": false
+    },
+    {
+      "author_name": "Kayla Taylor",
+      "author_url": "https://www.google.com/maps/contrib/103329023412011882256/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX74UMVp2VTKyJBLygBlRV_B0LjQDurlqcFPuE1BLqquMBXBK_9=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Hand down one of my absolute favorite Chinese restaurants to eat when I travel to Chinatown. The place is only cash which is a bit of a bummer but still there are many atms nearby so that\u2019s not an issue. You can see the people making the dumplings right in front of you which is always a good thing to see freshly made food. My absolute favorite thing about this restaurant would have to be those pan fried dumplings which are so good you might left broke because of how much you\u2019d wanna keep buying them. 10/10 spot for pan fried dumplings if you\u2019re ever in Chinatown!!",
+      "time": 1750385574,
+      "translated": false
+    },
+    {
+      "author_name": "Lazarus",
+      "author_url": "https://www.google.com/maps/contrib/105413430532433041070/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLvTlThXpokNf890yAFo1AGpD3pYqq5cRU9UVCvi1rm-Z8r6Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "nice authentic place in Chinatown. Great dumplings which you can see them make fresh in front of you.\nUnfortunately they ONLY TAKE CASH which is unacceptable in 2023.\nI did not see an A rating on the storefront.\nThis and the cash only means I can only give 4 stars although the food was great.",
+      "time": 1683489142,
+      "translated": false
+    },
+    {
+      "author_name": "Gauraang Khurana",
+      "author_url": "https://www.google.com/maps/contrib/110434615180512242354/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWM7sefNIMbLDZz3QbY76xlecxUvT6toGBDBgJX9wPVOKibhioDZw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "Very good veg dumplings, the service was quick and the soup was absolutely amazing.\n\nThis place is great and I would totally go back.\n\nV cute eatery",
+      "time": 1731605235,
+      "translated": false
+    },
+    {
+      "author_name": "Food Whisperer",
+      "author_url": "https://www.google.com/maps/contrib/103159457975734031751/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKikHf2FH0q1RhktMEGEeaH-T5_avOXCxEZXVQnmFAmAuNLqrG=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "5 months ago",
+      "text": "No atmosphere but dumpling afficionados know this might be the key to the good S. The ordering line turns in front of the restaurant and jam packed inside. Weekends are cray with dumplings flying on plates and a mad dash to order the next batch. Delicious handmade and really  Excellent!\n\nFood :  B+\nDecor: C- ( no dissapointment though,  the food makes the place, solid gold)\n\nYes it's a win.",
+      "time": 1736130860,
+      "translated": false
+    }
+  ],
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "restaurant",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=16662315927019849667",
+  "user_ratings_total": 120,
+  "utc_offset": -240,
+  "vicinity": "27 Essex St A, New York"
+}

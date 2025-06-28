@@ -1,0 +1,557 @@
+{
+  "address_components": [
+    {
+      "long_name": "25-08",
+      "short_name": "25-08",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Broadway",
+      "short_name": "Broadway",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Astoria",
+      "short_name": "Astoria",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality_level_1",
+        "political",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11106",
+      "short_name": "11106",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">25-08 Broadway</span>, <span class=\"locality\">Astoria</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11106</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1530"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1630"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1530"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1630"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1530"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1630"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1530"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1630"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1530"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2145"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1630"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2145"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:45\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20099:45\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "25-08 Broadway, Astoria, NY 11106, USA",
+  "formatted_phone_number": "(718) 971-5465",
+  "geometry": {
+    "location": {
+      "lat": 40.7631597,
+      "lng": -73.9282292
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7645586802915,
+        "lng": -73.9268230697085
+      },
+      "southwest": {
+        "lat": 40.7618607197085,
+        "lng": -73.92952103029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-971-5465",
+  "name": "Bund Dumpling House",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1530"
+        },
+        "open": {
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2130"
+        },
+        "open": {
+          "day": 1,
+          "time": "1630"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1530"
+        },
+        "open": {
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2130"
+        },
+        "open": {
+          "day": 2,
+          "time": "1630"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1530"
+        },
+        "open": {
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2130"
+        },
+        "open": {
+          "day": 3,
+          "time": "1630"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1530"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2130"
+        },
+        "open": {
+          "day": 4,
+          "time": "1630"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1530"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2145"
+        },
+        "open": {
+          "day": 5,
+          "time": "1630"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2145"
+        },
+        "open": {
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:30\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u20099:45\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20099:45\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1280,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112680927622963588235\">Matthew Wong</a>"
+      ],
+      "photo_reference": "ATKogpePSf3OhXnfv4JbgXg_dFrb2rTtaw0W-xnJt1LLjyd_QfuZ-KfAMSR7wHoRIneqkAR8BB6Kme0SdaO5DFfx0zpdHpTZpYWcMPMK8KW2i8zFWKqphAmNyxYNkxWgMlTX-eBUBC7tEW9X8ClUU-_LZextb4flqspVvnerpsZgdAwWXNtrYoMSyNIBzcuvubdE1mmGhtQlJ9iXCAXgVVolxcj7Pcl0SXyqiuXKiMf0iRzKB5K2WKQe-uK27InxR1GjKE1f2lRbTys_VOluTs_bJOjL1LhhlTanhzuTvrjPzAC0vAF13YsWUr0zO1TGWwcAmL4NAiUqNIw1yw9mXKZwpU1QJyxycdeViDXA68xTiAJQ6INZxvoT5jK4JGk4bzURU9E7xCq18m9l0FpMBZW4Ll7HiURzQaC-XQTmD0fognCMiw",
+      "width": 1280
+    },
+    {
+      "height": 633,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110250100825840582642\">Bund Dumpling House</a>"
+      ],
+      "photo_reference": "ATKogpc8BtmOaV-seO4yACcXpa3HacMtuqowL61dRQj0COXwzeUiYLPgHmdITx6KwpiHnEf7gVX4bbMdIaify4BeVs7202PfreYEnZ1XD9oiVYo3xBX9rp2KMRjPJQk3NPw6Di7u1TBJGLxunQeo2V7TkZkvFwcpoNYkCRccK32_xvDCp2gHcU8f_Wj6DALaBEtyYPCkizphO9bk4L1kPgl_LcR4NR-rqOlavg5Nwf2yLzWZ_ctMFriz3iUvliBIxDLG6TkXfmMYtw2JUsfI58MNrIUJjDpwh1_Dz7U6kGX1evQPUA",
+      "width": 1125
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118134833113239236696\">Suhey Ortega</a>"
+      ],
+      "photo_reference": "ATKogpf4MOMKoj85jyN7OFoOBOWzXpPPAUkuJI9beL3-oxKt2qkcEnbOLGFAZaQWknyUSgPVSsw5WDKP9CEhBbHsdufgyv4Yjq_nvMcBX7QCqS-vRirvUPQDwFqnGT1XG1K6rJpzMPNGcnowXkQ669Br9g33vKUXgXyShvNMXX6Zllm0b9kqm-wkJS_PVMZRB-2YC55_QnOrIIuFCLH7a1Gyvi5T4KSu3eie5_71dZZAtb7a9MPZSphInmitx2dJ7YCeRUgPuQ8YGsF9XyBxArYqFLJ_oqsL-EBhUGErPaFDWErpB2Ia1hEXT50f8sWdVgT9us3181uS9LwcfufMEH459TlQvCgeJwIFHp9X8cmsA9_o2YARocFZEZPxu6ujDGIH1Lzfd8lYPNCnKmJwyYHGbjmaGIpla5TosJIUh-sIo3eC1g",
+      "width": 3072
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105520365420566066752\">Damon Lee</a>"
+      ],
+      "photo_reference": "ATKogpcKJq_bgTDNv2EiqTNRlPChT0hmmEg7itQb6dG0OemHVS6mtWB-m08H4KjrE8xGK6msCmyIuEOJVy2nwKjzdJHFtqo7N-OwUlJrUZ8MuK94l9pgc9-41MBRcJ0TP1Xts9bopTonslSSfCjawOMMgxbMBv9CBqgKiSs2f-d5EqPT5-AHqLh6D7bb7EKPY4Lr3JJZ-LdDpYK9p9dhndxqmkn0lsHyqIdzgk42aisSPtTztrHizSJO3nCWunokyyMtMBEWWERfPdMUjAkkHVvDwBkTO4wFQVpnHhIlh0zS8N52BZMQ1tGmiC3vIPBJX49i6et62xldIOREOO5pqIXLX7nKyRWSeliaApzoWH36ZmdYT86jqpEx4dPQQTB_an5XsR4haxRR2e0B5DV_5Jy21fQ5MMPaqU0xoFi8imTuccSsWFb6",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116260791910819987056\">Jennifer Gomez</a>"
+      ],
+      "photo_reference": "ATKogpcTIBZSudAWaEfSQRWEd1dw3G4Gm7vcxeK7dmGsyNJKHwyDymeX-hiB72PIji02R3X3J_-UztUfgRDFmaHev5x1m-GfH6-h9zUNzuKIdZXIC3z2fHwoW33iFJeMcT8SFf3oilp_qzDuauKJxRYV56jq5GtxRPekuJIWp7Yl4u8wR2sgSXRhujJBogaaKPc9kmTWMaBmRC8Fi759MYUUG9e4S9jbYBId4q34QH034iIUyAHC4peLKo8n-wi138vJ0S82wLRg5QDeOHbvFm1HDjvGgOEmM7A1JnsZcfEx4ekEsL_UWZTwGCnvwlouDtCWssA2FX5IP2iqbOpzGB9CDzN3xb970eXMLJci40yYAAR84QWeLqsLjgUUe-SdunhZt77bFo8iSMCQhq1tN_NHA_OaOhlRdH9MoOD6MpkSgkCH6gTh",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116260791910819987056\">Jennifer Gomez</a>"
+      ],
+      "photo_reference": "ATKogpcotlugaYz2n14e-8nUDVYG2PahmSf0JYoP9b7isDevFsolsstCJ9lbiHtGb5LJI8IOvJzA7MXoBozUdF8fP5ERzniDhu7WsTq4c3tFzcoJArWaN3VL6QkkRgvpn6y70c3L8qMRuH9Quzqo06IMMxHJrZ5RJ67_85xIAaK2NFShvCL8UASwr3dVnTf0mCmf4pysglEgTfyTdL0fV1tmj6qb6CVI5CmQzYIUlbp8IWn_PdyBjEzpW_XOZW1B9mrSnch0zgWAl20QwK-pRC1u2jEs_lPk7fnjWpULqoJ5SIaP-jNaPpVep2LM4TVbccYmMBvfQzKKV1Gaq47eS7aUcsgcjjMpfAr--zHqZyxWhFTa0UShIlOiX8QckUPgstMbtb-hhnRlbjrAdx3qEy4uCeO_OIIMoIsyyohMDA4rBDzP7eqb",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107844573995811255300\">Kat Siljander</a>"
+      ],
+      "photo_reference": "ATKogpdx4k9vLTKcOFniCQeqEJt71l7R34wskKbnmwvR5LnBXWK1hrsGo0ZnB_cUuroKS3I59-ociuKwMsYJK_Xo3qVE7lw6nDsIYxCa1WmHdoTqepiswcKGOc5BbJSXnnCsrddR09vOpbf_yqnlVo7Kd63r9RWJFoSB7O1W6vBEWLxEHsV94q6bESf1rad1t3jq0gkwP9QZuiurkbQy-dykLfh13VFpxEzwzKQSvji0PrW9xCReDFR2W8kAtus-7LAZw7wn1gEE-edCKn2gcUB0DLp_wKDf3I-FTxModYcWSUOYTAjpo3fSbGKgVr1Pt9qGHGyg3xFZ0k52llTeEfdyIzqpz7H4Sfc_EuLFizPFJAQhimtKQhk2xuUbMhiso3tMKqMAo2cAfeAhwUqyiApMI-dvV8pa0DXdfUnqkKWJdME",
+      "width": 3600
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114782049423695762321\">Camila Rodriguez Rey</a>"
+      ],
+      "photo_reference": "ATKogpdreMHT8dbl7HuV8GNdZ5XNrsNO7mR0A8DykUbZukl0aRUHG-mXppWMWQiyVRCUSQ8ZlOTEQQwSAW2S4oR8H863lkkoEXGTupOcy_jk4l8FuG0lQeMRAIjCmd9_P49JUmPGHa4GVsxkRhel_nEvAnMkhBythSRexsDBdN7E1pZgOl9w6B_gcGMsrsAepTvYKB_AFNiHlTE3_1k7BYR0hL1iqqp3PXAdpl5a3-DvaBhUddQ0z0hvN_aoXQaZSa_2_Hrhw-eYoiQlbp4erabdfuKSzRm77sEBQGw8HaLT1C69VQyZoeRSd838nq4tF36j9Za-laoV6MCyZjdGL9S5rkSRUxSf-TkRNZYrmRlqbD5IoexG0qFfRZEsAZdd-m3XkYLXsFaODpYjP07H4Y0FOvghIPVqJmqcNrXvFQPuQsReHA",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110250100825840582642\">Bund Dumpling House</a>"
+      ],
+      "photo_reference": "ATKogpc4KH7g1fco5M30ydV9FUnFs9XDcrJsCsXqG8eHxCpSAju6pOB7ly4Nw0pSPU3w5ni52mFR3JuBZ3_xDibw6Xrw4H57_dlWzoytrR3ANXMJEV4eKmoMMNQDa9wpnZOn0h-2GiI7qN93uklFq9NpowbnACY-R8bK9y_Xp0bi5OXaGFXNsyJhfvduF1jihkgga_5E1qnERNcCLq3KVhAjGkWI6K93RSO7EUamueJ6KBR825iq6Sr7gwDfaBiegTD1gJBeGpNM1MN7dFSIaObIKWcOtOR5UEalGCFNANkShevObg",
+      "width": 3024
+    },
+    {
+      "height": 735,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110250100825840582642\">Bund Dumpling House</a>"
+      ],
+      "photo_reference": "ATKogpfwIXZiKna2D24AnKoNrJBeN4l6gbYeSIEv3REfXLEzbV5l9R-XcQx9BujS1L1Dojt5dcuRB2e4UzEh8D3ryTa_NSypqop115iCIjjIShYs_Dzt36nypkmOSgwTEQcw0rpT6hQjdN8zxAUDh7uKJr6URMAiCA9Umq4jsTZRpJtsL7ShghWkvMDf3ja3ZOl1ztJZu1Tlb3QEB2l6eqYBdw8zjlmIGn__U-EzGWmxa6pY1SgOT11nTDqrqslUrRnHwDqrcXjGpQLBWixPkVUauqqoByNDPR4xALkaXo3_AtqS7w",
+      "width": 1125
+    }
+  ],
+  "place_id": "ChIJ11vP79RfwokROtPouzSpSIE",
+  "plus_code": {
+    "compound_code": "Q37C+7P Astoria, Queens, NY, USA",
+    "global_code": "87G8Q37C+7P"
+  },
+  "price_level": 1,
+  "rating": 4.3,
+  "reference": "ChIJ11vP79RfwokROtPouzSpSIE",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Hailey Sprague",
+      "author_url": "https://www.google.com/maps/contrib/114138653449591477395/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX94nQY31JBfNAb4--b8EAoIs8jndkpIzAOBWTE_45CC5_iaMcL=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 2,
+      "relative_time_description": "a month ago",
+      "text": "We ordered the Szechuan chicken cold dish last night and were surprised to be served a dish primarily covered in peanut sauce, as the menu doesn't mention peanuts at all for this dish. We asked the server who confirmed that this was the correct dish and that peanuts weren't mentioned on the menu. She didn't try to correct this, still charging us for it. We didn't end up eating it but even my partner's duck wasn't great, being dry and lacking in flavor. The soup dumplings were okay, but overall, the experience wasn't worth $60.",
+      "time": 1746624663,
+      "translated": false
+    },
+    {
+      "author_name": "J K",
+      "author_url": "https://www.google.com/maps/contrib/102612417494705687927/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCXoPZZiQTFZNT0E2g8SW2DJOGfree84Ly1rbxYxqeNJNXBw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "if i could give this place 12 stars out of 10 i would! i placed a delivery order for the wonton soup, wood ear mushroom salad, and beef and pepper noodle soup. everything came fresh and delicious, and way earlier than expected. the noodles had a homemade texture that i really enjoyed.\n\ni was feeling super sick, so i asked for more wonton soup broth in exchange for a free promotion item. they were super generous and gave me both! love their service.",
+      "time": 1741313114,
+      "translated": false
+    },
+    {
+      "author_name": "Ian",
+      "author_url": "https://www.google.com/maps/contrib/108931301066653590146/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXkJCVObz5rhKL-Jt3bMF8F3Vh-2uXTnCn2Zm_DDTCdnoCHfs4q7g=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "June 2025 Update:\nNew menu, new staff. Must be new chefs in the back as the food tasted different. Pork chop over rice was no longer served with a marinated egg and pickles, but with egg fried rice. The pork chop was no longer satiating. Last year it came out freshly prepped and juicy with a lot of flavor. Now it's too lean and bland, like it was never seasoned. I gave the food here 5 stars last year and they set the bar really high. Now it's at 3 stars.\n---\n---\nPast review:\nAn unexpected contender for best dish at Bund Dumpling House is their fried pork chop over rice (Taiwanese style). This is not on their regular menu, but on a separately laminated side menu. Got this tip straight from their friendly staff after I had already ordered their delicious dumplings and was looking for something more satiating. Was told to eat the pork chop first while it was still hot and crispy.",
+      "time": 1748916558,
+      "translated": false
+    },
+    {
+      "author_name": "Jennifer Gomez",
+      "author_url": "https://www.google.com/maps/contrib/116260791910819987056/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_9ZGSFPuetKnKmifDjjIZktcOsm_r2dOuKImI5AHalJpWAi6i=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "Excellent food selection and service! We were just roaming around the neighborhood when my sister and I came across this hidden gem. We will definitely return to explore the rest of their menu\u2026and delicious noddles! Highly recommend for anyone looking for a quick and tasty bite.",
+      "time": 1720193726,
+      "translated": false
+    },
+    {
+      "author_name": "Hillary Guzik-Jung",
+      "author_url": "https://www.google.com/maps/contrib/115610559615038325186/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWVV1ba5OICm_5q1IXlLwrX2Qh09uxCT3-10y1y7Z1S2Mi07Kp5=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "The food is tasty here. I really like the pork soup dumplings. But the salted chicken was very yummy, pork belly bao tender, and the scallion pancakes are the best mix of crunchy texture and gooey inside. The only thing I haven't really liked was the seafood soup dumplings, but that could just be preference. The place is small. But we had no problem finding a seat for lunch on a weekday. Salted chicken this time was definitely pork.",
+      "time": 1685296075,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "food",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=9315881873171862330",
+  "user_ratings_total": 382,
+  "utc_offset": -240,
+  "vicinity": "25-08 Broadway, Astoria",
+  "website": "https://order.toasttab.com/online/bunddumplinghouse",
+  "wheelchair_accessible_entrance": true
+}

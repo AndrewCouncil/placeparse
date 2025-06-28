@@ -1,0 +1,447 @@
+{
+  "address_components": [
+    {
+      "long_name": "463",
+      "short_name": "463",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "7th Avenue",
+      "short_name": "7th Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10018",
+      "short_name": "10018",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">463 7th Ave</span>, <span class=\"locality\">Manhattan</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10018</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20098:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "463 7th Ave, Manhattan, NY 10018, USA",
+  "formatted_phone_number": "(929) 668-7781",
+  "geometry": {
+    "location": {
+      "lat": 40.7517218,
+      "lng": -73.9898019
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7531335802915,
+        "lng": -73.98855116970849
+      },
+      "southwest": {
+        "lat": 40.7504356197085,
+        "lng": -73.9912491302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 929-668-7781",
+  "name": "Sopo Korean Eats",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20098:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117802284634661850899\">\uae40\uc6d0\ube48</a>"
+      ],
+      "photo_reference": "ATKogpctToercclI0kaY1IchaI-SoDv5jWq84dIB-Tfkgq9fjARfwtYBVFqIOlr78z-jmTnGrJQUC9H-ofySBoAG5DzSYCH8Iu28OP3l7eHU_kxZjs6t7vZV_BKfQfT5wAFrQj0rtiQFbeLLmLc00xPz-N6ocIEv4QGbQVcft7FdFXBYdjqIkLCqnV6W-cvuiu1ktZgyICX6pnSnXPyTtmNlTTANHpnRAsZDNwYG2cBbeiQ_jPc3x6xpPl5gVTk2e37Qrt1JpXZEYyowex8QdnlmZIZ8Geq1FtVekqKGwLBpg3oa_xgZps534jqW4-jBFdQdEuCV9iGW_K3Voi10xp87t73v-PXdYyUdz1Mr8in2ZgNb98xm0TO8PYGiCQ5Zo9m1daIfgsoUZLBiLe_UApS37sB0jkKjZnmB_B6Oz9fZh1I7fQ",
+      "width": 4000
+    },
+    {
+      "height": 1350,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115491595833076305994\">Sopo Korean Eats</a>"
+      ],
+      "photo_reference": "ATKogpdbeTt9rGiJtgMmbW8ofKGfi32WmgDUGG90KTT4lfntpO7BDp3XrsUVmYhIF8bahoXRV2pvzeZ1imtyTCw7g59mXixWQmChHMNwwYLM9ParPlaAIfAigveW3ilhpvg14ub_IMtNi5WXPaXghL8vuT_gCcBIlqxMZ8E49pHIRbu9Q9LBm7hfvl3NAdk0K4IjnsxW3od3MDvspITETdjtcbV5HOgVuckTyzIScSgHqjpkTpLa7EC9pM4suSTMouIuJkUopL0a_fNY_OTduH6quT4peVIHSp4ouT0KnyHhvjzLsw",
+      "width": 1080
+    },
+    {
+      "height": 662,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115491595833076305994\">Sopo Korean Eats</a>"
+      ],
+      "photo_reference": "ATKogpfwLdyIw9JdgTUFEZB4ytJlnnKQxVxUocJsqiVxW-dZ9Esr_JQsP9iiV5UfdP1SdD6tPxN6RmSrYFC6-Fi6rnpU8FbBYooUBZEJJAJLO1RgRcuwcx0Q2zkvayKTs6MSNFVAHV4Zv8w2JX7DBYeMN3-M5fwRiqvfetouiE93m5dHN4ck1MXh8Z4ZXNNgCPeFi2ik36yYje4BX0vUSqNPSc16MLh1IDysDJKLoOf8pOpAx4FphUOy_Dsa6hDMuyyV1sQBzydVtaF0jcPjASrBAzeYlIB5sacpjqVcKwxpBgjGAQ",
+      "width": 778
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115491595833076305994\">Sopo Korean Eats</a>"
+      ],
+      "photo_reference": "ATKogpdj-sFGpU7cw1m-zgYVrich-Jn4j1JvjAkn_ImNP5RTtu2PYeB10LrYSorKCON3ovl8wMBzYMAmPHxkamqrGuD8Aeu2TDlFET0oby3Lt1FYjunzbW7_cun9SoeNdtdv7TvTB0uhvu8MVXJJ-wwA5u8bTW2bOfW1nCmBvroNW7RqhIShtDtoW2XvF-KeC5_CX0XgBMXDkLt6yIEiPS9DSeuRzt_j_B3U4ud5M6AR2lJSxd_U0OsMmOGCYa9cNGNhwb480VINzNxJzIMB2u0zhdBJBznX5wo5EzfUI2WpGk6EwA",
+      "width": 4800
+    },
+    {
+      "height": 1350,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115491595833076305994\">Sopo Korean Eats</a>"
+      ],
+      "photo_reference": "ATKogpdIic-fzqYEJAJH0Q9ABV6J86U1UezWmoflAlm1qu4tqgpZHoNXHB81Y83vyLbYIcMYz15fcaiqF_Xil5Tk77qbJcXPNRUOwcqLlQx8f9CnB2S3Map8Bsq-dqRiYmxJC6KnU6zvrIdBeiv0-nsaJ_FB80zYKg7sFMKHdfaPDuHPTAIX9xXrsISokHRmwImuPM0B5WlR7VQa-zAwYR9FthelI-Z9NJkYr5Ha7WtDwmg5-Gcja9zRdH5BcsUVCIw5frk09g6tYiiRcJUi7l_n2iuSCifxNmCc_2MEGs5-w-ZzBw",
+      "width": 1080
+    },
+    {
+      "height": 772,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115491595833076305994\">Sopo Korean Eats</a>"
+      ],
+      "photo_reference": "ATKogpdtx1MVEYMQcD45uW80HxJFpQS3lFD48OGlK_4Ug26kbWQly7ZhBcKTlz3vufCbf3DFsFzosDfitNecuTBh23YPQIWI6yKUVe9BHtkqlI5_eZZieH6WftRTm1zp-S4ZyTHvA8PBQNUEm8H8dhIagedMbTS0_yDFRSsO0Hm9UPfgGzTMefBfzxthMUIKyCS9SXtFeaVXb-QzTJNXyWjrf6xSgc_k40VZ-0-7Nakp-01WBr9hGGMJ5jnc0EuDRHYkKLDIIWIKIn4cIpBEPElX6fQMnMXb0_gQOCtI2elVkj8b2Q",
+      "width": 814
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103595539240546623033\">Chunbum Park</a>"
+      ],
+      "photo_reference": "ATKogpe7CrKk0JBMWPc5a1iI72anD8zKPembbXV5JwY_fenVFAgsNGBl5-bCga_78Arwu6QUg6tNGF1MdazvabxfU2ijiPAMr9LD_sEfmtFqwL7xaArfFmXJC-f9Aj6dX-zPbt7RDUIroXT_ZW5cP4hxiZL5uEfHwgUMBZ3ckqTHVL6UQf9xA_JJ7T-OiBXVZ7xWoVbyjeLfbJsRH4dhPNpG90B7iW86arYWamGaIhH94__FT9RjTQa3juANtVW0cjJ9njUXxKhad8efQpDWaZHsXvUUG7bVWyeAAucIVGPCUCrFBIWjPEAB9VSASs3SAc8S1556nrnt0rQR7p-Pwmm6gfnxAsnfvn21JqiwCM-SWECMHltDFnz6uEk4QRBxKZlvrdnc-OdIJYoCt9D5uSVyxqc-6CCK-44kxLINACPIa1Q",
+      "width": 3000
+    },
+    {
+      "height": 744,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115491595833076305994\">Sopo Korean Eats</a>"
+      ],
+      "photo_reference": "ATKogpcLxCI_5NyW_IGnsHEm6qyu7e1v5Jch6EnX6f7rx7kZMUWfqrpQvfsjGMb3pssdNVZ_fMz2mxKeZnKFMMiHeD27N0QnktQ72CI3s6vae6ThQ4pee44eYsRY_fCapbYWgwYO_CY48RhNOIAJcHWyJTqLCehg-xDZokKd4JaoLobTRXW7cyNpC2CpFaOTdwEXuIBF1GcXgSLzMWN-ralChl9d6QDOn7qd5YZ4BLjWgnrntH_lSkkfg5OB3daabk1r1Q5DDAveQF5Nh5EqyqY7n8Ywq2pPsm1INLxSAgKNFbmECA",
+      "width": 794
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109213508069395321210\">Elizabeth Tam</a>"
+      ],
+      "photo_reference": "ATKogpcI013jjUyUvZoHTLNxM8_IbrX_oeHhqogoF2Hvt6xvQ2r9bm834P7l4VJhHEP5O-v1AQjCeBdlvJp0okse4i68H3dUcILY31w3T8_ndhVZXbR1Ke6wfXPIDEfdDhuTRM5GdFnGVpLN5kQ-Etwq4pd5kJm05vRCf82rsMWhdQSosewV95b-jGgtAHyrQWzW8lp4d3cBXPf9zGCkC4Z_TrdYs0OJPLV-w9RqzAG2o_Yt7wKYLQCyImKPME-5VcdmkisPgH03u55JeK2CUk9D5eQra0xG-XqgRPaFnjmbzsVZ-mH0pgiL6oVl3gBr9HmOGyFIk7_XQxrH_khos8zrdXI2EXhNfC-1ZLl5tQvtFIADoYRLxzh2PqmrAyQTiN-1m-B75mDFTK6_9oudHD0fUD7pSqRCdS4d9DhwEQmaYgltQ8JJ",
+      "width": 4800
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100837677934289189004\">Chris Lee</a>"
+      ],
+      "photo_reference": "ATKogpekk_kQt3R7paHBTqpdOSUNKmrMXHr9dgvcwSRK4KhAHVQQgFlsyRqiajp9ka_RDJ-ExI28e5JcbOr9jAOACk2ghjNN9nyZOLmnxwvgolQithnYBT3OG3b4a-T7aum288oqVtbGr5yN25K0BzEZuqR9IYVumHeJvOBSryPZjekVG4-eipitkRsBhiyKwAP6COl-REJXQTjeK7nhP048uP6mN2C1JG0Sb29xJYoLqSCf-7MiMjDSrfX427CAfzXTg674_bSBmXSkeo0s2y96ahaA37QJZodbBNqldiAWeW3VCKqPbSrSI-CDU2BJrhRFvO9mue8EoPmkflzbYkHU7Pjd2weHbCtwJ-DuM2SFHG7TXUiMxeoL4VvONWlP3DxeIGHDzoCheLfAmOOH7akvp0TFGN2XpWG2Me1WG30hXQsMbLLQ",
+      "width": 4800
+    }
+  ],
+  "place_id": "ChIJyyiKvBNZwokRYcYmgNYPxR8",
+  "plus_code": {
+    "compound_code": "Q226+M3 Manhattan, New York, NY, USA",
+    "global_code": "87G8Q226+M3"
+  },
+  "price_level": 1,
+  "rating": 4.8,
+  "reference": "ChIJyyiKvBNZwokRYcYmgNYPxR8",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Henney Hyehyun Ahn",
+      "author_url": "https://www.google.com/maps/contrib/112181728474837134943/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-Bs2itadlJ8K8YYk02zQlhl1YVqP_b0yMA7v3wWR_ptennUWg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "The food is so delicious that I sometimes find myself craving it. Every dish is truly, truly tasty! I highly recommend it. However, I think it could be better organized in terms of system and structure. It would also be great if there were more seating available.",
+      "time": 1742728700,
+      "translated": false
+    },
+    {
+      "author_name": "Gary Chen",
+      "author_url": "https://www.google.com/maps/contrib/103818744779055689427/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKuyZH1itbGTlXa3d0lPqUmAGsTBbp74d8hGfwW8oEO86MDig=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Amazing both in person for a quick meal and for delivery! It\u2019s the best Korean fast casual I\u2019ve ever had by a long mile. The steak is very tender and flavorful. In fact, every meat and every side was very impressive. In particular the egg, broccoli, and potatoes are very well done. And the kimbap is the best I\u2019ve had period. They have special machines that help make it perfectly.",
+      "time": 1745433080,
+      "translated": false
+    },
+    {
+      "author_name": "Nicole Kim",
+      "author_url": "https://www.google.com/maps/contrib/118129559408373781633/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZQ5Yo4hAmaHriQARrQsXV_iajY6m1FuLFfCO7w2_hwyozvaz7tg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "5 months ago",
+      "text": "This place is like a Korean version of chipotle. Coworkers and I decided to check it out and ordered online for pickup (the estimated time wasn\u2019t accurate and our food was ready earlier than stated). Even after telling the staff our names for pickup, they insisted for a receipt so make sure you have that handy which is a bit cumbersome. I built my own plate and selected wild squid, purple rice, soy dipped egg, kale namul, and cucumber kimchi with a side of samjang aioli. Also added a side of beef bulgogi and got the Korean iced corn tea. High quality food, but the portion size can be worked on. Was a bit disappointed with the wild squid but the beef bulgogi was tasty. My favorite out of it all was actually the samjang aioli. My coworker also got a bulgogi kimbap which was about $14 (similar price for a plate) which is expensive. We expected to be stuffed with filling but was average, which was a bit disappointing. Not sure if it\u2019s worth the trek again.",
+      "time": 1738090674,
+      "translated": false
+    },
+    {
+      "author_name": "Jay Chung",
+      "author_url": "https://www.google.com/maps/contrib/116716464955842299134/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-fjQkICyoWDbhgyQTr8SxPEM6ZlFMCCfRatVL5_4XkWXM-g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "I was visiting from LA and I had heard about Sopo, so I wanted to try while I was in town. And it was definitely worth the visit! As someone who grew up eating Korean food, the offerings at Sopo tasted just like the ones I was familiar with.\n\nI think they did a great job of staying authentic, while trying to present the food in a more accessible (convenient?) way for others to enjoy. I\u2019d recommend their staple \u201cSeoul Steak\u201d bowl or any of the gimbaps (=rolls) to begin with. Ask for their sauce recommendations too, and they will take care of you very well!\n\nHope to see a Sopo restaurant out in LA one day!",
+      "time": 1738958351,
+      "translated": false
+    },
+    {
+      "author_name": "T K",
+      "author_url": "https://www.google.com/maps/contrib/112612194424374514057/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL9EX4riUtkGNkDfNwVyEtKLUCsHzZlC-jrzhFODeuIZcGtbA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "a month ago",
+      "text": "My message to the owner: prioritize genuine customer feedback instead of spending money on someone to generate 5-star reviews.\n\n1. The Kimbap is overpriced and only average in taste\u2014I wouldn\u2019t spend $15 on the bulgogi Kimbap again. You\u2019re better off going to K-town for cheaper, better options.\n2. The regular bowls are pricey, and most of the items are add-ons, so the final bill is unexpectedly high, more than $20 per bowl.\n3. Only two side dishes are offered. Of course, there are suppliment options as well.\n4. The main bowl itself lacks flavor and is not refined.\n5. No free water. You have to buy a bottle of water.",
+      "time": 1747675176,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "restaurant",
+    "food",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=2289253399535208033",
+  "user_ratings_total": 394,
+  "utc_offset": -240,
+  "vicinity": "463 7th Ave, Manhattan",
+  "website": "https://eatsopo.com/",
+  "wheelchair_accessible_entrance": true
+}

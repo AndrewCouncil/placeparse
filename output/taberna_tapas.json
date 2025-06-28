@@ -1,0 +1,451 @@
+{
+  "address_components": [
+    {
+      "long_name": "325",
+      "short_name": "325",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "West Main Street",
+      "short_name": "W Main St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "City Center",
+      "short_name": "City Center",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Durham",
+      "short_name": "Durham",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "Durham County",
+      "short_name": "Durham County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "North Carolina",
+      "short_name": "NC",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "27701",
+      "short_name": "27701",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">325 W Main St</span>, <span class=\"locality\">Durham</span>, <span class=\"region\">NC</span> <span class=\"postal-code\">27701</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 5:00\u2009\u2013\u200910:30\u202fPM",
+      "Saturday: 5:00\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: 5:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Spanish restaurant serving small & large plates, including paella, along with cocktails & wine."
+  },
+  "formatted_address": "325 W Main St, Durham, NC 27701, USA",
+  "formatted_phone_number": "(919) 797-1457",
+  "geometry": {
+    "location": {
+      "lat": 35.9964204,
+      "lng": -78.90345889999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 35.99783403029149,
+        "lng": -78.9020653697085
+      },
+      "southwest": {
+        "lat": 35.99513606970849,
+        "lng": -78.9047633302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 919-797-1457",
+  "name": "Taberna Tapas",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 5:00\u2009\u2013\u200910:30\u202fPM",
+      "Saturday: 5:00\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: 5:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102211342514026012723\">Taberna Tapas</a>"
+      ],
+      "photo_reference": "ATKogpfhNGAjE7ZyPxcwuAKwyBRCwNOIRIcJKHlgIfxqhjJnK8kOhHxUp4nx5S0Cr1D762YaH75i9YkzumpijpN5QiJhYpfBNVs_S9SFBnsaGtdY8fo_oieBy3XPK_IcrqvMg9FRZ34rDgpTj0PhMu4VcdnJTat2ie_6yK-OPDWF1rYsqaHPNDcOUTeQoLtpdrmaMvpoOPu5o9vA1ilMeIvS3hFd5XyP0I8DzelnIvq0wKQPPXNo6rLtQrWsf6q9vppehZ3Qk2wDYld0UvfQZDhrz-0mmM4ur0aVAn0rRLpJvLsZsg",
+      "width": 4032
+    },
+    {
+      "height": 618,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102211342514026012723\">Taberna Tapas</a>"
+      ],
+      "photo_reference": "ATKogpc1YaJqwCVlmqJUPwJou8dL0PXeaImkGQHqDkSHj-EVCZWU1ZuY1WRZcL6mlzHGmfzN4q9YCUxdBaEpY2vQpLQwLve8WtoiyphLiB7bhB3PAMLe75cjOJLSk743gtwNhfZhhdQ3p0VrqaSNXFpwF2tPK46NutLT8CWIIqBmpX7OupHT9GY7A2uSP1LxBRP1Bpa__qzRCjoqhUHzPyAOSJlzaoTKIsxR-DVlyDGGacFIjQWjoIIhCcOkUk508CNj0ZRBD8d-LDhFh-WCbPsRzd6N2v42WsqCEPOr55Vk8ur_qg",
+      "width": 926
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104456892724937661930\">Scott Strine</a>"
+      ],
+      "photo_reference": "ATKogpdYILqtIarvDs5yWlUpP4MWsq91BzgrGmYheNjgIUBaSQTN7maqAAU4PgyT5bM-SYMCvQJ4IoLE94kiPdU_vzR17MsWbVbOkPOYz410s_HXe6f70_YHR1LT-0o80xQ_pnA4gU8OBzRq7YNE8MKf_lN5Rgx9aIU03Qisv4woksbujUYEm8Dqj5zUeenY7xHhTz6obVRR3H3whQlW9PnMW0yNsDW-OKrKy0CoVrWVVE3V3u3Yh0XrBm21BOXpHkMW3s6WtzNXv0J5phGVw-dpSYsBkyn6ER3Lox3sU_6hH60YKcWeEj_0pbv1lityC4zpIrJhXw2dtT9KNUZAhKP-38IOdUaIwpyq-Vr1HuxOGrahLuzsvMzUwbABQMyBk7J1Fzx6R2MKj5PxH3xHUCEmyHIcsfcse-Vykbi933h5MeCNlQ",
+      "width": 4032
+    },
+    {
+      "height": 2293,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114431625489276706145\">Erika Gonzalez</a>"
+      ],
+      "photo_reference": "ATKogpeoB0voZjo-QdIbk60oN9soL3ZK0VuQqPXel2yFGgVimTkq6DEAaPfv6e9bI-HB8enZhxZgRHRbYjv5me3SGAfGdEh1nm1SmdQeQUohWLILxd9ZFaaXi6AJcm7E8NT5vjuc4sclc-C3oRjOaNs5jcGzqcAb2iFhBIv0wqMWciNMh2jvVgfUmKKOPXND5GfmuIHozFD99kSWN5WjolYu7aldn0Ze9mTQfL1xk3V-JR7bSJn_3eOqbLOXB2TEAE35fu2zCvj6Xq45tDoKtOjh_Ia2rWdf2pNqh4uOeqUpmUZIZFxzRmSXeEkFInMeo9pvXlEXXmQnC4RY85rBLnIwauzxyNXMBiqm5IbYjNY0Mbh4BNL52TtrORCRbTKbO2FRQzKW1tj5VZ_BR6w5MObk0_hOQLmhQS0ue7xvQ6_wS-02Iw",
+      "width": 2556
+    },
+    {
+      "height": 618,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102211342514026012723\">Taberna Tapas</a>"
+      ],
+      "photo_reference": "ATKogpdh4eCDeQxJv9qHhB5gQLZDRepH-FvqVX6tHj6Jp9KsL0HhZ65GD74gXScwybZXcxe8ZvxdEhalgH8ieMOMZfUuo2hlXcIfpx-_nP-I6-o6JRDJceGNZz-Y6CeHEpkvFuz7eDJWZr_eXSPHl7l9Xmy-Pm0xqmd4FavjkfpWQsWLyJHRwQd0iJaNJV-co26GbUnvD-8ignu8BZ0YtY3EhrBjO9f_E_6LhPCRQtbRn7CywXw0CzFiXkKDl2cDTgEuT24J5Ak4DbYhx4bSBZWWCidsoy5Z0HKaR6MiJXh2VWRKYg",
+      "width": 926
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118266116480381821250\">Fiona Zhang</a>"
+      ],
+      "photo_reference": "ATKogpcb2IiVXaT8QKisnN3MODOlSxmO8DK7480-ixpzgwgolq5N7vWcQKND-NmlxfGNI2H_EerjELocI3eNiEml2shn6P1neZgef6iEmNsqBT6jx2vNZKmaLDjcyJKVCEcAjQMIuPvU3_svge3KoMQZSEorkFjFqE9xjoB7eO7FhZWb2jAS-i4l0fRIzSJYIYtWTfZH9uYNlI39KoKJTqgqG5owYy36WfbacUOyIxOfi8KStbA0LBrCNSlefkXzc6XKvY14Xx--W2uZZdwUnWDdBGv7kov44DA6er8T3FfZYQHzz5CRPgvYxuZZxPXtymrJUbNe0h7ByPMmclF5_Q_tD4ZY37xZ9XkswAfD9K2arMIO7WbEXnmM_D2WHX87lMQbS5aMN7H_ulNSkaIKo6dia4U-jGLOb7HuGgrSGZPuoJD-aQ",
+      "width": 3024
+    },
+    {
+      "height": 618,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102211342514026012723\">Taberna Tapas</a>"
+      ],
+      "photo_reference": "ATKogpej0Ide2iwMbibdHaoOhH33byWVcCcXGPeU5tK7tMWTMieVos3vNH7WAkvpGUJDbApz7yq27SoHbrT782KfMmtniLUNBswFTSBnkB9CGEPX3AVYHNh9NDIKzUnuN_cB5nXC_YrwMxeN6kuqpPRZLoSJ3UlSiX4ri0oEDh5dhEoXons0_-r1hehwMUGjF4GqqLUHMZAwkHCimfV3zFaAqbHe2ozcvAoPkllRlYJZJc7IhBHlT9qrFWTjK2GZ5o-8NbjPTTwBZVc2jHqhFwTIKya9Nf0vXXM9cNtLF2j1btrKyw",
+      "width": 926
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100198430227345346754\">Neha Patel</a>"
+      ],
+      "photo_reference": "ATKogpdnvxaDo7vJPxiHO5WluLgjXy0fVE5CS7EXyB_ap-hfIm-t5dLc4afaY3eurio2EaxyS6w9fkd953v_H1saP276cx1KRDroyI3pDtPKFeKU67OKtgm8MIf9zDZfqhBZuyeta_-28n2-7MBg5V4STiNg7fS6hkruIDwQMAtGINEgzAR0cP0ELu-2W6IhEEiJ1bi1BZC4Xk-iV_j4A6yrQzIDdTyRcUqrwSTJO4TaiMoZpoDyzVDDgPzP4xsODJql50cBwz6n_HjgsD9jbxMY6aGgvihmsWrvbTM6f4t2kCESiV2tI-BSM_48ZzXF9BQJ97hR1dOR1Ybndy8Yr595yAmOzi4cjJlxCpBaGTKny5Lh1AQzz2xyVmhpwTh-CcAV_F8YfJF-bbZ3rsd5jPO4hpnvyM4cbvP1gSgU5bhfuso",
+      "width": 4080
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104180675816609866000\">Noelia Bautista</a>"
+      ],
+      "photo_reference": "ATKogpewEkAdwX8rGmsGUtCozLn2m0eYCOnSNbqVaGp_QlRWcWNiJL5qRC6uEInh7yf349qwUAcNtsRXiUGWdQNyywsa85-XXwsLHQ6vVwBoU9WBZbUht6k36sP1zEXxxQAkslDyuLnfcluIfUBr9cFcd-TsFsI_sEcjcZZRsPNCxKSARfbRwu-7_7CYBDiPdKAxWuNL6uQp00zYf9dm0m4QLXNwzwnzDgU0SqLUDn9R89H9EKzX4U0cUej1LzC70eOPRHwB4_bElNijbrXtw1usUL9x_9h3iBnVPANh5_4-8i8SV9ur81Ooa6DP8S5nZlDVpLQ4ESB3uQR9zreCAKKcgmU13J92wcVbLt3NyvZxXIqwTqXkdlF34JHcDJUqvpTPCp4mkQNRO5Oz2Au8AZsB-yZoH0UAndZIDaAc7TphPxYPqg",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116080114266384569699\">Patrick Turner</a>"
+      ],
+      "photo_reference": "ATKogpeOyRIpEb1aMas6JPKHSyuuOvdzuk6hEhi-kkfQsv8BVYeBNVFWiHgQD4Lly3t2jrUv91esoQhZg0HBOrxQBxTujXnQhGA4b_B95zcaNkXU88gAd6GtQRztU-6zIzSMYnCNkT0y_1Qho1N6Vq_dleeSvuax1XucNS7a7tbrVrTamYIuhkanD6YMrflkNyHH2fr7QEGHeznjlxQh1vzcgJEqxeESLYaCGj_-9QCHYdvSsRi2NZT9sVLiPkp-tPjOTVMNXonsnXSED73_QyqYJ_z3-nDxGFRP8Ouu6IxD0DaMWm-FqaKQ9bM9mTOPH6Myw9ZHchEd8HHtjlL-W6CDVPLpG9cV58bcNAYML0YMmHGBDjO4NZ-V410bTq3tyZWB4JgTr1AJPZaCyH7zxMVfBu9-ZuQKDtYeweVR2yNaSUgzJyzr",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJK_rmf23krIkR06taxOVUYLg",
+  "plus_code": {
+    "compound_code": "X3WW+HJ Durham, NC, USA",
+    "global_code": "8773X3WW+HJ"
+  },
+  "price_level": 2,
+  "rating": 4.3,
+  "reference": "ChIJK_rmf23krIkR06taxOVUYLg",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Fiona Zhang",
+      "author_url": "https://www.google.com/maps/contrib/118266116480381821250/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWYrmhQ7zZpSCF_OHG6Qq44GyirAfvM-DbFMI4IxUNG3MBjubI=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "One of the best Tapas bars I\u2019ve ever been. Highly recommend the octopus and churros with chocolate dip. The octopus is crispy outside and chewy inside. Even the tomato at the bottom is delicious. Oxtail is very tender and fatty (in a positive way). Spiro is very nice and introduced his favorite ones as well. He recommended the salmon!",
+      "time": 1746501140,
+      "translated": false
+    },
+    {
+      "author_name": "Patrick Turner",
+      "author_url": "https://www.google.com/maps/contrib/116080114266384569699/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVnFS2ssTf37EJSxnsJ3spHZdpUAp9iCU6zBJM4lNUbiKTCCfEb=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Taberna Tapas is a fantastic spot with a great location and a warm, inviting atmosphere. The full bar is well-stocked, and the bartender was incredibly friendly and knowledgeable, offering great recommendations, including a local gin martini that was spot-on.\n\nThe menu is easy to navigate, featuring a broad variety of dishes, most of which are genuinely shareable tapas. The food arrived as it was ready, ensuring everything was fresh and hot. The Estrella beer on tap was a nice touch, and the spare ribs and tomato on toast stood out as absolute favorites.\n\nIf you\u2019re looking for a laid-back yet high-quality tapas experience, this place is definitely worth a visit.",
+      "time": 1742321779,
+      "translated": false
+    },
+    {
+      "author_name": "Summer Xia",
+      "author_url": "https://www.google.com/maps/contrib/116392773736296520592/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVtGAO5g6nU9Oz3HsqRKCk4EEo2pVJheX7tOT4_jTq4cSj2q5Y=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "Very good food! Love the fried oysters , oxtail, octopus, lamb cooked to the perfect level. A little pricy",
+      "time": 1741963907,
+      "translated": false
+    },
+    {
+      "author_name": "Travis Hornsby",
+      "author_url": "https://www.google.com/maps/contrib/114148130631606412583/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9r0rxIb1NYDqUwMiH-EiZ1KYXB3xm2vlyJBwOSTaxOmibUY7q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Beatriz was really great to us we had a big company party with lots of out of town folks and got great compliments as to how much they liked the service and the restaurant. Highly recommend for large groups.",
+      "time": 1749609751,
+      "translated": false
+    },
+    {
+      "author_name": "Noelia Bautista",
+      "author_url": "https://www.google.com/maps/contrib/104180675816609866000/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXiJAt8nW5yFPAy5FRzEcelxPNH5lwcvV3vdD08RsUXqlA0kFBTNg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 1,
+      "relative_time_description": "6 months ago",
+      "text": "The first time that I went here, we got Arugula and jam\u00f3n: was really good, Alb\u00f3ndigas in savory: I wouldn\u2019t order it again, Steak in chimichurri: so good,  the desserts were the best of the dinner Vanilla caramel flan and Dark chocolate mousse. To drink were Alona wine and wicked weed, in the menu should specify that the beer is no the normal beer if no w strawberry kiwi flavor.\n\nThe second time, I had no desire to return to this place. The only good thing they have is the steak and chimichurri. I tried different dishes from my first visit, and everything was terrible. I even ordered the chocolate mousse again, and it was awful. I don\u2019t know if they changed the chef or what happened, but I don\u2019t recommend eating here. I felt really bad having to pay for such a bad meal.\n\nThere is just one restroom.",
+      "time": 1734635138,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "bar",
+    "point_of_interest",
+    "restaurant",
+    "food",
+    "establishment",
+    "store"
+  ],
+  "url": "https://maps.google.com/?cid=13285712246561483731",
+  "user_ratings_total": 794,
+  "utc_offset": -240,
+  "vicinity": "325 W Main St, Durham",
+  "website": "http://tabernatapas.com/",
+  "wheelchair_accessible_entrance": true
+}

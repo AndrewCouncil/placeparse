@@ -1,0 +1,406 @@
+{
+  "address_components": [
+    {
+      "long_name": "3330",
+      "short_name": "3330",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Quebec Drive",
+      "short_name": "Quebec Dr",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Durham",
+      "short_name": "Durham",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Durham County",
+      "short_name": "Durham County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "North Carolina",
+      "short_name": "NC",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "27705",
+      "short_name": "27705",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "3029",
+      "short_name": "3029",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">3330 Quebec Dr</span>, <span class=\"locality\">Durham</span>, <span class=\"region\">NC</span> <span class=\"postal-code\">27705-3029</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: Closed"
+    ]
+  },
+  "delivery": false,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Family-owned area institution serving locals & celebrities hearty BBQ & sides since 1952."
+  },
+  "formatted_address": "3330 Quebec Dr, Durham, NC 27705, USA",
+  "formatted_phone_number": "(919) 383-3211",
+  "geometry": {
+    "location": {
+      "lat": 36.019838,
+      "lng": -78.9446315
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 36.0211013302915,
+        "lng": -78.9433695197085
+      },
+      "southwest": {
+        "lat": 36.0184033697085,
+        "lng": -78.94606748029152
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 919-383-3211",
+  "name": "Bullock's Bar-B-Cue",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: Closed"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116589776076214095813\">Susan Van Vleet</a>"
+      ],
+      "photo_reference": "ATKogpdLjNRbdIMVervAcO8GjizEClosHprVq7sk3EW8yvQ3-QfLXhImTOddzawousAHltY4ryHdge2CIzJLJbSI-9Rzd2gleA8ZMdoqgcC9Ul1LsBi6Zq5h4B0fhSi6iLygG7nYsC0Z2IRDCO_bzoROSnwpX8YjDRfDYBD2Gd_vBCnYjB9yXccd6mOyXmvhQWHNPozFAeAjMlp1ZlvvXu0YEyPWSP55fGIRyXXLc4dCd7At3KQIIf1rZ6UbUYkHojy_MsIxdZyGDFwLgJyGE03gAPSGtZZKEleLDvqBIIv8j6Z39NrPxpJ-haj89Jlv_ygK_NipFO18XdxWilRt4uRBmKljzdP-YkkSj8WUbUwmDEXvrT-Xlr0v7Dhh2Sb8UWGxSRbe5V19GsyuSp45k8waFVWkT_8LeWfUcdMK8s_1YwXx6g",
+      "width": 4032
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116785098967329847045\">Lillian Overton</a>"
+      ],
+      "photo_reference": "ATKogpdIdNsU3OcrUb9ifmi-0eNQbmjdgYvK7iHcpjc0aCGjnL-h_XjBLBZAqXPaZGH-IEjiWFN_u5uUKirMgACmB4qt4xxZXb3JpPtDaYcANSDGlsQeUEtO6lbJrLgOCUMWJBojZ2Z_NzWOthBHcO7rdjSf-duS14wGgpwyFS0lRwOV8KyfxyQfskhb8xdw1eSeNVAM57kebP_Z-a1s4r1PbLdP7yVApKn02ALGBoH9WHG-_0NkZNxqQnSDbMSPU2wVW4-Ped4kpj_K-GrcW9CXOrFRQaC6RXwKWvPzzpFYfVshH3scXxN76lj0BEFDCAKGbtse3Mlh4uWrGTSaPCPLyJrGMY6ByaoP9Dy4IoGZo1q4mPDf5wZbjQzZH8dLGlU1AZBgORIG8K-8JOR8ZpazZXHbR9dgCjB-a5VC4k1F2pribNfGS6QMDIIkVdSrLG1N",
+      "width": 3000
+    },
+    {
+      "height": 2951,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114716948384352366750\">Richmond Gentleman</a>"
+      ],
+      "photo_reference": "ATKogpfODZTOKv30-e5G_v_wYfLeP-Y3ADfrqvjvDmLbXW2IgDoHFa-FbiPOzlSzrW49OH4D4QuUL5zqBliHkEPLx-eKYQg2XyPH5rN2SFmN1bUGKhLh5IMj8kUu1yEhR_3EkGUIX4mvlrPuvMF9k5B566CXwSqp6nlXrC7VcUhsUo6oCZ7XsZaM3EAd1Hi0WHf3vGcUcwaIe7xmcCC4iv0XtjkwYLhcY4eUkrOdrGHZAc007fs9e3pC1KpiS-DAAAD5yR4Fmd3eEsSvh2_Ga3pAfmDKuk4Rkwhz8l-0zFoKNcM6YXQlEnO1gtlmgvXob-w74WXf9Tq8ual-BhSNGaaBOdSDzN7fUmgRrHP7_HWg6R_hwqSw_8hJsyk_WY9jEcalABG_71Ml3j-0OH4hkYG8DvJ2nh2Q6MdlH9okxGSlU8oDhBJQ",
+      "width": 3934
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115998848368746918592\">A.J. Alston</a>"
+      ],
+      "photo_reference": "ATKogpd1xNJez0NY-4G6A8K1MRVf165MOQDprs3ChbC679R0dKMtU06CZ4rb06dEbxHcDkL_s7B3d1Kb-OKBIO2VD35eSlkjpuxF8HwInQE0wT3fQRxvWlL7VDTd30EBJhIBLxst2CH1nmEn2IVFuQITBgkaZI_k8Bv4tTOr9LnJdRIIUIEJWJ-nMbPQUHVqMNt8JiyP1f8JZUiUvsUjFhZ1yOt_hC49txn6RAlGG78p_VcziBYPj18XyfeqyaL_A3pzT2V1q5C-0X7oU_hPtCUPYk-cP8vKuqIRMLmEpYQGy1MzPaqGo4Yvlm2VS_gqsiuPym4X2kOQ_G_pFjSF2nY54okjeiim_ns96G82Esw-KVwj4-yfYShCCGyHkHiiKlc1GPsVX1RQ5nar5b_7fdB2of_wLKc2Hf8S8KegwCLwlRudN0Jr",
+      "width": 4800
+    },
+    {
+      "height": 2992,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104274041390002595926\">Carina Muehl</a>"
+      ],
+      "photo_reference": "ATKogpfM-j3bb-oFonftrpdk45j8roqpZXBb0Hq1bDTieQtvN0maP1qL0gDJ-xNsCezAW39zp1soNJEoY0TjyhsG7s-MiU-waTpoEwMYKth3mm3xxgVrmO61jauAR_3WCsl3VqFCSjUcDBTKCuA07VTAk2Zdl5PBd6HwxzdjXc80bkz_poQwaURtVk1NcBFTHv0qSYmGel9pXbr7TvaqAbIumar2xzbCwENPw0_3rgWVa41sQzEqQmS8YFPKRepnJS62_Bf4NBS2r5Ls7pqBK5eRrE6zWWgs4RtCCvKP68d78kBUkxmQmsiJD8jzBlPw6t7la7_HbNWVvm75XybDMxLXCaaAPvsARZY5XeCk0snJj4NCxhMBZB_JY5PmklC9sznHcd0bD2kQOUwOBH5ffIh2crIb3nPil8kgBHutQioi5oB-iA",
+      "width": 2992
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115998848368746918592\">A.J. Alston</a>"
+      ],
+      "photo_reference": "ATKogpcTvnrAUVlb9CrFx-Pbd7gf5nWeBdDmWoS1AsFahxDqLI3PTCbWY3cxJvsIev7N2NpLFEnKWVSuA5ly2WtyRAi0Y_nQVd_aBPETf_wwe5z8F5Zozg5IksuBi1L8JfI4cO34x_Zal-kWpApDPRI6yKtZBzWZj-PiypXZ7wQF-c4seiTyHPtUMEPMkz5aBSEF268SWwDcqUaRwTpxDYxuOELwfdPfzDiMew_YnSxxKdt3FMtEYMgysDJCDkmXEyXuPHAEK05ah4RB0seczg1XlhwLHg7FPUkEHz7087wgqe0Z7W186iz_gOnRkhGQtBW9RsMSXla6DBIq_6TRRfl_dpvWYDl_ZbnE3YCMLrCUT72EDpbMA_LPwtiB8sSTOghWv_bK_Vd9Awow-e9-rtlzCGWRLDvJuXwPAzmUbto3GVw",
+      "width": 4800
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106228808977857413565\">Lee Troska</a>"
+      ],
+      "photo_reference": "ATKogpefU3VUl45iZfyLQPdOezgJD99iSMnkC7SxD567v21iwdCQuUTIZAO8Lk0N8EsFuKjnqPXKdIQd7S2DPSGfSjkfAdwmVdX-UjwcFGlrcEnXkdydjFq4c4UTCKAlWuAlx6vJ5zmR2m-IcSHNxBuULAir_SPZwkSCjbxaSU_i-9y19AuPwqY-FqJasRyMIT1DTbRz_IW8PovZX-rP_kkDuB--N2Zmu3fessZE_cXNcL2GGP7WvogBWhW1Zt0lwDrJPdLA_XrPtQHQqJjzZkCZ30dMgJVETlQ5qftD2ALvUihPiNLWVArA1NNwyHfDCoAhCjh2omGo30makVcrkO3ofE6dmlnNA9wWU5Ktntug1IYUMCIYUdpvXa_80rcFXSCxpBBkoMyKp-VtOC0pkozVe6bLAlGdqUXa9g6r7YGCJ4wXEA",
+      "width": 4032
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117352806321312899149\">Taylor Shaw</a>"
+      ],
+      "photo_reference": "ATKogpdgwn7lEGqNUyG0FqXd8-ShtfXOS0THjV_fgCkAmgiFSlyXUFfskV9t0ow0FAA0pRK48QySfABvc6_8qTCg17HT-CyGdbns58GJUlb1Icv2VuuJgRsWF3VENq48OljWqsu7NE0xP-xK1aohi-R4iPQvk3WLk-Lh6leTqCxBJRjUGhwY_1ijN4ed6gkwr2uuYuGkQPcELEOnGAyjPdQPULNpHSZLR_GRifkG5IUwCVO8VgzcJbuGjIzPRPBcIB92IAT15ykAruVuDHHsSgQlHdFOcm5RMh4DQqMcowACjf1GNshK6jJD7BEVnojHsrSZOxdrlzvtS_-uV2dpYnG4NzOzG4hL_hDEWhzWZWe6_D1kG1dawKuotE2l897wsg0WPiDok1xsQFGsdvTJAEr6EyhTC8iSAHIPPKCWX8t7CHGR5r4O",
+      "width": 4000
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101532989804205847349\">Deb nRaleigh</a>"
+      ],
+      "photo_reference": "ATKogpevGWzksF9qwIjYmON9hbBp8KdqCHZJjqjOZiWjrMldXhPTw3YPilpNNQ0aYNrAzADoeQe8IhhVUOYuUsKy0ql5fP6hJC2d4AFcyRs4b-tcbrym6MuG1Fn7NNKgri6gv9Gneus7l60ZDu-U9aaetvE3n1tCP1O-n2PCb1XS6saWFnFot70jXYBYxcbugO9XLYQS_O2pIksJFbIHYQkCdilMIPZ6lD6rbX2xpcvA1ArYzu1TlxRpiEWAOdSlVl4S1KaT3H4NuSczs__iOZ6CfI-nCU3jBkxoN-HPDHLuufY0W3ZqvQEvAiQegK7fB9_rnAJOphXapJq2pTpnsjIolrHSbqINAEZfRlsVRCBIo56yoQ6dTRri2E3CDN-cwIDEreNmgN8CsA2_VoSa6yGEKMphJeWKCc4yLM0VB3wVQVisyXA",
+      "width": 4032
+    },
+    {
+      "height": 3472,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116274254452173456709\">Keren Amaya S</a>"
+      ],
+      "photo_reference": "ATKogpeYlgIRq8N0AFVYAxMTuOzSYQdiSllcMrlVvZD_AS8pVOuzd_63Y3cCGjiF-I07OtKarN2OCp4MU7buMZ3uQqNrod34aYph0qZpF6x3v5XV5Xo5NzaYDs-1mrT8eC6aOXwv__OcygsJbW4FdXPd_aSVZo0P_srI6OgW4TWfMWN4PTsvNA-7CpHT4QYlDKl_5P4NtvqTtn23nMBAoo-74C3UGHTi-HgShvEj07iBB4CloAHz889WPEyNpLsdCHV6d9gJ8xdfhtbFcNgZVFsSJBuINr3B6MBLK8-ocDzWoxAKQlifbs14OoZYBXaDDJeXc0ZCCtPJu6nlG_fsj__ik34PkYi2CXTe53AsUh1ukNdLkpR925mdSQVRFhyGwbT5ZSjjwh8ISmcQ29GEiWaof1AgpM5d7Sl8LXN7FungD_gL0qiw",
+      "width": 4640
+    }
+  ],
+  "place_id": "ChIJiRAsO0_hrIkRWyMHMgN5-vE",
+  "plus_code": {
+    "compound_code": "2394+W4 Durham, NC, USA",
+    "global_code": "87832394+W4"
+  },
+  "price_level": 1,
+  "rating": 4.4,
+  "reference": "ChIJiRAsO0_hrIkRWyMHMgN5-vE",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Sarah Harris",
+      "author_url": "https://www.google.com/maps/contrib/117540877700374357736/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtdYtvXdsdwZ63kIXnEoGIPEw1vC9I4miKXsX-QNTpFIrWQYKOkA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "6 months ago",
+      "text": "Bullock\u2019s has been a tradition passed down through my family for years now. We\u2019re not in the area frequently, but this is the place we go when we are! Definitely recommend checking this place out.\n\nThe real way to go is get the family style dinner with a large group, and you\u2019d still have plenty of food to bring home. Tonight we didn\u2019t want leftovers so we go individual meals and the brisket was the choice. Don\u2019t recommend the green beans. Way overcooked with no flavor. The chicken, the Brunswick stew, the baked beans, is flavor you can\u2019t get anywhere else. Another bonus: they start you with hushpuppies. Great restaurant to stop at if you\u2019re hungry and need something to start before your meal. One critic; they used to make the sweet butter but now they use premade. Miss a bit of the authenticity.\n\nService was phenomenal! Waitress never let our drinks empty, and was very friendly. Typical experience is friendly accommodating staff. They allow substitutes for most of their combos as well.\n\nOverall, good BBQ!!",
+      "time": 1734062489,
+      "translated": false
+    },
+    {
+      "author_name": "Bruce Szmajda",
+      "author_url": "https://www.google.com/maps/contrib/117323782501480549148/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUbP05qPJ3Kjjn-xiEd2NI2YXSEo1RMISFGfaZihD7yvQdRt2xs=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "Get off I 85 for great barbecue! We split the large plate w collards (Fri-Sat), baked beans and hush puppies and still took some away with us .",
+      "time": 1749318799,
+      "translated": false
+    },
+    {
+      "author_name": "Jeannette Borne",
+      "author_url": "https://www.google.com/maps/contrib/102201898208031668534/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVI5vi-Vaav454bagSW5CE2E11WVqVLch6q73ZqodptbtjkM0wq=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "2 weeks ago",
+      "text": "The atmosphere is really decent and the food is fabulous. Everything is well cooked will maintain and delicious. Everything is seasoned to perfection and I have no complaints about the food whatsoever. However the service of the cashier was horrible. Upon me checking out the young lady asked if I \"would like to pay with cash or check\" and in normal fashion I asked \"you do not accept credit cards\"? To me this was a normal question considering that 99% of businesses nowadays credit cards. And you are very rarely going to see someone except the check so I thought maybe swapped her words by accident. That wasn't the problem the problem was how she responded. When I asked her response was \"didn't you hear what I said?\" As someone who's working in customer service literally all my life I would never in a million years respond to a customer like that. That attitude is not appropriate for customer service and can completely change the experience for a customer from a five-star experience to a 1. The only reason it didn't for me is because I know that I've had employees that work for me where their attitude needed to be checked. I hope something is done about the attitude because I would hate for you to lose business based on attitude and not the quality of your food.",
+      "time": 1749410611,
+      "translated": false
+    },
+    {
+      "author_name": "Chris K (Crispy)",
+      "author_url": "https://www.google.com/maps/contrib/111844129154223948740/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIngz5gzN0OLbcnnr3Us5f1JIti7IoJ7TyI5KO_AizQIVdVIA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "The food here is always so good! No matter what you get, you really can't go wrong.\n\nTheir Brunswick stew is about the best you'll find anywhere. Chicken is fried perfectly, and the sides are tasty.\n\nThe staff is always nice and keeps your drinks full.\n\nCASH ONLY!! No checks or cards.",
+      "time": 1734030797,
+      "translated": false
+    },
+    {
+      "author_name": "William Ross",
+      "author_url": "https://www.google.com/maps/contrib/110310721811380996216/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ5ua8OGrfakt-IkaWiWUX5QbejAN_f7PbzHihTaxKRjhaXk3dx=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 2,
+      "relative_time_description": "2 months ago",
+      "text": "Guys this is not actually good. It was fair at best. The food is tolerable mostly because it is deep fried. My brisket was tasty but not tender. The pulled pork was mediocre; so chopped it was almost gritty. The chicken was okay but close to dry. Fries were sad, clearly frozen not fresh. This is the best in town?",
+      "time": 1744233346,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_breakfast": false,
+  "serves_brunch": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "bar",
+    "establishment",
+    "restaurant",
+    "food",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=17436381961949487963",
+  "user_ratings_total": 1763,
+  "utc_offset": -240,
+  "vicinity": "3330 Quebec Dr, Durham",
+  "website": "http://www.bullocks-bbq.com/",
+  "wheelchair_accessible_entrance": true
+}

@@ -1,0 +1,608 @@
+{
+  "address_components": [
+    {
+      "long_name": "454",
+      "short_name": "454",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Van Brunt Street",
+      "short_name": "Van Brunt St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Red Hook",
+      "short_name": "Red Hook",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11231",
+      "short_name": "11231",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">454 Van Brunt St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11231</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Rustic counter-service choice featuring slow smoked meats, craft beer & live music on weekends"
+  },
+  "formatted_address": "454 Van Brunt St, Brooklyn, NY 11231, USA",
+  "formatted_phone_number": "(347) 294-4644",
+  "geometry": {
+    "location": {
+      "lat": 40.6749167,
+      "lng": -74.0161583
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.6761936802915,
+        "lng": -74.01476226970848
+      },
+      "southwest": {
+        "lat": 40.6734957197085,
+        "lng": -74.01746023029149
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 347-294-4644",
+  "name": "Hometown Bar-B-Que",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108744288937099560448\">Serena Chang</a>"
+      ],
+      "photo_reference": "ATKogpcs9odPrjR5T6AiPyOJp1wqEqoqlw5NRzlsbE-4EHZSMI-PMC7CYTbFrx6ZULQ6IwBTV3l3ZKz5MsTqCSBetuX2oMKDJ9u1cxn5BA4EExLevHOll_Ln-EnOs0Ye-K7kDYsBWxeoCw6o2W-p0W2yWOtMPvNdmaQAYZi_iGpqLyvORd08itr0HkDexiySUd6Q4YIrsoXAyEJEeWKmlWE5X74j6EDh3RJSVFxaI-OVndA72Sek4Oo3xJJBrdC7VKFsQwtZQI1Y7IdCVZ0jc_oobWrRfpxaSHP9NNm4mO_jl4vlDbepTH1wkDZh7hgpo6wMLoHc0DtkfmJNKpe9mKUYkpZY3xDlI-PiRMQw3iIWtRFsBmE_pJEOKWZlZOfK-MLliQMnyhUI14QfLBwhkoySKdNp_P2j5aQOUY9a5nKk1FQ",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115782339379378700972\">Hui Min</a>"
+      ],
+      "photo_reference": "ATKogpcPvDUvprYGtpFdAD5EYY6VkmD8zMeCZ2mPzmg-yRn8b_mVMzfBfYil077o6jED5c7Zilz7b3noufr8vY1SPWB8e4TAdjoDRtqDQAbn_lZYIoZ-GSaYmYCmI_ITXCE_ShC-jy39U3-02DyivrbZ110yHeF6IaJUNJ8Us0qZJKppmb3N4PY9HnslRYXJYcEGWLdb-oL3BiAhw3gcK4vHJw2xFufcldt1BcVpOjbTQZA61iz4JW2i0hq2encqGMpjbZUpPdi5n2n0hvdL5CURTeREx0hpB6NIhjXzMouHRCQtOqwa8fVOrJjilNjsb8ht_Bl2AfX1gouTdNxRa4NrXKmLrO7Ur-6-HJxuz8-J9LIZG0uZ2ywWLuDcsDUlq4rBzOma_AUQHn52IAmgnjw7zKsXqsfnlAYUBOH72sARZTj8kjGv",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109689295203704106337\">Joe Stephens</a>"
+      ],
+      "photo_reference": "ATKogpdxEP7pWLA9DZURZgp-hsd8UbLshqyca42S7LnU7B8lCYnTGGjTIwV_Cwgx1b36xI0nHgewW_fEUuTwx3MeZm2d4uh3dbyjIxLwr4V6qvFLvPYvanoa1RnNjESq-d2YXG1voxD1POCncYT-xGwEavjxxqVuJPHv5CzKFYomK6pgPGBlESQ46iD_Gm5CdpGfBelOJqc84wJVp4Y1gsVt0sgy7pMqo2vlfbrH1l_KGNVnLJP7_CSv1olCCVA-kJck9kyu_I5zDuNDm2Cs6BbkqhrDVnWw3074sKO4qCtcbGntOkG2WYyiIOdYBXIdxYN5LK-gUEtJvpa82qQO4O1ZuMCkDqWG5FJMzhaba2KX2FqqiVYj-5a3BYkdA8UOmShBExqm7UU-S59BRGvvobG0m4d5Ro_bFocMfGFdb_7rbFHggdxvxkR8PeMVwzZFpDtK",
+      "width": 3024
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102726473040679083843\">Debbie</a>"
+      ],
+      "photo_reference": "ATKogpcG0txUinK0Cs0Xjnv0hsISFPihAWML9DP1NLLi5ONFSfX-NMt4Nr2X5Y4HsU0rXhT98cVUBSer7m8rRJc_mjMSOQPYAlcGie3kFv8E4fc1WeGzya9eFjdcVKfSvh2ksOql49RZOjweNMc2MwCrjNPdU82Q_KUMZZ86P11P2A8cSQR9DEvnViA7_0ykSlZUa5CjIfQTVVvY3f135-OxCg62Gaodqu_TXfFAQrR-Bk08Rg7VXdItVSc41z8I_8l4KpOhRsa34FDlSN7Dox67F0YNZ6gU0K4t2tmZC2RgRYUPI1WKLeBhp1YRHVHNVuqIV3P5kv92uba7c9UcUeUErC_jutLpJif3aBoqcIHNcQydtscgknzucpQItce63j7JPKIXLUsaXtNf8gYA1iqIVzKG5bvj28gnbxtfFMqD1l9PwnSV",
+      "width": 3000
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102249083551838907613\">Dr. Kouam\u00e9 N&#39;guessan, PhD.</a>"
+      ],
+      "photo_reference": "ATKogpfXtUx7mO6XN9c7wdXEWRBUdeT11SZgMY6_nOlUgWhomcBRCmDFPKpwjglXGpYc0TSXx3r34dHDUf0YTN-GpOamROiESz3xkuXIxHBuY-nL6-ehvvga7yO8pPrs8tcV9_Sb-EpoG2YPmEfQlIXUwTFnSkxMUauUmxbMEn2YXr-1z-Bg8fuE_cgoi97UIk89dnTbcf-hchSpKUUv-6uS8hkXRF2wxQ-2alcv5bb6S43gI6vBNJ8xKIFDEXWV4WWALeymPhuXfQDEroNWzdVM-UD1dhBxTdjTWvuCYvNQScU9KfvmVB1XDRPHByoErhFRmoEZrjZ1xATjjaYZIyupJJG5lFExndSv8ohfbVhxyontceTRQIYy-KWtvq2AMUUgDwNkK6Xh9Q_GrEYE9-4RIE_2_Z9hBoJQvJYy5UlmXTezN8uPOcCm62DvTBG-DM7D",
+      "width": 4000
+    },
+    {
+      "height": 3614,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118092867088694301275\">Jeremy</a>"
+      ],
+      "photo_reference": "ATKogpcPULJanYKSmvCObqAmZ144JlH0HYevdabz03Iecu2vWodONq1557PPCT0DRkiKVQz-b6o1of52DwaH1UkhtQ8Iduxxe-9yXHa-3uAugkGmCagK-ouyuI88GGxJB_CfZsLb1AIDoy0WaMpzKULXEB7rbiXV4uXiWwnvXHMoOit-2dFvq304NVLGHr6nOAoOMIBW51n5pPSepOG3dJOYA-TUt5kz6BSmUfwh2rwyPw0DhVhcl_oXszbwNPeb3rMXkKsSVc6fxk6kjv_OKqEVeOYdimiglUIS_oevmAU5qnuwvSGPz3Dc4GMHMC1dL7YqZc7fWaSlZhFfm4wJvty1FtL0CmrkY0bERpcP_D-GmmwOjhZHvpVrMeaavdct6CR6MZ2A-egkGV0HAnJUS-_V7n5c6obv6_CfRHczd3EOwrZ0x31z",
+      "width": 4800
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110979151186142897251\">Alicia Cheng</a>"
+      ],
+      "photo_reference": "ATKogpc7eTYCT3BkMJBKeojTyZi9wVlTZFG4N2HYQdq7NSju9LWsP3xYIFpCBEhQyINbaGHD6-PJBxCTpi6KMemaUKIW2awVK1h8ImDZuOjwjJbI3wm_WGoVuAa2ouD--EE567vKSdWvHgMiBC_cg_N3pzfz2hCH-Jck0vdw4A9ArbtQP9SlRUFOfZNhH5ZHxrASIIepfSkhy9zzdoyYts_rJb-E4DxgkBvXGqBB6aMpvRe6Qwxpa9v1vsd3BCMT5Zjb-Al90VxFpLbP7UEnMrisVorDGAPUFODkx8Jtv-eXBjKwhu9ADZu9d50W23Opw6KMsY0wA_GbgSGS-5NP4WAG35roBmwxmlZauO4hJffxKzcubk5MENt2OXr5Di01L5XLbGM13RiDMbkSUOozGVLVgqwCReFlytObDZv_n0xUbyY",
+      "width": 4000
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105336694373056028119\">Gilad Globen</a>"
+      ],
+      "photo_reference": "ATKogpefRctFxe0U-4qWO-QwYcYu8eiDkq2cb7znn8IMT5veztnzJiS4Y0WYz8VTfQl0ETITQcnXlLOnXPuIKAY0uV61xUVS-t_k0nSrhJBMXDdmEbyDW7s02S7omMtUKlOE6vEXllIuKDIvwSvKzkKMwp0U0AzXOMpIiwVv56oMvw6COuGRfAAU3t-e4N5rvNVJRZuWsWnAHzNIna15JUl9zJ7-N2C9rBReczQPOLmOQWxldPc6h8i_Wl8r2wbSujRVNb48RGaQYT9MYchS-JloRLVCjmj7TIhYa_dOgwgNGlLcWStoniKw4oz6zttHySFSU0U38o_3hIHw9eCWuZM1y8yBzSw0n9tCp22Ca4RZQmLium5JUFCt3hV-KWGMDJyUW9asp6F7ESDaCOKgnhKx6-5sT0Z28ogdiVrNq1bnhHABzg",
+      "width": 4032
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110979151186142897251\">Alicia Cheng</a>"
+      ],
+      "photo_reference": "ATKogpdYAcoaD8ScXTDHDfnioXb3j0BqzTTwkdU_gOgd3_rxFCu3aR394vnIn3myG0yev-HlJRAMk4dXoltAppOZLC5_e0jXWB6EhLpZ_jU2N591z4b-9XOjEDiTUDNsZyWj5CypoqdPvBBr73z76Va7XwBq8DyFCks6QDYl2rClzFF6ROUJh6aoKWob7K-2z2Yf6e7Gc9yIoLmGZGUgW0qcea5P4YenpRw-NvtL4WHcA_Pxglzs7eg9xVt6gAIxvc2r6436gHDRLNmRyF-1nDRXvbVquOgHQLwyEGmofBDYPZzVDGtESu9zGRrI_NEVfDFotIxjqZQLT2C8Y3KghynyoBFHbm3so3LKhKvJiMnpY4hIxQ3DD633RRpzXAW--3ukBblmx4V2IkpHk-eDV1ztgWrsnMbFty6z0yOLQSbUy0Gk0w",
+      "width": 4000
+    },
+    {
+      "height": 1657,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109947384167041926800\">LocDoc Auntie J</a>"
+      ],
+      "photo_reference": "ATKogpeYomTGaqOVui7nj_I3eao1BbYFOf-l3IClawzHElOywvt80vbWpdrn6mEh4AwWQGAyxze3tTw6CoS54CXQpjTQCnRW6dbov9b1J_TKbAgS_K1jhVcMDT0BWf1zDZC7NsRLCmCE7PKqFarlTr1ut20x6e89ZQMXI84JIbmOiXn8W9W4XrtfkVCOAmaZ0vErudBoOD93LDOmwW-Bh8J966aDNUmK-MYofz2-aKnMarHBxgnlb0Q97FUnFf8JxDbL-7wpXkLFA0Gd3gh1MRhDoydqmmBag1qOfhuh1UWVH054X8WgW3L_Z1tp6_WFBQVN5-9YA2_aRSAH9uSh8DFSODxbK14_ZYf8vmYGtfiHgsUnpUlzqmmFu2hpID2cwZ_pcc9rZDf10A5bkyMB0F0pCNF_iQuPAw9slbGvsZ1lsq7LdQ",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJ0VWwJI9awokRoiFWFqYZMQ8",
+  "plus_code": {
+    "compound_code": "MXFM+XG Brooklyn, NY, USA",
+    "global_code": "87G7MXFM+XG"
+  },
+  "price_level": 2,
+  "rating": 4.5,
+  "reference": "ChIJ0VWwJI9awokRoiFWFqYZMQ8",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Enrique Gonzalez",
+      "author_url": "https://www.google.com/maps/contrib/112187798514175591142/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKvD3tC3YufGn5Ouvy75iyzcwQbO9MrJyD8ZTZhRGkzRHDRiDDF=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "We came here on a Sunday late in the afternoon, between lunch and dinner and it was cold. There was still quite a line ahead of us but the kind bartender came around and took drink orders while we waited. The line did take a bit of time (maybe 30 minutes or so) but we had our drinks and they had live music and games on a TV's so it passed quick.\nWe tried the pulled pork sandwich, brisket sandwich, pastrami bacon and Mac and cheese. All of these were delicious and the portion sizes were very generous. We took home leftovers and they reheated just as well. Highly recommend the Mac & cheese & pulled pork, truly great BBQ in Brooklyn.\nAfterwards we walked to the water and there are some really nice views. Make note, it can be hard to find street parking in this area.",
+      "time": 1742743421,
+      "translated": false
+    },
+    {
+      "author_name": "Brian Shi",
+      "author_url": "https://www.google.com/maps/contrib/106309809091642718908/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIAlsPCOHVKOPTlrhtYBKy1eachz5_6iYfzg6xAhq6-STN9SDU=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "a week ago",
+      "text": "We got the brisket, spare ribs, corn bread, and Mac and cheese.\n\nThe brisket was extremely dry (see the pic!) - it\u2019s hard to overstate how dry it was, and it was pretty bland. The ribs were better, with a nice peppery flavor but nothing too special.\n\nThe Mac and cheese and corn bread were both pretty good, but again not super memorable.\n\nOverall, pretty disappointing given the hype surrounding this place and the 1 hr long wait.",
+      "time": 1750358416,
+      "translated": false
+    },
+    {
+      "author_name": "Cliff Jones",
+      "author_url": "https://www.google.com/maps/contrib/101910277887280904513/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWM7ku1OQgZceTKuUHaAVpymB-V1vlJw6-Xuz1MHCxTysV8xkMT=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "a month ago",
+      "text": "Arrive early! We went right when they opened and had to wait 15-20 mins behind about 10 people in line. A lot of hype here for being the best in the city. I cant confirm or deny yet because I have yet to visit other BBQ joints in NYC. Definitely good vibes and nice atmosphere. But the BBQ doesn't compare to Texas, like not even close. For Brooklyn (or perhaps anywhere outside of Texas that isn't part of the South? Perhaps?) it's decent BBQ. The brisket and pulled pork were actually really good and my favorite. Ribs and rib tips weren't the best. Mac n cheese and corn bread sides were okay. I don't think I'd go out of my way to visit again unless I was making another IKEA run.",
+      "time": 1747143973,
+      "translated": false
+    },
+    {
+      "author_name": "Alex",
+      "author_url": "https://www.google.com/maps/contrib/110915467115656483312/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXktFXdJJHttCf-Gm0gobdUu0OYGhx7ZVdVJVXxMUdjGmFwheze_Q=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 2,
+      "relative_time_description": "2 months ago",
+      "text": "I\u2019ll be honest, we had high hopes and large appetites when we arrived here - the vibe is good and we\u2019d just eaten amazing cue at Bark BBQ\u2026 but, yeah\u2026\n\nService kinda set the tone - brusque and without any southern charm. Same from the barman. We don\u2019t care if they spit in our face if the food is sublime, but, yeah - \u201cbarely mid\u201d.\n\nI\u2019ll add that we\u2019re huge BBQ fans and have eaten from some of the South\u2019s best, so this isn\u2019t our first time.\n\nMaybe we ordered wrong, but the brisket tacos didn\u2019t hit, the jerk rib tips were nicely cooked but didn\u2019t have much flavour\u2026 the sausage was the stand out and we actually enjoyed and slaw was also finished, but lacked bite\u2026 the pulled pork was by far the most disappointing - drenched in oil (see photo) and lacking any flavour depth. Probably ate a third of it - after straining off the oil and lathering it in (pretty good) sauces. As I scraped the rest into a takeaway box for our dog I genuinely paused to consider if he would even want it.",
+      "time": 1745615613,
+      "translated": false
+    },
+    {
+      "author_name": "Avinash Salgam (Avi)",
+      "author_url": "https://www.google.com/maps/contrib/115860717895953516568/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU42xEhSVXnZcBPGLJfTAfRNMCofvxmizxjZYP179dNBrZx1VWR=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "in the last week",
+      "text": "When you serve meat that is already cooked/smoked, I would not expect a 1.5 hour wait starting just outside the main doors. As I approached the kitchen, it was clear it was not a methodical operation to prepare an order and was definitely contributing to the delays...\n\nBesides the service, the brisket was dry today but the beans were amazing. I would come back for that alone if there was a separate line for sides.",
+      "time": 1750563425,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "type": "TAKEOUT",
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 12:00\u2009\u2013\u20098:30\u202fPM",
+        "Wednesday: 12:00\u2009\u2013\u20098:30\u202fPM",
+        "Thursday: 12:00\u2009\u2013\u20098:30\u202fPM",
+        "Friday: 12:00\u2009\u2013\u20099:30\u202fPM",
+        "Saturday: 12:00\u2009\u2013\u20099:30\u202fPM",
+        "Sunday: 12:00\u2009\u2013\u20098:30\u202fPM"
+      ]
+    },
+    {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "type": "ONLINE_SERVICE_HOURS",
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 12:00\u2009\u2013\u20098:30\u202fPM",
+        "Wednesday: 12:00\u2009\u2013\u20098:30\u202fPM",
+        "Thursday: 12:00\u2009\u2013\u20098:30\u202fPM",
+        "Friday: 12:00\u2009\u2013\u20099:30\u202fPM",
+        "Saturday: 12:00\u2009\u2013\u20099:30\u202fPM",
+        "Sunday: 12:00\u2009\u2013\u20098:30\u202fPM"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "bar",
+    "restaurant",
+    "establishment",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=1094684385557750178",
+  "user_ratings_total": 4170,
+  "utc_offset": -240,
+  "vicinity": "454 Van Brunt St, Brooklyn",
+  "website": "http://www.hometownbarbque.com/",
+  "wheelchair_accessible_entrance": true
+}

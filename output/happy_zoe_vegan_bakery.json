@@ -1,0 +1,431 @@
+{
+  "address_components": [
+    {
+      "long_name": "102 B",
+      "short_name": "102 B",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Nassau Avenue",
+      "short_name": "Nassau Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Greenpoint",
+      "short_name": "Greenpoint",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11222",
+      "short_name": "11222",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">102 B Nassau Ave</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11222</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "special_days": [
+      {
+        "date": "2025-06-28",
+        "exceptional_hours": true
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 12:00\u2009\u2013\u20095:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u20095:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u20096:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u20096:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u20095:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20095:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "A menu popular for an assortment of vegan cakes & pastries in a cozy setting with eclectic decor."
+  },
+  "formatted_address": "102 B Nassau Ave, Brooklyn, NY 11222, USA",
+  "formatted_phone_number": "(718) 785-9639",
+  "geometry": {
+    "location": {
+      "lat": 40.7240417,
+      "lng": -73.9496624
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7254375802915,
+        "lng": -73.9483331197085
+      },
+      "southwest": {
+        "lat": 40.7227396197085,
+        "lng": -73.9510310802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-785-9639",
+  "name": "Happy Zoe Vegan Bakery",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1700"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1700"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1700"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1800"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1800"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1800"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 12:00\u2009\u2013\u20095:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u20095:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u20096:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u20096:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u20096:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20095:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113399062433473963298\">Happy Zoe Vegan Bakery</a>"
+      ],
+      "photo_reference": "ATKogpfFOvey44jiXh77TN7NrjT8YwCri6zwuFWepkUoXm4KmdHsFtDpkx8RfAp_4wqFKjtmPSOdi1LmESsrWrdrP_iEITJsGpaldfoiGNps_gbSP_eXtiJCNyWOQfKo81dekACDuvmxl7uHNtvAYuo3TWR9WdlUwG2_V-JgZdhh9G1yyVHDAO9nDew5XWGCtkDGLordHkhu3t38E6XWgPPQTh5Z75g7VSGWfsVktBvRhsWgp5hXU3K_GRvqn-mT1B3OCbn3ryVXrOSBn1Z2eRv5jlyc4JlAwl9paiOSgP2guZaUkg",
+      "width": 3024
+    },
+    {
+      "height": 1702,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113399062433473963298\">Happy Zoe Vegan Bakery</a>"
+      ],
+      "photo_reference": "ATKogpeSwtshJti0pgWaFwBepphUBFdRzPHq92aGlKsDdubid_b8yCbGReQ9ot6iUN5qibf_QTKT2kQVLT6XptTgsaa6Xwqy6yExhW19_LiBzwlhz4hrFj4FdzuljaWvXvNineI7cKbWsS7xTo4acN6UCAsCy8PKP_bnreJN7TUn_I408OPx_Iz4bOS9txPZoVU2VMwWPTdTkl8lOtOGhW_KY8EQr1Zrj1WjzkJ1y93DANmp20r7tuo6gqbre7GJypLY00EyvC7FgUv2t4plbAaP7c-N_oCLLHwz_QTWe7ggtndoiA",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113399062433473963298\">Happy Zoe Vegan Bakery</a>"
+      ],
+      "photo_reference": "ATKogpeqL2Qkr2Z0JfBbmlHRl4BgJZcbNmjkRYBT-Ce5XPANPgjcCx5bleE1oI_qO9GBKaYjY0ipK6RiicumtRIdTzU4JqPKp0hVoOttyV5dQnUPyS0ICd0EAPPj-yMJjYY1Gk4_VwP5HGfNQGqKt8pEdrd1lo3TRG_EJtuorZX6XOFFGx8-NvKXOQt-BgIk5CLkC5884M_upAn6aZS4aFAi1iI3GrvXtkw0WgjebGuQIr4jOVDMLbcKaJShyb3MqR-9FQ6PjB9M8RrnIv8nSomP-qQHvYO5OSLT_x45hvO_8dKfZg",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113399062433473963298\">Happy Zoe Vegan Bakery</a>"
+      ],
+      "photo_reference": "ATKogpe13I3yT3T_IEgikzswce31oLSxHNb02Kgx1zl9jk4Vl0z1wVQlE0pnY8AhJH7qwe1oTZdNgoIktH6cdN5rzfsqcvTOgSoWFjlR8hUIyKvUBxMPeR40UMtlmC0PjkM4BaoLR2FNlcbqTdhOFArzVCq2_yMombahhu311cmtvFRXg1iK3CX_3sI_flMwGe0J9aPPa7OLOa2b7hlBT1wZ4uzpDxjOWvfCkp0eClrA0EvqX-sJVlBszLnT9nfGhH_mQKitKul0kSvCDVUnMCJV5pb25pEwVxFjsuYeVrChdYb4qQ",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113399062433473963298\">Happy Zoe Vegan Bakery</a>"
+      ],
+      "photo_reference": "ATKogpchx0h5fhw7oLotb0hze2XXr0jzssEwb1hdUL8h8wcKSUqDGxdGHxbUFHnxnGosmGCltC1JsSaGjsthfvc7z1kzjSQ_b8aSu90yaOF7KZJWTXSctvSinW4xcc9bqMMm5bKKWBYbcU8Io-r8HZJTew7k2I0mNVLK6AO-gBDASmo0aldhpSq_FfUwxDUvI2VKHfke-Q3cZCJMUSeKjN96zS-ms6o-3BNUrz7oBkpXtQEdnIfOoVTLOkAa6E-kuyBMPtWeq2pndDBuyznvVyR1ycjn76pG34kCtlNJjXMGhnyIKg",
+      "width": 3600
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117604454527341730117\">Nicole Brenner</a>"
+      ],
+      "photo_reference": "ATKogpeNbqqksNKjOtUeBp5YSONU-6lSgVeNwpKZixh_DiEx5i--62_hMdp2Fk-GjqJbKbFa10gPcbpyciIQ5vWDaPhdsq5I0cCA10P0e4PtWBBt-G_8MUob5GPz_dUH-VQ9rJD-JgBtIivcFAX-9aGAd0Y1qC6_U6D8utpIEMReIJVKk81GwgyysYJaJrvbX9gz4yapolpTSHF88r_fpBWQodrXtHO4SE4Jq5-wg80cu2jnDZmY2ImHsGAzjfw7Bgfl0pmxeAX07AXViIeJWeTSUsbfoVvaBgTnlaDEZW4uZ0fmyiW07s1dIigKN-eNqTVkQJWW-Q0OZn40WItawu3HlIPV2EgeCRKKRpODYvWYKJZWNmUqBo3sNHFxvsf-swEvh0lF8tGArqv6Cg_TUM56k1WEK1Uefo7NV51jhp17MiDojsYw",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113399062433473963298\">Happy Zoe Vegan Bakery</a>"
+      ],
+      "photo_reference": "ATKogpd5IskOknDxGuRZ4UtyNHzb_4SbiXKCN5Hd08naXS9Qf6Gz6MNVlJmDnmfyVVNLAwFDepieAHMz6pfpddG2WTV5a4lKtG-kXHRjc_mchqmOusl8UKK_imjQhKO_S_CT_74aqOCQdLRAOtgYiLbNqLdgXJKIVDtEo_5fzUmbumYMl9vpy5XOp4Zf04x5e1cMSlHj4HmsB-JDym3TdwG545ZvLSED_aQuTMEb0xP6RmDKWAD6ntLr1l8vKrl4NfKtufUyvRXvcdP4SbNevNxYrIpp2WvxeAlt01HINQbNmtk_rQ",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102493805045693776761\">Kat Z</a>"
+      ],
+      "photo_reference": "ATKogpfMyi1j1coDLmb_CJp7xB2EPtyrk_pSQNSTxK6plTl0DlKD6OQWgfP0ljsI9Ef9362HK7SnmJ2KMsSQOpSAGlEhf-bgFAo_i3Sw74ntUbbMtEcZAsj3BxK9i8mBKu37jtHVgClN_OA9BmuZ22y81Q7h7uY1vftx7PUUl7Es9uSsRoJv51tS9F5Mn62Et2CJhFCUPxgLo0gnUh3epnePkvjK-zQx76r-v0pTfSA1lzo1IUJXAPrJV20JTeqGqLvT9SKKaOfuuH_TFzkT-pRHnmSWkD9n3g8cNTxoNnImnNyddvRRScpuAOanu3gu_3aEuA8_dEEhZ5pkV_u5XgY45lYrDdkXHM9B85c_dtJx7cDwNbwi8WAIvcOo-WdXA0sIgXVO5kW0u75_f9GMUTyaXFn1qyJBT3fKYsECG2nNvZ7rSML8",
+      "width": 3600
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113399062433473963298\">Happy Zoe Vegan Bakery</a>"
+      ],
+      "photo_reference": "ATKogpdjdaqXBfCmrwJo9jUtwpwoTgzTJGWpE2udXLNhObdWJsm178_xfiQrHtQTrstN1ytzp7u66kd4jAJ-XRKhEhuYWdefeqdMQyRMWXKoHAPBPJjtdWDBrOGyMc64tBcdKiaQUdr-HPgzY5yj9Nn6-dcn6UceivYv7LzFWxixdUP11jI7kmlEQDO5fOz_aJfNdeevFMXFWFX09PTEJZ1gR3z9ghuccox26jl26IExawYDG4V7d0g24hzCsyLcg301ckdhgZYbV57bHRD_keLAldbw4Yf58DDE2DyZuHXFt1H7EA",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113399062433473963298\">Happy Zoe Vegan Bakery</a>"
+      ],
+      "photo_reference": "ATKogpdSO5VwVWFBtkfd9yJbO4xBbsaMBpjBZ5UereL_CCc3JZoOkprHXWP4ldbM_TErDb-oDlirOgQCj7NKqNkXj9uquu0rNmKQtdr8QakmZGJQMh-v3WlpKrRb5Yl8DhFQQ8PBrRmtEHYagB8zo-RxQIphwNjpipaDiQjsqjtkZ4QM2mSMQOJWERgnZ2mbFfNG4P1FIVNPv6XobU3O_BWk9VbHqh3nJClGxFQXgFT9NjTI-bDCUjhPAmEuUgD6DxKfIMzT_znXk5Yc5zZoyCiS_u841Nq6jMaWnpgY3hdZbL28Hw",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJTSX5qcdZwokRfVmgTWBDxZI",
+  "plus_code": {
+    "compound_code": "P3F2+J4 Brooklyn, NY, USA",
+    "global_code": "87G8P3F2+J4"
+  },
+  "price_level": 2,
+  "rating": 4.6,
+  "reference": "ChIJTSX5qcdZwokRfVmgTWBDxZI",
+  "reviews": [
+    {
+      "author_name": "Mich\u00e8le B. Armstrong",
+      "author_url": "https://www.google.com/maps/contrib/110907760769396431964/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW5eg88SW1b7kJBDE5dh-jbqEk_ReNPOzxNeTbQ0Epr4DEZaDOR=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Got a very special Chantilly Bitthday Cake for my gluten-free, dairy-free daughter\u2019s birthday and it was soooooo perfect!!! The cake was moist and filling, and I scored even more \u201cbrownie points\u201d when my daughter saw how beautifully decorated it was with the sweetest organic berries. When I called to place the order the owner was extremely gracious and amazingly accommodating with my special requests. HAPPY ZOE VEGAN BAKERY made a birthday, a very happy one \ud83c\udf82 Now, my daughter and I stop by for treats and \u2615\ufe0f when we\u2019re in Greenpoint. The owner runs the bakery/caf\u00e9 herself and everything is done with a touch of \ud83d\udc95Such a wonderful place!!!",
+      "time": 1747806655,
+      "translated": false
+    },
+    {
+      "author_name": "Esfira Shakh",
+      "author_url": "https://www.google.com/maps/contrib/101946701267756350200/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUjtQzso_o7oAQ7UTK1Ly-VMr86HG3genRE4eIGQGhssgI6B_Xi=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "When looking for a sweet treat that is not only decadent but is also on the healthier side, your options are truly limited in New York City\u2026 Enter Happy Zoe Vegan Bakery.\n\nThis treasure has been around for years, the owners who are true vegans in spirit not only have mastered the craft of baked goods but also perfected the use of organic, dye free and gluten free alternatives that are a healthy option to sweet treats.\n\nI came in to order a vegan cake for my soon to be 8 year old and I didn\u2019t even know what to order because everything looked just as good as it tasted. I ordered two cakes, 30 cake pops, two donuts , a chocolate cheesecake and two paninis that were made fresh to order with organic ingredients.\n\nThe flavors- spot on. No heavy creams, the sugar was just perfect- not too sweet or too bland. I can\u2019t rave enough about this place. It\u2019s just a shame that I didn\u2019t know about this bakery sooner.\n\nWill be back for their smoothies and frozen treats when the weather is warmer\u2026 a must try.",
+      "time": 1741570181,
+      "translated": false
+    },
+    {
+      "author_name": "Primi Akhtar",
+      "author_url": "https://www.google.com/maps/contrib/113890444818391390061/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX14POAgLzfngyGYp_cxCd6ZKkW2RvgjfKV3n7-plUCSQCdoFo4=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Theyve been in business for atleast 8 years, and it makes sense! They have incredibly delicious vegan gluten free options. I got to meet owner and it obvious she deeply cares about quality of her ingredients and the well being of her customers. I wish them continued success and hopefully they become the gold standard for a gf vegan donut or cheesecake.",
+      "time": 1740353850,
+      "translated": false
+    },
+    {
+      "author_name": "Felix Lopez",
+      "author_url": "https://www.google.com/maps/contrib/102494724712363981758/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLiPxK-bJhg61is2Ec7D1L5FpQJNKWfSd-jxuYTrp7QJBIPkrs=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "I\u2019ve had a few different vegan cakes from other bakeries and Zoe\u2019s by far has been me and my family\u2019s favorite tasting cake. They\u2019re delicious and beautifully detailed. This was for my niece\u2019s 1st birthday. The kids and adults loved the cake.  I just ordered another for my sister\u2019s 40th birthday this Sunday. So good and worth it! (FYI: I added the name and happy birthday with the number 1 myself)",
+      "time": 1742925839,
+      "translated": false
+    },
+    {
+      "author_name": "Shayanna Harvey",
+      "author_url": "https://www.google.com/maps/contrib/102984688109330108593/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWg7SPPWot5JLTcq_yPwZ8y89nRXFaRJJz93dc55CmtflhmkzJ6=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "I would just like to say the lady at the cash register she is so sweet and she is so kind she made me feel so welcome when I came into her bakery or the bakery and I was just like to say the donuts and the wips is amazing. Me personally I have been trying to go to healthier route And the smoothies and just everything about the store was so beautiful and so vintage and made me feel so comfortable and I love it so much. I will definitely go there again 10 out of 10. I will definitely be seeing y\u2019all again. Definitely is a place. I would recommend if you are vegan or if you want to try something vegan it\u2019s very comfortable there in the seats are so gorgeous and I would definitely come here again like I said before",
+      "time": 1749607348,
+      "translated": false
+    }
+  ],
+  "serves_breakfast": true,
+  "takeout": true,
+  "types": [
+    "bakery",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10575933380847753597",
+  "user_ratings_total": 453,
+  "utc_offset": -240,
+  "vicinity": "102 B Nassau Ave, Brooklyn",
+  "website": "https://www.happyzoeveganbakery.com/",
+  "wheelchair_accessible_entrance": true
+}

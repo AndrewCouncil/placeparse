@@ -1,0 +1,447 @@
+{
+  "address_components": [
+    {
+      "long_name": "6304",
+      "short_name": "6304",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "39th Avenue",
+      "short_name": "39th Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Woodside",
+      "short_name": "Woodside",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11377",
+      "short_name": "11377",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">6304 39th Ave</span>, <span class=\"locality\">Woodside</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11377</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "special_days": [
+      {
+        "date": "2025-07-04",
+        "exceptional_hours": true
+      }
+    ],
+    "weekday_text": [
+      "Monday: 2:00\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 2:00\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 2:00\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 2:00\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "6304 39th Ave, Woodside, NY 11377, USA",
+  "formatted_phone_number": "(646) 726-2187",
+  "geometry": {
+    "location": {
+      "lat": 40.7464033,
+      "lng": -73.9005955
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7478653302915,
+        "lng": -73.89919491970849
+      },
+      "southwest": {
+        "lat": 40.7451673697085,
+        "lng": -73.9018928802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 646-726-2187",
+  "name": "Purple Dough",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 2:00\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 2:00\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 2:00\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 2:00\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 2:00\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115281734176340405633\">Purple Dough</a>"
+      ],
+      "photo_reference": "ATKogpfCVxIMVvjZeW3c79wfC51G4Vu5VUVzfd7vyPMpiGVWRl4zdQz0y9GqmUszYp2Q_9yhWyY-iyYUDJOzcJcJtCm_klmkEr_prNn4JuGKtHmidpdBlbhxJBbjRNqqZelNzBCYNiuTpkNQxcRA28WVePBGSG-fLpOv_3JSDncrQECCV0zGH60ULjMhuoiCnQkULaayBzls-9jAiJcmkeYuQ1p7QAI2G3_p2lVO6DJIN21a_JjbX9AGvhyWUvqwig_-lQhNH_orteabhOMdL_K9I3uC6IIOR-MbnwvH0shFvQjh3w",
+      "width": 3024
+    },
+    {
+      "height": 1702,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115281734176340405633\">Purple Dough</a>"
+      ],
+      "photo_reference": "ATKogpekAj8GLGDb2Kdd5vedX6iT_Mq0aN-WBDisITaFJMS3DIjD71fVq8yuIMBV646R9hj5Ar-vbYGda-YXE3BU64h3yhEAI2YcRuxU5q0WUtcGAQlczFcqgFy63n1gObQa6xP4CaDnfMo72VsBYS_KWOw4wiUGtTIxKAXuf7-I366C7cNt1o4HWc5Vkr1PcOcik4zCtelpE8yEhSBQcHPO5XV6Gbf7vSKExp9lxwDpZiZEkhXmjJXH83WqycN5-WfRyi6DrW7uvjKTfL9e4PUJ6aK291CiI5AszzX51kYU1m8d8g",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115281734176340405633\">Purple Dough</a>"
+      ],
+      "photo_reference": "ATKogpfD6q3LNvIpzSFGR9EDCdhsx1y5bZA5qNQA8GtyJvvge1UgBogkbdEMOov57UU8FROCEvslEda4T5_EBBt3tyXB1pm6ok5ycmymtRRvJfBqtDEs-Y-VpD-61NvHFAsY_JeRmnVi5xk5RKTuuM4SuXI8DEiMCQ8IoGvcFYDjer9zfL33owKDnc-W_3mCzrgF6AGNWRoYFgD77VtiBS1yo7e-F5YDUVUBBUVv2C_7gqZSxqjm2uh-N6aPkLJCka9RfG8fSI1LjAvwAaA6bxf2lG5C-lY2fcaM6RlxMQE_yPUY0Q",
+      "width": 3024
+    },
+    {
+      "height": 1800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115281734176340405633\">Purple Dough</a>"
+      ],
+      "photo_reference": "ATKogpeoFcQFQ5Le0gskrxCO8NdajBvaZNNqS5YPJVDIzYKe7sgRRLWZLtsV7qnUnHeRuyA7hlmo_6RY35p6Yhg92a-YPVyKFD7K753DWsqnFpROb7qUt_Z9FCPXgfM0L9iThoXBR610qAlfHoCIOAc3Z_MpkDtwzMQGuWgs9TCYCaYTu3Sgz0nl1N-L3xW9eBlaKDT7XlOE01ejCZG806z-Hea9Y8rqSo9r9w2yaKgvyZ70FRnkEhIxqiaPbRjJhn19ZnhDCmYsfspMGUcbtqf4FWI-ORAMlHXqjg5aBLP-6cf2-w",
+      "width": 1440
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115281734176340405633\">Purple Dough</a>"
+      ],
+      "photo_reference": "ATKogpc6ikYqFTayMOlAtE9OUPqnaaLY_KARgQTITMKpxyLaAlZ-jHv5IJhr8G3eBdzIcpIXduhw8mRgo9oXFLbQmhFOltgD2o875t6usCI5wzWkcUZIjvVJBzNipWbFXK2_d6-OxcUxvNQaL1PNZ-zI_g0G_R1jILR_cJcQne1jFyGZ8FGf98eLPOH-1SsLs9O6xfV7Kb43u0w-pOlxJKBO8ZnkHRU3bhUkNJ0YBwrYT152dc98mJvat1DYiJfxzC0NfsergDuPdBIkaKDjlLSEtATJnGsfWWaIRvZICJrnvR4A4Q",
+      "width": 3024
+    },
+    {
+      "height": 1477,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109860443537953075328\">Quinn Lo</a>"
+      ],
+      "photo_reference": "ATKogpdFP9hDttxlQIHaEXuzHQXQuomuJ9ZIIbsTlfRqiy5QCHWlUcLHbglnLgOEmAOSPbQAlSFXP-aaKgr-uTS65nQSvTk3MjE16KJqpVdwYcsa_IBT4x4HBZCi5rHBAB7hPGWJHVDCWBnEgTrEYveJ-unjbvQ8lrsoRQKiVVc6MAU-a7ZtrZ3OrtVd6TKb1iBLzpmmHiwrNYpC1WivxAqVq6gNsvXcofRrsGw1g9M0Az0-VAFyexbouM45DN3vlOG7gNCmvrPUVW1Q08I5RbMiYaF2fwYe8p6VYOT2qgTlH0IfOczXOshfjRUp_2YUZHzz5eP03vOWwT7eMaPXRUWmrQDDFlnHsQueKiWxGUjvmDqw89LIU7u2Q7KlIwLtvg0eULALuBifK1d3BfFng3Vi6EDcVMpNY7DLf7ga1eUPr7Ed9A",
+      "width": 1108
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115281734176340405633\">Purple Dough</a>"
+      ],
+      "photo_reference": "ATKogpfSYZUP4UMtJ0lTotGKMex0ExApuwO38MW2AtIuvMb1Cq3stHG3fZb3dpXtb8CBR1ivWrGMEXCVQwRu7upCNPhPDFlR2NANZ24R87IcYXmAv11KJHN0clwXzhJnxzzYdAEH51T62VYMXYHsWRCEXjGXtbJ7hVzJOH7kgqObspTfk1KoNG6ej73A1u5sdOmfIn_mILifttmHrW5l-Xl7L02P0VUwC6BjjI_NARPkbhWrdhF7W7Dt4Rlm3n2kVd_Kv8JMG3V654juZwww-lLBXKHQ0mANMZizoToRJW_IsKRU0Q",
+      "width": 3024
+    },
+    {
+      "height": 3780,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115281734176340405633\">Purple Dough</a>"
+      ],
+      "photo_reference": "ATKogpeVOL0eNL9XaLI8IdrudnzIu_516CBCyK2ZOiSieDrZvQLqUWJ_3bgti4GsmbD_BTYPBH2oW2Qih36pcWTP_zk5KZXLwIApNosU0odRm6RmHRfGuCEkSB9W49_J5EXZU7bI46WjdIt3jMjj5Hn9RDPSQ1wyBsuWLxUgQySIIdVFQ6thbOjjBgBAekMZ04NHCNVvOTGiCRl7pEunC8Sia7Wvs2tM45HubkmQORI5CNvNirT9b5thx7vuFAN0Ii7aocZ0sZDBCfE9kLc_3hc8Ydttyc8G6rDymZOmQJDfOmDUAA",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115281734176340405633\">Purple Dough</a>"
+      ],
+      "photo_reference": "ATKogpfc1UHv5HLSivoB95nGzVrJZrolOeYFKVEvCU1a7GIQDwdXw5Lia2MlkFC_KomGmn1b1wnJ4Ekm8p_2NmMfLmbzrSA1r8pG5jKe6tc7Go7ZDi9r75cPKJf1ydgpbPpKBtU4SqaymhTTFVe8DmNCvMYTvparVkMaNk8EQ99F1RZ_TNBTo_nry1vkLIxHXJYze08y2QFdu_JWM3hp9WXfB9jJotiDgzoIKRbVIvRgefSS71JGR17aAduy71Xt_vfwUSHgVnYmm9QhAbj_trU3jNbRE_SJ8Fuv6L2QeX2ksMQntg",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115281734176340405633\">Purple Dough</a>"
+      ],
+      "photo_reference": "ATKogpcI_z9Hdd9BeD0i1xD6dBMWNTTNZyHzT0tfSbb0fg9omVWg0bMvPRMm0pWpHQeLA6ovQDWLhs0TM976J1zgUPp_C2uOBLyE4Fu65FeXaZH6BaV6zZa8c12cIvIH5Untruv7-itYLU3LAMLyUbZ51u0x1VDBVEMG1Po3_iHO5SclC8dXcA0p9_c1VAgkCFT-Osigpqq7IsTNO5Tv9AL67jGPXLMugpwOB2GKzTKTf0ZEVgySDFs60H78Bc1uPyGAEnkcMrVfJvkNDNKUNlaFpUpu7RV9mss0wev93pr2rbyDjA",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJXdqdlANfwokRoT45jq1AotQ",
+  "plus_code": {
+    "compound_code": "P3WX+HQ Woodside, Queens, NY, USA",
+    "global_code": "87G8P3WX+HQ"
+  },
+  "price_level": 2,
+  "rating": 4.4,
+  "reference": "ChIJXdqdlANfwokRoT45jq1AotQ",
+  "reviews": [
+    {
+      "author_name": "Wesley Chan",
+      "author_url": "https://www.google.com/maps/contrib/107589301153068932387/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWkV1e_Dm40qwliLcXhwXghSPqrpiiTql09hlZOopIaiB2lWTjR=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "Cute dessert Filipino shop. Got the Ube Cake Flan and the Jar Thai Tea Cake with the Coconut Pandan Ice Cream. The Ube cake was delicious and not overpowering but the Flan was a bit hard. The Thai Tea Cake with the Coconut Pandan Ice Cream was the clear winner. No compliants!",
+      "time": 1741531649,
+      "translated": false
+    },
+    {
+      "author_name": "Yuwei Pan",
+      "author_url": "https://www.google.com/maps/contrib/116906658511570634951/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzHXyYf-XaYRg1p3EiA1Klp7nS2CZ0KvbE6CVJw7o-iSgTXZ-7=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Hidden gem in woodside for Filipino desserts! There\u2019s seating inside - great for a sweet treat hangout with friends.\n\nI love how they have $1 \ud83e\uddc1 cupcakes. Sometimes I\u2019m not in the mood for something large that\u2019s sweet and it provides the perfect dose of sweetness.\n\nIce cream flavor recommend ube and pandan.\n\nOnly complaint is that the bathroom door doesn\u2019t have a lock - it is something easy to implement and fix.",
+      "time": 1743511322,
+      "translated": false
+    },
+    {
+      "author_name": "Lejani Garcia",
+      "author_url": "https://www.google.com/maps/contrib/105862824221636792130/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXeQ3mU2pRv3Q7lsP5MHMK3FUpsUCVYKMKO_MMEscH0GmhQyQg=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "4 months ago",
+      "text": "My first time trying their Ube cake, i saw it online and i got slice. The cake was a little hard and not enough filling and icing. It wasn\u2019t smooth at all. I was almost gonna buy the whole cake, good thing I didn\u2019t. But the place is so nice and the staff are friendly.",
+      "time": 1740178624,
+      "translated": false
+    },
+    {
+      "author_name": "Josephine Lee",
+      "author_url": "https://www.google.com/maps/contrib/107100419871699451797/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVdO0UbisFHS3yjYWnWESEF5kzJrWiBpqjPxhQJJ0eZUxfDdU6lGA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "A la Prince:\n\nPurple Dough, Purple Dough\nPurple Dough, Purple Dough\nPurple Dough, Purple Dough\nI only want to see you eating inside Purple Dough\n\nSeriously, dough, this place is the bee's knees. You should be inhaling pastries inside on a regular basis.\n\nGet the Ube Crinkle Cookie for soft, chewy, purple goodness. Get the Ube and Calamansi Mini Cupcakes for bite-sized flavor bombs (skip the Coconut Pandan--no flavor). Get the Halo Halo to cool down with the Philippines' version of shaved ice. Get the Ube Leche Flan for cake and jelly goodness.\n\nFun fact: The owner quit his corporate job to start this place and learned to bake while building this bakery. Respect, man.",
+      "time": 1723510268,
+      "translated": false
+    },
+    {
+      "author_name": "Jess",
+      "author_url": "https://www.google.com/maps/contrib/100658044756579877667/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7sPH8axZnduy3o6AkWMbWbsndpk3TcJ51JMFB2tiuRzY3sDxA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "I was thrilled to discover that Purple Dough in Woodside offers vegan donuts! Finding vegan pastries can be a challenge, especially in the area, so this is a great addition. The donuts not only looked beautiful but were also incredibly tasty. I love that I can enjoy a sweet treat without compromising my diet. If you're in the neighborhood and looking for delicious vegan options, definitely check out Purple Dough!",
+      "time": 1729190651,
+      "translated": false
+    }
+  ],
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "bakery",
+    "store",
+    "establishment",
+    "restaurant",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=15321879996427484833",
+  "user_ratings_total": 292,
+  "utc_offset": -240,
+  "vicinity": "6304 39th Ave, Woodside",
+  "website": "https://purpledough.com/"
+}

@@ -1,0 +1,529 @@
+{
+  "address_components": [
+    {
+      "long_name": "83-05",
+      "short_name": "83-05",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Broadway",
+      "short_name": "Broadway",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Elmhurst",
+      "short_name": "Elmhurst",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11373",
+      "short_name": "11373",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">83-05 Broadway</span>, <span class=\"locality\">Elmhurst</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11373</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: Closed",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "This simple Chinese restaurant with compact digs specializes in dumplings, soups & noodle dishes."
+  },
+  "formatted_address": "83-05 Broadway, Elmhurst, NY 11373, USA",
+  "formatted_phone_number": "(718) 639-3996",
+  "geometry": {
+    "location": {
+      "lat": 40.74111509999999,
+      "lng": -73.8797775
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7424281302915,
+        "lng": -73.8784979197085
+      },
+      "southwest": {
+        "lat": 40.7397301697085,
+        "lng": -73.8811958802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-639-3996",
+  "name": "Lao Bei Fang Dumpling House",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: Closed",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106807258523780762907\">Jastnum Alexia</a>"
+      ],
+      "photo_reference": "ATKogpcWwVotSWd1XsIYwVp3Bfl_aoCfUeUg1w2wFd1F-PC5bOLYOaab7qSADsjlZ-3mhVcLfOc8P7Ogt7CuyyJPHON8Xn-OX4KEzX5xlqS4436HMrTuQdHcuFF5mtub_FCzIT0vi0YEZPfJLyHtPnSaO__O-VwsURUWhAvIK3XO5kaIGAc7TBdjoFG1C_P80UOmitmYdEKAqcRH_hy2_0xedapnem047uIGHxP5G0_MoJZoXzaEeIg_7rHrA8mIh_5XOcxqkRl0Y0D3M-KBfuzj9KBHxgIX-fr1MTMAti0zfH0wMCBnqz1GRKsZru88_Pua_DsIciB5-A_50vhUTPeNpp7rCCeyhVrsHPrmzOuOawKS60CueCqAw4CyrFSzQ5jt4q7CQ2Qx3_v5oiB-Ap32I1UH1myxgUI9EeVbzMZk0s0UaVo",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108958829502995955054\">Dina Sullivan</a>"
+      ],
+      "photo_reference": "ATKogpcDyaKYo7qhNkSxxmadADsSmyi9LV0oUANo-ddmTCAQxXlaeBM780DDWgtjPJ_psyotnhEME5gljbjo84oxe3WlxQPr4jDc53KlWO95d9ftpBIUkL_IVakEpCJxgRVziqSAifaR4yxf0Y0yWgaQAwakgIxbpDkAy7i3tJzelRxVPktFqe3OU3o2bvbZm25inybxGO2KDlehXqzHOy29wdgVOr228PSGESHZn8doz1uATSNB4-t2VS81MiSH-GvkPwNcv7cEyXyM1rkxpSK4hR-krGfcKypP3P0es-RjZTjyST2g6jnv-GdLlbSzDqJAAG2vM00nSHlXddbTe0YvR2odmEQJ5CVPg2maN8zxLx_MIKZTlDwQs9laWIE5Ojfe_-JyaQNXlzpe3l-lHG1yI5mO68p7A44mZ6UiVNxI2o9ncw",
+      "width": 3600
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115095695647677579516\">Yat Sang Yan</a>"
+      ],
+      "photo_reference": "ATKogpergXLBO_s16a7apDmxj4CWnGmpbioQN65d1C8cyZv_7z_EKA1A3Fm08fn5tQLCBS6CGzplU0hqA7Rn3ce0Dgq1dKVZxmii91fzSw0xsiwLj_Ch5X5Vzq_2Fmq3S2-12Bq0HmmsHHczuR-if8U-HOJzhb954ECPh_v4py2HfR1sJxj3fSNqB8JK4h-fPOjvFkvb6e8q98U7iouwEy79vgIjDCUkpW9A90qlwQv9waZM-gCPTbN4Irsr0rrkOI49YzVaws3MK6fQ8KQ62nAaa92b7W7kIT3Lm17O_ADapSZwMj-t9ZsVSSoxoaPMUTYvGXh-14TddKtRAyyoSGiF6BPdxKjgWDElp89oBm_-gzumSVb3SI7DYPjJ7J896Ok9u5WDA80g1M7xpISLr0ran0PM7nLNDmoyEpWkLSLYWTg-2buC",
+      "width": 4080
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103653796188111553167\">Oscar Luis Lopez</a>"
+      ],
+      "photo_reference": "ATKogpfGCUA20u4bew3hbkvaHQ0Audvsyf0EpbiM4Ke6iXvOGznwr-aiMThWy1nvnVVHEiwBlTOHXV5bzYpi_NaWXqcqNi_U08slFdTf6379HWvTifVAc3yy4yVlguJL2ZaNfig3-iHbJe-NeF6OD28buB548ws7cMroiM8w7Sps0zgUzRYqwidNzynyttd1ZPdp4UvfDEdg9pGtfbiYwAhqtszPjGPw6InRv1dacoLtr19ra3KCNGlLYAvDxGvQemsJjNcyPTyGs10q9-3Ass6mThmS6qA0IQ5IhrUVJ2nU2PhiQPTcNH9xsAQ6YbQ6r-WO6Q3Hq7GoxTcEeRCRLnZ_FkXnUdToNOu9Gtx1yK6T2jLWjnCNsG5nnfYWKU6MKOFdqE51oQEEUH01UMRRFzHfHtlgMZ4m2ZRwnaD64mz68kywOfpU",
+      "width": 3072
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100434373255224501538\">John Z</a>"
+      ],
+      "photo_reference": "ATKogpdFYHkZ-4VWKBgLTjDRTV97NrFvW4Fh2FLcHg-6whtzaJXytzpA-UWoGGOpmnFYM2FT-JJTsWgIa0YnGokDes2O9zczcVoYaF7TWPUWLZ_w5N6yp4YNXevTbtmbZPLEaHxMU8LBJskukcXiLkg_wm-G_3eUMYo0OulnpkuC_z0t49tiAGqKt1Smla9jJO2ZXMHqgKRbLYxlux4-iJiOTC7wXK-MmSQQuxjey-p17ezir6fTYg9UEA1S8RYqum65VM3FVLqJNpWkNt-nsvTu5X4XZquG8eupZBLKGhlJkQyUXz4uSx6qRQiKn3Vil4NMLBNyDQfsN8kJTP23_d0IHUgFffVXmG-BBEyi7et9kW9vWQTn2SuqvKnSTVjv4wbtzWuSHEVGcuxENWjlhoj6xMG0QFhWsvD0hYb7MXwU9zB567U2",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104724097943836795185\">Khoi Pham</a>"
+      ],
+      "photo_reference": "ATKogpdczMArxAhKHxFGxwb4JkML7ck6p_xDLjKT6HP9EHDl0w0eGBmna8pnRkt7qFLYY4LTN68S_A3fgopU7pew8enXKC4Of9zPrKkuSXo0jtl_erRLbX48z-VmH8PNDEjOWBLnQiYyyOJJ9A4L5GO1zlIchtcqMKd7lV1_75jbj5-N7NiIVjWiI_6Otf25CiaeaeeYCWxC4qw-0tKRcTwVd9983B4LthtiYSlvWYoXlA-VJ2dlvOBbgFXWSdb_yR97guzHHDV-8VaJ-zK4lMkwEbIiSxyJ-YDhS5gRJJafJJNvuT7B8M5vXhhtNj0RqlGAb_hZRtorBryKjdpAaLJi6QHrmHSjptAkfUStdH4hTrwv8DHCe0W-rqCHTsjhw8ITxfj5xxt6dADw2cMDbiPzoOHsj8xG_xyEtWyhMdSbvYCdCaHG",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103156092520583753736\">M. Lowell</a>"
+      ],
+      "photo_reference": "ATKogpefE_EJpT1hcOFCo2_b_Q-BsbWFL6mkxPa2OVEuRf7cddsz-SaAMUBj7fjEmz_3Uo7O85TpLocWs133vEHIn2I2o27sxg22PdGO-7BlOHjcxgW5f7leD_7o3CtcWAzZa4_IzXnnFjU9KhcrWxNye15-mXH_HY8t8urJ596KfR8EiZokG1LgEY7C5JJVprk7C3hWkftddjK19glMGiYDsqF06Z_i7XUr_1K2bkhwSiCaYa9mNtBRLy7dysQJLdabVOBAqxFkOFa0IwUvU7cOdmoUoWqRzlC7vSuano9szz1V7ugzyKwcmf-kdJsxogazCXdKUAY2S5RNQKEGA10meKQmKBG2O34WayDeiZQWyRrXkOM9f3dEZivuli7z-UGsxRdFVAo8P0l7gCmj8SxqCDZnC9aX3YXxuPgyGw1fkVC68YsX",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104838249207428072339\">Jerome You</a>"
+      ],
+      "photo_reference": "ATKogpdL4hCEDCfbYmsvAMbk7VChgzX1F_gI8Q1VB0sCKopfHmnOy7IkJLagooerrG4SdD4mb1bykzLrWawK3ghDe6oka5PvWg0QPN3aTlDlxt3jv55mygjV0PZLXM5U1Cfbvix12eiB8RWyejsj7lfJ9rp2ADoTDRu8o3Nn3Mz6K82NMRWk3LEudMXsBBhLn1rhTzbB1iHXHtYi4J0HFSfgo29pVwn_1-ICXfn9ZoDp4we8lKlf88n46FpFsJ867eOrxfG-PE_IMdXgdnWptFFcbcOURkUFvZPfnMGPr9sQsYmLiC3oQvTzY6lYYXfMkMt7VtUeg_0z-dkK7dCMeFVa4Trj_bStk0Fe-ODlpSan8hgzOywpZSwV4MLlVYHl4UB3I0cl3xvs9Jr6PW6Mt8lOyL-0Cn32m8cwPvbJgdKXzKUJKu91",
+      "width": 4032
+    },
+    {
+      "height": 3548,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103727367131015248083\">Lili Xue</a>"
+      ],
+      "photo_reference": "ATKogpdvC2vFFGnfncx7ShovDwaTK8dNr-CnKZRby082GVW2uVNX34y6qq2fTkJNzJFECIGB8AuFPEx2N03VHJcVOtib5gRSltV27Xssto9dPYjKyNAntz2rM8hrOc0kgcfCjn69UkjZCMDpmBMSUkuU1YePC_-RwcCg7NoGoqFFWjmXJQyBEkPr9ubDtWt01MwT3osJ6oPpjNWbUj05H_dcMFEpJDd7h1-3d0jbbS34Lsw60th_uQTzxyrnSOh3-ZBW578mjsvrSXl2ZLRJAFuUvt81T__VDvdqJ60EaIpanHxd8S-ySUTXRBBqSkR6JMXByFcXt5cywNpqtxyn7d2llYwd7-O9Q085pTyk3skLC9wNavtndrwv7GiWTCOLk5DgOffGo1ESHfVc1q7XY1w7_KN4kZ85YgBuZhN4TkorrLg",
+      "width": 2646
+    },
+    {
+      "height": 4096,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111114234401138945429\">Anita Chang</a>"
+      ],
+      "photo_reference": "ATKogpeABEr-Yd_WI7Xfzo5zudGJw3rywXPWwnkXfLbzlMOxHOBtEvcwVKWq1_kxkXJmNCrUnSSlY466FRGgqW_J1G6JJWcXWRs_IfNFeCzkq_8V_e-iQmS--LqZUL3Y989CkgPetCu5UyAzeEeBT8l0sieY7QhqGFi0tGXvg95e_y8fjDxmSyoTs5UtZfMjsQI_gNRbpDnqWcgwJSimpsz8XZVaQkZ_YWNOATWmeQhHifpNg2t6HaxP315WZyvXnstYi91_unL7H3q98IeUwWv1oXYtVkpqn69i4EYDTvAK3WLrA_6ZxJBIzN3aDEwaJU8o8dSwOvsBbemDphR0nD4qnmp71YBv1xa9kboC9wweFtOH7dNcD6h9iow-1tqOLPQFq37QIkCnVHfbwzBFepQ74vDzLSyw_GhS-4brtEVYlF5Vazc",
+      "width": 3072
+    }
+  ],
+  "place_id": "ChIJ_yd-Jq1fwokRfBaaRGQbTz8",
+  "plus_code": {
+    "compound_code": "P4RC+C3 Elmhurst, Queens, NY, USA",
+    "global_code": "87G8P4RC+C3"
+  },
+  "price_level": 1,
+  "rating": 4.4,
+  "reference": "ChIJ_yd-Jq1fwokRfBaaRGQbTz8",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Dhruv Patel",
+      "author_url": "https://www.google.com/maps/contrib/111956644347073534620/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV6lhENwEkOQ8VpmwFQztv_xRDyIb9-eHQ6SNbaKBd0tpGB-5FL=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "a week ago",
+      "text": "Found this place off of an internet recommendation and it didn\u2019t disappoint. The scallion pancakes and dumplings were delicious, particularly the dumplings dipped in a savory soy sauce they had. The food is both oily & down-to-earth.",
+      "time": 1750018159,
+      "translated": false
+    },
+    {
+      "author_name": "Anita Chang",
+      "author_url": "https://www.google.com/maps/contrib/111114234401138945429/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjRrBnfwn8OBG1PubF2iz0ZJBvCJnQvcNI0eTPZlPjO2UlxfC1=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Come here for the hand pulled noodles! Juicy, flavorful, tender pork, chewy delicious noodles, all for under 10$! And of course I drink all of the soup. Bring cash! Watch them make the noodles in person!",
+      "time": 1747587298,
+      "translated": false
+    },
+    {
+      "author_name": "Lili Xue",
+      "author_url": "https://www.google.com/maps/contrib/103727367131015248083/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW1HEpnxDhVXRqQSgo9DAAmxQ2CE1xMbwE-iHFRJXYOzBfs3-OG=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "My favorite dine out place since childhood. I ate their famous hand pulled noodles for 9 years and still keep going. Though I visited less nowadays since I moved to Brooklyn but every time when I come to Elmhurst this is my go-to spot. And I love that sweet beautiful sister taking orders at the counter. She is the nicest person I\u2019d ever met in my life. Wish this place great success for years to come!",
+      "time": 1738563954,
+      "translated": false
+    },
+    {
+      "author_name": "John Gonsalves",
+      "author_url": "https://www.google.com/maps/contrib/110973205109653728542/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJey_xHbuiHH-WbFNoxASwLBJsFOg05d8faQoqt-JNFYxZBkQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "Lao Bei Fang Dumpling House in Elmhurst, Queens, is a delightful culinary gem that excels in authentic Chinese comfort food. Their pan-fried dumplings are a standout, perfectly crisp on the outside while delivering a juicy, flavorful filling. Each bite is a satisfying blend of textures that leaves you craving more.\n\nThe hand-pulled noodle soup is equally impressive, featuring tender noodles swimming in a rich, savory broth that warms the soul. The freshness of the noodles, combined with fresh vegetables and a hint of spice, makes it a comforting choice, especially on a chilly day.\n\nThe atmosphere is casual and welcoming, ideal for a quick meal or a relaxed dining experience. With generous portions and reasonable prices, Lao Bei Fang Dumpling House is a must-visit for anyone craving delicious dumplings and noodles in Elmhurst. Highly recommended!",
+      "time": 1729392063,
+      "translated": false
+    },
+    {
+      "author_name": "Dina Sullivan",
+      "author_url": "https://www.google.com/maps/contrib/108958829502995955054/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9K9T1GGaDwIg7FIyLc8HLeuY5qR4Vp-ZowvIf6fsRLvr-phrL=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "4 months ago",
+      "text": "My first time experience about hot and spicy soup was so good, so I came back to get another one.   And got totally different horrible result .  Ordered beef stew mild, very very little spicy, but came very spicy and tendons!!! No beef!   All tendons!   When complained about this to lady, she got very mad and making nasty face and rejected to replace. Horrible",
+      "time": 1740178827,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "type": "TAKEOUT",
+      "weekday_text": [
+        "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Saturday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+        "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      ]
+    }
+  ],
+  "serves_beer": false,
+  "serves_brunch": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=4561895065011230332",
+  "user_ratings_total": 846,
+  "utc_offset": -240,
+  "vicinity": "83-05 Broadway, Elmhurst",
+  "website": "https://northerndumplinghouse.shop/",
+  "wheelchair_accessible_entrance": false
+}

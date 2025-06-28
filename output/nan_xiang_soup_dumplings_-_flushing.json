@@ -1,0 +1,473 @@
+{
+  "address_components": [
+    {
+      "long_name": "#104",
+      "short_name": "#104",
+      "types": [
+        "subpremise"
+      ]
+    },
+    {
+      "long_name": "39-16",
+      "short_name": "39-16",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Prince Street",
+      "short_name": "Prince St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Flushing",
+      "short_name": "Flushing",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11354",
+      "short_name": "11354",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">39-16 Prince St #104</span>, <span class=\"locality\">Flushing</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11354</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0000",
+          "truncated": true
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Soup dumplings star at this budget-friendly Shanghainese eatery, along with noodle soup & dim sum."
+  },
+  "formatted_address": "39-16 Prince St #104, Flushing, NY 11354, USA",
+  "formatted_phone_number": "(718) 321-3838",
+  "geometry": {
+    "location": {
+      "lat": 40.7595751,
+      "lng": -73.8324134
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7609587802915,
+        "lng": -73.83110146970849
+      },
+      "southwest": {
+        "lat": 40.7582608197085,
+        "lng": -73.8337994302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-321-3838",
+  "name": "Nan Xiang Soup Dumplings - Flushing",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0000"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0100"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0100"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117425014029208489314\">Nan Xiang Soup Dumplings - Flushing</a>"
+      ],
+      "photo_reference": "ATKogpfIzvXnUUai9CrTS6AccQ1H9XcyPf7jmn5gxvV--MGj7C5tWbruIpLsho_oMk12iwJspaiAPWFHrBBJamo0xQuDM2Fb0JlVGS5un9G9qly4SIqF2VZrxmSODQ2YuhsY4--ClFVuLYttZttbBsSMxBd8PE04Hky0ZTSm_bo4f1rHjj3IyftEHzWhAzjh5BwwLO0l_6HAMZa4yoGAji_vCn14_G99u8ZzRj-d9jAxV4sHk5WZ-lf3CPWqhcCA6xolwHbv5lbr5AtidAj5EZsY1iW0u839N3TOTtGMg_vCSA9EbQ",
+      "width": 4800
+    },
+    {
+      "height": 3201,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117425014029208489314\">Nan Xiang Soup Dumplings - Flushing</a>"
+      ],
+      "photo_reference": "ATKogpcsEk6WCNsz78q5zErpIUyrySikjxR10ieaLsUn82CqdFVrRyup8L816S_yhAiBg42P-2gZMh3gK7fVlefMUf8JZGK--D6RCl47WuaBAF6hwrJzbATO6O98mGhzY8HAOXhtObTwxBxexrd5DmLWflTZZV5QoAGYbGchERjI40i_f6qnjm6_gkYROL1aPd4sYh6YbHu-yswk4LOmTNXlovvOVoMNVPKvI5HssX7Hs10a3_AFBr9JYfLBWZ11i8uzN77jVdGjFVZqFYSlfVWDlxkFV7SGrCghug8DTwkT3oCnNA",
+      "width": 4800
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109712419484181257845\">Lily Lin</a>"
+      ],
+      "photo_reference": "ATKogpfszKhZXrsSiztgwSG1XBigOqR4kjG9sN3pOsN0QCUL_2eXlB7kUPYnbhGni0GfvSKvsZHS4qJ9_zFSlGNlguk7LKYZkKTYkhBAj5nLjUJcmZtGAwAy6JWjBX6TsAt9uQJ45ysHOdmfljp1RF3Ptcx39fiG87UvpxgOsD6YGYZBlOGk3qo9bPypIB37b9TjAdPLpE69aVw0rRdHcqtWUCZad1yub9OD5xfCm8iyYN_-9dxyo42_2yT5zXr2UGOOlo1FiGtokXf0DSoTmZRsDLUZxYQ7Le9nvbTZp1vxFTTmijEQemntnI0Vp_8I0vDnPUayK79qCTDpHJEoBI9UHhliVGCvIkdSR81TRqhXmD5r175OJU4vhfltcfA-nTm-B6n_UDAnDovd3-CoItKylBr2tKAAxdh9NmCFSFglpLPPW4vcM1vCxT-snXMMGoIB",
+      "width": 3072
+    },
+    {
+      "height": 1284,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108165100612773637428\">Vee \u7950\u5b81 L</a>"
+      ],
+      "photo_reference": "ATKogpcs_TDoMRCVfelEZggnz6cPIL3C0qw0btC85Lw2bm-Mq8y2z_yMxSUOXk8p_DcX4E6x3Q1RmyyKT9_Hpzrd8Q8BOR3rASF5jgcCXA8PkCLtpbwibj6zI0ezbLYsCYiDH0hhrlWvCTtIG-hmMydffSavYQngnixcLUltVMHUB9-CRfkrSms1hzYU97xwCeEC42F3q5oHnfrjXTqwZVTWQu82h_j98cSHhTNYN6PYwmp5ER5rnlY2ubts7ty1jTJJ3aZurJFVJGguyUaDw4CDxI-3fOYRd8191Q0IK_IlUAsG7UgcpWh0WU5EqECWoNxdn-6Y8FXbYklhHn3ZnFinPuZNdJ-_IydTG6-5W89wLEXPpjrCYMFa0wqs6yxHKDf--Wv9Y8zdL1XI5JGtzZRS34Y_EGxi4d-jumrOlDofM1Uhhn08",
+      "width": 1713
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108414304844853619572\">Jenny Ho</a>"
+      ],
+      "photo_reference": "ATKogpeaMfx9XS3cmFONGesNiGD_PsCCUVVsVBdtRhl3UeLzE2p3ViIe3sLP2leTJk6rb6I1Lu7rODZXYTR3pIa7FeJooZtJrJTq5R_NrAs5l-zrBfbKt-BBo6F-B6zIbUE3o0VAdXa5rb_AKT5jpQ4kDWQVQ4Nxr9UVI1JL3RP6rzAnmAkgziKvZEe--aME0xY3We4nALDjHiLfaqt4cuJFgRAmXsKqLFBckswadArPC7-P-G63-2yZUniF0rWsqsor9DYBNGLZi_MQsk39D3lw6hCGhFa_jbhs0fLPwkXEz1zP3NBk0O8GVjMbiF3KqaWZO-BIH2GU_baRKzB71M1AWZs7El2kkObAdLRcnfDG6srbr9OAvkJ9pcnQD2dlU7a97ilLhRCm1n4p2mjtyjy-BzDoUvBmiiNtU0G5bY9TLNdLbUrXaYWFITkKl1qY4xRr",
+      "width": 3600
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117111377669981903579\">Yoyo</a>"
+      ],
+      "photo_reference": "ATKogpcuc03zCFom-EtT6S2_Pqkm6N0Bvo_77bZYGWzuDeuqHUa8WccG1g8DwizbzYVRtzqW-4tt7-WF8TA15vMZQZNzwQraijVdOWYskXnjj7WalMXW0Vx33y10a-E0MSf5hyAcrbuIPjvoXQXIqHvszuohIh3x-o367At_WQlJm5FdrovyBXLl9l_ucMH1EI1JuteJQdUp00r50QAgusXS4Gvt1GUofuoYx0GBjB60Zn96NqgNbZxPIcvYF_TwKoLiXonwx5mK2ZSZIdP--7SPItU_hI-WcOW2Ud-l9gLgcSrKlLKI9T0yqjYyF3RYZNgg2Cjsspauab98o5MJ57wga_fOCqF_tUnh3rByZLI0NGFDxJiObSiDLvqL7gJA7isxm_4oiH4t7eVq1u8b7MmegpZLiyGqnzZdRxKz0h6nFsWQ1Q",
+      "width": 3600
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111399297736319421558\">DA Fun</a>"
+      ],
+      "photo_reference": "ATKogpfnkIRy2Ec_TIs045FoGrOLwYkPSB0UR4kRIG2QVDeeM2v0cUcqrYuwbMuaQ2UILPT4AjfY5eT_1WUK5OT5lqFVE0G_gpD3_XwuPOYLrztIRbrO_siridouBOuMl8Anh7T4wYWtigHgnZE_ZMLli_D10EqlUAONJ-qM-2pwIJECZrNIcvucWZoGNniLNzibvikx5kj-htWWh86kg6aayIfKvjpclUZ5WeJq6NEWMJk0drGD-Yk6V3RaQHWHOFaLe_IKYOQyyJk_1W17ItIeIlenK2DZ9ymJH2M-E8NNFIEI78hPCcp0b1UosXrlg88wezeC-Bd4Zb48_0Sjv_6W2ObH44qo4zgi9WxH2J-1u02PBDAFUfUvdF5zURZjYBfQkMeZ6Wqe0vn-kfYgKDOq0TfFIEnc4uDaVEEP1u88qXc",
+      "width": 4032
+    },
+    {
+      "height": 765,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105145140611678911443\">Daniel Stepel (The last Baby Boomer)</a>"
+      ],
+      "photo_reference": "ATKogpetmJfqIRd0u11WvXI7rSQOAEf7IcDyMZz0WT8ThJe8IC5QDxkuTQ2Vspvzx4779K_7DNJMtmgisoRrhWYTZMCsWxc6eW0HjL6NoVjEq4h-XZ4js3nukt8-jBrGHLXRF4RzUkC87SHmveOOcbl9yhkej321RTN_G6vzaKLycJny3ZSm1yEcwz8EaDtxUa-mXMNnxy0hbiX_uFUqnBRJS8NjsgBbDtlpGvx0FNwMstMFPjpTp6JWcFFMxT4yogpSpkaBxNEf8128eAiqRm5NWKBZg97Du7yxo1ZBzVJjJCr84pbEzHR0yFh1XDR9ojEpTHOVay2Wg8PvYWC1e13AUM93H6n_9ayz6uXxaNR8p42kla7WExHShEWfw8DIv64Q0ioKx7T3OZHstruUKGjgYTJz7A3DsDTrDvYGcsv7gBQ",
+      "width": 1000
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100618337780799061773\">Jeffrey Tsai</a>"
+      ],
+      "photo_reference": "ATKogpdccfs9A87eDftwbuiEvXKAffoN9hZwKZ7FCqNhfIeym9aEITvf4jIoTErQJEIKW2TLRcQHsHjlP5068SPc6_zXq8bBIBhqrzjZvU3jBcy0u-eACCqEiB0Y3ywBt0--YiA7hrus2QvFm-q4tFGfiBMrwe76r-AYxR9hRTthySt2Wt8k9SXLfBdDzj33_thZT8BFFt_TCQD8nt_8B3OfWWEg39cDppUpwrawgfk0bJ6dLYIA-pEe46TnCmgZyKhk09RdPHkZVBsh_pQhTuEgO48vl7sJJ_vcD7vqSvm8z0dfw1WjhCV5PDjO78hX5N0RoT1EWV_4w0lGeO6Lr7j5QwTcz3qW6BDXo76miIn-75FRVfwLvl_ctNKlhq77BpA8qWgAuMjv9g5OC2XjEMerReGn22qF6K6koCYuwtFatTD3lpC5",
+      "width": 4000
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112094032333106021659\">DESY PUSPITASARI</a>"
+      ],
+      "photo_reference": "ATKogpfOWFCk0be0TpkQ_HlvZZUedhTLKMMyuCs66vwb-_ym6RT1JUApdUCwiW82b12oPG-2ZIWjqEkz8t5jMgb_mm3Qu9VahIuAEKh7g1hmf9WSevycHAK4b7cph7E7ENJ1yVVFuSs9WmH7tNhZtIsScJgf29JxHFBcXKKU_0cFy6-6G2Je7JEBxeLIU7Glml_GOOvcgLCMV4PCymTcd-eSRSL7cXIT_8UGcO7SYQgkjZOygvVhuziYgAODQTobVt31_UDQ03NQ2erMDNqPMG8-osRNAlEtL5iwWw0g5ZIAC24CSednL8mdzlW7gBzSEpA1V4AOaoqpKLb_zpJK7gas89EzgQf4204nkGox3g43dt3ayzoGLUGWro10ElKvGTPNoTWDiNCVsHTeZvwQWh7OZAeYW0Ecs4H5jnachDoW5oUTgLZh",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJVz4MXA5gwokRhGRy5-dJryQ",
+  "plus_code": {
+    "compound_code": "Q559+R2 Flushing, Queens, NY, USA",
+    "global_code": "87G8Q559+R2"
+  },
+  "price_level": 1,
+  "rating": 4.5,
+  "reference": "ChIJVz4MXA5gwokRhGRy5-dJryQ",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Daniel Stepel (The last Baby Boomer)",
+      "author_url": "https://www.google.com/maps/contrib/105145140611678911443/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5H03YHJBQb8ElY6LLQ4vULHVtAETT4trHeIZRhKjWRlj6w3Ihzw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "In the heart of Flushing, Queens, amidst the vibrant tapestry of New York\u2019s culinary scene, Nan Xiang Soup Dumplings stands as a testament to the enduring allure of authentic Shanghainese cuisine. This establishment, renowned for its xiao long bao, offers a dining experience that is both unpretentious and profoundly satisfying.\n\nThe soup dumplings here are nothing short of exemplary. Each delicate pouch encases a rich, flavorful broth and tender filling, striking a harmonious balance that few can replicate. The craftsmanship is evident; the dumplings boast a thin, resilient wrapper that holds the savory elixir within\u2014a clear indication of meticulous preparation and respect for tradition.\n\nBeyond the dumplings, the menu unfolds a variety of dishes that echo the comforting flavors of Shanghai. The Braised Beef Noodle Soup, with its tender cuts of beef and robust broth, offers a warmth that resonates deeply, especially on a brisk New York day. The Pan-Fried Pork Buns present a delightful contrast of textures, with a crispy exterior giving way to a juicy center, embodying the essence of comfort food.\n\nThe ambiance of Nan Xiang is straightforward and inviting, allowing the food to rightfully claim the spotlight. Service is efficient, reflecting a keen understanding of the restaurant\u2019s rhythm and the expectations of its patrons. It\u2019s a place where the focus remains steadfastly on delivering culinary authenticity without unnecessary embellishment.\n\nIn a city teeming with dining options, Nan Xiang Soup Dumplings distinguishes itself by staying true to its roots. It offers an honest, flavorful experience that resonates with both the seasoned connoisseur and the curious newcomer. For those seeking a genuine taste of Shanghai in the midst of Queens, this establishment is a destination worth exploring.",
+      "time": 1742433662,
+      "translated": false
+    },
+    {
+      "author_name": "Patricia Caguana",
+      "author_url": "https://www.google.com/maps/contrib/109546500355693585592/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWuHxVqX1nU0Aq_brDJgQhIwm6WMo44LK9_GeY6tmvsbXsEJz6h9w=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "I absolutely love this place for soup dumplings! Their chicken soup dumplings are truly a standout\u2014without a doubt the best I\u2019ve ever tasted. I\u2019d happily give them 4.5 stars!\n\nThe rest of the menu is fantastic, too, offering a delightful variety of dishes. I suggest arriving early since it\u2019s so popular, but the wait is just around 20 minutes, which is quite manageable.\n\nEverything is freshly made to order, ensuring a delicious experience. The atmosphere is lively and buzzing, but it still feels comfortable enough to enjoy your meal. Overall, it\u2019s a wonderful dining experience that I always look forward to. Plus, the prices are quite reasonable, making it accessible for everyone. I can't recommend this spot enough!",
+      "time": 1742011426,
+      "translated": false
+    },
+    {
+      "author_name": "Suren",
+      "author_url": "https://www.google.com/maps/contrib/110687075033782201496/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWaEEuK0uVqgxvkxrDeH_fw1xml2VqfOjeOFMBiDw1S6PsNwTS9Tg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Food - Amazing and fresh. Recommend the three treasures soup dumplings and pan fried pork buns. The red bean puff isn\u2019t sweet which is great. Would not recommend the scallion pancake as it\u2019s fried and pretty greasy.\n\nService- Excellent and swift through ordering via the paper and pencil.\n\nAtmosphere - Very pleasant and pretty. When you enter there\u2019s a mini running waterfall to the left.",
+      "time": 1744295202,
+      "translated": false
+    },
+    {
+      "author_name": "Edward Yango",
+      "author_url": "https://www.google.com/maps/contrib/105963345098423784735/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjixaJsjFWHnde9EACYNsfdd1jYusE6ioXXA2JVCR15giIuZKP=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "A decent soup dumpling place. I liked their appetizer options and the stir-fried noodles. Braised beef noodle soup is so so at best. Soup base is plain, while the noodles are factory made and basic at best.\nIt\u2019s nice to see they also offer Asian breakfast items like soybean milk and crispy dough.",
+      "time": 1748142988,
+      "translated": false
+    },
+    {
+      "author_name": "Juan Gutierrez",
+      "author_url": "https://www.google.com/maps/contrib/113989847163904010327/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJI_YUZ54slgqAMo0IBNN_eTe4dVuUHg3luFm7mu3a8uqB08A=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Just absolutely fantastic and delicious in every way. We come here before going to Citifield for a game. The soup dumplings are ridiculously delicious and the noodles and side dishes are equally sublime. The service was fast, efficient and prompt. Can not say enough about this Michelin rated amazing spot in Flushing...",
+      "time": 1746452837,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "food",
+    "restaurant",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=2643412766659077252",
+  "user_ratings_total": 6637,
+  "utc_offset": -240,
+  "vicinity": "39-16 Prince St #104, Flushing",
+  "website": "https://nanxiangxiaolongbao.com/?utm_source=gbp&utm_medium=organic&utm_content=flushing",
+  "wheelchair_accessible_entrance": true
+}

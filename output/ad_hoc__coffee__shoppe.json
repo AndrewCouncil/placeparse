@@ -1,0 +1,446 @@
+{
+  "address_components": [
+    {
+      "long_name": "13",
+      "short_name": "13",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Christopher Street",
+      "short_name": "Christopher St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10014",
+      "short_name": "10014",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">13 Christopher St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10014</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Friday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Saturday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sunday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+    ]
+  },
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Warm, hip venue offering organic coffee & sandwiches plus a shop with modern furniture & homewares."
+  },
+  "formatted_address": "13 Christopher St, New York, NY 10014, USA",
+  "formatted_phone_number": "(646) 504-6864",
+  "geometry": {
+    "location": {
+      "lat": 40.7340757,
+      "lng": -74.00048249999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.73536758029149,
+        "lng": -73.9991100697085
+      },
+      "southwest": {
+        "lat": 40.7326696197085,
+        "lng": -74.0018080302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+  "international_phone_number": "+1 646-504-6864",
+  "name": "ad hoc : cafe",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1800"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1700"
+        },
+        "open": {
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1700"
+        },
+        "open": {
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1700"
+        },
+        "open": {
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1700"
+        },
+        "open": {
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1800"
+        },
+        "open": {
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1800"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Tuesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Wednesday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Thursday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Friday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Saturday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sunday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 422,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101445710678453235846\">ad hoc : cafe</a>"
+      ],
+      "photo_reference": "ATKogpdYMqJsQynDq7gKD0mD7FtepLnyAHi8BjYA6TE8XhvSSZJGLthjweKas5D_t-fOitMIxACCyY-fgd8KMDSitZ-P_6hFIw3Gn06Pmfce2d-XKgnoIKqTKu9Z1dTsOxRVTW08a_9B9jKXAN6IeZan845dwd6RDVnd-bD1TjTYYKkgXEXk0WcdAj_I8kF26eP-KKyO5V8UloKa7Ou4Xo9PtdU39I8UP0a6LVxjaEU1YFqV4bI2LA39ckIR8l4s5Cc3iZeebIl7iFjFVFFIEbsefeuZK_pbGX3ECESQCF1z5gfXpQ",
+      "width": 750
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101445710678453235846\">ad hoc : cafe</a>"
+      ],
+      "photo_reference": "ATKogpdKDhZDdFgrXRFNBsLGEBIhKIKHldeLsP0yE3BDVtZCuE3zNaq9nfhrdpf3Jxl4CXsfkHPRGuqbCa205Rc_5sPZ1gbe2MHTmnM4fw15ateIkJcu9uRto8I_61mJZFLUTkR8khCkYeEss42vH9LMLQXVfZklXo_Zy7wkoBLxCaI1arAVDTi2f2r3unYsiG-7KDl1sX6BxzfPFh8IPg9tDuTvRiHW8CXJoN5Gx5qfthmyGm5tMCobN7Bmo_-opwY9fqR_uXLLe_DwAys16OnbLLbqOkwMCvTF-JAyI2QGZ4Hqjw",
+      "width": 4032
+    },
+    {
+      "height": 3472,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104819208193648646391\">Gregor J. Rothfuss</a>"
+      ],
+      "photo_reference": "ATKogpdG3VjrnOklPojK7Z2aTF6cBPG8FNz4sWK5OxXn007T5170JzSxeQdVCCw8sLQDUHjG_HzUWa6D2h56oF-thLEUqEh8Z7ANXyd6L7LnIfbWa15IDBADDYmWU6x1iWf8QO_hjdtc7fqLrPXoPS28EKaCLDJv9_E38u0DrE0vxC6JK11cKCA4otfyQiDGeMkgJhJuTHskcEfNTFXvkKhR1DMbaKg_8N_YrGf5YiABQzyJsFt4cRVg8dtzuEaEoJ0RlId-PDt-bWBEdT-muS7IrWbe7n1lKUtyJOH_-zOnya40CHdbKMNHM_1SzIhPdi3VJCo8a95TRlhxs_29SxKP5PJl08-xC5L5oZgMRPq1ti8fnEuDdrAwj9EnEWbLxYBMH3TFYTgyiYER-ScH7jlGSUY6zkXL-cnHIDBYfdSny_d8SQTv",
+      "width": 4624
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116483794164336229874\">Ant Wirjoprawiro</a>"
+      ],
+      "photo_reference": "ATKogpcKP6QuE_2Pn5Te-Dqx-Iv9Iirl_L4KvtujFWV5CzSY-qaAHuwKmi3h9zF73hPionbFUTKsEWqf_fnjShtyqr7KEXqSB2vTyy-1sTkurbxyfhgOht5ZYz_Tq_WoNgEHiSXe85AGTNgA2woJ6Fx7WuQVvWExBpiLDKJ9TuvK3k8cUtZfmS9rW3y4DFx7huv-MnkNA3lri2vUBn_LePB796gtaZuq1Y3d-yKT_J5AEAcdf4ESShwkJttvP-JrMMmhfNjbbCQ0g-27i6JW76T_2_OJcUzwjJnV-ty3VE-XmZK7QHa777901mRfam7_8dq6j9b7tr9nbyfn16krepevjqfjjSb9raxEXDbhUHTpeCwWgUS2PKN_ft67I0h2B8DYrpFDV-YzH5DoJpz226Q5oy4bew1W1C-faE4-alNY8-U",
+      "width": 3024
+    },
+    {
+      "height": 823,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117707868198276745538\">Julia Amarin</a>"
+      ],
+      "photo_reference": "ATKogpf-_AQlOlm_ovAKriafomE-_U2yWZ-rAxOmzOOB5veZ1trcYlAJ1GmSeVetmZfXjA7sAaBogyrkfxS-hiRdStgbBk10Okin3h9dZa5kvC-Yo0_1XUYvTlRRI2lbt26vrY9aMgl_GTpFMv0q7YMcskclGmLj6gnAHjM_Nb2HZ2qxHc3QWETX4O58L9P19OKRGUkdDXu3Nkp3ZM12QsOL-e6uIVvgkhBHVIDRfKluuyBvC7PE5StgMW74WsA8qBx0cwoPP6pWuwagAEeB2iljReOiPV8DPf21-I8tPy6ZAhxqXn93VEmsGWCuDduyu2uvyvd2t015tvGB21WOR86fSLfzh8J-6HQ5XuvLwSmGLCEBec5KxpbX4atWXo6800wJoffsQT5Q_lYQa1rKC_LoJacwpsMi8qJnVPLdXc4XTF845Io",
+      "width": 828
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105712047404341799053\">Wei Huang</a>"
+      ],
+      "photo_reference": "ATKogpcYOMeUvwJSYq1UOT9RvfNuXLe5kRll0V4XmpMe46rXntpbOeiUfrirrXUERjhSeCTp7TC0Wof-XHmDGdWlrzecDLv2jmYS6nNBlNplkERb6YGwMJqQxJNXvODLqfAnMPoxlMfzci81dnFmUgnl49jmVpLgArZEB3jpeyAI5bLbMpMNhgdaQZMytJxU77Trm6yHsANvKOP4fJ64tadzZYCw4y_URAfSEjdLg5IdE8jq3y5LvIWWLbDrl8Po4FNbq7zSQbFwSn1dE-eqcyj62uwTrZYRWuZw692VmFiXcliHktr__FeWbjqLe3P716JfSPi1Cv8UGyOyMazcMofGLVnBRIzlv3E_oY6BTrwjPPJ4_AsYyVvoVvqayubo4BB6y6rq6SubMFB6QqsMe8_EKtHxlZ_G6JMONwrqT1eErsnNlw",
+      "width": 3617
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104724097943836795185\">Khoi Pham</a>"
+      ],
+      "photo_reference": "ATKogpfIE71JA5d0fbvCHsj72SNldT1EmoVpsgrOAzU9xkZVRqY_jfFiZfqFoPBRBzcQHYkyfoRp3_9rXCmvuIBWmAg-KV9DEyhZBpDe9V2L0urNlXXul79C_k_xJw68DUcJ4xEPEvFXpP1CI__42l8NDIkKuaJrB_TIMsJuycCtRmgsfc5UF3SkhFV-FcyRl6Pfe6cTMSshpCaHcQ67AOnOrULayW7T01dhuUvy57Wk0io-Y7Zo98W0saFogfNcelVLJXNEOVdpA7N-RkOWWB643yvcaXSlMiR4E7vGIBbRvkrwow6VL4BwyXF-6CDVHAKTPVDgetu01aGQo3bkLxkRzhnX2B2csNaqrajnZuIpBgCgMYvpOfKgmwC9j9NsbJB66nVKCoxZczhN3H3QkiP4Np818zyZ2EOHjT1MYWwbDLOH57s",
+      "width": 3024
+    },
+    {
+      "height": 4312,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110906968743352289777\">Michelle Lin</a>"
+      ],
+      "photo_reference": "ATKogpdsziFwoRIKk-V8PzYSylYiXnTIfMfPcpeEYDQ5zIBmJfpRlHfLrZAYXJZNPw7DYRrjo5vESlKVJdPrk7SCsJjdc0TdE2QmkT6ucjAwBvjOv_7pePdbKGhWJnuifWQeXmmrr8oJrkzvVoIEDTFu-9jmZQV6kjTJAA5iVBvBu_LLGekEcFQdlX2D7PIgG8A4IYIlBLOn9Rv7D0lgSkyw6uHUqDqOVeMfPkeJsG3hDJrXIzM6G7t5LwZkHvrpyFEi20abwLmjc4m83m4CeXrkEHxXXIIRo3e8gphH-jOv3feCCnxd2A7AGTt3Cd9d7COtsHDFGu1fONs75uTW2iVnbUd7vDveOZEADrebWdFbTOnvy-sTHjEodGnNeJO31406s0NwHEALPm_kvT-IAsYDuxwzpr2EaL3mXl9nDnOjkxrXdzS-",
+      "width": 3510
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104724097943836795185\">Khoi Pham</a>"
+      ],
+      "photo_reference": "ATKogpevcjc6seGT6r9WEAXMHmPklz2Z02vaV8hOhww00vzoqeshZd1bigh7vTfMBn_lJigX1p6asWvnS1thz76d9mlpPjap-BPXscMj8j0nqoYJNKncMSrTc3byzYMRZEywdriKgADM4SqjouoFhCO-Lf51Jjb4ILKlY1Vh1Jmq7AKCDA9LyuDo-H-M9IxTGOXHnu90msLUphO40Ar8eb5MgF684iX-H2rLfi-kXvEcphPH74Bz1UVSdvLDMeYWAOYT2q0DeefryhR0Rrj7JaIWZy-yCuw-H0JivP7IJq_dCFV2EfTLAqtLnyVQq6Qhg8C4RYEIWQa6B678inu9R8qcukKU8RXqiaI-8EoxwKSJv78bG9Z-61iZ-v30SwfRoKAmAEpCsiY4dZBwd5VJM4W01Q1CwWUWHmmnmmy_7tJrM8o",
+      "width": 3024
+    },
+    {
+      "height": 2730,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101445710678453235846\">ad hoc : cafe</a>"
+      ],
+      "photo_reference": "ATKogpcP6CprXsRO5zNDDxoJNbCWNZ2ojmAZX7g2jep6Tp0HzjiewhAXi2vvtChNkXV74-JPC9Mr2je-5moGH-nwuZP-D4S9T7K5qTLTyWWlprECEc1P-ela_vZbkyvbAwEUfDfPgMAiThcgwzA2LrQ1GVJJQEdxz98ZqpiwvQebjXn9JScAYIY82kkIT803RQ-2CWKXX9XBNzVksHEL7XGhItYOJgMugTFG6VeXTBqyMIS2BYtqyhLFg8VT4dgp7hHORsLRUiTuSclYYvbExzWuOtGI5eozPBIAklBmW22iO-UjDg",
+      "width": 2730
+    }
+  ],
+  "place_id": "ChIJNUwuoJZZwokR-ngPjYTmepc",
+  "plus_code": {
+    "compound_code": "PXMX+JR New York, NY, USA",
+    "global_code": "87G7PXMX+JR"
+  },
+  "rating": 4.5,
+  "reference": "ChIJNUwuoJZZwokR-ngPjYTmepc",
+  "reviews": [
+    {
+      "author_name": "Wei Huang",
+      "author_url": "https://www.google.com/maps/contrib/105712047404341799053/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVI8O_gLN7ce_X6-wDe5dUUaFdSUwi5gMmkxknc9lKmgK9ya8bK=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "This is a vintage-style caf\u00e9 \u2615\ufe0f tucked away underground in New York\u2019s West Village. If you walk by without paying attention to the small sign, you might miss it.\n\nThe words \u201cfood for the soul\u201d at the entrance caught my attention. I wondered if this place might have something that really fits my taste.\n\nThe name \u201cAd Hoc\u201d is also interesting. In the IT world, it usually means something temporary, but here it feels more like something that belongs to the present moment. I can imagine the space changing over time, which gives it a relaxed and flexible feeling.\n\nWhen I walked in, I saw four staff members \ud83d\udc68\ud83d\udc68\ud83d\udc69\ud83d\udc69 working. The space felt like a private study or reading room, filled with sofas \ud83d\udecb\ufe0f, old tables and chairs, books \ud83d\udcda, magazines, and newspapers \ud83d\udcf0. The atmosphere was warm and comfortable.\n\nThe coffee beans they were using today were called Eclipse, from a well-known brand called Onyx Coffee Lab. The flavor notes were baker\u2019s chocolate \ud83c\udf6b, burnt sugar, and smoked vanilla bean.\n\nI ordered a hot oat milk latte because I wanted to see what kind of latte art they would make. It came in a thick white ceramic cup, and the top had a neat leaf-shaped pattern. I believe the powder on top was a mix of cocoa and chocolate, because I could really taste the rich chocolate flavor and smell the cocoa. The sweetness was just right. The drink cost $7.62 with tax, and I think it was well worth it.",
+      "time": 1749438299,
+      "translated": false
+    },
+    {
+      "author_name": "Haley Popovich",
+      "author_url": "https://www.google.com/maps/contrib/114572928931652338858/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFyCe0bvvjhPllPaQkPeQqCKFKRB7KChyM08BZRmycw5ksEg5fSw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Fantastic coffee!! The barista made me a delicious dark roast cortado and the espresso was dialed in perfectly! He was also very knowledgeable about the history\nof coffee and shared some interesting facts with me. He recommended the burrata and apricot plate to my boyfriend, it was divine! Such a charming cafe. Thank you, Kamryn!",
+      "time": 1742411004,
+      "translated": false
+    },
+    {
+      "author_name": "Mollie Yarsike",
+      "author_url": "https://www.google.com/maps/contrib/113882306378726822851/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU04i-COsuE9XOZbsgc6RuzGPWNy1lgXt_FhJCfjtJv9hiReFEt=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "3 weeks ago",
+      "text": "Horrible matcha latte. Tastes like milk with a drop of grass. No flavor whatsoever. Ordered a Macadamia nut matcha latte for eight dollars. Took two sips and threw out. Not the most friendly staff. I said use the milk you recommend- they couldn\u2019t provide an answer. Cute spot and I\u2019m sure the coffee is good but don\u2019t come here for matcha",
+      "time": 1749317643,
+      "translated": false
+    },
+    {
+      "author_name": "Selina L",
+      "author_url": "https://www.google.com/maps/contrib/100090348669597925641/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXY5LVT7-uibP60abWm51Lnd8Mw27UYwZLGbEhI-91O2fYA6fzM=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "I saved this place to visit because I was intrigued by its underground structure, and I finally stopped by last weekend. Unfortunately, the kitchen had closed by the time I arrived, so I ordered a matcha made with water.\n\nThe cozy decor and friendly staff made for a nice experience, and I enjoyed the rich matcha while I was there. I\u2019ll definitely come back the next time I'm in the area!",
+      "time": 1727124383,
+      "translated": false
+    },
+    {
+      "author_name": "Khoi Pham",
+      "author_url": "https://www.google.com/maps/contrib/104724097943836795185/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3Dc8QVwAYF_rZSlR5f98ZG3U3qZNZbv8AH3RVHDgdQ65V2Z7l3A=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "Small cafe but big vibes. Cozy basement spot to sit down and unwind. There were a few people just reading or doing some work. Friendly staff. Good coffee.",
+      "time": 1730563628,
+      "translated": false
+    }
+  ],
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "point_of_interest",
+    "store",
+    "cafe",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10915290103862491386",
+  "user_ratings_total": 318,
+  "utc_offset": -240,
+  "vicinity": "13 Christopher St, New York",
+  "website": "http://www.adhoccollective.com/"
+}

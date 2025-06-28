@@ -1,0 +1,446 @@
+{
+  "address_components": [
+    {
+      "long_name": "74-15",
+      "short_name": "74-15",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Roosevelt Avenue",
+      "short_name": "Roosevelt Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Jackson Heights",
+      "short_name": "Jackson Heights",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11372",
+      "short_name": "11372",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">74-15 Roosevelt Ave</span>, <span class=\"locality\">Jackson Heights</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11372</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 8:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u200910:30\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "74-15 Roosevelt Ave, Jackson Heights, NY 11372, USA",
+  "formatted_phone_number": "(917) 745-0533",
+  "geometry": {
+    "location": {
+      "lat": 40.7471014,
+      "lng": -73.8909012
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7485587802915,
+        "lng": -73.8895281197085
+      },
+      "southwest": {
+        "lat": 40.7458608197085,
+        "lng": -73.89222608029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 917-745-0533",
+  "name": "Nepali Bhanchha Ghar",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 8:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u200910:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112706005201409886139\">Nepali Bhanchha Ghar</a>"
+      ],
+      "photo_reference": "ATKogpc-497hSdTF0TGESyLylNa11-B9__cB0YCQMJ11BdLpneV4X-mdiHFYdEl3RWTmj62y2ybbVKcd2b0f8EQs2fmVcs7HwkbQCJfS2H-2TX9_RCx4mQ7_tXunXs7R-018VNCdVI4BDdRQKXytycZ7qs0-docUj6ttPkUlr0y5_wDf081WJF9-lwzB4GmB2OqbME_sbh3lxASDEJ4JTPWoRyJe-dHjefEqr7fB_UvWPEJjeqQsWArCcI-DGVaJxmNZApkMdKOXk_Gy_trYpml0yQCP2SqCG_402ub_UJ_oc_zjkg",
+      "width": 800
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107192946440648306133\">Jia Sun</a>"
+      ],
+      "photo_reference": "ATKogpeZzUFOf-_TgVQG6FBBtv1NsrNQqhtTJ7PX1E5UFp7TK0eKOM9CxbQCt6IApLcqLLqJaBUqbHkFl7A28PzGC96Uu11pjMC0s4SaSJgPJvsR7nE85sXw0P5kfvPoD7popuOyfIVrWoy-CkQSBkQLk8pXIUVouGUBUpvVWH5uV6SU1BrSLuDGgLQnAKvoU8joNy7Tca0NW7GgBlMKcd0FLZOy0DeVstmywmhDbIThzWW7bqmYWGHckI63R9LhtR26mPCQGwfKq1lLFes6KL9XPwFv9xx9JFEyU3mAS4QHwYoFguejFxYMduBYpkt9goFxQGP5OABwidu9E8zguSgcac3uHp2h0Z96OQ7Tv39fGwFZKwhQK4MxhlJruXZRGExX_Pq-9RjU8ySR3XSI5d2LkcahjCSU4-eC3fiWmjoP65kDUws28_CbsiopZmHNTg",
+      "width": 4032
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102249249154296723543\">JK Ames</a>"
+      ],
+      "photo_reference": "ATKogpeS3Lcp4Zmf_vthmRHiuidyi7b6UnJ55wKVVXfJ_rDCW08y-lXx-X-wVkJc5bkJLSjA3Mjug0iqXnLcn7VL4vex6MR0rg1VY-m_sbRvURvH2hZRPA4PPu4_pBRJDzKrZCSFVcrUg4KNLH2gs0SMWd1DeNV6iNgzvIBl2Y9UdH7wuyBl3MOzZuvzg86ix0_mbGW0SV4DpbffArnWDJMiITLuAqp_bTY_w6E69oaaaIDDtVDbcsR9_jYpLj7hBpifL0B-ZDoltRKCq7LqjXsaczPhWfzIhNUo9AFY8aRzwOeP32muXIIhG6uT30rxOvy5gp2yQiEYdrqTASnSIBmA4bxdwVyf6DHyLrWpNFD_dTsk47j1ROntogfWmQBxRY2DQCzeW3i2HmkMiJYO9ACWhqwUsPCpr3Phvfum0YY8SUpLvsw",
+      "width": 4032
+    },
+    {
+      "height": 399,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112706005201409886139\">Nepali Bhanchha Ghar</a>"
+      ],
+      "photo_reference": "ATKogpd0UgTNwClnzEBklhpBltOJxGmn4KwPyoNLFokktfbd_fL68zm-NgnzPehca9T7AkUAxbF505isJ9wdA-IdYwC3Gajai3_2zP-KbUb8PmDeAi85J8xtFPSCQV98AhQ0MRYQ5Gf1FpM5KwkNLB7-FLJD3JoctedMK1oP9GJPxPJSdJ1d-F2PnTKkdtn3okXWaA3ng8jHDpgO9ezJ8VGY-vjT8y_JVoNuu2vVD8t7NTs4jHt9dqx7I93ca_cPOoaJ74ahDBN_9zSqQGo8YxH9UZwFoeaJyeVKlJn03TM4mYm9Cg",
+      "width": 1500
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107192946440648306133\">Jia Sun</a>"
+      ],
+      "photo_reference": "ATKogpdKhHSiFaFNuXjjigHmvsIuIUfR_SAjUMmZO6APN5hg3b49Caz4_NCticyRy-cCiTWgv49oDmXg_FZlZssXYfJmEwxpEjKQP_gMIHE6W4saWFG4-MS9zqOiLTm40JXjq43cji2B9dEKdJZUM2LcN2D5rq6rcXEkL7GM48nzOp1uXALfQ0XzYFGpD52VXTzORYsXW5Dzo4qt0ztPV_rR0YOcNubEkIRFq3OZHUTaVeRWQ3Wy0t4eCpAGAwv82fw8hRzQHpFikjA_GzW7to5NqQy9oc004s6nlC38WjVqFM_CZ8VgoS0-sLhMtmf5Xi98NdQLCVOHfG01Y8aYjwxzJOHeDE4ZmUEFarCpVOdF9go0uhMNzHyGt2O147ztjdJRBXLyq5yn7oGJ7MYz43zByS8xOf3e_agXszAQQ-Rv6coCSEaX_Gs1EBaZEbLZ7I9o",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116508613387585310062\">Shachar Ashkenazi</a>"
+      ],
+      "photo_reference": "ATKogpe7aOnFB7AIKIQ1jCrrzr_3qnFaPFQgKrgUumacwBUDFf6R_0mcDK0ud-plSub9aeNgBE1cs-GEhzZGLccQjPiwrldZgd7crLjaBcQS7wIGE3NKjiF7TIym4_AtdhkkXw-OoSB9-waarznMQPA2hVteWuuPa-kgZuBGP6nhJemmUsfBzSWt-17zEVaE4T3S6m-ZuzBZE26n-dKmjCS85-cpwK9vQMgKgzT69_F_lFA79D4Smx6_G1ul3bvBhgL9y08py5o5bPbJJGyMgMIQ3ZCcYbg0Tggp7M65ZN6zOTryTTBJE-jsEGVvQC3ES1XBJpwFiEkBwqHsLr291Jrd5kgWqXwWqQ0Uudf_MLwWG0yh5qwrS55wIh74FiEJvohpxxaWYsiP70F6AGlYjcyCsqUUFcL21tkqBi4NvpIfYijZdKcv",
+      "width": 3024
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111618327666648786673\">Bryce Villanueva</a>"
+      ],
+      "photo_reference": "ATKogpeNXX28UOt_OfDZdwsUmyWyYMOcKFeeXvn0iQrhXEflKzGpzCaJ9s98VHzobA8-cLP2Dx8_oNwDFD5ds3Cdg60pufOYEaVqRt3GOXgEyUhd-sE1Ef6n9HVMCXK537pN82VKKpHVPPEXe_wl5RuMTGfmv0IBVax2oBjahFyNcd41GpuQsD6alhQLdflTgR-GflTHksFYaw2waWeE2i-KNntedtq1MSBnFzFDas7ojwu8vQ_jl1czN3QBUdwHygp_VVEUXie4_fSzu-chPc187yWJ5mdrgnoVK0ImfoZHplHRHegBU86wLnzyjtfGj4-yrrIH24OokLVJZrql0FdBKqK6CNXuBvKketArq3sUmg20licDzjXolU7GDiEu86_ZkCzzSqi7_lmec8S6nnPRDSACQoCfLwC-KteL7JBpsB8TmA",
+      "width": 4032
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107969449958100749710\">Neelim Novo</a>"
+      ],
+      "photo_reference": "ATKogpcnxn8FJqy98DzDuKmsQwkilYlCjHH8-IblrGT6v030xUjvqgYmj_Uqzowf9pFGkJig6Ya8bgxGTIifmlcaOf0Up_ZV0F1cYCJwvyKmTp7ywrA_g981yWmUd3oL-vwvwDrZ1puqwGijZFsGq92DE9mul0QAFad55CRynZPgQrcY6Fuf9SH6q7eWHcdDWxzdgrZOpDHfM02htc8ziQIUdPG_4Ed6kzIWfag3gjanC9mjrxknR_Q4wO9r9NL5YJu_SurfE4jhV1DgxRcxSK2E6qJz0IXRyFfV4ghRURk-y57qj1w-aH_DjP4tp-86Nqw9e-Hm2swsOt6e57-GKd7xP8DiTsFcI6fyDECK5B-k5TOTEBR_bL_zV62YSS7X-JqlluL1F2QH7VVuXykBnsdgdt3RSXJNQEjnol9JhJx5aq2SkQ",
+      "width": 4000
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108913227015322775503\">Dale Saari</a>"
+      ],
+      "photo_reference": "ATKogpdBkym_ImcASvQ7ngA9ERj7frxCRtLtxAo6SnVV7VYvwQC6YZlA87Ae3k1KZqWG-IrFLEuus3raroNcHlONd6p4B6W1dMg9ewiMoB8NLRZuFyynfOhwsy-hJ37hVR6jth8Jkb-z_TAoGkTZvUcOQSPs0hIPAOuETdql-vo-6B1EiTs3BMUztk8MwMSjbMMh5LW043q1kTZJq28KSyYoyAMweWgEcR3qXfF4RKWIH0zmgfnrCTifHFlqCgu36Y-xnTlm1wVpoGbn5QMy6nKCecMbbffTutdd_sQ2zB0IZFzStZFdt2irt2wtCwumRrM2u1XBsFwwTclIn2aKqiqKzkbWgN3jSOZ1LXm7uRvxFIQYhUI-y6gwSnU0Ee_Kw_PcAJb9T0xh7bbKHNG1iWuZ2SWfQtTzQ84dtZTDjA_DHKc",
+      "width": 4000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104724097943836795185\">Khoi Pham</a>"
+      ],
+      "photo_reference": "ATKogpd0BzyPyvvQccE2wSeJdUfiGcFMuS1JUiy0jUv6ouX5dySkxMQdiufeW9Fy2OR_i7MRzAPe-fhFYoZ85-dVdMp0CPhxQ1_wFXnC3HZoeTtF8ZL-UEow2dFO9MsF2KI32DPQynZYUSBP2FsehsUGXTDG46RIA_SwXbndepOBThFpTPOTcQJxKVz5oxrGbqXg0Ju3Jotk9CkD2DimkRkjXHSATYATtZGDzo7h84zxfuLYjahlAdEJJtjn0TYsYRUU5M-Be4wRznZ68UKtE8UNXiZYI5mF-bLoSyNxEAQPkku4vIVjTcTjnTyAfRt2e9-hoslctpzQyj5lBliowP3ois7PSwcEHPzIjlV3kv2616Gob3t8cKRdloC-ozqie5OzZErYUePQ89FlO4yXSmNXBnk_Z4QgvTG9mxkD9AqKGeQ-ZT3_",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJd06GLQdfwokRQunm5arxBcM",
+  "plus_code": {
+    "compound_code": "P4W5+RJ Jackson Heights, Queens, NY, USA",
+    "global_code": "87G8P4W5+RJ"
+  },
+  "price_level": 1,
+  "rating": 3.9,
+  "reference": "ChIJd06GLQdfwokRQunm5arxBcM",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Manjeet Dhakal",
+      "author_url": "https://www.google.com/maps/contrib/101672119058426896257/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVtQw2t4Pp-z8k8wHcK0Y1GVheuT7V3yxD3Cfb1_pF5cI3Vl5-p=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Authentic Nepali food that feels like home!\n\nWe had a wonderful time at Nepali Bhanchha Ghar. The food was delicious and truly the taste of Nepal. What stood out the most was the warm hospitality of the owner, Bimala Hamal Shrestha didi, who is like a guardian for everyone\u2014especially for the Nepali community. Her dedication to social work is admirable.\n\nHighly recommend this place for anyone looking to enjoy authentic Nepali cuisine in a homely atmosphere!",
+      "time": 1743849527,
+      "translated": false
+    },
+    {
+      "author_name": "Neha Vl",
+      "author_url": "https://www.google.com/maps/contrib/104137726274158735863/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrhG23VSvhgIh81lXQk-aeF2kUB1MTPZb15tzZ5MO0ia5McmTgOQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "We loved the food here! We tried the unique fried Sel Roti and paneer jhol momos. Both dishes tasted amazing and portion size is really big for the price. Will definitely come back to try more dishes. The restaurant is located right outside the subway station.",
+      "time": 1749924327,
+      "translated": false
+    },
+    {
+      "author_name": "Ann Powers",
+      "author_url": "https://www.google.com/maps/contrib/114615067154281103417/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUy-fYt_bSmJPXrTzEngIzcS-TlJhEAToRrqgyKoIXw8ysQGwAGpg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "This repeat momo crawl winner lived up to the hype! We came for a late lunch and we had 4 dishes that were all superb. Service is friendly and attentive. The vibe is relaxed\u2026 we felt like we had been transported to Nepal. We will be returning!!",
+      "time": 1749671936,
+      "translated": false
+    },
+    {
+      "author_name": "Jia Sun",
+      "author_url": "https://www.google.com/maps/contrib/107192946440648306133/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_ZDAj2fUkT-qCYvae5R1ZEMwRzwy7_xz_Nbd_De5aQC6YdLWW=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "a week ago",
+      "text": "Multi year winner of best momo in Jackson Heights. This unassuming restaurant offers a varierty of healthy and inexpensive set platters.",
+      "time": 1750331873,
+      "translated": false
+    },
+    {
+      "author_name": "Roopa Ghale",
+      "author_url": "https://www.google.com/maps/contrib/116507349424493514242/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVY4KfaD6kk93Pzp3LwOdJo_Kfcji9ymRAZzDiSVyXgcS2yZiQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "a week ago",
+      "text": "I heard a lot about this restaurant. I had high expectations which turned out delicious momo 100% satisfaction.\nIt was a short trip from LA to Jackson Ht. This place has a vibe as if you are in eastern part of Nepal. Friendly and funny ambience.\n\nThis place is legit soooooo bomb for momo. Completely forgot to take all pictures of food which we had.\nWe also had cellroti which was super delicious but I didn\u2019t like seto keraw tarkari. It was minus point for that. It was blend and tasteless.\n\nI was really amazed and shocked when we got billed, sooooo low-priced reasonable, it got into my head how owner would be managing with rent, great food and employees. Hats off!\n\nI highly recommend this place.",
+      "time": 1750203507,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "food",
+    "restaurant",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=14052903928583350594",
+  "user_ratings_total": 939,
+  "utc_offset": -240,
+  "vicinity": "74-15 Roosevelt Ave, Jackson Heights",
+  "website": "https://www.bhanchhagharny.com/"
+}

@@ -1,0 +1,574 @@
+{
+  "address_components": [
+    {
+      "long_name": "20",
+      "short_name": "20",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "7th Avenue South",
+      "short_name": "7th Ave S",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10014",
+      "short_name": "10014",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">20 7th Ave S</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10014</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0300"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0000",
+          "truncated": true
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 6:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Tuesday: 6:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Wednesday: 6:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Thursday: 6:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
+      "Friday: 6:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
+      "Saturday: 6:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
+      "Sunday: 6:00\u202fPM\u2009\u2013\u200912:00\u202fAM"
+    ]
+  },
+  "delivery": false,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Underground den of mixology featuring a vast menu of handcrafted cocktails in a snug space."
+  },
+  "formatted_address": "20 7th Ave S, New York, NY 10014, USA",
+  "formatted_phone_number": "(212) 929-4360",
+  "geometry": {
+    "location": {
+      "lat": 40.730118,
+      "lng": -74.0050449
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7314335302915,
+        "lng": -74.00361156970851
+      },
+      "southwest": {
+        "lat": 40.7287355697085,
+        "lng": -74.00630953029152
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+  "international_phone_number": "+1 212-929-4360",
+  "name": "Little Branch",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "day": 0,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 6:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Tuesday: 6:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Wednesday: 6:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Thursday: 6:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
+      "Friday: 6:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
+      "Saturday: 6:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
+      "Sunday: 6:00\u202fPM\u2009\u2013\u200912:00\u202fAM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111534152304979838400\">Karen Rowe</a>"
+      ],
+      "photo_reference": "ATKogpdYHoYUaw_dYIjpqhWVN0ux19CJlyRLTn3wzrzhrK1u_Poqcfo_r-2ggB71VYrpu5woJA-XYGPtfPFUMTDObe0BKxCrVYtR1zllLtCoskPJOn35vE70e-WFNABvcssDOokiBYfkvuyB2zoT3r4VxEelMI2rVcT2JJ6nG6TLVsfrfewmT8SqcnxDzLDQ3Qo4gsnhw_vjkHVoMApCFW23dBuhHssfueexped1D50b7jk4B2Lx9THmWeU253NanAgaFcByFgcSg5mQ13tT1VeYeipqUpbunb5Z961IkSvQGEKzQ5svyewrLwdqskWRUFigux7lqnHCT9TQA9vqdAwKUwn-en9IUX6f1_io77vO4qS87UJx07B1fLh-SFlrHj-jkYO1gJFPrCqy24mNi3bfEz_ufbyv9HkAgG_j8AvBsx0RHA1y",
+      "width": 3024
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111342260806257660598\">LB</a>"
+      ],
+      "photo_reference": "ATKogpd00YxHENxZisW_GXZC41PnrQuSvPgDZY3WPvp70ZjmF0wVjPH4XpYQqMcJIenylVRB1n78PM3SxVHG8uQPmG1pHHFeK_UyiXWJc1GzIhw9DH-SyUd1b9tf-89UCRmYVgFbn5AEDtUJmkR1YVdHXzsTl77kHeoOqy-KiHwHm3IPa-0EhfwAFyzwkqy2Dsy_9Ep_5mUnBIEyE0_I9yr64Rkz46InMJPrxT74VlCVXINPk1WMtVAqo0Jk-c8mXLZHgww-Gpz2Fz1ZFGEURTCuJ4Wd8RGrHVY17IfO4wWFkBJw1Q",
+      "width": 4800
+    },
+    {
+      "height": 810,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111342260806257660598\">LB</a>"
+      ],
+      "photo_reference": "ATKogpdFpYSa-1SMh0f41_TjUGvKIMy1M6MDIACJ28WRng2DheJYsCCkQ0SWBgSGpuDR1edjoa86B-A_1j_HDhBr9m3e8oY03miu54z0ZgseKt3gS8A7-2NPfPOIpOAxBOX2rPy_Vqyfc1WEYebTHdLRIpmallUaMbW69RMj7wEJYGEiT1zOIY90yN8WsC28AtidmNJS02YDdK36x82c2qq2v5SKxE_XjK_Y-PWQLbU10Gl92JfHX5S2C7Jj6o1TBqEeeQFH1_JKE_WbO-fEotRuT9Q0Cky1kiJ7Nt_qRGuaY68BAg",
+      "width": 1440
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109984118790636941152\">Santos Shetty</a>"
+      ],
+      "photo_reference": "ATKogpcb-rNWELpT4X87HVOK0ChQcrvsr_2sZCV5i99wGHyDEnnlnbzGSA7DmqbQW6m6_vavT1hLc9LvLKr5AInAIByDWsRHsjMsM1Nyy2GtLocD2FIQJScLEaAsTqYECmYDB87TeEusSsic_jYtg7StY_rN8qqgvZyyDsFynWC0K2V1zHn1rZvqr_n5rlPPVkUHQoiLgW1GgEerpVMq-HmRiazcxOxKfjWpyCbusX87eQsRWahyuHsezq93Mx4WY9kYIyuBI2gSIKanZgVfyCWj9p4U9AwjVFCFOXNRKrb_E54TlCtbZH7snCT-j9LaEq7VXxrSVIJQQkXn6ZpujjKVReR2MzVravar1JdyF-P4rIVlICMn--MSJxZRsggoW5hfLdOBc1RiPcvvNOzuiOIWAa0K_otiKdCNfIpbfsBLKkBZIHltsqIlgU51eD9rnXJS",
+      "width": 3024
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115029898531195404830\">Chellez Marie</a>"
+      ],
+      "photo_reference": "ATKogpeAJq2KfQZ75jph8IeGXrbl8t_KzLRDZseoh9l7NWdyCnap3ehDB22anD8WZCt_4xYSdP0z3LLMRya_l2h8Wf5xV9SmCp8RlT7yJYmvbJdtrJPvNpZpWXVNIEN53JSW-jvpD5rBGxBr_8t812qFJVC6midgDXCyVu6RsdS5lTkGdy4OQukJcJoSQHU1uxzC5F7oTmfs_UxEX8isu9NnLJUp6Oeu3FGxPZ5RiKsfbnsQJJTR_F0oSK50oA--MFLNf5zCEj9STxUoovIFcPVoeTRkuzSfe6F-5yBpwhIABUQwAZo2t13XzHUhI7ZF7hHA3yrT8AshuLvL2MnhKX6KTUpmry1go2YEjpCalwtKkrBNJwGmOxNeTSSciZchvJGaxQdy5biSE4UR9OI7FRMXlxYZCfsu0WUw93KnEpwv4O5Np2nJcdftyEIr26ch6wDa",
+      "width": 3000
+    },
+    {
+      "height": 1800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102059715410282193389\">Ken Wong</a>"
+      ],
+      "photo_reference": "ATKogpceIOw7Xl18IEA5Ncu1dMECJLlekL22S2yjplpkFPvRCr0_nrp-Ocu41TIwquQnkHCT3kb-zUVqIKaYSYhL0R6kk8I35lm7xUEmR_2Xq5UZHNw7cxtwEKVofA1pJhTOLedvGPzZMmZ8Y1TtpRMSe3baQbkQfZOXIvN1EOSLCE4m9tr8of602ISPze_knWEvDXaoN6KXfCC7ERgD3RseEolGTTdc3FRQQtGyutD1ikdQyVwFAUNtJF9S78DVY9s1kbG4BukMXWjqLPtn5Z07Ncniv_mBKXbZ8AZak9rXabPKLvt-YkY_vqZ9oXEaLagOlPUwBtXnBwkkCSwWgPy0hBtUsbmEhkZofJ7roUTMBjsB0_tBijKXhweTv0pOdGFnH7bEagTHYMotFnQ6glO3hvprfsjObNwbQEP9fHcyIX6VgxLy",
+      "width": 1440
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102232873141448050701\">Yi Yang</a>"
+      ],
+      "photo_reference": "ATKogpe_a1XbntbxJKVRoP4JaPVXvfTS0gvdzSYoEj0DMfhPQsIs_DRwiJuL43Y3YV2UNsLC3SF73u1bX6BbqaPdqhgGIfjgxFQosMLWSvayFDBSHIFIO1Y52hQKQVLoUHeVIluPTi_W9axadofwkI3O_eNBe7JqfvZA6Zb6qwVxNzK-bZ3cLvBQtftW03C4887Pro0FCPIezemqBxHOkwgaKnpZIm5SoF5SB8jnla7FGSixksg0Fz9K3e4HRKFIlzxSJt3Z90tZ1r0qQc8BYvntY1uNV5KvEFvj6pp9bw6qD4-TcXFNvdex0UPZDGcGQle7I9Fuy_yTdR83hXbcd4PR_jQxQq3c9ghnxaUqlfirBRytV8u3rHuKIdI-Ufq52YnfgPSqbI8Oo4Jdr6kiHolyXnw_vNRU-64v36D1cDYjO_ksKl8S",
+      "width": 3024
+    },
+    {
+      "height": 4624,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107021602212407143486\">Brian Gillespie</a>"
+      ],
+      "photo_reference": "ATKogpdJ7nnNavo7w2_4fVWrMBHEnY8R6Epo9CkmDF_Kw6KFi86ES7jRAi4obRxG9FkEIUEIjODf3-4Zp2SKFxf5kzanYAwYxVx0ucf-rQw-gGHAB65S_DWfInHj5D5gBIM1Gc3-f_-MPUwzfIVZq3Ru1cBaKYrnytdoeKJSJfE8FdzLd4IvQeF3wEjjEOqwVU8Dg0cEP4b76SwVKDsk9ElQcLE9hnAxMDX-2Qo1njo6MDghuJApD79WjHaSVEmmVd_X0hFye6mfbYAu-z3nQWbavC0Bfk4_i71ENRmi9zI9wW_JxQAwMQkQ5Y80DAZpftZvY3WTieMMBeBeyP1WVXxcCz8Kl6JZXzTeI_CxHEwOGfZQnesWWW_SdynUGPgAb5TdRuvEabNWH09Ll24tt-hEAbbVsqImeWPcuKwc1iNXi5L3vw",
+      "width": 3472
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111342260806257660598\">LB</a>"
+      ],
+      "photo_reference": "ATKogpekgfNmeBau25XTODK_t4Uji4QLL3VimeSWjwB2l6b-HNBWuMjZ4fPrdBfoa6wlGofPQPpRKOW91d9yQjbiGpE_RT48ucOnc-Kg60xoCc0wyHzjEgpEm7nR82ChX3o5kBIW3ddNdEVLK3hZjlGQL9pmu2L3Cmj8f6Uct45Hgb8a66-RZKpQshfuvBjkjt8_-kFImgcSGw7sSuH37smES_MCqsDKkrYLFjJsqCefNO4Qm0LxbB5x_lxAToB0Gq_P8MhPERXhEp2kNlO5QQ40mvSugLgqZHKMlHDNxevVgQwlvg",
+      "width": 4800
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116683243249823253926\">Sam Lawes</a>"
+      ],
+      "photo_reference": "ATKogpdVqBE9VY5JdXj6MOcIJxppkvMKLEIBsgJddC3y-htA79zZ7REoZHuOvayQXQWN6N4Nj8MuaA7Hbj5Pjmok5TABY55ukVnoYbDW5DSs1dXneW2OcQZcqYfGdSHM_DtHlTad-BLu6cbAwdlL8b2V4ZihozEDueac2bTbOdm-kWRlrjdL2XMCx1hXU7TUsbppoAp4VTuVeU7v5piLu5OlPC1bh0naamPfahE8Z4WW7K7J1qsTKzQwJ77yJBs3_HmR6bLrNJPbdTidhLCH_UawB-TMaF4Sz9NAJyBT3E43AD83vJ9hnSC6q1R0fBHS58z72kPF_BOSz68gnymYMckrp7RpA5zjPViMX1MS4H-8RCiRfRR8x4TYpWZ4CMoIphk9Qo3wwFkeuDD8TFzaGl6vvE4SLGVBetCDoTxD3Wiw5gnSwp4B",
+      "width": 3000
+    }
+  ],
+  "place_id": "ChIJjY7y6ZJZwokRXF5CA_X4l-I",
+  "plus_code": {
+    "compound_code": "PXJV+2X New York, NY, USA",
+    "global_code": "87G7PXJV+2X"
+  },
+  "price_level": 3,
+  "rating": 4.4,
+  "reference": "ChIJjY7y6ZJZwokRXF5CA_X4l-I",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Betul Karakuzu",
+      "author_url": "https://www.google.com/maps/contrib/110095526587734112494/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbjFD6FT6dwJO_uYhrMvrAJockjizH37pPm4FqgviSk7ZURoHjdg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "a month ago",
+      "text": "The atmosphere and environment was nice. I liked the cocktail. Just don't choose it if you are going on a date with yourself. \ud83d\udc94  I went shortly after the opening that day and there was only one other table occupied. Despite this, I sat on the bar stool. They didn't want me to sit at the table\u2026",
+      "time": 1747189503,
+      "translated": false
+    },
+    {
+      "author_name": "Depa Saha",
+      "author_url": "https://www.google.com/maps/contrib/109891264097505307991/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4SHTBVKqaU-qXgQbi9KutlFHUtMTR3_L8Y48gnV8CFwJLUrrW=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "There was a woman bartender last night. She was absolutely awesome and made the place memorable. She customized me drinks with egg white and my friend customized drinks with whisky.",
+      "time": 1750614593,
+      "translated": false
+    },
+    {
+      "author_name": "Nichole Francois",
+      "author_url": "https://www.google.com/maps/contrib/116226850193937174981/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLo6ZBrg_qUzQ1dILXBaEGvku2ghqtlFiw-j4qxYn9IO_lxkw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Always have the best time at LB! On my birthday, the bartender even made me a special birthday drink! Would give them 10/10. Highly recommend!",
+      "time": 1744670846,
+      "translated": false
+    },
+    {
+      "author_name": "Soubhagya Sagar Behera",
+      "author_url": "https://www.google.com/maps/contrib/101456725725204920821/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUoIEwlgsAKebzb4HwAJUiJ4iQyljkn1UlP0u0UBboUprmFrHM1=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "Read a decade old reddit AMA by the owner of this place and found it when I visited Manhattan. Amazing place. Love the speakeasy. Drinks are fantastic and delicious. Music is not too loud. The space gets a bit loud as people get drunk but then the more alcohol drowns it all out. Kudos to this place.",
+      "time": 1720312115,
+      "translated": false
+    },
+    {
+      "author_name": "Martina Ruseva",
+      "author_url": "https://www.google.com/maps/contrib/109650804599673358678/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyesK4_2M8fzwLhHLC1efmDByyNWLk3bknTemqt48KgF9_kvGw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Came here around 9:30pm on a Friday and was able to get in without a wait. They have a downstairs area, which is louder and more busy and a street level speak easy type of bar that is more intimate and quieter. We were able to get a table at the street level bar and were very happy with the service. If you are looking for non-alcoholic options, they have multiple fresh juices available.",
+      "time": 1716772777,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "0000"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "0100"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "0100"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "0100"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2359",
+            "truncated": true
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1800"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "0000",
+            "truncated": true
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1800"
+          }
+        }
+      ],
+      "type": "ACCESS",
+      "weekday_text": [
+        "Monday: 6:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+        "Tuesday: 6:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+        "Wednesday: 6:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+        "Thursday: 6:00\u202fPM\u2009\u2013\u20092:00\u202fAM",
+        "Friday: 6:00\u202fPM\u2009\u2013\u20092:00\u202fAM",
+        "Saturday: 6:00\u202fPM\u2009\u2013\u20092:00\u202fAM",
+        "Sunday: 6:00\u202fPM\u2009\u2013\u200912:00\u202fAM"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_wine": true,
+  "types": [
+    "point_of_interest",
+    "bar",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16327792705260379740",
+  "user_ratings_total": 863,
+  "utc_offset": -240,
+  "vicinity": "20 7th Ave S, New York",
+  "wheelchair_accessible_entrance": false
+}

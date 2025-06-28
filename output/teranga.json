@@ -1,0 +1,270 @@
+{
+  "address_components": [
+    {
+      "long_name": "1280",
+      "short_name": "1280",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "5th Avenue",
+      "short_name": "5th Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10029",
+      "short_name": "10029",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">1280 5th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10029</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "CLOSED_PERMANENTLY",
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Spacious counter-serve highlighting African cuisine in customizable plates & bowls."
+  },
+  "formatted_address": "1280 5th Ave, New York, NY 10029, USA",
+  "formatted_phone_number": "(332) 910-8138",
+  "geometry": {
+    "location": {
+      "lat": 40.7963946,
+      "lng": -73.94935559999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7977788802915,
+        "lng": -73.94809436970849
+      },
+      "southwest": {
+        "lat": 40.7950809197085,
+        "lng": -73.9507923302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 332-910-8138",
+  "name": "Teranga Cafe",
+  "permanently_closed": true,
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105882763275241162159\">anahita molavi</a>"
+      ],
+      "photo_reference": "ATKogped17_ozJYKaEsPO_A00570HV_Pm2v9hNa_zRsjsQYI0m8UovUP9jnJ8AUBpP_wLtHaP7_BDoQbc5oA5EWx8CtC5R2ZEjzvMixCeYUKlIG2M77IN8TQpPN7Z0etlRagCPIHbBvQ1lRiGjMfefIQEUFk8QeaWY-JdP_RP4_PaXMp2BaoZ6sdXSquLhTGOLvr6U9u5ix6IEZyOJEfMC3qXlCChlmIGcKZeC4bcnPpvAV05-i90Tki_RXGLTCaU1Oa7V_GbLYl6TNQCrob7nA-Zq-GAaTQwFggKVc0UzozS-_2eR2tzyh7XyHupT-imTY0cBwyrlNpbDmyRCOC6AvNalrDvAhHVTuzCqGaU6tAVDX4POIyw9GQdRkHXwIX8irZzT5FHNEFsn9vxuxINA0id8kx5mBLPwlHlu6ud2g8VoFA9FgI",
+      "width": 4032
+    },
+    {
+      "height": 2250,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118183263131678785925\">Teranga Cafe</a>"
+      ],
+      "photo_reference": "ATKogpcq-xct8A975jT4V9v8h2B438GHtpLXFaImVJfweZKCz1rQp-kg7jjv6CwYbunYNt7UJOsSsg4fHITvdP-ZHABLbbzDZh5FXS6f4IA7MzC0WukAbQXEc31rT4Hh6nyginS6aKaMh-_mvy2_9O450iWb05o4wogfsPTebV9Kf94O3n49AbgIY-N_J9Bk7Snf5adTZhNObG66A70-OEqfPGCU7hIfBKUz5VS95uz1_1j2af3dY1ohxsjdvQ25Nh2wVv_UjOQa1oe2gnFTEXygcPFB2hSu3goW-95AoBXeuDsDrw",
+      "width": 3000
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109113566394843272891\">Jeremiah Rothwell</a>"
+      ],
+      "photo_reference": "ATKogpcQBjrSMXmTAwY57d1E_HP_MdJ8a7Sr_rovvFv55onQpdb1npxAyXred9mDS8U25INFqFL456qtdzgn7pGArmINzXWDE6hJ08I9QugnEnyu5voVmiX6Z9FwU4WEpT_VvOD77GQIOJv7w4dok-W1cxVzHpSmOUWhHgrIAp3tsGh7zluw-rSz648KTzMIHqOAlUu-u10VgorSz4hnHykh9TfuqIA_tutCPAvdPxKUgEXGKnAfA-j2oHykAYD9cdn3WMyNH4pWNElE3moY37PkeQOI1bTflFM9K6nO_p7Q5vnMKZ8SZj7dBxoqBxu47vRqLgqEFj97SQimu-BNvSOxOwpqG53ye223dO0gO5rLd3HCQ5VO6sUxXuX7jsYncCQbM5ersAToHNcoskCPYIC7xHzbE-mpXXWj7h8nXCHKrb-8C0e7",
+      "width": 4032
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101433481769385338730\">Aisha</a>"
+      ],
+      "photo_reference": "ATKogpeilpgXYNBxe5YwpOXEWAsu_-AyUgGVBYU28rWbE2FkpTMz8sPRh0wzAJLLbIb1vkNZNlcxgb5u0HVhowMkFlIOusJA7vZnHv4d0oyTPGOj-cyCpvNdpeu6Nd0FBIrp10moMty8o8i6j7X7OWhK9J8x7TSvJlXZLe8ocrFxc-TlO_IkIPJS8hqH9Q1eiYKIIITCem0_kWdAp_2uR_oUkuVltbVLSEPKAprAvEJXbqLUbLtUyI6h-30xcabRuPPZPMfFKIxaOgqQfghenlsnlKMXC81euOClBIlt0XG88PblGScNDrDXWLEAcFE8k3nG630wmLfaf-8XDE513Gdk8MzUAMoTyuyuQtAz-KPtiL0G3oI1ysPrZeKiBC19VmNvVG9KtK2plLWhoCkPJdcyTJdF2jX_HawHKjivCmPeBqq1tpE",
+      "width": 3600
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118183263131678785925\">Teranga Cafe</a>"
+      ],
+      "photo_reference": "ATKogpd0vxI01rYyp69XREZE7dVh-sWALC8j-BDs6PCTIe6Jk0Sjb8tQ-mP_bIfD5evCWly-iyZd1SatdtaKBRfoZzULsTvwg9pk4RcRGb7TVaKO3GOc0uMzP6DCxK29M5M4hJ_25eL_gGxc51CMPPzDTIdYplfWAbjR5a5XMVZF4RCsUc3WA6NXOJgd4X4be5V4fcv9PEWzXEuWgB6P5SNCIGrbeiwqtkIdP4lmJHDwqJPw7xWczRjXzMV9gTmDW8dOfn-l1oLZPSgRYVT_MrHwGw8-oxYngdK7keqcppUG67ystg",
+      "width": 4000
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107087243243237782459\">Richard Rodriguez</a>"
+      ],
+      "photo_reference": "ATKogpd-uTsEVVGTzD9-1mFOAQ_xHUzxuQ27oRp1vOFPdGUYJK8QrdaJg3glGO5KfQBDdKKWG4Q28dCGJeOpko1sTlYmcQ3Jb1Nkplq5uC8zmHatU2kl0OqqtfdpEJHhVbIVyYqmQI-BSkmNt_T27AhdEDKXqz9X2fAg8NiXqsVMEi2FGGQp9mewPEKEjcuHirTgfJVR7OHn9oe5Sina9Pfozk-JjiNeTNJov-GnE1js_y-U2VnnszHVB8nJbwQ2vga21fKvOvjV9ArrHIICnqsFOD5y2svtLpLXSMYuSTAQWHbV-LibEZYXPqyHPQh3quaFgq40Tq0B_37fuoAr1kvloKCh1ZFtrppEo-mqpXi-nZAKwCRUrz8btARpn8guyFZrByHLVLsZqLD_S1RT6rI6UN75ZZLfAFS5ZhAWYgQjWl1yTWRz",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105882763275241162159\">anahita molavi</a>"
+      ],
+      "photo_reference": "ATKogpfBnXy3HNPuwlT5_XUeis2X2d9jE_fPH81B1yoHRF1de-UDeDEkJW7gII_M8bXn_XnE3ycunjrd2JcujYzrAcuYkv-ws_6UorWWh38NK8xyNeX0jghKEsboZEH_1YpGkyRKg1HKkPuFbRjjCYnSkBiteBuZTWZr8v30E-VtWY0fpHuYROqCFjqeX9Z7R8oDMuKZ22dhflPafHEbf0bQz89HfUAI5__5MB_nCczqrI8WQFgBI9zgGtuzYqX6sURGi8skkRqbZ_f4S3kYBl_ecvn4T50x94eMShITfFFYpQ8TwkfnEwOmy3V4Hd1R95-sfbJlwuRnGbBA3x4WIahmT4_NbJ83vpyw6l9z3hLO5NyzrrY3bzyAi-SiqOl6EKJmtEDmxuxGM9ksCGzJ2BMRiXgnBBi3xhi4rZ9Ouh2vkAKxsQ",
+      "width": 4032
+    },
+    {
+      "height": 2745,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114697819153777920963\">Fred L.</a>"
+      ],
+      "photo_reference": "ATKogpcYnfF0HSju3CA7qrsW2wjGeCybQ691BamDI7M7ckJn3hgPCNx5hLuDbiDITAfG3aa8F7yiZQlsM3D-LwJvixnhgC1ktyviMFLnTcwiYFkm_Vnkd7w25ZCNVT4GznuVcuahbgYpuTQMCPGboecnszOYn8jAdjPJKKzOl0ELkG5WdJytWsIF_PTY2IifkUYtGdTCdKAkPlLmUAmcboPASCbFim0C5MCqvF6Fh9q9Tu8RWEnu2rxgLB7eEst_LhJ9-eqsNpCK0HtZA1qlbVkHbjzbHBWNemqKw69ZStYui5FHBtq8pCjcg-KWKXOAZK1IHzSjyju5T60ZFJI5nh2PFFjYCAlCbWSJf-npCU53uoR-V89BxGaAjn_V3tt3UJLtWBKL3j_D1ZOkeYbR1D7bjZReuZ0Pt2u3P2Tu4ipSGYmzdqEG",
+      "width": 4080
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118183263131678785925\">Teranga Cafe</a>"
+      ],
+      "photo_reference": "ATKogpdif_tvpI2BFLfU6enyBPOhbbLtgSMV0beQ9rJlWJFCS8rVl9H62Qt9zNv9Be8q74XPDBdMeVeeoJ8tOLLYPftXsGNrE5lamOaHWmOxtNbsYbWfS37da404SahsNM-xATogrbkY3KxIWm9N1G9hBn9Px9-GBfPJyTy82RqBxEPyCL01gIF2Q_TGx3MKlGxiU2hnfWfWWwjJGj0kqoSRsL-FM5COCQvQzSj6uGGCz0o5IqSXyg_Tp65BSn0U_zi-EWFSwk6W4-0xXYQ8eI-CDdxcMVq9Ov_hKgjDc7sE-FNweg",
+      "width": 4000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114618283159979273707\">Anne Chinweze</a>"
+      ],
+      "photo_reference": "ATKogpf83G30LYAS8kv8OCNLG8awJkpWnriaBHzbZ2_sOyQVvG0wkmJBJM-q-rTM7lZhC4NFD0AQdfsZlvLAWz8w4wjRc7JbLS_Nha6a4dgN1y4WoDaVx4HP_3az6N8pnO1FcMCQ4_wDAkBvcsYpSQoAxzZtWwBwA-ZtIncMQw7doTpKlEWwkM7JvYRPTqCDuv6B_XHtjTG_00qgTGUI1rb9gk6rZvfam3Hli5kLvKL3EPl225hxk61Q3aXhlw1J0ZK10J9AdbZlPVQe-vusyNRoErqVBfEcSa89jIFOGYyqverUQl-HFP5wkaVpXVggkPJIWZjMdrHg9diaWA0FumY8HG0CLGAa5qH88oBSAfYnZ7yxnQUx-QUEYB3l7DUHIfP-RMdxmJCmNwZq7iMmcgv2ljDduadhUUbwH5QMHsh3LKGDvG51",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJ5ZPpJvv3wokRC0HqmTJnIgk",
+  "plus_code": {
+    "compound_code": "Q3W2+H7 New York, NY, USA",
+    "global_code": "87G8Q3W2+H7"
+  },
+  "price_level": 2,
+  "rating": 4.7,
+  "reference": "ChIJ5ZPpJvv3wokRC0HqmTJnIgk",
+  "reviews": [
+    {
+      "author_name": "Jerome Maurey-Delaunay",
+      "author_url": "https://www.google.com/maps/contrib/113477425730282397486/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVFRwUS15aBj_yextPvutf6i4vTf2Z1PrJjpsB4MXDk_rgyeEVfTA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Stopped there for lunch after visiting El Museo de Barrio. Fantastic space and amazing food. Had the Chicken Maf\u00e9 with rice and plantain. Scrumptious. Great value for money.",
+      "time": 1739851170,
+      "translated": false
+    },
+    {
+      "author_name": "Daylen Moore",
+      "author_url": "https://www.google.com/maps/contrib/116683126801846778840/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1kt4eTiDoP6e4e6rK9Cs5hBL0C3PJRX1sdL6tHHUCrAitRHxg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "DON\u2019T HESITATE!!! The best meal I\u2019ve had in a long time. Delicious food, lots of space in the Africa Center to sit and eat or study, a clean bathroom, and insanely kind service. And be sure to tip them well- they deserve it!!",
+      "time": 1742070614,
+      "translated": false
+    },
+    {
+      "author_name": "Roland F\u00fcl\u00f6p",
+      "author_url": "https://www.google.com/maps/contrib/115883389590831862524/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJCqHNU-utiNs4zX20WfWXLohz3SdamRwHn3jfrjnng_EfFHx0=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "We had the vegan bowl and the chicken bowl and they were amazing! Best food we have eaten on our US trip! The juices were amazing too, especially the bissap.",
+      "time": 1741542911,
+      "translated": false
+    },
+    {
+      "author_name": "Nasrin Akther",
+      "author_url": "https://www.google.com/maps/contrib/115761855514420119374/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVPfjPaZMuZmwuWWRdvfmBSP5HkDgOfhdWcyqkG0NcxBUioVOOQTg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "amazing and specious space... facing the park. the vegan bowl dish was great. felt grateful to be able to eat some healthy and wholesome foods. alhamdulillah. it is also a muslim business and everything halal as per the person served me.",
+      "time": 1734112717,
+      "translated": false
+    },
+    {
+      "author_name": "Jon Jarrah",
+      "author_url": "https://www.google.com/maps/contrib/101929774368198839135/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJdJELWQGJTF8SJNBRKxGUvZu3KfMfYea-vIV6pCOxuzDnhpw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "The food here is... and I can not stress this enough... the absolute BEST food you will get anywhere in the city. The vegan bowl is wildly good. You will lose your mind after the first bite.\n\nTrust me: go get the vegan bowl here.... NOW!",
+      "time": 1747352589,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "food",
+    "restaurant",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=658201962577805579",
+  "user_ratings_total": 414,
+  "utc_offset": -240,
+  "vicinity": "1280 5th Ave, New York",
+  "website": "http://www.itsteranga.com/",
+  "wheelchair_accessible_entrance": true
+}

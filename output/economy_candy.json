@@ -1,0 +1,443 @@
+{
+  "address_components": [
+    {
+      "long_name": "108",
+      "short_name": "108",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Rivington Street",
+      "short_name": "Rivington St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10002",
+      "short_name": "10002",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">108 Rivington St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Since 1937 this shop has been stocking all types of candy, nuts & dried fruit from floor-to-ceiling."
+  },
+  "formatted_address": "108 Rivington St, New York, NY 10002, USA",
+  "formatted_phone_number": "(212) 254-1531",
+  "geometry": {
+    "location": {
+      "lat": 40.720105,
+      "lng": -73.987861
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7213823302915,
+        "lng": -73.98655261970848
+      },
+      "southwest": {
+        "lat": 40.71868436970851,
+        "lng": -73.9892505802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+  "icon_background_color": "#4B96F3",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+  "international_phone_number": "+1 212-254-1531",
+  "name": "Economy Candy",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1800"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1800"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1800"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1800"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1800"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1800"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1800"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1365,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113454323023665717331\">Economy Candy</a>"
+      ],
+      "photo_reference": "ATKogpcXuvkeYf7NysJdMxB2HYBRr7v10hQ_DfgaT1yY_neIAvgLSyPE8Q39u3Jj73-rL-dVSJqX8-QfQv-s6pPpg9R_Yb2i1N8Q90OLB2XP4ATTuxE8GGlz-QoOLsir-HOuZhCMcq-q3BHy3ptS9nmwjltZZxvud4DcIgo8I-2--iECRPlO0vOs0DOk6Lw0vwlss8FZTX3IWwQ-vcDaex6KyOITge3klhX_ccWY8K3zW1LlhrFu7t8H_wjK7X3rIYSV7bxoZq0aFNoHW_X66dZY3b4yNPmSzpg5dNFSYznq8zaUWQ",
+      "width": 2048
+    },
+    {
+      "height": 3577,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108581511128131630155\">Kristina Kelley</a>"
+      ],
+      "photo_reference": "ATKogpch8NWaorYzkLvpxp3UGATIT1uASXFEJxOA6FGC3Mk2H_wNh35BRTmeZEyj3vSUH9odd8b8SBWgBZdxgxCpUFl4v03B1TlNtTtYO8jU-zb5MBIHM1qiJSJhayLRpBB4d8ii6XnVYdrvQ-w8tK7HvXbvZxF42440NbRnJAqiMRMYf9XpKOd37y-i0hHhz9b-Ixf2wuphtYYDRGk6xdKXM39uhX_fNCNYy8n31IvcYKnBO0Ri1Lm_atKQMX6v_c97l2LCphDVN0zzYyVoEZedf6MMY-5mBVtuIZ_VJo8hT2QK5zjiLipTk661aoG1fV6WCGnxqzDBtZj9mb-HcTFQbk2fvti8volPG5jzCIK7rkbgZjr5wXHs1gdvb_x5kgIBrdtPbzF6DK8S_im67MMQE6t-_h0Y6WyhytPEZDt4hl-8FEkZo_Ye73E31dFjHghY",
+      "width": 2875
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117808460219123378764\">Ruwan J.</a>"
+      ],
+      "photo_reference": "ATKogpc0qdmUqgNKp9tMh6jsnTjDuRh-v-7wgb5H3abyPs3kZq3VUuElPplbWa1ChmmArWNYZoUg9vEJvlcNA2hhiKKt72rDln243RhL85RovbrOGUM7JYgjRqhBj4Ima1CxXUO37jMerP13-fs_6EJJ6XCif-SuTXP2T6a7F0bgEV2EIbnkO6kQ2VoT5a3JjOY3HFkKUFR2qGIs4BFWRAEfYiU72ZCBr0uYEY0A6NwHNOFW88jYVx2YKnPDNW6JkB16kxDNN0MMF2ymtNPuqz0F38Z-ynpncqKU14k4mXyVTp-Jnpnoxqmvl-dgMtWtivk3d6MFABao5fUgxrqBfpdCV68rACjXvNm2jlgO7FE9JuPpIfBfyN8BMtjwvQBNt3OKkhhyLt4ScTYPAo74KSTk4EBfpLIJw5IUbuSuvaP9FgABzDdv",
+      "width": 4032
+    },
+    {
+      "height": 1960,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116501997627142627436\">Malcolm Rosborough</a>"
+      ],
+      "photo_reference": "ATKogpc7upiesM2BW_BSE_D0VKU8ya_E-2DmExxiAlJKnlcyAgOjvTJGXSY2FxzGHGQYcs0OiNkAR-Os7MbPfNWfwV0oYKdP6mCWbX1GdDRKzSbsOtiVXmW4vShVaroMjimBLzeZFKWMmjTS1GxevsV2i_8ytLNiCrXZ89dr8FRVBN1__lnghvjYi7rtkpJKTtrRDirlNGV7d5yA8xgc84iAFhBpaFOMhTdvXaXwNwxad6yCYQAbdNF9k-FckB2YaVgju2zmZI6-KveypzTYEo63oTIJhWgo3tWceSDxGPPK17PlHjWvI2igih2A4P7eYb6QYzDWAt9VExLwIhsjAFzmOyJUZnE3XYYMzzsbJcSjFA0Ssd86EyqX07UrtpZSAzzYNZJjgu5OoEu-WS7m-IwjIQi6Bt-dWj-kXQ50acEZ0dPTUAYp",
+      "width": 4032
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103095335358497460676\">Marius Stoica</a>"
+      ],
+      "photo_reference": "ATKogpcT6VbplhkFqNC4HHuHZ7p5zRsDZpfUkEYlhZh1ZCNLa_6zHGgfmLWvp61TP5HOrPu4tZDsurpALJe_Md0EFZzF1__nTIC22juWb4Z5DXooicAspvZNCJ8HQijjrP8aKlW7XtPordvqW0CsNFC1b1IBBBITzWzxC7zmIC61Vw0GjOXb7ygs0r71enQ9RHpvDLc-cJimnQERAgUNWyxUUWQxN8DmFF7W42_YOuJdliJCKSS-twijh-afnLVMwx5VOJDOLhYALNTVoXxavp-0c_OawUAcmetNzUkqTWoKIGnsj69UGgHAnao3_9orIFkynbfPVLnDjpOSsQArMZkVDGwoKNaRl4CFcVDaPWrl3IpyBo1L3tc1djr9an5XIWqhcg4VqK39MQ3OJZrLzclgNb6CmbSXgC52i_wJXU55BGEuqkTW",
+      "width": 3604
+    },
+    {
+      "height": 4608,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102850831932691126527\">Aanitesh singh</a>"
+      ],
+      "photo_reference": "ATKogpfBIZ7tppWHbt6j9_HQ2BDW1uU0i8VNdGCbORkeGcpMREyfLVoPAsYBKZloq5iX-hK5wpJLLyoOHq1tgUCpDWXVq3fgwMIlbMrRZcZ7CXJ6sYSWbnfv1vq0zb1tKl6CtfK-LY9XiOZyeUA1WpBJN5krrfe8fO2A344yQoWaFWfX6nbsBrkT5OsTwnGAmeJhHZ1I02q7TrC_uBesnLeHc7ieBDIN7REX2nUlr2juQrQr28XrajqV_8vSkpTQ8EwqHjrg8A8kStme3ZZyKFaFMl6UiN7UBZNVDnKnBiOupfPf_bTJqssPu9g1c8CIHtHpmNSFfwceDh7696ctJTbcFr8tCVIzD8pfcUmNHBkm__pyU4c635dD-kP3zCcybHde9WlZYHAEs-4HLB-YqWkcZ9EsSCOzyiYGhQd4lE-YC3GZoxUa",
+      "width": 2592
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104231099559936710641\">Marion NYC</a>"
+      ],
+      "photo_reference": "ATKogpfsyOiJThDJMIscc7E8ffmI49umdWUSt-yq52MKQg65i6X6nYYhP1CWDW5Xpqb5BeNeRXsJdtoUFc5KXEtOnzKPh3x-bK4Ivdot_aNQ1Ccdhe4eevvNk3RIEm2uZX4kKP0blztFlkjI1gtpVEcG_JnfAuQTs-ULGncNn7abYouFDNmbbrkJLV5w5LRCHCPSmmnKgCY5LnPIvAEez6C2GZzHYToLaCVzQB9zAFHgP-C2Rx6zGFOwkdaQ6_Hfbv83Ohu7DVUZbIfg9XRVXhM5DFPwJJrjKKOxSJEH8YAOSiIijSl_AOFZW3xJLnQBqVmhBoJVaachEoDGG3kJrxkgtBGI8LBD3huUlfYHBxgvM2NhdsaeZf_RHkiEuHaSCHOOx-7YFl2S2h77H5y-4DvOaka_oO_rL6yN-_vD7OpjRXPj6Q",
+      "width": 3024
+    },
+    {
+      "height": 3456,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112096121749841877811\">Andrew Wilkinson</a>"
+      ],
+      "photo_reference": "ATKogpcAgaU_Kxv5uHjD7vEv3TRB33xxNdFN12UCpEOyZ2Z8OaS7YkwtrlSgNzflIyROurPCP43ErXBDOp1HToz2uE3BgFHYnW7QiHJ9xB-BFMbOJcJhCm1ZewEGeyR0UiJPmRNVxxy5vEaHi15tejv48DKmkyBNVAGoWr0YZ5lqt174ys6Pi7u-WD3uoBrFzgdgghKGLGsbl7DbsFnEafLPaKA7LvESRMgBrLmH1Z-ihz7GSgj5zHq1Fg8BTAFd4nhezYuxfL90Tg2SATJgTCw9JVIs3asbTjsiAqjofjS9yndecQ8CVTutFebSCoCh9MSCivEFuF_n8FM6qQJdprGivOnKA18EOlJrGSSgGdmdPwM0CuUAm9SSRNLg7zG8HEb0sfbo6QXpJiRNkmjyrbmWwLgHVE8Ecb8wIm1GohZwn1RqEA",
+      "width": 4608
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110798015293697690809\">Matt Nash</a>"
+      ],
+      "photo_reference": "ATKogpe4Cdy8zOLq9NLd4F6IQhRHrplqqbGFEmyBnW5Jgr_0dDhh3DAKb-Xbdua_3_2Q-ICKyYQgcQoTAguaY8txwZU9Td0_OYwj3LTlgl75f6fqbu0eIMWbybg1evDTQsU2R1dX5T6HvYRbereq1c3X8Z1WFSoVdPF-r5kS1GfSFW2n9IrIZn3A8D-G7prNJtwNRam8_v_eE-wc_5OYb7MYhV-lKa0vOGb5QavvzC7Co-G1bk2XdPLwuB6nV4bFWEmHtTFTyBvqF6uocXvW8zFv5QBoPHgrU7tXzDPLlMBwcL7PMZCNWvcXnJ06beK5z2VIWIK5_WD-190tn7ZbSf0oLIvkqLlFiIcXbFGsehCfay7M4aRTOjggPlAn_to3Z3goEFr94INRhpQXlqbSVB_JEB8nHQ2NLqyG5pBkQEVdtBC8Yg",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105712654887334400840\">Jamien Ayala</a>"
+      ],
+      "photo_reference": "ATKogpf4nzcsAonancEcZ2NqcA4N65L8WiVykKD2yrBTnHa8Kz0-fp1y2zhSLakFNY3FQwCH37dnUL-Al3maG6sX9eQRvpSqqbBUgF8s22Rc5-4ZBeGJgDXo5jdNlmiHD7ZNZsMUtP6qC6xUQDf0Mp_dRGepv2zvfrYA20DV2TDRshCnHWvSV4NAMzqdZWQuyV75kEXwMezPUgKJeH-QL5P76oV8500BokHV6SLPq5sTMtDNxfJ8UX2M_2T3l4c9oYU9PsCI1ERgwgqK8j48wfVpVZkemflhBwd0qA7u4Q-X1wbLsOfq0GzIlI6I1gYa4Ohy2SNPsL_WGG33MYFc9lipW4W_XdhN555r5DqIWUOdSn6Tmo26YYKQ0AMqDS4fMRznJQbNQdjdb1kXhOlq8S7ay2Ia0NHAgpfUCSZnfjA8NvV7IjPb",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJNdebOIFZwokR0JEfqeQONrQ",
+  "plus_code": {
+    "compound_code": "P2C6+2V New York, NY, USA",
+    "global_code": "87G8P2C6+2V"
+  },
+  "price_level": 1,
+  "rating": 4.7,
+  "reference": "ChIJNdebOIFZwokR0JEfqeQONrQ",
+  "reviews": [
+    {
+      "author_name": "Judy Hahn",
+      "author_url": "https://www.google.com/maps/contrib/113107476175490187294/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8u8uhvfheL4skaM2LVOkF99ZrHoEQ2La4x_IUyPJ5lnml0ZOE_g=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Best family owned, candy store from 1937! The pure joy of the candy, decor and friendly people is with the visit. They have bulk and individually wrapped, old and new types of candy. If you are creating guessing that's for bridal or baby showers, or want party favors, this is the place to choose your fresh candy.",
+      "time": 1746550214,
+      "translated": false
+    },
+    {
+      "author_name": "Kristina Kelley",
+      "author_url": "https://www.google.com/maps/contrib/108581511128131630155/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNVhit98OLm6JqP6r_pQo3NR-9olUZAzG0PY5pP3o72pQftEY_=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "By the color, by the pound, by the piece, any way you want to buy your candy, Economy Candy has got you covered. Since 1937, this candy store has been serving New Yorkers their favorite candies every day from 11-6pm.\n\nI\u2019ve been coming to Economy for the last 15 years. I always find something new to try in the international Haribo and European candy and chocolate collections. They even some salty international and speciality snacks.\n\nThey have a fresh chocolate case, at the cashier and dried fruits, nuts, and marble or vanilla Halvah in the back. There\u2019s pick and mix, speciality nostalgic and novelty candy, the greatest hits from most major candy-producing countries. If you can\u2019t find something you love, let them know. They will likely order it for you.\n\nThis is a first-floor store-front. There are no stairs to enter or get around the store. It is a small space and tightly packed from floor to ceiling with all the candy you could imagine. The atmosphere here is fun, bright and joyful. Staff is always been helpful, patient, and informative.",
+      "time": 1750728371,
+      "translated": false
+    },
+    {
+      "author_name": "Melanie Meng\u00fc\u015f",
+      "author_url": "https://www.google.com/maps/contrib/108656973349716772670/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXCBbGQ3BwhqxD0PoMk-GUt2eGLhyDceCPty0AN6FeG8L9OCo7gMA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "The best candy shop I've ever visited. I was in NY from the UK and heard about this shop and I wanted to visit. I don't regret a thing! It was such a nice shop with so many types of candies from all around the world. I even found some candies that I used to eat during my childhood in France where I grew up. I always discovered vintage American candies that I never heard of. The pricing was very reasonable too and the staff was nice. Will come back again!",
+      "time": 1743431980,
+      "translated": false
+    },
+    {
+      "author_name": "Francine Laura",
+      "author_url": "https://www.google.com/maps/contrib/112459882311538828488/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQHxrVcB6cc-B3QLnK30rvSNv5pjwn0ARuQ9B6PWuCQefTEn3Udw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "I stopped in at Economy Candy on the Lower East Side to pick up a few things for Easter.\n\nOpened in 1937, it is the oldest candy store in NYC, run by the Cohen family for three generations.\n\nThey carry over 2,000 varieties of candies, chocolates, dried fruits and nuts - and some old-school brands you can\u2019t find anywhere else!",
+      "time": 1744947062,
+      "translated": false
+    },
+    {
+      "author_name": "John Gonsalves",
+      "author_url": "https://www.google.com/maps/contrib/110973205109653728542/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJey_xHbuiHH-WbFNoxASwLBJsFOg05d8faQoqt-JNFYxZBkQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "Economy Candy, nestled in the Lower East Side of Manhattan, is a true gem for anyone with a sweet tooth. This nostalgic, family-owned shop has been a beloved staple in the neighborhood for years, offering an incredibly wide selection of candy from all around the world. Whether you're looking for classic American sweets, rare international treats, or nostalgic favorites from your childhood, Economy Candy has it all.\n\nThe store is packed to the brim with colorful displays of chocolates, gummies, hard candies, and nostalgic items you won\u2019t find easily elsewhere. The variety of international candies is particularly impressive, with offerings from Europe, Asia, and beyond. It\u2019s a paradise for candy lovers seeking unique and hard-to-find sweets.\n\nBeyond the selection, the experience is a bit like stepping into a time capsule of candy history. The friendly staff, the old-school feel of the shop, and the overwhelming array of treats make it an exciting place to explore. Whether you're grabbing a quick snack or shopping for a special gift, Economy Candy in the Lower East Side is a must-visit destination for anyone with a craving for something sweet.",
+      "time": 1735686564,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment",
+    "food",
+    "store"
+  ],
+  "url": "https://maps.google.com/?cid=12985582950822154704",
+  "user_ratings_total": 2358,
+  "utc_offset": -240,
+  "vicinity": "108 Rivington St, New York",
+  "website": "https://www.economycandy.com/",
+  "wheelchair_accessible_entrance": true
+}

@@ -1,0 +1,449 @@
+{
+  "address_components": [
+    {
+      "long_name": "295",
+      "short_name": "295",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Grand Street",
+      "short_name": "Grand St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10002",
+      "short_name": "10002",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">295 Grand St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Simple Chinese cafe specializing in soups & noodles with a view of workers making dumplings by hand."
+  },
+  "formatted_address": "295 Grand St, New York, NY 10002, USA",
+  "formatted_phone_number": "(212) 625-2532",
+  "geometry": {
+    "location": {
+      "lat": 40.7174109,
+      "lng": -73.9920876
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7188507302915,
+        "lng": -73.9906949697085
+      },
+      "southwest": {
+        "lat": 40.7161527697085,
+        "lng": -73.9933929302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-625-2532",
+  "name": "Shu Jiao Fu Zhou",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110974140126986615056\">Kenny Kimball II</a>"
+      ],
+      "photo_reference": "ATKogpenmfHg6lLR08ixrNww7K7Owu6z4G4-mlDyA2EbhnnlK5NeRlegQNTX7f9UKMZnJe0-5JD_HUZ4fRwuHIcuf4OLARmNht4U7FeCMMMv0nOpVtaL5WslwV3mKxOuY7uEbWeGN3wJNRimZWHMcvgEU0RA2DYPh2PHF8_LP195cegq0NC2m98DERr62hsHu9a9-SSnJbZxjkn8EtYzRV-gBS7QGVIErvxmivNvmYv-iLRMpte_zp21ee-pKJql17vjmAGFVlGAkX8-qcbHcUZkAKzsicYFI3ILOsMToo61jgNfePSBqoN4WffNwLBGj7tYD32XogbMZHQmTlyaORiJmwSs7pIXrkkCDPt7AMqLwxEfosfCKrBA_iMCXospaCG3RnxaOIA7GurtJm1dguRmoBA8k8gg8ghRgI049xmTeEX-GjfR",
+      "width": 4032
+    },
+    {
+      "height": 2304,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118064337486695594270\">Akshay Verma</a>"
+      ],
+      "photo_reference": "ATKogpd4BT4bTWBcwNcFNo3zp4IdbYviIAmY6FtrRiuw4mALKPgRSp7SrEd231rJcdAQK3VRuqYUrPDHQI1R5qIKp7qKzb28nI3h8cq--jE4omqFBEJwp5oOmxughHf2GGfthKP1OVXeJJ5_S4h7eWD-BRkdbGGAS9vyBEWPvQNSIxr8w-qUqn_NBv1YHdPJoJC6kDEfmFeW5R2AFjHSRg2tWkak_Em7aFuOIutjJZQBF_UWmcKpO5Z_pGgqjTkXO7JmAohPNUPyBr-XI61AEP8o1y3DcOrB8Q2UEgWGsxPOsWP8sKgsIeWHVLf22Cozpgj9AAkF_4dbN6gt11N2TBha3LsdZsBTC6wFFY0yiUgA4D-FwcLzwkiz_NpwDiM-Zc6NjyCnT7uQI_zOJal7d_c5ET3r80gPBAaseaQo2Ec1b_wXgA",
+      "width": 4608
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107811205494525348393\">Helena Fisher-Welsh</a>"
+      ],
+      "photo_reference": "ATKogpfol0170X2YpY6WOOTsslpuJiaRLg85i1LtgSV8eZwfbYbL0jLEol0DjHWGiCerpe8ZW5-SnzlX3b3h2ah2GEbeO9VdgsBbugtCqJl6amgpRPATYjrp2lnw2vEKLO8tU_8Q0h-08chcjBkl71zcP_0FXgaRkb8eIGXrnCjQQUiyaEvHZIANAsZ6JQfSWJ1GNGBpU6PbSk5_PIjAtrvRCgfQLYUVMyAH_FPgiG5iPqgHPtUlBuON6jKDB8T0U5kREC2Gw53PqPGgHeqqG1bv9wqg7cZsCUDbdi2uBNwSdr_j_Qa4OB_eOr6L0o8O4bAi8qqYJ29Sfz8GZ06idlBBnHB5K4IzC6Aelogt8csASfX_gejFaPvRHqCkX1agZgry9rc4bcqozkLqRFHFliz5FuFhXHeVmWXiclFxdMSqMUOfqDohEBJveikuYmDGN0WA",
+      "width": 4032
+    },
+    {
+      "height": 2997,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116297997723807026347\">Joe Bob Jones</a>"
+      ],
+      "photo_reference": "ATKogpefGBsOZQOh4g-Aq4JHDI45pdukfWvwXPMn1a42KX0I1uMCWkQPOdsehMm0zLG21hZJRbfbqNNDZlcQPcM1UsbZbOx12gd-zS4nJdfZuP2hIKp_VGhK19LPnHaYDIS-w1-or94vCLQJiSgVxjPEYu6ZXhL32nk_BDILk55CwN6oqp30TanNP0jem-4pxrmEYEDzzmb-D2MeQ0KipCkHemoGi6NuHGKOKXl1p0ZvKTEh0Ubu7YmbQ8Y3DvngDvLE6dKb4nSVPAnw6udap-Ms9h-AcAuFjIHDKU-p4WAmBIOnXfUW_1o0Uiadgw5M6aFWuovbW9mqvQ0oWUclR86j18DVumw2llv1qUlpdl1lDHaQdxSsVEn_gUVBzYoqDNc4iKXJ7HNRS_QqIcFTbZ1rvfVXqoDIQWbrfjcALtFQKq8",
+      "width": 4800
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102632035280719071954\">Jeff T. Critic</a>"
+      ],
+      "photo_reference": "ATKogpdGIcd7J_NVYp8BwLrHjpUpOc3WTKvHVp64Xqda_2LlramwBBt-lpGo--nE_gS9Mf324Na5GcLk0qyaEj8wTJZLx4fEEtAvvpx5lTaBwHM2pgjO7zy1_U5_wL6LLum_OYxmTqR8BcG2RnNk147UTJNsypvMfE7AtkWfv_N9iRZhviO9DllNQA0Xl5KuZODRnRD9Df0GD_0W8vJ3hscp62Co4CRUFPh9i64Wc9CqVgiqdo8FUOay-pl550NV__oIX-NrPM1ulMKj-9Ew8et7qywSn2QwA5DFHzA4VEyCnlHJHjkd5SiaBr8VPqmBHAg8Zhe469lzUtyizEZQA2-jddDBMDIHatF7m6kUwq7vQu4ktBUS2Renw9d7f5WS-iMAi74r7b3jbQgSEqTsPOUW9aHQnzcJa-jheSsRvWpM2LzPn5471tXPU0-qYbNv2MBZ",
+      "width": 3566
+    },
+    {
+      "height": 2250,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117812117251326690300\">Richard Pierre</a>"
+      ],
+      "photo_reference": "ATKogpe8qqF2GuhEQIS9GOU9PR8ndkJmhJi2Jrm0nJ4D5ye4NWGgLMga6P2Bb-wdRDcg-WSCvXWKwxWGl15VfzFneWjevA9J1db61Y_VyU-7WBE7OHP1T82JlbcRmzcL6QlexMWgY_-hhPSvrmHi1Ufgz96uMe_fTvxQi8fxJ4X2-bmOT_CWWkEtd1i-EI9b0OwE_AzeDryf5NUlUSsnHd3o0vScD1HJjxTa0E09bB-zqhl310L94aDd3TSsVeh7oI90qJpHXEMzjHAKL8FsjUAV13UxuQyikggpGitNo4-arVbUgOCJloUqNBIVVZOc-YaVfz6DhbmLGxBXYvzVwRgjqKSIIm5Ku_osUXXm9fN-ZfxqgOIzJOhJ28rI1mCuC4HOiizlRauDlh3yhrcEJysd-DZmy7z77xGQAaF7LaNrisOCoRg",
+      "width": 4000
+    },
+    {
+      "height": 2629,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114937408561519368736\">Jr Casa</a>"
+      ],
+      "photo_reference": "ATKogpfollhk93XEmC6MCMU63HQlOHX4YSbF8AAEe4_evuTBafN6BoehqxdilJ6KoO-jZhXOGn1A7yELpuG_2bcCmZPjw__kUfusB3RBU1FBNWseTgbAgJ37BNDQppxxLjeKZR8S5xFYVyBrTTsut-CiIayzctD9k0bYc-9xKlWGZ9cgXReMY289t4fG9Zv4Acfp4siQVt-fflqh-q_GKaOrfEcL5IEttrRceVaWCwIfJfkuu3DukfUl2mUrU_YDvVrUj7Fp4UBhW87sMaNE3pycJP3yM3Gt-yB9NdMbM63PrJB0MOf8ZoVf_ouHmCVy56oyuy0NJBl_7eUMe-sdBCng3odnIVP0MDIGORz8Q7hiliGodOvpI7LcaTQBiclvLtI8yCNsJPH9lcLOPf-zX4TDDaoFx5kIqffXsEw3OQ0QpuYahQ",
+      "width": 3506
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102655596261031643438\">Coryne S Suzuki</a>"
+      ],
+      "photo_reference": "ATKogpdQ_ZMJrpS6NRjhX_vwSnTYNCt4nNMdv75DjqQeaSWvnvDtom4Y-0Caro-ooXd2ck6vIhkQEvtttsIXMK5m6mbo8maYDuDhU5fa35Js3a3sbwhFuTp4S1wLhG98rzAaPd_RuspcNGKmQbpOapEfSS466DiRBCkDEGvXpp1geDnu9pm4gAtox01xI8qHNRFCKIehMCACMqea4gNZgW6YXQV6E2S5qBeneLdrphHPF6AaKnECXZ9CFmmIpycpOazF8R8FF6sxBKIdmz7qZ9xkvyLahxghJ_QH4pDFx_iHqhE6ZOuh-uk3mA6C1_f_uGAMrbt51Um2mdlRqjxPgvu7A7ee-LGdjVzzuwHH7Yw9-Fh3cVr08LB-ao40F-4E2EmtLpNlLfwUrZKUmXN07oH_gAIySu-7Hgvk13yJ41ShgMJMMQ",
+      "width": 4000
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108765763224409949350\">Scotty Leach</a>"
+      ],
+      "photo_reference": "ATKogpczQurJpKShCzxNb1kfhpFQddnMlmwsPRXQkVsDvMMDYkp_pZeJeO9SS8BVDM0n-d39pFDLkhgNTscaXpfO44JzElSUQZgWHxnR_8V-DozcpeV9TAnei5w31sI_uWYXoLlJkpBkDu3XrQEnwcu9eEMvLE7aGPrchf_fYGY-N3jtbF2ICSyvVSaSGxJzRgXrRjft7LZGjFMSkfaO0yStpVBVrgiXw4EqCZpURaS7HRnpq8JaJHycvfa3JMHmz6qINLUv5TriC7vPt3iQGjMzhikzJat7pmjdccrccQvw7z6wS_EA_9osO7biPuJ--D3hNbdNW8y9faVaVZlWhrff8SL1Ri8HbvQLX-19Vzv6S1bH1mG3Drb3jqfy0RsQYPLOL4LukgB9CnuLFtB7u1hWv9bmjeXygCteQfxqQjpNgi-rbdBB",
+      "width": 4032
+    },
+    {
+      "height": 828,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111947806305568732835\">Brian Harvey</a>"
+      ],
+      "photo_reference": "ATKogpdXUcQWG1Wt200B8WkRmhJBhi6cS_KKQhAAmrO770aYZuoHDHKGhp1_tomiDiYV_y-NUFYn44irenkW8KcvrW-gPPEDWYRdOE3urBp5g7tEcQSbKON1HGp322l3dLq1NHWS1yK5wEDy8lX-1ucEeRqOAP1218NHDvhet55qnceZVIg54YkRdTJVHlBIBtl1uen94WA5qiGv1dxvQ56zN520l7k_gNaK62AdJ0oVlKy-Rr_yTJfHj-gV0RkOVa9tT0IGvuK0eqQhDe22Vt94lZFooluNoUzEv9f5Q_aTfQ3QJbWz9vw_gFtwetLwx-xlKQNQJPPuLomeRqYY1g8h1LNiSJgRUo-71pmxBZxsnzxhwEf_ABD1erC5xNWlwfHFUfpN19mOfJ3-Eb7IWqsIGa4t9IJijOJNqLIBVjncpcVf1YCB",
+      "width": 1000
+    }
+  ],
+  "place_id": "ChIJ3au6oIdZwokRRpuRY9nbgik",
+  "plus_code": {
+    "compound_code": "P285+X5 New York, NY, USA",
+    "global_code": "87G8P285+X5"
+  },
+  "price_level": 1,
+  "rating": 4.6,
+  "reference": "ChIJ3au6oIdZwokRRpuRY9nbgik",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Brian Harvey",
+      "author_url": "https://www.google.com/maps/contrib/111947806305568732835/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIEvnvIXrLZG4gZJ4FPvg7uSWpDMlDnjaAes0znR0xvVfI92A=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Shu Jiao Fu Zhou is a standout culinary gem tucked away in New York\u2019s Chinatown, delivering authentic Fuzhou flavors with unbeatable value. Visitors consistently rave about the steamed dumplings and pork & chive dumplings, praised for being juicy, flavorful, and affordable. Many have pointed out that even during rush hour, service is impressively swift\u2014one diner mentioned being in and out within five minutes.\n\nThe peanut butter noodles are another fan favorite, striking a perfect balance between savory and comforting. Several reviewers mentioned how these dishes transported them back to their childhood in China, which speaks volumes about the authenticity. The restaurant\u2019s prices\u2014often under $10\u2014make it a haven for food lovers on a budget. One guest exclaimed their meal was cheaper than a latte, and another said they could feast for less than $20.\n\nDespite being packed most of the time, customers appreciate the fast service and piping hot food. While the atmosphere varies in reviews\u2014some find it cozy, others note it could be cleaner\u2014the food consistently earns top marks. There\u2019s also a cash-only policy, so visitors should come prepared.\n\nCritique: The only downside? Their official website seems to be down, which is inconvenient for those looking to preview the menu or plan their visit. Hopefully, they get that fixed soon.",
+      "time": 1745130658,
+      "translated": false
+    },
+    {
+      "author_name": "Solange Hansen",
+      "author_url": "https://www.google.com/maps/contrib/103097454853869755095/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVdvSPmoLeBY-CD5MCzsij0KLstwWjmHuw2mKB5qgpOZt2YGq4=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "a week ago",
+      "text": "This definitely is a go-to for the quintessential Chinese dumpling in Chinatown. Lots of food for $5.00-$6.00, fresh, the original fast food! We ordered noodles in peanut sauce, won ton soup, and of course , dumplings, each order with a healthy supply of dumplings: \ud83e\udd5fpork chive dumplings (fried), vegetable dumplings (steamed) and shrimp, chive and egg (steamed) dumplings. Altogether with tax -$32.00!\nThis isn\u2019t your gourmet, fancy dumpling place - this is your nice portions size of decent dumplings on a budget place. The won ton soup and peanut butter noodles were okay too and as much as we enjoyed the shrimp, chive and egg dumplings - we deconstructed to confirm -  no shrimps were actually used in the dumplings - so, truthfully, the chive and egg dumplings were delicious! \ud83d\ude0b",
+      "time": 1750281468,
+      "translated": false
+    },
+    {
+      "author_name": "Amos Nachum",
+      "author_url": "https://www.google.com/maps/contrib/117355437336170460626/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK3AvdVCzYFoBwZwjCyPrIcXlbfpJZ62NmBq3Q5dN3Kr-GhwQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "Shu Jiao Fu Zhou is a must stop of anyone who wants to taste the real hidden culinary gem tucked away in New York\u2019s Chinatown. There are so many places of dumplings \ud83e\udd5f around China town but I believe here are the best. The chicken chive stream dumpling are savory and so good and also the whole wheat peanut noodles which are must as well.  Very quick service, very Chinese, they hardly speak English, and only cash. This is NYC",
+      "time": 1750647337,
+      "translated": false
+    },
+    {
+      "author_name": "April H",
+      "author_url": "https://www.google.com/maps/contrib/101423635329758731476/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZL-WAfKZlsO3RAowa4DtmwD-40UQWdqeWPlN9vieaNyegWMYS=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "This is the place to go for steamed pork and chive dumplings. 10 dumplings for $5 and some change and they were so good. Service is super fast, basically got our food right after we paid. A huge highlight and shoutout to the peanut butter noodles. Not too peanut buttery at all but incredible and only $3.25. Cannot beat it. Note: they only take cash and it was a bit hectic inside during the lunch rush on a Saturday. Thankfully it\u2019s so fast we were able to get a table pretty easily.",
+      "time": 1750610020,
+      "translated": false
+    },
+    {
+      "author_name": "Michelle Yang",
+      "author_url": "https://www.google.com/maps/contrib/109029023400577455372/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4_8tFSgxxMjoVPEsHMP3JBYU-gJ0xobZbXtwuPZxXPh6P9KmJMQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "EXTREMELY casual spot in Chinatown. CASH ONLY!!! This spot has hole-in-the-wall vibes, with people from all backgrounds coming to eat. Not the cleanest or most comfortable space, and you may be sitting shoulder-to-shoulder with strangers. But the dumplings and peanut noodles are very cheap and tasty. Given the value, I would come again for another simple meal.",
+      "time": 1747529383,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_breakfast": false,
+  "serves_brunch": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2991194829252303686",
+  "user_ratings_total": 2555,
+  "utc_offset": -240,
+  "vicinity": "295 Grand St, New York"
+}

@@ -1,0 +1,307 @@
+{
+  "address_components": [
+    {
+      "long_name": "25",
+      "short_name": "25",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "East 77th Street",
+      "short_name": "E 77th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10075",
+      "short_name": "10075",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">25 E 77th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10075</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0000",
+          "truncated": true
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ]
+  },
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Grand 1927 property with art deco-inspired rooms, plus acclaimed dining & a swanky bar."
+  },
+  "formatted_address": "25 E 77th St, New York, NY 10075, USA",
+  "formatted_phone_number": "(212) 744-4300",
+  "geometry": {
+    "location": {
+      "lat": 40.7752711,
+      "lng": -73.9633994
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7765672302915,
+        "lng": -73.9620802197085
+      },
+      "southwest": {
+        "lat": 40.7738692697085,
+        "lng": -73.9647781802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/lodging-71.png",
+  "icon_background_color": "#909CE1",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hotel_pinlet",
+  "international_phone_number": "+1 212-744-4300",
+  "name": "The Mark Hotel",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "open": {
+          "day": 0,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113932043824166121037\">The Mark Hotel</a>"
+      ],
+      "photo_reference": "ATKogpccK64fwmFg7ba9Lvp2N82lgqYNkFAYYGWcycoUG2XN-0IeF7tLDgmKJLkS17WhSri-fxWKn66vinzoPgYI_jxaEIWewiuXsPYA09nFi20oY7XtYnmkx9nyQUQfSMFnA6Ck541ianv8-HI7WJQohVcEb5Yk6SRf2hJaCjzSoUoBMb0d7X_GRUYjL-7vJhv1BUhndA0YOTbFuWbaWM3qWZ1u12gv9pAibBuUy3GkfADnRUJ9rjmPjyKUu2Gx7Y0OokANlnyYlEE-Cp5-psChGcxcm3NTLlhkHifUQdOpOFGymA",
+      "width": 3200
+    },
+    {
+      "height": 662,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113719639442868633401\">Ashley Hughes</a>"
+      ],
+      "photo_reference": "ATKogpcyQvLcQvU8VbKtFGn3mBmdhhoLZ_q5lpliUnOkBU1t8_-qbzf_3C-TfyQ1NF1ROGkj3t7EcHewmJDLYa6WxG3f6HjXrsVqAmsa9kLambP_S985hxpRvzGZ1ifc3Zhu8OXwc_BQaYaTfV3R09cjC5jcChIg23AjjYnz4LP_7q3anVBW-7mpyeXzpbmEorSJSxXdi9yNxYXI_48DgfcCKzQnoDX9Hytd3eVqd3CJAaYQ-twThDuS6PgUP9V_VTd6itM1sKaUNfuceiqu7kVLva7zKZpIuFacEdDvT_F68q544Vf2Tk8ql404fIehSCbUShUlaiTu-k1XL3u_Ow42ZGQ_vVcrrBmIsuFXMohz6cXpA16Lltoj1foIn1QeaoYHDqYER0LQF7Do87HvMY4l0OSYfFFmceT6GV7RLcWhlAVN6jc",
+      "width": 1000
+    },
+    {
+      "height": 1545,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113932043824166121037\">The Mark Hotel</a>"
+      ],
+      "photo_reference": "ATKogpcUs5GDSNhqiT-JIiV3Cj6H6MXFg4bzsekzA2qolwDOzYCJBhlXmUOHy1_e_Ipm9wAJ4PxW5cZRDLND9UeF2VqgJVVKLY2ThpNOf6zbagaJvpHRENzaUIze0_zGlMbIm_1EadP9zwB-ciFb2UsvY6qmRpZIDgp6dBUBPyNUfgJ4PDXE24-sHvog4FXl7KP2L7b1wgkq6YZhHVs3Zckq3vHgOB4mG_jY_chiOq_NlOs1jGlhbyBHP0gHvpI5K_vHmUsoVrnyqBzlnQ2BPbJui9Zd7vnDPCTD2--86_F8YvC3hg",
+      "width": 2000
+    },
+    {
+      "height": 3480,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113932043824166121037\">The Mark Hotel</a>"
+      ],
+      "photo_reference": "ATKogpdllb3Nk3bAJrKXBroMsGmNViL7qg7snBDLkkl5jsO2ArXuJDeMtWIyBrrSQADjdUatt9eRwW8OxojekgK0KIOJv_UJVRabUmu8N7sTMj_OlvFwDle1pMhF1qQUpC-oUE0yA2c9BvKYtxUzoh4l0m3JjCdwQUBu7KL98QhpDTn_YZPRMkWSuKV2Y8oNuzNVXx2hXIImv4IkyP3jw23g_nlvWvtVAsPeq8ZVwOxKQzx20eY-NftlTtj9pgG3a2MGTHq3eIzCQ3cCn2dfqPIudvqv1ki7EPv-R-_hB7MyQYiaBA",
+      "width": 2352
+    },
+    {
+      "height": 2571,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113932043824166121037\">The Mark Hotel</a>"
+      ],
+      "photo_reference": "ATKogpfvKrzrIquOIF9NIYRz6SxkpggVPGISV29hXufxztVUySxBaTyk-WdRnjXobL_b06XULO_7MbXE0AvC53efTSDbQ0rncRhvZUAT7zaASJE_lmh_SiVeq_6EEElgPiVOY-klRpC9FRvHdgFc9cX-R25EE2aF4dMt5pRfLINsTsQ5xixjM0biSh710fbC8LlbcgFTe1XFjpro09mZflcItF5CFdCagBxF_zhFDKeIf_BstT-tY9zGtO9kFQ8DjPe-JwvcDS2TUulu-ewybNxkcxmbCUecqEK_p3xK6H4Bc6fBAA",
+      "width": 3600
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113932043824166121037\">The Mark Hotel</a>"
+      ],
+      "photo_reference": "ATKogpdVmBij43yEz5OIiIfUMEVKYLhnEntIyaQ0w9O2FLFMbx2_cTZVQO2rFa-Ok0NZnQQnsaeLydyu8SqjUx0EKaTtW2UdSEkyrgnmhkG2LW9iQOLScdgIJIQqUavCcom7vSc4DkhMlN21asj-6P-pm5YSDnCOXuztF0-K3t0UcYxNc9kZd_9AHHldH5qicC6xnVARCLnMPneY_vlXB4owUhJOgHpb4f63P_oUFEpkyOxI9eS9gz1FSNBCWozD_LSYwzI171JGbUUEVn7jqKV5AqHppKP2-ojryarsDD-JedshwA",
+      "width": 2000
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113932043824166121037\">The Mark Hotel</a>"
+      ],
+      "photo_reference": "ATKogpd_EkXWjGMCsXAVje1F6wp_sBG4Dt03KWzW714azJ5wGjKOpwC9vmIVgMCqq26VnzJQ8n7-DqSF7PN8DjaARH-b7EVFpdg-fmr8WTS6J3KhEt-FwCfIWcj6CzudcvxreSp1FlOiBQ1tpDpgAey_ojnK7J6LJuJdc5knOotgMz66DGd6HOhoHG-NDskQ51WuCvTAzvM6EQvFJaIAQRDZ6jVhg6iU9AR6UjB66qv0PpX4oIdd0_md-2b9e3Ok0tjdBrlAlmjEjdAg_aFMUmpB_X64UxRNU9_677t5rNEtq8hrjQ",
+      "width": 4800
+    },
+    {
+      "height": 2938,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113932043824166121037\">The Mark Hotel</a>"
+      ],
+      "photo_reference": "ATKogpcqBUgCPATRyyyma6odMgOcD8nazW0OmnLxhTbIDuCwdcWCdPoMmwa6uT3OFrD9pqohgo9C9QK-tNVyPuiJEenmtY98XuDgVtwtHKeMkDel9-Ik0LSCur3EAbKtcbaLjgzrWq83zeZ5C3Tacotdd8D08IloJzos_rYwWTgcXFsmFKOvn9RotuX9HxOTqFn8UpDujr3rTPEkwZiTS31kVutcU_GNDEztqDxOUaVv9OCmTn4xT_2qhORiC8yi56aWs4XdtZCGkB8JXMgRM-sGstCt2FlyXbCa_bZvFVYtdysrDg",
+      "width": 4063
+    },
+    {
+      "height": 2400,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113932043824166121037\">The Mark Hotel</a>"
+      ],
+      "photo_reference": "ATKogpehLOrdLG7HOorYeset4IdIHZst-kQwsNFBdOYovTx_hDS4bzMcHIzTKPjjaXcRaoAn5zBVkFh589QtDq08kM03YByZ0mRh7W6YXRaJ6DUF7Ylln3Pk4CSrCvyRF17Kh43RRF0b9aM8sgt7f0D2KXs3srm-FL_PWu1xg2WP3DPm3DMiPG2dkHuYK8wX-cAPm01IN-09Ro_TDIdyx2IaOLE9Tg1ExtRgunOJowg13bIZNEtdcNnc6Iqff4GwCtRHlMFiSYU4kVJ9PEbOqd3E4UEv_owRI0NN6JB-N7iWdOdChg",
+      "width": 3600
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113932043824166121037\">The Mark Hotel</a>"
+      ],
+      "photo_reference": "ATKogpce-T3-c2KH9kKTqg7RR8KWQf-YnaEo6T9kNmGOec80j-hzoLMv4nSO9sWR6MKthTNSxpJTX-6ZCKmaLVMsaDfJQnFAUHSdMQY5tixBbYVOZt3shF4ronuF3_G8cjYV5ar2FtP3s09a0jr68AsP8h81IYnzcDAlx28h_FT-RYQPwMkc0uo6HI94mmP-YJuhVzIKj9V9Vd-2iv6-m8wSHQNwYridKKU9HwB_OdELzriYJj6gAHMJaY6Y0BzqRJfHeMvXxqHM4HoeCbaARIMXwByzbzsaWPyEdfEpXUCTrkuxdA",
+      "width": 2400
+    }
+  ],
+  "place_id": "ChIJXYOiRJRYwokRm1i3c9R6WDA",
+  "plus_code": {
+    "compound_code": "Q2GP+4J New York, NY, USA",
+    "global_code": "87G8Q2GP+4J"
+  },
+  "rating": 4.5,
+  "reference": "ChIJXYOiRJRYwokRm1i3c9R6WDA",
+  "reviews": [
+    {
+      "author_name": "Anelle J",
+      "author_url": "https://www.google.com/maps/contrib/113946659015523456770/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUm2L0C9ItcjDmyRqJwCX4oPDmH0d0ELahkMr61VbbF28p-Lt8H=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a week ago",
+      "text": "We had brunch outside and the experience was underwhelming at best. Given the overpriced menu, we expected a corresponding level of food quality and service\u2014but The Mark fell far short. The setup was disappointing: flimsy plastic chairs and an unsecured tablecloth that kept flying up with the slightest breeze. The food was average at best, certainly not worth the price.\n\nService was where things really unraveled. When a sudden downpour soaked our table\u2014even under the umbrella\u2014the waiter didn\u2019t check on us once. When we asked to be moved inside, we were curtly told there were no tables available, with no mention of the bar area or couches where we eventually seated ourselves out of sheer initiative. We also waited 30 minutes for our food, which arrived without any silverware. So we had to wait another !10 min! to get it.\n\nOverall, a frustrating and poorly managed experience. For a place that charges premium prices, this level of carelessness is unacceptable. I wouldn\u2019t recommend it\u2014and frankly, places like this deserve to be boycotted.",
+      "time": 1750376874,
+      "translated": false
+    },
+    {
+      "author_name": "Nicole Johnson",
+      "author_url": "https://www.google.com/maps/contrib/113684504197376188328/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWOWsGiei2vQiSISXfIkujghu7Zo64By29rAFO7O3GzLgiIebSm=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "2 weeks ago",
+      "text": "High end hotel near Central Park, The Met, Madison Avenue. It's Old School New York so if you like that, you'll like this hotel. The service is impeccable. Shout out to Mia and the other girl at the front desk Saturday morning 6/7/25. I arrived before check-in because my plan for the day changed. They quickly accommodated me and got me into my room.  It's the little things I appreciate like, upon checkout early the next morning, as I approached the desk, Mia said good morming Ms. Johnson. Old school. Classy. Nice bathrooms with shower and tub. I had a view of Madison Avenue. Overall, nice experience. Thanks to the staff.",
+      "time": 1749666975,
+      "translated": false
+    },
+    {
+      "author_name": "adam cross",
+      "author_url": "https://www.google.com/maps/contrib/106707057194980047494/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9Z0_86EefSR94XOec8NWpz9xyHTMVOUHfo7Nhc1CcvaexwfrA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "The location is perfect. The rooms were nice. The hot dog is to die for and most importantly Deborah who works. The front door made us feel right at home. If we could give an extra star specifically for Deborah we would.",
+      "time": 1750104762,
+      "translated": false
+    },
+    {
+      "author_name": "Robin Sabat",
+      "author_url": "https://www.google.com/maps/contrib/108511560762709620638/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwMxtuEvSDCQH25bZ_YokWLIRsIxZM2NqFpV1bLf0OcnTLCw=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "2 weeks ago",
+      "text": "Ruined and then lost my coat. And then found my coat at the wrong address\n\nWent there for a party on Tuesday June 4 where the waiter made an honest mistake and spilled dressing all down the front of my coat. They did the right thing. They took it and got it cleaned and told me I would have it the next day. NOPE.\n\n5 days later I called them. They said they would courier it to me. At a cost of $200-400, I thought I would let them off the hook and told them to FedEx it but just to email me the tracking number. They assured me I would have it on Tuesday. NOPE AGAIN.\n\nCalled back on Thursday and spoke to Joshua. I asked now that it be couriered since they forgot about it not once, but twice already. He was never direct with me but \u201cassured\u201d me he was handling it \u201cright now\u201d. In quotes because those were his exact words that he repeated several times. Since I was going to be away for 3 weeks I gave him my new address, and he again assured me that it was being handled right now. AGAIN NOPE.\n\nIt was eventually handled, the next day, and sent to the wrong address. Guess I\u2019ll see my spring coat in the summer and use it next year.  But the silver lining is that I only had to call over there 4 times in 10 days and speak to 13 different people.\n\nOh the food was good and space pretentious. Being a compass and some trail mix if you go to the bathroom",
+      "time": 1749922480,
+      "translated": false
+    },
+    {
+      "author_name": "Dean C",
+      "author_url": "https://www.google.com/maps/contrib/108774073326275132437/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIViT6-i6D93_H8BLCDFAQdq8a-BuLN9gfCpl7_kMmfgoMS7Eo=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "2 weeks ago",
+      "text": "This review is only for the hotdog stand outside. It was good. Cross fed beef and kimchi relish! Thicker would be nice!",
+      "time": 1749845553,
+      "translated": false
+    }
+  ],
+  "types": [
+    "restaurant",
+    "lodging",
+    "point_of_interest",
+    "establishment",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=3483669364664129691",
+  "user_ratings_total": 872,
+  "utc_offset": -240,
+  "vicinity": "25 E 77th St, New York",
+  "website": "https://www.themarkhotel.com/?utm_source=gmb&utm_medium=organic",
+  "wheelchair_accessible_entrance": true
+}

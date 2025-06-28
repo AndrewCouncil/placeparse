@@ -1,0 +1,451 @@
+{
+  "address_components": [
+    {
+      "long_name": "409",
+      "short_name": "409",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "West 15th Street",
+      "short_name": "W 15th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10011",
+      "short_name": "10011",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">409 W 15th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10011</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Busy Chelsea Market stand turns out hand-pulled noodle soups & bowls, including beef, lamb & vegan."
+  },
+  "formatted_address": "409 W 15th St, New York, NY 10011, USA",
+  "formatted_phone_number": "(332) 215-6161",
+  "geometry": {
+    "location": {
+      "lat": 40.74208970000001,
+      "lng": -74.0054987
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.74337373029149,
+        "lng": -74.0041863197085
+      },
+      "southwest": {
+        "lat": 40.7406757697085,
+        "lng": -74.0068842802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 332-215-6161",
+  "name": "Very Fresh Noodles",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1800"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105775184684797892377\">Bryan Nguyen</a>"
+      ],
+      "photo_reference": "ATKogpfEHd4zMWNZxuM2RQFqhg3vmhF_jGErQKyQAwyOg12KWhvLXV8wD9a_7MtYTHud-Ak-omUYjUNOHZ1g6WddTGVl8Cv0hUsKxi95MWS5hIFzCGpStsSU1BbOuitJaff2Lz1D3Dei2N1WdIsGfVWaMXh3PhXjdLHdGcfehOv1_0xVhYwkRzwSLi-DNYhYE16-yRfrdysQryJDwqHkGzu8Voicxf0IWRdVYgZo2Qqq1ipoi-oxpnsLEjT1GU_6E-jnUFnueH2AFUyMWdJXNTOyFq7pnLcJ29HdtI9rTeG5ScPaxS0ZmcTP69EmaME6iNz4pppg3tvFgOf5rtN6SbpGNcmTmkmShP7wywuANRRxYHFdWSV-RNogw39G0wxKP6LLBlkFu2jZ8-1Vy_ya0NaMWKol-WrCNACdLSj3kX4lVt-O-Q",
+      "width": 4032
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104563007729488907509\">M Guyer</a>"
+      ],
+      "photo_reference": "ATKogpcVnjmG9d7SC4VpCVM93Xz1E01DLdWkQ9N8QK3lu_HcOg8INYoIWNN0EWS8rEwHtSWy3NMkYVevlokFjD4QxDhcn3zB5vAr-cFI77lOdx3kNwMdTyIJv7uiHHFHl5BaXCeaZIVmRb4NQc6VT-0u9RGtXnKxGpPLr5RKJ0D7grhVEy4-iTUGJhY89GZbMRsatNHWouu-jih5RpTXyZCOkpGvczRutAj2yMglTRSFtIwCuU3fa3w6FqJBjIx3XrucpW5aNNr1v3sqJ7uDwCUPn21s6LjEP5l0SkJKjhHX0Z9PhR-2BbiMlgWJ5PcbSyaOaFWcro8Ilv77QSYzrIs_D_NMI1s-kjvdan2USanIaCI-JeeTqnmICogL4GAW2i5LPD-oj__VnrSdyln3tLlum7ZEY7lC7eKDiQ1G7aYxy_5vRQ",
+      "width": 3000
+    },
+    {
+      "height": 4113,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117808460219123378764\">Ruwan J.</a>"
+      ],
+      "photo_reference": "ATKogpcv32-OeV2qW4rwBOdWcu9cmmikBwGypXRGUN1XzFKy9kn0ebYNc6-IqkNyT-6EljqNzzyjMqmrYjTO8lIzA5mePmBFF4UVlxR_hENIpiOVmJSbXHLYteVPn38Dw4-bYPYMb7bISlpssxJERvCor1WHwfDWlXMtZrUR23x12wdYQ34Qgsd77tr3dPNyy0RwkdkO3Cb-Hxly6t5EMTLR6DTCug0gDUlXBV2WO5RK3UcHlaCd8k1X-rLm0iLzwTUZuFAhdj6zGZe6io92KOlvpdLm_E6eIFs8bQZI5TMFrdqRQ_q24pUJGj3poAuldFqbEqqroVzqjyUOwuU1hBWOw7nYeHB3o-AGbUnyIMuNA9iejQwssuN3UiWQ9LkWpbBozVeyDLBsNW_xpt5HimIobU2gBjA6LQgmGvCHDJU4Gr8",
+      "width": 4284
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112707661581138638353\">Robbie Morris</a>"
+      ],
+      "photo_reference": "ATKogpeDJlfxThuI3vgyO6-CDzLtU_OZ2FCjWqnadmhuL1hqlbmSM4McxHwwh9KOMDqbXzUU33cl5u1mCH59AqzBrQLnztY8pzQdp0XUkCXTh1tF-It0JbTDd1vLZiWuq5RTvJR95haKc6s5J5Sk4hmzADDT72ffgqKqtF5FY5nZ8HMJ4u262JDgIgSaIijo7aXB_j0s9U5OE0yukyVFSFO29HOyjVKag_t7P1aRZekd16BF_L9WY2IC7dvROYSaF0oMIoyTwlUMta-2urmjLG6nRnc9jNECvT3wVhx3_MSNJRCxdntaumbP7IMYZGSe33g-clpxt6s4B8zIAGEfUJ9Sk9PPMv-uz7aQNELLBQso7vN5KQYtp4_LxUSWsORz0T7EXMBAT31NQOKTodWMyPzLBHCDhX_RnHuQIeVaUCtUpEhlHg",
+      "width": 4032
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103285708174442859613\">Slidma Pineda</a>"
+      ],
+      "photo_reference": "ATKogpclhF396Wz6mnMi-O-axKWArB5HPZBe6nnr-lB-XcuIS75X0_jH8hQEZkBiwi_eOm1pjTvO-7smHBitv4VL9B47JyUbFqgwCY0MfmP8olE52NIzcTYcJO-8kKPTcWTyJVB2Nseer0iU3HJ-FNg_rrE-Y00VFCiqmtWHmLgzi4nbZDEBlu-hEW5mB8KolcYadTykmbWJKlMSBAFACKnnZ6MBu9agPTfXjRBbjNY_EaQp2pUEdPISIaH8KycxVYeOiIwWhhmyadhfI8inYBDOPyfCz1tl5jdofK-yAe5BP3_SQLAPjwL7RNtJHm0_JamtcNSd2R_YA-7Sw9QMH1wq-SlxvrnFqxEeEtjuy74LnRzunlr5L6LIWYsdFLOYRSEfuowWq3zkeVqGtyJTNBORPgRr049op7MMBLu3Xsz8q014FXvU",
+      "width": 3600
+    },
+    {
+      "height": 2992,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102246382425497131838\">Katie Taylor</a>"
+      ],
+      "photo_reference": "ATKogpeddTbNAFkVizY8_snYca79fvJpgQyG1D_9k8_Rx5bIttPpHTVR5S2IGKTUA4gYyhkX2Ttuf2BKzpxG9IEgDgxx6iEkvt9rPvK2lvl_rd0GKHR7CptXPJfe4E3xn7uhHrEjMhPHMYMAjrbM_IQZJmi_QI8ze5ae5GWcvOvGTF5BibwSzQx7TPvse16ApZi2UCTJiq5egmH9qTD-gkzNA29x32KMube4QMf11VnHvLrZzt8F5N6Hz9F1P4NCFmF_BdICBYOnTcHB-VVGONWG_bBe__yN6fGHz3fr5ElUI3he2YgGjg7CyVUMJ7Z4-Do1QF2tt5KuVjmojp2-M9XycU_uux58svDjMjoR4yCiyjQBlDaW-tLYp4dOw1BpUH2MZVNXQuU_U3hroKWgDly2RN1yCuwzDRGe2nKKOnz3eEBG9OO8",
+      "width": 2992
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105853218368004682403\">Shanelle S</a>"
+      ],
+      "photo_reference": "ATKogpfM0PF5k2UvSviTWjZU2lhE8XSYwSdO8SCnRcC_5eCJeCs5MWKVEutrPwwiGjBLvnXq9z866TCo9W5KKfUkTmAnDuGAJbn1CJRdfONWcMAYQaepM_BlANTn5ZJN6gGMJhCtA83008Q4MiPrb7MdS3PVfAiYCCvQweGB6pEjcuiGW7trekwPY_9sXoJxrW0Hlj1JIwJs7DVG6wuUP-jJMbSBVMBgryQVUsPoOy6DF03r_O2KURe1e4ZHa83T_cT7C5MJlRdwy1bwYI24-6y-uEcf48_0t7Zgd8K8CWULIaEbozN017KYiDQ4bOw79hM7KoVG_lHM_UjophY0jM6rbmQGfOL_8-R7IQTq5tXNH-y9rce2jeNl358VXe60XfZ9-lzF2QnWDsmhEaF75zSFMhPDBksr9D_CZR3FzpBKdnpEag",
+      "width": 3024
+    },
+    {
+      "height": 3168,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113193933602411239915\">Marina Ludwina</a>"
+      ],
+      "photo_reference": "ATKogpeVjC-7xQCBB4cANz8P9RR1mNuhkHNMHmq0Q_nYovaMVXrNQct6bGS7Avvu1mAZcv6tXT7sdGDYswjKWwDin44JWajlHC9SuhrrJGugBYzEfpWrpnUSXKuwePUbzAYSh1dEgx0jdkDpHGyJom_OYitYSnGZrMhtHFHzc3_FbSTv2DLlNVOA16UiJDQJQa1zDdyjem2WqKtLPxpxmlFmQITjwT7m4qxRZjhhESZUPl-rIbilquEd9NKbkC8mwcTxlAWOOlNbnLWTy7NOuu2ePAw2XFrYNZ4AwLoj8rrG0QTOuQSeE8UT39e_0Rc6MuenmZZ3QHzT6JY7JiFaCAXi3tqmsw6jWxuW5BvdPrD22kYCVyfjEwL7tDeBjmydQKUSWVILdt4E1ST9X0kZuRcNFHGOpwUMoK4AZMOhwbqVnSfqb1Nh",
+      "width": 3018
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117325514877333807553\">Jesse Niou</a>"
+      ],
+      "photo_reference": "ATKogpdhGWURgG68RqQ29sY2ZlSGt-mzQqjRhrK3N_Xg0zhWqv8Eq6zimjOaRgKrD7waHz1n3_g-usJ5Fy02sjIwUyzKb6YoXkQGPbHinkW6rGwkY3WjXogNNVJRFiIzvKxkw2R_PIDvQTirsAABvJlSJEguVIRjNKKLfAH-m8QlKF_czkZRU-RNznRRu70MLwBIcYH3nrstRhDocXvOvHAq4Z00kAqgHX8Smz-_ar6BeuZmxl1poA0czH001xvRSJsnHOwoeNytvzLum8z3oO_0EIU1vxb0Iu9Lnjvnp8e0yrm0bFgrWVmRPoWqknfVfl2fp7ET16OzX2mqBt3wpCVcalgVQ1K7rCFoTfIImmclf-GO0MZX9-SHKPqQEVHs8pX5ETMc-eomlyVOH46U33y0cr6Q5T0RNZ8gxclfzb4HAtMuvQ",
+      "width": 3614
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113400094914572767834\">IndyKevin317</a>"
+      ],
+      "photo_reference": "ATKogpdDsdV7JAVhmjcJV_Y6BKMuggdYP_PqBBBcv6035Lty5XL9wE0-qJm7km_vlX3G2stA8SNgHYut4WvCUw7SWoPi4fN7PZYfhpetE4WscuHCtMxRor7Vn5VjwvMG4_HAu0BPP2wrbKtUW0xBMLinMHsi3x6palbnwc0gSO2WIJwTX7hKQ4S7tX9a40MTpK_d030YdNAL8VRr4PipweWhJ2RF6CF191H2NunnKS5H_ZExzqtpq2aVgqt2ymn-wvTaqoK5xwQZ3hUbHknM3hIddD4dFQXGXJHYNPdOkcrZ60lysCDRqFROeb5ITVnkA8MGHDwjP6mK1MtVrlCzL6_cmPsWxns8yni9Isa-WKSmS2hJ7zKUD-GUKGveLf5il4aRcyy4v337cd7b3oBns3UMZDhVJONbGovI0XWpCYrlJJKacjgT",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJHfCeYL9ZwokRWJA_N5ywsvk",
+  "plus_code": {
+    "compound_code": "PXRV+RR New York, NY, USA",
+    "global_code": "87G7PXRV+RR"
+  },
+  "price_level": 2,
+  "rating": 4.5,
+  "reference": "ChIJHfCeYL9ZwokRWJA_N5ywsvk",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Jennifer Kubinski",
+      "author_url": "https://www.google.com/maps/contrib/109855441405324766588/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLvqYmuh05S0HfHiwz88bjrxvMW1DCASYMzgquXL02j_2oOlg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "We have been coming to Very Fresh Noodles since 2017. We visit NYC every year to see Broadway shows and explore the city. Very Fresh Noodles is a tradition in our family. Great for all diets\u2026our one daughter is vegetarian\u2026and you can get a variety of heat! And the staff is extremely friendly. Recommend getting there right when it opens on the weekends\u2026or go during the week\u2026because the line will be wrapped around Chelsea Market!",
+      "time": 1749312114,
+      "translated": false
+    },
+    {
+      "author_name": "Hugo Hernandez",
+      "author_url": "https://www.google.com/maps/contrib/113920320913890939598/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWc00aKzHuFh7pOA43LgNp--fX4XoeoLS_dThXFiS3QlBXZtIfD=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "Spice, variety, flavor. Authenticity \u2014 but with a price.\n\nWe stopped by on a cold, rainy day \u2014 perfect noodle soup weather. Tried two of their popular soup options, both came out piping hot and rich in flavor. Definitely seasoned with that classic Sichuan peppercorn kick \u2014 subtle, not overwhelming, but present enough for fans of that numbing spice to appreciate.\n\nIt does feel a bit over seasoned to the point I had a hard time telling what was what.\n\nThat said, the total came out to about $80 for three soups and three drinks. Bit of sticker shock for a quick meal in a market setting. The food was good, don\u2019t get me wrong, but for that price point, it didn\u2019t wow me enough to make it a regular stop.\n\nService was decent \u2014 staff was friendly and helpful, but nothing exceptional.\n\nHugo\u2019s Take:\n\ud83d\udfe1 One-and-done. Decent for a rainy day, but not something I\u2019d go out of my way for again.\n\nVibe: 7/10\nValue: 5/10\nFlavor: 8/10",
+      "time": 1743714966,
+      "translated": false
+    },
+    {
+      "author_name": "Slidma Pineda",
+      "author_url": "https://www.google.com/maps/contrib/103285708174442859613/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV61o6fUyfICRrPfC9U1qLG-oCGO85uszxxVHpB_x-7seXupC-Weg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "3 weeks ago",
+      "text": "Locate inside the Chelsea market, i ordered the tingly & spicy beef dry. It comes also as a soup. Every order is freshly made for you. And wick I just waited like 10 minutes. It was my first time trying it out and even though I\u2019m not a spicy fan I really enjoy it",
+      "time": 1748800235,
+      "translated": false
+    },
+    {
+      "author_name": "Neha Vl",
+      "author_url": "https://www.google.com/maps/contrib/104137726274158735863/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrhG23VSvhgIh81lXQk-aeF2kUB1MTPZb15tzZ5MO0ia5McmTgOQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Every time we visit Chelsea Market this restaurant has such a long line. Finally I visited on a weekday afternoon and got a chance to taste their food. We did a takeout of the tingly and spicy lamb noodles and spicy vegan noodles with mock duck. The server was very kind and suggested that if we are going to eat after a few hours, she would pack the ingredients separately. The noodles were very tasty but I would recommend eating it fresh there rather than doing a take out.",
+      "time": 1748383402,
+      "translated": false
+    },
+    {
+      "author_name": "Amy Goto",
+      "author_url": "https://www.google.com/maps/contrib/113992867365436016212/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIMJm8rb6HvRkLmUtd7ZjQQEQjKr0HhJXcOPrIfwVjKZq8RnQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "I had a wonderful experience having lunch here. I ordered the Tingly & Spicy Cumin Beef Noodles, which was probably the BEST dry noodle dish I\u2019ve ever had.\nThe noodles were literally out of this world, and it was great to see the chef hand-pulling noodles right in front of us.\nI also had the Red Bean Soy Milk, which was fantastic too.\nOther members of my party ordered the Spicy Vegan Noodle Soup with Mock Duck, Chicken Wings, Tiger Salad, and Seaweed Salad, and they loved them too!\nIf you visit Chelsea, you have to go here!",
+      "time": 1737664553,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_brunch": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "establishment",
+    "point_of_interest",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=17992637646286852184",
+  "user_ratings_total": 1979,
+  "utc_offset": -240,
+  "vicinity": "409 W 15th St, New York",
+  "website": "http://www.veryfreshnoodles.com/",
+  "wheelchair_accessible_entrance": true
+}

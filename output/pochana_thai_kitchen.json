@@ -1,0 +1,604 @@
+{
+  "address_components": [
+    {
+      "long_name": "33-16",
+      "short_name": "33-16",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "30th Avenue",
+      "short_name": "30th Ave.",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Astoria",
+      "short_name": "Astoria",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11103",
+      "short_name": "11103",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">33-16 30th Ave.</span>, <span class=\"locality\">Astoria</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11103</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1600"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1600"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1600"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1600"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1600"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1600"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1600"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Low-key, wood-hued storefront offering Thai family-style cooking from a husband-wife chef duo."
+  },
+  "formatted_address": "33-16 30th Ave., Astoria, NY 11103, USA",
+  "formatted_phone_number": "(718) 956-9559",
+  "geometry": {
+    "location": {
+      "lat": 40.7657278,
+      "lng": -73.91931869999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7671505802915,
+        "lng": -73.91791501970849
+      },
+      "southwest": {
+        "lat": 40.7644526197085,
+        "lng": -73.92061298029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-956-9559",
+  "name": "Pochana Thai Kitchen",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1600"
+        },
+        "open": {
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1600"
+        },
+        "open": {
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1600"
+        },
+        "open": {
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1600"
+        },
+        "open": {
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1600"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1600"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1600"
+        },
+        "open": {
+          "day": 6,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3456,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117687195419093587095\">Pochana Thai Kitchen</a>"
+      ],
+      "photo_reference": "ATKogpcKiIT_0jSqsCtEoH80pljAAY8-961IbpBhLGrL-g7F3UG4BiTQN9dq-L5BD8WCE0nhjN3MynSpJY688Db1Up7Vr73ye0dDBt9wuuR0rOz2RWKzZXD7SFqRAykziNOgi02Bd367rqPI8nvTsILV5Dr0t6-X9qvd-kFC1LpOyzYpodcXBkJL5xzRKSLhzh9KefVVidR9m-elwnK_7iDE5DNwO0RLir643phacH_Yw0DNnHepL3Qp6-arUVlU3boSOk53ZXTtpbYf68cRr6JoqTyoX_cAyZ_y3u_WVFtCCFZVWw",
+      "width": 4608
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117687195419093587095\">Pochana Thai Kitchen</a>"
+      ],
+      "photo_reference": "ATKogpdaoT02jIPzBcJmXk6S0wCZ8LCs9GJlkWPQX4JCyWBD2Kx6yWOkU9BxubNb_0PadrjzZsNX6aIL5MN5-1z0u2looevZiPGjcQIvY1_dMC1qLUIhfJumPfr792P4Ze0cWyeU-ZxZk24sceNp3EPVEommLMLGvZyJSn3cwOvQVBjXQUP2vj5E9XQAMNZzaKgq0XRf1Bi_xVnstn1_QrSdO5-p2ltAZy5WMbgOmxjMC_ZVXAxB5cBK5ZnBk6NqBe8OPh7PEC_tcPP5ldl6TvyGq-d9eMJawoORh-Fcbs7xSi4nMw",
+      "width": 4032
+    },
+    {
+      "height": 1365,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117744044090679229276\">Sacha Iskra</a>"
+      ],
+      "photo_reference": "ATKogpflXkBMKGvt7jcK31i9iaxZYgAYvONP5_XZzRh34tNYNkWqPflleBmGE7LR0OK3dL-LyeaTMBoJt3-XRVeO-jytpmcJ5z2N4OhcWIPk5mH3SugOHGVx27J2ZK4HbNtfSDMJ9W9YnJwMOPT5VbBUCXsvnyGOmwSctLag0NSl3O0Tcd6tAIT2M52iqOZo4EWExKDUqAmzSwMPe-to7fk11IEPWsOKuR_f9fcMo2RMRaKtrgVyoF9V3ijAzY8qGno8XJ-FkVMKUY7T1AUoF-9o5SH7bqFG2oc9zIRFn-cSY6tj_PpCKa8IiSZuqV0F1nkbJIiJfvOrL1alfr5FglbzleCSyl-nWEwU2GmZ84hVhJXJRfuGVjVBudJoyr8aKfEh_tOxPMdCPgnn1dcwkWc8C9X3Ar4kfchZp4JbulgYpZvREd8F1qSAcL8Tcc6-0A",
+      "width": 1024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101492853322595516123\">Eloy Yip</a>"
+      ],
+      "photo_reference": "ATKogpeZnuvdWvc1VlEB8m1tUM-0QkyERbrQ-WQ2py4A-XfqDskpKeASuVkrAJOtQn5ToAEB5KgO-3xVFoBugNFOMffHGCMYAh2LcuJLvarALElTwDPVWeXnmp2nvPzlpuuN1TXcLD7LbQVYyCgLBQKGVaQF6LimiR_s4xMxx-IN0UpwNDugUFprpoZewPjXW0MNIL0dwFCouzf5hSVRYOcHDDvJlqFIGPAG9uIwGEypkW5aPEukzxKX3bmH58pJlZ4Cw57Zz5EOMu7sKYo_nITb-mO3vaFpbpR8r2hp_s3sXQ-EPqWOi72K5N7KwSAcEqYXwmZJQhWUTEsVa6Uysjvr1VXv8jFZaUY6S5oe9GQgXRLWCaori9QRDKnHAUKp4LA4oSCo2JwWOARkzBbV8yuDPehaMUmiYLSoizhL-ykQDzTRnw",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115394448693030943627\">Kelly Lau</a>"
+      ],
+      "photo_reference": "ATKogpcVo1OufwM9GwX0df1zEC6xL_5HM_5ellyHRMil1Kc3-0NjYqa5qsSFEaL7_IZqP8YagwjSr_AWLk7gMan7wCGO68Lja6Thhs_b_fnzZnjaXkZPjhDZtadk5Vh3PrH1zKFnU_knMIfzBSCUmqOqRrXvEikv9PFwoy9WYHE_NFr_nqdvJMjFBEQmmL-r--K-1Me0eu0eOnGEKjASza7sZ4-UNAuu4FijhvxH8kscqKeNRDQWXgnHs7Ku6iVe-JsAlVjE9eXaUG3jypgBif5NzMbHZFi1F2jPvSpyL54tuj17SYxo4kmqRPq4JxNdedFea352Wvqc4Ei7hsk9y7Cxie0qTK5jqtCX3aVGZrjctPE79hJry-HDKbsajeHCXIjOC5sTQo4oTbkZq8kIBrjKawfXRlmm61CpuNXFW_-NcnRaZY-g",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113509586302313649295\">itzelenaho</a>"
+      ],
+      "photo_reference": "ATKogpe-x1yePlAEXYBVhMs1LVLsoYFDCWbgrS_3NC4ZPePryXyb9AZLA41q1pKqWtHsNYzQvB5whCtIKTq4QJ_WWp7IsNbJ8LzX1GTrWite20becv3K1dYT6SWP3gLv_GTcaWKDX4O1FNLmLeDLaXfQysTAaaW-beGScwLfG84FJt8nyM9qUDFmPScGYELSyvc9dE2dmv0AIL46q4LTNJyVtDrbh2vwXUikaQc4aLButhNWWNuBo87pSFg3cpsPul_Vo7JBBQB1c_RUJaHoIm9GAvcKYxfvrt8447fTl7e3uC3I8a6vnAiRghGIj_3CZAoxapwJmpj0e9H7qhAb-7ktzrfmbGMN6sTKS6TdmAr-c6yyub7HqJHjPFU-mC6QHsTgBleOd35_vcUJf8HasK9jMFRnJYzXbPsKcSRsyfZJRTI7fKPj",
+      "width": 3024
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102327688462678556443\">Najeeb Abdullah</a>"
+      ],
+      "photo_reference": "ATKogpdNAyCO3t4O3yf8VceIaehJFlJm9PAtvpKLAT_9w5r2edNYfqQcZT8mtDLqDJtHcj4NMCxdF7pALjg8qi4EXsbQVMh9YGCF4Lvs2ghUPA2rXNSYv7YI1fShxznP8-oy4DdQn21bIchplNrhZ8_QxXTD35U12KaxXNf9-QIv5uentsNPdEoEFMnbrxc1HLu-seco8rXWlcwXU_hWtD8m6Enkioc6Alyis0nGZ_QLFEni9s7GP9-5L1fmLU-A_HrwIs39UozUuUXQ_TtAFWUfHQCji5h_f7cAxgabPva5tMmJzjvmcAq-_U7k2ZMicRgse0OqQYLOPkxpYzHwcrn2z0bv24IChTgw2mONxQK-0qnEjwoS-z8P5aejy-9_Z-6gUoWnk78gWhLmmJNv5y8BNrxwrAc7x4zWXKHTSEy2E9BCk_gz",
+      "width": 4000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115670044882057111512\">Wendy</a>"
+      ],
+      "photo_reference": "ATKogpdu2g-gaXgoqHbcFhKjDSQ-IEaxpAyichK3N1y_scuQUwqVFKY_MtPAMOHzTMOb8Wa9j7WurA9GjUXGg28YXUjhY3nUp5wgZ0B9YmktvhIO_JX5tVfgtLoJK_q-roWxx1lNVFncEdUhOlz2hrfy9UyIX7PmQmgkbqAphFlN0X91eOkJq9R7aYXMBcAF3RH_lYJqLJ6AK3x1IMuIc3Dmzg3TeffplgkhepXebYMZwERe1rbXnFDdbTjcNRNMKqZ0bzebjBFqepCAfeAHW2z3hFX0rkwLfsk74QZX5mxoypORT50l9KCCzTDNy5Waik_Ch8C1annQtuYv5PUPzni0tjpt1JYGSgEmJ_BFs3-wge4tseODbCuyrKHHP2o2mqTIhmGN8rxIRqhhxky3SD7AXVnMlFa6DfkyVwdqlFp8pfqawvf8",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104837405696424046141\">Ling Hong</a>"
+      ],
+      "photo_reference": "ATKogpfE6zc3GQzP08d3qq-4e-ZHeYWWxBL4gxBBZM3A7s7SkhO8l_pJ9A-h8h7bcbBbJTSGj9KbILHRIac-VqRbeYKIRZHThQk47eqUf2IiGP7ZD7s-040NdG0RER8ToNl1JZ9Wt1PljcmSYU2KZY0RaPqDh67lZXp7yRu9ZR2P5Rq1f41L5in8dy5XPYsmzrp2EDBbxQ3IOuCCJi7dgKWiQdxRLSBqN1uduZB-aG6mOvCkd_7V3L-zcVirm7ffWeZLdCd8p3_svlwhYVA3PjRRDh74aX91pCX0qjWxFMa70dma04fYJTBheoezCjaCm4eVaUs-9sWu_PCHcQ4BtQ0bf_0BZ5papdKU2GPUvNiSrWTgZq5xkADVs0IxbCiXqd4Yz-4gkIESmncroQEZqMkGujjETTHQnV3pe_fN927HQlN4Yg",
+      "width": 3200
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102327688462678556443\">Najeeb Abdullah</a>"
+      ],
+      "photo_reference": "ATKogpe8XYpZWi3AA4UK_hefKutTa_Q0GaLS8oIjTXf_aQb6SMkYJVPL2XatwlpePzKe8SJNquIz34zlrp8TqXdsHm9KY1hfSYa_vwjDqArgpvpQj0TSPkVl_B2og3qTn_Z2zeGyF2xX8t_2r00rgLheZgbcI3MjihRJ3fxV9Y7Ww07m7rfme21KB_mqrBIa4AE5vI5Lq9CFCo0vGTN_kusulXlRf4s2eEyZazp14WZdb0awrsQE9t65SCKuSl0XuTaQKlxLwveoMdiXQkWP_ZdhRHAkOa-StqjinhF5O8xTnRN4pbglD5-PFi9RRxFN5pFGHB-dkkl2HKBW49cNtguead6Zc7ReLgWOUO33LFZWGsfd1djHDeBrHtkQQXamMwordSZnHeFbYrYig43FlDn_nO7PA4XqX2_VxKYm6uZj_QaouA",
+      "width": 3000
+    }
+  ],
+  "place_id": "ChIJS6RtpzhfwokREkNkq6h__dQ",
+  "plus_code": {
+    "compound_code": "Q38J+77 Astoria, Queens, NY, USA",
+    "global_code": "87G8Q38J+77"
+  },
+  "price_level": 2,
+  "rating": 4.2,
+  "reference": "ChIJS6RtpzhfwokREkNkq6h__dQ",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Ashley Malinias",
+      "author_url": "https://www.google.com/maps/contrib/104169324363545849589/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVG2m0oe6X8XgVZUSgRqAlp7XcBn591UGc4G2qCAPiAWBoKyjEdJA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "\ud83e\udd33\ud83c\udffc Foodstagram: @ashthetic.eats\n\nNothing better than sipping on Thai iced tea with a delicious spread in front of you! \ud83d\ude42\u200d\u2195\ufe0f\n\nVisited Pochana for their $16 early bird special (Monday to Friday, 5-7pm) and was not disappointed. For our party of two, we each ordered something different to try a bit of everything -- spring rolls and steamed dumplings to start (both super fresh and paired perfectly with their sauces), then beef pad see ew and shrimp green curry for mains. The pad see ew was one of the best I've had, and the green curry was rich and flavorful with perfectly cooked shrimp. We ended with their homemade coconut ice cream, which was light and creamy.\n\nThe space is cozy and great for all group sizes. If you're a party of five or more, definitely call ahead -- it gets busy, especially during early bird hours. Service was quick and friendly, and all the food came out hot and fast.\n\nCouldn't resist ordering a couple more items outside of the early bird menu because everything tasted so good!\n\nHighly recommend if you're craving Thai food and want an incredible deal. Can't wait to go back!",
+      "time": 1745013659,
+      "translated": false
+    },
+    {
+      "author_name": "Sammi Chan",
+      "author_url": "https://www.google.com/maps/contrib/101140214633694486363/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKY3HPKRqAutmSUmFLRQHdEL0oirLKVw6NxYAefwMBkqNlAcQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Thai food is my weakness so I am glad to find Pochana. They have an early bird special for only $16! You get an appetizer, entree, drink, and dessert. The entree portion was generous! They also have many options so it will cater to every palate.\n\nThe service is friendly and quick in this cozy establishment! This is a must try!",
+      "time": 1743109761,
+      "translated": false
+    },
+    {
+      "author_name": "Ling Hong",
+      "author_url": "https://www.google.com/maps/contrib/104837405696424046141/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI0-h891VdI8NWNG9lms-gKHFuT77aeojFQnVSQ0nDBH7nEdQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Pochana\u2019s Early Bird Dinner Set is a great option for a satisfying meal at a reasonable price. Available Monday to Friday from 5\u20137 PM for $16, the set includes an appetizer, an entr\u00e9e, a drink, and a dessert. The portions are well-suited for one person, offering a nice variety without being too much. I tried the Thai Tea, which was herbal, sweet, and refreshing; the Pad Kee Mao with Beef, which had bold flavors and a good kick of spice; the Steamed Dumplings, which were meaty and filling; and the Coconut-Topped Ice Cream, which had a pleasant twist from the crunchy coconut. If you're extra hungry, you can always opt for larger portions from the \u00e0 la carte menu. Overall, it\u2019s a flavorful and budget-friendly option worth trying.",
+      "time": 1743385555,
+      "translated": false
+    },
+    {
+      "author_name": "Aimee Monroe",
+      "author_url": "https://www.google.com/maps/contrib/100560099085743393299/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWmKyjIfJjmbzif5JxT1b5UBQiBENFrWNiPVJA6ZCeuLrSP9OA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "I\u2019m not sure why this place has negative reviews. I was skeptical about coming because of the reviews but LET ME TELL YOU. That was some good food. The Thai Iced Coffee tastes like caramel.\n\nThe scallion pancakes were delicious.\nThe spring rolls were very good.\nThe PINEAPPLE DUCK CURRY WAS PHENOMENAL. I can\u2019t wait to be hungry again to eat my leftovers. I can\u2019t wait to come back next week either.\n\nAlso the service was very good. I didn\u2019t have any issues with anything.\n\nI would recommend to anybody",
+      "time": 1743786900,
+      "translated": false
+    },
+    {
+      "author_name": "Rebex",
+      "author_url": "https://www.google.com/maps/contrib/101320374276870997383/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtXf0Xhplb1DICUMq3OtjZttRBaWmsS4fWC7y7LGlz1Si0GHmzyA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "@pochananyc has an amazing 3 course for $16 early bird special! you get an appetizer, entr\u00e9e, dessert and drink for that price. that is such a great deal in my opinion. this deal runs from 5-7pm on mon-fri.\n\nft:\n-curry puffs: crispy on the outside, and filled with delicious sweet curry inside. the plating was super cute.\n-scallion pancakes: i loveee scallion pancakes. these had a thin layer of crisp on the outside, and then very chewy and flavorful on the inside. it's so different from chinese scallion pancakes (which is what im used to) in a very good way. i loved it\n-garden salad: very standard garden salad. it usually has peanut dressing on it, but i took it off because of allergies! they were very careful about contamination and allergies which i appreciated\n-steamed dumplings: my friend really enjoyed this one. super good appetizer since it was a quick bite, but fills you enough to wait for the entr\u00e9es\n-chicken thai fried rice: WOWWW. this was some good fried rice. not too oily, perfectly salted and slightly sweet. i eat a lot of fried rice and this was AWESOME. pretty decent portion too!\n-beef Thai fried rice\n-thai ice tea\n-mango juice\n-shirley pops!!: i order shirley temples a lot, and this HIT SO HARD. it was so good. they also added pop rocks on the rim of the drink which made me super happy. very fun!!!\n\nthank you for having me \u2665\ufe0f\u2665\ufe0f\u2665\ufe0f\n\n\ud83d\udccdpochana\n33-16 30th Ave., Astoria, NY 11103\n\nfollow @rebeccatakesnyc for more nyc content!!!",
+      "time": 1738294369,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "food",
+    "establishment",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=15347563467555226386",
+  "user_ratings_total": 566,
+  "utc_offset": -240,
+  "vicinity": "33-16 30th Ave., Astoria",
+  "website": "http://pochananyc.com/",
+  "wheelchair_accessible_entrance": true
+}

@@ -1,0 +1,461 @@
+{
+  "address_components": [
+    {
+      "long_name": "1221",
+      "short_name": "1221",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "6th Avenue",
+      "short_name": "6th Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10020",
+      "short_name": "10020",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">1221 6th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10020</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0400"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0400"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0400"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0400"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0400"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0500"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0000",
+          "truncated": true
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0500"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 6:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
+      "Tuesday: 6:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
+      "Wednesday: 6:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
+      "Thursday: 6:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
+      "Friday: 6:00\u202fPM\u2009\u2013\u20095:00\u202fAM",
+      "Saturday: 6:00\u202fPM\u2009\u2013\u20095:00\u202fAM",
+      "Sunday: 6:00\u202fPM\u2009\u2013\u20094:00\u202fAM"
+    ]
+  },
+  "delivery": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Open until 4 or 5 am each night, this Middle Eastern food truck prepares halal gyros."
+  },
+  "formatted_address": "1221 6th Ave, New York, NY 10020, USA",
+  "formatted_phone_number": "(866) 492-3357",
+  "geometry": {
+    "location": {
+      "lat": 40.7591946,
+      "lng": -73.9811521
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.76050773029149,
+        "lng": -73.9797229197085
+      },
+      "southwest": {
+        "lat": 40.7578097697085,
+        "lng": -73.9824208802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 866-492-3357",
+  "name": "Adel's Famous Halal Food",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0400"
+        },
+        "open": {
+          "day": 0,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0400"
+        },
+        "open": {
+          "day": 1,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0400"
+        },
+        "open": {
+          "day": 2,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0400"
+        },
+        "open": {
+          "day": 3,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0400"
+        },
+        "open": {
+          "day": 4,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0500"
+        },
+        "open": {
+          "day": 5,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0500"
+        },
+        "open": {
+          "day": 6,
+          "time": "1800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 6:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
+      "Tuesday: 6:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
+      "Wednesday: 6:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
+      "Thursday: 6:00\u202fPM\u2009\u2013\u20094:00\u202fAM",
+      "Friday: 6:00\u202fPM\u2009\u2013\u20095:00\u202fAM",
+      "Saturday: 6:00\u202fPM\u2009\u2013\u20095:00\u202fAM",
+      "Sunday: 6:00\u202fPM\u2009\u2013\u20094:00\u202fAM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106119741715819873611\">Han Thu</a>"
+      ],
+      "photo_reference": "ATKogpcN7PEqAlc8UdaiVXyhFKjX-BrE3iWqPEC4FymfRtMd6NLUoAVIzpU2_Q8eVotpt1trXGCbqWbrwzzXz1aHZzNUqdtnRSR6Z26ECesGQwtQEY_cP3KEWmVsSizR2Seza-Qu3y-2qZRiCJ9ZnjKZpNSP-ljoFPWsq-MV41QiOc7awQTWjG3YOWvcGphB3mRrk4BUZtGUd59QXyhPQcvTCNJCMr-tBamoya1ToNKTuQwSJ3gKblNH_UDdgGBtY2841GMFVbqYa2y9CFjDwIHWTLrePQYE4SsRG87XsnE0UqZlyIPkCfb3hGJCYqaCcpJ1TFlaiz7iPasb7xlkUg2bFJOYCEdCnRbxDfGTIeuodjQn6qwPuIHx5Fh46xH9QP_Qg1a3-ld7HzA3TkWJgczeeJSrHCzZ7JBVozY9DdrjfBiX0AQ_",
+      "width": 3024
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103732939951062172552\">HA JEHUN</a>"
+      ],
+      "photo_reference": "ATKogpcFiA40l7ymjm9adOP3OmT_aVUqfybFHckd1ogmVTwn91xUXv4mipBifdb4vY8_Tkayn6FMv3qk5EoUEYv78IOsiRFFkqFs5XFh8kubEwulZ2XUI0nXkBcB_n-4QBwIz-ArzR6dkPcJcUKYnJxcskJ5c8DiolMLDEHasOzM4xKj4aaNXfxJnWVNVoA9ZeQIJ8vr7SuFMUuyyzquSczBUNGq33gl6oEpHscOwH05WfY19frY3f2U3xWisgKgP_TXJhcY0MBoiMaB4XVkIUyEqoh-ckwNrizB81jeXslnqFIASEUqHShj2-QmpawRhdcg--CNn5VnDBy1zQbDV7kyClWI0GtQS2Gu5NrBM6uqlJhvQiIrl0YQyPloZcI3B8DKCTp3zmgyvVDov6spjbYAzfcIlD1InVKu_cbjgHJjocqtNWbG",
+      "width": 4000
+    },
+    {
+      "height": 2313,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107741931244361095923\">Adel&#39;s Famous Halal Food</a>"
+      ],
+      "photo_reference": "ATKogpd7kNWWc5xgRPryDH2qgDG7m5xz8KRfjbS5E5ivJjTu51cQep6MEiF2xHeGL39GglClykGRMawKoZUrYpVUnHYYAovFsNUheA1hjlEDRzWpKElLGGUnQAImbXlxtoMcJJSer_feqexdf0xqEejbPhBEOTRSm6nbt6YbcoJQsma0QSATnwUM77u_sf23JpnCo6xVJGzFvs6hlFV1-ZnIdHJ9lfgGWkAu8DBBeAJ1b1xvJe5e6cdzoagJmxIVk3odR3QGvRbvM5P8Twt_X-fNafWiqmzRiRX8M0i-sog5bOQ8DA",
+      "width": 2996
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113765588306189962332\">Andre Szabo</a>"
+      ],
+      "photo_reference": "ATKogpdTjZhJL-sTJcH8HILKxcTn9Agj22fELqNyCBNVeSwXeaN9iGbqxxkIlIzIpSPdilWCOqx258lpIdwX0mYC9PPPa4rEI5nTzdrRxnjDwfCqy5IA0u96uf_AEoLOaxR7vbePYyu7bOoyy8plC1tZNVZ-Nexe77J5hZOVxUf-tSz2DyNbALNK7-zTh7vlz5XvcPLh_7JehYhtkok-DsDlXUmQ6LAzrbccLT_Z71oy4RFNxx00GX_vMLbxU6D4tJJoRTEXw_DNqxN2zhELxeTaZVFLxC4rdYFv8CyOx5gKwLz_qHeTpEutWfHs6e44zo9W5X8IUpn08EAfjGtPbrut83LNid1LQ0rbXNh4_-iqW5DQ7oiey4SyZ3nbCneYMLx24pKqq8dC5_Q0oBnNv3yZYUjeTyXezl5gYJbpOxyh9QyTpQ",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111411350989482043499\">Stan Hannibal</a>"
+      ],
+      "photo_reference": "ATKogpdBZhx1UeOnAi5BrjZkqj3fGX5L9Hu8n0s6EeO6SAnpeYg-4rCsk3zSNTigxskSkl2fsBYYO18P2AplySDYEPNm6ADgs6AN6euK4ML4Q9iG7BresVRmSYEOcwz3xdU86z7-UbUGczFNy2ImHMT-g5PoKXpVMyNwkOhdiafdmMmh8SEkE50Tw0ekmslN1hBOgD7CgexdkJebuTu89Fy9DGnzzd22T5FXM3VklZRkBKe3kQclN6NQ5sTdc3SIh7uGtaVSTmJ1cegJLyJshQCfTMprCuUv-wOJX8cBmz1ixsIu2WVV0g0Q_UMi-tZZIHK_79uT0CmTukdE-a15hLTPTdg4zMrBYiQxnh5RA0RiFpHzQWnN7hoZipQLjJMa__KyAbTdJkzeX2QASbr2xi6ZwjxA-wzwca7wNuJx1O6PnfQvRJyufcVh5KfxxYH85Dhn",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100953460848955700638\">Yatin Pradhan</a>"
+      ],
+      "photo_reference": "ATKogpc8tx04eAPU4c7EZHqYeKySpaiLWu3Qc6fkWhhpo80neVSD54-oJM6O8rBz7KifhWMOJgyzwQUvugiykl7uz9vi2M_o-SEFgDELi2Lb09sDXrpV6DZcrW1ngTyHXNt-K8ZUpZJTiTz2HFrrXK05IfSCMjjJyKIj4jfZ8vFGTr8qNOwL-06DAtdBQhxX0iW7jDZO2Z4HmxHeUSLS54pUwxeUM9DMEQjogkq2S9tki9BzORubHBRO1Sbf0CLppxPx-b7DPzczRwcJdmbvsLTprzAebbgODdwGHgr-VmiSmQGnlXHGQ9QmiJNhwNNQKB2w_5OrgbxhdywYeQTXjuT3F4IG0qzwCZk8L2RUD_7tJ_rc5UB0i5WAqtB0Hh7ojGjPGYjPf9A0iiOw8uhl0ivdDoA5C4IVADEVcGW5E--WwDbEjA",
+      "width": 3024
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101346791538065882087\">Julio Luna</a>"
+      ],
+      "photo_reference": "ATKogpeKiapd_Brf9dS7Asja9FwGKqmyakwY3bgnUzJYUVai100ME7ozsBSd0jPZjuXef1T2mT-O5SZnLNWOXabImJVTlUnTz-VdSOYoSMBKMzxcht4jXJUCzc3Bub1VFthA57Fmoh_V_1hZU_lfzgKX-mk6g47W_gBRDn28TnyyGumx7NktIJnTiwbQdwDMAzhqrkt0Irh9zMBk5KecQDashxNdk0lJ0aUgzWn62MfzReftibXH6RJBW_V4UGyKa3EVJ-E-HhsMePhATeszwYFF7OAuANOMHnyUJPCfhaAd08nQrDSMg9rr1_ldWYSzRpLIc544XPrhIBcfUsRsmqNX_0hoRTFyT34GGWRcU7vNgvvCDaC70CkakmVt586iO7BxU35YlbApoqBFsXZwFj_Un3MxrpW6gaEMbTdNAfjlXCKLhA",
+      "width": 4000
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117369422697779116398\">Waqas Malik</a>"
+      ],
+      "photo_reference": "ATKogpeD7AwTW5nQjJX8uNyFdkeFErAcGTbZO8ZOxTHygqMO2LhRYkMd0LXH7uiI9s2hiLSMpBBx9vwUSXRGEmmxrQDbCk8VOGpzDB3tlT_3MKgQG3289s3yXs46D_LLSLANmV7mFRYvMvXy5CD0KgeveiQIZx6rrvMAuzjmoPT2X2oLK9gQlWiknHHqWGYkbF1jmqXGH7KxfXm_JZWfzXpJ0FHfty5JFiFQ4ZrzROtPKZRN-JO0VdWFhxOJ4pJtk7PXh4E-efhz7MO-0MGNs6mBauMWfg-JJ0JbudttzIeQDbDFo2HTrJmSPNDHJLYd_9-KiZ-bxCX9PJ5_Yx2CMwq3o1_q_s-X_-DFEuqL0jkHgr1lthYTqa2fHJ1aaOp-1EE6ZUBQt9_oFhgIAdCY3Buxc3v5rk8DMoPgCkJGZHoxES4b7TA",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107811569950617057682\">Felipe Gatica</a>"
+      ],
+      "photo_reference": "ATKogpeLMkIRn1ybOnnIu5FOFrKWN49jrGLpgmcsuO1ONjFo4YgtDuZzfwiIB1qbj5afGQP1XgJtGLyo16M_ld8wY_gZ4JpU64-OodwHAUNl84KiL3AOSbNP9yRTdE3Z3lXmjDdnL8MSpvDNhEDBBJuLFe1imHtH5D4mUy6ewSb2FUhxTdt7KEQjGaM0WfD9l3y-5PAFVzjw-P2SfvAFn-Zu_Pdj6VYqwiCdXvKKwj07LsjP_YUYEbr0sYnhkSL25LnARE7x0bovbJBHAUykwoQ2GXaGHY-nNBNF5ZBf2QdoOJhYK5pxwY7I7m6-ojw0-v0D8cVWLPlC5mCxWsFOJvGR_ZVF5t005QTFiqnreBf5VmJcHevJU5iH8j119O7ERidedbPbS9JhDwA_e0aW-F5mZzF_jLPUqXkmuJSkeTBHKWo86w",
+      "width": 4032
+    },
+    {
+      "height": 2048,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110868603367525416287\">Hsin Yi Wei</a>"
+      ],
+      "photo_reference": "ATKogpc_6xeocAVSxyAxZ9Zqw9mnwEPI57_RjBgZAuIUuiiycUr6gLSoKvK7ZdozHh2odUUs1J4JvdJzlFRrouBoGggp6AWQuIdRWz0Hu7wWmox1uourcVyXHgCL2FEUYZ6DtCq-t8N3xvNG-cDolch3zbrgn7NEXfiP3jglFCYo3bXqedbbY0tQO6Z0dMk7sYiRhMdcvFn2dAdISoBfndpWRZJ-eFgo5XbATIgsbCdBonICbc2Hf28khl_cv7I4ROfb1F3M7AdAJKPcP6PBWlIQBBcJKaQiynNjLHnYo77ZsA4gjFAbq-pqMP3Edz86D7LnvwxLnx_65BqxsFtfODxCD77mlxINhHLNGQ0Skl5JFhRDXSiG-lsN18APx9ZolTAffHONK2yyO3J-35ktyiPDrEscyWTbA232t6EbdzmSn__uEglq",
+      "width": 1536
+    }
+  ],
+  "place_id": "ChIJNRe1Mf9YwokRvxBdos5UEY4",
+  "plus_code": {
+    "compound_code": "Q259+MG New York, NY, USA",
+    "global_code": "87G8Q259+MG"
+  },
+  "price_level": 1,
+  "rating": 4.3,
+  "reference": "ChIJNRe1Mf9YwokRvxBdos5UEY4",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Mohammed Miah",
+      "author_url": "https://www.google.com/maps/contrib/107525113063247505413/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLz4gBwF6gPFYV4194IP-vrGWmyNIVVS_BnjBrBRLUpRo58DiM=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "a week ago",
+      "text": "If you love platters, Adel\u2019s has the best out of all the ones I\u2019ve tried between NJ and NY; solid 10/10. I always get the mixed/combo platter over spicy rice. The chicken is tender and the lamb is packed with flavor; the lamb has this subtle crispy texture that enhances the flavor. The sauces, I always get them on the side: their green sauce tastes almost like a cilantro where it\u2019s not really spicy but adds a ton of flavor. The spicy rice isn\u2019t spicy at all by the way (which is not a bad thing), but it really boosts the flavor and is WAY different and better than the yellow rice.\n\nNow, the unfortunate downside is the wait time. They have gained popularity over time, so the line often runs around the entire block. I waited 1 and a half to 2 hours for platters. If you\u2019ve never tried them before I would say wait it out for the experience, but if you\u2019re a veteran, it might be too long of a wait. They\u2019re quick to give you your food once you\u2019re at the front though, which is why I give the service 3 stars.\n\nPrice wise, they were super fair with quantity you get!",
+      "time": 1750515029,
+      "translated": false
+    },
+    {
+      "author_name": "Henry Park",
+      "author_url": "https://www.google.com/maps/contrib/102701521409444181548/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3F7QiEwAp8F_ZdpQRjIH5em4xHTShv2VSwMVqxpC0vXdUZESz=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "I almost don\u2019t want to write this because I wish fewer people knew about Adel\u2019s Halal. This place is that good.\n\nI lined up at 5:30pm thinking I was early, but there was already a long line \u2014 it took about an hour to finally get my order, and honestly, it was worth every minute.\n\nThe portions are generous, the lamb and beef are insanely flavorful and tender, and the spicy sauce ties everything together perfectly. And don\u2019t even get me started on the fries \u2014 unbelievably crispy, like they were made to be addictive. I\u2019m literally craving it again just writing this review.\n\nIf you\u2019re willing to wait, it\u2019s a game-changer. Just don\u2019t tell too many people \u2014 some things are too good to share.",
+      "time": 1748315416,
+      "translated": false
+    },
+    {
+      "author_name": "Loves travel",
+      "author_url": "https://www.google.com/maps/contrib/106834799129505816203/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWY1krs3mxsJtzQkmFWRY3RU83NuZXlVXd2EVrlsPxlqDIO4c25=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "I had heard a lot about Adel\u2019s Famous Halal Cart from a friend, especially their gyros, chicken platters with rice, and chicken tenders. During a trip to New York, I finally got the chance to try it. After waiting in line for about 45 to 50 minutes, we ordered three chicken platters and three gyros. While I wouldn\u2019t call it the best food I\u2019ve ever had, it was definitely some of the best I\u2019ve had in the U.S.\u2014especially considering the price and location. It\u2019s a great value for delicious halal food right in Manhattan. The cart is very popular, and I highly recommend stopping by if you\u2019re near Times Square. It\u2019s definitely worth trying at least once!",
+      "time": 1749367296,
+      "translated": false
+    },
+    {
+      "author_name": "Melisa",
+      "author_url": "https://www.google.com/maps/contrib/111186969508457198480/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXX-TSiB3FwMpYQgWh21I67CWyJbVcYgt10wfHW7LEG0Pb-d38=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Waited an hour and a half in line for Adele\u2019s Halal food \u2014 and honestly, the food was amazing and definitely worth the wait. The flavors were spot on, the chicken was tender, and the portions were generous.\n\nOnly downside: I ordered a chicken and lamb combo, but when I got home, I realized there was only chicken in my platter \u2014 no lamb. After waiting so long, it was a bit disappointing. Tip for anyone going: double-check your order before leaving, especially after such a long wait. Still, the food itself was top-notch, and I\u2019d go back!",
+      "time": 1750438058,
+      "translated": false
+    },
+    {
+      "author_name": "A Syed",
+      "author_url": "https://www.google.com/maps/contrib/114734758517776137879/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU16aLpnih5t0KqRYq0pNu6iaPLze-jk77jW9RqhXx2j4Munjya=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Adel\u2019s on 6th Ave is definitely worth the wait! We ordered the 100% halal chicken gyro, and even though we waited almost 2 hours, it was worth every single minute. The chicken was perfectly cooked, tender, and bursting with flavor. The white sauce was absolutely amazing and paired perfectly with the gyro. Also, make sure to get the spicy rice\u2014it adds a delicious kick and complements the meal so well!\n\nThe long line just goes to show how popular and delicious their food is. If you\u2019re in the area and have the time, don\u2019t miss out on this incredible halal chicken gyro! I\u2019ll definitely be back.",
+      "time": 1747110787,
+      "translated": false
+    }
+  ],
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "establishment",
+    "point_of_interest",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=10237056674453852351",
+  "user_ratings_total": 4520,
+  "utc_offset": -240,
+  "vicinity": "1221 6th Ave, New York",
+  "website": "http://adelsfamousnyc.com/"
+}

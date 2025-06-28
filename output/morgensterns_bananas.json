@@ -1,0 +1,445 @@
+{
+  "address_components": [
+    {
+      "long_name": "2",
+      "short_name": "2",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Rivington Street",
+      "short_name": "Rivington St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10002",
+      "short_name": "10002",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">2 Rivington St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Tuesday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Wednesday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Thursday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Friday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Saturday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Sunday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM"
+    ]
+  },
+  "delivery": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Modern parlor featuring creative flavors of ice cream & sorbet plus gourmet sundae toppings."
+  },
+  "formatted_address": "2 Rivington St, New York, NY 10002, USA",
+  "formatted_phone_number": "(212) 209-7684",
+  "geometry": {
+    "location": {
+      "lat": 40.721583,
+      "lng": -73.99304339999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7228926302915,
+        "lng": -73.99171076970849
+      },
+      "southwest": {
+        "lat": 40.7201946697085,
+        "lng": -73.9944087302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-209-7684",
+  "name": "Morgenstern's BANANAS",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0000"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Tuesday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Wednesday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Thursday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Friday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Saturday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Sunday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1920,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114170847659217087583\">Morgenstern&#39;s BANANAS</a>"
+      ],
+      "photo_reference": "ATKogpeH30LCLXXOttu8hNM-283RulpW8Xg57fHBQEx_R0esh-iMOlkt48L4Q9iF01fGqse8vsOx-Py3qqN5Eup69H7CB5DUjln6Lt24CUMixRtgwAl4JugZk5nXL9F9pEZMua4hX6tKeoS0dqtgSkCF2ZHOdUEtrosVFadGVeDkpUYuo6pp3m5gcJB9d8ylokIiZn9Hmp76uwDGH9GnhfuDz5nDroIEOYZxD5rp5zf9UPTCpioFFJGPDfCVF-m1qkyutOYMhiuQ7Zz2_xxXBE0BahJpQbb-5NZQjnd3nr7RjmFHlQ",
+      "width": 2730
+    },
+    {
+      "height": 1350,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103122893125725542768\">Kaden Lee</a>"
+      ],
+      "photo_reference": "ATKogpfpUbekwKwY5rmIEiAalh4NmsX7vUeEVaDNwIKyxW6jok0brdSFJeeozYKzyDHxINJtm7-5d-I9WHbrA5cMXWLUg5gKUuIAPKJIK_x78Pa2whtqzMnypkpC3lkNqTGsahVgpbiNDmSBl5IMCrS7N0owlc9Q01SA-CtdtuDCijCFj6XFmo1lToapoQ0uDEuiVdnkb7q6cI0uCQ1Mlbo_Ea-XpOlO8FIG93FL5ZtzYcVBThBxw2R8tjpYlbtks_xEqSQWh9sIYKpHIK2zTkcZp94FLykQe3LFYXRidVfI2CI29l5bgxgYyhPgCYn1m05jLYL6wM8AEj3sPVoONDnaC2xvqEGbXYjLqM1tHCktFFCNsNFZQ4y3172Q6MObZOVi30Aspf8L_Owo1KbnqKfDD3Plg4Ncwp9ZLMjPGyOsmr0",
+      "width": 1080
+    },
+    {
+      "height": 3312,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100192610855103055252\">Michael Karelis</a>"
+      ],
+      "photo_reference": "ATKogpd07ucjmpXk_0YotB6OUa3GUAq_dqQwe9kYwuoc41FzflthoP4K1vi6AXZ4pqkZ-ziEe9w-9_62ePuK9RsGAJNOHU9e7HMe4BMRuPg58t1FPzqEvYOdeRgI4u1YBTywjH7CVktVwdeArmXz21YIyfJXX7WtZ3HtIIdVFljNdPHwMGsAytUg14xkXCjrk1_dKoxdOqX7L8EA-CTNt3SFSr8uDAV2iqrukxApqnR7AjB2KebW2U7_wVOZtI1I6XWmGy2nPpPbQdaNsnVXJ0XCvlqYKWyS1spiM9ezQqkUXYCoD-aw4xROSomHe6MK7TkAuZYtyC6Bf9isf75QZBEKKjLPu6_1yIWXlTAD8ILnS3X9jZgl6c5KrfNVfAIaXHdhC1_vizNRFVGMwE0luSo5trfqPCWec3lV33GGhc6Bb0rTspa5XSRXBfhRN0QzKuje",
+      "width": 2366
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115084599344635936997\">Jasmin Escher</a>"
+      ],
+      "photo_reference": "ATKogpdn9_VhYnDv6f9-V9EAOHCYTU24QqsQG40-EkMJNf_hpv-M6Q3tbhzq8VWZuVjMJGrr2DuLeMVzZTwoQi_XKmz5lZKiBSliiOt6JaHss0w_fFUMJL349v4PLFmdaUQANXguNmkChFVb7i8hz-ngwgVVkAmbhKoPEEG2I7C_xEwRsSytM87CROHavZG2FX9PXCQkyI0u8fJS_diRGYAYLhwENIQi6urUXjijM8EBJ-Zet5XfD4lzMmmOqtnUKwvkO7h618tKO-A4AMxBkZQ4w6T7kf82V85TNQBFduvLcLYVBz3-vvHDYmOroVOemBaQezgoqGBDhAEjNiCiA8dA3uXXaEJBPUekstbh7mwXoTRwuQHqm2y5U0uFNdgLIQf0yuD9pGxzWR4Zxf3oJX9-zxUvwyxGQJY_QUvMb6TvLhk4alE",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117662481746295955146\">Cassia A</a>"
+      ],
+      "photo_reference": "ATKogpfNjVAYZ-yocN6w96Qc1NKCH1-nBg61U_AFU1djL1M5h-oc1rb7yP6i3yaexRmW_6AZW5VETG40ZAkbkaNvV856C9Oo-Jmr5Fi1eoNfahPttQykcG_cZnmCziH_n6kN8-WCAkIVZvl9tqz4PiI2lmyjd3XslDFSpxoM12ga8DrASpTdhwNuFH635kS9NSMSCOqemIIZHZdhaQhjVGErwK46xMjDJ2YyhYeZRnybhp7CY40KyqIN9nm6hGNYVZZB5KMuyk00wz34Yt0Te78_t8YGeJv1Z_-B4t5nH2Bi0d-aU-0hzU0s53ePwOamSn4o-Xt_Dx7vGYWwYzfQZNIwEprcxDBPyD-pmxQX3AkLA1hQldTNkkPO8j9Htvt3lZNHfqUm1UUbyyrXzpmZNpzNvvf_DBFDaKcmHL-9Rw0bRk2FYwP0QFHISm_UX4MSj3HY",
+      "width": 3024
+    },
+    {
+      "height": 2873,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107345108367805031113\">Perry Reynolds</a>"
+      ],
+      "photo_reference": "ATKogpcIi9ipr80rfF_DtqNBPABksfWtC2sd8qICJ3jj8l24PyCH4amm9YPvvo2qRXEXPKvlgVu0T9VCqdGximcB7BAgJUGWgn3mh2l-aEAEzfya6UXbVSjcVOKysRX_c1bx7rlMrPBma03kHkoZBR1seMfmqyHqGsUDB6mNuWPzF59C51pYD8v2WI8IGzuMKGoX071F4r25RqOjaDyG4RdZ_cDf19QrFjMaqG5k2SQac3VIX4OJQ5kug68Gq2Ac3H5fH33k8ynju-j4Krvx88X2vtqc-0AuLygUrGhqtCKy47tgfPTmzgSZx-agWhEETkcr2GkyOCyktW0RyG4UDuB-ytQv-TISJQvsGRsRr3CgdVkk8Eqb5djDcwQS9kQev2EiW7I0onOriBasxVJF1lem1Nt8r6C_jhASuwZCPepID1s",
+      "width": 2978
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111707003898281816878\">Vidhi Patel</a>"
+      ],
+      "photo_reference": "ATKogpfnsKGZRb7UNqs-cjB8mmYwtzXPLLqfmR5U_PpBpDLhGSBgE3K_-T8uDwAYhyH4g520gShxgHVPkPe5I7VYtO2ETKqyvVzVSJ4HsqWLgV8C8PReNfEe5BokKabdnu0EHxLyOx5qvuX0-9kOPeHVftFMbBiTtUdKVyrZDtMgSEcxreOWQiXMW-vX2wp9cbTygcc0E5M4enfGdomRtVwFe1ihpa0Ar3BmaA0EbL88dKppIChuiZMjuBC2K178FE0TYpeLDpJFBIgRX56Lj1dXD5l0KcR-bxW8eCCUOzowm3ZmmVzM610bJSqMzlqn3lnhl6qyLqeIxlZwQkVnsExGXpaDf-itMc0t3FMRee90EiWrcsaUZRigvXZjNNjCfCOvRAC0Y53wvQSt4xzZPUzCkFYddhXE0nAZDHCKGbV2aiWfKw",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102906874407787392846\">Shawn Reimerdes</a>"
+      ],
+      "photo_reference": "ATKogpeTZK-JJPd5nr2VfFiT9mGVUQbPETwpaTLkW2rwbJMW9h4_reb6HVhyPU5W5G4ILClai6OqZQC_oncJirQsCvZg1CVdS5yU7NswQidwQ9rrBPN_cyE_9xjRX2NkSzcqv6YF1pSAldXmeJjD1-mVNXXGoehvOn8gJcewCbnn9UEAPvPqNh3E764DYA1qKIGp2joCTqbHf1f5WTntR5-iK_KHh2Kfssi5_ZzM3U91fZVUxbKHW5iW3y0p32axj9C6OR70Qd9gK5eUfoHYB2aapoNdtQgf32_PBkvinZoesLj9FzRkQiGzDq6df_45-fdxbHXotBkQpr1ZJIDJg-wx5YExS1rj5c8VOJ_UEe0XLkeQM42sqiZRxeVOMs4so8G9AdKVu2iHTeFa3e4YPO2oVnBNZm6wqLFYGmL98bYggkSAoj-q",
+      "width": 4032
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111444671146808251214\">Eric Finkelstein</a>"
+      ],
+      "photo_reference": "ATKogpc21kLeM1EeLoaEpwlpdAvTkftzPehxkzkfhKgXQvKczzMQeU6oK5ssHHtXnjsAM01xTfdq_wCacdBDmWBs4C7OmgVcAiYa55Z8WDpPNkFnquKtUI0bJpvRnRv2YWTq6bumRwgoU3RxDbQz1c5lgkIU28LSh-b8m6gJUsJ_Eg1_FOcCVkNPG_aD6CR2HHdmTP6G_njgFNMrnKljccHjHix_kMbmDlY2gVnpdBO6qGY_Yjyf1AcDskOE1vkLQLBIJN0P9k-r8_hBhxbE1aZOWSnqp5jJ6SBi93O-WOaet8mos9N4TzYrTGMYw4D7Ncq1VFodAjH5rv47Q4q4mqcl9KXEX79oPUTPZ3MQotgkAStMcKBKp3ciiLTAOaFbzWHi1B_200ZbvTT-t3qnyASSImxppIAWPVfnEuyPXjDyKeAW-A",
+      "width": 4000
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117780863987564557955\">Jacqueline Y.</a>"
+      ],
+      "photo_reference": "ATKogpeMVmk3WvuW79Fcm2Gn3Sxo42atlNb4KIWysCU1GaYQrieCzhsS0GHCu6-LBDp9iaYYd6I8b-LuFTpcRRLoiVMR0o_p_vZq2bNFY_8ccNVvgD3o0tVuJE2UdVu1PGBqZ9uhopxYjUUfOxhUb8l8mj_fbBP8521uI2nBVXYiA5nio4fLHFmDJ9L9_POUc5w80jdqcCiZGiNkcSc3ckGMjagVvlP-AiHSjcIQH6npWWH1XYbL1kGF4iyODqHei-nS4tNnsNNeqnvxqa-KiPBS0AHl_fBVGwQ0cm_0a5auzmR_JtCfmZptl2qOyHL7Zi-KnAC9UglOCElMVVSUPWRK6Z81SsKAGrADyPSpQgWvA3rcqg3ZxT3K7TbuGYAAIdl_1utyPJNbLbAeDmz7SM7FLxQkjxRK2iJNo6xg_9YmoYd3ZA",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJHabkc4ZZwokRNnu1Kas8zsk",
+  "plus_code": {
+    "compound_code": "P2C4+JQ New York, NY, USA",
+    "global_code": "87G8P2C4+JQ"
+  },
+  "price_level": 2,
+  "rating": 4.2,
+  "reference": "ChIJHabkc4ZZwokRNnu1Kas8zsk",
+  "reviews": [
+    {
+      "author_name": "Michael Panton",
+      "author_url": "https://www.google.com/maps/contrib/100223686684878157621/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXC7kKXXwfcuefWlbTDSaJ6aDSFaMeyeZULkCcFPSw4Onvn92iF=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "It was a beautiful Sunday afternoon in the City on Mother\u2019Day. After some pizza at Lombardi\u2019s on Spring St., it was time for a dessert. A great option close by (right off of Bowery) is Morgenstern\u2019s, and that\u2019s where I headed. I\u2019m a regular there because their ice cream flavors are just so good and interesting. On this occasion I had the salted peanut butter, which was excellent and refreshing. I\u2019ve had most things on the menu and my two current favorites being the salted peanut butter and the banana teddy graham, which I\u2019ll come back for next weekend. So good! This is one of my favorite places in the City for soft serve ice cream because they have many creative and interesting flavor options and combinations. If you try Morgenstern\u2019s I\u2019m sure it\u2019ll become one of your favorites. It can be an expensive venture, but recommended!",
+      "time": 1747071270,
+      "translated": false
+    },
+    {
+      "author_name": "Jacqueline Y.",
+      "author_url": "https://www.google.com/maps/contrib/117780863987564557955/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWVsQl3DhpMmvI_zmQQrOvVIP0SSkl1NyqMJTpAym0HxAyd1n2c=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "We ordered the Banana and Chocolate flavors from Morgenstern\u2019s Bananas, and they were absolutely amazing!\n\nThe Banana flavor was pure, creamy, and packed with real banana goodness\u2014nothing artificial, just smooth, natural sweetness with the perfect texture. It tasted like the best version of a banana, elevated into ice cream form.\n\nThe Chocolate was incredibly rich and decadent, with a deep cocoa flavor that was bold yet silky. Every spoonful was super satisfying, like a luxurious chocolate experience in frozen form.\n\nBoth flavors were perfectly balanced, not too sweet, and had that signature high-quality texture Morgenstern\u2019s is known for. If you love premium ice cream with intense, real flavors, this place is a must-try.",
+      "time": 1741581593,
+      "translated": false
+    },
+    {
+      "author_name": "Francisco Arguedas",
+      "author_url": "https://www.google.com/maps/contrib/114288571244833723491/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMvsimH4MId1v0NQg9-XamBS4a8TFzopL4O6xjZVosOmX2TTEb=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a week ago",
+      "text": "There are some delicious vegan options available! We tried two of them, and both were really good. My favorite was the milkshake with the dried strawberries. \ud83c\udf53",
+      "time": 1750296734,
+      "translated": false
+    },
+    {
+      "author_name": "Cassia A",
+      "author_url": "https://www.google.com/maps/contrib/117662481746295955146/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWiHSlByWjxIguuUn6apkeaTt5XYI3Ikx5rGqcYmlCzflDnun1F4A=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "The chocolate and peanut butter flavours are great. Sometimes you can swirl them, and that\u2019s the best. You should alwaysss be able to swirl them.\nThe chocolate is really dark and delicious. It\u2019s vegan (dairy free) but you wouldn\u2019t know it.\nThe peanut butter dip is not worth the $0.77. The shell is super dooper thin and adds nothin\u2019.\nSome spots to sit. They sell tubs of Morgensterns and Bananas.",
+      "time": 1750293677,
+      "translated": false
+    },
+    {
+      "author_name": "Alix B",
+      "author_url": "https://www.google.com/maps/contrib/100332184886514563841/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJAGBM3suoTFuluPoYxqzVML40-h9BdJ61nZa4YVkr0su1ndA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Absolutely delicious. Had the mixed midnight chocolate and salted peanut butter. It was rich, not too sweet.. some of the best (if not the best) vegan ice cream I\u2019ve ever had!!! Wish there was some better seating in/outside as I was on crutches and it was busy- tiny shop. But it seriously was so incredible!\n\nHusband got - midnight choc cone\nI got- midnight choc and pb swirl regular size\nBest friend- got banana soft serve with strawberry sauce in a mini!!!!",
+      "time": 1747870291,
+      "translated": false
+    }
+  ],
+  "takeout": true,
+  "types": [
+    "establishment",
+    "cafe",
+    "store",
+    "point_of_interest",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=14541626952662743862",
+  "user_ratings_total": 1907,
+  "utc_offset": -240,
+  "vicinity": "2 Rivington St, New York",
+  "website": "http://www.morgensternsbananas.com/",
+  "wheelchair_accessible_entrance": true
+}

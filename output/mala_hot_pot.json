@@ -1,0 +1,446 @@
+{
+  "address_components": [
+    {
+      "long_name": "35",
+      "short_name": "35",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "West 36th Street",
+      "short_name": "W 36th St.",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10018",
+      "short_name": "10018",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">35 W 36th St.</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10018</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "35 W 36th St., New York, NY 10018, USA",
+  "formatted_phone_number": "(646) 582-4049",
+  "geometry": {
+    "location": {
+      "lat": 40.7506286,
+      "lng": -73.98534810000001
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.75191368029149,
+        "lng": -73.98404586970851
+      },
+      "southwest": {
+        "lat": 40.7492157197085,
+        "lng": -73.98674383029152
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 646-582-4049",
+  "name": "Mala Hot Pot",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 2796,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102754770487747995938\">Mala Hot Pot</a>"
+      ],
+      "photo_reference": "ATKogpdL_HrNI9-pHsPK3CmcfUXDVnMOv3ZuwqrW1J_z2BpXhng9AEsJqH1LkXFA3e7gq4R-nVmguSijYFb0lILdCdnGemjflIvQgvVWinAOAlogPS01Fb5M9sZehICzEBTN-HUw9qjrXnd1qY6pPdbncz_z7XZ4nnK63EXFbMgOKxyYcrmhkdJYgt3_UfSjmE0gqFPbhSKf0DUfi0bkOkIoAJmk6AesmSOQJY4jgAL2dcxuZf1v_h07Mc9bdUZ_oXc2GmoJyz3LHS2kabHCvUllKTd8ookkHP8Dzm0xLEMOUAC1pQ",
+      "width": 1290
+    },
+    {
+      "height": 1279,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102754770487747995938\">Mala Hot Pot</a>"
+      ],
+      "photo_reference": "ATKogpeUHhaS4aiOKk-RqakY2wZmEjPcZSbOylKahRJ0NVV8fKYeLbbw2e52zknaqJySzA2uGSplrdfj2KpLPKiJU1MGbjOugq4rNeM3HXg_gQ0-v4o_1V5PUgur3cWOLvdPjeVRsSLvUzaG2T4JzF6i_bjb-xvgMwLAX222ay6xiCbM-zrDc8vSCW04OIPLkl1vdy1F2zrwiJrELfReQTs7dUu2wkgTqsOI3CoUVnbdfpAs-cjwWNyppigXXWdW0N2Q79u9eWPuMIrtzeW7WGllhVlliQM2gUYHCOYXuedLOrHpAA",
+      "width": 1479
+    },
+    {
+      "height": 1526,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112639027142224078601\">P &#39;s</a>"
+      ],
+      "photo_reference": "ATKogpfcZ5Enp7GneBCFSp3527ItQJvjVjQqKyVKzaA2Q9GJIY20Sd4mR53tiF5FfJCxvkM5FL0nHM1WNj9frRUyIwy3WnUp8sGJycMAP1rnr8fmXI_Qd5eKFDXVbm8hzmqDxycgDTxxnuTBq2MkvAAHsnuvfDXuMk8j83HTSLzh6eMfel4ym--9Gydk_tMOiiw04H4sbsWR2fHIqGgN0xKuY-sSAjD-SZ_LP_pbxT1-s0em6u_15ZEPCGfC87nGg0X7FXZFIZL1vmlp2PWFNZq0uMUpqvmzl4Ty6rhDS17FIaz5NQOXwDsm9SExaFip4jLEtauM9bO2zH5oPmANShzMHci9moHB5tR01KGezrswWXsTZRS41WfAVvvnYMiDt36xBZqkl7OWCBlmHlwqyZXUyhm7CWI1-olDFT6y4Xf57KCxAbPf",
+      "width": 1290
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104515816761945571433\">Alice Yip</a>"
+      ],
+      "photo_reference": "ATKogpf2e81z0oXj5UXSIEjDRyX6DpIb91hV2zs2irCeQ5vz4XIqYIhbNhxEUhZzvp4A_fvSvcSEsEo52fQFT1YrGQ37j99voL5jApgHi6YcByuz3bu_tL1Jx-nwrDpRHEfmE5w5W0hUmeorTKglMRzMTQ-FBklgg55GXK6godlWEV1FwIY5A_6MgugD7FPSTkTeYBLR0K_wnlvnucub6o6-W3VZwlAwyf0pIdOHsKH1IDgTVeAMoTLEJNnDySVlO_I92abV6f0xCwtSazY0rThU0QGKwP6A5a6UMM2rFxStYnPVj5V2ePW3VyXwf7vt0PwYy-1eI3jYA-USJIBy-LMJbe5-DfASoU_2icSE2JYoWFawmYbGUxiWFlOPOYM6JRqzHIIJJSYELnnDFaBHKwJRb3LF2qj3ZPlau42KCKxPTCtutVIc",
+      "width": 3600
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109931158241458177363\">Serena Neuman</a>"
+      ],
+      "photo_reference": "ATKogpc6vbvrIFiMRu7OyYNLFzLUnVcmFcIZHNSdNQCTJM0R5PXgHnnbILbMcuepvDRJ1NjFHJ86ISTxjoS4IdRZX2cUGwX9FJJLYWDoh8hVY4qWeHqEbVZo8hlEb_2aoWbZSojYHoPtsRe6Kt5oXtD5B7Gmi9E8hQrJYIhQrjiO4AQOEzezIPE8r1grkIwkajxjTBQ6zMvm1gWJnHU63N9zAC7jdE8fIIP917Qnfc3ffGxGzcwopySsPZb_JakjAUn0pL1faB694_Fp9iUxoij5a-K4FplNVfZCV-oDgnDSL0HwUqmvI3mRKrCfh1X9MsIlQn7cjKPUyI8YJDegE-p84jHjfiElk8j_43oA7Jzr_xhRx01biyzvMei-utV6Ixfx287UDElkYQhZM8eKUJLQTa75O0E_4fGd_THJ4-FS_QxB9DH3",
+      "width": 3600
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111654140404484639724\">Cheok Meng Law</a>"
+      ],
+      "photo_reference": "ATKogpdJzAJJXzZnf604EiLvLa_xt2Qlx9n5U3Q3cZPXKs6gjGfdYG8kfW-sVcsadXmpiXoPr6WkGNFjdNnWjD-4DBUV6iiJmk2wtrsSfY_3A8uMB4WqS7o3SA6GEMPDjhr7bOp3AwcpuDKISRHnGwU0y5ppCe4IK9UaS27CFzAV2pyimL4p4xsqe1cDIsl3LQgKpCziPUU-t-_KqCUZ77-FYXML_2Wows_JPVmW_dduE5yIrzNIEBUU59kx4ub-RS8kLB3MYgxMDTxhclytA2ehMPr01mQjU1YHT6LnBnsFY7prIMINC3qn8SmZAz4ulp91gmoayu5Mv5y3Y_EjZdhxecRHWyaPKLPNWKOkwFOzce3zPG5y5sgaj-NigblMb1bzfEqAf2u9TEMOQZbx0YkMOWQr1lMgz4r_fctxUPgApM4",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102339564514229882871\">Lisa Quach</a>"
+      ],
+      "photo_reference": "ATKogpfu2YF7WvFrh03LSqnvZWYgumww_8WIIW2kCeMFcMwVvUyGlr7WNJUawLG816GY7gfWwpWzUuoKQOLrB06cISHZPgtoSy3KIfMMN1Jqocw9RbasneR9Ogne-LCETOAegFLxmUgZ1XB2-846t1Id4N8kZqzw_vDkI2kw7rvrFO5GkQcBwB04QhHrT3I1-gsWM8XQvKSvGyAcdmss_Yy4Du8cxKnpMNYUUMmmeEEFuVohPHvmVUM-5L-cw7M6smBY2OQ6wjLZLXAFYRitEOVy-whAIqCG3y58X8Mb_76FwkALpBAv9KmMbk1QgFF5Y2v_t_N8LtybjEWC24SQ-EGdbhWiyUxSZndIasoL0IJr0c-vcMBU4WQJJnE81x2Cq6y72efELv7INwye6CwSy536tseJj8hDxq1F4iXqFiejnZ1oSaSy",
+      "width": 3024
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105601992699102170460\">Nic Garcia</a>"
+      ],
+      "photo_reference": "ATKogpcs_04MgG6ddYLPILgh90FX_E-qrL1J8WSWuhXXB6cqmIGDmg3KuOhQXek559eRfEdAIx9-PE1B2x8OcgNaicsAQzmPwRK8N4kek12C9P2oJb4Iy62oWaNYyoyqfMnvLdVvpK-9y2rCtdLxTjDIvaP2OsYWyU-GCFy6iHoIsELc_zwE-4KEAZGaEeuH22fyuLdcR5FxDIN0GozxbtZm4KuOGFMlfI0McV3mxaWYQjfc5EE0lVPdViBvaFrxp2zjfwA6uK-JBw3yzBxMessbC7tXFE9fZHlWMOmWQpI7GbQTIcSv4JM1cnOCiqPnX59ORSKjA9AAHVA3F_jR-XGsYzEaWnmAq0KgipuoxVfBZzr8BbzBziUucBTRWVKOXWGUvzWK1ujM4xbwLZxAT6aXHW6qC9rzyVYghltrhRpSbt4nxw",
+      "width": 4800
+    },
+    {
+      "height": 1280,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115600567885869831340\">Nick</a>"
+      ],
+      "photo_reference": "ATKogpczkW480czxHvGcX1d7x1vHcEav3So_j3b8s5HD09XzDQWAEfOft0DZqKZgYy2bEGeDlYrdh2bp4RpKb0F9dIMJlhfGXFeirGdQ19GgvmhQC3pneQ2JDvI0_T7t1ZpQ09RrmyOmI9FOj6Ky2ys7MnbHzJ4QTw7JEvwdH0hYoT6398ZUqVDWhjKB8oXSwXaJlNM8LLixr7J2qCAfgZNLj0FKJHgpexIKFXAi0xukq9wew83mZUcc4Hf-YN0sl-2yXTwbGGiwIzDBKsoLwLRWgJrFPps3zyhAXC6coh8H7dfsuVUotq1cIlQuPxcJ9kOU0gXM5OuYkaMB-MJ7QmgwLWeltd8FjOcjasH0jLLCTCPA_Rqlw2w70p3JzbeJkBSlT1ZZ2Lor4ka0AK27mxx4WTmVIICFExJEQK-OOjsQN-c74g",
+      "width": 1707
+    },
+    {
+      "height": 2432,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107508462843467662936\">Cheryl Woo</a>"
+      ],
+      "photo_reference": "ATKogpcnxtCkx3kBblGfM8uGoEITEB4Clfz0FPzVqnSyPlQ-dMDAu3V5Ft4HV_V7fpq-6Sqk3Dqk6WnhGkw-O2Pu0J3gP9-duHnixslxu_3F297k0zZezo2zWUNtsW5aEHTz-BlmehBYIY9j_biLDlOV9O0X6maOlM0s9L9Gx9LvJHFPpdWl1VFREhTWDYJixpoHJnDYzAuObmYP32TMkp0Zyw0IuopSlV4Bec6QDxkCfGDCXvG8rwHNHp-77NROF-ha9PaKaNNB-7LeI-nV1ujVuNFD7F7x7leIIDIdW7fUavO77xsoFwX397eDWZ-CUNsSnkwW9nXKKo41Luu5VvMh9qht2a9BL7XKlNnHxeoI3yosV5RqZ6egtDp5t_s9tAneyUwuxzRg_uKj0Dyyeu2pcZjUj0vbyU5HmpFEDPCZ4K8",
+      "width": 1824
+    }
+  ],
+  "place_id": "ChIJU_jf_XxZwokRGPLWEYVWR7w",
+  "plus_code": {
+    "compound_code": "Q227+7V New York, NY, USA",
+    "global_code": "87G8Q227+7V"
+  },
+  "price_level": 1,
+  "rating": 4.9,
+  "reference": "ChIJU_jf_XxZwokRGPLWEYVWR7w",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "hez Jess",
+      "author_url": "https://www.google.com/maps/contrib/114379767627312064246/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUz1KhaK_xhUhi2jahhhDlJgZD29ap6rkicDLeVTdRc69Jp2LKJ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "I love hot pot\ud83d\ude1dand this was my first time visiting this restaurant. I had the yuan-yang pot with tomato and mildly spicy beef tallow broth \u2014 the base was absolutely amazing! \ud83d\udc4d\nAll the ingredients were super fresh and tasted delicious after cooking. The beef tongue was especially tender, not tough at all. \ud83d\udc4fThey also offer a wide variety of dipping sauces. I highly recommend the crispy fried pork and the cucumber salad as side dishes. \ud83e\udd29And the watermelon juice paired perfectly with the hot pot \u2014 such a refreshing combo for summer!\ud83d\udc4f\ud83d\udc4f",
+      "time": 1750382104,
+      "translated": false
+    },
+    {
+      "author_name": "Serena Neuman",
+      "author_url": "https://www.google.com/maps/contrib/109931158241458177363/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKFVmrcaD5-4G_BDLtZNfaZB4nA2gcufy79vrkAc2yEt6w5AZA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 weeks ago",
+      "text": "This place hit the spot after walking around in the rain all day and was conveniently located across the street from our hotel. We had the pork bone broth and the sweet and sour tomato broth. Both so delicious! We had the prime rib, chicken leg, and lamb shoulder for our meats. The fresh coconut water was so refreshing as well. Would definitely eat here again next time I am in Midtown Manhattan.",
+      "time": 1748636781,
+      "translated": false
+    },
+    {
+      "author_name": "itzelenaho",
+      "author_url": "https://www.google.com/maps/contrib/113509586302313649295/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWhzXNCkoy48NZai9GKw6U50xrhbQ1QKUkfAINeCoEWtVHByKVI=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Mala Hot Pot surely knows how to bring out the heat in Midtown Manhattan. This bright and clean hot pot spot welcomes you with mouthwatering aromas of bubbling broth and the sound of happy diners dunking in. Customize your broth, ingredients, and drinks right from your phone via their QR Code. Friendly and attentive staffs are constantly checking in to refill your broth and clear plates so you can focus on cooking and enjoying your feast. Don\u2019t miss their signature Nine-Grid Spicy Beef Tallow Broth! This fiery broth is loaded with peppercorns, chillies, herbs, and spices that delivers a knockout punch of bold flavors. Here\u2019s a tip. Cool off with their ultra refreshing homemade iced lemon tea that perfectly balances all that spicy goodness. If their generous portions and top notch quality with reasonable prices are not enough, their weekly specials will sure tempt you.",
+      "time": 1744342785,
+      "translated": false
+    },
+    {
+      "author_name": "Carlos Vivas Augier",
+      "author_url": "https://www.google.com/maps/contrib/100808364523212869550/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWErZ1TOQ8A0IKXrzB-eELH03cGVSBdN43oCCtqg_kmWPByTFo2yw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "4 months ago",
+      "text": "It was easy to make a reservation. We had the two-options for the broth: Chicken (no spicy) and Spicy Beef (Mild). The mild option for beef was really hot. We could not handle it. I do like hot and spicy food but mild was too much for me. I can imagine what the hot one would be like. Strongly suggest to ask for something less than mild if you like spicy but you can't take too much.\n\nThe food was good and tasty. Many options and combinations to choose from. You order via your phone and it is a very intuitive application. Made the ordering very easy.",
+      "time": 1739679128,
+      "translated": false
+    },
+    {
+      "author_name": "Kristy Currier",
+      "author_url": "https://www.google.com/maps/contrib/101173492185734731089/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXuhssqXdOtNALUVP7BJwrzC3nf-weADrEFWZh4l6OvTc65mi7QgQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "This was the first time we have done Hot Pot and it was amazing. Food, service and atmosphere were perfect.\n\nService: Fantastic, very attentive and gave up some helpful tips.\n\nFood: So fresh and a good variety of things on the menu. We had the pork broth and spicy beef broth. When it said spicy, it was pretty spicy. We ordered pork belly, sirloin and scallops. The person who dropped off the scallops helpfully told us a rough time estimate for cooking which helped. I had one of the special cocktails off the menu (whiskey, cucumber) and it was so refreshing with the spicy broth. At the end of the meal, they even had a custard and ice cream for my daughter's birthday!\n\nOverall, this was such a great place to grab some Hot Pot and relax for a bit.",
+      "time": 1746281338,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "establishment",
+    "restaurant",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=13566907532006847000",
+  "user_ratings_total": 453,
+  "utc_offset": -240,
+  "vicinity": "35 W 36th St., New York",
+  "website": "https://www.malahotpotnyc.com/",
+  "wheelchair_accessible_entrance": true
+}

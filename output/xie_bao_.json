@@ -1,0 +1,446 @@
+{
+  "address_components": [
+    {
+      "long_name": "133-35",
+      "short_name": "133-35",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Roosevelt Avenue",
+      "short_name": "Roosevelt Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Flushing",
+      "short_name": "Flushing",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11354",
+      "short_name": "11354",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">133-35 Roosevelt Ave</span>, <span class=\"locality\">Flushing</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11354</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "133-35 Roosevelt Ave, Flushing, NY 11354, USA",
+  "formatted_phone_number": "(917) 563-1011",
+  "geometry": {
+    "location": {
+      "lat": 40.7588367,
+      "lng": -73.8331334
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7600667802915,
+        "lng": -73.83171261970848
+      },
+      "southwest": {
+        "lat": 40.7573688197085,
+        "lng": -73.8344105802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 917-563-1011",
+  "name": "Xie Bao Flushing \u87f9\u5bf6",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113376149762812800345\">Jerry Leung</a>"
+      ],
+      "photo_reference": "ATKogpfkqSkGtSBm1YwYx7IVX_LSJ7akTn6DpXHbGB3pZLWMH1HW7sFp46DavAFl22hqyYPpkZMdX-u1OVVUODKI53HJEKDlTuuQPe11zKfryCLb6AWE_pmmXxBgBUvUABJtdyohox6MRbF99qB3yeI5IVE4kE4A5SkiKMgBKpZXmSUBpQq7hXB3lO2qfLRgESXG_bBNujs4bo9aD14CkmoKepW2rjTyAoweUAmqLzUAHs12lIgWmsPFrMquwiVyNrcynmuoERbCzeKTdbi51Mr-JvP-ny93i-Thm9ovmchTw4KJcWnVQuuHwxDU7QZMwqoRe0YrHvTekeaN4EJfet5to2Yw5iaErt_FFj4_rByBiSdOcBx88TIUUaEdB222trfGUj-lCXLgGynWOJQ7p874cX4FstAxgXqsMDMqg8ykFDqZCw",
+      "width": 4032
+    },
+    {
+      "height": 466,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103857348141555971023\">Xie Bao \u87f9\u5bf6</a>"
+      ],
+      "photo_reference": "ATKogpdZAXUKgnoefghTfIYRi-Mvp3YJiz-EtRMgweBeD9r6L7Iau6aN2-UtLCAgVGPY8ZyBgRZ4ADlvBDbY2fSUd3P8_GYUv5eDrPxRyy89nuyaPkA073RF89tQbtt7-YmZV4u_PFBlCExFEW1pOON_NEHz16cXIOGZwcDRWIORZGGzaVAWjlD-ZbwNmhMz-_e9I8IwW201o1sKmOHs0SmXKqnjRYyA8SI4qGlGu1wk8HjrRvIxCCdTvrMdNaEXVvW9XLnLP8YRjK87Cz8HMfLlKAyo-9VdXNm4vrKQpxwGkvFMCg",
+      "width": 828
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115878967810096426328\">ReedH</a>"
+      ],
+      "photo_reference": "ATKogpfSO84WaSaXvd-PAJyJBz2sr2gy_ahuntqGb9-GmvZCcFplX_zoigFPqHHtMfId30qlzJ_wpn1dzUR12B1hbh8P0aX0y0dO4mST5D7-_9vvnyEX5WRjqQzD_0R85Vn6Kk-M7jgF4U4oDY1dFnFdekmpDunh6t6YaEmtesAPQEiq-Wb82k3myUc4zg1Zmj29UEy0vTMtGYrihNAClvFCXZs1OPRdRS3O8MsBnAB-Re2OFYenu3ehweiZPf9MaVCy2qaUB59SqC-ee2Md5JQD6WDpKocjn55OAuzme_Z9TTWuwoZQf2WmZMXdaU-3ctW7LnVSXL4SVyphoZLzCUrVfFpVKDpT2UdJDRgi_5UiPM-thte-HgVzLmdwqStI6Tw1Sr19_rTURVgONdpu2qnec-IiBXe8PP-2LVgHo9Zra2cQ6QR8",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103095781571665562022\">Amanda Liu</a>"
+      ],
+      "photo_reference": "ATKogpfVA3mW2lfNUmQVqSleCZuGd48I0tnt5THUQeqfC78zAb5T1O2vDaOieaaB7gGyBqg-DLkxUawhPuX60eHZ5JWZn-RQBDLNnuZgt9pef_KLgnrY9ctqxjzHJMhUZPDcCidqblCSHZfeF9MNmIKJBnEIRKFxbcMuAgnES_2I-0fmHaKHLKPLjhFc0Ta35zFDeQmv36DwpP7tG1jOAcoPEH8Gckolb8ecOVl4GU6EQsqSfQg3a104SPGZO6-ldcy-0Xh--HV2FwGrp-1__BUU6xUtm0V6oXjeDaMNwuOzjdJAe-fp0Kp6qqZ3P7kYhUY4nEbdUfDFW0JZm_fK76EBkGa5NlIr67WrXKzNywAdSxSa3wGlJGGUSr6hBuqihm1vH_Y4NT_ZfxwBSEAwRK9xyZ8slSt4zo6lXABN9h54pRk",
+      "width": 4032
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112686859515509695777\">Brian Lam</a>"
+      ],
+      "photo_reference": "ATKogpcLwVFz60eBkEPF99q2rV40eBLDcbR1PF1iCNoRLD93c__G7PYOda4a9IAeLI42ytbFM1Q33HjEZcvk-wpEOSPuTOC77x9-bcG5fcx6mBpS0moeazv2h_P5rf80w396PSBNQaThJ84L5ZMyWW9uxNimGM8hyhcJRfuQ8DI8izng9d3_4m4pm_aAUGf7mUZb_iU8grlhjMeeGnhaGuG9HFzIrXbzkDhNztQu7KmLS3-6ASfQLJ9xvAXtX5gc4uVPpE9HnAsIGAXGKv54jDYwvusoEh9q3uaBhYrNJY9roIDOtKRyzCTXLquVyvnN3p5ESarumF19CCT9cpBm23IQTSX_kMsWEGYMH-RmjVv3YfLNvgavqeC0Z2QqN4a107LrflN1x9EID1OZuarTRkz7EvoZ2Vlizdw0377__aaTur-1Z34",
+      "width": 3000
+    },
+    {
+      "height": 1638,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108483846244620214932\">NaniAtoBaka</a>"
+      ],
+      "photo_reference": "ATKogpdXr4ZW6jzoG1lRaAObfqcEzqG-EHZ-ulSQH4zutNMPA__SGAQUNYqHcZe6-unAuOuupbWza-EuIju8vmB8Lj6g72aLkUFJi1T9K-xXaX-ehWbmh6l-d6XTU5d4d7xBm8iBFjXrcHAGbLnCAD1PzxCFbbZFXhAzjrLATE9_QdiOzGeuGAd5-TDTxLwPTXqe4OxUl8zbxyCIy31jYhK5qZQghvpwxQfuK709D632efvZf7QRHV6jeX7GqAef1YG9eh9XeZtyf9Hj4-A08shUz8-6R1mM-CTne8odP3JaOZzSckDaabEqUP1XwLHeN_L0PTPSpWjqp11nVb972PZbTH1lbyj52YFCPnX0eSzqIaT_kED3n8S7BLymV1xeL6ZueSHN6a8hkj81G1DInpJn0ap0_HueDNvnA947nmiQQ6A",
+      "width": 1284
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112344235800907605718\">Isis Chen</a>"
+      ],
+      "photo_reference": "ATKogpdcVpxMQw5bMlior9GoTbFc7q7teb5vxlEe0zyTjw0RyzHzbeBqud9GqnhjcFuEXmE2fDgbmBTHnh7jdBchYMA06PtgVjc5K7IeGLx67KnVtxrLyxdffg5ZODyc4qdPWyXzrtC11bH31oWO0-ZqtBAh7jxsUX29T7RUzjIC0c4me4Rvz6TDBm56bEijqmEqHULCfjg4_Z1HmknuACZuwAggopwel3NYhNM9qxoYcMfX0l_o-bFYvRF78cSqZiUAsuYHG4fqWEwB12sTLnijgS1x5cIt7xPdJEWDHU21YoizIoYudV2BHdKGRXTYV1CWCbfnovhID5WakJlebDQclIl1crbQ0UwAlVnGl9hHWnytY3K0gDKUa1gviPdPCV3FWsK86dijUz3as6qI0ebEE98IwdVV2yhdf92UpaH6qGUxPRyl",
+      "width": 3600
+    },
+    {
+      "height": 2872,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112686859515509695777\">Brian Lam</a>"
+      ],
+      "photo_reference": "ATKogpcOyXU_DDl5pwoiPtyXacCLRasf3324BrKuaxKs5rGfP3cbce5ktoWCNFNjtk3REdIP5CXYa4lmt9gLXgzwqshJaDKnoMNr8YtvOehOLHOG2wy3R2eLp4Y1kX5pm0urDibhrzYnkEB9xSLs432hC_bYD3wQoDOFXVPiXbwPz7dGJN32z3VJmWunqat0tkYFD5kZa8v7hWJIXCFD0Pxp59pUH1ilABg6L9nMiRLOkNvdoJ8MKCHV7xWdJ_Y3KeU5HNSvZCC_RoQp9537GgZlz2h3ijOGERWuqkj9ZND8qpcJ9UXSbWLZK0obttRj0Gt3hjC_vOhq25HMqaOKgWRY-WQXAXVlOLV_9zlTkIKpHn0JP7kXlOORca8IEN9eswv6PTlQEsJRMc0rSGyZX1GMW9Ait2fwp-ldrXc4aDjfE0S_CQ",
+      "width": 2591
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100824378751685313967\">Allison L.</a>"
+      ],
+      "photo_reference": "ATKogpffGSV16gf-wdKwUpvwILysdxvVyXUm_dmKXgIkfDUnpT_eiBbcHa7szEqPn1g6vPNzpucH4VvtoprgMj5x2OJF9ApmbDETtro_5Dd73zuCcpD_NkX8D6illw0PC5w4lxAgKnrT1afEeA-WFYMaBJd0o7oXF3NNKfJfnfqSHTXb6NKVK4a90XQ9qisKxLaQVUzMxSFlTTRhu9NPdHJbftqoTOTeGn-CujLKOlOinpAUmd0YCJqBq5iq4QBviVdBN_PDioqcwPu_80A4RiOhYebxyCcVvpEuMnhMQWQOjKsZ-S0zuyDC372CLQ2d9E13XcTEwU3nEi0uiTg8dnREGvoFxwSwyRBpB0jVDZuFsfRX706zcrMRznazLDWcILWhjAM6Nr1R6bEkxFy5nEwRreVapiXJGM98ZGot55Cb44DRHH8R",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117961593368174955590\">Miya</a>"
+      ],
+      "photo_reference": "ATKogpfyI9JhSPzhC9JPSok6eEYJydSa3eIBcZqkc7wywdMCcmFikzonJpL2gjzABSJ10139cU_wlxnTPkxPbIMteTbBc2MEGCywcG-HVz2mGNaKEcO0ee5i5TffB_f00iGXDmxSfhy2q35_nYoHPL4wbr-do5rW464RSS0Mu12WC4gKNfieP3_G4NVhxmHIana2E9KROuzfLz27cHbT7_vfFWvRZ0G4DfzbDVqA_5IQ8RWJwqLcR3wrFGg-HDHgRBO4j3E-D3WqnHK5vOGGPi8iDa0nbL62ZdCfmWRpKGkLNilk9tClMRMQ0BYaqTs9n3jJmjc6y401pHQvYXiJp8Hf05dtL2LgeBFDw0hU2TfVVUaho3IO_Qv-IBZ32BJeRCNqAe74VwMupL1guUgiBpZH0ShCu3XZgA87pnRyxBsbzIjNHw",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJw9v2VQBhwokRFqwgp_ITfG8",
+  "plus_code": {
+    "compound_code": "Q558+GP Flushing, Queens, NY, USA",
+    "global_code": "87G8Q558+GP"
+  },
+  "price_level": 2,
+  "rating": 4.8,
+  "reference": "ChIJw9v2VQBhwokRFqwgp_ITfG8",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Bridget Montgomery",
+      "author_url": "https://www.google.com/maps/contrib/116977197824353952469/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK0EmfEB99tA2vqlSGi2n4Z5dOX2G7wrMwqcVBs93JH38oQDw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "3 weeks ago",
+      "text": "Super underwhelming. Not a lot of crab and not super flavorful especially for the $25 price tag. Would not recommend. Wasn\u2019t bad. Just was way too expensive to not be very good or at least have a decent chunk of crab",
+      "time": 1748753405,
+      "translated": false
+    },
+    {
+      "author_name": "Emily Liu",
+      "author_url": "https://www.google.com/maps/contrib/115984644933525367373/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKBSlfIuHS9o2poZE33Mbo3zu3R_UeFAgydhW5yitC3fRXUrZU=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "This place had really tasty crab noodles. The crab roe was great and the noodles were really thin! It also tasted fantastic with the vinegar!",
+      "time": 1750702220,
+      "translated": false
+    },
+    {
+      "author_name": "Lin\u50bb\u6a19",
+      "author_url": "https://www.google.com/maps/contrib/118354379456114792033/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWmaPcqObirDxMweIb5wKr-fDGTMujzQTDk_v7WISNGBLvZCdzo=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "5 months ago",
+      "text": "We got both the noodle and rice and definitely felt like there could be more crab for the noodles! Also the crab definitely has a strong scent to me but it could be just personal preference.\nLoved the soup dumplings, will definitely be back for it again!",
+      "time": 1736267019,
+      "translated": false
+    },
+    {
+      "author_name": "Michael Le",
+      "author_url": "https://www.google.com/maps/contrib/111785905244651085429/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVxnuHA33JD7rvFltb7I0aWjQ3wtORBVNevn-r_gVheVeF9hq0i=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "Inside of New York food court which has other shops and restrooms (could be cleaner but it\u2019s doable).\n\nWe got the rice with crab roe and it\u2019s as expected! Great flavor with loads of rice. Could use a bit more crab roe on the ratio but overall filling and delightful.\n\nTook a bit for the service as the main person was just in the back prepping and didn\u2019t pay attention to the front.",
+      "time": 1737829625,
+      "translated": false
+    },
+    {
+      "author_name": "Mariano Suarez",
+      "author_url": "https://www.google.com/maps/contrib/114843173943657462107/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2fPf7pWtvTYS8J8Em7TYNDZeVD3RO_6OavhTziYaZLR683fLt=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "7 months ago",
+      "text": "\ud83d\ude1b BE AWARE this is a specialty dish. You pay for its PARTICULARITY so don't expect to be wowed as if you were buying a main line dish. It's crab roe with rice or noodle \ud83c\udf5c For what is aims to be it's GOOD. Be aware that the \ud83e\udd80 CRAB is light!!! It's more noodles with crab flavor. Good \ud83d\udc4d",
+      "time": 1732493887,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_breakfast": false,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "establishment",
+    "meal_takeaway",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=8033317768229071894",
+  "user_ratings_total": 641,
+  "utc_offset": -240,
+  "vicinity": "133-35 Roosevelt Ave, Flushing"
+}

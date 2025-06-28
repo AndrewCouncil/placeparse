@@ -1,0 +1,465 @@
+{
+  "address_components": [
+    {
+      "long_name": "149",
+      "short_name": "149",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "1st Avenue",
+      "short_name": "1st Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10003",
+      "short_name": "10003",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "2930",
+      "short_name": "2930",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">149 1st Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10003-2930</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0000",
+          "truncated": true
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 4:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Tuesday: 4:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Wednesday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Thursday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Friday: 12:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
+      "Saturday: 12:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
+      "Sunday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "149 1st Ave, New York, NY 10003, USA",
+  "formatted_phone_number": "(646) 609-2804",
+  "geometry": {
+    "location": {
+      "lat": 40.7284548,
+      "lng": -73.985007
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.72975358029149,
+        "lng": -73.98353596970848
+      },
+      "southwest": {
+        "lat": 40.7270556197085,
+        "lng": -73.9862339302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 646-609-2804",
+  "name": "Rowdy Rooster - East Village",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 4:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Tuesday: 4:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Wednesday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Thursday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Friday: 12:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
+      "Saturday: 12:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
+      "Sunday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109466204351783537057\">Kerry Alaric Cheeseboro</a>"
+      ],
+      "photo_reference": "ATKogpfwENzQIqw9xSH252XzuzlJH8E1dZ_xaL62cknb9qj5CmrW1VEowglvlNxb1RpfBz-HCJouVA0i5s3OL9Qd7HZMjdf4bWhkgL91sUbi_Ds8FpWCFQfHusa8qbGNIaJySZLJTkaYuQSIT9zpcDr7a8Xc774cN8UlQ-XMGsxTcegOzDr1LduIp5CHmw3DnhxWe7fWbxsu_g3H2IHrRSSs-mvGm7G5_J6EPULua0uZXO8sJYHK6tnONykvN-CcrESOBFyixPjQKhmvz6GCQH78OJY4xtHV5OrMBpQwYV7BoJe67RqknmlxKCEB6RI-5W46ZXHm9cvLQG8qIi-buK9CAyEjrHMwR-NLGboGwNC060AbLNUiEXRlGNOnf1ToO0B-k_Sb9Yy0abuPoJU88fnSSPbZ1oeovyiGzIv8zRlJ-HQ",
+      "width": 1920
+    },
+    {
+      "height": 3168,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101234478326324835670\">wen wen</a>"
+      ],
+      "photo_reference": "ATKogpcqiaByNbtcviQIfNoHEoRXkPICzEimPqUxPZ66_WAHuqBhFgYAVwprIKRpTj6yYO1eqqgTatC_Fu_eq1RGf6rKcPaIKfHWz7IXesM3nsng39YNFPVUyvCHLGK10JVEhpifnXgwoN-1uv_YIv645lslX1nZ7uKLxt8MusUcE900AQ-pQoLDf_iYG3glJqXG7MXDIVsNZEDd0tMp-4BtczYE9rnfdiqaLsdpAmN0QX81afwgkLM0YUybtg2bE9B7_M_xHa0wqlqxC5EJLvJcKnE4oeIY6pXhq8E-JbiBmz6e2HzHChDYBvW1A9FA1zJ8CEDeV2i2gSSp-iFmDom3088xn7-_BZKJQQ04g1GeYbMgQ_ctF2j5vwFQeibHHTeGSV3Qef_j6khQR0usoGCrN-kgCmGNkLqqxkGfkLyI6sc",
+      "width": 4752
+    },
+    {
+      "height": 3624,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114138653449591477395\">Hailey Sprague</a>"
+      ],
+      "photo_reference": "ATKogpd5SFuiHZQelL5c8OgQamxXY5T0HAH6JPe0f4oVHEWM6nq523hAMRo9xg8PM5EIFTkR718LUbq50Ze9ok_UHxKd3Cmx4p5V4tJwMHiOBP1HyocpMlZLBFR9k9QgRdIzWNe1XEd39IM4JKfvCEBOCbqJiXkHbBOhw-n1nyoKD3wjuxzVn-cjNk4hIvW4hrydYFjBFuwnpbZ1tGQpqJ8ZhQrC_EGjCT-af9LaGuxNgRT6lfNZijrfdRBqXPrdSetHMAuaQ_sb0ds51aYaloZ_GP7E3-IeJhAyXuFH7vkwMySUTzKagT4GuNzEjZI32-7FmRc3gTYuxsZvO8L_ntxL9vPMP_jan2pXBkaYHBdjtflTO9MLhXG3SWwcYbTrEKh9eBqQQGJHMuC0xdl0WGLIaZAlZ5Bdt3wN6RceAKacww4gmQ",
+      "width": 2919
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115753766454337146854\">Sylvia Song</a>"
+      ],
+      "photo_reference": "ATKogpfqPl36tO0ceqC74GRF3MN5UobZvXOTp6w9PiAZNSL948_DdGNQisA9PeoWYC6uxX7FlY-ukYeUirVC4hnDSh1shSUJG2XECm28yXV25y_wUcmLh6IyKHJPpjr01qgqlAzIuVnVVDc1cI5dcc--pLrMNUjEchaRyXqLNDmtpgEAXM-o6YiONqdtforQDib27k6xk0VB1UwTPjcXcYt1Vjs1v3GAFCM1dDfQlKrMbwnWM1Amj16kJ8urYSCR0ZlXCk6OxT_6OzW-S1QjtTi6HJ3xMw1qhZsGOtzuwOSKHw_WGkQY-mcWTRMfNwvV6iM7kHf30bDT6jZmpNenaPs4tWoxp_9ocSo9oXAZni6mFqBWdKJR36gN5axyXFUiPiH-uaoHgoMfxrm3nG2jQu5oAe6qBx5MfxrshZJ4d2LFVRlMVA",
+      "width": 3024
+    },
+    {
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109466204351783537057\">Kerry Alaric Cheeseboro</a>"
+      ],
+      "photo_reference": "ATKogpclqwTkU_7aye2vxyuaFGEyO6FkXao9CkidBAC77y558rDaTmO5fks-SjmWZ0GNoBiS8PvpTO9cJ1POU0QfQFlcKCGSqtfBql07RtClPFFIAIX6xUfzK5bU5-V9SGRRI_6_csBR7VudO-N1Scok_nYWXXuCrl6IJLGpsCGVmdjk25ct3g9T10OkleSAOfPOPBoiscIgdcrjNZO5SZMB6fL_pUH0AWBhtwGxFs6OmvyHvGv5Mttpm2Y8zM_HU6SoAnEJAkKAQKfRJLf3ILWJNUOrfOb5I1Og8bhnQ-Im6Y29f5i3Zkz4YQCefUJeG9o7hqshv1HW7U4w_ynMr-a0aQS76b2FwWn1FsoAPqFKgCTTBukGoh2cHVY0JQzF84kOyvjAOSodN-6kzoeZd3dRZVklsgCGQ9jgUL_V_rFIZ0wGsg",
+      "width": 1920
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102638543375379090084\">David Yang</a>"
+      ],
+      "photo_reference": "ATKogpf_6sD7Rt2C5vVUs_yQWskeDjC8O2sGelDMTPHKXYRFamxYPsYs-LCYNP9frMURw-5C9L0b0Y6OZUe6MHVbESd13AFqR20SHeEOKGuREVTzBJucYBi3sjhk0tngBmydIBrNIm4BpJ1vnrRuxKFrXBuCo5UTz8dqD_ZiFqhI1KKhnALmGd_iIaaXrCua-ZDR_-V10aV9hCjKJgtwTkGC4JtxC94YV4ML-7Me9wXyx2EA9kpHNVnRN0KP_wMbh7D1-5TxvREU7l6Ke_WNT5K3SK-Sj2SurClsDWmHhwzY_iyqIbHYcXV7v9_-KUNkvYW0ZcD54XEPidrjHdCOxfui_SScu7ziCZxGa6hl-llSeLjeDWErzM6pGj3_uMh3DCOQB4lxyeNRxYr6ixPqfL6MdWGVoQMu2UECMgQUwgvSuaxfSOZu",
+      "width": 4080
+    },
+    {
+      "height": 852,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114018746893905554358\">Waleed Khalid</a>"
+      ],
+      "photo_reference": "ATKogpf9KDawX1HxA294FF-lY9OdnmhGEseJ4lF68tG1q91c-vClx8efaWHaFWwUkr0To1HELuPa0kqucgXbHDLJSYmUixbA5kqQumalrhXFQjncLqMQAs8lGvzojnM7AEiAwbQ0Ysd-LBV0e5YQPUMv4NRy7PA9j46Pkq2aBYnPv1xlq8cbTUBn-qSK20kPT4SU87iDvic_XrQ1Oc1hoe1_rsGZ74vdu5S-bKwb8EJu8B7PHlRQwGlFKwoAYeGSix-TAPC3FuDUy7vw4c8rRgLCW8j3Oro3PzaGCHT6zc4Uyn6TlMu1xpaVskzNGLx3hhpCAyESXLDL-I0RQF3i4tLiD_1rR1Gwqx4aAWDhhGCGkBr6VywO6ICfr2bINOBY6XzVEkNG__quO9bvgdDjYI_tuL0c88pB9BhA321GKynlyiJIj_at",
+      "width": 1064
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117808460219123378764\">Ruwan J.</a>"
+      ],
+      "photo_reference": "ATKogpdOyEMNp_9YHVuxU45r-ApBx5lpAUqN1FEmv8q6hFwj06gDBRInembpLFLUmV7o1qun2_2i6P7uE0h7TPdGdZeNJvM_mCjLQ5sl0jh5GnrECxnj_3nIUdKbHXqGubtlkoQP00hBC6bafSSMRdicuWj8HHVcO1Jj_xfqe-d3HF3-d8rf5rM_7hsTmBxkOe25wRAFQPcUNKIXl7iHCqHqkFVTcjWjCTik75nBrFLUSzwX6kL676xNPTl8mH4NWOQlNotRj1Td1gxyOvM2mGQp4KRZXTlK9PQ38hFhdFDxBZSsXJ0mk4Uw-FHBFER5BhNLTa2Sj0xBBAJqmwtQ5HZl5qru8f6kk8aheoDAfCXmXevTrIOCCTw0Ej2K6d3pz2R46ZTCoYaR-8f2D5DMjs5hKhxFhNb5NFE3lDJPERLwFR1LpfSh",
+      "width": 3600
+    },
+    {
+      "height": 2048,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107720724569832254430\">Poorna Suresh</a>"
+      ],
+      "photo_reference": "ATKogpdrsyqSsVM1NMCHolUKd4JjkS1jMJ7oh71IvqOisZlgmcW3PhDTTPiXrH1K2G7d-lMo0R5e7s-ErnMWZzybLJm19pJZeAvr672oooj5WOwzTAba6uDKJOO8F4niQQXpK8Iyso_r0qcCRFz0rYaLv_ZoWsG918ZB6GTEqyBtT9C_xQzASqzuk5jkR5qsBxUnRKgs0icI5rvK5hbJsJAWp73DWx0HCcV6mPyIgeB-tXxmjhYIqMn7FvkZ_9srI3Altpu7q4zvzlx8WjJv9oN9erBU9MzduGAOk6TSFA5YjbOOYgNRWObkSufYowP1JRvJOfFECA0s6JzLBENfvH0C_ReSP6IEcXmyw_qSt2cCmq4n8GziPOOegJI8bXQf8c-OVGSRS8JgsLcWYAa8MFLynL60FLFIls-M00QEzeCjR8nmU-7R",
+      "width": 1536
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109022523720071680484\">Eisar Lipkovitz</a>"
+      ],
+      "photo_reference": "ATKogpd8ZD_FlGkUzLD4La27s3AhMc0KXqGiO6FuSPXb6Rz9oU0BfSVGPgkq6FPMBKqsxYmlhx3I5-n8Lpa_f1JHLd6LkV9xkAttE3xPFxZDCeGjobE62MjHOHIWk7HKQE-x-oCk2PYCsQo0ecDIdB6ETLLJlQO49kKC-WnlqVWh4kPjO3oAmX2V-a0b5xDh1bVmJSass0nvFpcJ69BjKWmc8pufuzxds3H_OvDUsRePR__ND42nX5u0YASFs2Sm7nZsch9XHqXwR0CT4Q-8EMoE9B5g1phKehJl2rPmSN0uI1NjPyfu_fNst4hcsJWsEzQh7fDjmBWw1ZFKYVFnAKt21cK0akJgHzEKQvqGSheSfMoloZoTdmM6GA5xWjvVjg2_9rtZjrzSFzQulNutWYF5qGXfw9x0lGLd2VmoV8QE-WUnUw",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJm4-M5n9ZwokRalc0nCElVto",
+  "plus_code": {
+    "compound_code": "P2H7+9X New York, NY, USA",
+    "global_code": "87G8P2H7+9X"
+  },
+  "price_level": 1,
+  "rating": 4.4,
+  "reference": "ChIJm4-M5n9ZwokRalc0nCElVto",
+  "reviews": [
+    {
+      "author_name": "Siddhi Deshpande",
+      "author_url": "https://www.google.com/maps/contrib/117374627185676446118/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzSPEYLTWTRK0j2iHFOx0mGvJcp7cEQUxwujd-lTYj0_3dTRLPgQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "I was on a East Village food walk when I stumbled upon this small but quirky little Indian fried chicken place.\nThe menu is limited, which I prefer.\nI opted for a dark meat big rowdy burger with saucy roasted garlic fried chicken and mago lassi.\nThe burger came with chicken, yogurt sace, mint coriander sauce, pickled onions and a very tender yet crispy and saucy piece of chicken. It was MELT IN MOUTH type of a burger. Trust me when I say it was the juciest burger I've ever tried. 10/10.\nMango lassi was good too.\n\nThe place is meant for takeout but has around 8 seats for dine in.\n\nWill definitely visit again.",
+      "time": 1748327654,
+      "translated": false
+    },
+    {
+      "author_name": "Olivia N",
+      "author_url": "https://www.google.com/maps/contrib/107245630597734587285/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUmf3xwmGqNVuZZBo1OZJozYun-IlYC6vbjzzHmO12rNS814AhK=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Overall rating: 4.9\n\nAbsolutely underrated. HIGHLY RECOMMEND. Indian x fried chicken?! C\u2019mon. I went small and only got a lil rowdy sandwich & mango lassi. The Lassi was delightful and I will be coming back just for that. The sandwich was soo and I\u2019m very excited to go back and try other items.",
+      "time": 1739735653,
+      "translated": false
+    },
+    {
+      "author_name": "Chuk N",
+      "author_url": "https://www.google.com/maps/contrib/116057293062684064012/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKjWY-SvjijGhbHG6BduduK2H7qOjzJpzaLc7SLtigB7Aas5Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "We had a journey to the location, trekking from Brooklyn! Then we found it, the place for the Indian fried chicken sandwich! And the unexpected mango lassi! Great music too!",
+      "time": 1739059437,
+      "translated": false
+    },
+    {
+      "author_name": "Sameer Siddiqi",
+      "author_url": "https://www.google.com/maps/contrib/107690669627240453515/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUPqu4JpB3-bE9zCMPgf1t1ksXwveRPbJSI18WzTiY40WlRV_DS=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Rowdy Rooster in New York is a delightful spot for anyone craving juicy fried chicken with a unique blend of Indian flavors. Despite being a small place, it's packed with incredible tastes that make a visit more than worthwhile. We sampled a variety of options from their menu, and each dish was a standout. The Indian spices and seasonings elevated the classic fried chicken to a whole new level, making for an unforgettable meal. Overall, I'd rate our experience a solid 9/10. If you're in the mood for something flavorful and satisfying, Rowdy Rooster is definitely the place to go. In summary, Rowdy Rooster delivers a fantastic dining experience that is both unique and memorable. With its outstanding fusion of Indian flavors and classic fried chicken, this spot is a must-visit for food lovers. I\u2019d give it a strong 9/10 and highly recommend it to anyone looking to try something truly special.",
+      "time": 1718385013,
+      "translated": false
+    },
+    {
+      "author_name": "Ashima Munjal",
+      "author_url": "https://www.google.com/maps/contrib/105556635505864574344/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXvJzFBqwIjieKiuuCNyXPIWvLb9SNX3QPBNMYBzWK7l0PvvIM=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "We visit Rowdy Rooster often when we are in the city, primarily for their amazing chicken sandwich. It\u2019s super flavorful, the chicken is crispy from the outside and juicy from the inside. It\u2019s like a perfect blend of Indian flavors in a classic chicken sandwich. The seating space is limited so we often decide to opt for take out but the food is so good that it really doesn\u2019t matter. They have different spice levels so be careful about that. I always get level 2 which feels just like the right amount of spicy to me as I do not have high spice tolerance. If you\u2019re sensitive to heat, you might want to be careful about going higher. We\u2019re planning to try their boneless chicken for our next visit. All in all, a must visit place if you\u2019re in NYC and craving a crispy and flavorful chicken sandwich.",
+      "time": 1696877700,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15732803174550230890",
+  "user_ratings_total": 576,
+  "utc_offset": -240,
+  "vicinity": "149 1st Ave, New York",
+  "website": "http://www.rowdyrooster.com/",
+  "wheelchair_accessible_entrance": true
+}

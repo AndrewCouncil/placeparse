@@ -1,0 +1,507 @@
+{
+  "address_components": [
+    {
+      "long_name": "5-35",
+      "short_name": "5-35",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "51st Avenue",
+      "short_name": "51st Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Long Island City",
+      "short_name": "LIC",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11101",
+      "short_name": "11101",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">5-35 51st Ave</span>, <span class=\"locality\">Long Island City</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11101</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1030"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 10:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 10:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 10:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 10:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 10:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 10:30\u202fAM\u2009\u2013\u20097:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "formatted_address": "5-35 51st Ave, Long Island City, NY 11101, USA",
+  "formatted_phone_number": "(516) 303-9183",
+  "geometry": {
+    "location": {
+      "lat": 40.7423319,
+      "lng": -73.9552533
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.74363223029149,
+        "lng": -73.9539446197085
+      },
+      "southwest": {
+        "lat": 40.7409342697085,
+        "lng": -73.95664258029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+  "icon_background_color": "#4B96F3",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+  "international_phone_number": "+1 516-303-9183",
+  "name": "MOGMOG",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1900"
+        },
+        "open": {
+          "day": 0,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1030"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 10:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 10:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 10:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 10:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 10:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 10:30\u202fAM\u2009\u2013\u20097:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106516880501351875103\">Ale Casta</a>"
+      ],
+      "photo_reference": "ATKogpf4MPtMolRCEcNOlS5e_kpQc_QpeoHpiFvycE8W7SJhqqp1lD5nIwXzhtUH6mze2N2UKn1l5l3rTEVeO160YcqLNXDUJi67Ans6p6dzS3SIQQloTr_o3ESOQI-Kkf6WxMJr30KzKKk0-ZOyLjnNGIArfQ7tuf75fJdElpXquDWLB2z3XFQN5QE0PWtBSxtAfbNKRxy6vl8sQsApErquz9cApzwPYg2pKe_j5FNPgG5gZ5DYZESQzgkWizaj8ovGQ4R8WhKs5Zn-5YtZ3CWoGsQAvh2MYPhsEJeILBqUujAu9OFLBOajE5Z9asOayJx--V8C8ZnX_lhav-m0fVJVYy4_xe1tJrVphoRnksJDo6rrmS7FtkLRNG86e6a_UbvkNqYphdOxfyO3ERAx_Y1jyZ7a17YqxJNOqQKD7Ryj9aoLwGQ",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113738155168366459030\">MOGMOG</a>"
+      ],
+      "photo_reference": "ATKogpcETbik_J8_eR3AT9GeirKzDjGj8JYn2nPnuJhOlmaxl3OYjVhrouljY9cFeF_QumQLIUBgtk6I_-CQTY0ocj6AwN36MxT0knXW7A-3XGEkdUrUf6YotHu_FRxStnqx_GN0bYoLyVxM7NI-cAQvfbqyUaWLNX3utoSeKGMVWE2OBFgdyxdHCVJqoZ_DAq4KHz074VSre8nVwvBHxVOMdcPx3wXj3HKvSKp7e_rwawxieOgqFDj7buiKFdfL5YWdB_ZkHJ4w3GIaCsF0BEF--Yfs4IWefR1oPVh3ggmOigzM3Q",
+      "width": 4032
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115095695647677579516\">Yat Sang Yan</a>"
+      ],
+      "photo_reference": "ATKogpeeXr4RN7fNcC4jLH_MR8Z6F8VOeBMUpOQNShOS85_kZLN33QtaaUb5CE4AF8-L237M7n4GZ_VpWLNDh7qLuiYPVUBHqUtOxBKbxnsguukqVzHWMeAdSR_u9-Hsef3KMQ_gxEQ-EKhBZNAiuU6i2R1KhIg38mcAN6cBosEe-NahjpokRWjNB-wGtEvN4D48CWBOqVY3pnWPi-35sjLpvGInxUvMuUpnPqocSdxy0I89PbRS9-Jg2gwJKoooUJ81JUkj7tQ-6zr4Ph24hr94xRucP4Msdx-nEwNtrFzM9IfVfiHImCC9QNPaYuOAqJ460mE3KTfyzugRy0q-tzmVgZ1eCSCpulBupYEBHLDtfrUovXmUtOxMcfQ_AfWAYRefbwyxfOcm4vxZD9LiFiISyEZLRdOUxKdPz6DSEYHyzQpm8BQ",
+      "width": 4080
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110438224835206767684\">Peter G</a>"
+      ],
+      "photo_reference": "ATKogpdMQ-qt_RGmbBz4gpB4vVINfSRJR0Z2klkUqjzM0HBAXra38k5MF3jLoahL5gI_Y6w12qk0pNTw2_pUEorLATHuqb6KE_DhIEzzK_0tTGcqY8GBL1TCfHhc5EeroPnu73HI1bQT79kQuvqu1xi74b3yF45cnW_tQ6Py98nVMNLNmjJcxBvaIQEfTt1x5w5wVXmbYIoimY8V5K0oENVE5QdK1fdxtdUKdwXTMueqg2CqG3wIu_MB-JFDt45B-E3TcMQjW3BG_l9LBgs0l0vl9w198sYliku8ht9edtKrkOEt7V-icjCUfadYj8032HMTUjqmQ4fdXZire8daZv7Wea7z8E1RCj8AOney3pOnpvBxCTANPdgt7J4q8Cx_9hZBDvyenjQ8SMTriua7Q5nsCwrC_lFJ-cBuJxJ0bfPJSBKjKDwv",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113293444408362811028\">J Y</a>"
+      ],
+      "photo_reference": "ATKogpeOu0bO1poE326_onaYBPhSK3fWGPEckEzJ1aTpRL8JhhRvv1cySPO4WpduwobFNI3MwcinS5oYKCw5xXb2yLIoNlLQHl_RsufLPZqBB2lOgJdV1tfBDrWuuxHMh8rIpPVxX7gp2bNDJAIQQgAdc9ppHaq4juqQSN9rAFFI-vJe81gO8uV4hniPFRgrs0fkoUDfO_qC1bjfGASTFNkV1UH9inq2gSL18YXRaPnvwuSQzKxsv9BF5pAD6Oxjr-8LlZ6QgNGrDT--qkQs3hN69Il2BYbDZfgX13gLrcqCAjE4W5e-rKAsiT9Khd1M407Z4hFcij9Jhd8UrSOdThNddv2fnenfJKYreLVfStCPbY8nG4TTK34JNyV3Kg2mCtAnpL25xKon1dDRZuIIWmrgGD2-pRdmptT1Uh-4f0dgS2Nv1cEL",
+      "width": 3024
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115095695647677579516\">Yat Sang Yan</a>"
+      ],
+      "photo_reference": "ATKogpd4wAsZNTxLHRqMUCjdBEleHShfVI_7O6ko87kakB6om-ENrDJGsa3WTe27zQlNxK2eFQcL4DI5e_F9gXjrF_dF7xdsJZ2uf14_U6CnOsHS3JIoXEf1xAN9cVs8AlezVOiYgkkUTlMnm32nd5gNIk7ADaB2pfMnWxTFDGbAzAqyUEXU5KMH2xFlesjrTccKtpsJQwPWvKNH7eCpIJk9r05mWlx3pIuQvuCU3a3ejh02ltMHtwGK1QuWB5Xlu4oaeByjWQ2VpdeYP_6_jSBz5uZczhffvSn31tNkfCUgh2Ad9zfCsrvxXuwQLf2qFADGQ-WnpV-ebE9Cp74hFVq8oAg95mR9odCbZRCVNaEU-KmRt0VfCXb9b5OMh9IHTJ8CqZNyrmla8zyPnqdJG9fC-DMK0XPuC1RNv92ern6yYMGY-9Q",
+      "width": 4080
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105436012284087737917\">Nobuhiro Seki</a>"
+      ],
+      "photo_reference": "ATKogpdR_r2jasiJ_zNJk4wvGW3jmiMqhe6zDWb69AxHdyhmSbpus_RWMPFk8F6P3Vak28YQ1fOkPVBzHuiLPxzROQvhBZhYEu4qCAmdXKyUXDFXxvargPRvQ1AjGGSQ3YLktpZhcq1Ht_t4mzHCfKJ9QYy67h9peNFFl34dZgjPuAhWpA-m3yhUtQojC4I2pizxmhhbrbK5sEqLdOTsC5vo0ikLmEgg7zzMe9jXIDKH8IF_gwL7NP3vHU7xF4OkOtJiA3E5p642A6Q87FRVG5M6NOdDxSulzJUYv72_4ogQ8vzbhv3rwnX7tl7Xc3f1BNgwEKUl0VWqfJoTSw9llv0LQpkzNurYf-Wl5vUe4ErydKCE538htP9G2jshbGDzy513mPmnU0NbeQIdAaZ1JiacG9klFWVPYdNnjzwgYdKfEhvJxw",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113738155168366459030\">MOGMOG</a>"
+      ],
+      "photo_reference": "ATKogpfhOFMXb6DPHezvXQAD65qb2DP3WlnIwfwuQCDUQsBall-MBpkfw69PQknMwks_Az26WwAwAhxZZeXSc7ITH8nMJMfM7gGUGP2rqpM6GDQul_nbidnzeooKosmyvTy0NLmvX_KQ_3ZSFUr7XELyzjZKCMg_gPCjhX9YExF3W1vlZ5p7k3QyUM8PvXBEPcH8zjyfogGQ2eUX-VIjT5LrHdd4ZEMJSFX0aZBxP3obEGa0ZoEqxbYedV67BsNg4E-VXQgF4NTvesPy-ydP-ypfx-qRo7xxqm3lVK0OfeNh1IVXSw",
+      "width": 4032
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109946080765223176769\">J A</a>"
+      ],
+      "photo_reference": "ATKogpdl9oay6iFv3z_Cxl7hpin88yU19NX1RgkZJg-Tqk7ViOFqZcm2f6TW45H-1rDAd2-jllCQyC99FhhkwPxY1FzpCGjJkwLGq2mYlv0EI7cYLm9z487HqxTpS4wbTnVDOMeIkfNA6YuXQVM9PS74Iry3JTTXAMifuF4YeIxBKkZoWd1D2pxFQOAH7Bqk_GpcmZKcjGaKdytqlEQWYmFU1ggBWeuB9uGoCmoyuy8ZXLb-Mu9PYYSOpCOfi0-Aw61cU_tUgTM7maPm4GAL5HUUD0k56ofqzWF4KjyBRGk3I_PaeOJlLckDlwKqJjniaf76KdVjVRMAp7UneZCBQz9VGQfiAfuClptCasUtzN0qHMrvLAGNgsg9ieMcPGYc8tP09J80wMRDq_qdD7mRdXSbfGCuWSroPNO0pcryECVEOZbtIj0",
+      "width": 3600
+    },
+    {
+      "height": 1404,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116010407413062994240\">Claire</a>"
+      ],
+      "photo_reference": "ATKogpfRMoTnBu6I4_VsgveKP9vgj2I5v6rPoUiplWUkqeGBgGmF95eeXjC72qrDSX5StQm5yUiXSogeVD7eBBT3rctfjJGBISQkdYo1lAGfuiVgtdri3grn3nD2soZYY3uW34ZbrpQus2kXl3NexMqiHyY7_WQYkUPtZIuWuQM60ylgEbfXfRdPtEE5Jp687YPiUjPKlOYTSvD14n0YskF3r2q4u21ULLrtM4rJtKIjM5jGV_NjwNYuv4x_niCV-XIHScAFl7NLhFBm4l4UMVGGOH7YEZJZEkzOAiUaiHIfl58UUT7if_iR5kF9AFYHAmR-EzQQWDQprLoSybVvRG8F5NhJriEx99oSE4saCUSu0Mcajy7Is9XAGbLMs3vpIh2v34yE8_9N1qq3fn2KPq4GU4ZQ3r1ucrNak28-LPJgIFhgVA",
+      "width": 1171
+    }
+  ],
+  "place_id": "ChIJP196UmFZwokR9HJCzWGczA4",
+  "plus_code": {
+    "compound_code": "P2RV+WV Long Island City, Queens, NY, USA",
+    "global_code": "87G8P2RV+WV"
+  },
+  "rating": 4.8,
+  "reference": "ChIJP196UmFZwokR9HJCzWGczA4",
+  "reviews": [
+    {
+      "author_name": "Eunjoo Kim (Ej)",
+      "author_url": "https://www.google.com/maps/contrib/112489957736073484531/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrJ5ulKYdq5z-ImdgQKNSyzPvHxZfP12F6Pl-Ve08fVNa-NX3Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "A Hidden Japanese Gem in LIC \u2013 Mogu Mogu! \ud83c\udf63\ud83c\udf8c\n\nIf you're in Long Island City and craving a taste of Japan,\nMogu Mogu is a must-visit!\nThis little Japanese grocery store may be small in size, but\nit's packed with goodness.\n\nLet\u2019s talk about their Takoyaki first \u2013 WOW.\nCrispy on the outside, gooey and flavorful on the inside \u2013 honestly, it might be the best I\u2019ve had in NYC.\nThey also serve sashimi and seafood rice bowls (like chirashi or ikura don), and everything is super fresh and insanely delicious. It\u2019s not cheap, but once you take a bite, you\u2019ll know it\u2019s worth every penny.\n\nBonus: They often have sales, so if you catch the timing right, you can enjoy these treats at a better price!\n\nThe grocery section is small but well-curated, with some amazing Japanese snacks. One absolute favorite? The Hokkaido potato chips \u2013 seriously addictive. If you see them, grab a bag (or three)! It\u2019s not cheap, too. hahaha\n\nWhether you're shopping or grabbing a bite, Mogu Mogu is a little slice of Japan right here in LIC. Go once, and you\u2019ll definitely want to come back!",
+      "time": 1744128842,
+      "translated": false
+    },
+    {
+      "author_name": "Mia Huynh",
+      "author_url": "https://www.google.com/maps/contrib/114746114434966868203/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWE4czd-grUsa03QSphvyCOclM_Ar_KI27-4Jd9NwQtCduvru9p=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Located in LIC, this shop sells an assortment of Japanese goods, ingredients, and to-go dishes. After recently going viral on TikTok, this spot has become pretty busy. I highly recommend to come here before lunch or on a weekday if you want to try one of their to-go bowls. There's also only seating outside.\n\nAfter passing by this shop so many times, I decided to swing by after a run and got myself their takoyaki. The takoyaki was flavorful, generous with the ingredients and garnishes, and crispy despite being in a container. Overall, pretty solid for to-go and I would love to come back to try their chirashi bowls or buy some Japanese ingredients!",
+      "time": 1748023625,
+      "translated": false
+    },
+    {
+      "author_name": "Aimee Kurtz",
+      "author_url": "https://www.google.com/maps/contrib/114786438410983707991/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUne6qrWwjn4-gglv93l6AnMoRM-WYryt1_8LgxNQns4s-hB7ad=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "What a quaint little Japanese store nestled in LIC. The bento box was so fresh, delicious, and the perfect portion size. Loved this place so much!",
+      "time": 1743806426,
+      "translated": false
+    },
+    {
+      "author_name": "Nicole Park",
+      "author_url": "https://www.google.com/maps/contrib/113287189622110150813/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWNeZwTSn_MsA29-kdKLDRvIrNl-qljFTmtn85CwC_QQxWjkNsD=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "a month ago",
+      "text": "Mixed review!\n\nPositives\n- the sushi and chirashi bowls are great, fresh quality fish, fabulous, great sushi rice\n- awesome Japanese grocery store items and artisanal ingredients, sauces, snacks, etc.\n\nNeeds improvement\nBut sub-par quality and taste for some of the prepared foods..\n- eel avocado roll, slimy weird texture (I\u2019ve gotten it multiple times so this isn\u2019t a one time thing).\n- the triangle onigiri rice balls, rice is dry, such little protein in the middle, the karaage one I had was so dry and hard to eat\n- spicy tuna roll just meh",
+      "time": 1746745354,
+      "translated": false
+    },
+    {
+      "author_name": "S Sun",
+      "author_url": "https://www.google.com/maps/contrib/110192993762731460700/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWF6raPcvzL6Mxe13FK2K-R1REj8xJrcr-KHuSrl-VJ1Bag-QlV=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "3 months ago",
+      "text": "I bought a lotus root yesterday for tonight\u2019s dinner, only to find that it was already rotting (visible dark spots on outside that extend to the inside). They wrap their produce is plastic wrap, which makes it difficult to tell if their produce is old or fresh. They\u2019re not even the most affordable option for buying produce, so I will not be shopping here again.",
+      "time": 1742950197,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "type": "TAKEOUT",
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 12:00\u2009\u2013\u20097:00\u202fPM",
+        "Wednesday: 12:00\u2009\u2013\u20097:00\u202fPM",
+        "Thursday: 12:00\u2009\u2013\u20097:00\u202fPM",
+        "Friday: 12:00\u2009\u2013\u20097:00\u202fPM",
+        "Saturday: 12:00\u2009\u2013\u20097:00\u202fPM",
+        "Sunday: 12:00\u2009\u2013\u20096:00\u202fPM"
+      ]
+    }
+  ],
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "store",
+    "food",
+    "grocery_or_supermarket",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1066399155649409780",
+  "user_ratings_total": 278,
+  "utc_offset": -240,
+  "vicinity": "5-35 51st Ave, Long Island City",
+  "website": "https://mogmog.store/",
+  "wheelchair_accessible_entrance": true
+}

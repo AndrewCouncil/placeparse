@@ -1,0 +1,562 @@
+{
+  "address_components": [
+    {
+      "long_name": "136-76",
+      "short_name": "136-76",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "39th Avenue",
+      "short_name": "39th Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Flushing",
+      "short_name": "Flushing",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11354",
+      "short_name": "11354",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">136-76 39th Ave</span>, <span class=\"locality\">Flushing</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11354</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0030"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0030"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0000",
+          "truncated": true
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0030"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u200912:30\u202fAM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u200912:30\u202fAM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u200912:30\u202fAM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "136-76 39th Ave, Flushing, NY 11354, USA",
+  "formatted_phone_number": "(347) 732-0201",
+  "geometry": {
+    "location": {
+      "lat": 40.7607682,
+      "lng": -73.8276729
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7621923802915,
+        "lng": -73.82628871970849
+      },
+      "southwest": {
+        "lat": 40.7594944197085,
+        "lng": -73.8289866802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 347-732-0201",
+  "name": "Liuyishou Hot Pot",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0030"
+        },
+        "open": {
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0030"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0030"
+        },
+        "open": {
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u200912:30\u202fAM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u200912:30\u202fAM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u200912:30\u202fAM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 2256,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111444671146808251214\">Eric Finkelstein</a>"
+      ],
+      "photo_reference": "ATKogpeCWlIyWbHfxkpbYbCF34wxo0HfDzUgWxatA-YUgI1RNWtMyRd5GOvCx_FAh9H4YUbpANQt7YcOp5hwZzi-CUopmRhgUwWMpdLCMfFVSO5rr8K56CxanGLXyvhZWdJSUoS9JRz7MHmJ4fG95cgWDHWYix-vnpGDxGwxE0c6oc-pGqM5Bs7dfBrs-6mHF5F9ZsfY6sTEmMZQ4uq0jftHN11w6gJYq37KfVFrHggP_bAdnwuerFDPmo4JRMF1v0ZHToSByTP2j4QbFTqtl0cBUNDMQWLSm2alNiX2wv1csPey5ii1l3Hv-tcSQ5tqXQ6kWNy55rleWMwuNXvJxSgHYaTYXj40A-nO77KK7UM7bBmPwsIhMOyqus5sDOeZYNcnBzn_V6BYsjd5PMFxIyPzQJmznlDp2YrQX3IuqJLzk97yUFAd",
+      "width": 2995
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110752346391050781122\">Liuyishou Hotpot | AYCE HOT POT Flushing</a>"
+      ],
+      "photo_reference": "ATKogpeRYUqPpK0y7A7X8zqdYnvBUdFspxTPz99baDqLgnGprNGIV0WNsrfhxIi99GrgyAluzeYhV0Fj9kWbzNEAzH1mlQW4NZbij4Z28PF9HmAE8v6FFdEYaskU2QpoayB2zt4BwC6wRfxUCtciZdqRdH7sBz9F373Mcd5FUb6FkKbjlNS6Cy4ZzKAJJU_C6gUchHbxu8ElliQfEzCQ_qOh2lt7ek1YILtd5oyQ83S7RBcbkHvpcEpnSY31sFlNrT0TF6pHTCm770udF_Pq8qf5G-sZWByM9I3VdsfySodilX_3yw",
+      "width": 4800
+    },
+    {
+      "height": 3840,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110752346391050781122\">Liuyishou Hotpot | AYCE HOT POT Flushing</a>"
+      ],
+      "photo_reference": "ATKogpce21bLZN6P6Lf8RGYbp0jbGYax7mkkG_uwOu4r7_48uxbtkHckfyLDu1dDNf6zH57jufkbXz5nAFIyRcs9VEshbXHWm386c_KowPNT-h_oZLe9LRk8rbnAXR9xFr47ViwnzboNVS6F9sEmVvpGkF2egH-BoBx0Ly3IEqEk1OX0haS_vzdNhq29yswnXgeTxjc3Xz6GEsv6umpPG2zs67M7YZWQ9pCdvdhID9aQiDOmrmRV_IyCB91plTKa3auMS_z5oXTOQR-uK_rVn_Lt0NwymUQEKIVhtmsSHqC4N-6BDw",
+      "width": 4800
+    },
+    {
+      "height": 1600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110752346391050781122\">Liuyishou Hotpot | AYCE HOT POT Flushing</a>"
+      ],
+      "photo_reference": "ATKogpcgB-ez9VmGOyGygK56yb0YXD1-JAenk_i0fJn5yAGjpjVJyQNh0Ck-NUH_VzaBXI441KIwVMFr7RcFyGxSEaO5azC9dZnssgicYR9dBbLCp59IIWFnUG27Ywew40T_bC1nJksnYMTcufvou000TDCUiwj30viGfiql_LDzYCGsl7DMPlVTSdrye2WBZjRWlfk1bT8yIstpgws8OaEw5n3xhOuxTlw5ieIbtzbRm8U6OGxdzV1oHLQrQZ-XgKwEDUXGOT444HCqfE1xl3IqmLWHwbV9Bq6U_U-31g6y5B-7Kg",
+      "width": 1200
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110752346391050781122\">Liuyishou Hotpot | AYCE HOT POT Flushing</a>"
+      ],
+      "photo_reference": "ATKogpc2EGzNPXmzFKmRleKCskxS3grjDHSmDD57B11Pn210agf09GqE-6pN8uAE3Wrnpy_3YJhjtFQ_RP1y76V9BTVMKOSMay8E_w6DBEBD5zDuRcjNrLHfUj3wzzQx0Iy_vkVS1h9VhZe4xMM7QEzX6O0T6ZpQBSQIQECCCw-cZpU9FwI9IudmGGKpxgTMapSbFZt454eWA-b6lcn6uS-EKkt6Ge0J32wwFctMh_wxBZX7KhXhNi0IjQ6iNggjg1AnnEHxbjE4ih45JQ3OH7jmbc0QUQS7jEE65x-tQnW1toMn3Q",
+      "width": 4800
+    },
+    {
+      "height": 3199,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110752346391050781122\">Liuyishou Hotpot | AYCE HOT POT Flushing</a>"
+      ],
+      "photo_reference": "ATKogpfiPhd46A7ZPyl9PSxCrRYLjWMmSomxjqBC8kf4sPEDrxis_ckbR4ZczGdjtUrHH-ySoldSGm3OxKW385a8KK0oXYbF3fdr8NSio22ZjsFH-vcbojxRCg1emQR3U1BAOHdGyyUShfMcNqGITPi4dxW0D647O1_Qjl9gN2tTcVlwDhVFRcIoMdTv53uPLRptUYkImNjXPC4RhfIovOtwpBm9w8MjoyDG1nkWOo4SseyfCqVO8_uyOhBltP0hTh3uP4L4rnkuctNPtKuYAjnP-kuIoYaBTFmioXDGdyxupRp9_w",
+      "width": 4800
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110752346391050781122\">Liuyishou Hotpot | AYCE HOT POT Flushing</a>"
+      ],
+      "photo_reference": "ATKogpfWJMuwg3xT0kY1DA1Lpe-sxCrfXrm3sA6Afc8tQJfJ1iawpd3KIrSTbA7g5BxmX2VA6rNGJgn-a3WIrZb6eELGHUvqloopRfJZAT4GFZHKbjR06gsp4hT4v5kMZzE2AB5F4bEWs3dCIB8UCwSVmJAm96DkhnmRwGGAvFN3CuCBCQO-MVS7h7rpmgjpcV3EPgKHDS8jGbx33XbrKsY136R49Qq2WwwPYbj1wiaYOJelamJ8onCc5XxjTV99uPt0r13uaGIb-MGZypGOB3obFKzsqrAIvPTQznAQ2aYmdyEEpQ",
+      "width": 3200
+    },
+    {
+      "height": 1308,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110752346391050781122\">Liuyishou Hotpot | AYCE HOT POT Flushing</a>"
+      ],
+      "photo_reference": "ATKogpfUPohJHEV1PuhqPQFVpNQrk7Do1r9zznlCbiOYGp50VeizK-800l2dsk2EJArwHi2BI_XXWI8kSlBaArCUPQ12Hnkwqykf64ST1c0G6zPWgMCF1PgUDVYuEgdPY5W4vSQA-HLs8Bf7b18oNDdUxHVZanDPaSCZxelwm0xiT0en3B05WFzqt1XoZIlDUwNDe6id4sg8aEatq-r9-Ir1YTd0UviAxbvlMtI8jxq_RcJJ5fXwUxDrt04cG7UDlDgVOGL7Ru6gqf5OehCvvyB2FWwd7D17weXZ9HU7CcMLbwdkJg",
+      "width": 1160
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110752346391050781122\">Liuyishou Hotpot | AYCE HOT POT Flushing</a>"
+      ],
+      "photo_reference": "ATKogpelqSRk-LuVIJD7-gZu-VmcKFilkAV7Udf-BVc7JV0pZGay1hPLBeO-MEYmLUNmvGJEmQNlXopkB5emTZOVVlO_tFj6u-TKdOXcLTK2-Oh-mN9QKX_wE5fgUnT7lRTyUrFtx4S4sNlcKDFBXzUxooN-rUNcFhQMur7Qat_eVZ4LQipdj9lCI_ube6UAorjpAPS8XJ-LZTgse-kihA29pIxM-mD6ODBRxK7fymoMJVs4veso3xC4u8Fq-3jEmduAQ_5tVmaUvaTKol0IozwLgLfl1bSxYXIzorfRcB6rpcQTmg",
+      "width": 3200
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110752346391050781122\">Liuyishou Hotpot | AYCE HOT POT Flushing</a>"
+      ],
+      "photo_reference": "ATKogpfx2mXGy2tGIELXyU0QT78Wif9wlAM2mhNCDSUqDxCmWs4ln7p7bNz3C8lAf1NR92T77OHl5g_oOeMxuzJd6zlOq7JN72liSS1Ed7tsLohMwAfwzaAYul75y23mkngmunTafajYVfGoiERR09k-vnck7LQnh1buacZkL6vBwVRiZB1BtMW-CUnLpx07QlWraWEzylchDR1u5q2duBT584Ci0_eoRwOlPX5-cglvkcBdQPde748FyqrmCRSttTo8Pwfed5uhgomi3apDwLrOEq87e8USP4D51O2Ec-yUmxPEBg",
+      "width": 4800
+    }
+  ],
+  "place_id": "ChIJ62AfMHthwokRSGIcc5pKSDQ",
+  "plus_code": {
+    "compound_code": "Q56C+8W Flushing, Queens, NY, USA",
+    "global_code": "87G8Q56C+8W"
+  },
+  "price_level": 2,
+  "rating": 4.6,
+  "reference": "ChIJ62AfMHthwokRSGIcc5pKSDQ",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "MD sabbith",
+      "author_url": "https://www.google.com/maps/contrib/117204985901477294600/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIdH2GDWf72rtsfSxiIUG0r3bQ1TNLMMUs9ytk9zpYH8i0daSU=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "Very good place to go for hotpot on a cold day. We had verity of food and both of the soup choices were delicious.\n\nStaff and service were good as well as the atmosphere. I\u2019d suggest to go there with an extra 20 minutes in hand because there will be a wait time.\n\nHighly recommended!",
+      "time": 1733096156,
+      "translated": false
+    },
+    {
+      "author_name": "Jenny P",
+      "author_url": "https://www.google.com/maps/contrib/115967564750764104202/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyVAviIL1kWKXCvZWnyZ0MgHROmynVgvwaMKRTn2dSP6RoT7s=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "3 months ago",
+      "text": "First of all, I think this place has such a high rating because there's signs promising a free drink or coins for their crane game if you give them a good review on Google which is already kind of sketchy.\n\nSecond of all, there was a severe lack of communication when I went on a Thursday at 5 pm (no one really spoke much English). I ordered meat & a couple of vegetables from a tablet with a wait time between 3 to 6 minutes per order which may not seem like a lot but it is when they give you a 2 hour limit. And this was a half empty restaurant on a Thursday. Not sure why it took so long. Can only assume it was to run out the clock for their \"all you can eat\" deal.\n\nFinally, it turns out there were drinks included free, plus some extra condiments but since NO ONE TOLD ME, there were NO SIGNS, and it WASN'T EVEN ON THEIR TABLET or on their website, I bought a drink separate despite having paid for drinks included.\n\nMaybe regulars know all this but it was my first time & I feel like I got scammed. The only reason I didn't give this 1 star is because they had some decent tasting, unusual proteins you don't find in other nearby hot pot places (minus the crab legs they apparently were out of but still advertised??)\n\nI DO NOT RECOMMEND. There's a dozen hot pot places in the area, including Spring Shabu Shabu which is much nicer looking & doesn't hold you hostage to how much & when you can get food.",
+      "time": 1743117398,
+      "translated": false
+    },
+    {
+      "author_name": "Phoenixion",
+      "author_url": "https://www.google.com/maps/contrib/100665389564428476162/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXCFoyYVXV1HC1BAL6a52SZwl95XjvMexVfQkVtoeiHdhTH1qGO=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "The food is really fresh and good! The service is also great! We always go here whenever we visit the area!",
+      "time": 1747521811,
+      "translated": false
+    },
+    {
+      "author_name": "Maggie Li",
+      "author_url": "https://www.google.com/maps/contrib/103848147476743707726/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKgoQr7IPg2uZWU09toB_MwqYeGQ56TEuS0v8yaCLO-Z3kVgQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "I had an amazing experience at this hotpot restaurant! The meat was high quality, the seafood was super fresh, and the vegetable selection was generous and vibrant. They also had plenty of unique dipping sauces and broths to customize the experience exactly how you like it. Overall recommend coming here!",
+      "time": 1749849246,
+      "translated": false
+    },
+    {
+      "author_name": "efraim selina",
+      "author_url": "https://www.google.com/maps/contrib/118209949295672022090/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWEdMCC7sDa9hIUGj-nUkhGXUdON6tj3DrXwhlwZzv-ba7Mn541=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "cheap and food come fast (party of 6people), we tried the tom yum soup and the pork broth is so good. the tom yum sour and refreshing and pork broth is good, worth the money! 8/10",
+      "time": 1738389593,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "2330"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2330"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "2330"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1130"
+          }
+        }
+      ],
+      "type": "KITCHEN",
+      "weekday_text": [
+        "Monday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Tuesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Wednesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Thursday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Friday: 11:30\u202fAM\u2009\u2013\u200911:30\u202fPM",
+        "Saturday: 11:30\u202fAM\u2009\u2013\u200911:30\u202fPM",
+        "Sunday: 11:30\u202fAM\u2009\u2013\u200911:30\u202fPM"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "restaurant",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=3767343115512078920",
+  "user_ratings_total": 1407,
+  "utc_offset": -240,
+  "vicinity": "136-76 39th Ave, Flushing",
+  "website": "https://www.liuyishouna.com/flushing"
+}

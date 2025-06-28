@@ -1,0 +1,483 @@
+{
+  "address_components": [
+    {
+      "long_name": "140",
+      "short_name": "140",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "East 41st Street",
+      "short_name": "E 41st St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10017",
+      "short_name": "10017",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "5515",
+      "short_name": "5515",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">140 E 41st St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10017-5515</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "140 E 41st St, New York, NY 10017, USA",
+  "formatted_phone_number": "(646) 767-0100",
+  "geometry": {
+    "location": {
+      "lat": 40.7503629,
+      "lng": -73.97613299999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7518083302915,
+        "lng": -73.97471346970849
+      },
+      "southwest": {
+        "lat": 40.7491103697085,
+        "lng": -73.9774114302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 646-767-0100",
+  "name": "d\u00f9nd\u00fa",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "1900"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1900"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1900"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1900"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1900"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ]
+  },
+  "photos": [
+    {
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107560946066139438284\">d\u00f9nd\u00fa</a>"
+      ],
+      "photo_reference": "ATKogpcY3Ceh_enoxEyNz2RR6NwpciwJGQB62MWbqZKCOteCExr6_BHriOp00AicWNt15R_4JjcQGXuNSICwENHfFrOwC-l6ymSfr-ccY0iEyg1PNzoUo360ga7X6S8IsC3uCbuEVZI5njVPQWMLAb0xiO4bQ9hiRpGFEmJip66LdRLlmv6YkMIT5g5y0XWexg2RRdxNXhuu4LKLRRAbvLfYL1us45nJkYWQgIKMYWeIQj-HcHdTi8L6Q_OgXXMYpXK3dzpII1kTK7zCH4b0sYgyGp9da6XXAPvSKIJYHjhsbEzc4A",
+      "width": 2252
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107560946066139438284\">d\u00f9nd\u00fa</a>"
+      ],
+      "photo_reference": "ATKogpffL2buGOx2EdpiPtSfqFQfC4Kb3_OQ_uwL6BeGKtu_K6LSsTTkyQdkRsOh0p-hShLv3YXRZO89BALhB_tNgMLuusGTERQ-5vNEub6Mh2yqtRAYY0PBoe0E8iU6qVTm-e0H80bSIY2yCnf5lhTHxtz1y1KpsPpcRysrU1eY92QvqrWXMnh182aFgOpfaU_8GqCczq6Dl9sQbpso-UUGqBcbVlEIbLr8-_tXs2XIs0RER6B76bpkrypN1S3Wl07Ui9EGcb2VF_Xz5DX4JoKKtqWC84l4VZU-lgP32RWC8WkWiA",
+      "width": 4800
+    },
+    {
+      "height": 2667,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107560946066139438284\">d\u00f9nd\u00fa</a>"
+      ],
+      "photo_reference": "ATKogpf4K6mh-KCxMg3vxYpMfhj2cTEZp9BAF78Matktkr2-hkh32RsIR7KuYyUb68JFwAwjHdG3acKsK6wYXb7G8TdVRdfP4hIhWnDLNaS1Zl2KtkI_0LdjHTlqgQOhZVR9N5hicfa8jJEJFR2jrP0TYZyZYuGKybC7t6788jMm4a7no2v1aMQ1ck6Ydi2tL393lEWSC3X5pSjwzKxyH5Ri19bqVw_Qlkn-Pqy1XKehZk9RLA0UXX-HTH8_PFQcQXMz2HluqHUmSFoz7ckT4p_DJpDKgId6fU8UuDMEHDK58rNsSQ",
+      "width": 4000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100861235725765230614\">M O</a>"
+      ],
+      "photo_reference": "ATKogpdzmkTLeCdctSIEmvsIcSe72WaU067hDE_0QSysAyAUvzX4Gsgf7YPn-qZZnVxoxdkn_zMA2KM2Rlw4E_Suuedu699L2ZCAS0YnlwwEzomcckZtziSd-WhkVH2w47wCNyMGGmVSFLtbZ-raRnq-RzJxI2IUpL6cLof-BpDdVt0q1O4BVKKNyJdKZebRHzFwAWvB8WIEO559UIlFUJ_57k7zZj1CiCkwFfzqh-27UigJrbb6ylSj1v2FQxPVuxQDDmAOdHud5qpNz8cdO-ICvMEPydL7bL5H0wIS7y1VvKhk7p9rzBoCuJRmxftXYAo906Rr0ZLoos7MOBZuH7vfjuBvU8wfx-_477owbl3QuPw83N-i5YXR2oLJLFF6YegDffi8EXXSa4eHheUa0Wy37KSdfrDRsajwqaTr79z1caPS7G8q",
+      "width": 3024
+    },
+    {
+      "height": 2667,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107560946066139438284\">d\u00f9nd\u00fa</a>"
+      ],
+      "photo_reference": "ATKogpcAODWWxKQ2ma9x-vqrzm5yfZQpibG4dEDJZoSHnSciaKZUSG0oOqpMecqtU5yuGESFpFKRE6TTc8lvpOZPpVwY8C5X4VLgKyNSTmte6t43O_9Ov9wwmZMLd7bqP3d-ukjvYq-DBvt-Owu62tNV4pv4Mjxc2juKW22FfFJ6Mk132X1aTnsE8x-HO5qYzL4FKtPG8y7bz6cREE7Wk-ddZGTwraSG5z9_hpau4TBN7e0d9fVtkX-Q5c7ejWw82wG4j-Zkk5UC_Vc8KmmeGLIcLppSpgWFrgH7x6humTLstu88dA",
+      "width": 4000
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107560946066139438284\">d\u00f9nd\u00fa</a>"
+      ],
+      "photo_reference": "ATKogpeh-1d9zeu53BCZC8mFK5v8x5vCsb_uyS5ASzm25ewbERQbCDlz-PZ3QNXiMB22EtIyrmC3cftHZkUZSNN1Ksg_8V-x1qPvbhbYBoWk6GXe0R1rLydVGvgoevvtCeiy7ShtIINaeT8BcZfJsffnDMrUKYL2Xn6-pcT6SU1yZOile9UZo9YgRrdfBhccRyj1mMbOBAU0meFFlPPuZdJ7MCkB0_tGKjxFPlTjmsWooZOr-CDdXxk4_DjrYNyybtlTy6_YfZoy3-fr2hqDuhD0ish6RQdJ3A7odlBWOKcDoxxZPw",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116143886515601404328\">k m</a>"
+      ],
+      "photo_reference": "ATKogpcxhI7xNEA0xgq-ibiqOUfASSVjnxiixi5aN1VUCl6ssunh-nZfgS5LUErq8_kiUFSBz6f7tbljNlM1ha8JvotGCIRw5pIJVAMP_ppNbQL3-ZdZ72udvBs0LQQ06IUck9ng0QERsiUzFohzrcOMfoNXqgrATyC62OIIbTFEdC5MpucTcD7xtLN3A5_ucqzUXS6lb45-LCv_o2_eCD7bWoiH9BeodzrU3hn2TcLY6oQ8hJ1C4atujpNBY36uLdPdwFhT4wiZSVbBaz7qQlTJIX5tUgSLLOHt_ozmM-vLA1EXMMaKsKNlZG6zf_J1eTK2NYmRMfJWm3xEYXUkH4mGYQwQMNqgLuZceneRnCokhcrQgY7xEJoZXJTMdpAqMG9gjbwLu1P2K_qrvIctIzvnBS24n0AxvW6b7tIrY4RYvVk",
+      "width": 3024
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114133807220311012218\">Afolabi Williams</a>"
+      ],
+      "photo_reference": "ATKogpfaNNo_UwUSyNEVCwYRhyf6P6j7oPW-oM0WXWgnQCN1xUFq0tyfmoHasZ2u-uGObrbjYOOOTOxs__53aYYneK0pOWL4tepc9npaN0JyVPenyDsYTtV9CeZvcDWrvYr3O_asyaLJmznL6Ari0IV_m5FQqia6XVtLlL08UI_Ycag5DwbLyRrARW5LPPCZFTjtWo7QIFBEz82LnsTNBfd38eQS1-w9K1fID9nqWfyfuRMfwP3rbJohQn4WBaGINs3DEClFWlnB_vSEOs26JiA0ZBCqqd41ghftsQdubMO81X_Evyx6ah9kZQzzR71eIPMythhmnmo9rgRcCLzp48WA507epk930A7ut59nypL06akK1NJ-gck7e594yvWwsQE7O8AZDN57zXOSLDjCbzuVh6oQStYa9cgV74WiFyoGSKR8sHia",
+      "width": 4800
+    },
+    {
+      "height": 4624,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114647341914568272500\">Kulpana A</a>"
+      ],
+      "photo_reference": "ATKogpefqO-nQzppp-OvsUqp67NBcC_cv0yYRT34hdR9Iug7N7iTWfeNW5YwwiD5JKjcoUu567m2GStWlwlP3-OK5Ro0MdUnVFzt2dXBTuzTGejOYt3oQsxhrZ1vyiHrAS6Y13GmNhFXLypb7TNGm7dvOxQ3qDtW9t5MGV4i_DjywfB2TagOs0cVlSM5xjc9U1awo-Hf6DIOAS-rVswwZ1oiWVEXJhLY_rbSGADEJefeSGzr9Vzql-yGSF__OH7U4brUQA1MA6YQsdU_5wiutwKh5JEceoN8GlfNq_4DPpcChptSNfkxWFTStjUQnjBWeROnBRhBZOS4ax38QtcQHdQhl26zmXrZU2ey-MRhYEFIGrrSVXqesePrpcik_B3uHM74vUvMFZ2ZPNbCYFTIKFowfnb8OeO4ybPKwHSyURO0VNKMcw",
+      "width": 3468
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107560946066139438284\">d\u00f9nd\u00fa</a>"
+      ],
+      "photo_reference": "ATKogpeYcwaqh1UOT8Qn_Cr6SGeB-k8C77uKj8hVWAYXD9wUmREgZiFcY8rAiayo3XXEnm1HcCokCeXfuCn173b1hWrOFmPrHj8KQ_Tl0JIEgg-GtlGG2wCagTaVBwf4iZus08MZJEEH1YQ4frIwxHTtLgWEyaqtSEk2Etni1Q_iH1pAwvTyxJYErQdZjVaRG7z0mOukRcSxA-u-r9AW1Zhcy2dvPAOHmmZPGFbELqY6YDsPN9BA3-0Qtd-ZceMQQVGpKneDv2VRHd_0x06Ysl7gF771LgCiQmKFFfGahUFH-5jnTQ",
+      "width": 4800
+    }
+  ],
+  "place_id": "ChIJ6fVE7-dZwokRs36v832cIoc",
+  "plus_code": {
+    "compound_code": "Q22F+4G New York, NY, USA",
+    "global_code": "87G8Q22F+4G"
+  },
+  "price_level": 2,
+  "rating": 4.7,
+  "reference": "ChIJ6fVE7-dZwokRs36v832cIoc",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Syl",
+      "author_url": "https://www.google.com/maps/contrib/102442018301307748695/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKn6Mx1HlLjGtuVCY6_q5J-UI7TBd8c-9Iw5_aFAD3ZhLrLtg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "5 months ago",
+      "text": "A nice twist on the usual bowls in the area, offering a flavorful experience and a chance to discover Nigerian dishes and flavors - it was a first for me. The chicken and potatoes were excellent, though I would have liked a bit more sauce, and it was slightly too spicy for my taste. Overall, a good experience! Special mention to the friendly and informative customer service, thank you!",
+      "time": 1736360975,
+      "translated": false
+    },
+    {
+      "author_name": "Jamie L",
+      "author_url": "https://www.google.com/maps/contrib/112896284528115449408/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtjN3YNioXRP1w0IaaJEEqKJRqsiy3bxSIAoLukcI97EtHl7GE=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "I feel like people overlook this hidden gem in Midtown East. I\u2019ve been working in the area for two years and recently discovered Dundu, a Nigerian takeout spot, and now I\u2019m kind of obsessed!\n\nI usually go for the peppered chicken bowl with jollof rice and spinach. The rice is perfectly seasoned and flavorful, with just the right amount of kick. I also get the sweet plantains and roasted vegetables\u2014the plantains are crispy on the outside and soft on the inside. The smoky jalape\u00f1o vinaigrette adds an extra kick to everything, which I love.\n\nI tried the Akara, which is made with beans and fried until it\u2019s nice and puffy\u2014not bad! I\u2019ve also had the lamb, which is tender and not too gamey, but I still prefer the peppered chicken overall!",
+      "time": 1747456342,
+      "translated": false
+    },
+    {
+      "author_name": "Afolabi Williams",
+      "author_url": "https://www.google.com/maps/contrib/114133807220311012218/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLQ_qk4Akgvo8uGn_s0XsS1jXkUEPrW4f_srFUJWgdUGl7NaA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Love the experience. I had the Spicy Chicen Bowl and Goat and Beans Bowl. The former came with Jollof Rice!!! Best Nigerian delicacy around here!! Would visit again. I strongly recommend Dundun!!!",
+      "time": 1741377153,
+      "translated": false
+    },
+    {
+      "author_name": "Blessed AI",
+      "author_url": "https://www.google.com/maps/contrib/108642231541977044048/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLMPQ4XJ4VmPnu8J7GKur5cri2IC6Cimx0RxxqbDZlO4sPqtA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "The Nigerian take on the classic bowl style meals. Went thinking it was a regular Nigerian restaurant, but it definitely wasn't. Tried it and loved it anyway. Definitely brings more international lunch options to those that work in the area.",
+      "time": 1738255486,
+      "translated": false
+    },
+    {
+      "author_name": "M O",
+      "author_url": "https://www.google.com/maps/contrib/100861235725765230614/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKOE3m51gmsqi6X3ftxnv1JIyHNksNjVrz-XSyNScCpi1mVCg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "7 months ago",
+      "text": "Great tasting Nigerian cuisine. There is just some confusion about the 2 sides the build your own bowl comes with. Apparently one of the listed sides is \u2018extra\u2019 and isn\u2019t included which makes me wonder why it\u2019s on the list anyway. Beware of the random up charges.\n\nThe food was great tasting and fresh.",
+      "time": 1730509857,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1100"
+          }
+        }
+      ],
+      "type": "ONLINE_SERVICE_HOURS",
+      "weekday_text": [
+        "Monday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Tuesday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Wednesday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Thursday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Friday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    }
+  ],
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "restaurant",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=9737517409101643443",
+  "user_ratings_total": 311,
+  "utc_offset": -240,
+  "vicinity": "140 E 41st St, New York",
+  "website": "http://www.eatdundu.com/",
+  "wheelchair_accessible_entrance": true
+}

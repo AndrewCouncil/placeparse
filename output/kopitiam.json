@@ -1,0 +1,452 @@
+{
+  "address_components": [
+    {
+      "long_name": "151",
+      "short_name": "151",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "East Broadway",
+      "short_name": "E Broadway",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10002",
+      "short_name": "10002",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">151 E Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Small counter spot for sweet and savory Malaysian dishes, plus breakfast items, coffees, and teas."
+  },
+  "formatted_address": "151 E Broadway, New York, NY 10002, USA",
+  "formatted_phone_number": "(646) 609-3785",
+  "geometry": {
+    "location": {
+      "lat": 40.7137994,
+      "lng": -73.9909127
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7152470302915,
+        "lng": -73.98959236970849
+      },
+      "southwest": {
+        "lat": 40.7125490697085,
+        "lng": -73.99229033029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 646-609-3785",
+  "name": "Kopitiam",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1074,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111637884852377175877\">Kopitiam</a>"
+      ],
+      "photo_reference": "ATKogpeqXEC0Vvi-zenPmNKvok7svvidQzApKXDc1RmecWdasLHpwSjZQCLns0DJVHDAB8hpN4sTK1pYRi-1RtRnMcoQMDzdOOcXXzUkjYz_7QZbuYY6eSKEtIATK9qX9J2_nlgyKyvOlBduED3ClkehYVGeRkmufF0R1b7zr_NxTJP8VHrUT7CGyisNkyNzOIbCe0sbPGimNrHGmoqFqmCDMu1ORf4iWcL5nKa16jbJDOPu_qdN1-zklxazZHios5QO_b-bilGliXBHrU5pMv8IiG1SrfrpT7pOvBCDMemaDYsDuQ",
+      "width": 1614
+    },
+    {
+      "height": 3199,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111637884852377175877\">Kopitiam</a>"
+      ],
+      "photo_reference": "ATKogpfe76DWGIOOMJQTP0W3GJQ_jpzRqvvaDPvNnDzaeqz7BI-FyqQmRd3iqoGD10PyLFpUqJfwEw3NrltAMmHLat54jUpsMN3V1F3LWjQKOc1Ez2XhnLyQaLpNoSbOSKDKC8OFk9tjERGtndGxeGThfIYMFEdF82SSWm2zv1hdL9jWq25WIo-_VSNtvYh88kH_orgLV2udQEk7k6zrwT9ESn6tZ79HwicCFRYyQQMaG90Oj1X4OE0mcQ9OvE3SAbV2YkU7td9dkI5AMjaN6KFRy4UzgPllBS65xmRrE5bk11m_8w",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112531614132028566945\">Judy Wong</a>"
+      ],
+      "photo_reference": "ATKogpfgPIhCTSlWDgk-Omwh0FCt4rnxYHLwu4GzPwV-aCbMC9CYTB5u80GTgZVdn01Cb32mY5eh5vV2w1-kFTko6nO9eLXrEJMCxltoktoQ8eCfjzuwN1t_2yEH81W3ETKIpbag5uL7LGcIzcqVrlizD-w5m8bbW6imUSCREpBbBQXxefEt1mqHsMfK4pEFGFPrradZXHvM4Q1igGpgPfs0Le84XR8048fm5-M8FjalXbCFxji9-be08ewGh31bwGrpiUS2YgF--7jwwVOLx_bDscnaoPLBwcWEHZsxPuSmU0HICitgwNw-3zBmP1C20PAdBSFgyFXzASKifZSIski_psypIpGjhWhtVeF39CE5VRO1i9na1pA-EykTxukRm06Rb2K1uOVgZ4fc-jyk23s0dGX5Sor-Vct3rznz1KTmf7XBmZip-PHJJYXMMAlLFw",
+      "width": 3024
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114955250538652050870\">Javier Kohen</a>"
+      ],
+      "photo_reference": "ATKogpdmcIdLWTagBz932-JgJYpGIWJ0uR4CU7qlL-fUU7eZVPKZ5DFTRKiS-BGYOeYy2fEkCX_VSfKxwW3lccDG2z-m09ojHTCclDaeu72vJIWUClC-Wh9uOJ3pq-HLFX5dGIcAE4fc8a2H5UXvGtIpNRYdR7bsBhmJoFrBkN5I6sKez43XwbPyYKisN7BavwjbvX8uWk2u1vO6OjOAdvpaZNSeKAL7l-wJd608qzNVOdImXbflQZpMjWdKCoK_bHJW8R_jbjm--wFBsGg_cBQkdlbJu-P6Or35LKv8mH3AY1PIhjEe0-v92E55h9Ha3fkPi8fR8mdkqVV9gW58rhZuVKNUHrv8QnDkyJVPdsVtsogMp5hBlW8ryK7Ncf9H1P5c3JCuAvEfVY3k3lEOx95EcETyEX_FM5Mb-l-hSK6R_hrveKis",
+      "width": 4080
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114931922301859818128\">MD Ram</a>"
+      ],
+      "photo_reference": "ATKogpd3mwZ3HfH8OlQPI3N16T36SO7_iP_aD3ekU_6oMH5DvMnx9mbE93W36V5Nd5o7ea2HYab7gwdNZHUiBPQqTTFFeJi4qvdTqn-0IrZn7ljQmJa85WQKlsK4fAbrmhIadNSUh6CocHmi8eK8iJi1GZ4RNoQXeVy7Hsu-sMAEkHV7RUrJoxMj12pc_puFz24A_izD4CTOxqoCyK-z6YpG4QF3YzSkChwRspB-ig1irwzhbRkOnGmmcHozR_r-uiNkQXMqLbJ4XDAIZiGzeBJ0dzXZGRY4agF8h_g4aia3S2zdUU7pW0EQBBfZoi1nSbaeG_pz3bUwWQiiqgwwXRJqAOcQpuJ-zgMHN10_IZ4W3OVkGBsdudTvHVnWxdEMZOxzhIQ6eCC7ucaxy0iiutaUyyfCQSKV6R2m1CaTZTBBGJO44GyT",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106933804621440495685\">Larion Santiago</a>"
+      ],
+      "photo_reference": "ATKogpcxh9ijBbTY_gdSef1T0zzwy5f-wyDeh_SaMjDeYa0rIQcLyuFarTawGYPcYrRUilhMybwfjNCcJB-4KIuUMkAglPONSytCcJt7G8ry0marUWKEczg5bkhx8mwervs-11uMAAvfI1IAaQS1WODf5IQ7OlIoiIE-z8WP8j3JsBN9o9QZt3sLIRbDChoeYo0qETvMk2bh0aHH_q_w_YyU2Fbtw9Ck_Xn5DFDrytGZ53ti--s3NhzvrOVOp-aRKmhu0Z-eV-ACneMCPD-jcNoEKjJCCTI0AOxTyrwc5zv20LtaLv6A757qg5IoGiRw4YH5h2wz6wuKheF2y0tGyHG7h4gtuDYuwzH4SQXqHaSJNknmdejSRQ8mTtlfn_bt5tOzHSvPbbc61fX_pT8M-DA4YKYtzadgLgVEAvc8Ho68Pfj4rPhg",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110444959236507042957\">Kiariladyboss</a>"
+      ],
+      "photo_reference": "ATKogpcMYFHQVNm3zYCVdrOthKszhQSH6j02if6T7NO1wyU9fgSREgK-pAAps8x8QjoHeC7fENO8JRS1BsvrtbC3nF_lW4oIwRcxh17vj8nIOoz6YLyCNzMYUbqm66FTd-XwN9oi5IAUxRfbvxGIRLBOpjiAVuZCuVN-AxHYA32mSZOfmX7sxU0-e2U920_M0uytoUgqmH-oQXDfELc3uwbUpgtgqv8g-17DdTUrVltrzg5ojRCbyu8jIZtRNcN3puqhh5x-buXxxDEvSdSelC06Ycbb5vkeaOeJe9tY1pxVsa0I3Z3damxF0w-7N36NEBdM4ef2uqJEvyt8FOSGiZnflEjaMSblyoODBds2vxKpKKI530RAsAGRuVnJ62ZRWInqUpo7RjbryZ91vSl00BkuiOTrDVKvf9R12PtdK4cnZvZVIq_C",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101374994176881007894\">M A</a>"
+      ],
+      "photo_reference": "ATKogpeixOOqywP3DZWLpYRVOebfsw42TRH90m0pXw5_MLVDmH_gt8z3K1m1by-uLaxDQ7UZL0n50AHhTtLYimFtJdDcXh0ZlyVyU3XTURnBJx64iOJKRehlkc23h2fM9IrIjWiUKfHoF0agHWvxjYdA5jb9pwrKc8V99wKFAz2N7mrsSBauuXjbyRb7ojHVN4xEdGVwyQM6lHbqfnD6SJaifJGe31a9dNxLd55tkPA9H85UKnP0nMJkAFypPiYMMj8Z2Mp3VqSEg7dxxZLhfvy0PqvGrOKoMnuLh0xHOK2WM2nw_SS6JvWCI6wEaBnYGSkrdf_rl6FzfhgxDAwO397Uy0exI8zRQ4TLHKjmfiBrJmzdnUzEgiGZCYc6cX4edIx9D7WDwWewLj0AMltnFJuQWraDMu589OerGkZFkYOZsNCmyw",
+      "width": 3024
+    },
+    {
+      "height": 3750,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105601992699102170460\">Nic Garcia</a>"
+      ],
+      "photo_reference": "ATKogpcrUnqWdeExjFkAb7-2T5f4TSxakGLJkmSaju4ESn17YhYP_cVVGLBI9_peMscFP9-E1GKEI1NeNzyoj91qeeoT2fIV-InreCUj3d9Vf_-2g14obnWmkawTTakSsW2KCf-ywf1P2n8dwTDJEpK-iN6Yw8nq9KOCBjbNeChFeJCpdPcTNuaeJkRRX_D-U0tjA2xvyNr3C8RGNKj2c6Be8dpBkGp-5r4FpYagbiPME0L2xZZbkYTm4ffJHFO43ssZlFl4v_uz-AmdG8rU56QZtNZ_VzO3Z3uEJGZ0HLoi0tIJ94theym65J_heKi80BUke-qd0RM54jXa3VX7z1J7IonQEED49n5iWVKLxuAoFAH4XZSIfd9_NzYHJhWQJM9y1r-3_cCZGsQ_OEIvYmd0XDV_-428wSrZNlT-eYLpPaf7ug",
+      "width": 3000
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103128343395954937823\">Leeat Massuda</a>"
+      ],
+      "photo_reference": "ATKogpe1c152ExA1g2LFq8fPdyQMave86G9s3wdwqNc53SWCxOGG1yhl6QppAYpON25xe-hE9Enc36ZzjwJml6CQca-E0_xm99SQ4Neaf8kkiNenhv5C66bf6AhMKutwVm0X4WsS1_3pSeI0WL5jBqEo978uhdsAHuewzK84667iQIvt6jTjl9RsgJl-aVTa4zNU4vq0Ia7ZxjdkcfNlg1Gp6GqiGHcWJnEzM-7j5cRPpQQht9Ma0rYzPKsb8WEeYtD8RgRIPkB0JPrwHVksD1UUx9WhGSYmHs-jZg7nHqGD4m1lEUzW1pCukObnZ6TJ-HW0nskw_gNj1m7CcR0vJ3G1AwXyw7x8yh5yzxt2JA_Zfvfqu9nL-dEsQN6r1iIeH88RBx0DdJwKJIur_Jjk5aQFAY8XrWBjFDt-kj1HaJ8xobs_Fcg",
+      "width": 3000
+    }
+  ],
+  "place_id": "ChIJCSo-rSlawokRXSVW0IKZ3vQ",
+  "plus_code": {
+    "compound_code": "P275+GJ New York, NY, USA",
+    "global_code": "87G8P275+GJ"
+  },
+  "price_level": 1,
+  "rating": 4.3,
+  "reference": "ChIJCSo-rSlawokRXSVW0IKZ3vQ",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Judy Wong",
+      "author_url": "https://www.google.com/maps/contrib/112531614132028566945/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK8KDXV2v5gaivuozKHY-Dxfl1QkKDF-g9UwnoI0kkvZOaFCA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a week ago",
+      "text": "This reminds me of a fast food restaurant. Order at the register. You had to order off a Q code, they didn\u2019t have any menus. Seats are first come first serve so if you see a seat throw your jacket, bag or umbrella there to hold the seat. After you order the give you a number and someone brings you the foods. I found the food a little different from the Malaysian I\u2019m use to and it left a little after taste in my mouth afterwards. You can get water if you ask them and take out containers if you have left over. And clean your space for the next person. Take your trash to the assigned area. I did 4 star instead of 3 because even though I found the food only ok, the Staff was nice but mainly because I wasn\u2019t use to the type of restaurant it was an that\u2019s more on me.",
+      "time": 1750080083,
+      "translated": false
+    },
+    {
+      "author_name": "Megan Chui",
+      "author_url": "https://www.google.com/maps/contrib/107007216465842438335/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVFOVbSuhvJHqXtWZtQ5vHFBM7EKeYfxKHFdVsrm2NsUXBh4tSnuQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "I visited on a Sunday night and it was empty!\nYou order at the counter and they bring the food to your table. You clean your table/tray when you are finished.\n\nI got the Nasi Lemak and it was really tasty, but the portions are pretty small. Prices are fine for the size of the dish, but I wouldn\u2019t go here if I was super hungry. I really enjoyed the flavors in this dish- Malaysian food is new to me and this was a good introduction to the cuisine.",
+      "time": 1746371059,
+      "translated": false
+    },
+    {
+      "author_name": "Ab",
+      "author_url": "https://www.google.com/maps/contrib/102710167496732875372/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXvA8zPEDvmYq_yb8yKnOjQxVSMSKsIr2b_6Tvu_Vvl0QSr7kH4=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "Good tasting Malaysian food. I always get their fish noodles, idk why. The Nasi Lemak is also good, just wish they served it with chicken wings (which you could separately). Kaya Toast is phenomenal.",
+      "time": 1743647737,
+      "translated": false
+    },
+    {
+      "author_name": "Samantha Y",
+      "author_url": "https://www.google.com/maps/contrib/104981362250798637332/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWyGKwwvRqLbsp4v1_hdE4lWllcZZJwMeCUmimDm9IZuKlcfH_exw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "Great breakfast. Did not like the coffee (might have just been made poorly that day) but the food is good. Kaya toast & pan mee (Soup version) were very good. The Palut panggang doesn\u2019t have too much flavor but with the sambal it was tasty. I think it\u2019s a great spot for unique breakfast - I would definitely come back",
+      "time": 1750613669,
+      "translated": false
+    },
+    {
+      "author_name": "Kiariladyboss",
+      "author_url": "https://www.google.com/maps/contrib/110444959236507042957/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUCEIQq7u4XLgEzL_AKtN5X92ml-ugV3sa6GTf414nIAAMrrAQF3Q=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "I went to Kopitiam with a friend in a Friday evening and we both enjoyed the food. We tried the cold sesame noodles and the mushroom coconut rice. Flavorful!!!\n\nI don\u2019t usually have Malesian food so this was a great discovery!",
+      "time": 1738982018,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "cafe",
+    "point_of_interest",
+    "restaurant",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17644709177204286813",
+  "user_ratings_total": 1449,
+  "utc_offset": -240,
+  "vicinity": "151 E Broadway, New York",
+  "website": "https://www.kopitiamnyc.com/",
+  "wheelchair_accessible_entrance": false
+}

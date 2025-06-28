@@ -1,0 +1,884 @@
+{
+  "address_components": [
+    {
+      "long_name": "1574",
+      "short_name": "1574",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "2nd Avenue",
+      "short_name": "2nd Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10028",
+      "short_name": "10028",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">1574 2nd Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10028</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Hip Japanese place for ramen & izakaya-style small plates with an adjoining cocktail & dessert bar."
+  },
+  "formatted_address": "1574 2nd Ave, New York, NY 10028, USA",
+  "formatted_phone_number": "(212) 327-2800",
+  "geometry": {
+    "location": {
+      "lat": 40.7750295,
+      "lng": -73.9535487
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.77643183029149,
+        "lng": -73.95229636970849
+      },
+      "southwest": {
+        "lat": 40.77373386970849,
+        "lng": -73.9549943302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-327-2800",
+  "name": "Meijin Ramen",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1500"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110456713258819111979\">Meijin Ramen</a>"
+      ],
+      "photo_reference": "ATKogpfSqW9jGO_ADBENJ3NvCdYeZeHCrQf90yF9F7z1NZkw_X78cxyOJb2o5wqK1YXgQKqOfpDWjjYmLY2TEIpBHs3dCLag7OoBrpiE6ILPR_pSMDwx7AwN4KVcdVTkRVS-oO_CtfPflX80HMMiC-Bq0k_vHjhvEFor02eFQKZfws1YGomPW5vhLAioM3_kFoZB2IhVcOVNBzLvZuL_XlWaUQ4kabVcUneDJnaypYPofug8saeN8XNCt6P-Wd05UctwYowqMWFCzAz1-f0UTc3VELb_AAVhxCLagSiJbeoy807DzQ",
+      "width": 4341
+    },
+    {
+      "height": 1242,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110456713258819111979\">Meijin Ramen</a>"
+      ],
+      "photo_reference": "ATKogpfsgkgrl0lqgL3jE3_yuOlK08DlCHE_dObSQVSofrMz7An7kFLiNiAITwimhlJdstDVJF3l0XijzDxnUmuMmcfB3qTe9IyQ5di01ggjC1Fy4AiYWtJ-0z_i7QkeJdJsdSxloJ28RuoLFzh81cVybt-ZpXq7NQGR3tH3dlf-XxdjHlu8r39xOVLb_GWRegoK6kGB9I4meBvjJ2ZXqDgHWRuiTlstJ4-bNNf5d8mDSUOq2cDNlkB8Pbt-pOM_WerFayLnhEC8p71IcJwjn5xPVNIkPmxZVFCox75GP88b3RJ57A",
+      "width": 1863
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104603378461031640394\">Zooey L (\u58f3\u5b50)</a>"
+      ],
+      "photo_reference": "ATKogpcVT-iHwEPTL2xhZI_RtAUonwUVuYJjUuZ6Uw--yGc5ugKouyyRNFoVc6mM8CI6NZlSZHVcF286w_AZRgzUZWWVvRZEhYTNjmVKDLxOZVttftZt-u-oIXbvSt4Lugl8uchtjNc43Rr84mmQrKkupAeYz0sIwtQ-2KV-k3Z3NLvd0Q5L4AuD8O4x_JvciCZ4QLRR_z4fZQnu6lRJuSTb-R2MUUXzwnibhFOgikXVFIrYTQPp-A6HIpbzMJroMfcU-Y_cio9h9E1zuspQuj3bU9n0BXfnq-0Cop9gf4mEGp2K7KH_-UFt-dydWeT2rCoW5Oql4fkFjigE3SvujRZMhDxQxibnfKkpFLSIPeP2I3p7VK5IqPwYlwQ9iY_UfTynAiuZwrhv_kQ3iLgtyIN16N2WQEJJ2GtFnhgHSzMQiIGritjBuVNrh5fqqeKHYw",
+      "width": 3600
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102372488673493069235\">Paris Judy</a>"
+      ],
+      "photo_reference": "ATKogpfuMaFdEKyFkh8G9kuhQ82wDnpqMeRx2kb7J95MD1p-21j9PKoJvz_G7__WmK2CHmaKytLb5F_5mXzZgyw4td4cQ4DatTGynJsxhleT_4SlbgHNAxQCRTrpgDBXd_WP1GH0xT6kHst8jo-SYNQmDvB0l2H0FTRKEQWtcFGJpqftDzf4qwultoGFAbB0-KwjQDxIYr4WRP8GyCG_9B7aVbhUZROwcRJ7uqkDvP48hePl_J4cIVQRyg3mrfVEwXQ-84HUG3Ct7NsC7kBmmKMLvfze0lORvxZudui9ZPl3zKXLDBIrsXUOea8EBU5K6lr02kMKiN7mv-ycih_JuoqAltc_3uuj4aaopPGSmEXkfbsBfTJnDAs7nsgqBS8aORofmpRHQdzq8v7wemghGJ0S7vdbpq1CF23Qtd9LnAUR2WynJg",
+      "width": 3600
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104603378461031640394\">Zooey L (\u58f3\u5b50)</a>"
+      ],
+      "photo_reference": "ATKogpdPvejWFpyL0IQxy6hhszRPCE3Tdv2F3QYmr44zI38VCoIuRG5EeSHTbzRQ_PhBgRTxkKyyd6bg65Uq-TLPmynQ3nat3hjXrU1bjU7gOh9_eP4jPSStgFLR8T4yj9HBcDP_3XxCqBcIxBG_N7mLCFoK5mU4VhuL3sjBES3qit8LeVGKKJp5ruuQVAALu4QjMNfgBjMPgxyVNNif4yA9SwiAJvmv-1RdHSg32eILPySLawAwvd0gO37oY0IPkTBtQcbznPLkGUF6RZzxBbc9uxjaf3Cf5HJgDXKsVS6agO3izGUHC7w-upoifjyW6ShXKxI_opdZ0e7tu3pnOjIpRSnCcp0HaT3ion4Aj7dKwb-JjonfPU4LcsIZxLzHj5rRh7VTeP4Bki0OchZSD2jRPOUm-ZGTNTCs1RRS9M-rW0W5hNeFCFRXTmp4IrO1_ozB",
+      "width": 4800
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101537572957437712494\">Tao Cheng</a>"
+      ],
+      "photo_reference": "ATKogpfuyDzsozima59dBZg83KoYHWiozDFkMFV6utEwJXLsz9BQBzYmBZUvKlG_BYFV8T6eFwhAQ0nnwmitcel-9e87FSjDkt6_CcDU080PX_YFih_Ar53wkKDkgib6BARZ-PO3gnxZzAh_CmEQtrFCk4qFvx542jsjpXVO8yRcSRt6H9UqdyzAM1DLhIJsxk9jvvecxXOO_ZyawOQ1vl52sUXnia0w6JgzZaF44VDdL1qMdeszjq1_tJao_8X47fGiLeyOwglQWFG7iIeIPX0pR5Qc6CROR0znOkBeSV4-9Idsc7HGOBT2bX_nrJ6I6BCfUKOEUnWrxhW9ui1i1ilIlNjfhHWMd9bujLfoccSb0V8kk3_ElhUjMoTtzW4znBXuoF5HDSnigrSvWoYSj8A0RYevlp0dlDnVS7Cm6ACAiho",
+      "width": 4032
+    },
+    {
+      "height": 4284,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115878967810096426328\">ReedH</a>"
+      ],
+      "photo_reference": "ATKogpfB-NCrYpUbqpiwGsV24OjzOBv8SCMmP9SEScDtliAgksNrOHvqBeVCjhpZO8Ne6ooezxUUyIrtDxUTDA5htxrwDDRfX6Z3_Ntp7EYNnfnx4486YfFE5XPPi4t6VZKXAq8wBoPyQvrBbY2vMQTnFZ4-euem8nHKrIYucg9zKfodHBhvpu8i1iRgp5FqLOsB9iGCC9halCGvCa7dHZZtw410alGs6n0iWwOuyCk2eTMT1Ta-bWWY4Sm9u0x5-Nsr8w-GgVfop34F3PSqlCZhwwLrxsZimMvca8M6JjAuydRx07NwRBZShdVFNG20SopR5OlrNzjizYMrXFHsI4dFeerzU10uLbrlnNFVlea2Yf07yjLwXsdBE2fzFIFNJTJLz9QY5bP73s5InOzWgrU8EB-ul0lyBC21oaBQJM2XRFcnTAfI",
+      "width": 4284
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113705218000018842222\">Jason Castillo</a>"
+      ],
+      "photo_reference": "ATKogpdgFUm7ygsp4iNCmi94W_hRH0VSs3MOZsKItt-ikHBNPQAUYq_bfJPLtH4ahfGMNWXwMlqDF7jEpINyyCUI8MHcOqxYqclpFLRsU3gzZoLU1j1MQwLARRGwFtmF71J-hn6fenLa2ezH438-vxodjFUCr9JNoo5Q3SKmoU_Ak5cfROiaLgCSHa0M00re1CBIaogpv5_V_GB_UT2IZiqCDPO3gQvISKxdpXOsCmsWZaGcRR_f8Dy1LC_XLtTDnsXsHhEq3Hyi2nKARMz_HIOSM7I1UUIngPtAQ0e1Wvwbp4swMdGIruFNMm5cmRaPA55_gpvFzYS-jjX4-09QLEjOQ46LgGZNOnDKV7vZNYSW8sOLCHwifIiLJwkfJkWukoXz9lA5wL7sb2ZHq2IsEU8A_yMMnA6LADYDl42_lCajpApJbEb6",
+      "width": 4800
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101537572957437712494\">Tao Cheng</a>"
+      ],
+      "photo_reference": "ATKogpchtUplE70DrocmrJrtNprILe0DuiVvBuiRA6veUC-QUTYg4WTst72N5qGvm5R-degcm_HmkZDZfSSUygj3xbX_8GHZlvTs3_RLFsnCafbzmB__0wrkTXk14dwtvgGbtXORcedGOqYI6EfbGGz0VQ7wp4cgb7OmPllTgPm-3ZsjXge8l3AmZcaT3D1W8RDsaXI_2RDH5FD34BnuivaH59rtou5qU0vuFvL-rPBbOaQT3kSYUaaifSoBu1ALFJ6rtzN_EykfEIS9cAdMz_6nAA_jxK8Fg73zP4qJZX7NyCCg-KVwTufbykqkyOyxq2ovY9A2GB9nVsB7Hjb0VkqbPWW_P39_Cy9AQ4-NVC28-jNGiZ-jI1Bb6TfLVKWEOqdxZjrAS69NznO9sjoHSvqJssN4Y6oOEfYsWV8eNgAPqVip9A",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106121060368528089039\">Vasiki</a>"
+      ],
+      "photo_reference": "ATKogpfQzU-y6FFSiDIi8i7XzxUewwe8-5WhDwxphD2vrAcL6hq44lUAGT1YV-FPkDtbKoS5HL0EOZB1A2NwfpW1CV2R_B9VFJ5Bp0hrXMHH7lEboPYthd9atwZDHXZwl590Wc2pglGhhWuC6A1q9ROJUcB0jTw9LplPeqdH6KVI6M10J1_eUzhYQ8gUCd_QQ4yf4WdmA7Ur-1i4CrV5rW5YD8pW51EROsepsd6-k7DhY2ueiY6JliubdugSijLZ6BaY0ckDfiSdddIWkUx0PJCPAnDw1kb-oQF7kB3fWc2MI6aEm_REYD0Z9MDEExckzFA_Wit6ZHIANcsXhlzbc9aEeRoGlJpl7ZU26tC2sTALDsrQmOsm82Lg8jmosKe6IZXE1i66d0YnptfHMjlEKbsNv32A2kBpLP-dKG8K7m-oT-_YpQ",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJx1q8UrlYwokRjOmzO2_-otA",
+  "plus_code": {
+    "compound_code": "Q2GW+2H New York, NY, USA",
+    "global_code": "87G8Q2GW+2H"
+  },
+  "price_level": 2,
+  "rating": 4.7,
+  "reference": "ChIJx1q8UrlYwokRjOmzO2_-otA",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Kyara Ku",
+      "author_url": "https://www.google.com/maps/contrib/118229860508154994590/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU6Q0_LSGpxPEXsWYSjNVl7tBepHzq7-Ohy68byD_me3vK-lwU=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Love the location, the food is amazing! I was t sure how the banana sushi would taste but it was really good. Also the takoyaki is delicious! Definitely a cute chill spot for good sushi. The aburi seared roll is great also, the combination of the shrimp tempura with avocado and salmon melted on the tongue! The vibe of the restaurant is chill.",
+      "time": 1749952702,
+      "translated": false
+    },
+    {
+      "author_name": "Arpa Ju",
+      "author_url": "https://www.google.com/maps/contrib/103373547521266145259/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL5i0arxVHnPoFCV0T5PCj8-_C0oCIygHINnK6dpCBiyU5wIQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "I had the Summer Seafood Ceviche Cold Noodle and String Bean Tempura at Meijin Ramen NYC, and I absolutely loved it! The flavors were fresh and vibrant\u2014perfect for a hot day. The seafood was refreshing, and the tempura was crispy and light. Definitely coming back for more!",
+      "time": 1747435154,
+      "translated": false
+    },
+    {
+      "author_name": "Bleesy Dee",
+      "author_url": "https://www.google.com/maps/contrib/112847726666845471222/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVMWsaO2AoYDYWGbToBwEBEj0AWYLrRifiR7uvgAMBSgaf0wCs=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "4 months ago",
+      "text": "We went during dinner time so it was packed. There was even a line for table waiting to be available. We opted for bar seating so we were able to seat faster.\n\nNot my best choice for Ramen but definitely a place to consider and try! Servers were attentive and accommodating too! Food, excellent!\n\nTakoyaki as always and fried chicken. All Ramen, a must try!",
+      "time": 1740695614,
+      "translated": false
+    },
+    {
+      "author_name": "Zooey L (\u58f3\u5b50)",
+      "author_url": "https://www.google.com/maps/contrib/104603378461031640394/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVuL2v-a09mUz8Md0q2hLmNXIuMTLnIvvOtoFYQ2spM8OZnA2-5VQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "They have pretty solid food. The crispy salmon, scallop and wagyu on their summer menu taste delicious. The highball tastes too light.",
+      "time": 1748758914,
+      "translated": false
+    },
+    {
+      "author_name": "DESMONT",
+      "author_url": "https://www.google.com/maps/contrib/110084878671343470086/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjViGZ6yKgob1JswfhPNi23S5xdsKj-4HEdCU2HA2CNJr6NxiHh9=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "5 months ago",
+      "text": "This place has its positives, such as delicious food and a convenient location, but there were a few issues that left a less-than-pleasant impression. Firstly, there was no light in the restroom, which was quite uncomfortable. Secondly, it took over 10 minutes for the waitstaff to come and take our order, which is unacceptable for a restaurant with such a rating. Additionally, their appearance was not up to standard, which didn't add to the cozy atmosphere of the place. Considering these points, I\u2019m giving it 4 stars instead of 5. I hope the management takes note of these shortcomings and improves the service.",
+      "time": 1737838835,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1445"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1445"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1445"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1445"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1445"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "0000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "type": "DELIVERY",
+      "weekday_text": [
+        "Monday: 12:00\u2009\u2013\u20092:45\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+        "Tuesday: 12:00\u2009\u2013\u20092:45\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+        "Wednesday: 12:00\u2009\u2013\u20092:45\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+        "Thursday: 12:00\u2009\u2013\u20092:45\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+        "Friday: 12:00\u202fAM\u2009\u2013\u20092:45\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+        "Saturday: 12:00\u2009\u2013\u200910:30\u202fPM",
+        "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+      ]
+    },
+    {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "type": "TAKEOUT",
+      "weekday_text": [
+        "Monday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+        "Tuesday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+        "Wednesday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+        "Thursday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+        "Friday: 12:00\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+        "Saturday: 12:00\u2009\u2013\u200910:30\u202fPM",
+        "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "meal_takeaway",
+    "establishment",
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=15033858259812608396",
+  "user_ratings_total": 1754,
+  "utc_offset": -240,
+  "vicinity": "1574 2nd Ave, New York",
+  "website": "https://www.meijinramen.com/",
+  "wheelchair_accessible_entrance": true
+}

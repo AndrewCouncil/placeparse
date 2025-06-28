@@ -1,0 +1,449 @@
+{
+  "address_components": [
+    {
+      "long_name": "22",
+      "short_name": "22",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "East 13th Street",
+      "short_name": "E 13th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10003",
+      "short_name": "10003",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "4472",
+      "short_name": "4472",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">22 E 13th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10003-4472</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM"
+    ]
+  },
+  "delivery": false,
+  "dine_in": true,
+  "formatted_address": "22 E 13th St, New York, NY 10003, USA",
+  "formatted_phone_number": "(917) 721-2927",
+  "geometry": {
+    "location": {
+      "lat": 40.7347054,
+      "lng": -73.9931265
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.73613243029151,
+        "lng": -73.99172036970849
+      },
+      "southwest": {
+        "lat": 40.73343446970851,
+        "lng": -73.9944183302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 917-721-2927",
+  "name": "Shoo Loong Kan Hotpot Manhattan \u5c0f\u9f99\u574e\u706b\u9505",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2130"
+        },
+        "open": {
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2130"
+        },
+        "open": {
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2130"
+        },
+        "open": {
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2130"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116329558133274649572\">Yan Yang</a>"
+      ],
+      "photo_reference": "ATKogpdd-30WcxKB_3AUOTKbvDA67HuFD5VMzlNxb6HJXhgthTE_N2Io3x_voOogcpXEfhqoPTjuFwI2lhGZXkt9YlisLylYf9EYN3ZaE3TLpfVd02_0Icvc0l6dZjtGimchwOnkVImMI21P4dw2KxCqQVdZ7BHM_22IHq5SeX2LSc4XbuXLSORAzTsXHWQCWmZBa4xgC99phPgHq1tbmP_5AQwkQ0pFoZsToKfzWDE1BwNRaBTHUlI3OgtnkFsn1n9isDKUkt4u6jFvV_NBWretkAtEOhHrLUbPPs-VGTdVL-LpJNPnHX_4SBG-VhBgNxN41Ad_TbsyYbO1hFRb8jc8cTVWhHjOfbHBP4DJFATW4yZu8jnjWN2vE3KdLGSiYKEnNzy8phC16SjDSBbTkZvU7p9EyZ16rhvrlYIoagD9RagSFIKS",
+      "width": 4800
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101947553779389348344\">Shoo Loong Kan Hotpot Manhattan \u5c0f\u9f99\u574e\u706b\u9505</a>"
+      ],
+      "photo_reference": "ATKogpfzJQVIoCogaUcZnaaQE_JJ7sFcHbTl_8p6OAn2n6QltYWRI8u_f5wtAZRmGBN-Crr7pGdzcGSlmYT5B17_uKZnNucB8dYO1K7TP9dwvZYrLT-9LX8HGf5I-BqCf8jQB-9R68kXoPt7yOBsYuVYwyvzUfBbGyaynmiHRFY39d9fpbEmL80oCjL98qiTsrtKt0sbTtqcvCuP1tPpYZE7HfZUpQurho4kvf18Uycr2AKymbUHCR-IyFgCWyzG7d9SE2rtpt1KyjvOYhioAwn7cHE2qj5uo9VGWXysHf9amsMzjQ",
+      "width": 4800
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101947553779389348344\">Shoo Loong Kan Hotpot Manhattan \u5c0f\u9f99\u574e\u706b\u9505</a>"
+      ],
+      "photo_reference": "ATKogpcIVtvPWNuDoswi3e0_nybxrTJi5Nfgnmad1UBussxRYc__viNcjy5nKttHrIwplZzPEXn9TQw6KjfI5qZ3SN6V9P7pU2Pct9gSynFQ0umvX6JqEka3Z8TdSVGs1rKpW_NZvMJCHarZms2FjL3CGWIDdhOEBCnaUQ8xhKpPUxwCrRgtOSypJZAIsoHvWVfO_xfr5-9BuJJiNDhAgkPiqU2w4hL-7KirISvaH4-9no4w1FYgp6UUbD3K8hOCsV9z3rRluovzt7uKxFHYSkxkE3gVgvMdVNP1jQ65OkAZYZdesw",
+      "width": 4800
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101947553779389348344\">Shoo Loong Kan Hotpot Manhattan \u5c0f\u9f99\u574e\u706b\u9505</a>"
+      ],
+      "photo_reference": "ATKogpcz6xG0z6NLxqNRmgZgiygQIH84ZWrVCMdXjJ_HQEypyjbQJtvniwvhBW73Phcb9qsmswZCToPT4azXZAq73mSkgG0o2I9rKJ6ufF7PdwaCAM4IPOVjulHNxVyUzP6mu7qvA7QNXqERlIIFpTkjRK2vrWJ4WiDzH7Sy3ujREj7mn9U4Rkco2RjcViL8j23mC-NoJEVtl9eu0KEyDSEaInH8LorxmsMCGKf1tOH2fb79asdf39R8bayppelpsjdi9COpCSV-MEhBiVAwdzY3ldp6SEsuSZcBP0eh4cXzcJx0sQ",
+      "width": 4800
+    },
+    {
+      "height": 3199,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101947553779389348344\">Shoo Loong Kan Hotpot Manhattan \u5c0f\u9f99\u574e\u706b\u9505</a>"
+      ],
+      "photo_reference": "ATKogpdgHSHrf82SiXaDs3yy9JFOLExwvUxx2AimuNAoGT6hy2f3GX1jXukMpdykRO88js9ClWf1xJLLvnqSN2jCWYO4xeIQFs8LTFcx6wdJ-bRbelhEK4hRgpMGTBWmkEvxazcizL3hk-_h6bA61U55AkxkDfsEuJqWvVeRPuMq9VR1ZP_XU1_o2QhnBzPoBIYXtJoM-nJVXYm1asP39gfzEmt5qoJ1JBJudMp-NZhUMltGT1UXCNr3e9UMxqCA3rgjM0LniDqRXJdJbHifUFuND7XPw_JIesdj6D2wQO4-BLU8oA",
+      "width": 4800
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116329558133274649572\">Yan Yang</a>"
+      ],
+      "photo_reference": "ATKogpfw3CGXCimaTVA9B-dmtlKdGIdRSyzEs-bAeUu1Nse3I13mav7XqpZrhbQSEFEQ4UDfBj0UJ5XGWUwDw2CCdWuAOFV2b4iWVdSWjV6tR3noFpcu3bvbehO4Jdt820Nswxc_IERsYepn8K60_z7PsQWGbzwHjcIjBb5PMABD6q5XQUxc9c3T2D7NjLRZ-guwsdCOsFFCHPvL0iBgeZ5hNH-6oMN7C_eRRjCgiKraPwMIslgVMuZGZ0Cm-qALC2XbSHChMBs0siCZxnh20r0szjn3FIZqXSzlwrB10CoaQMYHLMduAYkX6d7-h-vj_vi-iTakza62NWBYsOaFXOnHyIpDu3ZnsQWT23ciQrEDseTfTS1CQSiOJh-HcAcOEw_ShtbSUqd1I4YVTF22MLC-Zav-MSy88jwqzTuSEBKOT88",
+      "width": 3600
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117902049936358244924\">annie chen</a>"
+      ],
+      "photo_reference": "ATKogpc-1tmz33H1pGbW_3VoTCUq-fefBPFkL4cqxOqPz-I-T4wom1gxC1Pv8SSTHelsGuJg40-xmKP2uOhkmjRqc-G4gFUxXFACiV9vcQZy59YrsYkB1gvlrDY1lnzmyb6ecraSph7Nfig3MI9ea8hmzuOgfVN8cy2YPsQvF8VgeRjwifTeCgqBjSz3RobNiIrolZpoOGSs-ALYLf8-n9Sal1JsFr2qQLizfB-rD5M9LGgjcOzyUjmLRIvP9VvxvU4dB5m8GEfXF4AlscQmzf0KBem-NdjONTLyz0O3eXMKZTq5RSD-9RdJBAeVj35nXBy6MKmcxSrBMaoTPRcKDSzA3d-uS-9k5VkX4CBPLVMLYH_NsRmyg4OU0LUTm1R-rptWLZFr9nNAaNhjhd-XTfNlitZll977WikBz6ANiHzzkYMgFSOf",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117422798684021820763\">Mengqing-Eileen Shi</a>"
+      ],
+      "photo_reference": "ATKogpcu7VuAjrjbmWjUHNJIqj_QUhRtMcq2F2GzuDYORi7MkwbhLarWbztARHmNcqbQX2pTFpzPqir-ntijCFWYx9UypL3pL3wsFK1zz_W8SxgUyiSxLi9elbzCw6gJcb7H6mh_GgpMDK1VyhV_h9GUQsA7fuUAGSQ9ebrHDq0cNo0d6AS-c1CKEz9i8NTMOhStx6qXO3VVglLzpVWEutrZKr3HgmvZCBcy92lRly18UgFlqfOpAHF64zNprzcHV1If1gAyvJGwUxey--VoLQ00DH5S13QptMiOnspPZp5HxDkvgQNEfUwy4frGAAmv-Qx88ir2m0DUiLkr7UqOeqBRC3YQOEuCBDHsmsRAQPtUf1kr_XD4xHc6CHueLByHF21MHISwqMjzBJstxD-sX7O1raRIrhC5JpopLTKhb-sRVzJiyxOs",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109944309096907120608\">Matthew Ho</a>"
+      ],
+      "photo_reference": "ATKogpcPue5jeWEUsUeuH0D1-ru3wihBSmdfwAufZdgTvL_5-zR38nmOP0J0tHVfbcFoTDMESMUy_k5uZ4I1Od-o4YrQUC_hBmH0e6HKUAXpU-fgbrfbDTopV90QR_ayfUhYLuvsEqyG2Bx7QFvJnrlffdYF34_CPz_vEwo_1DVwAi1QcqBAGFT4YLVxcE_uwBiIVcE-h09ALG1kG3MMcvliWoBgteBNKJExWSebzpd7z29_0-AX4ZysB6vHu90muLg_Rccx4oQlOM-ibvV7j-qHrJ8KxCOQ1ifCRcURom-_Jr09xM9NWfdsjJtWHFumOOcCo_UG-BxQmRKGhyNeqiexwlRRu71dbbMvlgOR8TIjoPbR4G5EYfw4Jgd7i1szy0iBvHuuFQ9qMhAPNPtebCpBcDdpnZ9j2CPoYviikL36kp-ZaTa3",
+      "width": 3024
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101947553779389348344\">Shoo Loong Kan Hotpot Manhattan \u5c0f\u9f99\u574e\u706b\u9505</a>"
+      ],
+      "photo_reference": "ATKogpcmTnfQ7DBh4R_j8144-LpdzD13JcZASuhsB3qOEC0Cchar6uayllpv2aLmPGCl5z2OVRkLL2sjQrjTyB-aYaYv_0xPMAIdfQocDnTTJJmfhMmoth6K70Tnf-JyXAj2ZMXWaqqmFKG6Au7_xX3CMKBvHSXVo9ac4F4Oy0lcIVKnLoE1svtOjvc56PWdD10taDN8kRTAehS4I7ek3p5FU4F_oZUoVLLQsdQVoO3EXYamTto74SrYxhhfgSHC2iTlIn8t8XgY7kkwFvBkWIkn5uFbJkuEhvLn9d5-vZZj4ppMyA",
+      "width": 4800
+    }
+  ],
+  "place_id": "ChIJJccD46NZwokRu4jCJM5f_AI",
+  "plus_code": {
+    "compound_code": "P2M4+VP New York, NY, USA",
+    "global_code": "87G8P2M4+VP"
+  },
+  "price_level": 2,
+  "rating": 4.6,
+  "reference": "ChIJJccD46NZwokRu4jCJM5f_AI",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Mia Huynh",
+      "author_url": "https://www.google.com/maps/contrib/114746114434966868203/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWE4czd-grUsa03QSphvyCOclM_Ar_KI27-4Jd9NwQtCduvru9p=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "A pretty decent hot pot spot in the city! Located near Union Square, this hotpot spot offers great Chinese hot pot. Service here is pretty good and we were fortunately able to grab a table on a Saturday for a dinner without a wait.\n\nWe got a variety of meats and veggies and everything was pretty good! Their spicy broth was SUPER spicy though, so be warned. Their sauce bar was also pretty solid, clean, and well-stocked. Would come back for hot pot if I'm in the area.",
+      "time": 1743439937,
+      "translated": false
+    },
+    {
+      "author_name": "Matt Auerbach",
+      "author_url": "https://www.google.com/maps/contrib/113542338478362516601/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWB3nYOyREyqm1AFsZfPsxMX7e8VHNOC-qz4JmFXyS0KZSvEJfw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "4 months ago",
+      "text": "I\u2019m no hot pot specialist and don\u2019t like pork so this was pretty tough. I\u2019d say the different broth options were neat (one isn\u2019t pork). Their sauce bar is cool and has so many options. It\u2019s fun to order things from the tablet. Good variation of veggies and meat. Cool dessert options too. Fun spot and good for large groups. Not very pricey either",
+      "time": 1739247754,
+      "translated": false
+    },
+    {
+      "author_name": "Foodie Elite",
+      "author_url": "https://www.google.com/maps/contrib/100951935668449730532/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSXk5mNBwxX7_oDqmroBKEz0sKj-7Q5uKPPDajHZW5Rt_3QQ0=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "This Chinese hotpot is serving up the freshest ingredient and premium high-quality meats! Marbling is the hallmark of quality in beef, and they certainly delivered!\n\nThey offer a variety of soup bases to suit every palate, from mild and savory to rich and spicy. Don't forget to end your meal with their brown sugar rice cake, milk mochi, or the herbal jelly to cool it off!",
+      "time": 1738993243,
+      "translated": false
+    },
+    {
+      "author_name": "Matthew Gantz",
+      "author_url": "https://www.google.com/maps/contrib/114579291324350385781/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUMDgpxePIGamDtLmxd4leIl85T7GtvmzLH9OdmjAE9nNYnmSoc=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Shoo Loong Kan is a pretty solid spot for some hot pot near Union Square. The ingredients were pretty fresh and had all the staples one might expect at a hot pot restaurant. The drinks are cheap. The service is very great, with team members coming around constantly taking away used plates. Their main soups for the hot pot lean spicer than other places, so they recommend starting mild and letting them add spice if you want.",
+      "time": 1745101379,
+      "translated": false
+    },
+    {
+      "author_name": "Dane Fenner (FLH)",
+      "author_url": "https://www.google.com/maps/contrib/111150970955682660768/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXv-A9sFn_T54MPdHc30TRTRekq9pamhxJy9ULgF7BZPmu_Rx4=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Authentic & Flavorful Hotpot Experience!\n\nShoo Loong Kan Hotpot is hands down one of the best hotpot spots in NYC! From the moment you walk in, the traditional Chinese decor and warm ambiance set the tone for an amazing dining experience.\n\nThe broth is the star here\u2014rich, flavorful, and packed with depth. We went for the classic spicy Sichuan broth, and it had the perfect balance of heat and numbing spice. The ingredients were fresh, especially the high-quality meats and seafood. The presentation was also top-notch, with beautifully plated dishes that made the experience even more enjoyable.\n\nService was excellent, with the staff being attentive and helpful, especially for first-timers. If you\u2019re a hotpot lover or just looking for a fun, interactive meal, Shoo Loong Kan is a must-visit. Can\u2019t wait to go back! \ud83d\udd25\ud83c\udf72",
+      "time": 1739644990,
+      "translated": false
+    }
+  ],
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "types": [
+    "point_of_interest",
+    "food",
+    "restaurant",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=215152221191571643",
+  "user_ratings_total": 115,
+  "utc_offset": -240,
+  "vicinity": "22 E 13th St, New York",
+  "website": "http://www.shooloongkan.us/"
+}

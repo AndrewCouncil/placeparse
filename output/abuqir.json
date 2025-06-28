@@ -1,0 +1,442 @@
+{
+  "address_components": [
+    {
+      "long_name": "24-19",
+      "short_name": "24-19",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Steinway Street",
+      "short_name": "Steinway St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Astoria",
+      "short_name": "Astoria",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality",
+        "political",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11103",
+      "short_name": "11103",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">24-19 Steinway St</span>, <span class=\"locality\">Astoria</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11103</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1330"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 1:30\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "24-19 Steinway St, Astoria, NY 11103, USA",
+  "formatted_phone_number": "(718) 274-3474",
+  "geometry": {
+    "location": {
+      "lat": 40.7684787,
+      "lng": -73.9110867
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7698583802915,
+        "lng": -73.90980351970849
+      },
+      "southwest": {
+        "lat": 40.7671604197085,
+        "lng": -73.91250148029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-274-3474",
+  "name": "Abuqir",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1330"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 1:30\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111482533178959121928\">Omar Zarrouk</a>"
+      ],
+      "photo_reference": "ATKogpfGTlSD71AznIoJp3noeRi-jOW58I3BWMU2LggGLXl1fNQArmnWEQHwecj6EZ0kixI7vnEn52TE7xhvrEObwT9iVc0zZdl1K-wPVM821cwcKZKpaS3vABBLTuLM9w06ev2tYFndAtlcWqYUvCHbVoIvivrOKvmEMqQJg5T2Wn5h0QnK3hlskBcE7vNnRiZZCm9WelnrafQlXFbpQnubcvhFq1BCYW_0-XqIcct7uIS5pw1SU1_r9KmiR39qI-rx2Qxdkzs-vDcw36d9VejdnJmNBcul4s6HPAKP_clMthTYjG6AQVKvlHVcDpdR41f2hlrbi1VjE11_KBmV7aTrWUwLkqnpD2_OJVDSOLb77F671hK-93i2B3pOwbD1q7gjix64UOMXmU7n6Y1prpgcl_WgK-Ptymg819lcW9alL-6kKy2W",
+      "width": 4000
+    },
+    {
+      "height": 1868,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105653042821287471099\">George Karayiannis</a>"
+      ],
+      "photo_reference": "ATKogpcfMFSnfOyaXAINIyHnleIg7_ubSTQjupIP1LxIa7zEYtIH2cpu5uOAI1YeGa1zRPDG0v6QdrcHxvgmZWXWwDf2Z_VFY_k6ZYlIgzCfSQ5XSP9IrPMORkH4Akx-A-0w4khBSiwLMa_avAP2T-hm--s2iU5Mmr2Lp7AW5mH_nbZyfKs42CTGnMG5qeQgz7mUbxRvK36d5oZhJY57ddgEppVCCRGzBV6dvMsfh2CoBvVtWF0613Yv8smRs4tu6GI4eWmgxgTSnu-Rpk6DCopnLo7Ux16vgfQx4jH2Fn5jHeRWfU78x_dZCohMfatwLYRr_x1uL9w_YVxQYVjocXz53xSFF4ABx3tpB_d_8II1qMIl8Xapv1tRhDyN_WlxRN41B-2sBLwP5_Y5F-uu9utKznMqvapEBu-bGv0K-RDGYNTQpW7m",
+      "width": 4000
+    },
+    {
+      "height": 1440,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114749232784701596691\">Tyssin</a>"
+      ],
+      "photo_reference": "ATKogpelNFDg4-aJhpWng-fkMVWwyKHh6DBHYgGmpvgYeixiPfs4vtfxZDgfAgBgSeaNPf4Roc4JAI9piFW8_rPr11Iy_2NXmymT-rPGU1BbLhgFMpS7-0tu81HiQaRtSNuziILW5c3_FunOKf73PzK9WeEDtU51hs0NqudNvEDeUYWfVQLS2HAaqV-T97EPLA4B0cVIT6vGDYHxSdXXvwzAW4-AgA43cKMawKnonXOoo9Z1oZVNwX4htDIkPN6drKePRjCgq5tpIpjYA9TvbHQeFZ0jvUX_oLumGN0ysyoye0POsrEenpYqT89Y4v0abzQPkHbJnNUwNqSvVeqMw2BagWApanbRP96G0zdWhX5dt7H_xmAbrDmI6e5m4hvhy8RLQXd_z0GJnV5s6ani7Yj0ut3yL1Jo_IdECbyjv3p2tsI",
+      "width": 1920
+    },
+    {
+      "height": 2853,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107304024832507317425\">Gaurang Sadekar</a>"
+      ],
+      "photo_reference": "ATKogpfnGRJJvTY94-4toVbQkBYttzwXIFi65I6UxlrzCF69YFqYtlJnRgxdsiqa7LFfmszrnOu_F-yKEzF_pfXahL8rzlTQo_TaIRzlebNrhSNmry1mLaJZFTaBqdyG8yfD30LssZRFcOv91A1u-WTf514jq6rXerln-bC_D__1DNpVH5RPXBeCOFZne1WHNkE39G1zD3wPP9JHa5KqKcJOkIYhRRQS13JcHDhDORSab_0V-n3JjH9tCQIxyRzTDf-QPxaZYRxUeQh5INVJZTOO11H_ts29KpImb57ZXY6d-_O1qJQe7xKCTcuFMjoRMjNRcCPyltAVod8hM_nAm_3LZ_XBeMr6ioG2Y84-BItwJdBH1mGBKu5-vpoMtfGhaTCZ-XTvHQR3dcBIzo3IYii-WBuI_DDUwcGjjriBdQdTaY9YXQ",
+      "width": 4716
+    },
+    {
+      "height": 1261,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108965855681754462267\">E L</a>"
+      ],
+      "photo_reference": "ATKogpdSrobjv1p2OlWwg3K2R4Fp3RZOS59xR0qroYMlqX0c8Mu_Y_wJuua1_YkNGI0_n2L0GSKc4UjCWbLDAHCZX-6CkQYaUrUX5DfptR05XOgPbxFJ1e71epCbnbSVyV99AdrNmKzL3CYpTD71X9IZnqJHOvoqSmxj7GIPN8wOYT1ui18J0ljR9sxZ71xj3wyKfS7Ya405fMDdxWk-KLlRDUUZ79y38D11ODnyOjYgVg6De0TZCep6P13XiieLpO9QiPLCvWXv-NaJSfAMAqQ_Pix06uMd9Eg4C9O0gkELG-5-PK7IaQRPXeVyrzu9COHZzcNoQDcLxcIfwL2Qj7Ryp8Qc3fQ6DhhfU7v9k0m1igcrd9WvjvkA-cP4A5u2ZQXt_dGxyz_o_M_3rLXUEVnwB95VdnoHAryiuUnbRFqPgDy4AogsnUNwkm8jm9Wo-Q",
+      "width": 1536
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111482533178959121928\">Omar Zarrouk</a>"
+      ],
+      "photo_reference": "ATKogpdTLA0CBkrPSeeuk4PuR6WUsrg4mXTU4W4rR0PD6C5hbucjpxxS0PKEDGqD4-u9bgHFUtDBhlAhr_JgfaPlinX49mInhnXdnt7QuIprDtIZIc4hYCuqNdiTsC1t22VBgJSv3HQDFxN-IOqGgBsk2Gmy15gpUQItsYStRVgSih-armkItvfRqeCMqlKzzSoinCtemgHzXdM38vw7twOvBVWyhpU0JamWeiTKUcdqOAlATBo1HW0Kok2vZsZInIdBGCpvYK4g0LZaRbsGsD-AobJWG1GHC8huK8tnoGRGa7bG4OpLrGIW7NloikC8uNwwRqJtewMhYLRq5PZqbtJMA_0PDKL2pzVq_Gos8Ji4Egr0tPQurIJQEH6ox7Ppe4SJvghh6d-qSlcDqMHlTE8YlDPuIIkiYVaAwPdf5tG69bqXuQ",
+      "width": 4000
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110455106661130841741\">Hector C</a>"
+      ],
+      "photo_reference": "ATKogpfv6imKn-uw6NcJIltP2APfcXj2vAJ1s6bvPkhufJxHJ0m9gwdtig8sbc1ipw9CRVC1BaEIKW3O8NsOjO-r3K33Rn3sOsxCb7XQRKFsqNf5lfwzMw3tTKTNvoqmzC0LBaFuKW6yzNoqXCMWDVbX7N0zIPjM7_j5y2V7DAK_1_MF6-KXaEZRbTHJ8M6i1VFDVviHxdFylH2Hg3wjXrALJt5p4jgV4FODqEpX-QlVlCC5W35rt2xcULqABwrqoGfQuXIopjO5NRKEeFoSCT4FPqXjV82XSpWodZRQDM-cd27hXDxr5HKTjD62K22G895jjpOq87BKPDbl4R-SixdPXQpWgAwVygnkiBwCBqUdwlSRVZmsi5eX8GrMulfSGmmNbp7XkaKEKkuqhFuhnGmdLQeOHDaaoh0DPgqcBegCP9WDRsnQ",
+      "width": 3000
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114205035485117009793\">hui Chang</a>"
+      ],
+      "photo_reference": "ATKogpcWKjgIJctQ3w9XPzUqPvm2KUJjUmMSPrIiO1kpPRbIzjR0tzZB3d6j4MvHaV-cumBcBTntj1iufTBtsJHgPhq_LFECM2QvoQHgWjmUelqjOb2S2-IeILb24cv34zXVIvIwujw5tOOvWxsOp5IoQwjuwM8FO3tLHoxM5a99QrEO_U-LdP2vcr9Wy7csRqfSY3j2jCu9aDeXnjISdKM9yy97-PYPvPK0cqLgo1ziPNElPwU3JOCnvNzUiH118JDfm3YXJeC3glAyrXM0IcujbK--Kp5FQD_JvKgadJSG966NIoJgs-A1MKDvk1I5yt29TnJFeleIkD12IiP0nxIlEcAzKdN_J0Uj-zgIYpJuMoCiGjmHrMBQuT3p3Kcxn8FeDi2zUe6oNPtyRhzyyjeW8hDvO2Bv6pOgfjWvD-cRM6HCxA",
+      "width": 4000
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106382106648986666472\">Santosh Hodawadekar</a>"
+      ],
+      "photo_reference": "ATKogpeNuoOxI7SP3eQMDICSW9AUmBUDyACxQXFKgo6krLnewOHhbHq3zsJSGAu5tfb0Spqi2kqiCDHcLO1bNL6O6ZFHP3Jvl1M8c5_n4AzI4r1W-iWgt-tBIwvG9EMZWs09n8ajQJoB0P-PvmS-G1TPNrq9b3NVoDg5gH9vkF5smgkqCCD_zTv4QIm1h1LiPD12UshYTC3T0f4H1uTzMy5zNqMyxfKvJkILeMK6nXN4F1X5Rmef3Iwj5sqLFWUlMVe8TaBFH6wI-OHRms6GpX0nwvVcP77Cqj39LTYzicGj96XQmthGI_t9uDkkbIw5ZNTDr7UnLMlhr96EnlFhy_Pgl33BATkXuMzOgs8SrJl7-iAox9orhVD8wKjLADAbfc-vID1At0WwrwkPKkTV-xqM_FWFbqykKGwgLDDO4MVfItH8ENQ",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109429581669874403800\">Norman Chung</a>"
+      ],
+      "photo_reference": "ATKogpd-RA0ErWc_vuD0ird_gxREiUvSIRoJAfY4DofKis7s5Q1A8W4zsWtShRWwJWAKqGXHLgJk12J_2mK1vErEt-P-lpVvLNbm5nKl5ThcwGebqli4_LCn8pforM2wAn8hPIyPtKv0-IYgVxQzYG6_kbycewMOuR2z9pGcTfCsVCZoppuz1NtMFE0n7nuxpoSL_cRaq5JKU--82xnFYl9yTjF23_sFhO3EcT8X5A7a0HecoAh0cN6PnZRMhuG1s4glNi5K5l2N6zKE54fqAUToo96M6DjbzOyzQom2AoenqsA5k0297WixMG2Y58tLZZwFoV9dEvqEkUJ28wXTxddMYrItJon9bQtTSGEZCIAMdQOX0AkpluKHi2j1kfATPtKss0yCd1v7Fk42NNMDEUAiiQ98ofikNz8Uh9GW1u6B4pA",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJLfbhP2pfwokRvwGbpdfqH8Q",
+  "plus_code": {
+    "compound_code": "Q39Q+9H Astoria, Queens, NY, USA",
+    "global_code": "87G8Q39Q+9H"
+  },
+  "price_level": 2,
+  "rating": 4.2,
+  "reference": "ChIJLfbhP2pfwokRvwGbpdfqH8Q",
+  "reviews": [
+    {
+      "author_name": "Phil W",
+      "author_url": "https://www.google.com/maps/contrib/115813985947737885969/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWCDs0Pi-Hl08CL64sUOcdLqFp2TUBk6TF33q3VuIKzcISmCc4=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Stopped by Abuqir for lunch and was seriously impressed! We had grilled octopus, seared scallops, Egyptian rice, grilled whole shrimp, fried calamari, and grilled red snapper. Everything was incredibly fresh, seasoned just right, and cooked perfectly.\n\nOne thing to know is that the dining experience is a bit different (in a good way). Once your table is ready, the waiter will tell you to head over to the seafood stand to pick out what you want. They\u2019ll then cook it up fresh to order and it shows in the flavor.\n\nIndoor seating is limited and cozy, with a few outdoor tables available when the weather cooperates. It\u2019s casual and no-frills, but if you\u2019re into high-quality seafood without the fuss, this place is a hidden gem.\n\nHighly recommend for seafood lovers looking for something authentic and delicious!",
+      "time": 1750418335,
+      "translated": false
+    },
+    {
+      "author_name": "Lydia Morcos",
+      "author_url": "https://www.google.com/maps/contrib/100687702915163232197/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVIdNOqDPJgWSz4sKqiIXwHAaJMTvVPr3Hynp6aU0jrIJhCY2ufAg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "You better sit outside the vibes were outstanding. Food was exactly like eating seafood in Egypt. Everything was very tasty and the service was great. I highly recommend this place we ordered shrimp fried and butterfly. Both of them were great. We ordered fish rice and salad. Everything was perfectly made.",
+      "time": 1750819761,
+      "translated": false
+    },
+    {
+      "author_name": "Gary Trinh",
+      "author_url": "https://www.google.com/maps/contrib/108519276188780818842/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIeimkw4bdE91FhjFwZV8UFlhsY9PuX9WJ65IvPE1sj9IXykg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "If you like grill fresh seafood, you must try this restaurant.  The seafood here is very very fresh, you select the raw seafood you see in the counter.  They grill everything to the perfection.  We love their grill scallops, river giant shrimp, squid, etc\u2026the Greek salad and tahini were very good as well.  We enjoyed everything and will come back again.\n\nNeed to go there early or you need to wait for the table.",
+      "time": 1750720286,
+      "translated": false
+    },
+    {
+      "author_name": "I S",
+      "author_url": "https://www.google.com/maps/contrib/101721165202359020630/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUFE0ImeaubnG7CB3nzZ6VT_S8aW0r2hqtyLC-R83aAQ7jlP4vY=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "in the last week",
+      "text": "This is the restaurant that you make the most of and it\u2019s not big on an overbearing style of service from staff.\n\nThey\u2019re very nice but won\u2019t get up in your face and pressure to order etc.\n\nAsk questions and be proactive about the catch of the day etc.\n\nThat might just be the style and it\u2019s what I prepared myself for reading the diverse reviews\n\nThis is Egyptian style and it\u2019s a mom and pop shop. Very chill and nice to quickly get a good set of scallops and good sea bass.",
+      "time": 1750793390,
+      "translated": false
+    },
+    {
+      "author_name": "TGO",
+      "author_url": "https://www.google.com/maps/contrib/101281441465151574331/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIQxS7uCYX2g5A-ZygeH6k9UP2DalpVhKIM67HvLirzpzotYg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "a week ago",
+      "text": "I have heard so much about this place and finally having the experience\u2014I was disappointed.  The servers explained nothing.  We were seated and just waited without directions or a menu\u2014this alone is a deal breaker and not worth the aggravation. The food was inconsistent.  The shrimp was slightly rubbery, the extra jumbo shrimp was tough (waste of money).  The pita bread was inconsistent\u2014the first batch tasted freshly made\u2014while the 2nd batch was tough as if old bread reheated in microwave. The high point was the snapper which was a perfect fry and the salad was good.  But overall a lack luster dining experience which I more likely will not be returning.",
+      "time": 1750295155,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "food",
+    "restaurant",
+    "establishment",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=14132272367629173183",
+  "user_ratings_total": 873,
+  "utc_offset": -240,
+  "vicinity": "24-19 Steinway St, Astoria"
+}

@@ -1,0 +1,355 @@
+{
+  "address_components": [
+    {
+      "long_name": "42-05",
+      "short_name": "42-05",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "35th Avenue",
+      "short_name": "35th Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Long Island City",
+      "short_name": "LIC",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11101",
+      "short_name": "11101",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "1445",
+      "short_name": "1445",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">42-05 35th Ave</span>, <span class=\"locality\">Long Island City</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11101-1445</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2330"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0000",
+          "truncated": true
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:30\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: 10:30\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: 12:00\u202fAM\u2009\u2013\u200911:30\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "42-05 35th Ave, Long Island City, NY 11101, USA",
+  "formatted_phone_number": "(929) 208-0027",
+  "geometry": {
+    "location": {
+      "lat": 40.7543983,
+      "lng": -73.92017969999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.75568678029151,
+        "lng": -73.91887651970849
+      },
+      "southwest": {
+        "lat": 40.75298881970851,
+        "lng": -73.9215744802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 929-208-0027",
+  "name": "Bunlicious",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "day": 1,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "2330"
+        },
+        "open": {
+          "day": 4,
+          "time": "1030"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:30\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: 10:30\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: 12:00\u202fAM\u2009\u2013\u200911:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1438,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107032398056739454391\">wengang chen</a>"
+      ],
+      "photo_reference": "ATKogpeLwTBpd2ebPCRj2vofTrw4vErBinLs1VvhJS31wlhwPCjt40paleZI3_otQIPcIhVNYU3pAUefg5JHR326h2BhEL1LEXZ6rF0yvcc98Pq5AZve4l_2C01M1EDeo9H-W6RQJ3JXSeK4IROLWAi0QZRLgIbE63ryY5s_Ck8eGlJaEll8pmpUZmJqVkOTxkcFS9fjKxBoQKGoZkoSAujrGmmmrwizilNbO4ifwr0cdozc-S-SEGVRbM3NozRPHS9rkJ8RLMy7rAU3JAvheORSbgauiDh4x3wMSoEAIm6UlbL80HVAPvoCMIH1e8HA8aR9-cBiycMgoyDT72eqvs91_RDgjNybsY6hhvY8iBvjqFRYfvkiD_PHUl7TPCuQ0xg3doNIgkBx3kS4jq-b_cUGbkTyae26fsh_fRJudKa2EO6OCw",
+      "width": 1152
+    },
+    {
+      "height": 1438,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107032398056739454391\">wengang chen</a>"
+      ],
+      "photo_reference": "ATKogpcHFl9P2HKw01_VfoMtbGkqeoz11GDfhHXkNO2QA3rX_Fi6Onoqtg09V0O63D9f-kDqKrKqQLt4Z0Dtir_-TTMXKstE0rsRfJZg4Amt7dCbCfRfyZuBrHHO_DTmJ_nmROaLrh2GNbUFmzDlzRD24r3wUwWO5pyllfDOUJC3j_rJVpMO4e43J1kA3dDRdzGaGleqpsGV3GXrzfjWE3Ho8UmShSOWdqagES_EAw3wB69ZdTbm3CA9-cbKWjCQkdgrwsqiSBnxvSCdBPV_TRTgZ9olU4BUF5kgYrbcKMSE6Soz75pao63QijItp4DHIEh86uJAFkqQMSVikje5HPDRbfz48F8l06oJTg3JJ_9RzLuBIxQf9R-MTbnmkmjxnzYKIxGElLlP2_ua_JE6lCWTPI6dhpAfREbIRXxfD1Kyw0lh-CeC",
+      "width": 1152
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112135646395167670477\">Health Yo</a>"
+      ],
+      "photo_reference": "ATKogpf5q2ZSYW-J9jXDZ9F_g0vh3kN2yDCdnIRcBqO5iNYDPDlER1EsOz_z8Tk_Jrt3iFtXhQbVcTdOS-I26oiRPym35H4qClkdY0Dcs-vQgjEJYfpHd_HVdWFBKdvPEoVeH1KWih1uHwYz40H7EwUbwvTSxqQWbrQxdqpyrlAWqKlCmvIfY3hsScw1L8dgN1W8gLrbtCoAg8pPrpZM7nMfJOYvkKjJmepaGoQcySUVHma5_WJK_7yC8v3FFd2O3_s_NELtbuJcHfXHh2Dm9Erw0R3CC37yjrh3TbNN_NEiXMvWSCIv4xYXC8p_2DUv_1n3hveTvFugEHIRgzUjF_WjaCLEEem5JYOj8hx1opLLBGJPYM6OPTGeJVW6UPUwkPRb2tsH-gJopnz3P54b-6hpc8BtBYiDoV052vV5VI3P6VxDGt0",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111449771380869166182\">Lulu White</a>"
+      ],
+      "photo_reference": "ATKogped0F5d96HsdIxP3o8uZV7fUl4EcuAPeVWrifWFNuwLRe7hQLFt-yPL8aK4P9kWJkRza7T711rbZQ0PGZOCHGfqwCxz2hnwRX8HrErFBE9g63ZP49W8b2614Gp-KhCt0F8OyQ3ADUMpKit5K8VjgMW46x4vdI_wLQ7SdpGr-cyC_k8q2Ph_9XFIeMyxki_fgnAwk11Rct4ZO9TUTghtiQ1mubjZknp_wldelrMdnm1R2APt5OVRn57w_-HidwweYyL_cxqmTrYZjMqSRcyihSYPavN-RSt8sK4z9ELBvPe9wpuanvDRAOJG0C_HFujlhY18dCzKYBHYkvucRNK4JjgXxRFJNUEhkYcyan21HLQOKFuNRIQq68JmJqZ9gaV5TD7ppHgtV9-C2fmw0i4taYvirpNie-guGWWmKYnwLKA",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111449771380869166182\">Lulu White</a>"
+      ],
+      "photo_reference": "ATKogpfJ47L7YYFEF9wU8z_CEuEcnXKLvdFsnG-mLoS5szq9gEduJxi9qdgOFg9aGwwtXh1xk99PKtgZgjM-6LKA8AfZXmV8qcuDaprMf9c8TeSVxbAZ5sNUSJtjH7SWFnHJ4IE92cAeOtgMFA1s9gZ8kF-8nEKpQ-3G6WtFyHTabn-rSs5b_qzj_sDr9B9XzPaIhR6z7_xo2MK2Iq1L95s3YuDTXtzLSBRxMku5U2COnNLwiOrrEB5GgUFP_xVl4kfpP7enCJJ7gWoKctpaqS9fK48zbpOUa6nVzrWdmZaIU-VDwzZWugt_x4hTzl0OfDuWjVQn3jvHoH8DaMK60t43swIUutCFpt85sPqWXQdcsBvHmkAHEQpwCbyqlcikl5j0DjyHpNPa9RDT-AHRZLj4tJ9ynqN5UAPIIJhRki-NDCRD5oEI",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110000824420599791950\">cheng zhang</a>"
+      ],
+      "photo_reference": "ATKogpcX5RkxUBDv6b5WwrKKsgf6e3ntrHbp-hVIvV3VNdfBxxW8wDRpk3NEd6VMVtqq3p19kDd5tmSQQkYj9UycigFNQMgEx8QDuMhyU6y_Qny1IUYkx_haftY4iYSUaMT0EGUxvbl32Wy_mV8G-eBFUDlVp1V1uV1npVwFht5lpxDamRcyZ5UL89z1VF1P-VAXY1nAcPC7WPHMUtecsJDz_YE4ACpE1o-jtONTk1da01d8RKJwZxFmCrAqngAIE3gUpCC4_XTENHOQE4N1YnjQu1CAXB8pAPALqVRLG-_9e68XXbLDISSxHQO5Wz1MJBDU93EljoIsa735kF9eVvsISD6jO6unG9QXJ8AxAYR-s2qS0xU0x73S0vrT9vqrKy05MKik-lw0aTB3OKzsjIZ4O9sYR-kSR9boAPlO4E6r-8g",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104487262802917247055\">Pimchanok Supsin</a>"
+      ],
+      "photo_reference": "ATKogpcDWzbT5MfXd7NblUgseiUIDu-MGFGv5-EblnRNc7NNeDpdwXwF56rmHQFUUQt919rwX7UK5IsJOH_RdXjv9GpeY9ewnR7crfXi72fIvmpV-KWNfCvHgtUC-L8UToeeWjW9tFLIUgd9u8Vso8yTRxvdHMCUmPyrv_jsK8pniPVbA71Qkg9LaAQxzSNhl8ZJjB5lC0WEuvZmNSaIRL0jshoKx8q9BdMWoc9-XLyDO1fQlUfz7CmZdp8hZVS9V0neEbx98toNDpxK5fx0i0Z97VTuo2vMjjKZUEN3zL-NEfMgkP-hTXs5NpII5vxj8Cwnsn2ytxNmyWU-8qEiewhvRhE1CUSpw1SsXazV9QAoi5QUFo1KPmVD5tSb53nX-ktFsUbm8FC2-rIYA3ANQpTrVayNC1GcrEvh0lJ8QAdSEUHMoOcl",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101721627338274025711\">John Zhou</a>"
+      ],
+      "photo_reference": "ATKogpdhhJfSxB0wJ1-OsjUYXHtPMoCB489VOTvO0FlHmpQjdXzerOrtDaNN5aMMD1S6XreFsSx-wrACBr6itlPmR9hmDDeP8Vsvza6OESHApTiO94J7G0vi0OSozOVs8tqzvKukeY4wr490IwN5qa-i_SPI8cFqI2xRUGyUXeCXG5nZ1W96sQsZ9ipKfx_fza816SjUcG-Ed_NGhPcbX-UVwQELRQiOXb6QwUFN9aaswaLn2U3Cz0KRO4z8F0Pq4WaCtHdRJUCE6UYePPqI6OZhMxblIWg2UV2-MmePYlr0LYSIH_5qNHEQsunnGgUI2f5Y_DA22MQ0AOU7zZ4lcDYi5gYS5THhlzr9PiBf-HUGxg6sdGBDB2ZQUn34ZdKv3SPJgMnaUWrgwhu4wELiD6ZF5UUjrsFZ1ogZG53Pr_qIG_4",
+      "width": 4032
+    },
+    {
+      "height": 2444,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104780864435796907607\">Ivy Z</a>"
+      ],
+      "photo_reference": "ATKogpe4MKlIJqwB-QImdCXvl00icjG3hH5mKAf3FTBNoKQJ272RKk5M0D1MOX4ZZyQSL3B25oN8fwd2KE6Zvj2wVwTzX9i6eQxRuxp5M232EaUM1ZC3hNth9GKfL_Qvyee-653ipAPxrKb9-nkOPYUnLA_nYHD_9IuOj5t221XfODiCnLVNH8Lyw67QWXR9Hn5OU8ymKpWaOLUGXu7Mu0O-eDRzsDkE-gTZQhG5-yOvJr48fKnPbmI85qB_ekr_PACvCerbNJJcZObSYxvgxcuY8INmY13kYDtrkWDc1Us7hk8K4PJfiqFgc1d5L4FDBhGw2h6_JAdb3QwCNzcBQw44YTaqP_og7k7KQ5ZWuDV_8SKK0NgDR1-sRyoH2AmnmML_SWlNcTgMMZ1uoTk6Zxf_QKvXZb1tG-M3iDDgrAj33apO7At0",
+      "width": 2160
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110000824420599791950\">cheng zhang</a>"
+      ],
+      "photo_reference": "ATKogpfEVWJ61-bkDDGtoEMsLHaU9OKDyrdMqV6Dz8hTvot8lGUv4XvayFd43zPzw8aC9DBJfKBzmdnkeOgOCFlm3Ep4vPWa74IEtpcnlxmSRar7TjYdIlIhAkqR61BTbGYAvj65hR07SPNK6x2-iZBDnm_Pncom6y-EUlHgSvdeOJKQ0Xr2u01VXI_E1Gqa973zTx_rX_FSLsr53x_AmrYkocMQyWYXTIXabPFBSL56hII-xu2K5k6PhwZWRRwxTDdyPRGP9W3dmZbBCcgkE83UBiFQ3C7yoqRO8up9KLjZHon0kaq9VV1hAv4CUrpmn2LKv_YS6yGJP98TYlnR2Ur2kwX--1XfZOVe0YFKqFmBLwlfgi7UR_HHB3Wtf0n4oREbMxWEurdbhUHZPUb4ykxZ95XHWdo51ipKSvqZPAKW53ahRPSJ",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJCfAKUH9fwokR03bDGv0g6tM",
+  "plus_code": {
+    "compound_code": "Q33H+QW Long Island City, Queens, NY, USA",
+    "global_code": "87G8Q33H+QW"
+  },
+  "price_level": 1,
+  "rating": 4.6,
+  "reference": "ChIJCfAKUH9fwokR03bDGv0g6tM",
+  "reviews": [
+    {
+      "author_name": "Jade Reagan",
+      "author_url": "https://www.google.com/maps/contrib/111414075657383333675/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX24xWhJgMQk3i0QC8Bp0LnsN_UCcu7n6Z8l1guYS3ys2356IAv=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "Delicious and fresh food, clean, and wonderful service! Randomly stopped by and while the food took a little bit, it was worth the wait. I got the braised beef noodle soup! The atmosphere is small, quiet, and understated.",
+      "time": 1734133738,
+      "translated": false
+    },
+    {
+      "author_name": "Dion Lum",
+      "author_url": "https://www.google.com/maps/contrib/103766090050614429633/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKu1Kreq63Pou6lJ52YtGjuyTbT92EJpvdLjxtK2nJqOh5ynQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "in the last week",
+      "text": "Terrible. Order the beef stew noodle\u2026 there was barely any beef and the soup was so oily. I couldnt even finish the meal. Also the place looked abandoned and i was the only person inside eating. Very strange. Did not taste fresh",
+      "time": 1750552169,
+      "translated": false
+    },
+    {
+      "author_name": "george",
+      "author_url": "https://www.google.com/maps/contrib/116980257891161789567/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQOYqOW9vTJ7r529QtYcvy2XGiqsJVknxXFlqtwzaqbdGJXwwd=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "I love this place! This is gotta be my to go delicious affordable Chinese food in the neighborhood! The amount of food for less than 10 dollars is just unbeatable in this economy! Especially when it doesn\u2019t require tipping? Wow I might as well stop cooking at home and just do take out here",
+      "time": 1721345493,
+      "translated": false
+    },
+    {
+      "author_name": "John Zhou",
+      "author_url": "https://www.google.com/maps/contrib/101721627338274025711/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXs5lSxCAEEZmzJLjdaq86bza9wpmOWY8e7ZfXqKkkITljqxcyP=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "5 months ago",
+      "text": "The food here is alright. Nice and cheap, but don't expect too much. Not as good as Flushing, Main St. standards.  Came here to try it out cuz of all the positive reviews.",
+      "time": 1736382302,
+      "translated": false
+    },
+    {
+      "author_name": "Aaron Diamond",
+      "author_url": "https://www.google.com/maps/contrib/117459716672733609005/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV2RS3p9rRYhHa05ecyE6tHdAPILV0MZh-5Rvj2qH1uqGwXqCxOJg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "This is the late night spot! If you\u2019re ever hungry and cold, they will be kind and cook you great bites! The value is there and they make most of their menu in house. I highly recommend the dumplings and the tomato soup! I thought their braised beef was fantastic. What you expect is exactly what you get, and i love it! Can\u2019t wait to go back",
+      "time": 1733486338,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "restaurant",
+    "food",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=15270053758000920275",
+  "user_ratings_total": 35,
+  "utc_offset": -240,
+  "vicinity": "42-05 35th Ave, Long Island City",
+  "website": "https://www.bunliciousny.com/"
+}

@@ -1,0 +1,538 @@
+{
+  "address_components": [
+    {
+      "long_name": "404",
+      "short_name": "404",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "West 49th Street",
+      "short_name": "W 49th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10019",
+      "short_name": "10019",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">404 W 49th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10019</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1600"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1600"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1600"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1600"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Intimate, laid-back restaurant focusing on Thai cuisine with tropical decor."
+  },
+  "formatted_address": "404 W 49th St, New York, NY 10019, USA",
+  "formatted_phone_number": "(646) 684-4618",
+  "geometry": {
+    "location": {
+      "lat": 40.7629548,
+      "lng": -73.9898444
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.76434253029151,
+        "lng": -73.98847546970848
+      },
+      "southwest": {
+        "lat": 40.76164456970851,
+        "lng": -73.9911734302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 646-684-4618",
+  "name": "LumLum",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1600"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1600"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1600"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1600"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105436477332461470817\">Macfly</a>"
+      ],
+      "photo_reference": "ATKogpco2clF3K18cSSqpO9nWOpq6Z-N9x0rQoGgghAPE3oci9er73eVgGF92vCNS9kqOSjihltR8LGkOKK50AreDmrO0Am7bzptMqOxrtA-kcCOu01FCRHWSqkCM7YW6SNJI2I2DWYUgkTcR3Drkm7elmBNwFbvKfdew7-2fv59VrT1VdiOiH2-X90Cm-CH5w9IMGMBGbn4hQ3wozwYnfP_fyIFBwbb8n3SF1ALCsnuEnLe9x6fGXIs-CmMDu72sOmIF5tnGSRyP09GNDpYXUpWkgItMRC4odB1JiX7Vy0RlOjRLaVaedziiIYqUZ0D17mqjo3UlibBDWtCpHnDy5YC1iokSzM8SKJnarPeYk__MZ8lmtBTJF0uJRDEapy6Bfcx9g_NLxEMsw4kfpSLnWyQcwawmCkmuwusXxLo_dVD_DE",
+      "width": 4032
+    },
+    {
+      "height": 640,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106707922108706827433\">LumLum</a>"
+      ],
+      "photo_reference": "ATKogpchRam8LQ7U1lLGu0cm9VvRXgdcx213tbrz_TeQz1caG0kKhW0hZ1tzZ9lPjs-GkyMypxK_gtJ-J_B60SDyJM6e4_XITW_t-_XwId2oyZyBuN76_1MTlANBngB1TIAz7jQb3FddEhKVq1OthvkpxcStodhF8oDg6d8an04v6RB7o257hF8kt_PskOid-sN1QzISVwhbv0htpni9CykTzvodZvUC-v-uiIsFJ4K4xNWo2sJXp9S-LiGKTM5T-1F-JpoNCezpJaqGmIY2m3QgWTShR6sBKTctvujVADrvqMPmgw",
+      "width": 581
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105484589034578108440\">Y W</a>"
+      ],
+      "photo_reference": "ATKogpcWTtO-QotNLHdc0BvpxlEyE1NZUrpIQLN9I6diozY0nmADsZQU01WMP_1G_KEU_ufmvy76p8DC6LdzYmGRgc82Rr6LvSh5MDRnEdWuGeEKMAwjjfm1wla45mTlkwK3ZLFk_uNxVe-8lQjjdzkE5FEZYBPg24xLLFzv9qSG0UH9bVMrbFNWJWK3xhJaB3UJ-sYvuoLQbl2LFVKI-xQ3P56J29us1Fd3p6ho04p9ZeXYgikZVoF0avyQs_Xz55FfoxExyDiA8zgaS8um9gx_l4Ah9MoieYr1OtImbuTMG9cUSjSAPJuE18TUXlnIPVO9bji2CPNqYbZ_W3WM6Z2cbCyckctcGHJ2TNFxd8aaEH_tRh-Aq8Iu5-AaqaOX7yPRondZz84Vp3Kph-yp68VfSJ_Lvc2uBryWBToTPQdNYuVpyJfAya-cLsdBfnYNGS92",
+      "width": 4032
+    },
+    {
+      "height": 1263,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108255932387723886014\">HJ Chun</a>"
+      ],
+      "photo_reference": "ATKogpe3v-kNL-A_qFLa3U9vZFBZyZ7olN7xBhfPm2V2qg5Y_0Wmo2i1G7ITuwMAHdVgUpGqwtDdkDTr5i4eSjnSU7UqOyOy4uIPwhFVXtC2c0UB0JmpoawAc33Z6VQjl7ASO_IpfM_CAsggdHgX2EiGNQcHGt35OtDV3NcCO5c_l6tV0mGA0jJ6wm_CaV-3ezLej6weOTBAQ2bUUH7Zy_PIdBU1PsnqZRSi8pV609CYa1IksmvuK0pxU9XtWK9pciOFJxFj3uVDXkzUodgxoMd9yfcqpyAJvryeTwdUD-jsEcyEoaa3j1GIe6EnO4x_vQsyUQ59ocxmGqaM6d_EtVc8_hTOu13_Po5YhS2AV1XGJaw2B59pZj3vp0PtVd_U8BarbQ2rEDFYpudDSb6Vbs1lTUunm4pMLiM5coaNWZZwbA6FdQ",
+      "width": 1179
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110811324081434713295\">Jorge Yau</a>"
+      ],
+      "photo_reference": "ATKogpcllBBX438A03KIgye0VXT5vUCmigE2K3_GIghrkehabUVs3f4J6KjSUT6zS2bUBQaKVtda_AZ1aRLLNN1iOP-XiZQ0sxtuTyzhs3ieTlnlA6-i4ZwsVZL8KnoBiwQ1wwFpu5M6PgpbhzfT_ORWUjJq89OVIV43SOt3Mad9YNjk9Co1q2fMM3eomk_UA8Qydmr6zB4J9Aj_uZQjVLIr24TOJyP97U5kE0iYbL-ld9D_EbwZVbcYY49vJHs61dJtA-0woFUI6FS7l73I-itG5a5igehsgqoa2vQEdA2oyiHdNNuiZu3w8Qgh_8RwyRlmpdw-jSxfc48C2s0q4gHg6GCWf862l6lGCew6siqEBua5ZFmfcUVQnVpu2XOmxvQPMJW_h4rViDCed6EWm78yfzdQyevcEo14Y-fVLgeiEIV01qa4BGQgDLzsoIcZSgWt",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117557073075994360431\">gammeelovemusic</a>"
+      ],
+      "photo_reference": "ATKogpcKI8S6ExB7vOLkDg32XzlutWOQmO43JQ0eGMQ1Cwe3dZEtGHgm-eEO_BMBJyNHTNtwzHd1dp6g9z9m5r8_Jlaee5ccq-i6H0RDfCANobSt813MomB8NmhIqhQ4ELPv2Zdj_4lQApBM72YOwZV-WpkAidvkssWyvqO_qNj851opQKtvRgsUiTxh4i3raC49uxeiQoPD9cMxAsEvRtqX_Z7sPDj6Dyorh-i5G5755f5cxn3KkAr20suL6l9oH5oggc7EjglmILE4nmJzPCiwFwioWdIaDIhcW5lscKB8m6T4B5NjcSKtA4WCR_8YtM8_9WUNrWCXY0xLgyoCefnsgbrteT2LYwFt4YFY18ygGKGmX_mgryR4qNh6x0LhCZb262oHga_4H9arec1BtdKUbK0RxJu_k3DGcOIs72yTUx3GAw",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117825802928131900571\">Hyeri Lee</a>"
+      ],
+      "photo_reference": "ATKogpfKnSwTr1aEPoXahcCrc7jV-P4k4_rvwhv-xqdrdFCKgldbEHX_VRg5efsfCTx9X65MYrlnmtYrWBnxPCqqm2Xqp_PM6WG39LbtT979XyWGMs8N9NOGSP2X2e9wKkmF6L2Lanzt2M76b0kS_8f05Ko5RdfnDJKIrkhnv-HpJ1zkcslfxZar5_ugwwSdI08Yejxgb1MH8wexDBHf11-g_CUg3P22BNF_bsZ64VvBfeYxXYcGfrPGM0FI3HO4WNgIh0TGF3IyTZjUun8vNgW6JTdoLHj4bW_HOUxdmlAb6q1n3unIdccWNbhkT-KMmJiblkynG2bfCnfL77sjwJAmZDgSaj_DCqPY8aimxgMPziGrNdxTqGP5rvvyj3Ty_EEmN-73yYJowUYYV5tXQoDhDkfdwKumYmwkx1W4agSAYjGTIQ",
+      "width": 3024
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104673845432284781804\">Flory Huang</a>"
+      ],
+      "photo_reference": "ATKogpfUjNj33vT4WrKQSysJBTblgLarZ5ErG8PawLARuGk2nQRQGlFUwgWUoAlpNhegyn_-vAwb7kjqqZd6WrAeuFLQcjOkfni0DQJ0OqERbML_FPvI5jr0NDfbrqsTlO4mez1tihh4GVye6-hj5IFJh_wruc5SjJE5PRcGOse6BwvfNVBA-R-Ylqd3ZEbMSb2KPx-Mdh2e9Wy6jxok8GrjH0rKZ2MggF9WV-WNvt3-Eiz5b51ndaECJzRXjuVnhdHhXytygmgjKPAXgDktJ5KSMJSmr4OwF4IU-Wh7cwpbVC99_VMgKJAEPHRqxVQJmimtkpHIczK2MpRM88rQBov4yIVeM_SoLhcjLoNnwx_q4Gf1xG5QaoxHuYR2JBQOM2U63DumyVml2G8gtqcq1PSns_AknHkH_-y5HcQUIyn46tKryw",
+      "width": 4800
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106179420719418510698\">Born Lee</a>"
+      ],
+      "photo_reference": "ATKogpdZc6lUd1QkS0Py8ft7Wfc1haiEDbFkTzmcIZX0_n2GEqf3XCzfjRkH5GpauDuVNOBZLAGDlNPsGrmXwLLCELE_J_AcGBvVLAmPT1iQZHRXXyDm_9q2ixr78AU5y7NOObfasB6B6hMbGYRZzdVtwpvjElknh0hapSDDYpr-PQsYOo5wYxFCj8FhBYzeJIjKqCDbs3rXX29QKcJq_cOvUquTktunquhyvOxv3HQOSiiG9SzjujI9CqYEH8Qfvb2WiLx_Z-Cq2lgYVElqmWX2NxNNJ2u-DlHERjfpNyng8x6dtsBIpwKUuqMfJuL4GUnE5lvRvi-3pk_g12hrvvqidU69GEJmAnhvh4MrLmeL8R42pRQ9CQUDkHJf0eOdrVjst87hj_gvKK1iF-P4e6Ub4GODYhkYh7qbUTmTLWHu_20T7_fX",
+      "width": 4000
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105420838229728909841\">Natalie T</a>"
+      ],
+      "photo_reference": "ATKogpfYZ8mID2RgQoCYl7OFqgDrqWYwYu5x2MxxA8LB9199B7ua5GSJua1kv_SPJRQHntVhrnFvwdC1th_oUozhl4h25gqa6KRmSZfle8DCv4sY_J0EipjFOi-8JvbgAKVViVSz7F2jSi2DrqjZQ8lmP4M-DcXHvArJTT3vvvrohDEdN1MMsXHygfZXVVSN0idJGQpDFR3lHUDZ-lxSfj7AZRvAzo113QbW_-YOV310PUQrV8Sg6St1WE3go9ymAyXhJ0kFby11KMhkZpBXOHKQp6Cj0lQirKcso4ohK6zTu2gUfKlnZTP2FvbIJwrdoixH5YzQZWar3ID18bMckQWk0N6PfCtva8xH8c-jVU15GSElkmkR4aeu8x9iQh-ueY2MuvqXOTaRyqMLZI6BkDE72XByW1_-5gb_P7ZSGcgRgr5hcw",
+      "width": 4800
+    }
+  ],
+  "place_id": "ChIJeQxW7xZZwokRh32rrkOgatw",
+  "plus_code": {
+    "compound_code": "Q276+53 New York, NY, USA",
+    "global_code": "87G8Q276+53"
+  },
+  "price_level": 2,
+  "rating": 4.8,
+  "reference": "ChIJeQxW7xZZwokRh32rrkOgatw",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Natalie T",
+      "author_url": "https://www.google.com/maps/contrib/105420838229728909841/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIuS8N5wndjCTXSwsN3RajALljronNEwBiHhcmwgSf4FxvBwQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "I\u2019ve had this place on my list for years and boy did it exceed my expectations. This was hands down the best Pad Thai I\u2019ve ever had - we got the beef. It was so juicy and flavorful as was the fried pork belly and steamed branzino. The drinks were nicely sized and delicious. I loved the ambience - felt like an episode of white lotus. Hands down my new favorite Thai spot.",
+      "time": 1745173231,
+      "translated": false
+    },
+    {
+      "author_name": "Gabriella",
+      "author_url": "https://www.google.com/maps/contrib/116128867615211951358/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJqq0w6s0hlOaHaQaIiSKUADR-2PdIv92NfrKD72X8GxkP0t_Y=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "WOW. Some of the best Thai food I\u2019ve ever had. Would highly recommend their Fried Pork Belly as an appetizer, as well as their Pork Rind Fried Rice, though everything we tried was incredible. Thai Iced Tea and Coffee are both delicious! Recommend a reservation, as it fills up quickly once it opens. Looking forward to coming again soon.",
+      "time": 1748271882,
+      "translated": false
+    },
+    {
+      "author_name": "Chanel Brown-Legon (Chanel)",
+      "author_url": "https://www.google.com/maps/contrib/100658963178614735730/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPAZdr8PgHCKWsK0Aib47oh1w0NwjdtXSMVuEVWe01VJshiaVLZA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "The experience dining at this restaurant was really lovely.\n\nFood: I ordered the Khao Soi Gai with a Thai Iced Tea. Everything tasted delicious and fresh. The food was filling and well seasoned.\n\nStaff: The staff was very friendly and attentive.\n\nPrice: The price was great for the location, service, and quality of the ingredients.\n\nIt was easy to make a reservation at this restaurant (recommended). I enjoyed sitting next to the big floor to ceiling windows.\n\nI would definitely visit again.",
+      "time": 1745190879,
+      "translated": false
+    },
+    {
+      "author_name": "Arlynn Rosario",
+      "author_url": "https://www.google.com/maps/contrib/100007736955336322847/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXRcKxwI7CImNwMjjEVTg198KXd2esw3frJZcI_HjKyxbcvOPLnw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "I loved the Seafood Tom Yum Noodle - the flavor of it was really unique and tasty. The crying tiger was good. Every dish was wow! I\u2019m very eager to come again and try more new food.",
+      "time": 1749082270,
+      "translated": false
+    },
+    {
+      "author_name": "Autumn",
+      "author_url": "https://www.google.com/maps/contrib/107083402218041815696/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxrM48VTYUtRahqeeOKAbM9GfQ1VxY0Z5MtVHF414D2K6KeZ7H=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 weeks ago",
+      "text": "The crying tiger was everything I needed it to be. And the orange salad was such a good combination. I think my waitress name was Gali and she was so sweet. I love it when servers don\u2019t make it awkward when I dine in alone. The service here is amazing. I can\u2019t wait to eat my leftovers. I will definitely be coming back!",
+      "time": 1748575127,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "establishment",
+    "point_of_interest",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=15882683248429202823",
+  "user_ratings_total": 3501,
+  "utc_offset": -240,
+  "vicinity": "404 W 49th St, New York",
+  "website": "http://www.lumlumnyc.com/"
+}

@@ -1,0 +1,442 @@
+{
+  "address_components": [
+    {
+      "long_name": "180",
+      "short_name": "180",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "5th Avenue",
+      "short_name": "5th Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "political",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10010",
+      "short_name": "10010",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "5907",
+      "short_name": "5907",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">180 5th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10010-5907</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+    ]
+  },
+  "dine_in": true,
+  "formatted_address": "180 5th Ave, New York, NY 10010, USA",
+  "geometry": {
+    "location": {
+      "lat": 40.7412849,
+      "lng": -73.9901094
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7425623302915,
+        "lng": -73.98865496970849
+      },
+      "southwest": {
+        "lat": 40.73986436970851,
+        "lng": -73.9913529302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+  "icon_background_color": "#4B96F3",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+  "name": "SALSWEE",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "day": 0,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "day": 1,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "day": 2,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "day": 3,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "day": 4,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "day": 5,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "day": 6,
+          "time": "0700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 7:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112314042582322561520\">Sunny Kwong</a>"
+      ],
+      "photo_reference": "ATKogpcSfFGGXrm8_AicX-2UuEEJlWI2305QhkKuwKhP9kvGMjVRGHaOQIsA6pXXaoueSWLRAPWbDdnNUB36lCnBvdqqVrm8WcEOXpxXmgflQCHtEzT0lcZSmUKbOARGRogeMW9zPMQWmI6-zkhfasTt67sOoOfmt0_42AqhBGwcxZODHmOIjoEL7GBm4Td4s2D17pupXd9H2ZWcW7eUAaGqNW0G_XEvrcSy9FySseicJ66UwoKmts2P0FV7Kw8yumjOm87W-iCNJKQFG5IWVXyjDZbs10YY2UhyGxFlzjmq8w8Nnig7p-rqXgLcZ_ffF2vjLBXTlGWt7ZVmJ3PEAm2FyA-j4s5E-c1fKZQPscvbGXWpEnTdnuHPvZJE22oieBoCbL4o7WPpRP3TszppyE0pcc_vspzf4Nt-bsstNudljcY5R9CA",
+      "width": 4032
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110713962896547720342\">Kerry Guo</a>"
+      ],
+      "photo_reference": "ATKogpdtLLc2NauF5XEMTBN6t60sriGHINWOYeAvUzLolCAaGOu0lkepcy5pbteW5L_j3nOgHW5CgLT4CsXwqEGQ6PgkK0bmlFib8KDIyUlVnB8Lw0I35sjFm3CUwcIw-t8jVwrsUIV_dSxat4JoutfLLQPJL1W2zX2AjJMvS3pcV7gCKeoMH_rkKovZp6Lheus72dMfT_pZNOUYVoAZIq3QwbKV3wYcdaREcL9DBWaSdPqamj6rT7WcwhgkWgcIkRBSP3m_SAsP1HANgYaRqBZ0ZgX5WHp9fOW5Z07JJ8rO4xnbJYFjoE9xWwpduE4kjDLA96jrOrT4g-MlQTmF-rhgzMvQ9pOLBZwhfEW-0N7p2q0nXy-_1m-ehaiB8jcyS4YUDTx-2DPh5PuikGE1mGsPla--evHd8kQ3G2zwe_w28_BHGvmPjXXGeojHngYEoPEP",
+      "width": 4800
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111605581447667880928\">Emily Elizabeth</a>"
+      ],
+      "photo_reference": "ATKogpc_aHm-7PX_iS8sYwW6f3HDOX3iMHsvmQuQ3A0y6aHsfELAlQFdrYFBYznvxc41wnDue6uefXxOOBD3fXOd63rhkjGqaXdG5nU7KtXDhtFGZOQ41D83xTSWl4WoBXkDH4F9DdrWcmbDuGMyNheGLsrfn3uz9ANSgOehTSI1XpfrqmdPri9APU-2hjh8NlZ42sZlVmwL5Kkpgc-gdZiK13XiN7IgOkeCjzwksi_URC303EupDN-VYES0LV_WI0IOB_ts8cRtqw-SDBOaaDgTWw-PtiPVfs5NMBjRdN5fj40k4aPzbZ1TjouaVDms92esyuS66miHVvClt0JEVDFtHO9fi07oXlAOWAlICzaqFY87pfiK4BzHIYifNdqqXxYEea9aVamPWlKvBbBzE7iQbNLQB8VPHdJQ_8WiqwDSHDJkAu0",
+      "width": 4032
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109957328046086259040\">Heidi Liou</a>"
+      ],
+      "photo_reference": "ATKogpfIo7qosHuM8B_qCIQrk058C_W87HTJ7SuBsxsHZhL6f3Cun_xDHwHljpYawN6NW7kvaH_oKsH72axFNSen5Jjj2ejqksoEa3ghDQ2T6T-_GHQCu3wy-YIKkRfYtBnSKR00rC8mJEXWrrSbFse-bci1ZUlS06alvVBzNntZiWjDxkJzwB426-bWaEahNRzV3FmsRcWp-zLWHxVEhk_naVI0zNZKAb5zeR3QUwmuhfZ1EmPrmflfliVxfktTEZQCQ8NHJk2M7ibnJbaBmrs89BoP_AsuBxTEKDM5JRPFGigVRqBzYJ21WJ7CZZx9XFMCX2O2OjwWEE5XdtckbdV95W7BdyDf1ePRQ0C6oIROptlQUQkkMqDFWBWyTQV79ifeW98SgKkOM9N6P-QcB-B8DsJJwKO5iNzJw4uvYUquo5cXPIfF",
+      "width": 4800
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104241539974467535176\">Emmy Siripa V.</a>"
+      ],
+      "photo_reference": "ATKogpdFV1-AzmWNC0qm-lFji4VdG65n4k9UFuHdBOOnt2kXMKVs3VeG8jFx8DgH7BRqj2QxOaYpGUbPtipb20XslpdfeWZYaiJU-lFFaowkLKcHb3VUQAQkWT_ZOkGatOt3NJqSDIOZG5XCqWfvDHsaNjoPfJT_P-wSEQaVdc3S1w_uPVemt-Gzcq2g1jqvFRJ73gK4Em6bi7aIcxTjvxPuqRymhe5JNdkU79QZxMgP-ZsyMPTJ6-itMNrAevyykQ5gazLh2IJV0O5MT9Cg82VO0IDx7uKvo1-bqZrgIRgR_ltImjuZk_zzduMpnkZd3w6oh5ZWJ0ccdhzTcE2dtgPOlxMQ1Y2d8vVJd3y4W0RMbI4wsr3FbK5Zh-EeuQYJMkmNLEQZ4J97EL-CEJsD3j2DQ23_KeaO0YK7s9QHLOaHtY6iFwUK-F5CnEN5lqnZdEQ0",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105260929303035874197\">Simeon Klimper</a>"
+      ],
+      "photo_reference": "ATKogpcXzgEdT8dpF5v5r09qbHQGqIlciZ36mqnMZy3e6PRoP4LATb_XdyIbLOtHsVVPIxdOsgfrPQa9WlX9r6NBmrH4wAspCw2WPJjI1KXGQWPH6kWAhSGiI4bIW-Nh0Ky0rwFz3yLRLEe1wpu4GZ3E-DFQ40iSjnWwsJVxFzg1e4a8vPYELYpn8K0HJoMyrIcfCqR1_mVglyIVL4pPqcHdgSYhWEergtqZ6D4nd5iHs4i3c-QVS3pP4aRUNDJVGlEs-N3z_C_dn9br3xbAFzldSjLFMsYL0w571EA00Jj2CN_D-6j8Q3mq0lNK7rP64toiuhnG8SvGmHt4wVVThhyce8fNi1xOZy1KIQvxhVedW4fqHZ8SK3Kg2-drDjZNivlaMeOnQxHwkPG_HHrH-oVwhjROTEhYwtQUeXVWEDY",
+      "width": 4032
+    },
+    {
+      "height": 1019,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116865019007358565735\">Eneri Venegas</a>"
+      ],
+      "photo_reference": "ATKogpedj5X7F6yOuqUrpF21KsMbW88s2nhw267WApeJt7C7m1ykd6JpSEhdEVZ0VeqSJZaQqfefoqwLFFKi0gpCrON-fuzKGeuqM9hCFf_JXuIXgVd-JAiaEhVcBJMAS_St5LHWTO2dUsAG6f9H4MCDybkD3zpYyLPSE3CdeqrAKStgSblm2SycRx750K4Q2ALsFqWn33JHvgpLAPTf95Nyh4K2xyvynOxz21GMqAb82i-qSeizyAqf7sapIB-sksbP-HoodlkuidKMv1ayg31qi7ZQW1T24VQgSW35X-0O7nsnHzpZrjMVwoOVYvsHvw-4KoOXUqSt-hnpJ8M2AI18EoOVXmZRT9bxNukrSwIOmwmpN6royLUWON3-KH11y4DwS4OVEdgWjWNaLbxBGSzh5uTUIn2VZKxGBwG0NEY5jsRkeH41",
+      "width": 1179
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104105461701790173619\">Amin Khoshnevisan</a>"
+      ],
+      "photo_reference": "ATKogpcOpwSDJIQNVmBw-9TBhhOThR72Fztky8gXNhZ2yI0tUBDim3yriv9eSKf8ynTD5bMpk-OB_S35Aii3q67rmTG3twsSd5HaWBZTrTpRVJrLovsIMg3-gCMLLfuqjsB6MXfVQehC7nzu2Dl6XgMH1PeIV52q2kZLtM8Kag3sEdbbH9aMQzw_QHuQ51R2wp0cSxhvwkCrjdDuZtFdtJdsXnuHJ_ek_rBi1rByUou9EoL0FwtYai4AApJng3CS53iQU0UsLK6GEpSOM-Oe7b9W9AXIrVYGikDd8ieh5tET2bHzrCRGuRLT3op3F2Vz3_pjKCdNJJxhLND3NyFrnsaSbzkHgEu2fhoSrnv3soR8MKWfllK-iv70FFYVdGosFOfLBZu1BHCii2r5QbIHC--oj3jYRBzJq3cJXfQA7R71_tfMhQ",
+      "width": 3600
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116783769489590794022\">jillian b</a>"
+      ],
+      "photo_reference": "ATKogpcNBj7u6onlmfv1yPbp-zU1qSMkoQRliZKWnyh3VakqXFYKZ6fwivRvykbJ_6MfiPZCXzWwxHpMLXgy2BLvauMG5T7sYhC84n_rUHSRHF4T1N1XhGYzhpQY5KCwCRFvyjE8egVyURmLaAfJuSfvzu5cCRWLwzxInpRbjGrYSmGQlw5QD4uq6B9jYrcP5cBrwzjQKmwY_oi1d3N78VcVpwsrNcwTRJzukQFB1eyJ98FVfO1JqCE2Dv83wxuoacFPqy4XnE3M1kgYOKkmpw6wW__srdd6dJZtFoBwUiaWRsz1TwH7Dt-BFP0MLM3pZbUTp3xK18pirkewrBk-33VvcMf_PqJpfptSnfLQ_PgyOjaHMX3jzPYKa8OYpRL7tg0TK4csGV6IQDYaj3VTXdE4NvUOucLtEr9ObHR8yHJnQW2ByT0",
+      "width": 3600
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117414669634317027276\">Tone Wang</a>"
+      ],
+      "photo_reference": "ATKogpdSuyfY3xBdENE7I7uTUladlvYC_DruYQGhFBWD3ADOx7GKgSzrILWAF3o0-I90umgJ1wlyxpLlfD0OpI2HV9HMr5OuFVJCZ4TAjnjAWMKJdE6YLYAvBly4GU6PD2AT_nplzR-_jcrUBhVd8X6oBfmfSU_4wS9Qt6r7ue53vZZBRQHPQ0_Web6R4cO0kjOI1nSl4BX2q3dkyqwWglq9V3uk9Nubw2OvukmJShpMrNpubOoQdPFdzr6Eshipi6hHk1nC-OoLc4uiUsKTsLB40Tf1PuxiE7UsqVOylDEfHg95rw-PBzTwUlLCFeiL-bJizMMqPRxA0R-my5OEr3Aa76KNYDDC9TxHxbZUX0Oz250XiV5v12H83ENSdGWI2tz7pPXORhkfwzNa0E6ZWr5k7y46SOV6QGkE0f06Blq_00PV6HU",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJLyg8CaBZwokRbwSEztdB0Y8",
+  "plus_code": {
+    "compound_code": "P2R5+GX New York, NY, USA",
+    "global_code": "87G8P2R5+GX"
+  },
+  "rating": 4.6,
+  "reference": "ChIJLyg8CaBZwokRbwSEztdB0Y8",
+  "reviews": [
+    {
+      "author_name": "Shali M",
+      "author_url": "https://www.google.com/maps/contrib/106094694864831390831/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxsm2dSfubmuPq6P4cRQZSNO2jSs_u4TBuWTN3Moo1MMrlqhU3gQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Absolutely love Salswee!!!\nPastries 10/10\nThe pastries are stunning and true edible art. Honestly, I haven\u2019t seen pastry work this beautiful outside of Europe. They\u2019re light, airy, and not overly sweet. We devoured five and could\u2019ve easily gone for more.\nBaked Goods 10/10\nThe truffle croissant and flat iron croissant were incredible. I wish I had tried more.\n\nI had the golden latte. It was caramel-flavored and a bit too sweet for my taste, but still enjoyable.\n\nDesign & Details 10/10\nIt\u2019s little touches like the baguette shaped door handles and beautiful coffee tech",
+      "time": 1748535729,
+      "translated": false
+    },
+    {
+      "author_name": "Chotiros Setsirichot",
+      "author_url": "https://www.google.com/maps/contrib/116688988453826575262/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIlZgjMlfEqk_pSG-O3Cej4KOZKRJQjtvG8r6eEq2DYyI7XFA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "a week ago",
+      "text": "It wasn\u2019t the best but it was delicious. I ordered chocolate banana, cloud, apple and lemonade. I\u2019m not quite sure that was it because of the weather or I took time to take a picture for too long, all of them are almost melted. They weren\u2019t as crunchy as I expected, but overall they actually tasted good. The apple filling is a little bit sour, so it made me felt so refreshed after I walked through the hot weather for all day. Next time I\u2019d like to try a strawberry croissant.",
+      "time": 1749951103,
+      "translated": false
+    },
+    {
+      "author_name": "Xiomari Caban Garcia",
+      "author_url": "https://www.google.com/maps/contrib/111352947474610511024/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU5c70KEdSj8xsPobDFUTob_FMLVqqmrp2hEAjQbwwU3Ojq50IYng=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Get ready to sell your soul here. It\u2019s pricey but it\u2019s worth every penny, the pastries are super fresh. Great quality flakey, yummy croissants.  I highly recommend trying the hazelnut crunch cloud cake & the mango mousse were my fav. The drip coffee has a great taste , also freshly made. Very fast and friendly service.",
+      "time": 1749837784,
+      "translated": false
+    },
+    {
+      "author_name": "Jessica Clark",
+      "author_url": "https://www.google.com/maps/contrib/114635772266048438114/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgv5sfhsStWrSkM5pMocekc9RFjHbZkK9WJmDI6oLGrBGDqhaD=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "So good.. my husband and I had a morning date and had the orange and the banana cake. I am not even a fan of banana, but it was so good. The orange was my absolute favorite at the store.\n\nWe had a lavender latte and the sesame latte and both were delicious\n\nWe grabbed a savory bite with the mushroom truffle croissant and took two desserts, the basque cheesecake, and the chestnut cake for own friend.\n\nThe cheesecake was divine\n\nOur friends that we dropped the Chestnut cake off to said it was amazing",
+      "time": 1747330444,
+      "translated": false
+    },
+    {
+      "author_name": "Angela Liu",
+      "author_url": "https://www.google.com/maps/contrib/107634871958840541677/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9gnv8qDO_oPl4l0qX8b8suhWc5MGi36I9VZF-2jGFXtrkVEoAXQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Every dessert here is so beautiful and the two we ordered were delicious. The mango was the perfect balance of sweet and sour, there were even mango chunks in the sauce on the inside. The yuzu flavor was tangy and the rice cracker on the bottom pairs perfectly. We didn\u2019t have to wait for a table at 2 pm on a Saturday, which was extra nice. I definitely want to come back and try more desserts in the future.",
+      "time": 1746297090,
+      "translated": false
+    }
+  ],
+  "takeout": true,
+  "types": [
+    "establishment",
+    "store",
+    "point_of_interest",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=10363136612694754415",
+  "user_ratings_total": 1415,
+  "utc_offset": -240,
+  "vicinity": "180 5th Ave, New York",
+  "website": "https://www.salswee.com/"
+}

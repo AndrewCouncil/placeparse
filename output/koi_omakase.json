@@ -1,0 +1,607 @@
+{
+  "address_components": [
+    {
+      "long_name": "55",
+      "short_name": "55",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "5th Avenue",
+      "short_name": "5th Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Park Slope",
+      "short_name": "Park Slope",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "sublocality_level_1",
+        "political",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11217",
+      "short_name": "11217",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "2040",
+      "short_name": "2040",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">55 5th Ave</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11217-2040</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1530"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1300"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1530"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1300"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1530"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1300"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1530"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1300"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1530"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1300"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1530"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1300"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1530"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1300"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 1:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+      "Tuesday: 1:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+      "Wednesday: 1:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+      "Thursday: 1:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+      "Friday: 1:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+      "Saturday: 1:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: 1:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM"
+    ]
+  },
+  "dine_in": true,
+  "formatted_address": "55 5th Ave, Brooklyn, NY 11217, USA",
+  "formatted_phone_number": "(917) 728-7563",
+  "geometry": {
+    "location": {
+      "lat": 40.6810537,
+      "lng": -73.9770571
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.6824483802915,
+        "lng": -73.9758096697085
+      },
+      "southwest": {
+        "lat": 40.6797504197085,
+        "lng": -73.9785076302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 917-728-7563",
+  "name": "Koi Omakase",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1530"
+        },
+        "open": {
+          "day": 0,
+          "time": "1300"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1530"
+        },
+        "open": {
+          "day": 1,
+          "time": "1300"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1530"
+        },
+        "open": {
+          "day": 2,
+          "time": "1300"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1530"
+        },
+        "open": {
+          "day": 3,
+          "time": "1300"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1530"
+        },
+        "open": {
+          "day": 4,
+          "time": "1300"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1530"
+        },
+        "open": {
+          "day": 5,
+          "time": "1300"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1530"
+        },
+        "open": {
+          "day": 6,
+          "time": "1300"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 1:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+      "Tuesday: 1:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+      "Wednesday: 1:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+      "Thursday: 1:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+      "Friday: 1:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+      "Saturday: 1:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: 1:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112552548518372585050\">Koi Omakase</a>"
+      ],
+      "photo_reference": "ATKogpdmZQ_CcyjZK1FrhXgzVx2v0yYJS_JijpKvAq1WsUd8skoetwxVQzIS0CXw6Pj8-xpERv94WMMUGOoGoacrf8XET2s7N19c8YEygUsWQvqnrRMqYiQhnToppnAf63yrjdMLlF8XJg7gwpnl34py2Zc2EfqYwbMhaFx4NY3KWpU6g-ZnY-jR_NlOOM9TAJ0pepMdrBz_UWb9ZZycBXKkH1qpqAn1D7HGHt85MtsBdyCvS8xHEoL12CqEgDUP4jvuuMhdQLJHzmFPFe1qz_h1_uzDUfhKD2UqSDaVIcWR3jtGiQ",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112552548518372585050\">Koi Omakase</a>"
+      ],
+      "photo_reference": "ATKogpdbA5lfEcFpjY_6ljlVyhwh5vtkdqJN5DXhM8I5O4B1ivXJsvac6QF6XQ3l0XQX6cTYniRMUqMHOxOu_6RMaGROgOSN-bPiwSNa4Zf-CM3OIfqDzALQpSzQkkrQSEUCeC1WOJvwQOCHSZEC5WrLC1Ldm8A7E_aqJZQDkWhM6LWktppzWBNIgzwVRbfX3JolAsJttrd5-_K5HYcsWEBPyhjYDyz8fpM286Gt83jIaTt_U4OXNGjxYbPzsQ5AcTXTE--kKG9Sh8wlRKA8STVugelTu1x_i_iNTvw-FqLA2xAy0A",
+      "width": 3024
+    },
+    {
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117263433080056883758\">Evelin Woo</a>"
+      ],
+      "photo_reference": "ATKogpfzWQR_JZOnm1IpR1YeqkfwGSUUVM0tYUfksOaFFLn-RDMGUVg3RW6_KYvAeZpYnwMGTP2LmFPxP_HWHe73KiZpR5WrPlRnaRrIEhl1aRLMHkc2dUhzib2n6bBlhJBk1XU2P_cf7IzFRhXArb5MJkxzJ0wEOdFcw_CYib_xArlcwNM1laTJ3OtHLqvCTfr9Ssl8CzCn4612y2XEJSPLijzFSeQLQE3ejI9sdtxw6GnG4KqLOOEaMx7w23E-MPCYQLbjU0OZhlGieVqMIS5aXBNK6vMjZqhmPMkWytdsrzOGIYkjvYB0QQWoKkVjoG8O9dTtLaep31fWrU7wrKe0MyrOn6pMGLQwOoVjpdvIlvXZYAXELQWtaYixkZe9-Ntf8AcsHZlBfk761WAQnoI5XipORVPdCOkC5J_TEI_4Fb6Oy_OovUxFYxWmGOYrv6h6",
+      "width": 4000
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108224216353416988915\">Eliana Glatt</a>"
+      ],
+      "photo_reference": "ATKogpdQWPD9OVj31P7I7XC43MZG8ITz81ZvV0ER0PizfbGWZ0Q4l1Ii3ArwLeZrAA8mOY6qwhW2eUCthAZqikHd73E2PLFbYT_NwZrdvWqAhpCM3samDZlsNvw6JRx6m4LE2_oDjhoSuMNHsjRRdw9_wwm5Vl8lBCxx_aD7vZrCWHRlJXymTKNylFIAjZtXGMtNoKai2Q5-IMLLQBbtldn7k7dNtd23d0R2DfKAJ9xwN-Ncu32H4Iyc3T0arahjyxBGQ8BOUL0OQFy1uLTegT5fQSn9o2SaxHGImsqbDEwmzcvwXc4c3tHj8C_xQuKj7DEm6CfchT2cywUD2gVqyEncO0bL8oZDYaL2wgzvb_xIDsQ0in7IkVvEWikojHTQXI5GMtFzp68RW1EUE-czcZsL0PmfOwxAA615LmKakk3im7pYP-iM",
+      "width": 3600
+    },
+    {
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117263433080056883758\">Evelin Woo</a>"
+      ],
+      "photo_reference": "ATKogpeasiqyqnV_jd6ZX-A1zPjZc2XkydEVoqGA5-ApLE76Ft7VOKi8Tjs33e09004BK0QvduW3SDCbydo8yeUpGzxMNpetT5YUn2mk8mdAPa8tLpgYTOdH81PqXPmRyejNaFLEMUtHM3snYEWKi99w4yFm5LONQo9aOtIAR_KdAxbi6YQzqqUuKfxB43dWk3zPV-_sJtf3qqRzj61Sj9W16DwWzwC9-Qgov2GeVjWRkxffld5KAFmdyygKcQxuJfMt35PNs-J4EkVjCzwRUafGAqTh77E22p22U-zIRzyATm_oTOTa-LmnvPS6DMI7IZwk6_Ku577VjdvhVJSC-mwVBZdKv1fKwMHpQtDMPst3qotxYwHwWKzcj7HO73UQNiqnVHP2qJuiUxQJvSZxKOieumshe8-oG0PBJ64Ovs7qKzfKr5pdZeDTAgm4Ko_svbNv",
+      "width": 4000
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110348758182831593593\">Ryan Zhang</a>"
+      ],
+      "photo_reference": "ATKogpceCDe_5fbA66EmTiGDrjKmok7l8cPq4FLwsaw-UEu_opCiNiXiLrmbrQ7uWvGXIgWjRyrjIk9c62sSiEjheww4c2F9oQ1kvDB-AjVHia1H8yEHuCtugvXJusVS7Xv1HGnmNs3eliFUrvlE8wJysVVNduQMZOJfc4l3ESQjcZvU73v5CvyeipD12a4oV3OpBEjVrQoLpNdKIPVxLYadHpSVQULlkMcvnqLCqvkfyaL1MhgcBK2AhE04sA5ziEbnn8NsBVGUfsBq93U0-R7G0pXVI5BLYVU4dgJLVdew6GOJaxd69cX9zyYD9WRnfYYBbaKhVv73bnk5C_W0Gktf2kZ82lIZRf7IZ4dssz06gS52FnYtQvrcJdRAVM9QG0eZTxKyGPBrju43YpqVbDOrqekLLSwbv7_IgQTFA1srpMOQHg",
+      "width": 4080
+    },
+    {
+      "height": 1814,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109024998992982761725\">Erick Nguyen</a>"
+      ],
+      "photo_reference": "ATKogpeDZagM_CtDuMpuQfDKdXy7-6Uw8ipe62CnmDCxa4EFcfmuY6w7lIv3lEnVlhdaWArx4Mfaf-ejXX69AFQaH4HBpyyTjcTecilZJucbApW5YjLKDV-4PVASyCdeMOIG4xm5luwhrJtf1PAEiMNMSNE_uV_RyGOL6MsvFSE7w49tqqlEcL2q9Tu4RJ_Rnpv4OkOI2EHr6wTPhkgpSR4_g_up6r20LbzzIyQ2WMKLCVH5uK-QCx6N3KpvJ1cHkPjW7cjDKeiA5H-pzq1LQhyt_YSQVQ1LGwX9v2udXWAPINsaZ6Y37yEC1K9_JuzMaMhgoZeogQyJMRzsSl3PKCKqn5V2zlm51rtip2Kbxy6Bvgx_60-F3ySRel9bOi8axoWssmEIiviRBMK2uTjacdTKqAmVAPDEy7RAiGr3Yfe7DS8",
+      "width": 2144
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110348758182831593593\">Ryan Zhang</a>"
+      ],
+      "photo_reference": "ATKogpd9BkTGhUcifVrq_IAzhmg2UCfLmvGUivIFs1yXaZ_sjeHRkeO5gMkYo6KQre6NJoYOpjKTzoxFLHpsAPjprrQcs_YkDdprWRwENSztywyiqX3b-9TPzaV2WuIrbu8QJH-eTeYU3XuBbgbqbgYCtZgS4L0yPAw3VQ_i7ewWObUQt8Ra-vSllJRej8sccz-gqxeyDpalCpBh9pOhjq0fARwinCf9hURtIQqCq3XlLt60Z_nJh2DZAIJgDJzi97amyHOPtIf3pscn9eICV1mvQx5E_BGW6Hj7GZF3_pR12sfiQzC2DLU5L_Gu0Fc-YjQPnA7a0r5QU8RJAPR7eQJs64Z5pxHTAVa9woEosb-3XSCbk-6kb0DE5Sqs1DVW6iULUWJcY0wIH6VaUO0BfLyONyv9Wxg4pNdmyqcSqBR9UcE",
+      "width": 4080
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113702036621912713782\">Quianna Hoang</a>"
+      ],
+      "photo_reference": "ATKogpcBSgSGcBcAqWqSFWGxq3nHxaETGutWbqJrS0X5RkF14jQCBp8el1tSZKe6fgv6QOce5E_84bDn4gO_Owup2Mqg8d-4vyJzTmPQKgC7iJLZRrGyQdn0-H6hS0Vm3xSOnWuGYxa6fU-c8la-VY2G7PDudfloA0eB6VV7Or6FtgtlSFRtEZKHKLqHBI0rmleprtaWhqZ5jsw_ErckpIQ-b1sUZ8F7UonfQcmGp5Gf9hTyz9WKXIkgiWCmZEYW_eZx1CTjuAEvZMH0WENS0YPIqxmbcky87lsaSw5lFmLrQB4orznpX97wwxTvu03Kj8PFHje4fssiETAmMkdNbbIwK4H7ZR_hMCYfjf6uk6Jvyf1mXPG7nMN56B09yS0eEPdBJBFcdWE_JiKyA1ENzgi-qGxnmw7JtakG1yByF4jwmzRmcg",
+      "width": 4800
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108224216353416988915\">Eliana Glatt</a>"
+      ],
+      "photo_reference": "ATKogpelG_nsIe-zIVW3jAMU3Hvl8gX0KxRT3mw9MCAfGzJQqZizPDa-J_mtWGQdqW62qvNGjfyeqt4anEt6BFRexnf4B3MwOVUgmrJ9bxYnN4l5WuCfpLDkt37rTDmrD8SI74u6Lnp6bIU5ofKdjRHCgofb0N-Eaam8aRh49uApDlP3tSsQavlSQ43j1QdwPQ4baXTTKR4U1ZYw6kGXzRP_Njk7HjCukKSmd0bkf8o5zed3T0DQviEmMtAkZ4CS2RUofljUO786R2mkgtjR3e9H3AWh9SlaDMW-aDzwLTb_5n2Tj9_CzufkeaneUtt6ANExqvmWvV_ul4eK1cb51zvLx4JQktbbMelHYaI10-Stxy--8A1wXon0slqWD3w5PQNRJPkpvfIWcYgQHcyaBlBik_SwWh4PMe0sUUpBTOG-4p5hhLo",
+      "width": 3600
+    }
+  ],
+  "place_id": "ChIJSWqCsoJbwokR4sr-BlYWi08",
+  "plus_code": {
+    "compound_code": "M2JF+C5 Brooklyn, NY, USA",
+    "global_code": "87G8M2JF+C5"
+  },
+  "rating": 4.5,
+  "reference": "ChIJSWqCsoJbwokR4sr-BlYWi08",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Kyu Lin",
+      "author_url": "https://www.google.com/maps/contrib/106878094085076095868/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmjsM_LlEkWTTl3iFkCYEmx_A3oavEBPoy_1Drtwy-oDQnOvY=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "I\u2019ve been to this omakase place like 4 times already. I would say it is great for its price and I believe that it is worth every penny. However, I never had the BOGO deal that they\u2019re having right now but I\u2019ve been to their usual 69$ for an 18 course per person. I think they my favorites were the otoro with caviar, salmon with foie gras, and the Wagyu with uni on top. The chefs were nice and very friendly. I think the only thing was that one time there was like 8 of us and only 1 chef so it took longer for the food to be served.",
+      "time": 1749477891,
+      "translated": false
+    },
+    {
+      "author_name": "Jessica Han",
+      "author_url": "https://www.google.com/maps/contrib/118171362135660370290/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUxg89UwgDOThs9lRRLXSr_xBrSp4wrv1aRoNx3FHhhKeZ_hhbi-A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "a week ago",
+      "text": "I came for the BOGO $69 13 course meal. The food was really good and I liked the creativity in the toppings - my personal favorites were the red snapper with chili oil and shrimp with uni. I had an enjoyable time!\n\nIt was my first time experiencing omakase - I wished the chefs were more interactive and explained each dish more in depth. It felt like they were just rushing us out and the waiters didn\u2019t seem friendly",
+      "time": 1750259215,
+      "translated": false
+    },
+    {
+      "author_name": "Jesse Yuan",
+      "author_url": "https://www.google.com/maps/contrib/107151196602471892701/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUaGciavbxCPFvSAYJKtogLkQy9e2JEoLBDpe7MHoWkeQAHefzS=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Fantastic Omakase and right now from 6/1-9/1 go and take advantage of Koi\u2019s BOGO deal. $69 for two to enjoy 13 courses is unheard of in NY.\n\nEverything served is fresh and flavorful. Staff is quite attentive and it\u2019s simply a great inexpensive experience.",
+      "time": 1749954516,
+      "translated": false
+    },
+    {
+      "author_name": "Ha Nguyen",
+      "author_url": "https://www.google.com/maps/contrib/106018722712658376003/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4x8tnNdavm4gUIH3jBcfwAthnP1bdybz5HgFopno_fTFoTF0=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "It was so delicious. My friend and I had the Buy one get one for $69, 13 pieces/each person. It s really fresh and creative with some flavor combinations I hadnt tried before.",
+      "time": 1750900387,
+      "translated": false
+    },
+    {
+      "author_name": "Eliana Glatt",
+      "author_url": "https://www.google.com/maps/contrib/108224216353416988915/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKxAEm56VGKGAowC-xrSoq35YjVmC6-ktddlIO9tDmf71RmEw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "If you're looking for a top-notch omakase experience in NYC that won\u2019t break the bank, Koi Omakase is a must-try. From the moment you walk in, you\u2019re greeted by a sleek, modern vibe that sets the stage for an unforgettable meal.\n\nEach dish was crafted with care and precision, showcasing an impressive selection of nigiri and hand rolls. The fish was incredibly fresh, with delicate flavors that really let each piece shine. The balance of textures\u2014from the melt-in-your-mouth tuna to the firm, satisfying salmon\u2014was spot on.\n\nThe meal included a miso soup, which was rich and comforting without being overly salty. As for the dessert, it was a sweet and light end to the meal that left us feeling satisfied but not overly stuffed.\n\nOne of the best parts of Koi Omakase, though, is the unlimited sake. It\u2019s rare to find an omakase that offers this kind of value without compromising quality. The sake was smooth and crisp, pairing well with the variety of fish and helping to enhance the overall experience.\n\nOverall, Koi Omakase strikes the perfect balance between quality, price, and atmosphere. The service was friendly and attentive, and the pacing of the meal was ideal\u2014never rushed, but never dragging on. This spot is definitely on my list of places to return to. Highly recommend for anyone craving a high-end sushi experience at a lower price.",
+      "time": 1738764775,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "restaurant",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5731699509499448034",
+  "user_ratings_total": 253,
+  "utc_offset": -240,
+  "vicinity": "55 5th Ave, Brooklyn",
+  "website": "https://koiomakase.square.site/",
+  "wheelchair_accessible_entrance": true
+}

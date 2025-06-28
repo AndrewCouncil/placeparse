@@ -1,0 +1,441 @@
+{
+  "address_components": [
+    {
+      "long_name": "104-58",
+      "short_name": "104-58",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Roosevelt Avenue",
+      "short_name": "Roosevelt Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Flushing",
+      "short_name": "Flushing",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality_level_1",
+        "political",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11368",
+      "short_name": "11368",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">104-58 Roosevelt Ave</span>, <span class=\"locality\">Flushing</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11368</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0600"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0600"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0600"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0600"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0600"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0000",
+          "truncated": true
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0600"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fAM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fAM",
+      "Wednesday: Closed",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fAM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fAM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fAM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fAM"
+    ]
+  },
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Straightforward food truck doling out generous sandwiches with ham, beef, sausages & eggs."
+  },
+  "formatted_address": "104-58 Roosevelt Ave, Flushing, NY 11368, USA",
+  "formatted_phone_number": "(347) 666-1517",
+  "geometry": {
+    "location": {
+      "lat": 40.7502543,
+      "lng": -73.8595942
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7517048802915,
+        "lng": -73.8583168197085
+      },
+      "southwest": {
+        "lat": 40.7490069197085,
+        "lng": -73.86101478029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 347-666-1517",
+  "name": "Tortas Neza",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0600"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0600"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0600"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0600"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0600"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0600"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fAM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fAM",
+      "Wednesday: Closed",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fAM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fAM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fAM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20096:00\u202fAM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103432624720564477327\">Antonio VR</a>"
+      ],
+      "photo_reference": "ATKogpdcSBNRus8ub6WWoeFoY-Iobagr_tv8q70DCAxDiTsTygbaRy0cPSHK-4c-mghHoWDn8Sk2vOaFUs-1TfpFsKINm8zKbXSGQSyAfZWeDZikNpQVuE1Klwvy517fiK3dVUiGcOmfw4mFSQecC4XJQEDy6_Fo3ys7UXBGJA0ffgh8d6f46OhPuNkGfxH9KZJa-TZHzqgb-fd0-oMFX38zT3CgDWg9g5xzsIwBCtHa-6vztSdTvhVIqQWDSuDQKbJaFpkT2BGbrGGo2Vh7lAaFEDQRExj4-xG7Fgw1H6bRWkWkW4L1p_KtjbnvGfDJ7DE7JCcM0XWIJ42ykWWQ1LBdq46RDJBmKS8agugjMNwwjiZy4TrlVudIHD3k1i_ccV0ycaoYd-Ao-jnB7uMOI7ec0-rdMq6qiOSOx9JeTxLcGuwdgvjU",
+      "width": 2497
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116723695975542368456\">Ace Portabas D.</a>"
+      ],
+      "photo_reference": "ATKogpcJjJsYtRhbt9DHvcs82GtCpuccJh_GVFcLqaygTTiHWeXcVszqhUe5VHu7DkTAZG__CNBu2kJIM7E2Vl917fu-XJBVoq_BoKSPt0k7c8Tc0mUcHj5Lo1vNYCkmJB9--OR3szKhyX647Mwr8KsnPJGsx3y7RC0hIUHqvyDJckoLGof_UVd9DtvR6p_36XWrwtD-X-7abDYRxBGVnZf6zQXRH2Z0BBP9w741ckZf8iLaGpNxj7YAzsNw2TuBtR8skPaHlWK97EcvPRSz0ItNRtimCxV37dZBYWk_S1VBBuNQ96xbqUjMvg-ptI1s9Wrxq7hzDr-CPls7T8lvl1L_hDFeKNXD4UPDngmL2iC3v7ehBZDAgllh13Q2W40vedQaZhJoTRv99bkKtUm4yUwcS6OaMwqnGjPbFChqmAivstY",
+      "width": 4000
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116575827672995683109\">Xero Requiem</a>"
+      ],
+      "photo_reference": "ATKogpeioo4o2C0670V2u-T3mTG8_W2spEj-QkbHVFOBbMi3o6L9G2F9l2Bh73mIGu3rLE_xohTq25zVaY5bMFDHuqJGdX5tvqGdr123GKdaPdYyRpypzFy5lWwUYx68pGdtmYPzTEq7EOZE2GUhlwqpT0A1VW0M9_FdTWNeuZK9B0n2HZ1dheafkSaRLpN1WS4FjiJKYWggZTfuw-TuUHRVX3fnCHG9SaXqz4PBrMFw9i1El4BqwlnMplcQCX4A7RjnTSiNGPf_sGZIiuOGzQT64HcS_-WIJ1bpjnr17DJlUsmHZWmU-zPtJN4DRfZjF0PPTK5e6zqHK-Htz--mHscawxe02_1BfEiOlzvDoNRhQmH4AEZZlP4sfEByU74Z20EQGc2nQqyxRdZLUxDx6Y7le-1OQds-5gjFRLcSA8mYY3X8g38",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111771178027364275743\">Joseph Tung</a>"
+      ],
+      "photo_reference": "ATKogpfaAGpe1pIAz0tbekRLFBMIv8_5cG1Gk9noL2MHDSCglx521RMHDKHHLCue3gskE8Z-V46UdMWPJmoLueRRJ4rFYbHdNQS0uXZYiUQUBlSnP3HdgyQpJ-IcOk-EwfFgV3-aUceMFYXGm0hqBwq1PKUnnbrDNnvgworX4RVwidLGZS7-ppUTSV3NUfEkmxzzqvWC670-DJMAYoUjGuau1xci8TuTFaDesDdzBVteawSjdy0mcI_oLIBYeb14yEhosmZXBLJkQW_pZlM0I2riOlqx_JkwiEzFb-0TRQjxasCDZNW2EhzCFR3RFm0LBQRMr--YxruXUnxVB7oQ3jBrjqH-gdndCjusW5Kdxr9_EsQec_g4sG_K_n6a6v5c9vJJ3b7lp7-HrRJkYQGOOM9hHcsFTJu_KTVLjIx2XDp5Uzc",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101907275880643282377\">Leo</a>"
+      ],
+      "photo_reference": "ATKogpchBc5N4Vjps9jv9Vd57sjZXz6U4JLr81C2VW5fhvuGnY146S70Tk0gW8NefC1D1xeurayzfErUrVH0TaU9aNRnNv3GTDaun058gsONAjy5TC46ijvSa2RL3ZT6maj_Nt1G4oGT8aR6kcn1fxG17c28WMw9vVQ2pKqjpyHPQLpAH6Vs5oeT1c7dzUQ7q10K_ABp6ZMLqltbOg43hPpic_Z25wdfooPvTkwTSi6k9-w9sBBZTWX1MuPRYfWbKm1JU54kFXOjgA2ylvthpxpbXuIxqlaj6cRAvMDxPktrO4r6RNuqaVAwiDkcdXE5CmEW_MToBZO7eHuTwf0_a2rs8IGSOK4J1-_0rFOLY9VZlE0wt0NHo7Z0RazsgNNJQkLrwZcI0btSmjPVS3k2lsjcPmXSCBAuF6qYLVCFHwtHxZhCcArr",
+      "width": 3600
+    },
+    {
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100130086979528157176\">Brett M</a>"
+      ],
+      "photo_reference": "ATKogpcEomSU76ZvZ6WVAKGFcZWLwFtFGomD2CNFz5VgUPqx2mBl8KjNSu84PGR6lDePqbFWN6mkIpaICbD1gtM4ty1Y-bUGKRr3CBWKGaehcxlj1kAXPit6JYzQw_U_xrA_VpUrBtGlu3jDGHtKliBNgKX_uwoSomBFdBww-xZjYvoHur2I0GfIWStFXAwuuQxXbzBH2fy2aDqbSUiYWTTTiCfgYdl1AsBVfyzJXTHykyCiCZFwbR5i4gLpBiPDQWoSQjJ0-jeSgFrcgg_SIejlvLDeK_pJZJsokcviWTGYG23zUtwVS8GbZhiRyXcjmCe88XgEeGzulI1knO5Bcijg6fHOBlol1tBzeQdrJZNn01_JWJxC7HMMfX46VfM4hgYdNTTJauGY5RiOia_5KHQggvuX45LtqqmC_u1AvzaeT-ZtVy_I",
+      "width": 4000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112331112393068079930\">Reggie Thomas</a>"
+      ],
+      "photo_reference": "ATKogpesNpi3ubg6lIGfgWgyuC70E1X3L7oBxcKVR9WqT1oMBXchRigEysZpodgofYcpgLyARUOTssfEzfoDazN5RsVKD-U_QT2nLxpf6MH953EiS2wsKpnMUXXSUeTAEck3Nv8FeNypxLLnokGI1B-hjuU_b2177Oi9ajlsmFvW_5Ga5XyAH7iF4hbM2Q16M58Woro3rkk1xGV_J3YjGVZAYCVC3TNLNVrFW9r1MFibBB9gYrUKB3lQBGcuQAxcHvUa1RSqceGl8xHi4x03aBez2SRRG-3J3A4X53X4DyO8wPXs92NSksF341xQCYqrjkqFyEZF2Cde4ZcjxaziOrEGXR4VQgCivmywcGESKjamVn-AO7I7W4xUKtgiTWcys1EsVAc0wFr8Cro2vgva_2_YmBDlcohN6TDqd_QH5Id1aiI",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102908725924031971153\">Robert pineda (bobby)</a>"
+      ],
+      "photo_reference": "ATKogpeCfjdwrpZjEAMMPA3TJUb-9G4MRLoHD2hRG6pT80ljmbyoDngjwXDjmUHAMghTerXOoJ1kTD81tLcxRIdOB850gxeCNGSqnJOhCvH9QJuhPaEe-oNtAGu0y_VGUxg7JksgZP45tG8jbpceOKDe-udGtPx9x2ZwOdsyKZlE5kFNxY9iGp5ilZC24ppq-Iyb18yBtybrQVEi-onqDNsECUGZhaPWwJPZwTkolN2ut558X2ATAyu-BkqERdmxANnB6Z3F2BhBbaAt2ncNe6m8Ku-MJkp1Uybpy4j8Xf5hcvei6NKmBVDxwsdiKYVP3GrNm4Tk3AGFemqmsJBA8woF1I5PWu6E8SzxOipoAeBeron2Gq0IA959nBxRKHUDyKGVki4oZX6RNLqOU8DVGeGiqEztfhuux0T8xwPOUE5Nr5hFaw",
+      "width": 3024
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112879667424290841161\">Blanca Solis</a>"
+      ],
+      "photo_reference": "ATKogpeoZS7WrOnywfi39NDnbWwPjko2das8oEaA1P3augAPn0QvwG_1lvvwmaXyc4LChyqlw_4EucV_f4C7o0fKzm2TYedjEIKQo6GfB6NPsqMF1mmii_xIiccwsfhI5yMg0Xf2ksGGlpLBvEM8BeJJdnTuZQh9OzMCbWIBDZplAjZ0kRw2H_vHzHc8aSnr6QNxQD8JmqcE7VKZwb3vhOSKJzvFV07lZMgB41sQpj9yDAegHOZwUUqYzO5sxKx4ucnKyNSZ_iVOBOKKfBVRYgMww97R-KPO8dT9VM9coVuTeCaQzyVfmEraT6XhrK5bD_CpN1_NrxRE7F9-RE9jnaXISq6E17Tr0MegwzUBcsk6IBl0H3BLdNl-TuHfkquhMWeg_yeVe_yvXT7UyNGOeE8f-WSz2JksE3FmVExX9LASzkiqeQ",
+      "width": 4000
+    },
+    {
+      "height": 510,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108469970005990940738\">Me R</a>"
+      ],
+      "photo_reference": "ATKogpftbVXteFygal8iA7GoHvTXgq8GNobRYlqbmP9okyhROKgiTsV8zJdD2PRDJqBW_JdJCoophzquYAYxAlFDIpR-5dcIIwpVbmCVUvB9CXwWbdDf7O5veUUyqp-ACUtKRXqCEdtUcbGkz6Ug1Sj3mcDBrrwUv0gHmdFklmIi7zO6AtbnqddLo_yY66GKBz7I9VZ5c7HpgNFJ4sBur37cZbhonQ6y2BTQu3DqtoLX42CC_PEMCg0zTLjnY0OmBYhemxdaifqA6TDJzDX_8l8NGXQh15MSleyfV7za6nJbNlnbDTPie9H0z0yic8LZG8zRK1jpcDiA0S4YiBqIUqjjcu9f3EmozZAan713YZa71qnrwFx1S7Gs2koEP69MYYj-RGLcyrNJAwMchEGENfsBns1Dy028q_s-I0NnIrNch8aD-64y",
+      "width": 524
+    }
+  ],
+  "place_id": "ChIJjWjjZmlfwokR6fwfNr8fsXc",
+  "plus_code": {
+    "compound_code": "Q42R+45 Flushing, Queens, NY, USA",
+    "global_code": "87G8Q42R+45"
+  },
+  "price_level": 2,
+  "rating": 4.1,
+  "reference": "ChIJjWjjZmlfwokR6fwfNr8fsXc",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "aandgdesigngroup",
+      "author_url": "https://www.google.com/maps/contrib/100540323052494772949/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKnH_PgyI0wcgf7V08z9_89txMdBu_lxwyEw8-Lnv39q2r6YMM=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "5 months ago",
+      "text": "It was an experience and it's not easy to get out there. I'm glad we tried it. The idea is more appealing than the product. Many choices. LARGE portions. But, the bread is not good. If you take your Torta home and pan-fry it, it will be significantly better. We got a beef one, that was similar to a Cheesesteak and a Chicken Cutlet one. One (1) torta feeds four (4). The prices are fair.",
+      "time": 1737234156,
+      "translated": false
+    },
+    {
+      "author_name": "mt_legend _10 (mt_legend_10)",
+      "author_url": "https://www.google.com/maps/contrib/105956669406351042573/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXA6hXqYLMyy8yp08HcLyKaxZX0nKTjYGPxg0_hIgORwhYkoOQ5=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "I came on a Saturday at 1pm and waited 2 hours (they open at 1:30pm everyday).\nThe food was amazing, and for $15 u get a sandwich that could feed up to 3 honestly. For the impatient people, this place is not recommended. They also sell horchatas and other juices. Overall everything was good.\nCASH ONLY BUSINESS, DON\u2019T FORGET TO BRING CASH.",
+      "time": 1688301328,
+      "translated": false
+    },
+    {
+      "author_name": "Leo",
+      "author_url": "https://www.google.com/maps/contrib/101907275880643282377/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVwQUHota3lXQ7bLBPC0EUDf_nEQfdybtwSDkmcqkklNeH7AgTQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Huge sandwich, I got the pumas Tortas the most expensive one, $20. No doubt it can be the biggest Tortas sandwich in NYC, at least for me so far I haven\u2019t seen a Tortas this big, bigger than both of my hand combine, maybe 2.5 of my whole hand. It can feed upto 3-4 people each. I would recommend cutting it to at least 4 pieces or else it is hard to eat, you will be eating like a caveman, forget about appearance and manner when eating this Tortas. Overall everything is great. Definitely do recommend to give it a try, but it not meant for anyone that is on a diet for weight loss :)",
+      "time": 1716869300,
+      "translated": false
+    },
+    {
+      "author_name": "Robert pineda (bobby)",
+      "author_url": "https://www.google.com/maps/contrib/102908725924031971153/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW_xdPj_Wq3u-fmHT0nukeoqP8cDefYMO2PsDN3cUvq3oswWCk_Sg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "I'm telling you it's a bang for your buck The food was great you're not going to finish it in one sitting so be prepared to bring it for lunch tomorrow.\nThe service was good so was the food but there was a line that I waited 4 hours to get my food.\nWorth it!!!",
+      "time": 1685926164,
+      "translated": false
+    },
+    {
+      "author_name": "Maria Ortiz",
+      "author_url": "https://www.google.com/maps/contrib/117484570936784741206/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNnWKfq2j5i0a6sZ0AfXRAE1pEfRAhtOYjbu0gBv6bwBgvAong=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "a year ago",
+      "text": "I really wanted to give this place more stars but honestly this wasn\u2019t worth the hype! The tortas were missing flavor unfortunately. Tortas are HUGE and priced reasonably but like I said there was really no flavor, which was a big disappointment. Overall wouldn\u2019t recommend if you\u2019re looking for a savory Torta. Also, be prepared to wait at least 1 hr lol",
+      "time": 1689479261,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "cafe",
+    "food",
+    "establishment",
+    "store"
+  ],
+  "url": "https://maps.google.com/?cid=8624709667498491113",
+  "user_ratings_total": 442,
+  "utc_offset": -240,
+  "vicinity": "104-58 Roosevelt Ave, Flushing",
+  "website": "https://tortasnezany.com/"
+}

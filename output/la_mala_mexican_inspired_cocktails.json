@@ -1,0 +1,488 @@
+{
+  "address_components": [
+    {
+      "long_name": "110",
+      "short_name": "110",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Corcoran Street",
+      "short_name": "Corcoran St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "City Center",
+      "short_name": "City Center",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Durham",
+      "short_name": "Durham",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "Durham County",
+      "short_name": "Durham County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "North Carolina",
+      "short_name": "NC",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "27701",
+      "short_name": "27701",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">110 Corcoran St</span>, <span class=\"locality\">Durham</span>, <span class=\"region\">NC</span> <span class=\"postal-code\">27701</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0000",
+          "truncated": true
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 4:00\u2009\u2013\u200911:00\u202fPM",
+      "Wednesday: 4:00\u2009\u2013\u200911:00\u202fPM",
+      "Thursday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "dine_in": true,
+  "formatted_address": "110 Corcoran St, Durham, NC 27701, USA",
+  "formatted_phone_number": "(919) 797-0104",
+  "geometry": {
+    "location": {
+      "lat": 35.9956818,
+      "lng": -78.9016279
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 35.99698833029149,
+        "lng": -78.90029201970849
+      },
+      "southwest": {
+        "lat": 35.99429036970849,
+        "lng": -78.9029899802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 919-797-0104",
+  "name": "La Mala Mexican Inspired Cocktails",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 4:00\u2009\u2013\u200911:00\u202fPM",
+      "Wednesday: 4:00\u2009\u2013\u200911:00\u202fPM",
+      "Thursday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102449257521210140336\">Matea L.</a>"
+      ],
+      "photo_reference": "ATKogpf44RHQhucIF0E49oWuqWfYoxzBW3XErFDsxtFXkWo7rAM8sa8K2923R20gp5Sb4rLLM-webWcLw_TQsuSwe4x64MVPwMJux2pivMe6mATn_6VdHBHvIKyl4kHliQj_Th9XLbe7qR-AGt0J-tTj8mB25hd4yHK8RLU0QNTI_9ub9xhJliA1oJ2ZSpbCkd007K66iPrz_ufRQco01IzUuUGGBMxh5YETDx5RJ9n7xm6haIuRVjOkVCkB8lO28Wt1SUDgCJnnCKwjCPO77klnDtnfbjQ2l3ZH9pHzF29_ZCooUn0MMiVS8OKVB_LdYdXf152enpplHZPMjvpYajTGpkJ4_iJlpuCcvfq0uDgdODCuLBX6Gf-Zd02G93w52dtX83VCI6ia7euo56TaOgzo81-oCszxEBrD7X4qe00OFdpCr9o",
+      "width": 3072
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116546130989979244362\">La Mala Mexican Inspired Cocktails</a>"
+      ],
+      "photo_reference": "ATKogpf2wqj0TOv3h8V_5GfSb_ZqYA7f5xEodfgszYlVsm8lCTSXoAOaUTaAt9_Rb5i5WeB_XJ2WxYhCKfdH8FZuMPUdnCPUv1NgkNniGc6ckMo80d2Kcv8s5GaKV37IE1inia9sh87KwAnJimkzZYgYhJpJzzCHvlb7fJd_Cz93xMBd6AYSubcwTQgsHW8gLAEtZAFKceFZ1kuEhbW-W_kCG5wNqCQeNatpcqBgZfyKGBytePl0rXQuvrB5Mfq9FBvW2svDepmP5nOhxDiW4NBonSheSrO1UydM3EUXbIHABfbFxw",
+      "width": 3200
+    },
+    {
+      "height": 930,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114252219227067948043\">Dale Lombardo</a>"
+      ],
+      "photo_reference": "ATKogpcy6k8tiVqQng78rGcUpPseduEju0lcGdJSatjlxv66_-_K6VUv8f2Vja2vtg-WP3L7lYPN6DPMuZ0eYW4K9KrM3HAZ9Q98b4fZET3VG_lzcVxRDWGxhIavBxfDEx92RV4NHzMhsdYsXqgOjSc_zvRuyGD8RZuvyl8Ji8az-co-U8mR9r-h12P2RNpRd8deY5LU7F0eiJZAErJhFwQsxibS4d8Wp79eIslh2hUF5kffcdAvkY-ekyhMyPnhoOfUEgMVAk-bdZ8pFros1J1Fij2Soh5HHrC_M2tibfrzBeh4UJQ4xA7A-HUMBfZm1gf5YE-AJ_JgILMAfojOkQ-Z0rziHnYDSxLO_T1IhptqN_5egEEeF45z8xFshGJ3j_qNg2A7rvXEKziCGLh2mb8lrVl8Quch7UpmYDhk24N_Qi_GCMSm",
+      "width": 1242
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110146962467895256140\">Angel Jimenez</a>"
+      ],
+      "photo_reference": "ATKogpdcDiy8x6dxbaKG8yCmn2UvRSlGvlBgNmvco46w9-XzfUGVxh5m1_vIU8sqNuZO6_wbpLX2M_xMogG9Al8iX5esBTNGIaTL1lXHpB13PKuDxhl7oYbwUQPIaO1Ekh_BteZEoPZoopZqJpq-tE8ggIs3XppDyzvEhqVZpzds6s8s7WzL0KFTaSBmVl4IJeDaZcuZI4sAa-tPTTmWLCdRL9nAw55iN0EfhBb4w7k6XtDBluwh6o2QGwJ7BlR6SD5vDrqVPeNdDS19Cmd5kb2A_VyWu-Of7SBgtfjeltBVGf_u2hPbiUahA-u30_wBOukty-QlkGsdrh-EgfENne0riXGxzbq7SbaJgXTR9mUa3huGC3mQjRB0sjfIW0ZICi-IURV73pcY7cf_p-mNKxXUVnDDPo2htXADcx554EE9BJpAJ8CH",
+      "width": 3600
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114795452907363795257\">Joannah Jones</a>"
+      ],
+      "photo_reference": "ATKogpdPBjr8YIWj-9mvUzZRrvmkEShI8M3k8EQxVuxxooQOY-Uj4H_uAyzg6revq26nDHsYfuRb4mIyn5APFUJtshorWHofCdC_RVjKpy0_KVPak45g3eYA-Gr1xSyVyX7fsfdByUezTVhlF-xVRDVSPQ_LFot5r-KrrvFzP4yoTeWV9wlPpzPos3UGwcT0SaZlr8ik-FqsjQUO0QgSD5EKgmTl_dYDH2JbM0cGjcmz2kzNVIVSICO59Sh6hI_Kqr9hXHRc4YudANqUQiRuzo8s4n0q2Bigk9uLiHNWM6XneD_2TknByy0ZS-THnP6MLuR7j17xD7AGn24sNHtpBLtbov6ME6xskieVUnS1AtwEW0z66SkUagMzuYYGp1g_XotJWqg2nhoCwnTxsxhcn-OmDXY6vL03h4XpEOnCYHmeBKoOQQ",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105648350683890515642\">Kyle Findlan</a>"
+      ],
+      "photo_reference": "ATKogpcI64F-ZIo3cfWbIquhrkfVgKEOj0o5CxpQ0bhk5DDSwc2bUzqRN3vFWV0cQ_TsB5FCWup1H0CVD4y6gyXMXMww6bP6nOoUwAkpKha_XBcMLf31YjDWUFotAzyzQdsAzrsf10riu-eDMi62YBtJ3xdm-rpL3BVymq43rs6m4IqH_JBg1Iy-KbjCYbKXM2HxmPJDYQlfvas5d71RKjk4wkXuVl76zgKwWUU0M6gLu7eZ5ixGJDf9dwb99ZWJ0ojtJWT5TS9w1F2Upz4XfOsvF5-wxxx3gjiq8pezrD4bdWsK7HHv-AYUqKFM6wyuSD6Hy8BIKydyBT2m68G62M4WTQvY_39nTOqKl6kkAcUbcEdbJxIA3puKaEXiP-5xhNLj5X0H9C46gw90yndJGFVMmJKBWdZ7XlfP2jVslg0541oHIQ",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100083809746128837992\">Adolfo Lambert</a>"
+      ],
+      "photo_reference": "ATKogpeMteUFHcAX6tW5-woDzkYiRoquLcyqCK_v20tPLnPPYxyxzUy7toDcG_NIsvd-zrHgvbhNISoz81wnxyV49IeLYkYmORvpSkriy7o4lPluKwxizTzt9UeGkWr2WJlN9dSMVtFlrpEju8ZhDjXO3_1QEdjKea62kqXhZaPClw3tMUO8AqxNsU8WiucKGburT2WDMnlNDa_PnEvWWb6FVtqg7WIeYjB-LA_NYrHC_qqXexGq8JENCrTVPeSbK1YWXLkzgW_pZk4IM4Zd34lQA1JfulWP2m3qa7DSPSpEJR-YL-mPXG5ZsbmSmUlgZD7MqDz4v70Po8q9FkAW7g_DXlMdKRxb4ECH6SO3pHI5nDKwKyVKYDS_HtB7V5mJE5c-7stWuULfciQjH-CxmriKPburEgggCtiYlBtQBlq_X6NPNQ",
+      "width": 3024
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108203853899587084982\">Sandy Clark</a>"
+      ],
+      "photo_reference": "ATKogpeIY9mZuaQuEcACNXE7scKTHO0tkIsWfAb7DEziqtqpY12_a8RhGQR0jBEo23yVFcBN-h8L4SAu0oBULmBoth4C4eris52FUT5Diog-NCr4L5f-gtuxenK73ff6AtRgQyTkt6dUvNacvCyo9YjF81BCDh__6Xh_WGG2-wolGf71MXMgQCqP8zbAS-vSyC8V6vO_yBssUtw9Sh1nJz7M2ASB3bcPjw23pWvFiQOA_9VAmX_98i9JTigI2FJXKpe9oLTxNN4qGxcoTvaUOAPE_sJCxEmpN4N18ItLi3_q61YdPle76eoiZQKcSLoeGD-iKD4YfPKMMX75O0gKlXBvFJriDJFUrXHFe_EppnOKckSTDLVmdb9Pbl2gkizXnoGm0Ym1deukJuCUU1sdIxxBD4KMFIpMHn_uTlGnKw-eU6-UuN3ZRMRK37-xTRBSlebu",
+      "width": 3072
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110998167285592076146\">Coretta Smith</a>"
+      ],
+      "photo_reference": "ATKogpfCuzU_5PI0zhRtjLrmzTmzznkUJ_HzTnBh23Fe5vLDXJvz6QSi8KZ6F8hJs_zRfSY0pOMFZ8ZuVHBnT8up2VZDWU0L_hmGwsPSxEpI7LJTYNR9OyUKk4yQL2e0l2ZoAS0npmJvDbRoKxRe1NWUzs0Arfw9rt0mWjE4ar-qumy9Bc29ltA55HLgsxPx2VJl2U8QKqHsZXqKh7t4uKN6qNHl7NSBDqdOkN1kchvnuYC-r1IYrxneejgfd894DPQ-L_bTbcxGrfLVR1M0ivJi9aCQ4UhZez1TJlXBtszSvgwtaLjojRLmDOn2gmN1e00UZlC_7sCvuSiLzwpoFK3w_xpGkOo2lyW0sy6QmVsiyX9er10VOcyr_N7vouQJfRnafl0jjaeFuwHL2dBTy793vDZ5XOYBxB3jb57CYRdki5H4B8Jh",
+      "width": 3024
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117074944408977810553\">Elizabeth Helminski</a>"
+      ],
+      "photo_reference": "ATKogpfmKVtD-jBT8McdBGJAGcd0thKJpKkS5lETmc_qVfFELPUpjZslkpJ7gSBgEEktqgGzIXIO4Ee9Gh8mId67g_uODZbP98bx8swYTKXpsqFw6mhnZ9U8MCAMA_wMsV2SoWQeTMVuhO6vH19auurzwbU6t--x47rBEisPb6RtFhaHs1aN6Ps7tI2SZ8QCSOXhrIw361aisOF6R-XKSXg4ApI5WYyrl4SZDC1P6Lk9QYr3dY0AjFk7LLv3m70G4atDkFht0GRzBfZYShYJ-nVIwYK9SGQVayXA4oBvQ7DEkVVrdQXcOKXHIzHaMHtlQiHu7b8NZtzuiroFOfzvIANpQh5CMBucsHHo1AbYzbXMA5h4IpjtmBtrJRwoK3U1W-LjDOU7waAlUN1SufXyQBLMoUDC2ecD2drVDT9pNmWsLeEPAOcu",
+      "width": 4800
+    }
+  ],
+  "place_id": "ChIJm5kmBKvlrIkRaQ7FjwiWnd0",
+  "plus_code": {
+    "compound_code": "X3WX+78 Durham, NC, USA",
+    "global_code": "8773X3WX+78"
+  },
+  "rating": 4.6,
+  "reference": "ChIJm5kmBKvlrIkRaQ7FjwiWnd0",
+  "reviews": [
+    {
+      "author_name": "Brianna Cain",
+      "author_url": "https://www.google.com/maps/contrib/105796228407668068177/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIB5g-A1ChxJBd5ejeX38iMthzWLLJQSyWCqtXrtuyJaCUBg-3-=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in the last week",
+      "text": "I went to La Mala a month ago over the weekend and it was nice! It\u2019s a smaller venue, pretty dark (like you really need the small lamp decor to see the menu), but clean, cute and chic/modern. I sat at the bar and the customer service was great!\n\nThe food was pretty ok. I was recommended the Mexican fries and they were fine. A good portion but not really what I expected. Perfect if you\u2019re about to drink on the strip later in the evening. Also had 2 drinks - spicy watermelon and a margarita. Not very strong but a little pricey in my opinion. But they were good and pretty and definitely worth a try!\n\nA server told me they have great taco deals on Tuesday or Wednesday. Definitely would go back and try the tacos or some other dish!",
+      "time": 1750885566,
+      "translated": false
+    },
+    {
+      "author_name": "Kelsie Bartolomeo",
+      "author_url": "https://www.google.com/maps/contrib/103490547132953176274/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxPqxjRAm7kZoCREgoeIVvpw3OYRWDZyknCCN3rcEsPBaG=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "This place is great it\u2019s our second time coming here the drinks are so fun the food is amazing we love the Mexican fries are one of our favorites! Within 20 mins of being here tonight we had two managers stop by the table to make sure we were enjoying everything! Our server Andrea was so sweet and attentive! The service was phenomenal the atmosphere is definitely a vibe! You won\u2019t regret coming here for a meal and some drinks! The free shots were a nice touch too!",
+      "time": 1743213495,
+      "translated": false
+    },
+    {
+      "author_name": "Kunal Parikh",
+      "author_url": "https://www.google.com/maps/contrib/106733032123129031424/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSy5VhtWX3AvlV3pC_KrI84YWjY2_3949YyR4IL_UtieSo2vpyVg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "New Urban Mexican Restaurant in Durham downtown.\nBeautiful vibe, clean, huge bar & nice ambience.\nThe menu is with limited menu items but unique.\nI like the cocktail collection. Mexican fries are a must try item.",
+      "time": 1747453791,
+      "translated": false
+    },
+    {
+      "author_name": "Romiesha White",
+      "author_url": "https://www.google.com/maps/contrib/110923145017603907766/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbzJncWQaMUhOIaJYTmhFBFfI6ongDEeKtnuJY5JeifrvtrR7I=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Miesha with Offline - This is was our first time going to La Mala. We had a great experience. The staff was pleasant and knowledgeable and everything we had was great. We tried two different mocktails, the strawberry margarita and the conejito malo. We shared the guacamole fresco, an order of rice and and an order of beans. We ordered the Steak tacos and the shrimp tacos. It was all good and filling. Also, they have a special on Tuesday if you order a cocktail or mocktail you get half price Tacos. We will be back.",
+      "time": 1746037288,
+      "translated": false
+    },
+    {
+      "author_name": "Matea L.",
+      "author_url": "https://www.google.com/maps/contrib/102449257521210140336/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrJFBF7EQNTU0gp6TaW_ONWKZ8MSGR7VpJWDPusVLOcyuJBSmYEA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "12/7/24 - I picked this place based on the reviews on the fun drinks they make. Well my husband said this is the best Mexican food he has had and he is a picky eater. I also liked my food and had corn tortillas which I normally am not the biggest fan of, but my tacos were delicious. I got the shrimp tacos and my husband got the steak. The server was sweet and helped with the selection of food and drinks. We had no wait and came around 7. The atmosphere is nice and quiet. My drink was a good amount of liquor and taste. We really enjoyed our dinner. We would love to dine again whenever we come back to visit.",
+      "time": 1735575588,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "type": "BRUNCH",
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
+        "Saturday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
+        "Sunday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": true,
+  "takeout": false,
+  "types": [
+    "restaurant",
+    "establishment",
+    "point_of_interest",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=15969084817241607785",
+  "user_ratings_total": 366,
+  "utc_offset": -240,
+  "vicinity": "110 Corcoran St, Durham",
+  "website": "https://lamalamx.com/home/",
+  "wheelchair_accessible_entrance": true
+}

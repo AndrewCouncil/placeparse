@@ -1,0 +1,499 @@
+{
+  "address_components": [
+    {
+      "long_name": "387",
+      "short_name": "387",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Myrtle Avenue",
+      "short_name": "Myrtle Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Clinton Hill",
+      "short_name": "Clinton Hill",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11205",
+      "short_name": "11205",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "2408",
+      "short_name": "2408",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">387 Myrtle Ave</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11205-2408</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Modern Italian tavern with a charming patio, serving traditional handmade pastas, cocktails, and wine."
+  },
+  "formatted_address": "387 Myrtle Ave, Brooklyn, NY 11205, USA",
+  "formatted_phone_number": "(718) 852-0001",
+  "geometry": {
+    "location": {
+      "lat": 40.6932861,
+      "lng": -73.9704167
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.69457283029151,
+        "lng": -73.96909411970849
+      },
+      "southwest": {
+        "lat": 40.69187486970851,
+        "lng": -73.97179208029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-852-0001",
+  "name": "LaRina Pastificio & Vino",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100952521607204745944\">LaRina Pastificio &amp; Vino</a>"
+      ],
+      "photo_reference": "ATKogpdz80DR3ruxVPukSf16LqLTbDhsnIdCj1XZw2I46fi0ILoXUgKJNhlC0H1Vjvb2_4VsSpLzj6SGQuDjeAw2ZC3gurRlexe8-N_ROVLBkuPLzku4JS36NnJSoCUmjgkGpDmFFtmY9jOpb8pXLjZXHRmZVawJ688lW4uize3wF6keztmOmGnvZVKaRGOXy_lczeMV-fdW0La88yTcSwo38XTVKqZVxsWOxDbdfV_wuNHVPlqQPDh8esA4zaOHcn9ydxNC48O-l84z6ES-OYYcDyw5UrGEuYBAC5Lie_rNIx8v7Q",
+      "width": 4800
+    },
+    {
+      "height": 3199,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100952521607204745944\">LaRina Pastificio &amp; Vino</a>"
+      ],
+      "photo_reference": "ATKogpcUGpZCIxXx8WrdQxjCnXxk0AXhB0tv11glKs0AlBC3soudlH8jBXtSj-g51jk7b0um8VRSSq4a8o27E9KLf3jboi7OmBDfrPd3tA6wbceH2chU7pe5aozhx1wph9wOqatot_cv9YzZttPXA_5lS_Y-NdwtPUAd6otCiNPbyHl0MLVKUlNp_ITxqWe7b0KRIHymKFs6y-AmG4lwTLbjtcQzLPT5jOWzhuP5floKCNzNJFBDx3f91HiXehn56VHg2ZdvzpLxPDOZKt8KeSEHnGeRnrxdtr2syYu05hZ109z05w",
+      "width": 4800
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113965952016817599686\">Lauren Galligani</a>"
+      ],
+      "photo_reference": "ATKogpeh1hw4p3z1SXS0uWbmtZHKGV6jhPGRgn6lmPVTLsDWnj9P3ODuiU3O6_MoojAQEarRE6k4MDdgJnJR9OZeVs9NaQ6UGnVqCpAhcFWvaBY9sC8g_DdBEzCowitkhpnQSwwpdOI4fIPZW2bF1H_g7ChVv8nG26UHUwlx0H-2H8NPQFRFLcYDPcRJwMQBVPozj1k1_W2px-3IXZ7n5ELtupB-fxDZXg5-731MypEVqic0LVPwelPROPnvZ7Ni60YBra985J9IRTYdxUiHlMyepwHzaKJY7Ngji-Ck7B3RML-LO9BCMaFFycciDcNsmDEu1HhXlsr5mgeTbWVrR9wew-vz6U0_b-tBn5HX5mL9LH7HjMXLcZNONFlzYk6_jqRuV1N8X-K_HWn3tJGHhAdSQjqfHzJ7m7msH7zh39xsyxcWCsqoYKQLxTioJTfzB0iz",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112930163670791953208\">Chanel Carrega</a>"
+      ],
+      "photo_reference": "ATKogpdYzHJ_EI415-dnUCavAtY3r-kf0bW1zotJmSIkexWdMyRstnJlAHBpbzbrKYK9730sNvM7F1BPyoXm52qxegOX38ETkEi6o2FrjA6ACyt20eHU59CsGzs-9XJvZJqdaHU52_6Wdv49NXjk7dp6Z6H8qea2UlwqpGswXryfZO2Z93jBUndldwwcZE2_1rD8PLfj8sOmMjKLpic-HU4l4Fx848IA5YcbOwyaI4YO8ke3owVYp-dUDMZNN4XJ3ld3KVLsH2xQbz9OID8AJWsIxilIQz8aTX3sGGRsNO45ME8QQ4-Icg9oy92JpWCGKI5zIa6ysN9xZWO8ZsgwjrG8KdKoC94KVELfOuUCxHho9jAilHXSyL1PYmsQBIOFBBR-iJm5026aXm0YvaqO6GEYzaN9WH11oLH7NJHDCU9GwronaQ",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108181892894181582954\">Mariam Kmh</a>"
+      ],
+      "photo_reference": "ATKogpdLd4bWK-k5c1PlhOLink16OPQMACOMvB1SotGIik3qHXp-K6kU03C99RHqtkCsZDTvqK-b6V7o4Y4N7muAt-nvnE-CTCZKndm4TtgtNKLlpuSimoeuKO0S0bPLHj3-NrSUIOER2b1JCPdurbd5UmSBn3zx5LPa21JW2L8oNU5NB2bwa0e_87oUg_qoM2nR3xIx4tPRpkr4cEetV20dtXnpf8vYIGJoZ6GdnU0Bakoosl-0qCrY7cmU1i6kMgz2FKwMGEPbV-b754st7cMqO72SeWuNgFRtTo0hIxUBnLzKNC5LJo7n7JazTP_ca67h-PYf7_U0T5WDWxscWxpsZ4OabqxRUk5UyMn2QWWrt0yLXgV7DwvDJouGBRcq7s1x03Qz3VGWPrbAjG2rlZWOg_YBg3Fj_4ijVo9QMF80qHQzHGNl",
+      "width": 3600
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107974183787376734399\">Ryan Flynn</a>"
+      ],
+      "photo_reference": "ATKogpc26IHJ7rhe37Kxp6vc4tY7jnorHr2YX5bQU0wpuFhp5uZVJRrFfR_Hw2UWnQzrwxVyD1f7dAnatMxBObAMxwqxkJHqnz7J_GajwwzAaAz5WiyXz_kLLA1a3JKzdAvsVdWi8bSJmlvoqQlTfEFaEwibxjDh0OQvtdja36Bc_UNZrbfzJjxSM8utpg8y5BTtnEsaRfQfB8KOc5xkUsrTmlCYZvmLMOStvlCZ7cliYDsWXPwVo_suXJ8pZSxeXIeb55gQXG1HcG7HdwqtTiUiu4LaPCIvN_E0rOdnRBIqFwtaQ04SmAs-VBJN6bguvl31tu-6wsC7tSplDdJ027hN81LbAB0iU0f13YMsps9YF-j9Cy-HcdVS-M7Q0zJjjM9AQDXR9xjlXyISIk046pm7TMt7ljPUk35xWkDPNynV_7Q",
+      "width": 4080
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103132713862372090726\">Nick Burnett</a>"
+      ],
+      "photo_reference": "ATKogpdS1hn-xTCqWonKDC9sNrsCbLylrveFKn-S9ExRGMpQdZEuPavpf9HXIMPg7QekQOR8XjhdSNa6twUP9Mjgjk8O9syeKlM0c44McV14ak5BWhHUiaGffKNyb7CnIYpu3zTbQSDt_rBLBWPHW974PaF-r6-9MwgCF-bFjv7JyE_5poDtsWWbfhD32nK78s-tLfDn0bKK9nsFXSKWQwHdyZep9CyPTk4e4o9uplwU-PlVAacAr-w9rtwdaQTPM6ojNJB_nmx01tEi5sWGyaRnudAC1W_TOlqluOqDUzxaI4U_otnkXMRyXW7Ku9QY0GxZMt_mtQSVFpcpjWkUopWpc2i-FbqgePMfRphFT7QQwemVIUBzBGyqSD4iAlx5UKlRLJmpYCr6Pzl4nJ9O7riDxsI7yIi5ZVDbismQo2_lgW9mzw",
+      "width": 3000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118320720901385887451\">Angela N</a>"
+      ],
+      "photo_reference": "ATKogpeswV57NJ8nkUK1QJj-HJl4Hr2OxfI9YbKirWYPHODiHgFY9pFbItLQMK222q-1MwCLjYY67yCG7Vew_23NXCGy9ZLuTyivv_jk0kGlUSAxC5HECdlOx46KkdD76c4lYC9GHJa-yRdYGYNvhNS313WxLa6lVW_ACr8uUvwKnG-NVQjVz2uuWdmOwlO2n_hEZjCNuDzgN8rWwnKVtHIUlZNuDo1OgabKxcD5MQQkzCjSanO6xkIbwBd7rTxp6cfzF57miQHb5Lg5ebq529gfl6LiH7BQKN_Pc-P-OnhoGZjSipjV2-LpqlAF2fkpAo8uQxsg4i4xxeA--FcB_8-JYn00wGVIX0fT-e_Qr5H0jm0qENhkj1NaHXblRyeSi23g3REUVn6DmkeX7Q92uPIlsIc2s2EskMqB2FLZEAiUiIWlYw",
+      "width": 3024
+    },
+    {
+      "height": 2288,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100952521607204745944\">LaRina Pastificio &amp; Vino</a>"
+      ],
+      "photo_reference": "ATKogpdF9lVUunhJbwHU4Hmv_H1GwjMAG-2v_4RiQyNeNVOch03OAuNUMGmUgbUcRmJjKVh4QO2C-3B1Z3jykVSmy0XZg0KBcOzcwS5BvLjSg7nDem7WyMGzwJl-OGiFAiOfqXnFq5hP0BZPS_YIX2QOIx9kNR-1cGi3WT3lZZTC3mxyMsRH1FQ7rDbS5625c4INqPZlNZHfWGRiAgnVv6QnDjv2dd_ewb5NKo6Llliy61ryRbCv8Ld_wW7cCcoGQdjSSmKD-BZ_nEoQdtNfx6tMukspJ0xVBTS5F_PLq8f_jpyFbw",
+      "width": 2288
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116937555489501336588\">Jim Ramsey Khouri</a>"
+      ],
+      "photo_reference": "ATKogpfhFyXJienMg3RF242ta-iPlA4T1zIaUYD2XKdvtyzkB-4QTxPwdg1j3qGS3zkM0gDroYaB6uBXDpCI7JHDBNu7SC31kVrxDKOk4_bXOE3rB_dy5THlYFOUFQd1PBwgjewNDQKSRhzY9hLIAmfTSb7hqUs5MJ3lFk5NnHj9_4KHXjNxwhzCDjFtQcddvJAmAXJKAz7piznQiJhL7HfKlCm6FfVGoM3RYXyVESf0PvRvrMQ1vtvTjIIgsGN6yr1CHOs2LgIbYTKE_uxDYvRYfpCppz5rIrDR83Y2QIM4Z31Jh_rh1IkdJN0F22_3zBCtPbs34W-pPQqkztuhdsJ1ObDNn8Wzb7zZQn6J9mLAFSviu5n57VrLFA6LiPRsHzUrwYxOoFrTGHj6JCwgNpGAGPVDMiMJy90TcrJFENoGnjnsQw",
+      "width": 3000
+    }
+  ],
+  "place_id": "ChIJweAtELhbwokRO1AexCvuRo0",
+  "plus_code": {
+    "compound_code": "M2VH+8R Brooklyn, NY, USA",
+    "global_code": "87G8M2VH+8R"
+  },
+  "price_level": 2,
+  "rating": 4.6,
+  "reference": "ChIJweAtELhbwokRO1AexCvuRo0",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Mariam Kmh",
+      "author_url": "https://www.google.com/maps/contrib/108181892894181582954/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLn5l4xSRHpfUiol5MAckdLxaCanhkshTkWm4LjgKB7mF3ykq8=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "2 weeks ago",
+      "text": "Solid Italian restaurant that makes 11/10 starters, the portions are perfect. The pork belly with thyme and honey was a game changer, all the starters blew me away!! My favorite pasta was the lasagna, made with spinach sheets was just delicious. Lots of options and the service was amazing! Would highly recommend",
+      "time": 1749586417,
+      "translated": false
+    },
+    {
+      "author_name": "Patrick No",
+      "author_url": "https://www.google.com/maps/contrib/100866947936588551909/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVELAo3Pgw1X0OCQg0nx8J5WEwpBnJTrZU-NL1pi2aqqhyQguwi=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "This place has been here for a while on Myrtle and I finally ended up stopping by. GF and I wanted to try due to the hype and it was good \u2014 not great but definitely just good.\n\nThe pasta was easily the highlight of the show. The Agnolotti was a new pasta dish for me, which was like mini dumplings filled with a nice savory filling. I couldn\u2019t figure out the sauce \u2014 but it was nice and umami. Filling!\n\nThe Bistecca secondi was ok. Oregano heavy chimichurri and\u2026 Wagyu flank? It didn\u2019t taste like wagyu at all. That\u2019s a gimmick for sure, it tasted like the same stuff you see pre-packaged at Whole Foods.\n\nThe blistered escarole dish was very flavorful. Had a nice olive and orange topping. Would recommend.\n\nMortadella was good mortadella. $18. Idk why I got this for $18. Bread was good.\n\nThe dessert was quite nice though. The Panna cotta was definitely better than the tiramisu, there\u2019s better tiramisu\u2019s in this part of town.\n\nOverall, try it out if you live in the neighborhood and make sure to get an OUTSIDE table. It was boiling inside on one of the first warm-ish days of the year. I don\u2019t think it\u2019s worth traveling far out for. Definitely just get pasta or even takeout lowkey. Kinda had a Miami vibe to it lulz\u2026 think of older millennial with a black Cartier Santos. Ha",
+      "time": 1743906066,
+      "translated": false
+    },
+    {
+      "author_name": "Nick P.",
+      "author_url": "https://www.google.com/maps/contrib/106615538041279214993/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrc1ZCjKws0zl9EttRH48L7HSM64maa1l_NbdH0AYSla4_3Q7l=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "We had a great lunch time meal at this Brooklyn Italian restaurant. The lasagna was excellent, lots of flavor with the spinach noodles and plenty of meat in the filling. The tiramisu dessert was delicious as well. It is a little off the beaten track into Brooklyn but worth the trek.",
+      "time": 1749527145,
+      "translated": false
+    },
+    {
+      "author_name": "Hanji Jang",
+      "author_url": "https://www.google.com/maps/contrib/111682399766578784111/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWz6qZrVHs7R0ZD9ykb4QzYUm0Ii_p3GKvmY9cS7NJhQ1i6zv0Y=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "Love the seating arrangement, went during the summer so the amount of flies was getting annoying while eating. Other than that pesto pasta was kind of thick, but personal preferences considered I liked the thickness of it and the prosciutto and sourdough was the best thing I\u2019ve had I still think about it and want to go back so bad. Amazing food.",
+      "time": 1743118240,
+      "translated": false
+    },
+    {
+      "author_name": "Linh Clark",
+      "author_url": "https://www.google.com/maps/contrib/114220259233513864655/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrSQ17elS6JkccRpOwFh8k6ptFBvRCOQ0yeveJ7MHUeH2sMW28=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "We came here from a recommendation by a friend. It did not disappoint. The food was amazingly delicious and fresh. I had Italian food in Italy and this is definitely better than some of the places I\u2019ve ate in Italy.\nThe service was really friendly and fast.\nLove the outdoor back yard seating as well. If you come to New York try them out, better than Michelin restaurants I assured.",
+      "time": 1741058716,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1545"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1545"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "type": "BRUNCH",
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: Closed",
+        "Saturday: 12:00\u2009\u2013\u20093:45\u202fPM",
+        "Sunday: 12:00\u2009\u2013\u20093:45\u202fPM"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "food",
+    "restaurant",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10180085879458910267",
+  "user_ratings_total": 1023,
+  "utc_offset": -240,
+  "vicinity": "387 Myrtle Ave, Brooklyn",
+  "website": "http://larinabk.com/",
+  "wheelchair_accessible_entrance": true
+}

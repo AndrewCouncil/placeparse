@@ -1,0 +1,447 @@
+{
+  "address_components": [
+    {
+      "long_name": "314",
+      "short_name": "314",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "West 58th Street",
+      "short_name": "W 58th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality_level_1",
+        "political",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10019",
+      "short_name": "10019",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">314 W 58th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10019</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0530"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0530"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0530"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0530"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0530"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0530"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0530"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 5:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 5:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 5:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 5:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 5:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 5:30\u202fAM\u2009\u2013\u20098:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "314 W 58th St, New York, NY 10019, USA",
+  "formatted_phone_number": "(212) 933-4844",
+  "geometry": {
+    "location": {
+      "lat": 40.7676542,
+      "lng": -73.9832955
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7690589802915,
+        "lng": -73.9819013697085
+      },
+      "southwest": {
+        "lat": 40.7663610197085,
+        "lng": -73.9845993302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-933-4844",
+  "name": "Broad Nosh Bagels Deli & Catering 58th Street",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "day": 0,
+          "time": "0530"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "day": 1,
+          "time": "0530"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "day": 2,
+          "time": "0530"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "day": 3,
+          "time": "0530"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "day": 4,
+          "time": "0530"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "day": 5,
+          "time": "0530"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "day": 6,
+          "time": "0530"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 5:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 5:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 5:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 5:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 5:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 5:30\u202fAM\u2009\u2013\u20098:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113689850980486476068\">Broad Nosh Bagels Deli &amp; Catering 58th Street</a>"
+      ],
+      "photo_reference": "ATKogpcCQZLoMXV4GB7Pr8VB62rmUuxuj81B1gio3INOuEezGAwJCvFtzhBmtywSx6isFsV5eC-yUXQiizKQL4JgZwqcNxpl4DMWn9Eiowcw2uE4FbWkFUnc7FoMJ6NuU6azpMcZF9Yy-wmOJ5eqOqTIlwNtg9SduNCoDcZJrkCpTG95mo-nC0DUiVtLtAvYduItVOxJKNJRmao1rXVU0bZDWYBQ58t7t1NZuOolAZDzCqR3P7WOTyeSaUWlKXlpPnE6c7VmHLILWF5EJSBOyFjCaMOdeSSfSJ--vVkYmPoF8oTLUQ",
+      "width": 4032
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106031348475784982187\">Maarten de Jong</a>"
+      ],
+      "photo_reference": "ATKogpfliR58F3DAvSg9wEKvpRkivaRYhtcQhuPMwTWwP_dXI0oAxjthKmuOkupg06gU0y2bV1-gqC7iAP44l_FT6YteCYETxu1ojsHqNbt5eeeeA0Rr13vAeNkGTJAgsVKYvlAcW7uwJn5K8dykVz9inBCWbb398fwbWsBszOyffGiVM3R-H12ICaSlim3GnEM8xJJ7lMxFx0yNWg7mOsEhYcjkvbjSpI7RroUnerpo8x8DVbAH7KXmeOcvoU66gIJw5uRMwQruTfXTwHu4KyGDJu7ye8NEBDECTa9t7GWJVx_CYk-Ncn4b3h6bDL9YIf17JiVdFNrWWYcQ65rdZQv90rOhBSTQ5iNh7yoSthxY0FwE3aUPDeJBevA_raRGHnVO_AVc32LVTMkNQjOrufuItDi56QN7Qr9KBg0h0sbStEgN14BLw1W32L5dbHtafjq0",
+      "width": 4000
+    },
+    {
+      "height": 1288,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113689850980486476068\">Broad Nosh Bagels Deli &amp; Catering 58th Street</a>"
+      ],
+      "photo_reference": "ATKogpeEFc0HFi4LX-jCREJnQnfbC8kuLq2mcNVtfxRWQ00-tiH9n_1VU-P_i9dKK4BCRraMuuEM38LOgW0vSwRkltOrg6Oc73cD9vVYJ5lq_dwlnWSv5rFPfWFq0gJ9sSW7D5i-RyyGLpOVqWia8YCYigcEph6YHO0z6Gc0laEscMLI2eEkQ49wCtwXi-goFOVLPjLFN6arEmiF9Y62bfV91qfb8vD9h9qSnSK5fvWNuxA9GDV72b9nknv1u8l-JldBmMdoBIyhCVrMmZYhJaFMvA9e3nSKnVHE8hAHEVMsEOfC6A",
+      "width": 1200
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103522326616168148036\">Rani Woo</a>"
+      ],
+      "photo_reference": "ATKogpcPO8l9Xtc3hM78OapAEwwqpoYtR2Dcdkz0IqATmpMz-v-CiXzEuwmzggXxSdzjf4wkCXMRWQ6x6huFMZseaQfYZQ8CqOOvpe0CbNK3IbHjkRzNoZE83WyZXPLhJn1XhxJ6KUERxQdr8dMeUbpgUi_7RnZGsf8z00KnFrfeaUCZMGiHb3cUIiLNtUH_qsHz5bA4MnuCOetVLY8hV_QNOux1_NuGNMKm_36wRTkpVpyI3ZUou4hezumkyDHv8BC8QuGdhB7Fxv8G_lOaupxGLMk6N1tLOVOOOJQmpTeB2nIH8FOokcnute57KHAYY3fDHj-75SHasN-mQxWT7l_DwLoWgQ0AaNL-ehpXMIi9IPjzw1dYSMCEYdplILhNA3hcGmIUjkV1zMOi5Lecmu3lvr5BDUqwNayUAKIyK8_Q_qs",
+      "width": 4800
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111163261345027269577\">Modesta King</a>"
+      ],
+      "photo_reference": "ATKogpfUjGa_ZMxDZCeT3HYYKB-W5wK8GbzNJtVBDKv7a1roiqeWsI0E0EnI04w_3YMNz1-5mgOa09--INJIwZrk4gLyWe3By8pQ22UBdF0_qgd6vUdr3OK5ONOS0wiDrJzvBjs4aPeYpCIFfvaOmy9ARIFc-7PGuKNj0v13t54FKt6dnwwA4mveE7dsYp7E3QZ-qyEAl2jYvSdEL6giWCzh5K8OOnvdLnQH6Yp39sgXgNhmV2c3q4iP8SzcH7AOpc3O6FASvZ2hWNJkYr5H_R6-W-VhAf2wCqH7ak3f0Vx1yatIbg2Ez6zXxzBY1YHIUbkZYlzTSvUIlCO0NoEezb6vzpaRncWqCXALYdI_83s6eA82jkz71kK_rXR5LU0beSLhECic_vRZUfgdINbw-MnZlysUlUQ99-EF-vJeJHXS2pX2dMR3cSzDgkPj_UNyEg",
+      "width": 3600
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103480569939429457589\">Keshav Chaudhary</a>"
+      ],
+      "photo_reference": "ATKogpekeSfMtz87BICQjUkhH7eRdmbMYfaunP8lQ8O02moJUV5wWlQo6II5UgsC3ocpYkTEyQK9Gke1HsO3FekFvo0ScvmgutrhNma4fp0Mhb0ANVMuU4NI8oP3N43OJjD04MvrX0pPul_4DL0QI0QgRVvjmAEbNmM9MLMBgTnVvRMbZwIyP5ONhA8XxWebBWR7I4qUSLDuUAx3NsWWEq7wdQYzxa-hwgaPyWb6udTXbtWbOOMU7DU7D3HgNSwdEI8xkhvvJJ9ox1IqObK3xGfIE1-8GZ0-cMrzmY4j3knV8zqpMwKWieeDXPfKSXsq3dWDd1B8oOCdVGJPUcFD_WFlT1OgutnZUACHBSFcZURei3R3X73aEX_14OZ0BvC5O2HEjlisrbOL4PN_F8PAL0IS9jsFHKlulgMijf4zo3KzH3Pa0z4",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102213400164628119522\">Nikki Banner</a>"
+      ],
+      "photo_reference": "ATKogpcNYbDhR0AUo6ct_FzR1O0ZJgmb8CUyMMeEPZvmmFC85a4tmx8gAzrdg-75pNC5drzE8B9waKt3-wbgrRMfW_aRu5C3K9vfPXbmnyZtAjWFVkQ_CbmXgERsF9mj9asHDtQfm4ks2jqeQZXAuuGLJbc2w6szQpgOMSkp6_xfwI_fGgt-XzfJ1dBTDDZIl0iDhjHvBC0qaEOwvU52wl5EIEXGf77vf0I8qhrTvfKODDgJA8Vmo8zr4QzyS9dqHngqPtMFA5p6iSaLWjEe4RZwl1aOksRMXKGQ1tWqZS8Tgx5Zetgz0aVplnyJZtSdcZlpSP_Doon3DtraYnchtEdiGuXpRqzZ3nq11kBh9qA87yAzRo7bXjdgAuZdIl_AwuluTj5SphA_qlVayALHOhw6df9YhtyECE1Xfa22YBAh4W-CCHw",
+      "width": 4032
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108075215922568407535\">keyth brazee</a>"
+      ],
+      "photo_reference": "ATKogpfMARJrKRSIMOiqA1Vz0ixMzYVINyZshxv3Le6xzRcFll3_B705G-snOuyQH1YNQ8goY3dsL9FyazCm9W1jBrY4Meo9T_X2av-Y_VvlIngUvjV7u3WPeVDm4ZTRo-V_12Jie3sV7-QwstbuuGqPy_D8sqoydPiDPK2nAmvuIW0hGVuFWpNYpADKhzIoYXv4CYwlBktwUhG5ZnX0biENq0QACiLTfkuBNhvl_pEsJw28kQDnt6RYdpHVmk3ODmZUt4o2bCyBJhQgcdc__25ZLav3wEsD2vmhOT8xS-iR0DnvnaXL6VyG_acOu8LXU7n0GzihscAt5uFncSuV3ggmAjhpdwAC8R7yvhj6Bt7oTluHsyZBAN6muCrgVeZdfA2T-DMFaB3jyQr91GWOuc8KV28GRcgzII8F0BNs-XzwVeFYa1y5",
+      "width": 4000
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113026841997418972829\">Christopher Ryan Poll</a>"
+      ],
+      "photo_reference": "ATKogpfOKgkrk0Aq5kbZvy2GOpR96aCnNo-lIQLGY7R43gZUQlrseJ8U9Um9Qwf-jHT8AC6oQvX7Vhy06XStk3FP0EF2XdJdfK4SKo-Ul3HY_lZMrKXXMrqEkNpFdIFrWTWuuLzKjm13dkotQ4s6h7dSpqPS-ObrJ4tNxbPxEvI4uqm30zoopcu6aQEx79GB22VBmEp_EkzAjZUNrSWjBR4Vmf4pCv-VWwQl4KD6rhyEQPJuZPcDnAIvpAoFOa5n2TvV11mp67SRpq3pPNHCP6jIklrlXbVRzBTepEta0LSYUTHHKVHb7dQgsRy07AmLege_B6my7s26dw4IUyKzmUTsymsVbtNgRbfx9JTy07PfEX6ITYAlpfXujFCxei92gxkef4XXvzlVWyfYtTgxxHMQc3E7Hi2e6n6ojjjT7lmA2vDWyA",
+      "width": 4080
+    },
+    {
+      "height": 3264,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103903048032313242528\">gmatt107</a>"
+      ],
+      "photo_reference": "ATKogpe_xy15mhzbVbxDB6FHyTMMfCBtXJ1BqVMiGa08g_-ZnL6Kkbq8AaaFpcChAO9OiARkHTQ63P0TgEEME5gzyeZR2Hvp3cUFbtmBypdzaxdHxXAwmTSD8uuavSO9EoPK9DgQe-akzOH5ae8S-CwF5nLxgBVejmHyq_Qpp85JAiJa4INY6iitxFW7arUr0uSiPVK0VdkLNdNmoPPLO963bVNESzh795ML4E9_iWy5-q8_Eh7KysVDINYChtM1c-cVl80NT7atcFgJshYIBYfpSN8mHdgZWtHCWl6-p3_49LupCXf80u-eSVoKTZ3VJt3OASbLKwAIi4FZYsF0_uVv7j9rTnb-xr5I1sNkqBfBQzS6rHDukGM1cSy3VXj35Il5WLtByiHMgxCR0OeEcmdL4NVYXFR4FQ7wus2k1RhT8RS2tA",
+      "width": 2448
+    }
+  ],
+  "place_id": "ChIJbVtD_4BZwokRVJcC9hll1l8",
+  "plus_code": {
+    "compound_code": "Q298+3M New York, NY, USA",
+    "global_code": "87G8Q298+3M"
+  },
+  "price_level": 1,
+  "rating": 4.8,
+  "reference": "ChIJbVtD_4BZwokRVJcC9hll1l8",
+  "reviews": [
+    {
+      "author_name": "Jeremy Wiseman",
+      "author_url": "https://www.google.com/maps/contrib/102166175398456001960/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJMKsnL50xSrVLqm7oOC1ebiTQz9gvSvWigfioDRvoGVDTaUw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Awesome place! My wife and I visited NYC and decided to get a bagel here. We ordered online and picked them up and they were ready at the scheduled pick up time. I built my own with smoked salmon with bacon scallion cream cheese with a few extra toppings on a jalapeno cheddar bagel and she got a French toast bagel with strawberry cream cheese. Those were so good that we had to break our rule of not visiting the same eating place twice. We went a few days later and we ordered in person and we got the special which is a smoked salmon with cream cheese, onion, cucumber, capers and dill on an everything bagel. We decided that it was probably the best thing we ate on our trip. Keep doing what you are doing.",
+      "time": 1749833699,
+      "translated": false
+    },
+    {
+      "author_name": "Amar",
+      "author_url": "https://www.google.com/maps/contrib/101818313184203760053/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUxVKr3Jg5nbcXx6XWU70NNvAdmAxLcMBMmpV-e4V5lAfTxE74n=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Visited Broad Nosh Bagels in Manhattan this morning and was thoroughly impressed! The breakfast bagels were absolutely incredible\u2014fresh, flavorful, and perfectly crafted. Despite the place being a madhouse with a constant stream of customers, the staff was amazing.\nThey managed the crowd efficiently and had my order ready within 10 minutes. The service was quick, friendly, and professional. If you're in Manhattan and craving a fantastic bagel, Broad Nosh Bagels is definitely the place to go. Highly recommend!",
+      "time": 1748444821,
+      "translated": false
+    },
+    {
+      "author_name": "Anna Dzier\u017cawa-Kimmel",
+      "author_url": "https://www.google.com/maps/contrib/112442200454374720635/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIHtTh0Z2r5AjbbwAYm7OFzzRdb7URX0sShPh1rFhP_Uiaoag=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "The bagels are simply amazing. Fresh, delicious, and with so many great options to choose from. We usually try to visit different places when we travel to experience as much as possible, but this place stole our hearts. We ended up coming back more than once during our stay, which says a lot!\n\nToday, we also had the pleasure of meeting the wonderful co-owner Mr Robert. He took the time to chat with us :) We highly recommend this place to anyone!",
+      "time": 1750118356,
+      "translated": false
+    },
+    {
+      "author_name": "Sharon Olson",
+      "author_url": "https://www.google.com/maps/contrib/108063884465778702998/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkjNSQvUG07SPNdTXdcoihhm4yUb8Td-6L3QcFwXTCCyVOEvcHDA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "I love the pastrami sandwich. It's pricey, $21.99,  but good. Other sandwiches like chicken salad are about $13. Can't wait to try it next time.  Good prices on the bagels too. Always crowds and long lines,  because it's so popular. Good bagels, too, with lots of great flavor combos. Limited seating. There is seating inside and outside,  which is nice.   It's best to get it to go and eat in Central Park, that is just steps away,  in my opinion.\nThe AC is going, but it's still a bit hot because of the crowds.\nI love the tile floors.  Colorful and cool.\nI've visited a few times when in NYC and Central Park.",
+      "time": 1750468517,
+      "translated": false
+    },
+    {
+      "author_name": "Carly Robinett",
+      "author_url": "https://www.google.com/maps/contrib/109501079422267226887/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWh1P6zfdS4xmWcBq8YyS8BE8yvrjNwClQeNHjVPZZ9bdRdw1aPZw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Amazing visit to Broad Nosh Bagels! We stopped in on a Monday morning. The line was quite long, but it moved quickly and efficiently. There are also tables inside and outside for dining in. We ordered two lox sandwiches and a plain bagel with strawberry cream cheese. The bagels were crisp on the outside, fluffy on the inside. As KC natives, we were ecstatic to come here today for authentic NY bagels, as our options back home are limited to non-existent. We may be back to place an order for bagels to go to fly them back to the Midwest! Highly recommend.",
+      "time": 1747668149,
+      "translated": false
+    }
+  ],
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "restaurant",
+    "establishment",
+    "cafe",
+    "bakery",
+    "store",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=6905818240795187028",
+  "user_ratings_total": 6266,
+  "utc_offset": -240,
+  "vicinity": "314 W 58th St, New York",
+  "website": "https://broadnosh.com/"
+}

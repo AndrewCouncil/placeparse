@@ -1,0 +1,453 @@
+{
+  "address_components": [
+    {
+      "long_name": "246",
+      "short_name": "246",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Grand Street",
+      "short_name": "Grand St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10002",
+      "short_name": "10002",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">246 Grand St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0000",
+          "truncated": true
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1730"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:30\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Tuesday: 5:30\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Wednesday: 5:30\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Thursday: 5:30\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Friday: 5:30\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Saturday: 5:30\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Sunday: 5:30\u202fPM\u2009\u2013\u20091:00\u202fAM"
+    ]
+  },
+  "dine_in": true,
+  "formatted_address": "246 Grand St, New York, NY 10002, USA",
+  "geometry": {
+    "location": {
+      "lat": 40.7183814,
+      "lng": -73.99415239999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.71967808029149,
+        "lng": -73.9928289697085
+      },
+      "southwest": {
+        "lat": 40.7169801197085,
+        "lng": -73.9955269302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "name": "Grand Street Skewer Cart",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1730"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:30\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Tuesday: 5:30\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Wednesday: 5:30\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Thursday: 5:30\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Friday: 5:30\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Saturday: 5:30\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Sunday: 5:30\u202fPM\u2009\u2013\u20091:00\u202fAM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101408599427719381927\">mcLa twofivesix</a>"
+      ],
+      "photo_reference": "ATKogpfcwN90HK_HiEolcR6y0DMvaKV2gfeUexmLuqqZJkdBjMD6iqWGi2PGY3MtHuvO52o9fFCWM01nCr25Ct7CxQ3nq36jNcHmTsc9N4-KU9dQ4QuET1s3KHxYunWsUz16wPTlAnhaC5NMtHbldQko5E-9Y8jVWYDqqU6C9ge7QIy3Ae29c22DU_82g6-u4BTlActaWBMfdZy7GZTHn8w6nFYSlJz98cvbGidVWyWlakiWS9TKpROh5JjMOd5EGpOgsetKwaCU2sJ5WeL44SDPTdM3Q4WmxuXpJD_6wk7TGSYBarQkNRfBokLnaA3qDo8c6WjT9GPPAjNwnd6wUd6HUaQfiR0n2aTIS5EcVbIRquD37DpqM1OatGsMymX1KYfpRzYh1lL8hclKHtvZlkX0fygpHkYjgMPkp5GeqFDDxlEnhA",
+      "width": 4800
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108048509502345537302\">jason pham</a>"
+      ],
+      "photo_reference": "ATKogpeG3nALQzSjLu4upgs_l2V58qLkzr6hY4sXtx7TR5XSHRlGhhNdMEOoTx7F1kbYCjH8T-DkB1FpIicKIhw3ayRS3sbo-D44WFyyiDO5GVzuBdghp1zRAKwhMVWo47rnErtbpgStKzFOdqHC50_8PaB76C7ilS2sAqkb7Zjm5qVn1ney3Oy4Yv2clW05LQIzBciHbwQlxyBOJHllzAobkl52dZ7jrWTlx-s7S06ckgiT5534RbeI3U7OIHgouX1NVPTqIgrrrPHgQHc2cHGHEYPfS4RRaFF5VrE9VXTLh5hqVQBs_xSuhOaXfnrXgbQ13TWIPVRKvEtie4YcdIU5eGNXZubMncVv3xQI9SMCyCB86rBTK_TmPgQmt3ns_PsKva1tk6YsaD9E3AQiGvQVdA5ctnL8xrWLRaU9gGpjTVw",
+      "width": 4800
+    },
+    {
+      "height": 455,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110508482987837563308\">Grand Street Skewer Cart</a>"
+      ],
+      "photo_reference": "ATKogpf--R3L2ZB6FPdwZdkQakKe0Xu9Z3ea0fHNdqEanfLuc2l-tiv4A11DfGFXASXuF7KFcphz1qVyHgF1lvu7RC8aB439TO64XkgKCG1juao-qfWNbk_nsK7qyWLQdIJdDpGkCuVPSeIt_Jmcth-OspnfOpdMF4sjj2xadhSVF0eaaw_Uaf2F1VyrRUaaPHux97zkZuvhztyhrWgg7bdk4DBZeBtzyjS7NOwEcJjuCtxfYtuwoZbpCQiAzKceVfgdGaUW0971U2eBFlL784Or_JTZ_kK0vgY02MB0VL3yGNaeqQ",
+      "width": 610
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115756168398495710009\">Zhuoheng Li</a>"
+      ],
+      "photo_reference": "ATKogpefKRjrfqypKyAznJVJkzLPh1RlHI7bWT0uvCllulr2B5HFLH8DrWF1WKluKAgNNl_dFdi2113Q2xJizXAqQ5PHzSN68pAdBFHkhh3L20chAAHw5HGz_M26o-Zwd1KcRw47-_kiFn2OB_-Z1AUgiLa5gzp_f3WU_rmLfKWY4LR9TKbgjLhUzBNzdYDSNda7pClblf7_AZ6AHWEyMaZrzsyqd4L4Pbf8xFxs8qMTAgw2X8r_BFfzHNOBocjAvxh3ieIidVTT7Wpcq8w3_Y_HjKzUxVTD4CzC5iboJ7EeJmnoa14x1pVFNHx6ntW9HPp3U1QxZCWIIGZMVM51D9yidAdp1cCdHcfpJ77hccfFZe9riQhKGOJUZQf73_qJgHOXSGQzKqXLG8XXLVCejrNQy8psvmXO-pqjXFP2kIxFryskQQkB",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104508738990569176054\">Aria Fallah</a>"
+      ],
+      "photo_reference": "ATKogpfP_PtKI-ZP134Lc3yEdOL2iNN6jz8Dwq0bRqrCZUNaaCYfrGo_GsyaQQIaJVgJ3fpAEdl23aQ7OPNYer64yKD05r1O8SN_ynajYQIdgmYAIqC3Qw9fiTMwSjnueMw3cA8gLKQoBnoET_62dgVPDuk-4MjtDj4-qZxi6hIJlAQwhMHcnQ9sfElk3arJeCBRmQ4vPmcIGmUxlQuRmaW0X6fyGcCCO-fGnhArbu83DsBkEN47AfnH7-KXaGrREILv0l4RpyNSdB_Hzn2xEUkHFCSh_4CX4hG3awwW7QlPGLZQPQRh8-ANYtrdFmHsFCWHfzBDV8CiDhHySScYdmFMot3TQ6rYoSpjKvZJNukTvv2oiBeICWRnNBzTj2G6Go2Rn3PcAXyCxgCJIE2538vPkNv5YXYErLhTQHQypMeT9V1oAhRB",
+      "width": 3600
+    },
+    {
+      "height": 1020,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110508482987837563308\">Grand Street Skewer Cart</a>"
+      ],
+      "photo_reference": "ATKogpfASbGrW8r0xdkW3iMGO78IGSnJHq5Zja01gJ-6uodYtozp1MkY97idYEmjbbfqXTpKsJk2euJr63SA1aso4xq0lInHkwf4sAunOSrZABxR_YgpLwCF1hdl9fkcByka4ACR_hajMTRHPh3bQQSX3iWk_G4DWQahO9IZyfa2CiGRgopVo4gE-Rrao7jmK1IYFhSNJTy1xlhePJPWsMxDKAreXdzai3ucvDxUmfBlkIYXCXh3eT5RvEvJNx1OdLXaMEm846hvyPG-oBfJGT1Lh-quTbC3zoKkh4cNk6Kwy9ChoQ",
+      "width": 765
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115095695647677579516\">Yat Sang Yan</a>"
+      ],
+      "photo_reference": "ATKogpePCzu434wD9bLoPB1pnoOGfrIntdTkdRUAiPE5BWNNEJn01C2QfPLvVgjTN7c9f8RlhnelFy9aK-q6DxA0aZgCX4fqcIfewpDqbCFkDzQe0jOwNTJaNg9RWJUTdx_VFlsOn9h5IUnx4BasGhIA7Z5nTruHKEVMm6cRJtXvfcyg1gYeKsDEono4EOkiKqRb0uOlJTC7fB1q2ndeAc2r4m0mnkJHrC5GUaRFknvCxuv2qTcFaxlPS0mTJpmMOOEEualmwCvn8s0xGDWMvSiZ9N2yHflGsBzPsa3TfgNZygudg1S8HR0SFfDOjalaFcXQ4zHYgaA5rfbHuwg6NkZwkoVKE4XvTcPvhticMC2RA4dt9y3tj_NAh4JxREDFXjmbcrxkm9_mC-SJBYoRvz_x3QJFy_b4PceXV09N6xyikKPZGUZq",
+      "width": 4080
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100886487730164013200\">Fred DaVoudi</a>"
+      ],
+      "photo_reference": "ATKogpcpb7P_TIhGExw1OKaesszZ2JqhcWFPVfzOgGlqwgR6ieHzqLlJhMT3PexatX6WeEvjZQoLuqmo7JCYfVMjcrlJVwXzKCnwJRlgO88MlYuVhp2HFUIfMDvOaP7YPIm4429bYHXVqYsULuNbv_v4GoxpQR1l54JMgz_gKpuDdLPZHWE35wDlplOPaBg4r7s-kuchpINGCnKb9EIaLjfKK52_MnUZV8uuRpg-FfLB37D8-7wVYKxq7K-8RthwWZcbw4yOkBqgf3YjvxCpGxys6Za2gZpIxnQQ7uRSd2kw2nORN4Ai_QNQ13DQpkDj5Ijb_e48IRbJgAu98QtgRaRnPZmNSgyZyyuCjXQIS1unOy-8Xslo9fQ4VZbceXtCH796gM43fGe6ndH88G6uaWRvO9axn9vSs7MZKYpaCgEzYdB1uMtf",
+      "width": 3000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104257437334802935411\">Y Huang</a>"
+      ],
+      "photo_reference": "ATKogpcP2RoI4eMtm7EL7kfMGEQ9PuO2rgzZRCBzlCtDNsnNyYEeixR83QDwLBBpw5jqO5sGEeho0dyoyI9FTeocNeom3GUFTUbD3GgdRNEVTZHZ8WqawmXCG30V7aDtC4_M2yRWspK5I4cg2oaJC-0A_cEsTD8egrztO_39oIu0362P_EIb2duR0ViALgFsJJdTyDmWIXDz5I0qhYafP_TrHdoOG134a41CE67-9owluWT7I5qsVrl2nOpjq8IWl-lm6Sq3GSJL_KomF_5rSVD9YTH6mC89JXAhjwWSH8FwELzgFSkbipGb_ohiuUQJcAaiIQsjjfmNHtoP9rbTyTfWx97iJzOKqPslP5av8S-lzKf5YmWp9FqlLVjYXX_jB3V9YiAXiuRGErdzjxmIl58obKCx7ff5Woz2Ucd8oVXCjlU",
+      "width": 3024
+    },
+    {
+      "height": 1920,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101408599427719381927\">mcLa twofivesix</a>"
+      ],
+      "photo_reference": "ATKogpdHZneJUebWV-hTcqpBzMAN1KDPJOLbqwGGyKT9Q072wRzOJBNvoSc3njodckrlL96DXPZAcsvDR3RZMkOeiyAaIR4zJxmaAZ_EvxMGQ8WgxlBRKw1YmHF3pQvyhH46sv3rYmO_tO1d24PHVmTVXOuWk3WbVfhdGSo2ig81Ikur7V9jXfylohWNngINMECXvV6yPu1Fid_rUzrvNjkEuvuED_9wuOvP7qCj6tOWz3y42YDbRI1J3sPpRKrbU2Oit3Govg7uU81_YdGZs3nnWhEQkaTTJEDOg8ZwAnEwWiR7CLztva4tBN3td38Oc7LF0-QrrTeTfbsTyH3XiplhMYDv1-8rxB33s_lwFugHv4-oXOBYSbWppgnD8vNNSGayufgBWGZz-wKdt9U5-95Y0hm-GogOhA6peJly4b5SxCk",
+      "width": 2560
+    }
+  ],
+  "place_id": "ChIJ2Yua64dZwokRcRfpZvPnxg8",
+  "plus_code": {
+    "compound_code": "P294+98 New York, NY, USA",
+    "global_code": "87G8P294+98"
+  },
+  "rating": 4.9,
+  "reference": "ChIJ2Yua64dZwokRcRfpZvPnxg8",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Claudia K",
+      "author_url": "https://www.google.com/maps/contrib/104763408168368928767/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKaqB1RynVLpHZURMJzSCgJivYEf1km74nXyCYGC0u5clgu4a_0=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "TLDR: A little Chinese skewer cart in Chinatown serving up classic skewers at reasonable prices. Lots of options\n\n\ud83d\udcb8 They ONLY take cash\n\n-[LAMB STICK] $2.50\n\ud83d\udc11 Can be made spicy or regular\n\ud83d\udc11 Opted for regular but the lamb itself was seasoned well and grilled perfectly thus keeping the meat juicy\n\n-[SCALLOP WITH BACON] $2.50\n\ud83e\udd53 Similarly to the above, can be made spicy or regular but we opted for regular\n\ud83e\udd53 Scallop is the perfect level of cooked that allows it to be firm with a slight snap\n\ud83e\udd53 The bacon allowed for this to have the perfect flavor profile especially added to whatever they season their skewers with\n\n-[CRISPY STEAM BUN] $2.00\n\ud83c\udf5e It looked a little like toasted marshmallows but was sweet and ever so slightly savory\n\ud83c\udf5e Made for a perfect \"dessert\" skewer",
+      "time": 1745340559,
+      "translated": false
+    },
+    {
+      "author_name": "Eric Chan",
+      "author_url": "https://www.google.com/maps/contrib/106987485447809165094/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFZTiXL-3ZXgaN5p-oA-teCMlijYKbiNvMdhCsfMq9LB95VZaY=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "The best in NYC, friendly owners here. This is their updated menu from last Tuesday. Highly recommended this location if you never been to a street skewer spot. Yummy in my tummy. They are open 5pm-1am. Fire schedule for late nights.",
+      "time": 1749209884,
+      "translated": false
+    },
+    {
+      "author_name": "Katherine Soloviev",
+      "author_url": "https://www.google.com/maps/contrib/112974788699712857211/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWA4p68mtB1p62d5PliCtXZhq1VurjTw9WFR39yB8SPVZHPrRTF=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "10/10\nSuper fast, super tasty, super easy. Had the chicken & the prawn, both spicy - they were sumptously juicy and flawlessly cooked!",
+      "time": 1747100244,
+      "translated": false
+    },
+    {
+      "author_name": "Lilly Nguyen",
+      "author_url": "https://www.google.com/maps/contrib/108267302082156440582/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW0V12X_j9IUKoiepDb2YQQgXmgfXGRqE9OUeoqRFZ5ocSBdooY=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "This is surprisingly well-seasoned compared to other \u201csuper salty\u201d places I\u2019ve tried at lol. I would recommend eating it right after they grilled it so that it\u2019s hot and fresh. Yummy!",
+      "time": 1743185153,
+      "translated": false
+    },
+    {
+      "author_name": "Amanda Wang",
+      "author_url": "https://www.google.com/maps/contrib/115831370021301095459/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW1GEUVXk_S180lIbVxzHuNHPfCTibfe6brpaiVYiw32rSvrRs1=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Spicy powder on the juicy chicken is what i recommend, it is actually spicy lips tingling. the beef is a bit dry. Nice couple operating. Addicting skewers we usually just eat it straight away.",
+      "time": 1742439786,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "establishment",
+    "point_of_interest",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=1136850988547250033",
+  "user_ratings_total": 246,
+  "utc_offset": -240,
+  "vicinity": "246 Grand St, New York"
+}

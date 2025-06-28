@@ -1,0 +1,425 @@
+{
+  "address_components": [
+    {
+      "long_name": "1104",
+      "short_name": "1104",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Broad Street",
+      "short_name": "Broad St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Watts Hospital-Hillandale",
+      "short_name": "Watts Hospital-Hillandale",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Durham",
+      "short_name": "Durham",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "Durham County",
+      "short_name": "Durham County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "North Carolina",
+      "short_name": "NC",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "27705",
+      "short_name": "27705",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">1104 Broad St</span>, <span class=\"locality\">Durham</span>, <span class=\"region\">NC</span> <span class=\"postal-code\">27705</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20096:00\u202fPM"
+    ]
+  },
+  "delivery": false,
+  "dine_in": true,
+  "formatted_address": "1104 Broad St, Durham, NC 27705, USA",
+  "formatted_phone_number": "(919) 972-9212",
+  "geometry": {
+    "location": {
+      "lat": 36.015801,
+      "lng": -78.9189596
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 36.01716628029151,
+        "lng": -78.91775646970848
+      },
+      "southwest": {
+        "lat": 36.01446831970851,
+        "lng": -78.9204544302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 919-972-9212",
+  "name": "Sho Nuff Seafood",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1800"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20096:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111338307603182182098\">Bart Wielki</a>"
+      ],
+      "photo_reference": "ATKogpdqveFaR1RMjXVDv9B5kHFiIizltzG0epSGL-acmKflryQK8xhbF65Tsb-nF2rfCmnJqWyegTdNXR9L6DO905OaokbAdVfbSpGcBEQlqiBdV_GRVY9G1ZQsSEaWEEDnuUV-29bPumX1EuEx6odgf3XYP_7rRU0y2umrFM-x9aON4nm22gdlg4MjbS4phiRsxpQiHWozYo_8VIXv2m2dFn_25a_0Dc00zcihldESAjsqSFmQDyWbFNK-JpYx_51nf6H9FP53-T4ldrupev4zsCF-oVJ3pk9m8pIZ6HzoLZ02eFL5lsZSbq7AafOn3c0ihGciYFjeNwqcRFO5Ik4nOx_aMFZ5F9LMWB5AQ6WeSJ2jZ10Fy2G9-0Guk-wzHOpKueUlE5rs0eYrsvYUE0rXU_ZUjj084ol35Rqw3HjHHRPzalU",
+      "width": 3600
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111338307603182182098\">Bart Wielki</a>"
+      ],
+      "photo_reference": "ATKogpfmlh9E0em9BjDo6Ka-aLbTqMWecMrv4vJ5Hn8n9NHcA6Qfa6-iDA4WPlYifz4FLNqqthVXVnRYVLCiTAps-GDPRFvYuFAFWuGQwb6hmfYfPflfoFvwpQbgTd7Mfy70-ITybUEtL8b8Vm3LoUk_lvexh4E-8grkuqSsRDskNOgpujwteSxc6cEZHJbahRGBS7Yl0MBvStIfOGy0kr1QRudUcR6CoLcQZZ_CbfcJLh2PFGMxeqHmKOmNULJWELrQyepOVNyPcW9PBYbqDCFgq7PK_jxTOr0HK1QF1LSfzOcWbyw2uPP_ILnw2h45Wv7uQJI5ObwypH9T2ckiPpfl5rv26ccYOoa3vtJjoAOsPxvyK982Asc36I4VKBBMwViG_qUHXzcoBonRSTByKpvT3cG6-DhRnkq73g2HYee6vbf0nINy",
+      "width": 3024
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100593805677606358122\">NSA</a>"
+      ],
+      "photo_reference": "ATKogpc4s-m5BB1kU348SA3UxBO-oQ9l6ffe_l-2FAQJ7hSJvgUEhZyYp123Ne1lPAeBjky1IB3kAgKCXFc9IQyQhaEMZaY2KXSurW6UuTkp1XN5iqRIJ44-SSWP7SublbPAhxVaOYKi_RSWS3dcmOHBsv6oVYEnHW7Ncr0m47UiCRDiNPTPukPJ2Mtmau0Sk_-jz8w2kefAbP8UQ2pVlGYHhuAXFRt0BJyLlZAzRRX7WgFuR8oJU9CwOL5wOKp-5pG5VrWIHHaRegSgOOH9jgYnfFPPV4HV-JvhHTXaz-qu3ReKYLjGvMHWYWLaFy2C43DUI2UGvEncUc29OCAsoiMnDQcJtTpk90QFq8IPBAW0QUlAYk_k3Hs4KS2xG_jNDTY1dmDL4RVSosJ69IoTNrEUwgFxrdorJ2_IOCm1ZDbHuzHCqeA",
+      "width": 3072
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100593805677606358122\">NSA</a>"
+      ],
+      "photo_reference": "ATKogpdjgNWkFFjz12rKHRPR4_JT9my26VpA6Ewu5jjIEF7cBz1-TCW9EibjUe6M2-yK-fUkSsocUHU3o_eqJElgNFJ2-JUhZB0LkDf_wfN0rJyEeG13SYLbw4EK74dy2IFEavGDXRen8EjNtpWUrilbfLlKBwYQMVlpHPAqKsQFK-qN0r2HNcYAnIFkGQZvJcwUiJhOUdwp5-m4Iv3nPVbiaT_Etvkb473OVGGid4hUDvTV-5LKsNcuGyUzw86whKSqD2e6jwD9MNn3jfW1NS19rQfW9oSmeSQlz0m0YoGAI1F-ozJ0mv39WNBgdeTtjpPuJFH5-T5oVQOpTyoC9FS8kvuWC8EeyNnUwnrlnIhsZu5S1yQy2hGkcsEUuEpqTAZ69gNnW0PBHO4VKFMcxMrJgTY0CPlo7CccrlvZiHjR-zBEOP7Q",
+      "width": 3072
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102589379785732359926\">Clifton Cox</a>"
+      ],
+      "photo_reference": "ATKogpd0wK0e15qmehvC_jt1g8qzu0xjBu4mQZ9wPCfVm16ehHKwmarlz1NRrk0HXrcIuqmBdJnfVAJcZpIgpGBM9v6OB5suH4peu7Ku-sVLGOI-pZmsZK14U9RTLvYEGgxNA2kqaXcOe9QgFJUObOS-HGOYvbts065MxrHcusn-FlQ3M10hQV9uSa5U3EjnbnN2tOBWuaQk9qPM7551n4g5F__QXeCKjzr1cIGnrkPAGiFxobAMeSu1b6P1g1FoixcWy0oyEn07zYI4r_NUm9cKpw-DT4t6fdvx25sQzRR-RypcKN2oAdnfOPxpTlrvYfo3YZRD8o06x6_5mMH4PDE6hlwHgLJJ0TZKyj-OsqRjYX0oNTmSVZPJ1AsQK77HrTaEqh5AOqh67HD6jnY4MS7lmW_zj4njlTy30HwZasJo6Rc",
+      "width": 3024
+    },
+    {
+      "height": 3060,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118289879321615738524\">Jennifer Johnson-Bey</a>"
+      ],
+      "photo_reference": "ATKogpfFiQb7XdCDgbXz90NB5D0ySEXLX_0w4J0KJbN0dblDpVXKrw1ox0TYGmoAP-5pwEDYRbn6aNLlZFZW3elASIZAqrCalfP5MHVqoS3ba-h9srIJ6d53-rm5CsFWlhFU9uHYb2nPB_sCyYKvjvgcp6RZfZtePSCpGB7e9upEfIls2EsQtAbtYZGfstd8DDuQUgMkaD3qngyhSZUMi5kzyeVxrJE4QBYm78aTU03C1mk51l9dj2um9fqEQsSDhNG4LfQxDNIqK77odGMv1uCU05_tV_sWssGztNlWmT-YXGGZ8wqN7d5dnyPRYeT4KrxKFn3fx2Hld_arIeRQKsrpwZ7n5R-q8z38Pbd584aEOVLhbwtfH_YBpThwTTxX0zRqROCLMqD-i6BWl1DUwWbXij54-_444Yrm51PeB13DiKDTWaY",
+      "width": 4080
+    },
+    {
+      "height": 3060,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118289879321615738524\">Jennifer Johnson-Bey</a>"
+      ],
+      "photo_reference": "ATKogpe7sb5sIcIoSNvlL2C5o5Hz1duMXOrrznweaulxO1z6sO9ltLj99tzwD1PXSZXs4LVBLcxoViqBNTaG6XGQumA0azaA_joF5swux-un0AOwxmMBOQtC0jHx4vkteBRZuRm_5eMksw_PRWzd_dTT4X4hRmzLfyT_Ul7kKyN_5ZxtObnWgVP3ajO0w8lRsWcxl-37wGZF43W8cJvDhVoFXmUUv67e4ZHDNcMyNYS3MnFCyMTRJziI0UQpiIgfEoOf9ksYPVjiYgWRtqJPMegdFXiujcy4TGRD-iYOzl7ksy_0qNQqozM2wssI_2myLEbEHvXTicwgx967qKD9R0DmM2a8f16GTCNH3JHi-AY8-N42OdgWKv8hEhqF9fFrE2IlnyQ7J-zgt7IT26y_pETNQgwGBxMtmE9AcaD4DJ29bNQ",
+      "width": 4080
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110938781406724097797\">Arlena Roper</a>"
+      ],
+      "photo_reference": "ATKogpcyu1RHzCTZhrJJeJhDWlEPs6GiMS0n-sMeQMOFhBy5i457SDBw_XDBVWtOvVots-YZHejR6Lj8oABDcPHmEfklIEb4FVa78YbcAhOqERWBc4_AOhSOBvgwqqvqvO6UMnQEryy5n2ffR8eYewn_p2Py5aiptxvrUd1dBY2wDkgUQ8BjrUinqna0opLvIWCzdkdP5l2j1QNtNSD6ryj6Y66pFg3UHSkF3FiuhVyisIZzbfu9nj7A1MXYztSIOyX2HiW3vMLj6ZOoSJbotYnFBMPGpDNyhKHb0TvHRaJNf1ZV1nsVZEPoJWjAwpNqt0OktmlXUXuCvsD_Jatj9EJ07eF5BF9_xnLtlCE7sSxSGeM2n2xik0aCrDYA0ZWWJkcAExmI8paJqXz8cMlx_ykSu3HxntkWTUA8jTKDVxirvhqbcw",
+      "width": 3024
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110870251789210124687\">Fort Polk LA</a>"
+      ],
+      "photo_reference": "ATKogpd07ILs4VLP322mjCkzWG1lViVfEi4NZCZswmA7rRQ_MPVe5Nv0_ID8zdrkiDk3t06O43Fu_Y5SVWpVoWuHNXWejrh9oWmqxNysrmhbWHVBjCGz9NK8MfkK3LA6bJJCcYi3VFFNzIXhaYyP2m3PZfNj2VoJWZLqwszsX7VV5sysqJvUfChbqUhfAzh-WZVNGt93H0Nj-aAU-HjVkFlWhK2zcV5sb8vck-97wsXa4LbGG6pCSkZWuE9EXn2-RAsUCdzbJMFM4WyiFZJ62FSG7PcCp5ZeXkVs7SJGCObGph8AvYXXm9PZvVUI4xBbYkmbpeaj1ax9WDiGaeOYEGUsCnD-p6JIHNT2ff5WnaLOxrmaD5g46PMH-IeOmMx84qB-b5g_5foJSHl5Y1PiZR1GFg8jyzGDq8rqtkOoXvxfR8aNWoUB",
+      "width": 3000
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116360174596059444088\">Ronald Baxter</a>"
+      ],
+      "photo_reference": "ATKogpdp3pQfW3CTW0LKD2MGBzPHjAS9gAUP3qCqmNfbnRwQCAolC-zBpQcdEpKPWUADcDc7qe1YYzU5SYoswTqJxGzdiUjd5F2je1REW3R-mt1HvAnYQfojqmtSMys6Y97kc_H0iVeB3ivhqA9tkUAUdkwwUkIQQMhyGBmA1FmqPsQQnTm3OLuKPBNXPkDYb-NntduS-gryw85JMM5z6O9GBgHyl8yVSW8WN-bGme76d6M0Ad8frrhePY8mFOaEexP_fpMObTcCO7Zn97RoO-3a3MLd-H3aw-nL4biGZeb3e2BqfYpX-2U8PYp7_hqOaVa_XrBPH0amg6VF011hCnZtoCfQHwPtD3HWtk94NvVqG2pVDXj9MZp1RwnBQfGfhbGuRAR7E_4iudJuXp3qTR7EIvb5sWPFbKaa-ZUaBU0W2oIDOA",
+      "width": 1800
+    }
+  ],
+  "place_id": "ChIJowhbU3HkrIkR819af9WuGdc",
+  "plus_code": {
+    "compound_code": "238J+8C Durham, NC, USA",
+    "global_code": "8783238J+8C"
+  },
+  "price_level": 2,
+  "rating": 4.5,
+  "reference": "ChIJowhbU3HkrIkR819af9WuGdc",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Bart Wielki",
+      "author_url": "https://www.google.com/maps/contrib/111338307603182182098/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2C_uV_doEOwk1ypEHrzavQL74kcDidQXLXX9dcPxpvFqRO6Md=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "Great seafood \ud83e\udd9e \ud83c\udf64!! Fantastic taste! I can recommend to go for Triple Threat Combo!!! Lobster, Crab, and Shrimp \u201cOh My!\u201d\n\nFull half pound lobster tail (fried or steamed, with a Full Crab Leg Cluster covered with our famously delicious garlic sauce and a dozen sauteed large garlic shell on shrimp set on a bed of baby red potatoes, with RogerWood smoked sausage, complemented with two pieces of sweet corn. They do mot serve alcohol \ud83c\udf7a .",
+      "time": 1748777500,
+      "translated": false
+    },
+    {
+      "author_name": "Fort Polk LA",
+      "author_url": "https://www.google.com/maps/contrib/110870251789210124687/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUG59oeZZnkgdIljpBRx3VgNKBM-9W3r749MPNaea_4B9Ir73zY=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Great place for hot fried fish near the hospital/university.With a mid 90 sanitation score, I actually was full on the whiting fish plate. I read another review about the fish fried hard and that's true. Atmosphere was appropriate and welcoming. Staff greeted me within 60 seconds of entering. I watch as other patrons entered to see if the same energy would be given to them and it was. Definitely a returning spot. Cons, sticky tables and coleslaw was minced not shredded, looked like mush, but tasted good. Flavor wasn't overpowering the meat. I will update when I go back and they are busy.",
+      "time": 1743843154,
+      "translated": false
+    },
+    {
+      "author_name": "Maijoi Smith",
+      "author_url": "https://www.google.com/maps/contrib/101693513798490480848/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIPJMj4tBf0xJ-Ts40m7U2ZUy-HspYmkhnFirliZAyfU3hmFzg=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "a month ago",
+      "text": "Disappointed with my first visit. The shrimp was not cleaned properly and had a very soft, mushy texture. However, the garlic sauce was excellent, and the potatoes, corn, and sausage were all very tasty. If the shrimp were cleaned and cooked better, this could easily be a 10 out of 10 experience. Please consider improving the preparation of the shrimp.",
+      "time": 1747533936,
+      "translated": false
+    },
+    {
+      "author_name": "JJ The food critic",
+      "author_url": "https://www.google.com/maps/contrib/116273001501593850475/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJS4C__krO7m-qWGz3FufyLlO6JjFv9H0MeM0c-NPzdIhfosg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "a month ago",
+      "text": "I recently visited Shonuffseafood for the second time, and unfortunately, my experience was far from satisfying. My first visit in 2021 was decent, but this time, the quality of the food and service left much to be desired.\n\nI ordered 20 boiled shrimp with sausage and potatoes, but the dish that arrived was a letdown. The shrimp were overcooked and not properly cleaned, resulting in an unpleasant mix of seasoning and shrimp poop. The texture and freshness of the shrimp seemed questionable, leaving me wondering if they were overcooked or sourced from a less-than-ideal location.\n\nTo make matters worse, the sausage and potatoes that were supposed to accompany the shrimp were completely missing from the plate. This only added to the disappointment I felt about the meal.\n\nMoreover, the overall unprofessionalism of the establishment further added to my dissatisfaction. I had high hopes for this place, but it seems that the quality has significantly declined since my last visit.\n\nSadly, I cannot recommend Shonuffseafood to fellow food enthusiasts. My experience left me highly disappointed, and I believe there are better seafood options available elsewhere",
+      "time": 1747073529,
+      "translated": false
+    },
+    {
+      "author_name": "William Carethers",
+      "author_url": "https://www.google.com/maps/contrib/117462500734992987442/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXpbOMNlqI0y7l6ajQvoiYpKRLufV85hSsjWdia-45YahiT7z4x=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Great food and wonderful friendly service! Enjoyed the experience and will definitely go back again!",
+      "time": 1750517373,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_brunch": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15499611824560168947",
+  "user_ratings_total": 925,
+  "utc_offset": -240,
+  "vicinity": "1104 Broad St, Durham",
+  "website": "http://shonuffseafood.com/",
+  "wheelchair_accessible_entrance": true
+}

@@ -1,0 +1,449 @@
+{
+  "address_components": [
+    {
+      "long_name": "143",
+      "short_name": "143",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "West 17th Street",
+      "short_name": "W 17th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality_level_1",
+        "political",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10011",
+      "short_name": "10011",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">143 W 17th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10011</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1600"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "special_days": [
+      {
+        "date": "2025-06-30",
+        "exceptional_hours": true
+      },
+      {
+        "date": "2025-07-04",
+        "exceptional_hours": true
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20095:00\u202fPM"
+    ]
+  },
+  "delivery": false,
+  "formatted_address": "143 W 17th St, New York, NY 10011, USA",
+  "formatted_phone_number": "(718) 838-5050",
+  "geometry": {
+    "location": {
+      "lat": 40.7401563,
+      "lng": -73.9971736
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.74144083029149,
+        "lng": -73.99584321970849
+      },
+      "southwest": {
+        "lat": 40.7387428697085,
+        "lng": -73.9985411802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+  "icon_background_color": "#4B96F3",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+  "international_phone_number": "+1 718-838-5050",
+  "name": "Housing Works Thrift Shops - Chelsea",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1700"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1900"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1900"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1900"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1900"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1900"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1900"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20095:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1210,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104367914457807027646\">Housing Works Thrift Shops - Chelsea</a>"
+      ],
+      "photo_reference": "ATKogpfWQ5VwsLqwyi_wT6nhvFDYAo4rlQpIneQTSY7LUpc3v5wo2ekX6UFtXDTaPiA7ZmvQrR4zEfRRTjm57HKPvOYzcCH-J8nFZmWAOBAW_-nn4jFHw1l40-QRNn1irj4P1lIE5FCD_kbjTKoFXF1xuhoQKZFs4zIHboDbPzUxZ_IEkmlLdLinVWggJjQML4zUz-P3dG-8qsALdfoNgJAH3Gl6r9DfuzZ-6QydudS6bSGNfesGL0a9kp4kyOrI0rUE5b9T577lraoV_c_ble6-HcTF_6oQa_gCAIHjHO6p2xac3g",
+      "width": 1613
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117808460219123378764\">Ruwan J.</a>"
+      ],
+      "photo_reference": "ATKogpdWPDrjV_Czjp46Tv9ieqW1NSD0Swy0aydS9VZ5guOZ9SzE6BSHDyeX7jK_H8JSSOKeU7YMVdEhTGIJ6k-qJeqDJGl_y-FLzZZEgstFrd44xXctwqnmUkqhEMSTdJhSsASvlJGcZFv6ydTOg8bc_3Yu-ZZ66mlAgDJWhX6EQPwjB3Kc2CA0FIXfI1iXKYUnxYqhnRowmlQ8UNChU6L-TtHUiTOPzJbmTDoilmq2Lotkf0sU_W4Q37efBaViG3jW6jUmMd3mLkFTtkvRzwkMe1Dm9rPqku8-mATuNw6Pm1hFFYDfJNEmMTh4kyDqotvekGh_GDZngnPKTn-bg26EJtCdreoOfZt0VODEt38YAFtAmJKKL0EpOPF2AmIgHBidM4381rTkcGv-6md23B6aM8zIYo_8_xdhn6M7AS9Hh7mLhg",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117808460219123378764\">Ruwan J.</a>"
+      ],
+      "photo_reference": "ATKogpe5ZDRkEDWtgGRJGOaR6VmH1jqSGQvrBAMlYayI9uKz6OklUYg5s1I_BFb5HY7LOoS8LpuRcqxwy-2sM5wSMJaAg4NluxwFkaqJO8UiWryKeRVU_7HxZoJUMT_oRihB27IIDO6LggWZe7wQcHGJCwtaF3J0uQvqfFwm5Zwvk-ZWfmKBme5joOI7bFY5T-_RsT48UYPtYtqM9QWoFzXjrhJCcKNPA4XEbCW-lqOM28dCsL4OZBVVi0V2Ifo6SfGutlYjnCaKSkcHmLGlB2Lnak2RrSjnEV3tg0yJoPPxsoBhKzo8Ifz0ehU68xHGGv0xmJ8kUcTIh8xdX_D3Ll0nf5sLwlrX54wpctq9xlJkc8ouewCPGYR-ePCSQ68S2DAlze3R4rO8NUIt0nSIY2bXT3kjKS-R7BKwFzaKJJmXGI-7lg",
+      "width": 4032
+    },
+    {
+      "height": 3264,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110915890468443805498\">David Perry</a>"
+      ],
+      "photo_reference": "ATKogpfIg1HOfRw1U4R_OC9MSN6Kbv_2HQU9frXrAGQNY6Hn2zkb680XoPOV4VoynlIljblvfIYOYRPIJehAf-yhc4xwhvlLQ0xRMvpE3PoueAo46lt5HnHuEFJn3NGsJ-0qLIRcgGtJTjJ3GSJgxLSMaYCkvZ8uhc84h8CTSbSKcLliwjhZr8woGD_6ceRHk4MA7E2Hbyu61JkYbBPWijjR200fUBPKaVVXx9H-7de4xWvfdQ23ecT3467aiLH-T8Ikye3e7Eew1UzYHZpJ8hARG0gBUY1LCTPDwN_uAzjweCOJysuqvZrasPDbvvK3XsPAstsDhaxO22CrgWfCnuLji-6X94h3DU9hXVv5QuncAdOzxEUr1YngeuGvZD5FA0lV2-VYojfR9DmFzxTA5fM7Qtfh0aJx5UYNBonu7wIPEtzsQA",
+      "width": 1840
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117808460219123378764\">Ruwan J.</a>"
+      ],
+      "photo_reference": "ATKogpdzBRxeB69wzZ3NCYqADdL1Y18Y2cmT75VkNDHzAcZuwecSeZ4g5SCz663bzqm2qYl5FERjTUXkO4gsCB97hecXMbVsXOS5zfLGCXBt68XG7g3SD4u0JnmcMqFhttwlP43vteKr9BeGjXqV59dsEIuxtVNA23_uE9zLPZ4BVwDNkx1nDyywTvpAQqKQRE2YrOnWu-S1QSxfWokgzk7o8zKfJRmWtKWyhUltoPVs9Cyj2XSAXQIyzmFe7d9iwNWj6-t_YpB7t84iy21ZYZYWfI2drfPq-cmCBhZoGq-nowUh0YYBe4r_460kCPAkX9QwxCZ9arNe7udeHoP3mHVFxl3EQTeSQnVgedxf2cVXK_iBVAkceMm11DXxFmNAanfaMYDAESoZhVb4u6dL5K1htngbqNWdSRtdlmce9gFQXeo",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117808460219123378764\">Ruwan J.</a>"
+      ],
+      "photo_reference": "ATKogpcW8ALFu7u7_nfE0zpfe89gb7-qH0Wj8tz76r1gsbn-U8x4j0ODXBWkgO44pWtp3-ufVl8VLTleH_e7ah3zvwAkd1us6EOEGo1lMcMSl8qlXg1k4vVXLLW1i6oN_QmDaIaJWA1IUIX7kAnFZ_0yyUqGgL56ClXX3kXbeoBeScI59eipBABDCaOK9OaACzNI239ec27b9SLmP1vp5qvwlIfIwfu4dLQ2PX4pBXs9csIDIVTGjJb-jcFMLr9lKJrb6Kjl_cgZ-m0eDuz5QULMkiPN_Zi6I9et40nQJ7u7RPuOXUEuGcou1g2pTZLabIsMPIqoPk4N-mndu_uOXTxKQ2pkktrOtaNygROPLmxpef_QUmQqGfzKs_e11O17GnDbdhTKHDB0TvQBXNzXA4-tN6Gr-mbPmPhybHvbCyIHYLFdug",
+      "width": 3024
+    },
+    {
+      "height": 2560,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113784746814050705946\">Crystal Robinson</a>"
+      ],
+      "photo_reference": "ATKogpehq5H7Sc3bPn6ptTZIMCCUJOA4o9a7Zp5-GF02FDzjZKbiVkhpM_YhS-OXjpZ6k0GVsQhS6QDDiqUMMjXw0IqfPCdq29CNeo02mk5m-Vshu08SJFAthJvKbE8tKlR4Rtz8DdBfySvvGoWeAVZt_06wS4Ac8m7SwHcovLxIIm6L1DEZ54VOmub65M7zLrwkkeKb_jUoJZ9YfzasOHqrZeC6ag84wSpYouJdP2wA_g_e7OtMbeJLpQF0VKA1YdTf_p4uet9EehnLgxhRu-PV-dl1Xs7zSCqTHj-mqvmNF2ADhzpx-l-PW2AacCxaeuzTED0vIwOJvom9co0X2o7-zRI8hgyzGQ-hnGIBonOqML15HBlpy_zOD7jghtNpFUsU6IgHLzg3gHGLbwmTWHawT-qtZYdayFQkUsMkJSgr-gmtZQ",
+      "width": 1440
+    },
+    {
+      "height": 2650,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117808460219123378764\">Ruwan J.</a>"
+      ],
+      "photo_reference": "ATKogpfRqwTakXdWn7tzTyi5U99i6cgIn9caG169_yJKe-4PCjvM3yeUP9DjSsr35nNIAp9VVXqwqSvPLIKjewfFGyup1BpWWX8ZFbVTB7ahJdsRA5-gesTb7h0rG6ub4XUI8KtNQG1BHRfXEpc2BAYv8RL7XjoXM45MuqHX9kJ7y5v9FVfAFYW2yUpNtkk0LaqmutRo7UzpvDLyPJTYHBDVvAecMgrR2e03kkeMe8HTatGwplFeds2vtY6JFwUboteVxnFfAbi1Km2q1EWxSRDWvBGgJugz9Jw1pfZ-oT2gMuN_oaUUdRsMgWOGfjGTw9Top6dYzHxHg63i9nDMh2RxBCMo9DLDNhSa9Z9qWALC0Ez_Gr17q3mDq3Q1VqbLTQxS2Y9XB99-_40rN-T63gcum9wm_3VzU3GiRnfXUW4fMPfWQuKp",
+      "width": 3534
+    },
+    {
+      "height": 3120,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108681261714383211159\">Cassie Hamilton</a>"
+      ],
+      "photo_reference": "ATKogpfxg7_jX-j8toN5jER7ZddNgjbbip6txCJkkP5NJspFzIsFcEZVKg92ExSe3tH3a0AV0WAKlak5QqBVJG16qycMHTqFxAIWRfaP-XVCIafZ2Eu4BcKtv-SSQQgO61sgxFSieevAymWA1S8nxCjoheYoAG4QGLFwfpcXuZIMrFs2-40uTcY6I_k2idFqA39kJrcXd5C0JgvH1mAnilF2p6snLFd7PPX8_djE35fUOMpEC7x5UkavSTh69JK-lj-ZTbaTf2A5a3V_2Yqu8FxaeDnRz-wrbU_J2QDcXvpKOODg7K1DAWFbO_iov5fQsakKIx8UzmRNwTqWFXc4GQ-xYVLzu4tSs4nZ4UuKzLY7ceMzVP1cQAiVY0vYEm4Lkai4BD9WYvqn4XurlwjGnwl_kf2b9vXC3aGIFFZ-Gw_dRuIUigU",
+      "width": 4160
+    },
+    {
+      "height": 2560,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113784746814050705946\">Crystal Robinson</a>"
+      ],
+      "photo_reference": "ATKogpcF5J3WgIeYWbH6_c_rDt6tLeE6IKBqZXiKBBPYg4OOWlk2GgW7QPPkpYIezdvqLFssEyoKuZakFKcYM-M65RGXKIHN0M-eePJXS638AlUhIHl1KNdT_gKIVgLB3CbIYajxiiDjisdKIw_YCk3zq3WzohIDklU4AwnObTXdq_jgBg1OdPGEvTWJZ1mPUn6OG3JAB1hANzy1UIL09-NMwlHsRWHDPa6IbZMiZdi4Z6hxxZT3recT3PKEknm5Nsees4f0MwvBs_ciR-BnqLIvG2Fg0wbqzI9LZFYkUvPMpFgqHaHPENw_Ah8p0rk8Q0aBvrvSep-VwDaVH4QEBafW54ap1cv3hGyppTLXfHWYBqsMQQDAx-9diwjCoExGCnuCzda4SO-s5_yxVoEEQKf7oMjatrGMK0GEaof41koanrRKp2ij",
+      "width": 1440
+    }
+  ],
+  "place_id": "ChIJC_KG-7xZwokR26JhV6PKUps",
+  "plus_code": {
+    "compound_code": "P2R3+34 New York, NY, USA",
+    "global_code": "87G8P2R3+34"
+  },
+  "rating": 4.2,
+  "reference": "ChIJC_KG-7xZwokR26JhV6PKUps",
+  "reviews": [
+    {
+      "author_name": "Arthur Trusov",
+      "author_url": "https://www.google.com/maps/contrib/102147757169732211871/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUH53oepDW7EoyrBmgXHvQ8BYVYKDmoplAXj5o3SzCxhn3vq_fn=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "6 months ago",
+      "text": "Housing Works Thrift Shop in Chelsea is a charming little spot that\u2019s worth a visit, especially if you\u2019re on the hunt for unique furniture pieces. Despite being a relatively small store, the selection of vintage and secondhand furniture is impressive\u2014well-made chairs, tables, and other statement pieces that often come with character and history.\n\nBeyond furniture, you\u2019ll find clothing, books, and home goods, though the inventory can feel a bit limited compared to larger thrift stores. That said, everything is thoughtfully curated, and the prices are fair for the quality.\n\nWhat makes Housing Works special is its mission. Proceeds support programs to fight homelessness and HIV/AIDS, so every purchase feels like it\u2019s going toward a meaningful cause. It\u2019s a great place to shop sustainably, find hidden gems, and contribute to the community.",
+      "time": 1734475165,
+      "translated": false
+    },
+    {
+      "author_name": "Matthew \u201cMatty\u201d",
+      "author_url": "https://www.google.com/maps/contrib/107803705281896022959/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKco_UPgsfApwtbbZ9HPvK52NoZ66PkVxbck4VfrP3OGh9jueU=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "Always find amazing things here! Come early in the morning for the best selection! Best to come without any expectations and you\u2019ll never know what you end up finding. Best part is, by purchasing here you\u2019re supporting an amazing cause! \ud83c\udf08",
+      "time": 1735228568,
+      "translated": false
+    },
+    {
+      "author_name": "Rebecca Epstein",
+      "author_url": "https://www.google.com/maps/contrib/103123359191604575749/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtsD5ZQCqm6MO_Il5tD95O8jqwAZOsOY6wst0wUA4DP6RXII8=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "a month ago",
+      "text": "I have been coming to this particular location on and off for some time now as I am closer by to the 23rd and 3rd street location. So today (May 13th) I decided to stop by as I was heading in that direction to see if I could find anything for my dad\u2019s birthday tomorrow (May 14th) as I know that this particular location has a better men\u2019s section then the 23rd street location does. So as I stopped by in to that one later on in the day. So anyways when I entered the store as per usual I was greeted with a \u201cHello Welcome\u201d in a kind of way that sounds very forced to say when new customers enter the shop and I went straight in looking around. I soon noticed that the security guard was following me and eyeing me around the shop in a discrete way. Whatever I thought that wasn\u2019t the worst of it. So when I finally made my selections I made my way to check out and noticed that there was a long line and one older man checking people out I decided to look around and come back when the line gets shorter. Finally after about 20 minutes I noticed that the check out station was empty and made my way over. So I began to put the stuff up on the table and the man said \u201cOk so you\u2019re finally ready now\u201d in a kind of sassy attitude I replied \u201cyes sorry I decided to swing back by when you weren\u2019t as busy\u201d he gave me an understanding look and proceeded to check me out probably wondering why I\u2019m getting all this Manly stuff lol. Took him a good minute too I could see why the line wasn\u2019t moving along there should\u2019ve been someone else working the next booth over as it was made for two check out clerks. Finally he gave me the price of $44.38 with the 20% student discount for Tuesday\u2019s only. I proceeded to get checked out with my phone tab he said \u201clooks like it didn\u2019t go through\u201d in a kind of I knew it look. I said \u201cI just have to get the right card scanned\u201d then he said \u201dOh looks like I need to input it in all over again\u201d another 2 minutes go by finally got my goods. I then asked for a bag he looked confused then said \u201cI\u2019ll be back to find a bag.\u201d I guess they ran out of the paper ones they always seem to have. While I was waiting for him to come back with a bag some worker was looking over at his work station. As he was heading back over with a grocery bag that they probably got with the shops donations. The other co-worker a loud mouthed younger female began to demeaning him saying \u201cWhy is this table a mess. You are supposed to keep a clear check out table at all times\u201d moving my stuff over that I just purchased over not realizing clearly. She then picked up my stuff off the table and said \u201cwhat are these doing here\u201d not acknowledging that I was standing right in front of her I replied \u201cthose are mine that I just bought\u201d putting them back on the table she had no expression of acknowledgment on her face what so ever. I could then tell the older man then looked kind of embarrassed and started putting the things I got in to the grocery bag he brought over more quickly as the woman was cleaning up his check out table muttering to herself. I thanked him even though he was kind of rude to me in the beginning probably because he had a long day with dealing with other customers and other co-workers like that one. Really not knowing what else to say I left but I wished I stood up for him as this job was clearly too much for him but he still couldn\u2019t retire yet it seems that way. The whole check out experience took roughly about 10 minutes alone so just be prepared if you get an older gentleman! All in all, it makes an interesting story to tell and my dad was happy with what I got him. I\u2019ll still go back to that location again but I\u2019ll stick more with the closer to me Housing Works location. As they seem to be more professional and actually care about the people that come in to look around/shop. They will even give you some small talk if you want them to and they don\u2019t have security watching whatever you touch.",
+      "time": 1747319175,
+      "translated": false
+    },
+    {
+      "author_name": "Juliana",
+      "author_url": "https://www.google.com/maps/contrib/101048820604730490692/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV0gTCeVJHjYaPSSUY8n2cMW4cfuCNZrGgtefRWzHPhCDmR68BDwg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Very overpriced for a thrift store. They priced a j crew blouse at $45. Really? BUT it does seem that local stores/businesses donate their overstock here, so you can find good deals that way. They also seem to have a good selection of books. They also have fitting rooms, which a lot of thrift stores don\u2019t have these days. Wheelchair accessible but the aisles can get tight and it would be difficult to navigate on a crowded day.",
+      "time": 1702172557,
+      "translated": false
+    },
+    {
+      "author_name": "Pamela Daris Santos",
+      "author_url": "https://www.google.com/maps/contrib/114098151257436208513/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxc0kSONAPSj-eVOCjUOm2Imr1oCv2O7-MSJxTd450C6JxcgKK=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "I don\u2019t usually write reviews but I felt compelled to leave one because I had such a good experience. This place has extremely reasonable prices, the staff is very kind and helpful, AND they have a super sale for students and seniors on Tuesdays (which happens to be today) and I got 20% off my purchase! Toot toot",
+      "time": 1736887198,
+      "translated": false
+    }
+  ],
+  "types": [
+    "store",
+    "point_of_interest",
+    "home_goods_store",
+    "furniture_store",
+    "clothing_store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11192230826863600347",
+  "user_ratings_total": 238,
+  "utc_offset": -240,
+  "vicinity": "143 W 17th St, New York",
+  "website": "https://www.housingworks.org/locations/chelsea-thrift-shop",
+  "wheelchair_accessible_entrance": true
+}

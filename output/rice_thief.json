@@ -1,0 +1,475 @@
+{
+  "address_components": [
+    {
+      "long_name": "39-37",
+      "short_name": "39-37",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "30th Street",
+      "short_name": "30th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Long Island City",
+      "short_name": "LIC",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11101",
+      "short_name": "11101",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "2805",
+      "short_name": "2805",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">39-37 30th St</span>, <span class=\"locality\">Long Island City</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11101-2805</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "39-37 30th St, Long Island City, NY 11101, USA",
+  "formatted_phone_number": "(917) 832-7108",
+  "geometry": {
+    "location": {
+      "lat": 40.7521036,
+      "lng": -73.93439769999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7535138302915,
+        "lng": -73.93311186970848
+      },
+      "southwest": {
+        "lat": 40.7508158697085,
+        "lng": -73.93580983029149
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 917-832-7108",
+  "name": "Rice Thief",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1500"
+        },
+        "open": {
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1500"
+        },
+        "open": {
+          "day": 6,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110371788462060280274\">Victor Wang</a>"
+      ],
+      "photo_reference": "ATKogpcVHP9TpArOoqVG8bFfYnTkZGg3mBAd_PeZBDnlwtLT6Z0Se-RW9xLBMd5jn3mFycE_DpYS-L7_-TfVa8F4DEtMT6szNOa2BFqGaNP8OK3WOI27LvLwMZhzJkrO0gNlGTK-tvjs2n5sGWXhRsEekWH9CQaAkMc1VyDdCenLfYKUpItVvVLcZK5LajAE-nmAYmQ1U8c-31xPx-y9QMztKBUj1VXNZQ0geVElQcrodbV2GcOPTDP-G-WXOHjeHGKpHkPRVBLz2K-3BEukEDpFjuzJHGDjX7oglUlfYUTQX-2vXSoFojo8sw9KuSTc37ZNPesblRLJnMo2NoGYHq76nXoJFrAJFz2i73Hl-qzyepYWkaCMWivtn9n7BzygnQ4BaCnIA-pU-wzaz41ECavbNa7kvNV_AxBn4fhxZxSnxvY",
+      "width": 4800
+    },
+    {
+      "height": 2304,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107861592159847612684\">Rice Thief</a>"
+      ],
+      "photo_reference": "ATKogpdw32WXFE2V_VtEuZU9ziw_MurKL9rAzi8H5nSwFzFD4p77oascQS7sHcN8Lx-ZNYhMwXV4E8uByxJ9vTEnwvX9fkgQWTskCclvw5X1k5SiUmE_mL3-JAEYB3JOVDDBynd2Jb1YAbB7EeQS5fq0hkdlV2Eo2KACKHxhtCAQdsSxmgOLtu8DQMo7pXB2lt-gOpJYCDYZhB6bsCUaZMFXD1Uew3ZTUPDvNyGUqKgLuV_3yGk3hfF9kDKRG09eTYGt0XjQ8QF_mgBFkWvfkaxNXJmuruO1WRxHySnecRhFvSJ1iw",
+      "width": 2880
+    },
+    {
+      "height": 1848,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105955918457101748758\">clth89</a>"
+      ],
+      "photo_reference": "ATKogpcQ37vyOhT-vtixdwbwlwSI7YRo76_ePHDPDQwZHggwIp4yORjTcHqlo_J2iBdi1uBpnvG1T9pN2urmJgJRNcL2JtfcJslep7u5feGgjeEdx-NydrLyGyVjco43xbgKaVL5pr8wvSlx24I_84Cbh4UFIV9s9DXB4FaEbR82K2MhB3bArf3KZSno_2tJN2vN5T6UAvecyUKADN5zTs5keKTwitZ-9g0jGC_JT89LYV6Zq1Iu7fRQitl-Kv9NFCQhOBINiEVJMm-8oFDeDe5flURBNMFHk0KjzMwoXxzAVQ-WLZjGFUXm_InSpQrtLZTl9A_6NClAfQ27gf0W4HTlF0gkov-9AXCbEwVYnKhGeLLM2JKrDEa9WUg8BaTYZS2kZnjXddZrncFoqm5WrCQqaYbHHU3juSPU_xTZR8GwooN0-f-GQnEaQccH3oyR4oKg",
+      "width": 4000
+    },
+    {
+      "height": 2304,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107861592159847612684\">Rice Thief</a>"
+      ],
+      "photo_reference": "ATKogpfu2AgXnb7-eFmxUriUsW7iE3Gy2El0oA2lpzlEiLQ3g77tHxR8SEZ0-d_97HsrKmzJczspQHpBN_8uhGGBAB2LXwdQqfk9HVZmr8l3dMKmos5VUULy-Pxn--YWSLp0zCw4Vs4K3aD5Nuprg1vUnJp-tOqtx3Png7jY6NBy6QZtdTsUQmYkPs7XAAIMWEXzfOJ3EwWdrkCymZ6esqhBhCY2BjiCrGVXrIpBDK1drbmLF8UYxQQGExePnxhnQw_4DMq5QmvyAbtwsPNwPFlA0YYPIzU5BWjKaa7fEwFjeA0XDg",
+      "width": 2880
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116051159465667829285\">Susie Su</a>"
+      ],
+      "photo_reference": "ATKogpd8nKKBb7I9XcIJ_oudJDSZZCMrJ0pjzu9HFJUD0UgfBNhnxRzZ4xHX_DawADY-1DpCik01Q-KdT_5YzAvVfrdDiKfi9BJ18CkkXUe9UdRKGXWx0d7waIj6vBikAC0V2JCKcNBaaiWqK-LXcx4YDhd_q5BCoUKZR-B7Pe7kbpBP4Kgu3jnIh8MOOb0RK_Jw2dRmFF8uSb_M5agl8ltc0AMv8RBcc-4oUOftusQGsjeURW30df82TPgM_K-CUO0J625cElZoOw_Az64S9KlQsMjJgse77mrrRjxRvvoOnXuOZgW53SpCTHaH-xz7zS3uVq1Zd0ZJYeu8UR8BIIkMJsP0zfHydLP4NltIGOAQkeWLcCtcR345SJAO5aDmw8uF33nMMdj01zOTjM0zaWMQDG3Zc-Cbjy9v_OtDK5JiNABulDxxFyM7ueDQdV64vsow",
+      "width": 3600
+    },
+    {
+      "height": 2304,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107861592159847612684\">Rice Thief</a>"
+      ],
+      "photo_reference": "ATKogpfCUxSNdrzidOxY-ibuOvDkFrZrMyAUXiob0WlT1X-gkWRvUjlrh90HrsUVPywL-lhDZKc2kHYxBQNv9xHhURyQ-jPxVWrEV-ZA2lEcrdSprjGxuefER4GnJX4uL-o5FTDwVgrbNDzO4q-h6xATjommhh-g2ARgAiboOlOkbc-U0_a5BOqbAkE1nfi7fybGoPrbBsC2CfUQK9o7ViO1kFHcjcGcSVuDNHsWcbVstbabJDrRCvNhjCT_ixZ8-xs7gnP1Wiv8VaWL8gaTHESJBsUcgopVIWjxaIg34jGZojsvCA",
+      "width": 2880
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115499328070754850684\">Xin</a>"
+      ],
+      "photo_reference": "ATKogpeyTeQaDg2pIxwOTDB6LKuMRPBl37XSKWiyNPMJuecxKxRBI94XYoShGLYQO7UaUgH1Lgo9-cCZTfvm7iFJ1DZr3bqMp3AOHz-JH96qRZ9VDeN6hWjB1OctvMhNVoFpRhxDKZFXL-KIl-xbn9U4SVfNwc_jQpQIpMQnKm78pVZSxpXW-vYqYShETXV4qWiMAAqGSurIXGYpcEtkwlUAhLANFVnAhjH9XPvpAv9NieLiZM6IPay9oCmYbIyNGW4CpqqSuyEIizbCHa3Cdkjgg0KYaWD7fdJyePirynK43dMJw7rBLRh5snER-BYswhrgUGVaarM54ENopkjt_J2i7rocHA8zeWg7ED0Z8rQwstQtdgwTWezi4qH-2p7ei_S2qcpRQmU75cCqs40AzjHrKHby8SQZoRdSZYqKC6WCR054k5M",
+      "width": 4032
+    },
+    {
+      "height": 2905,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115343371569672100379\">Leon So</a>"
+      ],
+      "photo_reference": "ATKogpddkndwKYxefId-qnope90kxF-HoELdBncR57DrKoB2wrwjBxBpx01UeNj02jm7bT4jq_trv4zw5EV0uXPPiay_zZH7CRLEFkpvfTRKSwQ8rbdCkPxYxR2oRpte1JnOFMjt_p0VYQyCfI7Y5rd2zvAdk0m56lQH-FiKej17dxFdQMNYCAlJ3n0QmJZwx5E-zwoVDwhtNio-fkFfVxnqugNsI0C5LgXViKIgwSMDBNKzG_vGl9KDIZhsE2HBpopjyC1n2ABdMSV5g8CHMX5WHU2Niga32SCtgZ4CCozZIIEyTWu1R12-zgdFmM4FQZvSPacHPQNinZH4e8jzxaN_6MXeXCdSkQ9WvWq-94HlhwhPq1djlqPrtSQesWhJfyJCbS0vfQmGfO7aLF2E14N3ZXW-wYcr6yTPBrwcM5H1gLwMfjw",
+      "width": 3870
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104802686013278992577\">Yan Leng Vuong</a>"
+      ],
+      "photo_reference": "ATKogpcT1Z18oPE6l0EIarD6wQHESGHcFYmCqahgnVR6L8AC9h2jCh4QBrPfIOK0v_suoyLYsvwa1LOcchCKMDIvmYPhep39FaexMs33PSnDF-7XuSnkBtqWh6Nu7mtGFPoxXjMpemIss1bfuS9QjzxW7DMOX0mOPRkqmYeld7I2uVTFSWqZzCFGOw-uxKfyNOl0UWWoywP-NGfO5yiokNf56XzGHTKAafFleHSs_Wo_SSObKSr_Gwh9l0Ta6i5Q9VzOQyzPVJK7eJn6ouYurBbXzfTH9gPNfx_6xzBrOGgkhTsjMIz9Zrix2EBfMVwbuErJF-OBB-D8jd_j0JoauGIh8nZghf-ezpvg8stkzSYJS2-5fXPovC8-jvherBXQSQyUqW5j4rZ-w5Qebw53GiGtR0pxq9ft_xgFKw_QzF0-NeA",
+      "width": 4032
+    },
+    {
+      "height": 2570,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108671686870479154973\">J.Y</a>"
+      ],
+      "photo_reference": "ATKogpdfS38O2dOMDYgcH9L2l8SnyzVYlHIUkeldbrkz1s00EQNuN4wJV0TG6pfqoil4bDQyqgTpcTVnbNblrQIoW8LApEoXQcLfkmO9d6OvL2MiBVjFziIqcTzTrGaRonicadXTkrjtpCbGstsIalKNr2DAzntJI3CktAMLNq3FkIpvSdxlfuXxWUT-3LtUxlH4JYFwpPOGCrCLcvRm8uYGs-2722uijgf0ovcXbmxdPcTLbYy5D2HJEoSw8gxR4_XO8k139yL96cquAAfXKS2w3_dJul8ytPE57BLUVUpbOXO2MWCylYtBbfW4NeQjr8nactJHszULiE8-8QTtF96czc-6GRUiKHcyP2juMfz0js9dmo4oy7Y2g-fAURIPzYHbqM9Ny65t9RVtaFWFx0pzFpKMSBKhdGyvIkHAjx--k7awww",
+      "width": 3914
+    }
+  ],
+  "place_id": "ChIJnxFt6K5fwokRKBa4WLOwtk0",
+  "plus_code": {
+    "compound_code": "Q328+R6 Long Island City, Queens, NY, USA",
+    "global_code": "87G8Q328+R6"
+  },
+  "price_level": 3,
+  "rating": 4.4,
+  "reference": "ChIJnxFt6K5fwokRKBa4WLOwtk0",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Melody Lim",
+      "author_url": "https://www.google.com/maps/contrib/116516479854181595905/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2Tq1Qt2umA_DYXGfY8Oxr6EYWXDEeXFbA8wIEf1u_DIAq1pE=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "If you\u2019re a fan of marinated seafood, Rice Thief is an absolute gem \u2014 hands down one of the best in NYC. The quality and flavor of every dish blew me away, but the standout star has to be their new Rice Thief Tower. It\u2019s not just a feast for the taste buds but also a visual masterpiece. Every tier is packed with ultra-fresh shrimp, abalone, scallops, and their signature Korean raw marinated crab \u2014 beautifully seasoned and perfectly balanced.\n\nThe service was impeccable. The staff were incredibly friendly and attentive, making the entire experience warm and welcoming. The vibe of the place is modern yet cozy, perfect for both casual dinners and special nights out.\n\nCan\u2019t wait to come back!",
+      "time": 1744599661,
+      "translated": false
+    },
+    {
+      "author_name": "Victor Wang",
+      "author_url": "https://www.google.com/maps/contrib/110371788462060280274/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9YaKA5V6g39z0bHdV91QZTEBrhW6BNNM0Z74AsIofZjIVoTuZ=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Delicious Korean raw marinated seafood galore. Their signature crab was delicious, scallops, and the wild red Argentine shrimp were all amazing. Hard to choose between a favorite although they are quite a bit on the expensive side. They reservations are tight between turns so they do ask you to vacate for the next party after 1.5 hours. Quick and friendly service.",
+      "time": 1742080041,
+      "translated": false
+    },
+    {
+      "author_name": "Kamila & Nikita",
+      "author_url": "https://www.google.com/maps/contrib/111815477001273959699/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWy5BrJdxPDVj792dST1trNYk8_jgEDBZP2w3FXoVQmogbvwnJm=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "This was our first time trying Korean raw marinated crab, and it was amazing! Rice Thief could easily be one of the best restaurants in LIC. The dining experience felt special from start to finish \u2014 we honestly have no cons to share.\n\nWe ordered the Half + Half Combo Platter, which is perfect for two people who want to try both marinades. Both flavors were sweet yet well-balanced, and equally delicious. Eating the crab with our hands was messy but added to the fun and authenticity of the experience. We also tried the Spicy Pork Belly, which was one of the best we\u2019ve ever had. With such excellent dishes, it\u2019s safe to assume the rest of their Korean menu is just as impressive.\n\nWhen choosing between the two desserts \u2014 the Shikye Rice Punch and the Pumpkin Rice Punch \u2014 we couldn\u2019t decide. So, our waiter kindly brought out half portions of each drink so we could enjoy both without committing to full servings. It was such a thoughtful gesture that made the experience even more memorable. We are definitely coming back to explore more of their menu. If you\u2019re looking for a unique and memorable dining experience, this spot is a must-try!",
+      "time": 1741613640,
+      "translated": false
+    },
+    {
+      "author_name": "Lilly Nguyen",
+      "author_url": "https://www.google.com/maps/contrib/108267302082156440582/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW0V12X_j9IUKoiepDb2YQQgXmgfXGRqE9OUeoqRFZ5ocSBdooY=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "If you can\u2019t eat spicy, please get the soy crab - which is the highlight of our meal! The spicy crabs are very spicy imo and just a lot of sauce on top so it can be a little too much.\nAtmosphere is awesome! Really chill and less stressful compared to other areas. Service is also fantastic, the waiters are very attentive.\n\nI don\u2019t recommend the jokbal/scallop (scallop doesn\u2019t have much taste) and the meat is a little dry. Overall an interesting experience since I have never tried raw crabs before lol",
+      "time": 1745625126,
+      "translated": false
+    },
+    {
+      "author_name": "Leon So",
+      "author_url": "https://www.google.com/maps/contrib/115343371569672100379/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUuYj1LqsXHRqR_sXx39gcUrFwFnQzlGVxgEDClhIf025N5PZfP=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "2 months ago",
+      "text": "Decent soy marinated raw seafood. The large premium gunsan crab wasn\u2019t definitely much better than the blue crab. And the red shrimp was much better than the white shrimp. Blue crab wasn\u2019t the freshest.\n\nLet them know if it\u2019s your birthday for free rice drinks.\n\nGood experience if you really want to try raw marinated seafood, but by the end of the meal, the platter starts to feel like too much seafood.",
+      "time": 1743956888,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "establishment",
+    "food",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=5599857471015884328",
+  "user_ratings_total": 258,
+  "utc_offset": -240,
+  "vicinity": "39-37 30th St, Long Island City",
+  "website": "https://www.instagram.com/ricethief.nyc"
+}

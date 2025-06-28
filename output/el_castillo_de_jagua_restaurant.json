@@ -1,0 +1,554 @@
+{
+  "address_components": [
+    {
+      "long_name": "113",
+      "short_name": "113",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Rivington Street",
+      "short_name": "Rivington St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10002",
+      "short_name": "10002",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">113 Rivington St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Dominican-Caribbean diner serving breakfasts & sandwiches plus entree plates & shakes."
+  },
+  "formatted_address": "113 Rivington St, New York, NY 10002, USA",
+  "formatted_phone_number": "(212) 982-6412",
+  "geometry": {
+    "location": {
+      "lat": 40.719752,
+      "lng": -73.987875
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.72118498029149,
+        "lng": -73.9864937197085
+      },
+      "southwest": {
+        "lat": 40.71848701970849,
+        "lng": -73.98919168029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-982-6412",
+  "name": "El Castillo De Jagua",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1664,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112723940608667349900\">El Castillo De Jagua</a>"
+      ],
+      "photo_reference": "ATKogpcgvsQz6H4PEHmiR3tKhJWf32KWIJaEnqlOv0JfSjKqgD7O99qnmW5Kb6BRJUlkz32-xwS6znnnROtDjjIc7vUGnie4eGlepUzgnp5F9SLsOd05DSq_8vQvooR7q6bm6dFJgaFEIFYKyIYoak-DSNmReg5JT2oq63GhkDTfpU2M8hNhecqTLqiivvCSWqlVtkbdSRKWzpteglUluP_R4kYT050YvxHqNCivLuwC9RGkYMtfWJuWPizYKU0QhQs-4OBEjdxTJKWhGrIfXmMBU7KyfBF6qACzFEWZL6p54ofwEQ",
+      "width": 2496
+    },
+    {
+      "height": 1664,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112723940608667349900\">El Castillo De Jagua</a>"
+      ],
+      "photo_reference": "ATKogpchG9bldgaNdyxoklXU6uDXfrrMI57Nb_9lPGE3FJfeGLlS1UlyS2Jx69FXD3eKDIBc3zzKFhcbvypAqNmcPSPMWkNYodmcj9yVfBVbQllidQ5O2zKNHsjVWt8kocUzcyXxZDlA8GOLLh4Po-BRa5BkkJwtnWHgNbQK-E7-V0ZaypIqtILEVdHQh--tsNdzy_FrJyH_HUWfr6Cti6_EUeyd3z3d4au364KtuRRb9geHRMWsACUArvkvDglUoH0GNmtcXa7B9L7YBu3NLmCKnPqMC3Y8aXpjD7eaJK9h9jsfig",
+      "width": 2496
+    },
+    {
+      "height": 3840,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105601992699102170460\">Nic Garcia</a>"
+      ],
+      "photo_reference": "ATKogpdE4LwVvgr7QWWx7bqi4mHFUAVBFe_1HZLCJbHrdoZSQj_CNp0x4LKhzKUuXbvQhYRbr0MqWM9AvF_FEwBOcLQ--bvuW2mhmM-JggyiSMVqZeNLET5BMrS-B30d3dwDicvC7aJzGd4Cqej25hAAcCVN89r7P4oCeW0IwtWojmJ_o9rZsErZ-xHK0K1rYUPfZDW6FOvpsb0Xr7yxb3Rh05hkolicVzNpVvIn111U41ze6WdSsy2Nj7AevphtmKJ7cTJlXZWf3LivfGOpZGDG2Fz5d3LU7vQ2jjzZgU4V7QsOy7xP6rfkAmwsEX85ed6RLj-R0BNVLRyb1LUw76-6Up9Fz1v1C3g7xTwStmzkSQTQ2Rjyfem9WB3998EuVRmz70hLCv85X1P2gRs996jWUNseqrKeo40ukqllkKsYz2E",
+      "width": 4800
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101018675645764289845\">Ruth Martinez</a>"
+      ],
+      "photo_reference": "ATKogpc3AXiIzGsGdUgBvMHLfFEM4LUq3bey7h69ImXln4YqLZyVz8AXnodOQWtsz2qVj3Kurbq1aOU-FtC7TfRCPlbHSjyDqicsc6nUQKO021GXESu9b7sGmYPcoumZyA7H_-OGJJ0Ym3OcHr7wuc66God9AxRa0en92FyY2GPAcvI0Ze73YfvKwNQHGpTnazbOKMNjcMxFcntJJ0oIBwp6nLq3cgNoPjncDDhJ-7utggBKhCGqHHwZnb1QCQPjlk8UXQL8hZWGyO6wJoIuT7DQt_V4MD6A4KwHD0uqSoiPe9ip7YRYhH08T67CJtY4Wa_WQF7O1ZnzytaOJbVoB9nrUpfe-anStTplOB3yFC7hDPfCuNF_P7JENUcF3bIGNbrzjfWkSjOETfYbA84iGYObtOEnj7h4arYxJeuefdygazJ0iqg",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114918897175635007309\">Julie Xiao</a>"
+      ],
+      "photo_reference": "ATKogpe_YwFu83Zh1qxy7Gre3SPS8LHBUeYWHUG7KB-h3HsHjLBnk3ojAYNvgLx6vDu77MtEMR7sMKpYy6Zb48Zv_xPsHzVLDAxKNv_Q90tAywO6iiE0tBEv1CqMWXXe7dnf1JgDPyq7kUU7ZXgI3_D1XCyN1zPXG5FY_vR9pGqWyfTKHFIiMZhmqShRbP7n7eSTPX6iN6yXZN_7ZJwFiKczz9e11-nStwcV60mMYfjGfoK4kCb6Hn4P5iVHODBAkGMqZZ5p2MtdIx9d5gz2jQ5NgeHcY0d-QaK4fHc8XWP7bFe17kccsjXHEUmz-NdxnYE1SutDDZyI8ikjdCDCAwtRh0dGmT8lFg9rgJz3cNyegsx_VT1EAAeE1EXLebQw9J5Wv0c-WeCkRZkwg9aD1vaGfzyPP3XgHKq2dSw6Gg",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115067030352095840431\">Faye Wei Wei</a>"
+      ],
+      "photo_reference": "ATKogpcTCwXZLs0x7iRLL0U9HhRIdwhNizT6MVL7uukBWQBy4sB2sTKDuyvHuOZ7nciytWxOvhwzbjoxEKlRH8oaLmrRA41gFzRx49xJLYty8QbVv5CdF1y1YQjDuNJ1SnTqU5Jmg723swz_62NrC-68jcmkFpSCZ1ghcatzfCNlH_yb3CRLB11Dig8TYzrBE-gIAKJmPShmX9UfoN3qRe6eMHIs_RozQ5oFv1If_w-lh4MgPA6TYFKbeKNYGQY0rqfFIIoYlmGTR3InwNdy4-rb-qUudsDgGKS1SAC2lByOf88i7cpIyAj4QKOoWLx2A_VVg0ynyOEnRWSXny6rF15kuWphptv5jxUT_l0nDjgYa2ylDw0C29FLuh-Wqgzon4DG812aGL4QhDJFx_WAXDKzy64YfpjLczLWVd2aAcEQdxElIk8",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114918897175635007309\">Julie Xiao</a>"
+      ],
+      "photo_reference": "ATKogpcrDaRyDpFQ_fRUGDv54gBMmKWFOGCYMnQvMHJlu2vQG9InvrtYGHbZMcwhfJF3qxtikMKSCtVfzAY-Zn4VVTXQlzEBBo7rJFja9VbEgyisXNyhVNXvp4C1QUyvg4r33i4-_c3IUy0POzol66Azr1UrgUHVz8Iur54iGKztefoQhZZGkETgx09xRtTT7SslG4aK6k_CJQaKxFPFFEIorU2DtwVxrwGHSU3DF84u2gl2SeRr6Au8puPI1UfXbXp7f387VPYeexnaS-1w_akYUWvE2lkDFrYsGrxd-yam_61bT10Gpz10lBcCcU_w-jMnPGnAMWyNcwc6Jnuf6J2_tdA0-pveNTw0yfdq0P5-3LDt2CiYhCp_TwVgEob1nptLYccrdLE3b-YHV_XhPr1tBTbf-H2noxzEyc28N3kva1nCrw",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106920990761402796354\">Miguel Arce</a>"
+      ],
+      "photo_reference": "ATKogpcY6hFWzkh22uJi_forgHCwbEnN0HQ1DGeZ1P-KQAQR_Yh7Sn3a55H5Bp7GqFIeRZwLCt4izX3VB-FQk1qA93Uge1EBEHksf7pQxQz_W8Z36sJCJPu46ZIMuXt-nmONOETbc-aFWJ1ekrad2hSKpz0K9sGaNbHuzmUf28L1VNrczbyMWsB6XL-UKpbFHK6vnkSO8sxSU6Q99Q4cZrEwAHcRWbvQGAqskIy319lVIxwNUaIHvwVEV3IRuXeoVuZMVsczg09_N1NvRb1Jw2esbnYmOQ58zSRp69je1Df2GivYNPbRP4O2-S3rEFGOObsSiUeyeXIBATMHUluDXIgPtfwzBX3qL3-vkmPrrdPK7JfTZYPhH8deX4ENOL5f9QXzTzEzk1I1kCfBrnbdxzkZTJkvl70BOmGcTp3U3sufsytTLQ",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114918897175635007309\">Julie Xiao</a>"
+      ],
+      "photo_reference": "ATKogpfWj2EbZAPgU_FxeUp8UiYKzpO0IO6RGL5Rb8jly-RCNi_mW5J7PKPWoHeW1mOzubD24L6JY1blsWsQmY0fLCbee-cQX17UH2_c30CFIL1WyrnCiw_tvSscorco1zTnkZufZK5rkFdkthWyiXCO0tgS-yeO4qJVHNqsPpvw9FGVph5RSPMsHq97jfmVzvjcBpq-33NZm_UyXzmaSc_iNcZPKk2FwbVGMiO6QsWJrfjkqL8_I88b22d-f163YFgadYXfla9TZlL4rJcfrtoN7nbtraoE6bcMcqPGzFHaOdyK-QbSMSdX6OR64n1oeFvHrAHTCKRsPQfgWLBjlrDy_xjmzhDkSIXzHgzLXr5SGs3xHN6r_9fMtnxYmPAAU4i9sly5Z6F-srF1BFKN59Etu0ijQjMzXRFlEnlYPoXOlrg",
+      "width": 4032
+    },
+    {
+      "height": 1664,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112723940608667349900\">El Castillo De Jagua</a>"
+      ],
+      "photo_reference": "ATKogpdDW39H95hjld7kxZqzpq9KDNvIggn9KaYHRYlydh0_eWfWswn_jgzKbsJuFBbHatVStVC0NF-VWYNBqbjjFoJ5OvpVQaAH5Qc932Yq5adODCYtlU1jcCHr3LbI7vFjdQ73g6gWUHHRbJWHmJ2mC3m0iCIt6DUCn58nsepPrxz1sxZLd9eJE0HETfxipR9ojv2KHGvPEoatk2-JRNhVtjfMlpV8fdr56FSpXd0rsbL1D1sefvXWAepFndN487PhDTC4OXCVG1IEYa6GbTDolfJWDCubTP_vgULRwl4k9us03Q",
+      "width": 2496
+    }
+  ],
+  "place_id": "ChIJB1mzOIFZwokRkElevjezXJw",
+  "plus_code": {
+    "compound_code": "P296+WR New York, NY, USA",
+    "global_code": "87G8P296+WR"
+  },
+  "price_level": 1,
+  "rating": 4.4,
+  "reference": "ChIJB1mzOIFZwokRkElevjezXJw",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "ReedH",
+      "author_url": "https://www.google.com/maps/contrib/115878967810096426328/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWsidbgJWXrG5VbkkR8giN5WtaJ-KEAgFCQbP-pDkL34CoX9I7F=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "This is such a great spot for lunch. There were so many great sounding options it was difficult to decide, but ultimately I decided on the Dominican sandwich and it was amazing! Such  a delicious combo with tender pork, fried cheese, and sweet plantains. Definitely hit the spot!",
+      "time": 1749943657,
+      "translated": false
+    },
+    {
+      "author_name": "Elizabeth Noe",
+      "author_url": "https://www.google.com/maps/contrib/105166543069162727058/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXf1fSAQ-Qst2P4nFWkSIiLYXrF8cBA-S7yL7q1vx8-mOFCdb1X=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Amazing authentic Dominican food! I was nervous to bring my bf here as he was born and raised in the DR and can be so judgemental of food. We both absolutely loved it.\n\nEverything had so much flavor. It was so good!\n\nA really nice atmosphere and the service was great.",
+      "time": 1740884811,
+      "translated": false
+    },
+    {
+      "author_name": "Corinna Vega",
+      "author_url": "https://www.google.com/maps/contrib/100440204771752958551/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUljlaymfJo53rMIElL7Bb1FilXhEVsJh3Btk69_VteyECzaDos=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "This spot has a nostalgic atmosphere to me. The food was great, felt like my grandma made my dish. What\u2019s a Spanish meal without a side salad tho? Iykyk! I would definitely come here again! If you want white rice don\u2019t go at the end of day like I did! White rice was out but that\u2019s all good, food still slapped! If you\u2019re in the LES you should definitely EAT HERE for authentic Spanish food!",
+      "time": 1745974653,
+      "translated": false
+    },
+    {
+      "author_name": "Edward Jimenez",
+      "author_url": "https://www.google.com/maps/contrib/116502331968611563941/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVkFaV3kZWFy8mPQ6gIpn3veTNQ2aJ0CONiCGEXugDdUE3WJze1=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "I\u2019ve tried mofongo at countless places, but this restaurant is simply unmatched! The flavors are rich, authentic, and absolutely unforgettable. The plantains were perfectly mashed, with just the right amount of garlic and seasoning. The portions are generous, and each bite bursts with mouthwatering goodness. The ambiance is warm and inviting, making it the perfect spot for a relaxed and enjoyable meal. The staff is friendly and attentive, ensuring a fantastic dining experience from start to finish. If you\u2019re craving the best mofongo in the city, look no further\u2014this place is a must-visit! Five stars without a doubt!",
+      "time": 1739857086,
+      "translated": false
+    },
+    {
+      "author_name": "Faye Wei Wei",
+      "author_url": "https://www.google.com/maps/contrib/115067030352095840431/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUlwqhMqIY1frfwAo4tnvdHFDUumKy8LvscaRZhXnsarUplp0M=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "lovely old school diner me and aru were wondering around hungry and we went here because it looks so lovely perfect sweet details the sign outside is so gorgeous and the food was homey and tasty\ndragging our sleepy bones back home now after a long hangover day at the cinema\nx",
+      "time": 1741572140,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1300"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1200"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1200"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1200"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1200"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1200"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1300"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "type": "BREAKFAST",
+      "weekday_text": [
+        "Monday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM",
+        "Tuesday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM",
+        "Wednesday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM",
+        "Thursday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM",
+        "Friday: 8:00\u202fAM\u2009\u2013\u200912:00\u202fPM",
+        "Saturday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fPM",
+        "Sunday: 8:00\u202fAM\u2009\u2013\u20091:00\u202fPM"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "food",
+    "restaurant",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=11267077419772561808",
+  "user_ratings_total": 1271,
+  "utc_offset": -240,
+  "vicinity": "113 Rivington St, New York",
+  "website": "https://www.castillodejagua2.com/",
+  "wheelchair_accessible_entrance": true
+}

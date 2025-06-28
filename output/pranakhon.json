@@ -1,0 +1,632 @@
+{
+  "address_components": [
+    {
+      "long_name": "88",
+      "short_name": "88",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "University Place",
+      "short_name": "University Pl",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10003",
+      "short_name": "10003",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">88 University Pl</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10003</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "88 University Pl, New York, NY 10003, USA",
+  "formatted_phone_number": "(212) 786-6789",
+  "geometry": {
+    "location": {
+      "lat": 40.733751,
+      "lng": -73.9932623
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7350551302915,
+        "lng": -73.99179536970848
+      },
+      "southwest": {
+        "lat": 40.7323571697085,
+        "lng": -73.99449333029149
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-786-6789",
+  "name": "Pranakhon",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 2048,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114345442147137339380\">Nycha S.</a>"
+      ],
+      "photo_reference": "ATKogpdy401NHDRkL5F8fdQ5Zzc3Hp6o7ooJDbfbkB6foPdRoRBhbIjITrEY3fvMcIj_Lr8k8ojaNcZgfQkcEXqYxTqf8T8RooSMw1jWtRM1gk6zaZJ7TJPR0Qyst5nyElgQLQWpMK0hyU8_R-C7f9QzTuJIGDs9Ym5tU1eRGLwKtyEqsvPyGIdGRAn494teWJNsxIZurP2guIcMcgh2pShrQshnkcrfwGWGE_nXU6BvKyXnJMqcb37F8PJn99D0q3SFeSUkAIbhFmqaYp0mP8uSFSIPflmYCO8ESOs5BbZZRP2AuPma7fGXCSEqQJIBH7X3Qbe8NWNPsf_gfwOYlYN2YuQH-xoNBfeJ4npaoO35nq7_05NVEVPWBtJaPLK1hjf3WbiPEqNBb50Y9UIU2QRKthY_jAvSfulMaarYtlyo_ENiqqF9",
+      "width": 3072
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102458881443825161681\">Michele</a>"
+      ],
+      "photo_reference": "ATKogpenvEdD2UDy3y4SsSZGtGk_j1KmNQ2hsEBcqSBLTJRUn_hNAj7bfXhHi8VUPBy2CCGTZeEFKpi0efkWAupwJkYRV2VzEgkeNK6Otm5CsC4BoFcrz50Q8IEFd9U-rB6WbV3vgXSEJQUCBEJjqYe3mpeYOzy-ybpAZY946sYf3oOIfkXT6paG4ZvnhlnjTumQ7z0zg6IYBPzOSd5mYp61f-50r_9M3UaTdBpKftfBIdK2wExznMz4I-BJpzhcIyDggOzfw7Itibf6EftYqGQ-qTp6KPaHaWXwVC1SAGo8qK-z9ODDYnGvdIO-xa5CHmVLDUTMmcD1hAkGuYRHAtWIoLfb0tbTvLseQ9thHQ1jJHv8NJhyBZ66lx7NBFOi7jEEylvM8ayaMm3uiIslRyRxYFD2k6fkG5WBH1ESg9ruGq1guH8",
+      "width": 4032
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115978560669540753625\">Pranakhon</a>"
+      ],
+      "photo_reference": "ATKogpc5PDzLF4fti8oEoubOeTCq8APp3donHLJpU-n-cALPMd79Zs4PUTKUFYdlv1aJQSYfxMzrakcMizvSrd2Rlw9354oGj7AP1vcRS_jIL7JlwjNwF6XvrMEXsMb_Ap38Bu3rGgRXVFXB2A6TN4o1SRk9SY3UUzW_ja4zLMqcfeaLnKWiaC6VeU1rvgAXMpV0WrHRoq7CASxilPAZLEawsYD9nYSAt42BNqxYDLBsdcvdkOdzScOiIgGhcI5ZOHKNwt5Ha-Ncr7xUsbjpnrdDWoSpDCrWCbqTfQ9uILm0Ox6udg",
+      "width": 3200
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110206217287318416788\">Grace S</a>"
+      ],
+      "photo_reference": "ATKogpeDq6M9caMJx8Bxv4NQdhDN3_VAtrdp8q1FyKx7G-x7U9s_oAWWZEwe-ayhQEWtiI_QNEtq9vFfh436pFxwNbYyJRm0E_mpyJ4w5OvwX9bFd9Pw7YAAKGbqbyJUu-kY0sjJsC8Yoa_52bAc-EwvrwvBjyuEmDNmNnOcv79NPbdp4DJ-CVwSgkoo3n0q7AWbJ9UlJGRybSY5p3KOHLWFsbcLGJQGVBXbSPNV43b5-_jImCfhWk3_mw3ExKNcXCUPE8MT_wGLv29bNrVDTwrA0MuGb-Wa2TlhwWfJdLR4l2UrM0i88RBjEOy-orcuOG5MFCHUL9n7LrCo5FmOCpp06zr-wh5NlZsBBY35eM-o46cHybDtdCwgGMu7gtvRmF_2RH219HF0aGlH5u4FCtwLLPDJBZzheoqh0-1c8-WOImrOJnMAROA7y1EsGYjERg",
+      "width": 4032
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108349093348478992092\">chao hua \u201cWater\u201d Ho</a>"
+      ],
+      "photo_reference": "ATKogpfFAWneU1lzb1WwH18c4Yq6osuieDSSKsGhI0fgAm5ZrNSYzjFYhzbTW9JtnfvBAKzZ-E7h-5ZjwaIJuCEQ_aDAleWFBuakb3U4Vtlk8S9bIyU55ZxJmo-ohCNuqWylPS5tFh3ni9vWyXvmXVVeqEY7EPUNQu6mrTwX-_Em3QJnKrnWkYt8WB20BwX6Dxwn7WME1IfyXG5tXv8awyJWPYHObuwaO3aBqWfAEcLwYsPeHDTWX6uiaYMH8qRy6foJnC4rlY2qD-DR8--OTpGGap_FezXhvmXPeQzvHU5nwJtaLqCNTw8XpPNKtU9h6ZuIIqmIMpnj7ns1SeKfINzPx61jNzauPJ6WDRwUvAvVdaLF0PWami4t9YWzHQINEu9J8QQj4b4PeSzGJmb3Msr6pVcmQUE8VU4_shMnlhDZ_isYIIt9Nmv8ghdwpg3UgA",
+      "width": 3600
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115830647672893809061\">YEVA W</a>"
+      ],
+      "photo_reference": "ATKogpd_1evOvS6s3Hval3jjHdebSBFxAOiGyotTncFhEUsCyu7-Je82cVqVk3Ey_5PB2qMtRDZr3ltjgIFCx90dv9_LXrIEVvU_EqmN06L8-psvEsaU03AhdSUxrLX8fLFbWS-DJjMtE_uxkZkgq0UY2P1yX9jKDm-bKOEOfntmcuFEZclhEw_qLPafbpUmJYcqUqgCIbupPDysmfXdGBRKJxAEzs10vBNEUMA0lbipHOp8qxF0l0qW31v_vihAnwTsGGDKACulXW4VMSs50WAozIzi-E44pGGDB71FSK51oWXG9CcnGPiqIXb7i1yIhaL0yjZlVebbsBZ76iNoT0SS9BiMGSFyEd2V585gamdkBdv6RJa704hPsTa4sj_Cu1gcvLhUd4IeAMcrBLu4Fl2u3-Ewn7-Ho7VO6w5wN_zIFQ8U8gs",
+      "width": 4032
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103011824397027619420\">Ema Klimaite</a>"
+      ],
+      "photo_reference": "ATKogpf2Hjs4rjppo0-NqHX6MfhGT4XDqkQ7PUfAhYB_8GhgZs67FQBtTbirMqs7auXNKW8DBjqpZzPshV3Zabp9_yljkXqarglZjgfw1WiGbyKllOpyju27k41APdcfcdK3nnEln6Qg9m3eMUrwaXD9t4Mmk7Hom2PMEHJCqLgczj0gly4cgcQEOyYxJ0ELLAL8JgC4CJoWuvlAG9-wNQMCTo_pFqJhUF_kkjF35KTZOAcCft8dWBdjgQzq0ePE-9MSTPsqY3JbQWzB3RWT3LU-M0B8N-too0zi0RlZVS5vhDqcT7DYvGQbe_UlFvaXK3IGhuwYMWoS_Y8YvveWJQHoTUp2VDBE-StMVwoRGHjoW7GYybBdt-YT5swsfbcR4EGx5ElLdQeG6eX8lc0bHcjWwqu0SjLBW7F5iEPekRjdAgfWeg",
+      "width": 3600
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105166154586072885430\">Anderson Su</a>"
+      ],
+      "photo_reference": "ATKogpcdflHdz7ZMFRo5UAYfVpzKPzmMK30Bvy8FnncmVrOBP4SlxWDAHonmgf3E-iXfcE3IsLX3TR043H3AlTlQ7VvS4X4bhR-oZxlaqNop9U8pmMbo4HFcTqf8948Zeadr9sBsnu083s-MOpIJCDAzv32ltz2ocRXvRoM0mJfqeNSsLomS0gY1lOVZvWK3DcBApKfWfDej0R4_Rs2-UGNzNy-drQA74EGyI3k7w8OL2AbUTL20gmbEtaB4oPlkNm1fBEIvjGEvHV53PtLZQmgc5c_t-JWird0CHGyPM28TTun6aSgbn9_a7xUplkuHllDjhx2YcKIU_WOuaiZ7mr0krcZh5-GUnx3_hfWqqNOAMhaDA1qzu4wVQdSt6JGBl9cKPjO9k04DGWc1199aOh4zOEHJLoRSIKNvtV0V_6AZNPfKWcE",
+      "width": 4800
+    },
+    {
+      "height": 3599,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106529964253065381945\">Sophie Wei</a>"
+      ],
+      "photo_reference": "ATKogpcUh2guueMztJWlbA-ls5KDw_E1wpg9TORjA9AQNdi-fBzY3DNd_dMJD3lq421DS5f3OxfvF7rbAqwckvNm2tEJLds_ldkGmMhskOnOkuH7_w06J5kPgEsuK4lR4JTtZqBeCrmZ2rYMY6tdDTFPn9UgyDfi2kqok9HGsj6bnnd1ioH7iU00NkxndGL506HG7Y_0uXxB9nwDv7eVQlNgWdyfF98pNhQ7DWQXlEbjQnMNxwJgM9KaYnD82qOY3RtNjlnoJZH9MuG7qe3yD-VG1gCoEPPNcCxMG6e74QVnRbu77LF5yVezm4CycNFH-QT0xL4SCDlQ3KlCpF3XR51CSegjuXcwb-Od1a8qPf_XQ55R52nTy1qUXWX_0V7WG9X-IAk9N-g34KYBbVwGcEu-GLocrRIVzyyaYx6Rg6C0vWFCfXw3",
+      "width": 4800
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110739725201699328957\">C</a>"
+      ],
+      "photo_reference": "ATKogpd9ExdemaXQYnzTkcHeAcS6z9sWNGX0UhOjucwD6lJxMr_FoxX4bZ6A5Nrivk-WEb0cMP_qng677iU4mAFJmdi954-5X4UfMd0adyl22i3On0J5TEZufeDLOeNYLcuo5Mr4AG6voGxpkp-oFOYXD71aBhhQ63aujo7mAONzamfZ_h_PB1GDsp_IjUpa_rTsv143_C-SpKay2iakeL3_DiJKYZ4L4V29qKAKA8TKi5lsHZ9mP1DS_MHKKx7KLTcS904UA8u_NBHlKk6gSebdhnDv6_4YIZoA_AdvhjpC0mi4_kx78KcFmaSCpZBvUZFliCue2XMvJBCRU92snN6YeNsuaDB5Nbzmgq1WXJzJrCSh2UuKkpAQOx_ZTRooIqAQTiiwhr2p-5A_A2BR4yzSf6xlRpbrxUyA8AWDhYpVjWNzHazA",
+      "width": 4800
+    }
+  ],
+  "place_id": "ChIJeWk_ncJZwokR1QHfApa0dQo",
+  "plus_code": {
+    "compound_code": "P2M4+GM New York, NY, USA",
+    "global_code": "87G8P2M4+GM"
+  },
+  "price_level": 2,
+  "rating": 4.7,
+  "reference": "ChIJeWk_ncJZwokR1QHfApa0dQo",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Mari Vicente",
+      "author_url": "https://www.google.com/maps/contrib/115389263516295617772/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVXHs4ZriEA9JBFs_Pqf7raAkmcTcFfum63OqvFRxjAPUkrILWYyA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Delicious Thai food with authentic flavors. The restaurant has a fun theme, and the staff uniforms match the vibe. The menu offers lots of options and different protein combinations. I got the crispy duck with a flavorful sauce\u2014so good! My friend's dish was also excellent, and everyone at the table loved their food. Great service, friendly staff, and a welcoming atmosphere. Highly recommend for a tasty Thai experience!",
+      "time": 1744046975,
+      "translated": false
+    },
+    {
+      "author_name": "Chantal Hite",
+      "author_url": "https://www.google.com/maps/contrib/114230066273105591408/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV6VcXUs-RG1zyp-FtDBFv8eyi7r95TNUyCjAtwCjr7KwRix7wdFg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 weeks ago",
+      "text": "This place is amazing! It was the best Thai food we've ever had. I can't even describe how great the food was. From the amazing appetizers to the desert, we loved the food and the atmosphere. I know I already said it, but everything was so good!! It's a fantastic place to come for authentic Thai street food.\n\nThe service was above and beyond. They served us quickly, kept our drinks filled, and worked hard to make sure anything we needed was provided and that everything was perfect. Just check it out, you won't be sorry.",
+      "time": 1748651653,
+      "translated": false
+    },
+    {
+      "author_name": "kristina juskova",
+      "author_url": "https://www.google.com/maps/contrib/110837448977869294591/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXKYBV_dXnZf210Fc3vWyJQ7Woe_BANdeqtJKA9ai6Hf0GPWK4=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "I recently visited Pranakhon, a charming Thai spot, and was thoroughly impressed. The atmosphere was cozy, with warm lighting and friendly service. The menu offered a great variety of traditional dishes, and the flavors were vibrant and authentic. I highly recommend the Pad Thai, which had the perfect balance of sweet, salty, and tangy. The green curry was also a standout\u2014creamy, rich, and just the right amount of spice. Overall, it\u2019s a great place for anyone craving delicious Thai food in a relaxed setting.",
+      "time": 1743383133,
+      "translated": false
+    },
+    {
+      "author_name": "Francisco Arguedas",
+      "author_url": "https://www.google.com/maps/contrib/114288571244833723491/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMvsimH4MId1v0NQg9-XamBS4a8TFzopL4O6xjZVosOmX2TTEb=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Amazing Thai restaurant in NYC! We loved everything we tried but be careful with the cocktail selection. They are very unique, you like them or you hate them. The service was exceptional and prices were affordable!!",
+      "time": 1750298261,
+      "translated": false
+    },
+    {
+      "author_name": "Grace S",
+      "author_url": "https://www.google.com/maps/contrib/110206217287318416788/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvJx4sA2Js0LE5xQBjsMWDXeg2hxbvgux4SrWu_WTCvB7cKpu0Aw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Delicious food, friendly and attentive staff, and fun and vibrant ambience. We had green curry with shrimp, noodles with  crispy and BBQ pork, and curry pancakes for appetizer. Everything was so yummy and the curry had a nice heat to it which I love! We will be back.",
+      "time": 1750362067,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1530"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "2230"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1530"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1530"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1530"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1530"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1530"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2230"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1630"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1530"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "2230"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1630"
+          }
+        }
+      ],
+      "type": "DELIVERY",
+      "weekday_text": [
+        "Monday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u200910:30\u202fPM",
+        "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u200910:30\u202fPM",
+        "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u200910:30\u202fPM",
+        "Thursday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u200910:30\u202fPM",
+        "Friday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u200910:30\u202fPM",
+        "Saturday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u200910:30\u202fPM",
+        "Sunday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM, 4:30\u2009\u2013\u200910:30\u202fPM"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "restaurant",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=753707069040689621",
+  "user_ratings_total": 2451,
+  "utc_offset": -240,
+  "vicinity": "88 University Pl, New York",
+  "website": "https://pranakhonnyc.com/",
+  "wheelchair_accessible_entrance": true
+}

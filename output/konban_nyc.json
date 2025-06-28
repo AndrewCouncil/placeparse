@@ -1,0 +1,453 @@
+{
+  "address_components": [
+    {
+      "long_name": "311",
+      "short_name": "311",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "West 17th Street",
+      "short_name": "W 17th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10011",
+      "short_name": "10011",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "5071",
+      "short_name": "5071",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">311 W 17th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10011-5071</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:00\u2009\u2013\u20099:30\u202fPM",
+      "Tuesday: 5:00\u2009\u2013\u20099:30\u202fPM",
+      "Wednesday: 5:00\u2009\u2013\u20099:30\u202fPM",
+      "Thursday: 5:00\u2009\u2013\u20099:30\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM"
+    ]
+  },
+  "delivery": false,
+  "dine_in": true,
+  "formatted_address": "311 W 17th St, New York, NY 10011, USA",
+  "formatted_phone_number": "(917) 675-6070",
+  "geometry": {
+    "location": {
+      "lat": 40.7420166,
+      "lng": -74.0015683
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7433046802915,
+        "lng": -74.00025711970848
+      },
+      "southwest": {
+        "lat": 40.7406067197085,
+        "lng": -74.0029550802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 917-675-6070",
+  "name": "konban NYC",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2130"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2130"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2130"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2130"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:00\u2009\u2013\u20099:30\u202fPM",
+      "Tuesday: 5:00\u2009\u2013\u20099:30\u202fPM",
+      "Wednesday: 5:00\u2009\u2013\u20099:30\u202fPM",
+      "Thursday: 5:00\u2009\u2013\u20099:30\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3840,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105601992699102170460\">Nic Garcia</a>"
+      ],
+      "photo_reference": "ATKogpcrOcrxJ0hs0aC6xaFl1FCoPtFrnPXHqMExZ3Xme9gkCtWeNKeQbMO80Tzq4hHscNecY5H23s8vrtxd-DwEwYXSZQnYULBNEXAswUCV0P3J03rrQ_BEGCICsWyAZoO2RxQ1tqoNZR53-aeZCew3Dwr5OiBZlAL5E1Rt4pogRJffSm7wMz6jQ-M5xi75GgTc-21ARljtYJBdgNuiOvXjWh-OXVRmvnSEJ_nZ8Q75GZsVMwnyJn4raXMTl_4L9DBvW6QyCA7sjjRV8w4A3VvRS3b31x3J711fS7TO2eZOX34jYqnvpHCVI7vPskVVQWMce8ImHzsZF9-35o-4dDDaRvcIPfRgbLWyD8aeb0PI2KB1VKYZgHhHA6tBgtHTiKAOqy47eQ1fUcvkkBvqNZK9xj7k8FfmM8Yc0yzAaXrLQGyvqA",
+      "width": 4800
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100343779592448937636\">konban NYC</a>"
+      ],
+      "photo_reference": "ATKogpeAy2PAj3eX9G2kwhvHFBmUG85R4SPo51G4f0VI-6KOBCSuXc3ElKsT3E7gjpoWv8fDPMW8otDb5UUtMMoBTYrhOlJplaRxIzMj-NNTLYUg_1sK-z7d1aOywrEGH1IXLg3pPGz2BZRTyvDXuHKaXAja4VG_HKANxssYb6VM7srKKNsRx-yGyD45LclcYHV7l-RAFnacqMoRSfGvGC0wYPbAfIhaBpQsXmRcP5_G4EjohxXPl-O72bbej3hfruO2qRrX10DM2x2t63iBouezfkbBgSfEcl3dtdflyF27eRQiYA",
+      "width": 4800
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101890807357140987752\">banghong Du</a>"
+      ],
+      "photo_reference": "ATKogpdxk9F4gBkXNiwEwH3CF4f1Iap-0Vqrwv_QNUXjBG3TtYq0ViN4qU5V7cuLmgAqq6hsmBs0a539CsUWf5lkCV1d92bA-ILFQ7zIPwFAfxphbeyb-r2Hs5r-gV_exp37sP8u4UD7V1SQRlF_JVFfi-969WUme5vNFD8TVS2tdN2wkHbVDDoBTK95kPiLJw2eNxIQScVDycdivOZ3pPi6tPmDWKcKXWvKh5xDCt5uZSMZJeZ3_CFh3PhX2qF6SKKocndziAvIatRsN2OcpnWYI0Uogo_zbfPoXA8kEyk2KA8qCHmCLyCKx7OmE2NluWruU1GzdzM41CTyzPTwNYjWGE97WOoRwjTmXoDBPfgdE1ywMDFadyy5ewClYibDa8gE1tbDCKtw65VEvJk6T-IsflSedx7nXzYJ1GsaMj35L1Qm0mhTNwXEaJeBPLs5WP40",
+      "width": 4800
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108141021200271907175\">Doraemon</a>"
+      ],
+      "photo_reference": "ATKogpf1rDVRMo_3F28XvhP9iJAIggjcCs4PH-NIMnmaJqPLm40xsrrHer0M3elvUv-fuMh-x2udjPgHzR_Dx1NOpEPzHcRDsb_AQS2arWnLWuYUjtlbo-v3BUaAflnilv_uP4vIQDn7AHfOavOeF61QwVX8C0xl13EHy_Koci4wkB2Cc-pSIqmiDVDvq8t7lS-9P60XqbFLumuRxT4TXptBrWDvi6Y4CQk-j1PoQ1iMWC3TmXjUk1ZMDAqVrPmt3SwfdhsW7HcjqP0uROzbTdT3aUgtTQPV2JNwVu5Iac0bDRwE5rJK0yWSVKfrNgqz-wNsQO942fqI7eFBO0Ud9Dxa3qSxLH1wipr8I40tXk_aJh9JJIQtE9W67pUY4m9Ln5FDVB_DFYiBObVPLUv3EIHO3e4aQYj_RYu9dVwOMGhfC0c0mwo",
+      "width": 4032
+    },
+    {
+      "height": 2411,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117770210945850995870\">Francesco Oliveira</a>"
+      ],
+      "photo_reference": "ATKogpf6Iga6XVJH-2y0l_6wjfSQm4FMq7gnxDIUkcnDRMG2HUv3NMRHvCZFay8ETCSivEIlv81L5KavMcFeoZE-RVDBNwYASJXzuNxUqTFYO9-GlTaJf-TxmUk7oMBqekDDK5UfBKIpjXkXafQ3AY9kSWTUsFynjp04W7tsd3ZWaWC3lf9n1NagpIDzAhWuo4Y4ElNtbZDDmIRjPcNa7TwQxqzn11E-ROzxtGyLDdmSSiOzVdH2htPSqdbQxJOQxniUhhkRV8DCOKgnfyxy28cAoQpJZ0fK2dbwrsbzhnCC1x3MT5ZY4RlG-Rgb_k7O-zlUC5D0XUHN8CeVCyG37umMp2wKO1aT4Lq-iaWGYEpSb5u2RMNNmPzqoHkb-4MyNJR7alftVNGFXiQtyt5Xg6P_78UnQJ2_Gm1mClYuXpKAzoTu2PVTWHKQ8D70uJaxf7HZ",
+      "width": 2490
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109586853831272983913\">Yifan Wang</a>"
+      ],
+      "photo_reference": "ATKogpej2fFvIBMBe7Q4viXDx3STcBGY3rwaYqjmEjySEqFQ8yGBnYVsU3ktvbmmxma_WQqfJEJo0NTLrx7KoKIxjRc69GuMQiBOMhdLsbKaRCf11GfGfhS8NRKbvUldCSywNfXzUKB3rgxSnfO9xIjzfzQ67f1B10TMP6QLvHuEuoMSPb1DV86KP4BQkVOTV9lsmgKTdiEKGQKGVPxSYQEcdl_UdAcvXxlWxFdDCixFq4tbAgkXPo0J9RycIqN17FlCb-l3-2WbIEH7ePVcsH9z6qD7PvpPh6iFHfH5UYcqljqukgtZW2GVYOr5aJUWH2bHk0aKIdVO5MFRagBmPLTBwbDraIHniPan1M6a-UgtFhmbRlI7zD6NEgSmCbfFscVvvEVvDsM9Wz2-dKWmC1-rHAiK8eMO3rn3iFcJ_kOXttufBw",
+      "width": 4800
+    },
+    {
+      "height": 2741,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118188010787230085978\">Li Lin</a>"
+      ],
+      "photo_reference": "ATKogpe4EBPbHQOJY6ByiL4aoHNouAvxgv7WJWj39OTqiuuTcRq3ZndhT3iMekkVk1TAwEMrwRbA4p5MZwB_sRrNWp-kvHmETlPICitYlBKJHXir0-7IqhZ1MY1cDYy-xc9VN5pyWggT-GU0CRYT-rVkpmEg86FxAs8cg8-ijKnQ8tgqoOwBl40frDzUqoOKC-eqbcHVCvSzlqXdDqHVr7p9y27WuQe-4Uz2NwU21pr6yXaDHoW-GOzzcqj_26U7TQgwYQy7vtBIBw_PxnpQvObqYe7PLqmJA8Bzw3MlEWIX4Kk--xwV3_AEAcpnBra5Df41F6jQj6mYYCL05SzyQ9xYLP-ys-q9-ZNZ-erfh6oeTpBzO0ehwqmolCNopjCztPaUvwzXxfOU8UVWQ3ONhwHqWCQ8hcZPlIvBIRlnICmaPBt_AA",
+      "width": 3146
+    },
+    {
+      "height": 1304,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115409692442521098652\">Cat L</a>"
+      ],
+      "photo_reference": "ATKogpfQ0kRXOYMvebMZFuRjlAq4zZGMw7JSDsByFk94HR5xtMjm-9ZcttGEvdS7hhhZk1yK0g9nmW4u1RDUUqMVn2-DHZ6DwPdJDj2VWee-yhGtKkCaFgi9vGjHFHqSHXUiclQk0-f-GvSc6--oFT67lymAPBeYRFnn7xf6m3UlPMZxgLTdx-fBxi3fIWAHRMM6Vgztpp-Qg0v0MJRJ8KZhnIQCjhLXu8Q1wjbro9wrLFuLfQKLCi-mTG7IdW2Uxizja4acXAZNGHgXnFaVCP-cNOexvoTR32FkEWzuga36pdWzhTW8rnMBdeWPH15jc2ak8QWx8kyUfjhJnoWD0HytUY1wKeOrGLjaLtR9rfCiZgQAKTbA-lVynJwFEDToBpFNrKEF5w4o0_Nb7HEsjZEYXKfH3rbtPhNpWghwCUaXS8XMPQFH",
+      "width": 1171
+    },
+    {
+      "height": 3312,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106441239760987584327\">Hanne Hansen</a>"
+      ],
+      "photo_reference": "ATKogpcOh7FypNhYfbsu7bz5-PKDu5CnMGxgQXiOKucqT2f8ba2pKwJkYvk3eu0j-E3D1gq3_-ka9-el5BDGsEBLpWsHT-F4cIWPmcU1dlmhtCSnkwJcN-N2dvkk7kc4S6uXCMAV87yts_CzqdpRp09TM4oyPg_6OD3OZrXGsAXNPzVg0PPW3K36GURXW4QIAV1N6UoBXva4sgXk1ncoDmOZ5jGSYuqGYRCYiPv30WBToSunPGJqjczsY2yrGsgnIheP6u8GQIQm7d8V8K7wJNQBTCAADFdiDvqytevOaK9fG9azY1SUEmXb2xH6KfxDA6WFe4h1aymkJLUMLl54cIVgeX4Q0tDTvfqUZveIVckEM_b8__kKT0_PJ8yhMgCJ5iV2x6W71HePJvzrHSnmkFrVibIYnR2fML5VVdKWY5a6tDgfRDZj",
+      "width": 4800
+    },
+    {
+      "height": 2992,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111537206558718704300\">Jodie Chan</a>"
+      ],
+      "photo_reference": "ATKogpd8F0GzQkp0i4f7ZVbNVBtF84SfPZiJduGggUfNCnA-AlN0mAle6kMQONJneVWDKZJ95U1gj_Jgj3QyLRJigEejxsqF2GNEqKziFtjcpl4e_zqBOJD4TMbTtf-soGw6v08f_9gEcvyvTD6NSunFeEoCprd29QUmF3V3Ta-dGs6LNhCwotOQKjg6WS3LnsEJxtU1LMI29pQaMTvljJvU2xjtDkR3aHNaHNvX5JEHKw8dBAODkEAyI4kPNwrR57WNXOM0upF5C1UNSBs2EdWwGEUhPfOVzbpDGfzFiChEtW4npvL-pT3XHHUUSW5DvtURE4-Px24Aci20-NfUvgDLBhHLh0B2-VMYEcUDGBWPRoapV92Xocj3wTFDftVIn1DkU_PTRuwoaK64rTkVQbdQ8z-LPFVnPwJ4A_p38ceNW62axAhwqoBJFD_ZMRxMLYGv",
+      "width": 2992
+    }
+  ],
+  "place_id": "ChIJvWTRis1ZwokRTT9Et9dTcLE",
+  "plus_code": {
+    "compound_code": "PXRX+R9 New York, NY, USA",
+    "global_code": "87G7PXRX+R9"
+  },
+  "price_level": 2,
+  "rating": 4.5,
+  "reference": "ChIJvWTRis1ZwokRTT9Et9dTcLE",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "A Shen",
+      "author_url": "https://www.google.com/maps/contrib/108462981404926274562/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVtlfL-M4qmD52cIefOetDt4oFk6qFL0olzPa6TQJkqhA62W2n-=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "2 weeks ago",
+      "text": "The service and atmosphere of the space was top notch, but the food was fairly average for me.\n\nI loved the Corn Ribs, but else was fairly standard. The other dishes were all good but nothing blew me away. The prices are slightly above average, but can add up if you order a lot.",
+      "time": 1749467142,
+      "translated": false
+    },
+    {
+      "author_name": "Chloe Kim",
+      "author_url": "https://www.google.com/maps/contrib/117114800311446413034/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI2JGbXBcuaoBYeclxTBtbVfuVa-2CsbLXKWsl3ZFWpcU6nBXU=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "in the last week",
+      "text": "Overall, the food was satisfying. However, the sushi rice was too sticky, making it hard to eat all of it in one gulp. The Toro Uni Shari was the best dish. However, it was too noisy, and the price of the food that came out was too high. The service wasn\u2019t outstanding because our family waited more than an hour for some dishes. The food order wasn\u2019t good either. The sushi and the Toro Uni Shari came out 40 minutes before the main dish came out. Also, our family thought rice would come with the katsu, but there wasn't. I think that was an error. It was hard to talk with my family because it was chaos. The air conditioner was like BROKEN. It was too hot there, so we thought we should get out before the main dish came out. I would say this is a pretty good restaurant, but it needs quite a few changes. It would be nice to come back a few times but wouldn\u2019t mind.",
+      "time": 1750897109,
+      "translated": false
+    },
+    {
+      "author_name": "Mixx Santigul",
+      "author_url": "https://www.google.com/maps/contrib/115397644074832857159/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUl32fWR95oWDayXkyal2Z-pwvveUvZ3JAOkYpTP-VJuZkgFSsSrA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "I had lunch at Konban NYC with two friends, and it was a wonderful experience from start to finish. I had made a reservation for 12pm, and everything was ready when we arrived.\n\nThe food was excellent\u2014fresh, flavorful, and beautifully presented. The ambiance was calm and stylish, making it a great spot to relax and enjoy a meal. Our server was very kind and attentive, offering helpful advice on the menu that made our choices even better.\n\nI highly recommend Konban NYC for anyone looking for a great Japanese meal in the city. We\u2019ll definitely be coming back!",
+      "time": 1747204104,
+      "translated": false
+    },
+    {
+      "author_name": "Leann",
+      "author_url": "https://www.google.com/maps/contrib/100432726616678519828/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPRjQwlP-nxheL-drgc2CqILq6u-2m6WsWLKODaRSCXgBxi-o0=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Service: 100/100 \u2014 truly excellent.\n\nFood: Overall solid \u2014 nothing groundbreaking, but tasty and satisfying.\n\nAtmosphere: Relaxed and chill, great for outings with friends or family.\n\nFamily-Friendliness: Note that there\u2019s no nursery or changing table available for toddlers.",
+      "time": 1750038396,
+      "translated": false
+    },
+    {
+      "author_name": "Mia Huynh",
+      "author_url": "https://www.google.com/maps/contrib/114746114434966868203/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWE4czd-grUsa03QSphvyCOclM_Ar_KI27-4Jd9NwQtCduvru9p=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "I came here for dinner one day and had a great time. The interior of the restaurant is a bit more traditional, and very cozy. Service was good.\n\nMy friend and I ordered their corn ribs, sabazushi, pork katsu, mazemen, and corn ice cream. Before our meal started, we were given complimentary starters, which was a sparkling yuzu drink and some fresh tomatoes with sauce. It might have been because I heard raving reviews of this spot that I had really high expectations, so I thought that everything was delicious but underwhelming. The corn ribs were great and flavorful, but nothing stellar. The saba sushi was alright to me. I did enjoy their katsu and thought that it was so juicy and delicately crispy at the same time. Their mazemen was probably my favorite dish of the night, as it was full of flavor and overall amazing. And, their corn ice cream had delicious corn ice cream in the middle but was too hard on the outside with their white chocolate coating, so it made it difficult to eat. Nonetheless, good meal but I do think it was overhyped.",
+      "time": 1748534115,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": true,
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12785811528062615373",
+  "user_ratings_total": 554,
+  "utc_offset": -240,
+  "vicinity": "311 W 17th St, New York",
+  "website": "https://www.konbannyc.com/"
+}

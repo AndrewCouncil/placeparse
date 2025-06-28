@@ -1,0 +1,426 @@
+{
+  "address_components": [
+    {
+      "long_name": "251",
+      "short_name": "251",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Broome Street",
+      "short_name": "Broome St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10002",
+      "short_name": "10002",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">251 Broome St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "251 Broome St, New York, NY 10002, USA",
+  "formatted_phone_number": "(646) 422-7267",
+  "geometry": {
+    "location": {
+      "lat": 40.7179107,
+      "lng": -73.9899965
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7193244802915,
+        "lng": -73.98860706970851
+      },
+      "southwest": {
+        "lat": 40.7166265197085,
+        "lng": -73.99130503029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 646-422-7267",
+  "name": "Kalye Broome",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 773,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107623656518300535414\">Kalye Broome</a>"
+      ],
+      "photo_reference": "ATKogpeqydt-cuT9XRhr2XKzI19CsV2WrwKUePAghHHLkeY0JG6_dM02Q7ByDYTXaf6IymV-vPCu4y1wKhcTiXR7AYThYguizN_JLsIq7nnTl0o9Ac0oygVAvwavX5Kr4laQHsFPC-dseYTDKMiyCEQxq3goTXBp8cpC94B4SU2TXMLOZ5IuOYNsijApPjX6X_2Zfcnr3Yinb_WOFak0Ps4MNH2b0wDQmvmodlD1KGg1NcsmdiXTC0nkhWKYeaSLEqJPf3R4Tz_lKvghwmtg1g8Dak-8obmgXHIzOJq0ViiVo_1L4Q",
+      "width": 1000
+    },
+    {
+      "height": 576,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107623656518300535414\">Kalye Broome</a>"
+      ],
+      "photo_reference": "ATKogpdWalCFAOYlsWD5snk6ztlknR1js-Y4h-SHSFr9TKk-WiXr7wmiPILO3fYKT7tAPZB4Lt_bQfGnhczasdkrRbvgIki-WXE4JT2-x8VeL3qTMdAURE1kns7nreU_9sqXs4Dt-fKVI6zbQySBZDZT1FXocB1spxbdg5rzs7tNMBrWGZvwhbdbBFjMMpm4x1Lb4UNiYLK8c0JI7SKacGfAoamygS2UnEJ2cOlXS_GHc-aQ4mhulLmqkyQl1_tPAHG9QqpL03RyLO9UIk565TMcnjh5GuNwxyRsClABoxyvQMaMpw",
+      "width": 1024
+    },
+    {
+      "height": 906,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107623656518300535414\">Kalye Broome</a>"
+      ],
+      "photo_reference": "ATKogpexbql3NF-qjHz4K6DqwLAFDlDGqdlxkX7TXXHQ9HWLKMxJqcI7vI1KMfq5SVL1UqAaKXpzNvtI6fJMdr-2zgk8x61_k3yksmnEiV1rnF4Wt9fRcPgFnuw-ejA1KVk9gD45D1XWGM1cKbfwfk_CS_MR_92gdRWaO066mIxGg9npFLPqyot3Ig5r35dPaFlk06iVkUGkuINJhC-7AhYrd2pOQwN4q74Ci6_0lONT60ZWmPke7LGphk2lobcmvnUNbuiLiQf-4LCHM_GFfLA88YtrZevD5UR2h_QqNvjnjBh5kQ",
+      "width": 1360
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112695960045567133567\">Chen C</a>"
+      ],
+      "photo_reference": "ATKogpdeyCZYVt70V2kZViyeVillf16--JcoEi8qhfUfkpC6GOgEtZydWF4wt5_JdTGP1iznjZvLeE30Er1WbQH9uJpYZL_wmk4kEFQL7NUgWtQ240066N8v6JAxk_zh9DAJWfo6YJ9waVc6tHIN5qMub-NAQ0Y4-PJgrVQiw32WRkPvDd03RjVypp3nq_tsmr0LoYZCejiSBidUXmOWQ4-iz9lstu3cphrY5HLmnsBjZRsuoiVV5_T-RdZcv7k0qQyW8_Ilrlkn_9icXLfHBEmoXoSjdo630NlGI0ktsbkZBcbLa5IWQnfwnuPOQZiipF_39OnNBZXXbNiRPQ3TAJ1sWFWVjf70slYIEe1u5pKHUWMMEVpv8tKc9131LglP9NgCszcDBoKR3CUCX5F0-I6WCQTsI4S1e_BU1R5hkTUJwhJioGgD",
+      "width": 3024
+    },
+    {
+      "height": 1419,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107623656518300535414\">Kalye Broome</a>"
+      ],
+      "photo_reference": "ATKogpf-VF_PEPwZ2WmS2dut_4oaS9RF0a84JIeykky8YNzmcVPKd73mbymsuZjopGmRQomv77QPEUIaPYGTBBRDkt3nh2nl3vvLfcorB3oqDVSDCYrppo1k_1Q8ac3SMt92GcxHsJ5LiDcoq1Tbb-FneMBOJMPxor-0I2Ls-TGgdq543hEbnfAuXxj2rV2jGksAq5pGYlAdKQ8LGazWT1qQHkixNYi5Uuv0tml3npkexXOP4MTElq0pUKBKY9OA74kR473c_8Ua3ks3aMmGcLpG_6QgQVCFPM2ZZv8QJFb3cf-96Q",
+      "width": 2048
+    },
+    {
+      "height": 1800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107623656518300535414\">Kalye Broome</a>"
+      ],
+      "photo_reference": "ATKogpeeAZ9e_U1-wd8STGrIo8Lld1RWujSKy5je-CKkyS7qG92W6LXQrKlfNJTVE5vCJ8vW6LKfi4ft25d35cUS3Inf3rWCNLgcCtF0syVlGyI2m0RcjjYDy5jILvO_iodhF19X3h8jJZqTCxkqwgKEcYZSERrS4EFQFhM2n2IN7hBQq7j7uZYrVdtQJ5bX431FYm1MlAXOTdu0WwzkWQTVGxFUzA7Sl9kzTC5q7kImuyvXMgBOEel__zsBEDFzpA6qjE26QzgyRUNb8V9FDQrBdj_MBW7teSwFqq-adgd6f85Z6A",
+      "width": 1440
+    },
+    {
+      "height": 1365,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107623656518300535414\">Kalye Broome</a>"
+      ],
+      "photo_reference": "ATKogpeEduRKiWU2_mCdG3IDF8yCYmpidSnKw5atoetVQIKWyUC8ZSlBUBV1-RZgk9BuSuE41X53XM01TITK9lmbIh3hxsscwCeYponvLjvmEboqWIKrE6G2pHXd8qtOnTu2ZCZgkOweUTPM-4gxOpPQHEdMc4LCLhDX2wnCGU4kgYwdiobWbosEBRseuUU-_h0HPQBQSd9WcYLrt62oXDgnif997wSADeWu1F71MwJs5ZDU3Su8dhHtPmIWOq_Db8w1Y2rKCtBN9eSdYcFN8zr0wjIDtBRh82Si1DEyVIgZMI3Rcw",
+      "width": 2048
+    },
+    {
+      "height": 1365,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107623656518300535414\">Kalye Broome</a>"
+      ],
+      "photo_reference": "ATKogpcvyL1UGbBr-HDYSEe6mpVPFGDv2CjgXN5OpRZgkAe4648zWNBjGYOcxQh7Z-pbh86KYNxKd3hKSoremUW3GSIOq_qWr_ESgttsQjaYz6MtTHfct1FJItDZw4ODbfR53IN_ry-MmxFFq_mTbrjz15wT2DUqGNrcBMgPXy7K0hiyH6IjLUVHvxm5hqVfYrUQxDFjqLPAd2lhLzgb9gqYB8aTdB9sJcNfARjn9e1dmV2fSI3rDOnfREyXTCd5NJxMnb3No405Ly0dcOdqCZYRl9eE9E9o93DxQKhtRK3MMMQCGg",
+      "width": 2048
+    },
+    {
+      "height": 1709,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113145242523970116953\">John S</a>"
+      ],
+      "photo_reference": "ATKogpf8I4C_zjpdKHNbb2LyBayw7Kmq2LK8Qw09I-SU24NWA8Ee2ilizScvLR9klZ-r6cCJIO3Gg7r_98ncARAjOx0uY0jhJlIgiqKlB4nGL90z0Xc1PEdtNqYeWn8nQ1Lf8EbFE73RdcLGIzvIQq8Fjw37Si5aIgtSku6N8zTi-boiUH85faQoosN7TPwJttVavVPRKf1jkRlyAvMrKdRMzHL6dwrgAgGpLTiMmg_ezvsGOD109Y7rNULUem3uxVfHzBZjF1Ey--7z0dAhB66gDQIdmN5vX6qL4SXcDp9q-RTVMRWgU4oWG-ANVr_XGfV6nLPpHSCFb0gUyzSU6q-3G_dRY3MTe1hpX1ZhXJXNQ0PUzpksUSHU7I16Pt2sF3rZyJ31J3FPBe_W_10vte-0LTL5E0ZTBDKrG62zk6kYi0j62Q",
+      "width": 1284
+    },
+    {
+      "height": 720,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107623656518300535414\">Kalye Broome</a>"
+      ],
+      "photo_reference": "ATKogpfQsBwQb40xhHM6JlJmpG0NVgtyHSnY-Uomxobao49M0Q3dofWoey127qafGn0O4KzOLgDdSWjYsRhVaVLut6XnExEO2eXZmzm3SMuRdM-iowDBURog-arW-Dv81i8fzr1vGMIqgAi6Kjr17EsZXgPMp9v7jfnMs6y0F2swVp2UWcZvlYuIaNqvhK5OaXp_nLTvimsxj02LbFplOi4l8RelvZL7GvJURHYuGmq-Kh3m9i0FrYBBp-VBYvjAFhIQS5HObd5R7Eaq6cIFTBJ6OWW87R7UmNsJZHLEOkGaznJLcw",
+      "width": 1080
+    }
+  ],
+  "place_id": "ChIJj4yA4zJZwokRtQObXxWzxhc",
+  "plus_code": {
+    "compound_code": "P296+52 New York, NY, USA",
+    "global_code": "87G8P296+52"
+  },
+  "price_level": 2,
+  "rating": 4.7,
+  "reference": "ChIJj4yA4zJZwokRtQObXxWzxhc",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Ira Echavez",
+      "author_url": "https://www.google.com/maps/contrib/117255057646366920111/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSPo2PCOmB0EXpYP5KtydAYRuP-nnaiSHTaaP5aJn0mKNzGmPi=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "3 months ago",
+      "text": "I came across this restaurant on TikTok and had been looking forward to trying it.\n\nThe standout for me was definitely the Ube sliders. The soft, pillowy ube buns were unique and paired perfectly with the chorizo patty, sauce, and toppings. It was a creative take on Filipino fusion and absolutely delicious.\n\nWe also ordered the lumpia shanghai. They were generously sized, but the wrapper wasn\u2019t as crispy as I would\u2019ve liked. The sauce, however, was flavorful and complemented the dish well.\n\nThe pork BBQ skewers were good \u2014 tender meat with just the right amount of sauce that wasn\u2019t overly sweet. While it didn\u2019t quite compare to the BBQ skewers back home, it was still enjoyable.\n\nThe lechon was another highlight. The skin was perfectly crispy, and the meat was thick-cut, juicy, and tender with just the right amount of fat \u2014 buttery but not rubbery. The sauce it came with wasn\u2019t the traditional lechon sauce I\u2019m used to; it leaned more vinegary, which didn\u2019t quite hit the mark for me. The inasal rice was also underwhelming \u2014 it lacked the bold garlic flavor I was expecting and tasted quite bland.\n\nOverall, the service was great, and the staff were friendly and attentive. While I enjoyed parts of the meal, I don\u2019t think I\u2019ll be back.",
+      "time": 1742606194,
+      "translated": false
+    },
+    {
+      "author_name": "Kelly",
+      "author_url": "https://www.google.com/maps/contrib/106954682136176627499/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ7EbpLTyp5eJiSDmlSne4GLZ5PDovklCyvkOv_PCG6eErGXSLu=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "4 months ago",
+      "text": "Brought my husband here to share this wonderful experience at Kalye since we are both adventurous eaters!\n\nOur reservation was for 7:30pm but we walked in 10 minutes early and were able to be seated!\n\nWe were served the lumpia shanghai and ube drinks to start our meal off. I loved that the lumpia was packed with meat and thin on the skin but the ube drinks were too grainy for our taste. I'm not sure it was a fav but would not order that again.\n\nFor appetizers we got the bbq skewers and kinilaw ceviche tuna. The BBQ Skewers are bigger than the traditional skewers I'm used to at Malay restaurants but still really good! I love that you could taste the charred bbq which is a good indicator for me! The ceviche on the other hand.. wasn't as delectable by itself but once we ordered a side of pita chips, we changed our tunes! I think it's a must to have some sort of carbs to pair with and may be a bit heavy.\n\nHubby and I ordered one of each for the two entrees offered - beef tapa w. sunny side egg and mushroom sisig (both served with rice). I like both as it's not too salty but I think it could be heavier on the flavour? The meat could be marinated a bit longer imo but it was still good regardless.\n\nTo finish off, we got the mango float and ube ice cream. I thought the mango float was going to be more of a milkshake but it's actually a piece of cake with a cherry on top! The ube ice cream is topped with shaved coconut and so so SO rich in flavour. I preferred the ice cream over the cake but my husband had different opinions. Either way, we love both of our choices and would reorder this!!",
+      "time": 1740296777,
+      "translated": false
+    },
+    {
+      "author_name": "Jess Fordham",
+      "author_url": "https://www.google.com/maps/contrib/112230492682123550570/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLKdN6uaFtk6xaui7TXhlrGBlAuw2BJFGZX4SzZz2U2UQ4FhQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Great experience at Kalye! We saw a few videos on TikTok of this tiny Filipino restaurant that everybody was raving about so we decided to check it out. Food was packed with flavor, service was excellent, and ambience was warm and inviting. Staff went out of their way to ensure that we had a pleasant experience. Definitely coming back soon. If you\u2019re visiting or live in the city you gotta check this spot out!",
+      "time": 1749841943,
+      "translated": false
+    },
+    {
+      "author_name": "Julia Hsia",
+      "author_url": "https://www.google.com/maps/contrib/103663916218838717371/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURwFcrHzw8wmnPsRL0j7aSBj8iM---QlsBzxWuQlTS4c13NtKq=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "5 months ago",
+      "text": "My first time officially trying Philippine food, really interesting flavors, tastes vary. Big portions; staff was really nice and friendly.\nSpace is small so reservations are suggested on weekends. However, the smell inside the restaurant would be strong when they are deep frying food.\n\n\ud83c\udf74\u2728Deep fried spring roll was my favorite. It was filled with grounded meat and huge! Nice flavor with slight crispy skin.\n\nThe pork belly was delicious, tender and juicy. But the fried pork skin came with meat was too hard.\n\nCoconut shrimp rice was a light one, pretty refreshing. Simple seasoned shrimps with mango slices. The rice was a little bit over cooked, kinda soggy.\n\n\ud83d\udc9c\ud83c\udf68\ud83d\udc9bUbe ice cream the best! It was so rich and creamy with sauces and toppings. Definitely the must-order dessert.\n\nUbe buns were good too, but a little bit unflavored, so eat it with more sauces on the top.",
+      "time": 1736718624,
+      "translated": false
+    },
+    {
+      "author_name": "Umarbin Siddiki",
+      "author_url": "https://www.google.com/maps/contrib/117691109932357299670/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKoNxSpL3Xdx_UVy99YH_NyNkEUbGFCSrxXApgWuK1LQpRWxQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "4 weeks ago",
+      "text": "Ube Sliders ($11 during happy hour) slapped. Not sure the ube buns really added much, they weren\u2019t as fluffy as a typical bun but the pork sausage patty with melted Swiss and that crispy onion bacon jam made this a small app packed with flavor.\n\nBeef Tapa was standard. The meat tasted good, but the meat-to-rice ratio felt off (especially at $19 for dinner). Also, the photos show a whole egg, so why'd I only get half? \ud83d\ude2d\ud83d\ude2d Recession indicator fr\n\nUbe Ice Cream ($8) - first bite was so good. It\u2019s made in house and has a bit of salt mixed in to bring out the ube flavor, and at first I was really into it. But the more I ate, the more I felt like maybe they went a little overboard with the salt. If they dialed that back just a bit, it would be perfect.",
+      "time": 1748577441,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "restaurant",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1713253612640732085",
+  "user_ratings_total": 520,
+  "utc_offset": -240,
+  "vicinity": "251 Broome St, New York",
+  "website": "https://www.kalye.com/",
+  "wheelchair_accessible_entrance": true
+}

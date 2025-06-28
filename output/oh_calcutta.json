@@ -1,0 +1,562 @@
+{
+  "address_components": [
+    {
+      "long_name": "10-57",
+      "short_name": "10-57",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Jackson Avenue",
+      "short_name": "Jackson Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Long Island City",
+      "short_name": "LIC",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11101",
+      "short_name": "11101",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "5718",
+      "short_name": "5718",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">10-57 Jackson Ave</span>, <span class=\"locality\">Long Island City</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11101-5718</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1630"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1630"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1630"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1630"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1630"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:30\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:30\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:30\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:30\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:30\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "10-57 Jackson Ave, Long Island City, NY 11101, USA",
+  "formatted_phone_number": "(718) 532-0017",
+  "geometry": {
+    "location": {
+      "lat": 40.7427859,
+      "lng": -73.9527208
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7440597302915,
+        "lng": -73.95130621970848
+      },
+      "southwest": {
+        "lat": 40.7413617697085,
+        "lng": -73.95400418029149
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-532-0017",
+  "name": "Oh! Calcutta",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1500"
+        },
+        "open": {
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1630"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1630"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1630"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1630"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1630"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:30\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:30\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:30\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:30\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:30\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 640,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102912716473738130415\">Oh! Calcutta</a>"
+      ],
+      "photo_reference": "ATKogpeOKCsTDclbyUX-a3Y667ZAfGDCJf1NwY74JqIJwR6zuJ11FUlA70EEV1--CvN2vZA6t5Zv3f3z9YY_Z3iaTY0lJ2rZjeeseKtp-0f45Ut6sNRGjKss1PJy3I0Sdc54r9NcD0_kRc6iWOHakS98-jG5J0XzNCThMl6cqQIlS4BIOOPIhK4Rc7Nev6tcZH4b9GZ-lIzx-_VOdoWxNmTS3ExIcIBnr026YskYf9dsbe8kQF4jPlYQBifoTq0DTRz_TnY6-51yNsxZSYCm0yV4N4KGoss7wjQFM5g9Mbf7a-8T5w",
+      "width": 480
+    },
+    {
+      "height": 640,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102912716473738130415\">Oh! Calcutta</a>"
+      ],
+      "photo_reference": "ATKogpehCK1xxbkboXleYe5yYAJZga7XKBNU8MLnayavJxfU-r7DwoxXPvFXCYtLY1ukW314s7q8HGBlt4Zn02V8zYohIR2elxTMP-rgz04Gve-XNqDf4pO-tjwvPNCF1jKEY0H0FYfpJ5dtFFWx3FE4rwQB6GkB037WbEv_iJXUdusjfZbt7qdGpKGhOjREtkBmQ6eozi_gQmrANc-aBf0xjJoBhtaN-NqlHZl7DuqBV-W1TN2BJNNXfZ90jGuVXOCQPkrtePvofNjOsCI923zB7ZTzopTLIlL3YAUJ1XOPrJFm9A",
+      "width": 480
+    },
+    {
+      "height": 1360,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111549829851896134775\">Antonio</a>"
+      ],
+      "photo_reference": "ATKogpcWtdyv5VYNeqzoqc4p_gjOXa-s8GazylB7ZfFWFO0IWqFONYCHLwhDwnoAobzExC5Uz8YaAGAfTfhmqIBDzNbBYqHYn_Nh5olVpzXeBXg1vMjTyrk3yrTP8CDlLbMLZ8sTaM2ltGO2UAoZ95OUyehPXYKBO75tnU71ZNXOeD6Ui9-P-AXCExg9NINtL1t2yoKZVEGNOZmzCSSdq4Wiytog-5n17VvZ5XN7B1mA2LkkNg2cGWUdc2iHLvUuJIwuNiiRWVbEgnvUxwj9Vp4r3s8gEV_0Z8A7heDwFHClpA4GBTwlVjU8cXuNh9m4ihipw0EpoWPRSlB1VuHQY_QJyHlOrPkbHaxHYbebF4nbYVsBn8UKPcIWWHyRdQxxtAETS85NlfTQWrG4Csbj88MWqX-iZ6p6vz47RBM_X5xYm6c",
+      "width": 1870
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113128607047168731142\">NSM Moyeenul Hasan Sajal</a>"
+      ],
+      "photo_reference": "ATKogpfDDuHQeNnZMPpOfCG526E-seQI80XvlVQK88PdiJLV-ZPqlue131gwpX9Iv-sQ0zBtdlE3KQSKnnsW_GObcNiuxLaDDShhbJZV9EbnVTUC3emNnn4DDuMnER4z65NudPfXwsi_1J0YcqWPq8TVgkPPbIDdi6RXmmYQycb4iiih59Yjl5mDenHfZLQycP8GAitczzHC4cxl07rSu_wZ5-3HFAFFiYYnNW-UOiOFsKGTMEBoC6xEXqgCkxETRUr9AcMxCiIKGI99Z5wYNCk-MAb5esvkU-qD-n3Dx104yxuYNpMUegODSx6aq-hzZTsJGqURmLtL2qHnkIUA433sXPwsrX1qvJ_FsJKMH4dsl85DVr5RPAruJLJOTkPJ_PhPenTUPX8gBRatlusNkNR9_cTotL5fO1AIXd5oUo2_NwA",
+      "width": 4032
+    },
+    {
+      "height": 640,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102912716473738130415\">Oh! Calcutta</a>"
+      ],
+      "photo_reference": "ATKogpfZ65_fzwaJ7T1TRWwxkq9Gru89eW8QDvQNqHSwrqkLTkqf_bYbpbTvJwPYrBCADbYmdDKeWN2o8uUL_U9xfEhhLxlWn_f9rO1tJevipsxNcIhTM8nYR3Yr_Vw33Q8Th2i0Q2KjfMKBTDxMu8HEhReBADYI7VBj43ZouvCDQ5DBkWAeFpQzco3WtO6F3TbhaKyO0g5kkEeiAM7Od8noIoENBB_EMj9sjfL0kzicnnxl8DMKCPFTbzQgqZbcRXnnsQNxyEbsRUMnoW8XShrggVOhbBT9RPxxnO3kRHM7U7X6WA",
+      "width": 480
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100141602481698012179\">D Guo</a>"
+      ],
+      "photo_reference": "ATKogpf685yN9gHO8HcGkRssRMWuCzXUVibBDTz6O-GG45VKh4UfxC0kZNp--74ZDc90BrYzm1ZZdTHnzB2WFHmGmvdY4YRAqkfiIsu5vbO62ZoDLmc--VLPgE_Wpu2vRi5Ns8QyswSECVKfQH5h95vSDW-VOjWdGy4LxpaPCC_ZXbxd7qzSb2RYWUpdX0Aa6bLdjf04IlRg_ZifwR2rwbvTQNGu5gbP3i1RotTcsAuFq24w-fi0IqgNGWdhzsppoo2vUkoHGrujdsKsVVCimlARAucP9qNRdjDyXKGVZ2jBj_tUjeaoBlGRvIofj56QafePi7YA1FoISK-aQtpIiAgn7CBGal9ViE9HqFjYGwhAEYopAgQGp82JRObBL93C-54Eor3x_mXR7V6Vj3qkGS2zNZfMI12dzrps5CjSvCFvP-LPcw",
+      "width": 4032
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106715333178486562427\">Md. Shamannoor</a>"
+      ],
+      "photo_reference": "ATKogpcRs_o4oPePnvKbVU7RNqiRRuBAb4_gs2hxwfBz8YAXAixQ3it97GnmcU_IVyZ6RZlfDkddhPO8OMeKtVITzsGWys-6jH69-qxRiYKm9dmWS0DpOzlk1jEDxhDjihwvaGT2Cnl5VUSJ9m_ywAZn4hFARLS2pzLAi0PuOpPhic6EaXQSIrVuxsFO8GdxXy6IRHNAtbd3rsFVSNoQc0Xcz21iLB4X_eVegW9qT5lI7Pm_XDJORo5qIop0bQYDyScyEWzLI3rsF5cugVs7dbrS2nQ1dL729Wrq8PpEA35K1jSug_7aHKlmOR5fgCIloLtssyR_5OOvSQNE5Q6AFd2J-cpX1R4vrdDXt6HygZaBVTOpQqdW97lmFyXfH4SmE2jXtf1NiVhOsdkHr3ZibYaeGb2okOIdW1VZlEaBgaJN4s4GwQ",
+      "width": 3600
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105865754571280614254\">Jerry Zhang</a>"
+      ],
+      "photo_reference": "ATKogpf70va73QCBmXmZ0i4DGowFYZIlJGupS9NnuM4Eli7W307mmaTIrrs8dulAh5JxiGr0JWb4sW_lz7MASkBcWmz1vARJL4sBhgPHNpXOqmD-picBhk65bKLCC4mpHvsK4VxJQoEPrnBp2dn9pyyOCh1FTiRY2Zjq3fR0e38BQWaWvGdkeYDkAlhl25zHJzrDEbT_GTIDRCZPntvuV31tZjhkAz2lOiRH4Ydkw6IQfU6f2x4-S81vZ8AppWnsp6cQDdC_vxS5BqTmkA62Z4UbsTllFiegjQajBh-BxTVTiSe5phZt6-gvp-tidrbySUdUak-UBCrnScfn2MvY4M99m9n64XJfvx-5EExSClAmUfvzwzwHg3GSjbp-f0Al4Av1eIOgUVN19nWbFsTp21R6jAY49LuGZ7vP7YxHOMoAFXR2Pw",
+      "width": 3000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111137322553058838297\">Nim Sivapalan</a>"
+      ],
+      "photo_reference": "ATKogpcM6kYUiBodOU75llUgLE0IDt0S9iq5o2UY-_b9dvBke8Ig3FWaW0dxRSB_qL92sNMAE5LtFgw3Bi51Uxbnc-0ERXntmp4fTQSGFmx00DCQjrOvabLH_bnHJ_RD5AHZ8fZC6nFOkU2h7HGn4fJeQRT2D10HwHnF8Qbf1ZQn72WDHMAVUccxrRS87vOqTeyvGPDXLuPO3Ag-OA9BHHTkZ6p_j-PugSfs3NDiOl8uL0TloEgHW2EY0T8pK86DojGJGIRs5u1-VImGSkW0uNoUKuI72r3uu6AC2tfinylBsDZi5sEGHvFg-q-lnu47GO8XL4qf3xZ-OD54EnnDjtPgj2kwIb8wwI3zW1SdpkZLtzuo5gi0QteJupzPCXXGX8fPBXCjICBIlxVcMlL0vsXgpYcLcqdlSpRxpqFITLkRYB2-DpfY",
+      "width": 3024
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102403025862271146589\">Sinjini Sikdar</a>"
+      ],
+      "photo_reference": "ATKogpc2aL2U-nHh0wHXnZ5scfAgD8zxJ5dwft_R3FeV0_2oWXPUE4Lv9nq-uBOo_ifSeiN96bBV01vhv94Ge1cHfZtdu__uMLE16o4BSiWVznCon4sIp7HCZPz-4CvJ5Kg-RflPQhYPTRRXCh05HDugeJO38Xj9zSN7_V-MjilLKW9eDVYRSJPInTL5UHoolbBnsCsofjryLQpia1aBbMpnJoodG0pjjdVudB40HzyE9HbQCT1AYaWLks3gMnoUOPmGLsL3oHnf2vvYsrrvLl12jXg-wuI4Nm3g6IoZVEROFfvJVJFElQ3UrinLVcD2Vx5rayx2TygkgtjMIRIEvGbHHM83ptsoOa1puYaOJn9Ee1j0ixkyye0912T2VqwGXDdwFqDKtngSDe9h4raou5nMzyRWpwfVO5MJcMLZyN6nCUOamxc",
+      "width": 4000
+    }
+  ],
+  "place_id": "ChIJafVB3NhZwokR1Hp1ajjjkck",
+  "plus_code": {
+    "compound_code": "P2VW+4W Long Island City, Queens, NY, USA",
+    "global_code": "87G8P2VW+4W"
+  },
+  "price_level": 2,
+  "rating": 4.6,
+  "reference": "ChIJafVB3NhZwokR1Hp1ajjjkck",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Bing Wu",
+      "author_url": "https://www.google.com/maps/contrib/116630132448832399136/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWlcONBjRzqlWDppmbnQub9D_iJqYsZWBZiNmeM0ccLrvtPvU8o=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Oh! Calcutta is such a cozy and inviting Indian restaurant\u2014clean, warm, and full of charm! You can really taste the freshness of their ingredients and the delicate flavors they\u2019ve crafted; everything is perfectly balanced. The owner and staff are attentive and genuinely care about providing the best service and food. One small suggestion would be to have paper napkins and place the utensils on top instead of directly on the table for a bit more presentation and hygiene. Overall, it\u2019s a must-visit! Go try it out, ask for recommendations, and let them wow your taste buds.",
+      "time": 1741194404,
+      "translated": false
+    },
+    {
+      "author_name": "Jose Miguel",
+      "author_url": "https://www.google.com/maps/contrib/104842549796908156876/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsgriCFXIkCIy5qy3GMTroC_m6VGSQ1-kYbJDt_dy_FGD6x1nm=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "First time trying this place and overall it was a great experience!\nWe would\u2019ve appreciated a bit more guidance through the menu highlights, especially since it was our first time trying this kind of food \u2014 but the dishes we tried were flavorful and satisfying. The atmosphere was warm and welcoming, and the food was well-prepared. Definitely a nice spot to explore Indian/Bengali cuisin",
+      "time": 1744847486,
+      "translated": false
+    },
+    {
+      "author_name": "Nim Sivapalan",
+      "author_url": "https://www.google.com/maps/contrib/111137322553058838297/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7_KRxaR-0KDDj6vMl_mjJjb7znXyFC6yDnGPSy1tUbXcODlkOrg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "Love this spot - highly recommend to taste some phenomenal Indian food with some Calcutta favorites on the menu! Everything was cooked to perfection and quite favorable. Service was stellar as well. Nice ambience inside.",
+      "time": 1748792555,
+      "translated": false
+    },
+    {
+      "author_name": "Arya Phatak",
+      "author_url": "https://www.google.com/maps/contrib/116921912734379627060/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVmsz9OOIK8wzQ7ohQeq8DbqKuB_1VD2V-d8GsvyD4rmyFvoVLG=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "Had been here for the first time. We started with chilli chicken, nice and tangy, a little sweet but crispy. For the mains we got chicken biryani, shrimp bhuna, morich mutton mangsho and luchi. Loved the shrimp bhuna, creamy and tangy flavor with semi gravy. Mutton was dry which was unexpected as it was served with rice and also not mentioned anywhere on the menu that there was no gravy. Luchi was soft and a good accompaniment for the shrimp. Biryani flavors were subtle but good. We finished with rasmalai which was delicious and creamy, however I wish they had been more generous with the milk. The staff was friendly and constantly kept an eye on us.",
+      "time": 1747358877,
+      "translated": false
+    },
+    {
+      "author_name": "Stephanie Davila",
+      "author_url": "https://www.google.com/maps/contrib/104668538434767734992/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW6YPeYmH0_ytfLiP1cst3gHX4m-UeA_1McTBfVyseRMS59ajdi=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "2 months ago",
+      "text": "The food was okay\u2014appetizing but not particularly memorable. I had the malai kofta, which was unfortunately bland and lacked the rich flavor I was expecting. The samosas were light but not very filling, while my friend enjoyed her lamb dish. The rice and garlic naan were good, probably the highlights of the meal for me. The restaurant itself was clean with plenty of seating, and the service was polite, though nothing stood out. I might have just picked the wrong dish, but overall, I\u2019ve had more flavorful Indian food elsewhere.",
+      "time": 1744812108,
+      "translated": false
+    }
+  ],
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "establishment",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=14524640104690318036",
+  "user_ratings_total": 168,
+  "utc_offset": -240,
+  "vicinity": "10-57 Jackson Ave, Long Island City",
+  "website": "https://ohcalcuttanyc.com/",
+  "wheelchair_accessible_entrance": true
+}

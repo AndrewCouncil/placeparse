@@ -1,0 +1,270 @@
+{
+  "address_components": [
+    {
+      "long_name": "228",
+      "short_name": "228",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "1st Avenue",
+      "short_name": "1st Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10009",
+      "short_name": "10009",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">228 1st Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10009</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "CLOSED_TEMPORARILY",
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Classic Greek dishes, such as calamari & souvlaki, are served in an airy space with an open kitchen."
+  },
+  "formatted_address": "228 1st Ave, New York, NY 10009, USA",
+  "formatted_phone_number": "(212) 432-0011",
+  "geometry": {
+    "location": {
+      "lat": 40.730975,
+      "lng": -73.9824972
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.73238148029149,
+        "lng": -73.9812850197085
+      },
+      "southwest": {
+        "lat": 40.72968351970849,
+        "lng": -73.9839829802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-432-0011",
+  "name": "Taverna East Village",
+  "permanently_closed": true,
+  "photos": [
+    {
+      "height": 1630,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105991776480761814615\">Taverna East Village</a>"
+      ],
+      "photo_reference": "ATKogpfmuVPOeYyAlTH5Cln0KXsHcMoSl02ctLP4h5iKi4dhSm0oPKJoseV7KO1Bt3dC-mzgxXM13d_Jl9aqzVrfnc4Y8c9h4u9so6NuEFVeRWQyJSNjFk2xKOZ-PiHVJBVPnxcr7faEpvvcB4Q7fbKjjOjD9j1p-jg0pDYzULPjXt6qyCw59PchjNmZFAQFw84Qs5lvYf8vjgC1xppLnPnq1b6sdWtecsK6G2tLMP_cYinTpSpqeuwVMPXMksyCBiOgnqcwSI6s3nMDEg23oQgiN0uLmGNEE5V0JXUQXmxPjb2g3Q",
+      "width": 2268
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105991776480761814615\">Taverna East Village</a>"
+      ],
+      "photo_reference": "ATKogpd6r2AePZr-4Ypl0ghA3eMOjH6rA8b-SdVDdI4v0vprhGF8iCYUP-ok1BbyAd75x49DI1IAva1ZLBu2sDIIyJfYKrTcpqyEIV8g0RI9lWwFrTeZ43lcZmXi_z0ydVFouzZrjQzbyM6obroVe4T28Gr5EI4qeKPjSWd50E4ftMoBzusw3TxDxirhvclhGTOl8_9lQXFhwSobLTqWm5OxeGVMN34txngjOkjoDB2uNEWVKtw8VlRwdMk6Mt-mgh4np7fXAvWmyHCp667lbmuaTLX1BRibbE_d4WgChfYO7--UGA",
+      "width": 3024
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114747497576568237548\">Al</a>"
+      ],
+      "photo_reference": "ATKogpep5J50OPW_WrFcH1POekQSKhApuUiOH9KDXK_j2z0i-RqooG4Fp7vg9HLf62kIlpn-b0d8YHn2FgPHlNNIzCg5aLD94WMqIlmA04063qzcKzusZRmKSY0zaG2382Gc7lPHkdaKramBzCAEQEdhoFmOccJgIb0M3nhe-cCl7mJEZwisM4HXua7bC86JrYDNLpjf4AwkHfq3m_bHYZjsW_do8ihf7R5Z2RPNd5XHQdQkF1ObuBwx4dt30LcXSkJNEhTmQtv30trzWgbELZlnIjeLQQPjAWxJLoqeA1nCEy9_ERu9i81j9t1rcJDBFFIwbuuo6GDgEm2YeDw5_ARsoX-eep23pei7__wHFNbnfcyzjmTqnD8P3WII7AG8qniLIQR7rft8HFN1bwQ6OwzZsF8Bjzz17cbqr8vnm8rHvnchEbcG",
+      "width": 4800
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114496961521002278641\">Lori</a>"
+      ],
+      "photo_reference": "ATKogpfeqUu3vxYAKi0Dylx4EyI1Fu4CtfU3p5Jwv4hOWwzfeQB_8Blp2qm8T_E5NrRTdLqDUvKyLlZ-g05T0IsziNxRNMCfDtYPOCCsp4PI9Fikgig8FEi85cASjqlbKfmEACauYMnAGtFrJiXzCTl1Hm2njgHxv8muP1N2jG166Xix_n6eMtujkAZytYxc8zHCHskCbhrJhm4AyBoSKJHZOSL5EoLoR23GnzKnH2FLu4kXp3Lro2636nUyWtV-BBjcDjwDxrAAt1aDuD14D60Z7GILleIHBLbqKOAN5Iq56Cx9qg6RNpXISAT_wMphZIyAN3XdCiSbeiiE4JFZ01IjSF37zcZgbaQcSjhQGwVewcscE9hMT_GaJT7qIpTLfbR_j9bPH2x0JuBm823Z8Omdj4itkmxh5wf51hv_9YCtWhWHk5zs",
+      "width": 3200
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114747497576568237548\">Al</a>"
+      ],
+      "photo_reference": "ATKogpcv3xivz3RFEBRCY5nYhOw2wmaGAO57VLEdhy3XL4wIr9Zuk2-au8vP-0Fq0m2BatXk_Ii3D2wIW9lo7mLj1k9cH170BPXeZmIBuEmqbiRlyBIkXNpFr8jcKXo_NRuZ7wRnMGyz2j8-O1vEbvzeyhmD4bAnIu9KmiiMjnlFpmrKLf3KMWuxWX_eNP_Iy1S_YRMmqJu9_CH3qs640vxFAm7FHau6wqcwo1CfLjjvNqVmzAiOG3YWK_CibB1RdBYrWeShXgvYBuDptw0GiRTMcl3ZmTboqR6BQWZM0KURQrmT1UqZGWnu-SrOpVNvLGslKYanffgj0fHy6qHWnV-pY7ZIHB3WLkYYNBfY7A9Jp4Mp3BdtdevYbRMiTiDkp3Og6Dx_tQacXgy1XUoJNacq_K5JZU3BZsbVl0V_dsVIXns",
+      "width": 4032
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114747497576568237548\">Al</a>"
+      ],
+      "photo_reference": "ATKogpdVGFfJCroHCak9N72kWlypEsMcAJdEZAvMcIfq7JJxiFBjfjPUc623i58PPssbWbnc5uUJ4PCd4uTRcthdBYXockTYk8mhQ9QaZ25FzMJpZEjMlobR7Fp_ZrGjVjv492_fH37-L6NLm2ZkwCoFCu8Esotyjz7qE1j81Oy-KMgn8W0vFla-1QROTTTMzc3oTWvFVC4fay7krtfd2JvlJKYq3vxNysDCBdQFvyIUmkDAhF6tRinNyfZFC_l89thmSKST2W5g_fhFt3XdBdDhCdiPNQsOUX4vNsHAfrfVnmDiC6f5ydcViuxRs7eyqXvTswYhjdTDZpzYuAI7bpDCpvU6f6xkFvgHKCUpUBVcuvlsUqOU9zwfL_YqL7SwXnpOvtLRJEmRx3UOD_YIGp6ZrFUhiuXVFOfifQbWa4oiAdR0yg",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102556776057035647511\">Ben C</a>"
+      ],
+      "photo_reference": "ATKogpcX7SPtLePDpo8IEROIIX6L2p5UrgpBl-dVdMftBfK3Erb65a0JnhnqlFmZmBaqgViOOz6D5tKG1ymLTL1hBAwVxJkPYD7U6HwPAOqIZPd-1MYxJVGKAUf05ZZ_Cl0O87fytU9WmNwbeMxidIdeh6Dy4Ac-SJizbaCbMsNQstqfybeqUeYQXd18Bo1OT8QGYVMtsbH4uwTZi-6gSD85I-3t8vjKxvOHcKo5W-fQ_XaaP2eNv7fF3PYvNhJor7axX05gWMu9p5fDixPLIRzWH5hcnhxPX9c9XWT0pDzmmKIAYefoMgTbwmLWQQ0A-j5lrLPpEnmGnhnJSWtzTnzeglUQhyomwgjrH3JxF0sEF8UZVw3xHUhACKM0K4yV1fDYWXVb3bT_Yv62NQBPBiZkVIV6y5yJUX21zjTOALgu-vhKtA",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105991776480761814615\">Taverna East Village</a>"
+      ],
+      "photo_reference": "ATKogpeBXR2VpsbufGagi6-QbTA3MUo_532Mg_RIasv6ny_qsrEQZ-0i4UnRrbuBeVyr25C_y9gQvTG0xWs71wJCceCADgEm8_eElms66EHwKQGGj-m6yCjlLFaavi-ifAfo_4iXvqjRhn6AZHFbaesv6RCZkRzoVQsv2_vE9OOvAarUdbJTeOJPI7Soaf4kWlraOdc2GzNdHvdAbblirWUAmQxIYVlNDgH4D9Cpj8Kz-bIhZeaZn_VkeJwqnnRNEp3odGYaz-6xecugqUKuGf-v0DXZA0x53Rxabt_rn_ug071yrw",
+      "width": 3024
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112017011689901293033\">Julio Li</a>"
+      ],
+      "photo_reference": "ATKogpeIzrV8N5_PICYBVQh7sw6L3G4BConLW0Fp5NCysoRr5eq904k2mniGzKad8iusDcjDXFdjG_36vgFvH3O08RR1hW4gdoPWhcyyJ84fdG6w17Hno-wvQAy8-hA_Ct1NPaSsLaxs6hXgZB0fWvQi5XbdX2N37BMwj_FRM-oSpKV-GSQCWEu7C13cw4g5AYMHqw_u3KXXzR24masOAwMCspIyd8mJ7ZySmPj3GuDbryxXSIaydkb602TvnslQxWZzWFDHwCSkJOKjOpLXjP0QclfCy8AuzYb5G_MBkGcx5wNDNGte3OKWeEtOP9sLMe4zJJWXHKM4MtPsaNigbTv4XlPFROf_phFY19WueUew6jkA4TA9YfVSoE9oPYG59V3Gk7FVslHo77VPJTfurwl0JPsr4KMdNWtEi2C-ZshLsZQ8ug",
+      "width": 3000
+    },
+    {
+      "height": 1500,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100556235777158628185\">Eva</a>"
+      ],
+      "photo_reference": "ATKogpfkQI9xmSqRJUgZlV0EVfNvCaX7YT4fjwLsVh4efaUMR6CTAyMKSUsQzSnrHM9iLCeJB5pqqOPsclLruJRlQnKf48MIwIUYlNxCWpYcyl-1c_76OyPmmkvy12qkTeQhR7PKjEG4NMfauM0tnRdRGRbC9UISONyxmcCI_2eHIi3iA1pJ4dmURlFO1tSXlFdOH3kuLD81g_rzkDLJrlDlPtzKKPtMhQMTROuLp_LpCmp9-zwb-64lgsp7a9Hxk4YzTs3f_pJb3eP4tb2OEtzoS-h2eLMf_3akgEiWGwvNLFQr4HLrVcx7fe0fLSQr2lV5kV3ab2jsANcgvVJRa2h_noO1-Cm5kMuDSt7vjXMkrsHcfx-rDFZCD9jNxcW_LCdWZ2im_ckOnpQDOj8OVRrUUyqKJmmqTMhLoaGOFI80958a8Q",
+      "width": 2000
+    }
+  ],
+  "place_id": "ChIJhXfp8HVZwokRKCGfuDsTj9Y",
+  "plus_code": {
+    "compound_code": "P2J9+92 New York, NY, USA",
+    "global_code": "87G8P2J9+92"
+  },
+  "price_level": 2,
+  "rating": 4.5,
+  "reference": "ChIJhXfp8HVZwokRKCGfuDsTj9Y",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Eva",
+      "author_url": "https://www.google.com/maps/contrib/100556235777158628185/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKTE8Hg7_1XF5Lo_J6R6ug9jJ3tPnzBVO5l6zBCpDqw7YMyDk9n=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "Writing this on behalf of someone. Went with a group of four and did the walk in. Got seated right away even though not everyone present together. Food came out at a decent time. The place is clean. Attentive staff. Delicious food. Recommended the broiled shrimps. The fish tasted good too. Must try this place if you like Mediterranean cuisine and around the area. Personally, I will try this place in the future.",
+      "time": 1721940597,
+      "translated": false
+    },
+    {
+      "author_name": "Al",
+      "author_url": "https://www.google.com/maps/contrib/114747497576568237548/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUkur3XC0MSn7rLs4m2TcFYJz9vdlg6nTE_NCMC-ZPyZF3ExQ3LzQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "This is my second time at this restaurant (first time was 5 years ago) and the food is still delicious - despite a change of ownership since. Everything we ordered was very good apart from the oysters, which was fresh but had no taste at all. Definitely will be back for a third time.",
+      "time": 1721399872,
+      "translated": false
+    },
+    {
+      "author_name": "Sila Gunn",
+      "author_url": "https://www.google.com/maps/contrib/108554961217932882266/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSM3mUIqdV0fXca1OVsdcHBNQv4NK8kSzjbsKzqlGxd4MfoYU=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Long time looking for trying out there East village location. It did not disappoint but needs some improvement to serve better.\n\nWe ordered the Greek salad, although it was a small options. I was shock how the portion was. Imminently feeling really excited for the entrees. And yes portions were huge including the entrees as well. The grilled calamari was super chewy for me. I\u2019ll definitely order the fried for next time. Grilled shrimp was incredible juicy and well grilled. One of all time favorite, you can choose side of rice, French fries or lemon potato.  Which seems really interesting so we ordered it.\n\nThe ingredients of the salad were fresh and served with virgin olive oil. That\u2019s extra points for this place.  They are offering desert which was giving me scent of baklava and pudding in the same time was a huge hit.  Over all very enjoyable happy hour taverna meal for us.\n\nWe got sit a very tiny corner table in a non-rush hour, that\u2019s kinda making me unhappy during my meal. Since the portions aren\u2019t small we definitely needed a bigger table.",
+      "time": 1717022086,
+      "translated": false
+    },
+    {
+      "author_name": "Tamara Raseta",
+      "author_url": "https://www.google.com/maps/contrib/107116142355937317161/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWBZ7EGbG8Vg1vTrShRGO9pvHJMGGjerhIjRNL_hqDCXdV5IUFy8w=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Food was good. Octopus nice and tender, fish fresh. Try sample of their spreads with warm pita. Chicken was a bit dry. Got complementary dessert as well, nice touch.\nBut, what is 3.75% NON CASH CHARGE? i thought maybe that's 'new NYC thing', since i haven't been in a while, but this is only establishment during our stay that actually put that charge on a check.",
+      "time": 1698292050,
+      "translated": false
+    },
+    {
+      "author_name": "Ekin Alp",
+      "author_url": "https://www.google.com/maps/contrib/101272540827813194580/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVIX8AhsQQ2sS3ohbvTOzHcOk7A5UrmSfoYuAp-Z6m6PEpvldNd=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "It's a very shabby place, the employees are friendly, but I didn't like how they kept coming to the table to check. There was a constant rush even though the other tables were empty.\n\nThe salad and fried vegetables were really good, but I found the fish I ate very oily and didn't like it. But since there are few places like this, I give this Greek place a good score. Only minor changes need to be made. By the way, if you are looking for Turkish raki, you can make a fortune here.",
+      "time": 1714406750,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "restaurant",
+    "establishment",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=15460597193007636776",
+  "user_ratings_total": 1126,
+  "utc_offset": -240,
+  "vicinity": "228 1st Ave, New York",
+  "website": "https://www.tavernaeastvillage.com/",
+  "wheelchair_accessible_entrance": true
+}

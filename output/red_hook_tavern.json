@@ -1,0 +1,643 @@
+{
+  "address_components": [
+    {
+      "long_name": "329",
+      "short_name": "329",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Van Brunt Street",
+      "short_name": "Van Brunt St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Red Hook",
+      "short_name": "Red Hook",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "sublocality_level_1",
+        "political",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11231",
+      "short_name": "11231",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">329 Van Brunt St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11231</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1445"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1445"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1430"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:00\u2009\u2013\u20099:30\u202fPM",
+      "Tuesday: 5:00\u2009\u2013\u20099:30\u202fPM",
+      "Wednesday: 5:00\u2009\u2013\u20099:30\u202fPM",
+      "Thursday: 5:00\u2009\u2013\u20099:30\u202fPM",
+      "Friday: 12:00\u2009\u2013\u20092:45\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20092:45\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Classic American plates inspired by iconic NYC haunts are served in a warm, wood-accented space."
+  },
+  "formatted_address": "329 Van Brunt St, Brooklyn, NY 11231, USA",
+  "geometry": {
+    "location": {
+      "lat": 40.6778606,
+      "lng": -74.0120649
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.67925123029149,
+        "lng": -74.01079181970849
+      },
+      "southwest": {
+        "lat": 40.6765532697085,
+        "lng": -74.01348978029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "name": "Red Hook Tavern",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1445"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2130"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2130"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2130"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2130"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1445"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2130"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1430"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2130"
+        },
+        "open": {
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:00\u2009\u2013\u20099:30\u202fPM",
+      "Tuesday: 5:00\u2009\u2013\u20099:30\u202fPM",
+      "Wednesday: 5:00\u2009\u2013\u20099:30\u202fPM",
+      "Thursday: 5:00\u2009\u2013\u20099:30\u202fPM",
+      "Friday: 12:00\u2009\u2013\u20092:45\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20092:45\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114095660721755749106\">Jessica Lin</a>"
+      ],
+      "photo_reference": "ATKogpesGoT_b3fjEbBm1HHvFdhtFDu-qXnLNa1nRrbgP5peBZbEQ8L8ziqrZ1fpGKaEkbU8X9jB-TFU6OVpMh1lM-NpwD3iYuk6LkqRkJHPAHLFHulTevg_-TB-pTLhg5oCpDfibN1jMzhlFLnpLwZ2G1ytPPW2zg8aIU0Bk_zfmQB2LOt83yqaKFrrRHPUiPHsJuzroEFqFJ7kWKbmW3aw2qzhp6und6ubqsgT9faPpw_i6_dXPQWZDQXfpN-OCNn6Th7iDNwl3qS_Pkl82-aov95sdN6EwZOG0p0EfJK0jIwIbr3IlBUSOy5lchI9iz4V7swYq1L6hYynZQvArJvEDRTWPMQhWpFxHLPfPbPPVUSql6DupdRfHU3SUc-pz5TtSCSk7d86YB7RbS3aoWRhQDdfy7XlCIEVH8lotYSLbdYDXQ",
+      "width": 4032
+    },
+    {
+      "height": 1848,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108324188293804198260\">Desmond Ly</a>"
+      ],
+      "photo_reference": "ATKogpeKF_cU0PvcKXegOpjNv4kDQJRJE4hHHRlE1f05zGxBxNeO2fgGqIC3Qxao-g2qLvEO15kE_7ESP1HOGOw6R2evX_VvVoYVPn6aV9awtrRJmCBWkdZzt6KxPBxaxua08h8IVXSoHpRI0VZxrAqk0FPAaHm-dNw_kOPADF_eByc11CQ15WvBe_McceE7ZU0BT9wxMCUHBknqvJ3o1rcd13cAyRMTXCJ6Ke5ZOS-RpT48ChKiXWDCJy6ijxvNJ-Dyu0tB1yWZ7rnLPgFH2eEkTzlynWcpt-UFNYLfBtZKfNoM2bI6DJJ3FUEc2f6VGZi9mPByDC-DfdcDn2xYi4hCeEUwftqHPrKkEXzHVeb1ZAUXqGUWWmBdUBVufPE_UthvoADwpoBmgKy6qZb0u5AOUZJy7kMlfq4DvR48L-jJjT94LtC7UicQ566054NaSWDw",
+      "width": 4000
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102704281421334071143\">Gabriella Giliberto</a>"
+      ],
+      "photo_reference": "ATKogpfMLpNPbCBwgOk7zivwcb8nHIeMsOoTTQX3YOlqSZWahD-AUqlPNajvUXYT08YjCEOxNukMixrguQ07LTElYd2aaMql-xR9wUOkcFRjkU84iUVhZLT0P7qt3xlZKztLqeIZchCFR4F5VBLT5h9CHfl-qJRWvx2bNr4fvEysmDRdvgG-2WRIm0jwBWfN-Zh1Wimsp5rCHqQGpo8Ays2Uv93VvGlKD6yHQtQyyOf_5AbXtRsitRPo5YMJzhEimehSkypH1JGoN0Z6ZLcpM-LfslbchgFemE4nJJS4KhU1JdG6pHryCrY438PXyO2jB9eXekO91YIAejhNBbYEkabMBxjHSeyo1cRMU5mrlXM6RYfRWQVjQIC-YEi7MJ_9ASediD14ACJj3ojKlBlOJNa-nmsY7fnD07EvnXIy9DEgMlSFBLDO",
+      "width": 3600
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100516984688608322981\">Marco P</a>"
+      ],
+      "photo_reference": "ATKogpcGOuy4t0ezBzcbj6BGddXbs8VmQ06_nmhJ_IWxxGPxP6uWF4e0rEYK6Sh2LnYgtpBHuR1vqmvJeoDzADQUX2NQLWW21C8brtAOl4eAPiJab7iOoB1COpDdDRFytsJvOQQJM9hfpzBca3saQ9A9LwRQ4TQYjsK_xmZDCw0UK652A6snL25qVuQsKB7UT_2cc42xbhFZsj6gT155LMBRDpghPaPtAtu38_grCST76XAZ78etqIcRzPDE50YN_zDtadiK3QzyVEG3WUhORiwlYzNBc3GcSROeWjhmKgkEtdaEuhIx-PB9uIZM1GXGlZJqZo2LN0QkE_q9vrpKmHPRFTUk5FtYO8_fao3frf8DnJpRUKlktmC0WO0w1uHhP5arqN_PSAFMqOlzfZdlcwi3Fh3GZ8g14CTvn67LyBArmjI",
+      "width": 4800
+    },
+    {
+      "height": 1848,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108324188293804198260\">Desmond Ly</a>"
+      ],
+      "photo_reference": "ATKogpcWWsDKXUXspcH5ETBjMrYGgidriICXk7QQ81eYuTBziE2PPto66a_d3mqrLofh-9Di3zQaUWyy-K8BOmduQLFf_DQc7vvCyO5owyNCeaE31QhCLmIbuHvIN4_7qeL3134BI079d665PWK4gdt24x-CFGV1Fe-vqoZi382dc0bjSn9w02n8nmPu8B7A9QpwJeh-gT9vGlWUUICoUa3LIqBVKmD8rz1ExSOVG5kgMwYmXFdIjmy3BwMCRAuKTrFA2d7jWhONkzpIOc0wTk-nZHsBmzpgHV2M2zgbDdDx_ZyLNnTxJPqL8Spowf-Ed2fDSEk1bO3MmjEYvBdMu7ahoaWU8QfgROzMc787eFl5-zyd1aKUcOuj9SdKgR5CPN085X9ndoQDVWu6pCyfxYi1Um0zfmb1rDUaf8PT_19XxRW2Dy9KYUwSsbY7hDDKgvVh",
+      "width": 4000
+    },
+    {
+      "height": 1467,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100828220502596214040\">Blake Rasmussen</a>"
+      ],
+      "photo_reference": "ATKogpfnr24uRUd4Son73cK939GZ-RlEx9HRVLaarV7SXp3tP-7kaL-rqDjaxcoY4ByhjmHhvNF30QYUlHz8nUxdt92Bd5epCDXCwcNzHMWTJ64NqO7s6UvZBL3dqpmF5aLPzGfEUR-1cQdWg2FimBXEWeoHEquMElhL0WF-Ys8Cvdy-wH8f54-EIJaczZGvyENVUFdXt23CvAE5UPJUWFFsmQBDWuDrQsI0r0Y9ioYFquPRmFVPol9OYqwwYpZZw4kfQYpCy6DV-LV20TqSMXTSf2m7sqIRkt6dVbhdS31_GW1UeMmi-K3e6TmvyK8OS0UvERv3GXCXu7GsZrLWouWRxQi69aNizsj-F6O7b4HGKL6Mb6ZpdSCbisQ2AJN09XJJjYXqqPqw6x9B68wP3WKbE8VBEMUXPtDimiZPXh8SPO8UHA",
+      "width": 1170
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107591277118752991402\">sophie natsvlishvili</a>"
+      ],
+      "photo_reference": "ATKogpc9nbNsGXG_egwuVxtaGdzdG0qWTrLBDnPqbf9Pkoo-ZN68k9PQg6LUTYyXsi5NRu5Ho4AMPSJ840PD5pSpkiOfqwP8Ejm3dfYxIpkfiis9DIKHhoA-4unNW-X0CJ1BzaVofV-eWytExVBN4vQGAGPKprFvBSdCLA2YBCscIR5to2ZtOHpS7Juu-JsE9jJCMAk90hl4NeyFm_8YuV6SSwuyKgyyWbfea0IxPmxreIz37fZE2DLNIS6W8ZGl9II9gN-pttV7Gq9rGdEFET6bubAEOPwHlQImTlCtIvfGzn1lOGOnAfApqFR09PENqSKioN-WZpfwtlB_DSnqqZOy2-DhPYH2esiewe32QyXeDnYRrEs9bTLzAVte62yd01PCwyu6xGo8DRYaDg6IhLEagtUcbYRCR4_3SdhfnnBn98_HC-iD",
+      "width": 3600
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102461681842689404434\">Martin Koch</a>"
+      ],
+      "photo_reference": "ATKogpf7DtX_vl7T7VoJmPE8fxk7SEYI35rAmqbWAb02fHi1OqooQxNJJyNL8drCy82Ikrj8oP-OUEDURqPg3TIZtTy50Nm0MP07_mujCjYAFaDe8VuyYrE0J4SVNm44XuKkknOlff3fpE10icgLSzO9vNvc7YA14eYn2yOxa5hqHTVyaQcAuo5UiXyL0a7vItP0vMTgZG5nisZQDZIu-iXNYvFUQP5rudxE0sw7F2Dakz62GeGxqvjQGz_nLyAhNPN_4JDB8-Ie0AsKo-cnUd4j8GlHMZKGHeeu_R6GOTKN89gjX0X37yiCB8PMH93023ZT-Oju2qIGJ5PyvrfkeHoLHF9Wnhbmz7lEcxsATRrqOkK9ylfE6AuD2is-C6HTvLBh23OmlwTkcxdxxAnKjLdjdr9EammDm6X-WlDk9FcbVbrjDjRL",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106739483460626626062\">Karen Nomura</a>"
+      ],
+      "photo_reference": "ATKogpcxxNMmEADYZ3a0WfQL3ta5doIZ7LUBnt68CRoRp7ApSdp9XF2ezj6KbetZyjk0M7SuPX62e8ZNir_V7GLBctucxRdHxKrxYHGlPAud2aOR_9q29fkSUVJFaj2-NAFnG069PjAlkgH4riXfc2c67CE4TYCYRnnkBhcUysqJPrnOOAMK5my79kC7nNrqfVO-HX2CZyXxV5AshqUWUrmK8tB1eOTdPxot8SngLX2xEJs02zX9xDqWxvLlDdb_L1uKeCDdXI7GxfKIzB7F8zSyI3wkvrBZ9iOKJDX7kgCIJ8tnXz3tVr2ooSBGzsISFgcTHxcUYkj_OOMRDWiHINVcSYL_l-t9JjO0dyPn1UAGI_IucqhCML8D10fHDcVE9kVA22Iy7oHFo_1kOR6wL4iJz2SKszNGF6eOa5VZRhoH95SdRg",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114746606377751347214\">Dana</a>"
+      ],
+      "photo_reference": "ATKogpc8obj7UY2rdzzKhXyTwwGnDQ7Ml7XelR9UU94B1WrVnFr5FuuA6BGHuOtJVo1xC1T3WuiDTPd1aCTF2li8lhm5Xba9b7-fFkno99vYR5SehYARLoy5gja5XZ1QIkR_g3ocFMzIdQc6hwUvlhRYQMyCkaVHN-2-K3KUgoKUbfqjbCX85nfG0y4Zgz-tWXuwUTOtS-Qj-QTlATeBjE1eRlbql6H-OHgC5ecXu_95vpriMfQLCWDEFzn8NfBdSqoJlNFubpboGJYoy6mkyuD7o5j9qGOo9Nj7ePN7TfjRHHnD-gZHo6nRXnRWNP8ikOzncl5BH4DZBaKrSVacsvhtpmhVpWBj8wPuiIQemBWsEPOAvOfoukPUAG3JayYBqU86eyR9sc6X6Wc9IkXoHLFQsedrmhfsT0T_00JzYHIMHpsWcw",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJv0LelZRbwokRrUvqWn_7o98",
+  "plus_code": {
+    "compound_code": "MXHQ+45 Brooklyn, NY, USA",
+    "global_code": "87G7MXHQ+45"
+  },
+  "price_level": 2,
+  "rating": 4.3,
+  "reference": "ChIJv0LelZRbwokRrUvqWn_7o98",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Amanda Libero",
+      "author_url": "https://www.google.com/maps/contrib/115335553798342969486/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK89nNnbaIJt-sQcY3rycCsv0uhxhxugLohx8hR665SmZZytA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "Great experience at red hook. We didn\u2019t have a reservation so took our chances with a walk in on a Thursday. Seated after 40 minutes outside. They are known for their burger which is an absolute MUST especially of you like peppercorn. Don\u2019t sleep on the wedge salad and pasta dishes well. Only 4 stars because they could use lighting outside and better tables. The server dropped hot sauce all over the table and our clothes. Worth the trek.",
+      "time": 1746370438,
+      "translated": false
+    },
+    {
+      "author_name": "Kabby Hong",
+      "author_url": "https://www.google.com/maps/contrib/117205585016176966131/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJzYwUQxYbURvBDdCUp-Abw42FsEq9cFG6tvipSfvADJnFbzA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "The burger of your dreams is at Red Hook Tavern. Incredibly juicy with a dry aged funk to it. Simple onion and nothing else needed. The fries are delicious hybrids between a chip and a fry. We also got the wedge salad with the thickest cut of bacon I\u2019ve ever seen. Fresh, herbaceous and smoky. If you come for lunch come early because we arrived at 11:30 to about 20 people ahead of us and by the time they opened the line was down the block. They only do one seating at lunch so they turned away a lot of people. This place deserves all the hype and praise it\u2019s been getting.",
+      "time": 1747588635,
+      "translated": false
+    },
+    {
+      "author_name": "Robert Crisler",
+      "author_url": "https://www.google.com/maps/contrib/113375755598045099063/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIvxvTBp1lgl25Ou3Nv-rFbJcsw-bl7gm_OGSsIG6becfyhmw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "My wife and visited Red Hook tavern around 8pm on a Thursday evening in May and were seated outside (no reservation, no wait for outside) during our New York Trip excited to try some of my favorite YouTubers \u201cfavorite burger spot in NYC\u201d.\n\nOnce seated, the server was very attentive considering we were the only couple seated outside. Never felt that abandoned feeling you sometimes get when seated outside at a table service restaurant.\n\nWe were here for the Burger, and it did NOT disappoint.  The burger was perfectly cooked to medium and was pink and juicy and was seasoned perfectly with a slight peppery kick! The fries were also hot and delicious. I\u2019m not one for thick burgers normally, but this one makes me want to re-consider that. I wish more places would learn how to make burgers like this!\n\nWill definitely recommend Red Hook to all my friends who visit NYC and hope to be back again one day soon!",
+      "time": 1750449273,
+      "translated": false
+    },
+    {
+      "author_name": "Luke Tannenbaum",
+      "author_url": "https://www.google.com/maps/contrib/108743607514058895694/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocICmfN9f0K-aBMVjdduh5OfU-grYdsH4gv3G4GraM9AOuexBg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "I would make love to this burger it was so good. I\u2019m about to pull a plankton and steal the krabby patty formula because i want to know how to make a burger like this. Shrimp cocktail was a great starter, rainbow cookies to end were the perfect finish to a delightful meal. The atmosphere of the place is immaculate tavern vibes and the service was top knotch despite being packed. Loved everything about this place and only wish it were a bit easier to get to. Thank you Red Hook Tavern team!",
+      "time": 1744858183,
+      "translated": false
+    },
+    {
+      "author_name": "Rovik Robert",
+      "author_url": "https://www.google.com/maps/contrib/103521079678024458298/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvdIKY2FJUlc9BTk9ZWNw8YCCznXGxmE-ncjOBIdgcjAxzqgCy=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Is this the best burger in New York? It\u2019s a pretty strong contender, with strong execution across all components and a cohesiveness that proves the whole can be more than the sum of parts. Service is friendly and efficient, and the options beyond the burger are tempting enough for a second visit. Enjoyed the wedge salad as well, and martinis are tasty!\n\nReservations are strongly encouraged but if you want to wait in line, don\u2019t bother if you\u2019re not there at least 40min before opening especially during peak times.",
+      "time": 1740929293,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1200"
+          }
+        }
+      ],
+      "type": "ONLINE_SERVICE_HOURS",
+      "weekday_text": [
+        "Monday: 5:00\u2009\u2013\u20099:30\u202fPM",
+        "Tuesday: 5:00\u2009\u2013\u20099:30\u202fPM",
+        "Wednesday: 5:00\u2009\u2013\u20099:30\u202fPM",
+        "Thursday: 5:00\u2009\u2013\u20099:30\u202fPM",
+        "Friday: 12:00\u2009\u2013\u20093:00\u202fPM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "type": "LUNCH",
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: 12:00\u2009\u2013\u20093:00\u202fPM",
+        "Saturday: 12:00\u2009\u2013\u20093:00\u202fPM",
+        "Sunday: 12:00\u2009\u2013\u20093:00\u202fPM"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "restaurant",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16115000416066489261",
+  "user_ratings_total": 985,
+  "utc_offset": -240,
+  "vicinity": "329 Van Brunt St, Brooklyn",
+  "website": "http://www.redhooktavern.com/",
+  "wheelchair_accessible_entrance": true
+}

@@ -1,0 +1,462 @@
+{
+  "address_components": [
+    {
+      "long_name": "252",
+      "short_name": "252",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "West 37th Street",
+      "short_name": "W 37th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10018",
+      "short_name": "10018",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "6602",
+      "short_name": "6602",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">252 W 37th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10018-6602</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0300"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0300"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0300"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0300"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0300"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0000",
+          "truncated": true
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1600"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
+      "Tuesday: 5:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
+      "Wednesday: 5:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
+      "Thursday: 5:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
+      "Friday: 4:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
+      "Saturday: 4:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
+      "Sunday: 4:00\u202fPM\u2009\u2013\u20093:00\u202fAM"
+    ]
+  },
+  "delivery": false,
+  "dine_in": true,
+  "formatted_address": "252 W 37th St, New York, NY 10018, USA",
+  "formatted_phone_number": "(646) 650-3834",
+  "geometry": {
+    "location": {
+      "lat": 40.7535628,
+      "lng": -73.9914967
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.75502353029151,
+        "lng": -73.9900344197085
+      },
+      "southwest": {
+        "lat": 40.75232556970851,
+        "lng": -73.9927323802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 646-650-3834",
+  "name": "Chubby Skewers\uff5cAuthentic Chinese BBQ",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0300"
+        },
+        "open": {
+          "day": 0,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1600"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
+      "Tuesday: 5:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
+      "Wednesday: 5:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
+      "Thursday: 5:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
+      "Friday: 4:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
+      "Saturday: 4:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
+      "Sunday: 4:00\u202fPM\u2009\u2013\u20093:00\u202fAM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3199,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101293662842834755907\">Chubby Skewers\uff5cAuthentic Chinese BBQ</a>"
+      ],
+      "photo_reference": "ATKogpdv7n8R4i0e5pS5QWPbfWgFEXS61GqCGiypIK4N6NxBA4RtgTBURmA5NfnKhKOMVLIAu3oTw2GvgukQWoH4LS2winIUHxDLEKdirvcoWsfijz6qIEt7RgAKhf7i2LcaWSeBMI5cLZzFTnJHZxSHgH9A6dZZsicaoSLNWrrhyR5gH-dZJngiLrFsTmB1zkHM5kio9w5J4-sn9xRD26bR2dTJYY2xH-C00u__rq60wTeXLzCOgEk6lHJ9RSlWgtcOgctoe-csbzKETsTg3NrfdOMYEJ6q5ay835PdjOw2oLVjdA",
+      "width": 4800
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106119741715819873611\">Han Thu</a>"
+      ],
+      "photo_reference": "ATKogpdEhJpwxJOR4HU2xhTwfi4GFfJEOr-U-fJ8C5UQBbp1GehDABk_Pj-6qOqnHoqKgPpBARt0nzla4BrTaeRJ1w7vBeDwTXVCTAjHUZJzyqEVbBRZYHiOzmrxy2hmhEkzBcY_XXODhjxgLU7A3d8deLA-rv810E9_HEMFNlbfA7lI36HycLZPVoJmk0gdTR83oYVEkNdBB1P85MT3xWoxSOYq2Csc0uA7tBlt1ZpmWa5-JSfrGGR8ckHtiN_NgsXqcElYH994tAfLBqFOHT0JvI93MbmRQRU8bOCVcB_hV7ZQNEFu_yejR0Ul6PQSla1bU7CeLe4tfj2Q-dMbmXl9L3qRtZcO8uP257f3UPQFtloAzANrNVoOSNTJKofs9w2-PGXWvnz7IcvgjaAHxL71ato8zqrWBGq02S3P4h6RYdjJfsO0igP7qwCzrGlHIiGv",
+      "width": 4800
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101293662842834755907\">Chubby Skewers\uff5cAuthentic Chinese BBQ</a>"
+      ],
+      "photo_reference": "ATKogpfZiIsn4s0fym51PZAQXOccs-YsDeEJqfjTkCqERwieYQ671nsDJQBarvXZ-Bs22_lqeknvgChTnUa3d3nb2O2zlYbzJcVX7a9xivbEp-umLuEbZQkyYn9gmR8xEDbFWAAleeofrtTs_6i_MqLbmYaIBikGFYXlf0ksAtA4oIuOelR4cREyjdacKFvsMueezASAZzHEGKlOg5XcSRGBYyMqhOweRGD9n8Wz8SzTuyaLsUJQ6HoUjDs6n2mhd6PLbIWB1esJs67q-HLua_UOv_mvBn6GUQHLBYgcs7Abr9cDMg",
+      "width": 3199
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116773221892843589477\">Jess Notsure</a>"
+      ],
+      "photo_reference": "ATKogpe_UDZcna3OXoOTCNZJoF5vnUGD88V_XkkiMsaETa_vIOiQ_YEdPxM_7QGq5jQ1XnKd623Ee-0QyBSPRVem7xWNRba4clLxfjQbU9e2eWswOuIDlJiXhhLFGjBo1-XP5Fu1f48VASS3dxZmX9FS2U2GOLtKO_TCLvomle8smCJoFDTfp5GEQablZBNxJLLloiJBCJ_JRoj4XO32pbgBe3O_7Eby1jy2hFfqVAzRsINrBDAepMPHnO9J04eTu8nabcmA89jGbB8S3WztfhdqJgSNYbdzapuwM1cbU_Psf9qPOZqpILqCt-3gBIhtc7aA8XywWuRUNQjgdl--QCVV1sjqOeNNZe32HmcX2zwJxYHiHbHCb8H02jSD2T-IgfrCc0Pwm0f70Lp77zDfARM5Hu5OvMW4Y20fFvQv90GwQ_qg8hoGmzjLv2ad9xNpxht8",
+      "width": 3600
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106119741715819873611\">Han Thu</a>"
+      ],
+      "photo_reference": "ATKogpcV2GGaQEJ3d7xDZY-ahldTUDEWVhVAdDIjJWFcN4DinodDz1E4onTWfqh6rJSEUhFmpcyftD-EL2mZ9CTQabmm9XEcdjS5Dme8s5Qt-kHcv6W0-hz9UQpo6NQoCp8AGlIO3NHUnuG79Wi2YP7WFaWyhiYmcfggup6JgPvTjcPrUhuCQ9_3dkdMTCalK4frN8Y_g8PUFd1WEz_uL-IWpGYm6sai0trRgOMDiNZ5iTRlKjLeHRIypWJtDS7iAodn0lRC0I2b-0oYwMSkA8FN8Zm5V2c1dihbDUB0b55w7rAu-0llulvv1Lh_58zGGrToX4QbiTEfbftimWS8C4dDZ6x6JmrJ0JoZ6WNvo4p_sZ1o6xPzS848E7ZXf2AIHBVsqKqe4eN6bQ0ANF5sJnrVX19Y0W-iSdSklx-YKMrC2uj0gQM14DEpb9wO70RI6IT8",
+      "width": 4800
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112889436218051951014\">Chu Lin</a>"
+      ],
+      "photo_reference": "ATKogpfmGYOvTLzZhOiDNGOFGQaByGZcb9PhGiU6ySSGeV7G9r7_yjG_GaLzzTizYJPBha4LASjRCDn-G-858evFz3G79Vi5g_Shu4SQ38U0hAB4cl1b8hLxzQzFJj43cu7ayeeDAtKlFYDTGuzHeHgeAJKtXeW6hP2ooBC660nd0dYIcpgJIHSnbVUSyFIkRyKcGiBalRGyRTZHuINOngGWuxBhjoR56rRFIehvEs18UQt9ZB3FLgPf4oWm64-MdvDeZReIduvydiVQcEgT754L8JgnqIm88tWsnAWUriV39_VrAftAMK9hDDbR1Bwf41bVk_mMjK-CJF0i6Btv1RuUYDIKizPbRw1QkJQAQGPuNCAKqzFM4Pssv2VwipS7zH0rTjdSN36L8KLGZ8ndaTjiB9v_TtkfCqbAkUIh4SfAxIcAbg",
+      "width": 4080
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112889436218051951014\">Chu Lin</a>"
+      ],
+      "photo_reference": "ATKogpdJvoE74Cap148XxMYuYvneTv5HMJmZAzcZw8MoV2sstJkffbG83FhGgsDR8c40gxFkHZLtk58Cgll6buPc8RAkCc5qBh10_BmhMRPqVNfSNV2kHbHSagmfvI_cih4lny0U_SRc_l4_m-B2AR-JinhSivX10T7ViACWBFuSU5tdBvHldl5Ok_NGE8IxBMQTyDhVIIiu8Fby_4Hy2-EnHF9dBXadhM-BMs5sJUa5QlsIer7NjHnXeYPY0CV0qnYLkS3B7wfD_K9gxHZAds7Xck7R87U-7WnI0edB-yvkLYmAqnZUL9qJ2bucKdUaEejNbDvgWmxw-ZaACxSHimUE4q6vB9M71H6RtRDC7RdhavucFzX2memu_ctUl71IQV5nF2yy2Hceh7jrNk8j35OikF0IVOX__L2cEy2WIJivJA1kJMKi",
+      "width": 4080
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106119741715819873611\">Han Thu</a>"
+      ],
+      "photo_reference": "ATKogpez4jg2tigs1Ap7-B2FVMXvuP841KRsMrGkZS8fDGchRfqtTQ5e3mniVJ5bF2xx2YqEXGlCpM6wKk5035rkvikpJlwt2GgrCqLIXBjo5HM0PUx7y6-lUkW5RGIbI9yK0HHBUkKDQhknqTu3jCuOXl_8hOxwiLdsWagMTZOA50uStfcTnWQAtObN9mmQfR4T1pCBv93bMckRVNAU3gu0_CjaKu2hdFP13A2JGYPLH2ZumsxW73GDvb-AfgOu9AuWSqi_LNmEBF56t8yQlbMM74FTozAv1YhdVjqKlqMxeVEztP3fJQr7oajcN2vbECfP2odXRDmNIwHRD5vRwxcrBKy4arf3eK7S_I-gSuIjSvSTgpTOVsbM-TTIlh6Tpj3SHi8aMBqZ0pHGsDKs00i14TWvQgptgf3TyPr7hXBeOcA",
+      "width": 3024
+    },
+    {
+      "height": 1706,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101293662842834755907\">Chubby Skewers\uff5cAuthentic Chinese BBQ</a>"
+      ],
+      "photo_reference": "ATKogpeiHU6n5QvcGm3hh28WidBeUFA0GMpcXAipgvYcsSY6WJdWcn7uZR3OyjFJIdWbj45eBIyX4T6rFlsjxi4GiZWqWIBCAk-lr5Piije1-uJ20_q8gMYzRYs61zzUSoXdGUq8xFjB7afSBA08pnwqjb_soBLlNE5lJ4ZJ1kXSn_x5BHCr86IGq4CMefh2Wrx1pTx9ardLFyVTF_nmW1C-QsMj2oVC4TSSrjdlk7Yqqao6MA0N2JXygZ8tDsDUFVnr5yLmFqdDWeM9CBqhvRTcGJtIqo3wcwS495k6v4JNnZVoeg",
+      "width": 1280
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115009092252338980872\">Andrew Lam</a>"
+      ],
+      "photo_reference": "ATKogpceElLW_lzpA-NZzl6z5dV781yRBbpIQtXIHcXSMxBcWudfi2EcinoN-4aM9try_8KJFzPuYhtmiiea6Bd6ZpUIWBRZVy6Gy1x3UvUdKykuiRjgjyuNHyngadahdBj2h1x-pd_W92PEskKldIRdI1rBOheWIBGFmSo8sar52W7DXNaRP92-brVnQKpodLg-63m_ZlZJnJ9H2L1WfoWk008x3hHvpFjyMs0yTSgFO-7eGk9zK5aCbfkjZC_SaKP9CQfXrG2det-RjPRVN4peEcbRKrWZfwRrJgrKjphaVXVOzmn0v_NK4oXgpBbPbSxMMGI6WrhE5gfsgkuW6x1uLU-GYjOPt01MgrYe7QiCq6eR2ilayEZyqrk9gtrsQfM2EAUwGQx9SV8QROiotQed971_SH4cuV5kQR42NCqc7Ent2Q",
+      "width": 4080
+    }
+  ],
+  "place_id": "ChIJj3Cr2TJZwokRtK4-af0SWEo",
+  "plus_code": {
+    "compound_code": "Q235+CC New York, NY, USA",
+    "global_code": "87G8Q235+CC"
+  },
+  "rating": 4.8,
+  "reference": "ChIJj3Cr2TJZwokRtK4-af0SWEo",
+  "reviews": [
+    {
+      "author_name": "Mia Huynh",
+      "author_url": "https://www.google.com/maps/contrib/114746114434966868203/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWE4czd-grUsa03QSphvyCOclM_Ar_KI27-4Jd9NwQtCduvru9p=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "a week ago",
+      "text": "I am a huge fan of Chinese skewers and so, when I heard that a new spot opened in Manhattan, I had to try it. This Chinese skewers spot is bright, casual, and super fun to go with friends. The seats are surprisingly low to the ground, so note if you have mobility issues. Otherwise, it's a comfortable spot and good for a late night vibe.\n\nThe premise here is that any skewer is $1.25. While it sounds like a good deal, it honestly adds up pretty fast and the portions are as big as the ones that I've seen at other skewer spots (such as those in Flushing). The quality isn't bad but nothing crazy. I did really like their appetizers and additional plates that you could call though, such as their cold noodles, fried pork, or fried buns with condensed milk. Overall, it was good but I think if I really wanted skewers, I would go to Flushing for more affordable prices and better portions.",
+      "time": 1750349118,
+      "translated": false
+    },
+    {
+      "author_name": "Wence Shen",
+      "author_url": "https://www.google.com/maps/contrib/100435681771821221227/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWXwDKyxu9IzeOjAk1ORPczQXPwX-WoYx_-frIPxbRc-3Ky6pUV=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Really good restaurant concept. You get the skewers and you cook it yourself. Our server Winne was really attentive and helpful. The price of this place is really good, only $1.10 a skewer, unbeatable price in the city. The variety is also really good, they have meat, veggies and seafood. Overall really good restaurant concept.",
+      "time": 1747789513,
+      "translated": false
+    },
+    {
+      "author_name": "Hollie Sin",
+      "author_url": "https://www.google.com/maps/contrib/104872073071708813250/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIkOokpv6o-NS37jYZK8nSacBWzh9xB7mKF_5MGWjXQMc-m7zQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "They haven\u2019t fully opened yet but I was able to visit before their soft opening! Food is delicious and the experience is unique compared to other spots in Manhattan. It\u2019s self service Chinese BBQ skewers- each skewer is only $1.10 and the beef options are all wagyu! Can\u2019t imagine a better deal than that\u2026 can\u2019t wait for when they fully open and bring my friends here!",
+      "time": 1745192965,
+      "translated": false
+    },
+    {
+      "author_name": "nazanin vaziri",
+      "author_url": "https://www.google.com/maps/contrib/100231694535461564867/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZQTEEQCrSpRcEeerXIaZdIY8Qi023eq6kU7yxmkAJ06bagfxH=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Fun vibe, tasty skewers \u2014 but be prepared!\nI found Chubby Skewers on Instagram and thought it might be like a traditional Iranian liver skewer place \u2014 but it\u2019s actually a Korean-style grill restaurant, and they don\u2019t serve liver or heart. We didn\u2019t have a reservation and were told it would be a 45-minute wait, but it ended up being over an hour.\n\nThat said, the atmosphere was lively \u2014 great music, and the staff were full of energy, even dancing as they served! The setup was new to me: short tables with built-in grills, and you cook your skewers yourself. I wore a short skirt, which made sitting a bit uncomfortable \u2014 most women there were dressed more practically for this kind of seating.\n\nThe skewers were $1 each \u2014 small, but really delicious. A staff member kindly explained how to choose them from the fridge and grill them at our table.\nOverall, it was a fun and unique experience \u2014 I\u2019d definitely recommend it, but make sure to reserve ahead of time and dress accordingly!",
+      "time": 1745979435,
+      "translated": false
+    },
+    {
+      "author_name": "kevin Kim",
+      "author_url": "https://www.google.com/maps/contrib/114531076612905686814/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK0DG5pHNPVIXzHUKr0hwzTEM7QX68Rv5F8IjecaGBvYpYR=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Absolutely loved our experience at Chubby Skewers NYC. The food was incredible and It was such a fun and interactive way to enjoy dinner while hanging out with friends. Alejandro was fantastic. He walked us through each step of the cooking process with energy and patience, which made the night even more memorable. Whether you're a foodie or just looking for a unique night out, this place is a must-visit. Highly recommend checking it out while it's still a hidden gem.",
+      "time": 1746545402,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_dinner": true,
+  "takeout": false,
+  "types": [
+    "establishment",
+    "restaurant",
+    "food",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=5357052636358946484",
+  "user_ratings_total": 508,
+  "utc_offset": -240,
+  "vicinity": "252 W 37th St, New York",
+  "website": "https://chubbyskewers.com/locations/chubby-skewers-manhattan/"
+}

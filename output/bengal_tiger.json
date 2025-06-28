@@ -1,0 +1,562 @@
+{
+  "address_components": [
+    {
+      "long_name": "234",
+      "short_name": "234",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "West 56th Street",
+      "short_name": "W 56th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10019",
+      "short_name": "10019",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">234 W 56th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10019</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Indian restaurant with an upstairs location serving vegetarian, chicken, and lamb dishes."
+  },
+  "formatted_address": "234 W 56th St, New York, NY 10019, USA",
+  "formatted_phone_number": "(212) 265-2703",
+  "geometry": {
+    "location": {
+      "lat": 40.7656463,
+      "lng": -73.9826575
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7670343802915,
+        "lng": -73.98128036970849
+      },
+      "southwest": {
+        "lat": 40.7643364197085,
+        "lng": -73.9839783302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-265-2703",
+  "name": "Bengal Tiger",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1500"
+        },
+        "open": {
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116555391219953629661\">Suparna Banerjee</a>"
+      ],
+      "photo_reference": "ATKogpebViOArBML5qWmwK4xsMp5dgCuQEUweFipJ37CPEGX08qO17OjMcIPmJFrugc4zsR-6VUBpeIflJxuxsXUznpCYJRR-yB1R72UhavzBK6_3S4If4fkAz235lJup0aY_KCeollYsUzy1PIqlUZkYYBG4_qP9s-ZutNEyUl8MwqIqI2xIZmS6eU1bXH2yjX1hsnX56dEpMzNLh03wu2I3xEuhv_DY-jO7B9KH1rlUMs6DCDfTU7xIBrZW_Ss3N7d7UFirq6hsJOIsEMzmAUerDJBxJv_CS341jEolQtTloLaL8q1nrhiTO9nqXtndqAwB3L6hir04aIWXyrtp_gOpjZd4eRxrnXn6pJqWqZXzL7AOWDRqaQy_5yAeVn1q7CXFhhhqTRx9hao-9d7vbdpb-xRHRmhurChudX5SY57Bs_nocMcuPXKU5m5Y75Iaw",
+      "width": 3600
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116555391219953629661\">Suparna Banerjee</a>"
+      ],
+      "photo_reference": "ATKogpcdoc8Psdf9uIzdq8lTa0PH_TWNGcfe-ipZgyFvt0CXLtvolX-Pns6nMM6-iaYtWYsUZUOsd7IAIujG2pCg_okNPmlE15hWl4MyYZhiejA8LOsN1M5Bx9ZCstUyr0ZqBu5Yh8xa_27kmjZzu7qGKESWy0LMlvzoV3CYrukMU0UTcwqANs7ZNRqOjS-LG_uWTJiTYcq9z7ORXTvtd2nILnBzNnb1-cgo6OztbBzMYKpO5L2ly4Hz3KIiencmLy5ENTfIcEpKFKOgOYhPw4bhFhtR6wYI9bWATUTplBo5jq5jttkVQyxrHBfASJyBOnozM2S7Q74TPDAYuR39f-5u8Yg5XPBXsXbYyc25zg6JJmIGgeTKugN1KSfp6I3rrdS2o30peJF7Odk8AcS44cN-IwIR1S7LEJfimeICsksv1fe_Zijavtp5cMqy7k62g9YX",
+      "width": 3600
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118128795814676610789\">\u05d0\u05d9\u05dc \u05d7\u05db\u05dd</a>"
+      ],
+      "photo_reference": "ATKogpdF1PAaQ_9YxIcXzNC2ej5HxrLp1G43IBpeHC7N96Kx0F313RYoHIEzy8MolrasvR_Z1hU3l3c8PVuoatktEcMWMPGqXzEmfFILbrevh7TNeRYh56JYAny26hRH_5IgQf5rjDO7wfu5CsOX2ZeiM-nNtpF9l-rHt3NDJyKFtS0rD3x-fQZissHjhDryo-4IunzW6aVdRoSV-UyXHq9obUawdhx1O-VZ8ZZLm_G2veCZU6uYgbH4kexD_-Z8lLaWKK-NCr0HdQcQEyZ02agSLkmNQmGki0Su6xPnPxGwyyUXsc0Vlq9E1LEV97-H4hYdpz7Itzk--SuXiKfpnnCJRJfnKDvU6G_THa2YYs6CaDiy_Hoaiz1yGFCqdtgLxkViCI83NN9PwGG-zu28QXOJd1Yh64m916n5BCy6PUAjb-KrLw",
+      "width": 4800
+    },
+    {
+      "height": 4284,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109689944786874018087\">Karen Kim</a>"
+      ],
+      "photo_reference": "ATKogpe9OQzQoVm-q5hPJrPCNTPvKwAvJCe93FE_pQfanJQsE8ZPT3rffO5vURe2vhGuil9-5vHN4t17CYPRKTj1caML7Evc7s27PNOH1TiwS8IzANkhGXNgh3BC-QpXiyJzrWpw7yYC6x_Vpcg9XgMs3l7mLJEf_D6KPQn_U9udOniYmJv8MqknItcGj9nuOcI1AyschJsKenrapApjZhjRCKrt5DoyKFulgataRk3OYM1dqEc5Fl7WJjobC6H8e6gaD68LC2e8B-pmQMT3vpTU7OJZumjUkUKkOTZyMpA1pj8UK03cPJ3SFg-WvHVEDsAsPoLxdFsBu9njtBsmaKRS4YvjaNX9BEVeSMeQ-wptEBYVsHGD_dwwE0WuiIY-scO502FjV3z6ClFvAKwAwuVhUKqeZHBrhqa2G_e-Q806SYQKlA",
+      "width": 4284
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116555391219953629661\">Suparna Banerjee</a>"
+      ],
+      "photo_reference": "ATKogpesuxEhcKoVARn_YiDtoAcV_nn73akBjWFYIZ14DabUpsDA4O979F2HTu-4FkQmFTKicZbMZcs0NLRMB2pJwu0lt4cNBDiDHNh-ksoUKUyUzAiWrgG1fwMNoZSRMjktwRFwmechs0tLMYzTpIeVfuSufVHsYRl-_wmuxscXWz09lA1h2wcV380TrkUjkk7ZrdZ1pZh0hLjjvgMOKU6xp0W1fJGbsSPQyuOiG4Sv4DUsIkm0U2m6y32cuEQZwzq5T-N1-MP136Qtwx1v-ohVZAViM5DQv6slO7tBx4gIwohjAXEG1QhLu3zz_cuaFzR6Dif1_JjvIPbAqsyifPlo5jcC-0O7AvIQI3WYcnDiPWd_DJdXFtFIwwo7ukH44t1y222M0xQ5JkkuJH2MhdxuTfRz9sW2ewUDwouB2yU--2rU5KfO2MM1dWLqLYLGAg",
+      "width": 3600
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109689944786874018087\">Karen Kim</a>"
+      ],
+      "photo_reference": "ATKogpfm6EtfsbDxiPfZzhL4a2dS5cDBn8N1O1oKvaDumSqyDNEcIXUjpUrmi19IQ9Jr-sHeFqKYFkTRemLdPDY_J6T446sLAeGycLWuNe0pQeKUa07gj5jchjtGoXhJGfqO_Sn9lCZg3B5GuuXHgMMFOunscH7IU8c23fMcLommC68t1BerqiwwX8yaWiJhgE9kyrOWfydSkWtXSzD4Lc6OeWj1iAFCRBOx8FiSFqNdLXq-EtJDs9KgnoGuRW-HbF_5sGmafx-Maqr181RzJT4Tf-6yRe3-nQQhzlk3l-soN4FrQkIOd-7dRqxcMJ_8iKJZOnQBgWdNwl1WZpfUn2vG1FY-XgxAX1tW7dnbikEeX5y3s47XPAV8_oHxnwGMJgU8855EjU0Fkky0MEnvXIgJk_l07INaTH5lXMwMFMnLXORdlQ",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109829689928785533164\">Dawn Christon</a>"
+      ],
+      "photo_reference": "ATKogpd15xUciWuzzTMgcDeZmMUvUuOlkadc8NuzDpoIuTVDc2xhdg_Cx5MC9XgL4esJrU0UMlUp2AYAkbqAYU895sfXVD1_d4KD-0ytLNTYvAJFv59CpVaGh2YgDUJ_PyRF49jzHNwVTL3r7W-z5SUDFuzu6eHjQmdMWX0bMX2e_y-YvTdXmIDd63AWyzPIOn9QMnLS03gpXkaMUIuH4s1gQGmFFZ3KGQX611Jd1Q1t0EdRsmX1fvKzbnYhK_vaLmhCtDsjTDw7RWvuQU32_gJv-E4hWerK0_m0nd9zcyhmJElN2ZZ5O9uImxpqBN3jGFDEkrZIMwZ86evKiG3-8ns8UT_uOfbSZHE9TKQZcX4Uxke4hAkmKKywlWG11sMp9L9ORkt-LRtVjngL8Fk1B_e9AQPfqVLraUfV2yOBUn2ZzS1qc2Zp",
+      "width": 4032
+    },
+    {
+      "height": 4284,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109689944786874018087\">Karen Kim</a>"
+      ],
+      "photo_reference": "ATKogpeU8P8zwWcT-oZ74tiuMAMMJA0xUjr8KWN5JZ_MSyrXyRL7U3GiVgVhEYJijm07JkeHqzvtk5zW6VVDxcvvJQKHb3ezEw2DoOJh0e4YzdALdP9Ktn0zsu70upet5wZJtEdi4I7T7QBWwTG6D5qf-ohh0EZyqUVIPwNJDwOhZ1jqdIdpURbD7BlvHfu1DhEaIH9Nsl4YmB2MVwIhAzZas8AdFIP8-eCerILI36F2zjPgq9Y21bhRMabPb1JKnawpvH9WyYk1maGupkzKERAhFPbmEkVxA7M2wbq0oYlyX03KxVP3jSL-JBzeFBrtvk1E6ZIC4e0tb-0KC7k4Kux8mbSlI7SjpCZCdhr_8G4K4FP0e4wUNDYeCPJEpk1X9EV3d0o-JgZZanB-afF8gxs1lTepq9EgdED_7deFXayL5OBE8SEQ",
+      "width": 4284
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114584353390255208586\">Lisa Kim</a>"
+      ],
+      "photo_reference": "ATKogpeZFiGA9m3nhC-6PVCSDtg7zdZwk5eR1q9KEB9IB0HEZxQmExcjSAurZeWDMT41G093tFP4BRL13-aqX6nKdlHH_A6Pr4Ml-s-Mv9amy3Ho785K1rIoutex4XidUZDLJyXLXzR-j3xFY86NVhvW8u5OtPSFI7P6NziBR_pvXX9TubMdV3Pz2RkGPlFimcW9O6Bi4NLS6zfjTvzSat0Yv7p4JJtjxjW232fFcSov1jMBKFUhs3i8nyiKoqUGUBpmzqEZKS8HH9IUXiu-0e57XzRev4EYyg1s6FHI75ECC_6-CH8uvuSdNRTM1W8Z0uFzotNPJ_HIFdse42QDZw7q-w4VZyDwmg-evtLkG3T-vNAf6hbVf3mIrDugGPhkMWBCb3h-CYnfbG_kfACqAEX4mJmR-k2bPEgbftcIjTti4Vhhow",
+      "width": 3024
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118128795814676610789\">\u05d0\u05d9\u05dc \u05d7\u05db\u05dd</a>"
+      ],
+      "photo_reference": "ATKogpf4oY4Sfq3FBJFH4FDXbY4IvkgXJ3TiRlexSs-NojLpzli41LOx_KIypNUAzvVesMrRHye6Xk6w4yVAOhAW9PsxRKRD-ZemCq0FqCOcxnelAaJ8xYkZapHBKM35250sZ6wV01UBiqEfEQa9ind51I0Jolb4Wa4alxPqUROWEhTYC-C9wvXPu9vVLBs2fllvPZHsWP73DSZFJ5Vv3ivAiNWFJCNuhIOlyNfOxvxXqvPCVpEWHgDK_NL3S1ahmup0WO8ue-a0CueISGY6JmGvuSFkXoVL2MpRlSmWsiYrxzyZ3Ew0ZlijMr1Stdm1mlecRddZmxSa7icHL5qvh4eG3rX1BpSsV4JMknrJ0d_nXjCz8nDsoTfybG-AZ6J7-_H0XPFz-IhF-ylEpI7PmdQGJi0NMGemtH-LcDZhRKFuTXJsm9Cx",
+      "width": 4800
+    }
+  ],
+  "place_id": "ChIJXzb29flYwokR_lqUiFOLRBI",
+  "plus_code": {
+    "compound_code": "Q288+7W New York, NY, USA",
+    "global_code": "87G8Q288+7W"
+  },
+  "price_level": 2,
+  "rating": 4.5,
+  "reference": "ChIJXzb29flYwokR_lqUiFOLRBI",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Brigitta Danyi",
+      "author_url": "https://www.google.com/maps/contrib/104342791402892226165/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIrBU06ltQCUGjmPPnUG9luh-eyrEAYUT5nRIxQzqAUs9wd9bM=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "You cannot go wrong with Bengal food!\nLovely cozy place. All the people who works here so welcoming here. They have vegetarian menus of course we ordered the kafta and the veggie masala. The naan cilantro and garlic fantastic. Not heavy. The rice they made the perfect way!",
+      "time": 1742688474,
+      "translated": false
+    },
+    {
+      "author_name": "Raviteja Anantha",
+      "author_url": "https://www.google.com/maps/contrib/107350913268003319293/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXCXWlaVbRW1fDORx1EBogbVsZ5bJjP2h9rBPrgkCPj7CwBygD1=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Cozy spot with delicious Indian cuisine! I tried the Keema Samosas and Lamb Biryani during my visit. The samosas were excellent, and while the biryani had more of a pilaf-style preparation than traditional biryani, the flavors were outstanding. The lamb was perfectly tender and juicy, clearly prepared with care. The staff provided friendly, attentive service throughout the meal. This restaurant delivers authentic flavors in a warm, welcoming atmosphere. Highly recommended for anyone craving quality Indian food!",
+      "time": 1750133444,
+      "translated": false
+    },
+    {
+      "author_name": "Suparna Banerjee",
+      "author_url": "https://www.google.com/maps/contrib/116555391219953629661/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJ29fSJ4Azd7mD1oP7iCoC2sywx_E74uMckXLXT2KxPeyA3PQnHg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "Went here for dinner which was just 7 min away from the Central Park. Location is a plus for sure.\n\nWe were seated immediately and service was good. The food did come out fresh and quick and everything tasted good. Portion was also good enough and the curries did come with rice.\n\nChicken Malai kabab-5/5\nLamb Keema Samosa-5/5\nVegetable Tikka masala- 5/5\nChicken Makhani-5/5\nRoti-5/5\n\nWould definitely recommend!",
+      "time": 1749056771,
+      "translated": false
+    },
+    {
+      "author_name": "mm Ma",
+      "author_url": "https://www.google.com/maps/contrib/111414942407783335912/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUiXHl1Z0DBh-Z5horxQIpJ2s1aMjRWz8HODMUBYVQiA1JORmKA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "I had the lunch special and it was amazing! The samosa was crispy and flavorful, and the chicken tikka masala was rich and creamy. Everything was fresh and perfectly spiced. Great portion for the price. I\u2019ll definitely come back again!\n\ud83e\udd70",
+      "time": 1746207173,
+      "translated": false
+    },
+    {
+      "author_name": "Jasmine",
+      "author_url": "https://www.google.com/maps/contrib/103302152543665446968/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcpvca2YkwuxndGvokmGbEKkokluqTYv23k9nC2roVWX3uBLUX=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Had lunch here.\nVery good food! We were informed that the vindaloo would be very spicy and we were happy that it indeed had some kick to it! So hard to find real spicy Asian food in US!\nAuthentic food and both dishes were delicious.",
+      "time": 1746248120,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "establishment",
+    "restaurant",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=1316330181988997886",
+  "user_ratings_total": 2348,
+  "utc_offset": -240,
+  "vicinity": "234 W 56th St, New York",
+  "website": "http://www.bengaltigerindianfood.com/",
+  "wheelchair_accessible_entrance": false
+}

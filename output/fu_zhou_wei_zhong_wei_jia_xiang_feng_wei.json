@@ -1,0 +1,450 @@
+{
+  "address_components": [
+    {
+      "long_name": "88",
+      "short_name": "88",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "East Broadway",
+      "short_name": "E Broadway",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10002",
+      "short_name": "10002",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "6017",
+      "short_name": "6017",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">88 E Broadway</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002-6017</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Tuesday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Wednesday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Thursday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Friday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Saturday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sunday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+    ]
+  },
+  "dine_in": true,
+  "formatted_address": "88 E Broadway, New York, NY 10002, USA",
+  "formatted_phone_number": "(212) 431-3555",
+  "geometry": {
+    "location": {
+      "lat": 40.7138354,
+      "lng": -73.99414030000001
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.71513333029151,
+        "lng": -73.9927844197085
+      },
+      "southwest": {
+        "lat": 40.71243536970851,
+        "lng": -73.9954823802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-431-3555",
+  "name": "Fu Zhou Wei Zhong Wei Jia Xiang Feng Wei",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1900"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1900"
+        },
+        "open": {
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1900"
+        },
+        "open": {
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1900"
+        },
+        "open": {
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1900"
+        },
+        "open": {
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1900"
+        },
+        "open": {
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1900"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Tuesday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Wednesday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Thursday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Friday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Saturday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sunday: 9:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118304305502743163711\">Bradley C</a>"
+      ],
+      "photo_reference": "ATKogpd6v2KOLBeADhiAVcdOqAbR82qjS9CzBdQ7rNwkY-v7YCYgLUpx2TFVOcvrrvPOpqRePvCgjKF5d5QSW_2X1IX4b6xaxdGGvqfHSTxPR4JKtkrU2bPSLztiq2354BYiq2Swlwpy7aEbpsU6XsY8hTbDJ6rXDWLjXqFUK8EXZN5WNYoDFeCxOKwOSVv9v-9QbMLRWwtKn5P_OvKBw6l8qrJC4dfc31TERYlgSUvHa0F9UaVaOdoPiQfIKCyi584qzyeOtWjaV3codOp0mO-L-ezbDpmy5XPC5xf6O1JGvbSBEEDX_xKaTgPsCEiDi6GWA6Sb_tvBG0hcrn7jRts088VZ8_esWXMmBOczx5gLt-kBn4sFw4n4eb0YG985YsDnwsGWOQFJgyQ4vGVAqjagJbd8IrxqBtmZkRAl8NWTV42qew",
+      "width": 4800
+    },
+    {
+      "height": 922,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110231058904490201794\">Brian Yim</a>"
+      ],
+      "photo_reference": "ATKogpcfQV_-xNsUtattja2HhQDY1kec5tIktO_yzaWeizqcsz-jU6fWXNYyYQ3LvPi-3Dc_lTLecigfExekRTvO7Mff_kMXaXbbT0nFinzVcL02uf4-vB4wgQLnDoLYpxBqiwEfSW8_Y20NuEIl-qWBZYL81SEWkxhCJ-pvOOhX77ykD8T9kDLQMJCcsDWdK2KGGr5X5fmMIKoXQ34rn7WPYFGBypQhCOxElfClzAipXMalkYtw_LDIrPaqX63VnwFtMNTnh5qO2kCw6YMRktXE24auxkOeqvxDzmuLOM1SvhGa6x4Ph2gBQz09GirJI596HiqaLNm1NG4pRsqF2wPIGHoqlFJiLObQUxm0G-TD3ibZl30n4OGBR9xJVXuDlH2EyNh1TQs5PNE-gQFwLQ7ovoUx18FlbL0ABd8E_pWfv48J9Q",
+      "width": 1152
+    },
+    {
+      "height": 2788,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112764754122216905869\">Mo Ali</a>"
+      ],
+      "photo_reference": "ATKogpeOX6zyb_UfLM56Z_E9s8K8P4xTwaIlRb8qQZoK-hngKsyaftAm_Wo99CSr4u7vltA2ydVa-BPF1Kq8UmbIJoajiYqXDqF-3wQJ2D__0-0SpFg_2C6dCGyz1TTfjCIGHvXlYxEPSShdNyqWC8G239jJ_13ddNW5uCnMSsBBn4_--aMfXFDh6KbiXcsrTJBHduxihPn_NQBQchcBWRm66qf7QlgxE4n0jojwghtL7CmtOT5Y2zBH7Bly8WOyxMocqfTjBKwnw6iX-vNy5-y2QkKTYX75o2gNJL8HT6_uZwA3Jb-BLl6po-p0P3GfXRwMb2bAtofXNt0jt9_Sw0gAzPN8nqZZqQEmI4qEEHRSa9hmBgL7kUiAvKsm9dZsr6691RVtd_9qutPmktHNIt5CqVESRGfvu2NfMQ9Dd-rFW7U",
+      "width": 2815
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102610266421327721385\">Ozlem L.</a>"
+      ],
+      "photo_reference": "ATKogpeLRdJt8moIUM0ba-v2nJzZL7Ex963-HDtipi0u4BX-lDwSN16vuPsYbowTFMmkwARh4uCknXynDbbqKayLXLTq2ibySGY3IZDyXyybvhiVzwJxrJJEV9g4v2E1V6bDIaP53876RT4FNuCIf3PZam5Mf1z_kQTpC1VlbOhrQpayu_8Hzkrs-D8vmYayqjQfKVk6vDqjEQKP1bDLL2yr5Qc57Tz4cQVdFQpqQLxR8_8-L4PR9Mq-Tu7voDlq8OZ43ORjTU5L9_awJ8AHlsKg8chE0C4TIgjtYBqiHfN2T89cnERv0O27ZsF_i71EoD68RqwWhQIKpnUAum20S0fA2ultEkK3egxhVkVISoLQhD03ZJBVqzUl3Z7ib2neRv6PdDFDnBbjYUAWCyUkRh8-Gi7j53ZrJ8mPst9xhtNZuLZ9AA",
+      "width": 4032
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118304305502743163711\">Bradley C</a>"
+      ],
+      "photo_reference": "ATKogpd_LRUZbByzBWmgWf5FP3kFdxP0l0upAXOT8PYGsn64zRAtfiZLeumRtr5_8wHjetH8-jViTunG9bQzDPhx_wPBqtK6jxdWWz4lZzvALMAs8j5Tz-oyE3IXoK7iB3WxN6A58flaaScjKdA1c2B4i_EYmKWmLHNXFI_LxR0EJHdxUGOysEwunnv3EY5eVQg_dIEbbYyGrZyKdY8WJbTES7Owrqqs7ec62Wa4NJAa8d_05yF-7_kHegVuL3GG-Eg-1GtrPYrhY-j6u5CfndxsrdkO1DFp5MPQc5d0raxQlIlZQvlqHZoKBqUvtr3sD0NJF9ELTqULG_k-ngmfAbXJbBZlNrkk0vJlwBzdgRwCJEgy0BQfg8R3ZSS6OnxSfNxbsmVqENxpZT0aB9IlgKjSlmQINtN9gA_Mmr0dIzsQfgc",
+      "width": 3600
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112764754122216905869\">Mo Ali</a>"
+      ],
+      "photo_reference": "ATKogpdL5Zv3i6VPL_KYXq7h5cnNpm8ra6SjSXWVC1RfVsprWqmV9J6AUsmk4_7QtMt4nZzfk_lp7SSCeszCXAcuzDLTWihQWl4AAum-njHW01Ft0z__YNtTKf0Zm7tVufb12zDYVn1bJYSaYS4AX2VuTn4rWKTAUGMhJarM7dJwmLG4mPO_0OMe6wtXEr93IqTUtWcEAXzq4lzSG6WG3OBKdg71GCauOcN6uDdwZzrlZuxBMsjKmIhe7mDtsQxoyTw9IocPn7ecpqs_8CSi7Cfd-LjjPMMSK9j5B_H68pDRN3WlgnAcr2XGBQ3g4Gk4rKRPxn3t8wy7PKqK31P0WxSgJ2TKy2pvYqE97BLxXN4k1OYMvvD-9b2komtwG_tW3rYtX6dCrGUwQe6pqTLCYsZV4vVm6R-BH6zS6OHPy_7I9uKaVVaK",
+      "width": 3600
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113254269368100587039\">Isabella Grandic</a>"
+      ],
+      "photo_reference": "ATKogpf9MtvpMSOzCn6O_OZkIDPJVL2IrZdR1lEHazJSKYFxaHw1dNcXSAt940E6oK-XrpqoyZp50VUTFZ0jzq0v8L-y6Vj6r1OQsb9hiRyVgc9Ai98Q9y9lFVMT3W3WQC9hRVIIu1d4hL7mlSusVG9Et8txa3e8k4kziprHUvn4Do0s1UjRaEwJSPDUPOA582XEl6cLaoHWX_7qsIgDBJjTJZHVJoNo0iJqhkK-tv6GgGJA5pR6e6JD6K8QTNBPBVJOnF8EBvhiefXdfgAn5gxOQHl00nQAUbdiWaEOFRE6eos0nKbAIePDyAcKdTOY7SBFqdOrkIQ7l3UpEdWBMGWe8NM4a2cododcSAEo6zds4UXKjFeudYbLcM6r2YuUbXXPElnqRAq1SMZy6xbwnqJOfyeB9uyD26eBKZosWklguSFhKw",
+      "width": 3600
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103010987590483124915\">\u7d00\u5609\u6def</a>"
+      ],
+      "photo_reference": "ATKogpdx32zIU0paZXVxMsBvJgHmxgtYYUhdRBXSrYWbRg2XfXCJxXAqXPD6-gzZnfHnpDjjdtOx9YrPOp2cM_TUZwe5t81Fa_Dkx2r92EUzlEa5HYPKMRBC_2IQIP2Xk-MhOgchbE4JDfNaUmTAUhiJ6gBgWj9myMvY9Va9y5Y8lklu1tLcJ_IwcebMO4MUeOHoiindqm-uheoDgJ7xtc-jHACGQyqkdFtmp-BrI4rgvlFhiTgPax-Qm3FRIoz5yCcxdw57MTV_6q2TGnmL23UbmMvEHONh_lEJ8uBGpo_JS96nvJC5u267I-m84tFg0vNfqej0uGLgUu9G0gEdaJB-DxnssTz2S9WITsbQ337g1EtbnZsx1rX-kmskya9Bm0BEIVo9JJmjp5nMAlsLORzAqY_Hwbfd3qT2PuHlKxkazG4uOsM",
+      "width": 4032
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114061819766709573607\">Adrian Rendon</a>"
+      ],
+      "photo_reference": "ATKogpfm3ME-PVHDfThV9qN40FehKCdsQcxyWyjm3plRqiggv9c06zHK7VA-G2qq9mfoXOjf_39VRVW5YvFnRaxLbScq0BFK6L-mUKhopOZReu3QM-7GBD-ZBdEySCPmYmpRDb4HTRpzw4eI61w3oU_Lxvi2gtlUtcKBy334K4ywt-N4hQYcNTaQMDpT5pUjxJpNA96etucxDqpbJaunVac_GSRyZ4SBbHOcyLqxRPyxLDFe4EvHx_1nG2C92fq5pDNtoBidffn2QTScvU4Uxa_OVcsi1YOdPfeym1YNdZV7-jhwCNaZX3xMizKjHkoWTE8T6UwSo2AB0Qc-ejG407yYYK4Wzwah9g2W-zhP0Ip7ioteqUCSqj4JjXjSO2ZLxZXSdyIzKneLDpcpE3UxCRiKUGGipQ2SlnEE6yyZaQkS1y6AUg",
+      "width": 3000
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113254269368100587039\">Isabella Grandic</a>"
+      ],
+      "photo_reference": "ATKogpc_NvwrnG7iUAwA262gh963-wpp_5A3z4HOQWnjcpFqK6WP_Q08pakZzXdzD0n-vJxcY8EMOXDuV_BqQkbkrjLjWb3GRSzhGSZXqIgLvUtEZ0Rfa_ydC-KEdbbvXZAAGsdO5j--uGZ_aDSVE9OhuSgc0_j3nkkZtw_MsQM3VL7VG1owOA6-9yd7LGarF_o-cVZxfV9ZN8l070mTBhJ1EBdgH8-T2ztD0B2ty0Er0XjTeW6IxvpLFHNuBGiDAFLgz-gW7gdfn0w51qaoZpp1S8GeW0tNzWQxjC6Z0tPfs9uPUAPDgVj39ogboNXEJvd4h9cOeD7DT9yM7fj77UWEUYqAiE1aMlF9_MdjVHW8tq71ITu4ValIPPeDmtB2lMOQ0aC3KLedikmFaEE1GJlKZB6x8_7ad6i4mDo-SngCjpUNByI",
+      "width": 3600
+    }
+  ],
+  "place_id": "ChIJq3ALmyhawokR_HZZ8u-kUK0",
+  "plus_code": {
+    "compound_code": "P274+G8 New York, NY, USA",
+    "global_code": "87G8P274+G8"
+  },
+  "rating": 4.6,
+  "reference": "ChIJq3ALmyhawokR_HZZ8u-kUK0",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Stephanie K",
+      "author_url": "https://www.google.com/maps/contrib/102801010501975970034/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocId2eXWCIx7tESiAhquEWYyaB-jCMzaM37DlZLdrClUwxboiaE=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "a month ago",
+      "text": "The place is downstairs in the mall.\n\nSteamed buns: Extremely oily. Filling tastes fine. Not really flavorful, just salted. If you take a bite into one and set it down or invert it, at least a spoonful of oil will come out of it. Unpalatable unfortunately.\n\nFried dumplings: note that these seem to be deep fried. They\u2019re fried all around, not just pan fried on the bottom. If you\u2019re expecting pan fried dumplings, these are not the same. They\u2019re super heavy and oily as well.\n\nSteamed dumplings: These are pretty good. If you like thin skinned dumplings, consider trying these.\n\nOverall, I think the food is subpar and most of what we ordered was pretty unpalatable. Made us feel heavy and gross after. It seems to be one of those spots hyped up on social media because the food is cheap (and it looks good in pictures when you\u2019re hungry and browsing), but in reality, the quality isn\u2019t there.",
+      "time": 1746390021,
+      "translated": false
+    },
+    {
+      "author_name": "Isabella Grandic",
+      "author_url": "https://www.google.com/maps/contrib/113254269368100587039/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfM4WFzncCUNgqi2gQAdP-30tGf4x3B_1ZD86hmGVN9vTxVEPCmw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "No frills steamed bun & dumpling place, apparently a huge wholesale provider for stores in the area! ",
+      "time": 1742127316,
+      "translated": false
+    },
+    {
+      "author_name": "Yvonne meets Food",
+      "author_url": "https://www.google.com/maps/contrib/108646721908705568420/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX86hnkZ0X2oGqlMo7GG_It-o-J7DnUv5rTZtPNh-feQ8M-lQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "This spot is in the basement of a really grungy and borderline abandoned mall on the far side of Chinatown. But it\u2019s likely one of the best places to get juicy buns and juicy and well seasoned dumplings in all of Manhattan Chinatown. The service is really friendly, the prices are still so low, even with inflation, and the food is so good. There\u2019s always a small army of female workers rolling dough, shaping buns and dumplings, and doing food prep in the back. I\u2019ve gotten multiple types of dumplings and the steamed buns and all have been amazing. I hope they always stay in business! There\u2019s some tables and chairs for eating across from the stall, but definitely better as takeout.\n\nCash only!",
+      "time": 1740166937,
+      "translated": false
+    },
+    {
+      "author_name": "Max H.",
+      "author_url": "https://www.google.com/maps/contrib/105537002150668384507/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL48PN6Ywl9VE_2eP3QAvMOx5IaPW2JPE7Pjd6PQi5p3aOh5ZM=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Incredibly delicious steamed buns at a very affordable price \u2013 five dollars for five large buns. The ambience is is unique as a restaurant is located in the basement of a somewhat abandoned mall however, I assume this allows for them to have very cheap prices, and I\u2019d recommend this to anyone looking for authentic Chinese BAO buns",
+      "time": 1745277691,
+      "translated": false
+    },
+    {
+      "author_name": "David H",
+      "author_url": "https://www.google.com/maps/contrib/104341816400554495229/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWW6_hPp4Y4JBu-M5_JOGVWkplmgFESgKSB76_WFVIBLnS-z1n-qg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "a month ago",
+      "text": "We looked for this place after wifie saw a Tik Tok on it.  I swear I would otherwise never get anywhere close to this joint.  First, we normally stayed on the west side of Bowery; this is on the east side. Second, this is under the bridge in the basement of an ABANDONED mall.  It is really scary on our way finding it. I mean it's dumpy with most of the stores closed and barely anyone around.  Definitely don't go by yourself. If you have to, go with a group of people.\n\nEven when we finally spotted the place, I was still on the fence. Hygiene came to mind - it had to suffer to a certain extent. But since we took all the troubles getting there, we decided to at least approach it and look at the menu.  That's when we saw 2 tables occupied by some decent looking people, and our mind settled a bit - maybe it is legit and we were not the only fools.\n\nWe quickly order the first item on the menu, Small Steamed Buns (6 pcs for $5.50).  We got handed over a pre-packed box as soon as we handed over our cash!   Since the 2 tables were occupied, we had to make room for ourselves, sitting next to a pile of boxes. This was awful.\n\nThe food itself was OK.  The fillings of the buns sported an unfamiliar color that I'd associate with steamed buns. The taste was OK.\n\nThe verdict: Got our adventure for this cheap eat but never again.",
+      "time": 1747884437,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_breakfast": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "establishment",
+    "restaurant",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=12488663117168473852",
+  "user_ratings_total": 357,
+  "utc_offset": -240,
+  "vicinity": "88 E Broadway, New York"
+}

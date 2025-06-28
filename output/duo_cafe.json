@@ -1,0 +1,422 @@
+{
+  "address_components": [
+    {
+      "long_name": "223",
+      "short_name": "223",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "East 5th Street",
+      "short_name": "E 5th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10003",
+      "short_name": "10003",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "8512",
+      "short_name": "8512",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">223 E 5th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10003-8512</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 2:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 2:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 2:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 2:00\u2009\u2013\u200910:30\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "dine_in": true,
+  "formatted_address": "223 E 5th St, New York, NY 10003, USA",
+  "formatted_phone_number": "(646) 454-0603",
+  "geometry": {
+    "location": {
+      "lat": 40.7274267,
+      "lng": -73.98992419999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.72868743029149,
+        "lng": -73.98864306970849
+      },
+      "southwest": {
+        "lat": 40.72598946970849,
+        "lng": -73.99134103029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+  "icon_background_color": "#4B96F3",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+  "international_phone_number": "+1 646-454-0603",
+  "name": "Duo Cafe",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 2:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 2:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 2:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 2:00\u2009\u2013\u200910:30\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117808460219123378764\">Ruwan J.</a>"
+      ],
+      "photo_reference": "ATKogpc5LzzaBXxOec0-C0ksLdQ8zj0OaYRkstFolh8ckX9bShl7U-A0f-bFD9-s3iaKmVD2cwTSKraDnEosqDVb0_P5D8ZYFAYJlm8dUS-y3bnO205jzssyPavPfOzczJNb-iAPbw09hF-5mn7Ma9pgNlFDTH74F3sH08-tY6qA_QKx49RJL1ZQIsEHU0UxzH9yRHdihZKyXuA6q241-ggIIi1bfqojnk4zk-jteIVZpfaxsHZrAYe8-PGNtMkwfKj_zwp95KwGi7-8nbHLseriroXycYjVPhtDjtktFFyn3Sl-WC2Yr1Gl0pZWMpYKiIAcfpfofL9Cdd0dsgiV_gGI95m8eWZTzKTn6Q3m8NW5-VZ8CIx7LlYgI3UXh4eOgilayoiXYU-F-OWiQ0qcM_Gj5KEOlhRQBNBHcEH8W9pcK6IoU6iY",
+      "width": 3599
+    },
+    {
+      "height": 3001,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116542005808638821502\">H D</a>"
+      ],
+      "photo_reference": "ATKogpdsmCBAVTApMp9ToC26x00_B-C7JgUz9uinbp95FxNWIOOX1ZRBfind-HXE-_94EkPuD84o-wY9zmTXlA1Ff94MfDVXRfXL-0FfRSDbxkDLarnjiYGfAtJiHw9HkYm0ylavlqozCSc6C5TtT7tVvjPM-aaR0_Bko-m-vu1L7rmHs8l97adTbb5MwqUK3UKuam4Rr2On4CvTfq3Dt1CMpW_b20kH5Fgxf18IHkhffHLHJilYHfsQkyRg4BAyea18ArlFs1uBm6k1CeyqxRKJyOSLISPLf4SXI_nQn9Npa-dzs1zIC_AwYzxJl86MAHhBlYOFSFvf6bQNzTEHviN3xL9QXRSHD3LcPClND0HSANLhFxaauO_XeXnBsZ-2PbOaZzPqohYzNugLgvumvYVfv6OddOeCxejVb9ZTgUpiPZQX2PuY",
+      "width": 4800
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114746665642727803339\">Lina</a>"
+      ],
+      "photo_reference": "ATKogpfzLW4BAJpm6A55Fl-pJ9d1pBcG8twWTXbUDU12DM2FI8pnC6C2hqeKPpUgtsuv7eo3KulTuW-74kEVMglgg1p1vF8R7cJD8s1qdKKsqiNRzyJ2Ae4LatTo5Vy7siuTxc8enyEiE8Jw7COZTiAz30H21UpuZEBQX08LNzXozitsqqBDBKV24RoiJl3H1nREgDauQ1Uvz__dwXnAhncx3SElL1Y_yoVBO_DQl-HsMnn-pi2I6aa55QNV5zfFdnwzfnDvqu79NMkEKanUroEfajEuf-J8DsbolrSr89LSyvrgn9G_x3etT01jIh4ZxjrMwKvC_f4W5UFCFufidLm-idu6tl2f9DLw7VxDiuIbZ9rqomD1vQHXIBUdFVzRQqqT8NrpNmLZJfWQWut50uSywqBlSpk4uSTqGLvOEZeSVii3LMCAbcQoOjFPJxl7bPlE",
+      "width": 3600
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116906658511570634951\">Yuwei Pan</a>"
+      ],
+      "photo_reference": "ATKogpfip49XP7MN2O3a1W7FDRsgJ_8cD3t9tdILWGbbYKjotG68xkNhdomG8Bh20Ewyz83k7iZbjoc5R2s8IXzmKSUVKPDGVerrgJIIRZ9jlmVoKfyXawAXcg8-6ZWGMAhMd2QSwPsxE-ppuwj-Wz3vB8Cty9XVlVe-l4ktjUb5y4KqpbW3zsUEHZ1xde4XiMyCmOLzLsLWBJ77THCgSphQN62cj4N8F_CMT2eJ6hjWNf4nW26W1ADfaKJhkSw2dBhDYbldqJcJ7wwGbko572O-PoPrSh1K-KAh2jvJeqsLdd4gT5csJCHcFTzBg6tPIzWOUhz0OB8URSFB7rKmvUWDLQHuMkwPikK7ZvPDWts2puTsdzn3aOeqF7eThuJamVxhwIoPXk5jJD4uiro0Jv6WlCZOtsCci_hKSVMKt-63SMJHReQw",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103663916218838717371\">Julia Hsia</a>"
+      ],
+      "photo_reference": "ATKogpcg3SVjjncLQgy7WjbYz_I4AnYVhwIT653IO31FbMzpgInznhvELVP4W0YYYxwr6fE95fqxe0vl3t_twve6ZBcIxlvgc9eoxUfYYr46HxPYmL67QPQURDPG_S76_8E_DY2F5AiPGzB4cwJ-kEPNoT6gqUqn8G7o9w79D8Wf9GbMq0FAU8rAXyJxUP_8C2re27PFjmqFpFjR6-qeUSN97Do2sbzGTNt6YpQXRdyX7M0gLVQ-gz9tRoOw3eI1Ec6koWT4AiTLTMg_XUYK2pFX1Zh209jNeq6lGHADVTuOH5rwhiym45d-qPHZBOeAc4YHsfqeXNhrQ3lNq9xH29IM3dtKgAHPmtdgvaajbw8MQzjzxe_I0QfZqa520_upP-TMVCEeA-xSGwVWRJw852JfYlE7LDSoPiEStuXbI6kdGiY",
+      "width": 4032
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103412232271173575012\">M Z</a>"
+      ],
+      "photo_reference": "ATKogpeiRJRCjGR1Cf-Y-lLH1kX-2b4AHA_xy5tsSfT4HA1ESUP1xnhAPSUFTQifxo60lLWV9n5zeBqH87cgoiE91X5h8w4IIOa_dYX_zPv3xkfmzD7S6VP1wBUXXKTgbG9nkmr-dcEs-Za592tmfD12hVRgitmuruj5h1HdeeJ27Rw4u0s9wU3NjgrjYHuNq8YI4bf_Fcixs2O4sazogWceX5Hcm4PzRm4rybNL2p1Tb-fa3pTA6NF2v62BL8yUMyQ4X2JY2NfE1K7Xd2W6pqnJtfX9_Tgofnc3gWk07sTmqs1FKfkWzNZLcU3sDWQJvxoDBw9dLP5sLEAWY1eBVXoHjcoELifQzF5t7x00SO_J69wdJt5kidEuCV8w5ttddVN_vgTd1xbfBgqMgr1HmeaGCYMhF_uoecvXSgChERAVP_yUnj2h",
+      "width": 3600
+    },
+    {
+      "height": 1744,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107010111731505168754\">Sicheng y</a>"
+      ],
+      "photo_reference": "ATKogpfRxDGo2oPUhDCNCzAgvYQZOjTdI5XE1UqexVFhRh7Yl-hGbs1tFo40A4MvSU3TXwfbeGtkCBOcbznjbQ2OQ9Quf5cxEvmrtm93SgK2rpQ6H8TAC2QEWMMZ0U6kPQ582DXjEnQO1-GvF7Flyi3AMoBZE1bpSP9h40nR8bgGeaJuT-dV7eg9hApPx30rt7OrJFbwkspyeADNMOm1HqFSspHIYHQfSJcx5fpNP4wvLjEjZ8dSXZoQ82wns_wRy-o-0uH262oEs8f0EBo1xBFEJ2QDsMt7f-awOAYTM6Wh2dhm-9qAAaTxuWEn9PtLeToR8thQ4Ly7Pya9W1egRHYdt_hHAPd7m4RObI0kXfgfHI2gZuoVU0ZQZEhUiCPSzZeU-Ax62uuwalHLjkO0V97byeGCoStWw_HVlDHutu293_HnFA",
+      "width": 1308
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109218837663732129908\">Mae</a>"
+      ],
+      "photo_reference": "ATKogpewSToJVPm8HIOXiHRGqw896kTZgKGGjfL2tmqQ2eLie4ruZSlBXdDCYRZFBWX8gXF-DsA-t0UbxTQlWRt7VqhmHoyuRm28sGZwXE6qcuzYpxhuUc9HI8iRssyi41Xgv3j1gyA2lXLODuvH2Zzw5Wn8VPxOJmiC_oL-U5Zm3IbPb2mQbLrMCQJaz_5NjiMILqX-2159dosVZYBxvsqXXaw5ZbMw37u79mWqBukL2IYJItRo6yZhfEPKSnWnJt9RWnCSQy6tnoNg_XVKQsFR8dcKKofQfI96LV-tkfAElRfJl1BmoG6BgPZpjXUMw52kcKJ54YWPpGMNGF_u7eCjCoi_KnePjD-GdmHEYwjF85un6iWqC-CLMJFRa2rl6_cwPMJ8_1qb5EHNgSYH0T8NCmWyBxqLsAT9LRL8UH4ZBVxL9XB6",
+      "width": 3024
+    },
+    {
+      "height": 3697,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114875776843450700346\">Sharon Tong</a>"
+      ],
+      "photo_reference": "ATKogpeu5mNs20_ULpx6jS_702ZHUmLR-RfX0VJh7OT8MB2HM1tcL_oRHjjZaphA0Zuct2HSuPOjxuqgC3llSCq-SU-2KUztkJoeSpHUkxi60F-_zsHneg5bmpERizVG7_2XkkOBp-pBxxECbOrC3DTFGPO7QleT4zjZNeR5QCpIP7W6Y1X3h-2zqmI2jg0ab6nIRSmYMSPDEvajybgZmSQNCqeLw0uj8kBi2zHcNowc-V_hZYTj4_2Hz-r0gpxbWdP9nD_HbLmGCFk7MTC1OR-7LCKU3JbRBa4iA60fq9r3RG2VqpKfjMI7vKjXwVPR5TydKIiWcenTyarq3jkerEbrsfKVcJHl8OaKdG6OsWiEYionguF0iwfg_4X63gDnGSWIad42Z4KViAzTbdSjkIPtjxS813zIZr-53VZImU2rvTRLNQ",
+      "width": 3072
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102524958063200299256\">Vicki</a>"
+      ],
+      "photo_reference": "ATKogpeIb8gen6Q6cPv0MebIgCvD5DpXBZIt594AmmlGd4XjMXeSDcnUkQFRk2--6eJjGADt7_edpqj1efU2P6PgSCLJ3d5lhHPGMsXvVIqfzTAMIVH1UZK55iNeYT-EreIvt74P0iuLNRP5oxP_fT1u5DcNYCXeunuIyS0MLbpizdk2MJdbyIx-gk_q6az5xZUYPUUJgCC9Ul-vyQ2CzzLrboGECysA2pk8pzzzan6DBBFUXGmxWCg5tIFMh_qfqc0kWnG1mxONssYhYKoEJJPv0yByjixpKssQIgfQDLa46_1k5D4KsYhvwOASaVU8Aj1j0_-Nm3uBG-yLPwCygVpzJxPYDQqF9Itb5Mrq5zYF9dBLNtyI-gP2w5Y7IVzREhdioXE4MKEHmx-VAAe3J89ua6k8vywyu-n2SjJJNzez6-w",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJ7WHiw8NZwokRcBER8ZksOJk",
+  "plus_code": {
+    "compound_code": "P2G6+X2 New York, NY, USA",
+    "global_code": "87G8P2G6+X2"
+  },
+  "price_level": 2,
+  "rating": 4.5,
+  "reference": "ChIJ7WHiw8NZwokRcBER8ZksOJk",
+  "reviews": [
+    {
+      "author_name": "Yuwei Pan",
+      "author_url": "https://www.google.com/maps/contrib/116906658511570634951/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzHXyYf-XaYRg1p3EiA1Klp7nS2CZ0KvbE6CVJw7o-iSgTXZ-7=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "Quiet, lovely little tea shop tucked away in the east village. I went on a weekday so it wasn\u2019t crowded and the vibe was very chill.\n\nYou get to smell all the fragrant tea and pick one from there. We got a set which came with some dried fruit, fresh fruit, sweet potato and biscuits.\n\nEverything was delicious, and surprisingly, not too overpriced. I will be back!",
+      "time": 1749007511,
+      "translated": false
+    },
+    {
+      "author_name": "Julia Hsia",
+      "author_url": "https://www.google.com/maps/contrib/103663916218838717371/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURwFcrHzw8wmnPsRL0j7aSBj8iM---QlsBzxWuQlTS4c13NtKq=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "Have to be honest, we skipped the tea set since my friends told us it was not really worth the price. So for dessert I only got \u2764\ufe0f\u200d\ud83d\udd25basque cheesecake, and I highly recommend! They did a great job.\nSpace was lovely and staff were nice and helpful. Good place for cute dates or friend hangouts.\n\n\u2728\ud83d\udc9c\ud83c\udf70Taro basque cheesecake was really good! The only thing I would recommend is to put less flower syrup on it, cause it covered all other flavors. Otherwise, the taro cheesecake itself was really delicious, creamy and thick.\n\nSweet potato & ice cream was a little bit normal, nothing too impressive.\n\n\ud83e\udd5b\ud83c\udf75Milky oolong tea was lovely. It smelled sweet and tasted smooth. I would recommend if you order tea pot.",
+      "time": 1734501682,
+      "translated": false
+    },
+    {
+      "author_name": "Bella Lu",
+      "author_url": "https://www.google.com/maps/contrib/113204155917057274491/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWh01CsXyRrhSgopoKIp7L5GbPpLDcAXbCiMcT3Fph-UlWrCHGd=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "Duo Cafe is a hidden gem for anyone who appreciates the art of traditional tea and beautifully crafted desserts. This charming spot offers a remarkable selection of teas, including the aromatic White Peach Oolong, the soothing Jasmine Green, and the robust Tieguanyin, each brewed to perfection.\n\nThe desserts are equally impressive, with the Caramelized Sweet Potato with Vanilla Ice Cream and Black Tea Basque Cake standing out as highlights. These treats are not only delicious but are presented with such care that each dish feels like a work of art.\n\nWhat really sets Duo Cafe apart is its successful blend of traditional and modern influences, creating a welcoming space that feels both familiar and innovative. The ambiance is perfect for a relaxing afternoon or a sweet evening out.",
+      "time": 1733903954,
+      "translated": false
+    },
+    {
+      "author_name": "Lina",
+      "author_url": "https://www.google.com/maps/contrib/114746665642727803339/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKPk8r6IKKsHWciAiu3yuazveMEbKesbT22SI2YlMav8prN_7M=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "on the expensive side but nice environment and service. the amenities were cool like the bathroom had all sorts of goodies you could use. the cake and treats was a good combo with the tea.",
+      "time": 1750122185,
+      "translated": false
+    },
+    {
+      "author_name": "Carmine Battista",
+      "author_url": "https://www.google.com/maps/contrib/105370633778241153025/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdqmQxSkDZiKWzMj-lQoSJwv2cpR8yDliWEqYOUROPDtOv4pM=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "A great find.  The wife and I were out and about in the city tonight and stumbled upon this place.  Great venue for a date, great concept with various fresh and healthy teas and dessert pairing.  Well done",
+      "time": 1747537412,
+      "translated": false
+    }
+  ],
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "store",
+    "establishment",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=11040623526184817008",
+  "user_ratings_total": 137,
+  "utc_offset": -240,
+  "vicinity": "223 E 5th St, New York"
+}

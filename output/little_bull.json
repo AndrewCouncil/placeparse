@@ -1,0 +1,451 @@
+{
+  "address_components": [
+    {
+      "long_name": "810",
+      "short_name": "810",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "North Mangum Street",
+      "short_name": "N Mangum St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Old Five Points",
+      "short_name": "Old Five Points",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Durham",
+      "short_name": "Durham",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Durham County",
+      "short_name": "Durham County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "North Carolina",
+      "short_name": "NC",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "27701",
+      "short_name": "27701",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "2260",
+      "short_name": "2260",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">810 N Mangum St</span>, <span class=\"locality\">Durham</span>, <span class=\"region\">NC</span> <span class=\"postal-code\">27701-2260</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: Closed",
+      "Wednesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "dine_in": true,
+  "formatted_address": "810 N Mangum St, Durham, NC 27701, USA",
+  "formatted_phone_number": "(919) 251-8989",
+  "geometry": {
+    "location": {
+      "lat": 36.0018509,
+      "lng": -78.89489619999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 36.0031611302915,
+        "lng": -78.89364476970847
+      },
+      "southwest": {
+        "lat": 36.0004631697085,
+        "lng": -78.8963427302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 919-251-8989",
+  "name": "Little Bull",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1500"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: Closed",
+      "Wednesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115712679935541822299\">Melody Kuroda</a>"
+      ],
+      "photo_reference": "ATKogpfEtEn9xhAWqHgbccUy48rS1BXIaBoeO8V4p7_IDBb327mUb5MCByxWghiZRw8du7oVDywuh0-f_dng_PLkp1vfnIcV_sSf2Nnrqx7rtmB3pxA8UzXaS3hP8baHyGidAD2gjtNaeZDHoM7gXMo_4TP6SQstaKws09LXsE9bf0hOBTu_9RSaVLchekQe-v_jlAhs4CzxeoX6hCkSwX952awt1_V486Q6m0vnGyOIyxq-kCwYi5U5CCm6VYr41eqsNyye4LJOqiscqJ_R76rmBgaDFtNJvrtV_Y5Y68BlsIBWd7ERot0HRLBuHka6gyX2aKemlDxRe9UcZfg5oA94OSA4253ixnxKMyOgbdPT7UUPYeypR18xC91Sl4ZeKrUHDvMDhUBck_C380Q1qKMDfv6Q-tmPtPWx1pCBXyTYgq05dA4",
+      "width": 4032
+    },
+    {
+      "height": 800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112648940577056610221\">Little Bull</a>"
+      ],
+      "photo_reference": "ATKogpe1Me0r1_6SE8l4493D1c65ysR9vgTyQc9_f3z9zYI9eqwfhKDrBc5Oy97uaqqJw6Q-tRC-NT3BPZtygHOQ5IDen4Jpz0TGGYnwAstGe2u_weLj_aoEmEnN9_uCnDCOD6Ss_FtJ1rD7mVWbyomWq2AtlWIGuz31rqwr68astbhd8spwhHVe1qW_-5A1akGeebzegyM4iWVg3v-v1tv3uA0fPxfGSeUs7Y0XLoWuf2JFwYObukuBzxNaAxzhiR3W2pQDOSeCdWtIO6k4LZHoW44b2CulvBYGnXBuKQvTweJ6kA",
+      "width": 800
+    },
+    {
+      "height": 800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112648940577056610221\">Little Bull</a>"
+      ],
+      "photo_reference": "ATKogpdK8o5mVMZShyENk0ThEkSzzUlnycSHbOi0BokEpJ_LXs4cVq2wgRnPNIHRdAkP60nlWK1WKjqgq6RLtG4hb7k_urs8S4U5u6tCFFNTc8hr0ro75lxkj9AgzXqDiR7TmZYcsk9LhzgcLMJtukezl3j5yzezNQqYAx9_gDE1yJ_x3jqr5_qb_A6uIGq8gQ80kPyxfky_PTWD1D162ePG2W86LQGk5uyVL51swIr64klduiIi4hEF2zpPdfv8Iv65-3KK2qbrYnuJglo17FMS7CgwrV-jUwl02AVfvF7IjkqwjQ",
+      "width": 800
+    },
+    {
+      "height": 800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112648940577056610221\">Little Bull</a>"
+      ],
+      "photo_reference": "ATKogpew_YIXuUw6GIot_wPITxZOlPPau_7VnbXOBqatUki9GXKYgcACmmwrzh_1yr1PDtaz05h49XkNgkvUBVJgtu25Y-sjdYM8OJit02oslf4gxLRJ-8DAJeVfcza_oeVGV6Q_YvUFCwb16LY_JcaGg31FWorBDVHsQd_QPiJiJRg3BfPzegVcwzINtnD8XGnu5ADaKjikx4NvZCJPlyJyF8tVZGbMVrwzFKeOriMBh5sXQw_sLXSB3QL6h2t4Iuc3lO0DY5X0kIhL9uGv-d85YE0Vkh13l6YjN2dpBfVHO1h10g",
+      "width": 800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115175238089156018909\">London Grant</a>"
+      ],
+      "photo_reference": "ATKogpfEEVuw4WhMtBVVAOeZa5BMtz1thEJPl10fkTYv6oLE2h2iN9WA21aJZvtAifDg9ZveGwjB98JbnZ5sX5W3Idhp9DTjRIHtl1AIkrN7ut2ItDVQUMLBAGStkKilqFRdNoNgjXq4tr3f2oBdf1Pd649ovh5_qimvPJDwQkFZTeWzNJ7qhaLDwSP_DewxP41pOaJMSet3e0U9UhSL3Ublrn4eCag16yXbrWvto7aJyqXoKFUvQ8RyRzFjvxeQlwHIof9NedpNJy1N_ifhO4-xTCgMGS2fS0IkPlqYuHEkeu-KA9WxQKXN1Z4e7S6luLsH5pE6eBXRso6XC2CuuI4tFI8EjGkcRe8HqaM8wRtzURkw2w-LNjzeQ5wcQSGPwbAPpbwZokoNBkyxDmzqbq_CE1lviehuPmIWrd7nqFen2lo",
+      "width": 3024
+    },
+    {
+      "height": 800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112648940577056610221\">Little Bull</a>"
+      ],
+      "photo_reference": "ATKogpfoRhpODiD4ZjHA4QPO2cqnLi_6OPp-wg-YVLocndWXhD6rG2F-YM5uPlERpUWU-6rB9QLGlM6KGoWpGW2Df13K5QW20IsQSWCmLnKc5viE-ZWLfebsKUXjgvaboRhAHW-Du8hbswZqfgeFWtS5-1uRbIGa7zdf6XSMjjGG3r1xdPVgIlN-aJHgexUzVOYO3RWs9ANjLUkqBWgtx5W-_YK-0rsaTRYi0UxaHwLnoclvD1sC58Vz7mgv74OKg-wqs8kj8ptRSYNwboAL_JLF-6Igaybq1SXYGlXqsCaRHgkP2A",
+      "width": 800
+    },
+    {
+      "height": 800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112648940577056610221\">Little Bull</a>"
+      ],
+      "photo_reference": "ATKogpd3bBAN0MjDW9k8xNrjVPEmox0zZRveMzhNu6K3OJJezq7fzg2ZKguXVxz3C_qL_lSiYD3oO-d_oaeueqkfU9MoqwgOeKD6uMjW5fqoArNPrzf2B58g0Rmoj6j-our9Ge0Lf50c36nLJAv5Jn1ttA201_aXy7ga82AX-JMfOQN2OKZQjUlxcyuNd1YOQqmMkMbOL7EFpIPg-hvXT_77b_4WlGCayf_hmlsXpKfc6wt5geJ6xEfDBnyTdHZMEb8dGSWcEIYzA5afIoLpf_BX7qA9NbCeu42TZdXZckwDSbZkVg",
+      "width": 800
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108963259167865212631\">BRIAN MASSENGILL</a>"
+      ],
+      "photo_reference": "ATKogpelV8ItubvyDdjqFK2OrJrIBNxV0rrK6r85opdRUS-V8gesQbeqn5YXtqIv8Dn-6O4zU-DGhXl48MRCV6w_sA43WDCY4Z3h9DRGU8kcjKG4YYymR0qvIlZ7HfAKOVT27ja7Hiu3nAYDVKV_5xzhU8Y3O1r7xQTgMseqaxPLwMz9thiSjiqpeBC6R6eQ087WRAqlxd1QXdPSoAyrR83vXGN_e0qRWZWq-qkVgpGyTCQOOQ9fFUu0RsGvnh4LN4NqZNg2-HV_mXglophqrRzKxy2X59X_z62xLCKo0TvBcSku3bkJXkD3yRP9sQ3N_6OHdjzhIU5H0Klgd7p7LMQ1ewYLvLIyZGzEbPEgYAtem_j8InV7Teaj7CDEkCBZo-A28Q3_TifwTq7z6VWuQZuVMoY7S1oy1RfJVig7b3cwiG9uBwXM",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115712679935541822299\">Melody Kuroda</a>"
+      ],
+      "photo_reference": "ATKogpeRoaplmD6VCetUJgpqG0zkh7-dvidH17FRmsIaBFjqDEFFAh3-hsQB49S2CmFLVm8XiWzLa61P8GJeamZv6y5BSpJ6IXtXiQzFBI_P2FxAWenMq0rrSp0AxNGzfDurUInRAdOsiP5igLzmYjulMgOkSZSe_0UaA0lGNT4viWwlc5VffluEMwSZsiXuQsRIf9Liy4zwz4p6HqDV8c5sIKNHGAs3j2RkR_J5jLLGzB7u5ipYZetXTr2tuLCHwgpvD0kS8LMcRz-KoO6BC3s8BVDNt6qWZx_IxX5qOn9UPZmP25-jg_cfuXKcXNMc4GeCm0__QmC4J1BB4snXfsdWpb6stQFPY1yeSJUl37APLhXFXetM1GiVHtDrgAcKTU5J0IF77BoPrykqXBc-UGKaILzG5wITaDZq1Zvy6_ahYMqlc7hK",
+      "width": 4032
+    },
+    {
+      "height": 800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112648940577056610221\">Little Bull</a>"
+      ],
+      "photo_reference": "ATKogpe90S8NJzvY6qmqL-VJo2RTsaKv0zfIdNh--ELCgL6XRuhiAD25vp5B-WMoEiQL2tzxSzGulrB10wzpexb_yxEgm2vD2sYd-GWkHO4ZqH3z_7X__wmEunTXZUfVdpfRcIgO3xlpVoT-pliQmU77I_MkLjX0bKvt8-6G469OWLI37-D2ewjQ76Mj3Ly9O14dFx0mDXvC6IHsOsrMrQ6nciBJ2kwpl2wuXQfAcMeijkwQyTXbbo67TKUsTnkCftbWMrqziLyA90XOUguVrLDRjHOFpMcpwFkBujLcDk79Fwfgrg",
+      "width": 800
+    }
+  ],
+  "place_id": "ChIJt1-VgdLlrIkRTwobcHHBJNQ",
+  "plus_code": {
+    "compound_code": "2424+P2 Durham, NC, USA",
+    "global_code": "87832424+P2"
+  },
+  "rating": 4.6,
+  "reference": "ChIJt1-VgdLlrIkRTwobcHHBJNQ",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Peyton Kuhlers",
+      "author_url": "https://www.google.com/maps/contrib/108399472934763451298/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXYBVdI1OZkDSXkAswqR2tsLAGBOokgavg8DEZbFDPKGSrx0bnZ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Great food, the tongue and cheek barbacoa might be the best I've ever had! Salsas were super flavorful too. This was my first time trying octopus as well and it was great. They put some serious char on it (in a good way). The bread pudding was delicious but definitely too much for one person. Dining area is cute -- highly recommend coming here!",
+      "time": 1747452716,
+      "translated": false
+    },
+    {
+      "author_name": "Myron Greene (Zimp707)",
+      "author_url": "https://www.google.com/maps/contrib/112894924826608902833/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsbselvtYftHsfrzViGFvxig2EuHqYvkpGXw_9lULN5UQOrsk3=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Absolutely delicious from start to finish! Every dish was crafted with fresh ingredients and full of exciting, vibrant flavors. The presentation was stunning \u2014 each plate looked like a work of art. You can really taste the care and creativity that goes into the food.\n\nThe ambiance was just as impressive, with beautiful outdoor dining and superb nighttime lighting that created a cozy, inviting atmosphere \u2014 perfect for a relaxing evening.\n\nOur waitress (I wish I remembered her name!) did an excellent job taking care of our table. She was attentive, friendly, and made the experience even better. I\u2019m including a photo of her in the review to show appreciation for her great service.\n\nHighly recommend this spot if you\u2019re looking for a fresh, flavorful, and well-rounded dining experience.",
+      "time": 1746334401,
+      "translated": false
+    },
+    {
+      "author_name": "K D",
+      "author_url": "https://www.google.com/maps/contrib/107294363489158688973/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUplNxSsQZoiwFK2dWGH7tNJ2hcTVWKff_Oe7b3oFw-Q5oQRZ1=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "We tried the Arepa and the GAMBAS A LA PLANCHA as our main dish .\nI had a glass of  Tempranillo and my wife had a Mojito. Both were good .\nWe also had the bread pudding as recommended by a lot of folks. In my opinion it was too sweet and two much for two people .Ideally its good for 4 folks but if you are looking for a healthy option",
+      "time": 1742751907,
+      "translated": false
+    },
+    {
+      "author_name": "Jamie Juett",
+      "author_url": "https://www.google.com/maps/contrib/100705590631678422298/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8i3iVc7i4saGh9Kv0igsFTdJOe4KPAHGve34VBnmC2zOBgODy=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Went to Sunday brunch to catch up with a friend and was blown away. The food was amazing (had the duck chilaquiles, birria ramen and French toast) and the cocktails were delicious. It was also fairly uncrowded so try out the brunch before it gets more popular!",
+      "time": 1745077841,
+      "translated": false
+    },
+    {
+      "author_name": "Ryan Herron",
+      "author_url": "https://www.google.com/maps/contrib/104985076464875961404/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZY5UuCMdhh6w7nv228TZhIl34ZNgVmGmTOrJx8VOkTYBeNYQq=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Durham\u2019s newest hit spot! The meats are so tender. The birria dumplings are a must. We also loved the ceviche. And the bread pudding for dessert \u2014 so good! You can\u2019t go wrong! Great for groups of friends / family or date nights.",
+      "time": 1739595082,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "establishment",
+    "restaurant",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=15286555728158591567",
+  "user_ratings_total": 322,
+  "utc_offset": -240,
+  "vicinity": "810 N Mangum St, Durham",
+  "website": "http://littlebullnc.com/",
+  "wheelchair_accessible_entrance": true
+}

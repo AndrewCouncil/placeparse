@@ -1,0 +1,468 @@
+{
+  "address_components": [
+    {
+      "long_name": "1291",
+      "short_name": "1291",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "3rd Avenue",
+      "short_name": "3rd Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10021",
+      "short_name": "10021",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">1291 3rd Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10021</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0300"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0300"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0300"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0300"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0300"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0000",
+          "truncated": true
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fAM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fAM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fAM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fAM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fAM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fAM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fAM"
+    ]
+  },
+  "delivery": false,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "A comfy atmosphere attracts a laid-back neighborhood crowd to this cash-only pub famed for burgers."
+  },
+  "formatted_address": "1291 3rd Ave, New York, NY 10021, USA",
+  "formatted_phone_number": "(212) 744-0585",
+  "geometry": {
+    "location": {
+      "lat": 40.7710738,
+      "lng": -73.9593297
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.77248263029149,
+        "lng": -73.9580995197085
+      },
+      "southwest": {
+        "lat": 40.7697846697085,
+        "lng": -73.9607974802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+  "international_phone_number": "+1 212-744-0585",
+  "name": "JG Melon",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0300"
+        },
+        "open": {
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fAM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fAM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fAM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fAM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fAM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fAM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fAM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115919437450621843623\">JG Melon</a>"
+      ],
+      "photo_reference": "ATKogpdWnnltgyInVBH1CW5FbMIyu9LXg1IP373mIoWw1UlVJftFmo6qYZ-9V2KXbxyh5yHfMAXsOZBnELXGiTLep4crYeghhf5y-oVjAj7up6_pk18wIw9UIzqDf2zbMbVo1fj5IusquQ1oXOlWV980v4-AlMtKNj4Wh2bKw0bTwgq3d2W481datga1-AES5jlTMHNe9k3jcck9drGSQ0d7VCdmrGMJfQnfr-5M0ILZXfFroMCdDJO6EZQZyiiOJjyXM5lqc5wHtQzYKH0sxLdFwKDouOkLFrN4MEMbEkITDwM5ag",
+      "width": 4032
+    },
+    {
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116916611593922522727\">Rob Paris</a>"
+      ],
+      "photo_reference": "ATKogpdo_ybi7b2feSYQ9AUVTcZsfi0MI0VwAmkGNjm5-zOYQL4hR87QGt-kCb4FDm5bTP58TPkJP_hXEBQap2f6D5qAUaC_Jqkvg8NyhdtEMpmTwgNNYhWNw09UU89XIy9xbeLTYSqbWeVwmtf95-hJfy5gr5SBl1ORYtDOIMw3gqgUz9LuRhazwt3qDziQgGxok2eI3ZnZl56_l4cwDEO67JHBhmhwcJZm971i2cl9tWppWAjkgl0HNeZ2AH-ilxpmakgACjUckt_PLZfMJvmeAgwzMG430RDgTB97NHsbgjuLpluelAmRQ6sEDW64o5SHx9x3F5FKosgz4p8sSUpfhdf4ktJWN_7qguME5TgYW1fHZoBqvxBl8Tyk3_2wEodMBVNnt_vsKLtIJLP6EY8STWt8mUItFNBHqDC1eeu3LLb3vFkF",
+      "width": 4800
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117835854773569504294\">Gerard Visser</a>"
+      ],
+      "photo_reference": "ATKogpcB3O6cLOpC37x7epZLZdzYXicKblN9cctFMr6W8bM04CazUcj0hCkREZEpA5WjPMIRh9tQEjqVkaTLNSGHNpCGRLuD0-zJiTXVIPv0YVwKdAcSXPd08EE-iJCzeCIsZSUbB_aqogUJ3M3YL_xhCybbmXogi91iKhHZHbQ5hYUAiC0lNGJZwtOjK42A4YBNi5LPtnWKijy0-KcHmYmu-bf-NdPfHBEWVky9m0HId4lpE4wKzJG6soU1H1sFygkF51H4BqoX75-ibB7OMkkNtcrcpjWGa5lJSFziFXBxBO6sLBBDsXJMkhKRYqdG1l5pGQUGy7KEvBfevsSE9YuSEzVCDkC4wW9jUnz76aJz4XhQ7r9o_qwgUbpDQAm8mvtBE3yU1mC6K9jtJXecAr1jCVqHL8WJmhXN2pzGL3rX1KuhM3mMKAn8eC77M-0NbQ",
+      "width": 4080
+    },
+    {
+      "height": 429,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115919437450621843623\">JG Melon</a>"
+      ],
+      "photo_reference": "ATKogpe8RLoXUIDvQjJkvtbsu-M6ZsoE4RDX4o7t3x7Gh3ef4DMQwNJ7Um0OdyuTYuXGxndi04_HRmb0K3OgmwE8m5o40IyyPwntwU9HlcnlMoxgcDXCYB9jzMOKjEql6bLGDuDwgcDc-ayY7WbxtX98Yzby9FxD9WGZP-tXSwM74BBY0A4RIIIDwk7abbPIUM1W-VpXEtEtnluQChBfpJVizqysQ_40On33mMgyEz0gxtwOpHl_xZV1nTIQF4aDduHpgjny8nR0BG_9hDnbVmFhQgECIGv0RsL47Vxq2Mm4CyJ9Ow",
+      "width": 761
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101122369516076434653\">Madeline Nash</a>"
+      ],
+      "photo_reference": "ATKogpduYDS9E2uW2bDM2SoZ_e2mZn7IQITWXRR65uA2PbD4dCrKCjfctlDnwbHxuLQG0GJe1KOK4tUukx-NwzaYHyp_PStgIxAjtX2wVCYF1c5sjtE8ASy5haZm0NvP3WBGLAeGBIBgYD8slTEnMXr1QA_1RSb-7z1y-fwDucqpZZwAcOHUDU_6BoaB4RgB43aq0ohywLEmYSmYlsVCVGQIdW4KSpAciAkaPuTG8mPwCZXD69dJE-wNaYJOYV19RMmkpYspnq573Cw5-JgCwjBSVacHKZChWNBjUiDtQkrwdoHvwoIXh89P67aMp0-xAJEPLaMUvXJUHOMhWu2XCTEBAuwJHaxxuygVvCdk-29RL9EYAnXe20Eg0Ft8LMiPiOg51ceXLDIutMgcslNwzV9eK39DR49ayJvH0mLIM_b4FsIZKFZ9wZ7LUsUaLmaDHA",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117630104170086684793\">Luana Paiva</a>"
+      ],
+      "photo_reference": "ATKogpfwaLBDxiqvVIk_GSocFXVF8h4afFtFoY_tWnDs2YrD1LN0-DxtwEEzC6zA7W2LvZrjd9rki6IcbEBdSjhsZztBPPD0A7uhFPvRcX3NWzLNws0ipi4cV6_o_j5aChx6onGWMWs1Vy6rRZIgJbplCOagNQbmJ7yRHrIRy8qWDTktBm2uJiW1LjbEeIbwwDUjIZmlS_bTSwwL_vjS6o5Egj7O3GInSBvDUNjelRQDN_0-XTdQNf3fWv2onZDapAAFxnUAV4EHFICutaQLsJpjzwzB4AXJvWA-RruoKDu3Z9XVXVuVHxrefXx4whTKZO6-HkxnXxJoNam7AlK0h7EMHCimp_jwPG8_3sEjQdkmgrl7XbZdFGetpm1QgqgZajVSo4BygxdEae1jkv7xM_aern0C9AcHd2nsDb_jljAtJ3NVEQ",
+      "width": 4032
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117630104170086684793\">Luana Paiva</a>"
+      ],
+      "photo_reference": "ATKogpdZiO8xte4SCsr4xqx9t6B3dbaw1iIebfFHRP9lK0jGgBAq60uQ_eVZNdeq68lvrqwT8JhErxDvFONJmxsQ82cf9VwJIZpTyFWA6SIQf7w3CygjN9KCXV-_gcDx5kxVS22BY_HipD90lZkMdYwdGIe3gb6wDGSi5qlSnmenMTvkjEwtXz-7KyKOhWiTLVXkXWxiDTH37h8pW1LZp8VWhlehZtX019KM6ornKo-_iaTkReF5uQ2k8HVCsLYLK3QZ3PZkswPZTnDF4ymRA16rXndpil_LxnlWyTS3vwdwUfqFv0YI8W-mITYd0vqmi1tYf1RH5thMEbbV36oxIRptQ76zwfw1yAtwaALsHpkHgFxeYpPhiK01KdgLV3NrwyKrACxeNeNCmtIiHXjNmKXE3O16RVRheV97z7g98Ye9a3lo1A",
+      "width": 3600
+    },
+    {
+      "height": 2688,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114643697639800595345\">Ryodai Hanai</a>"
+      ],
+      "photo_reference": "ATKogpftm58v-YyQRMuhN034vS05cfLzjSuSCZPAvUAPSnHd_UTeEkEJuzJTPv9LnNHz4HmiLaCz-7EcCfngSbNiJtlcZa90ipefhBukppSOWjWqfNSfl1qCSYvWKFQj6OGAooOrHIaCFtTlX7JHTPOJPqC3E5Svcb4ezgmszl1jts9T4UVMFYUtIyo7n62xrxuBDD_GHcwziJWRKVY416UcMrH_Faq-AQQB4h04i3iGJo_ou5WRw1AceuPgOewtsnVVV37OAYeal3q7ydYAkThig_HqhAi3zpnWeGWhTV1dJ0HLEjV_WvcGYjwVIXJLLW175Dg5YjIscbUTZ1IWPho6bOJtV_dLieaOgSzFlH_buIgbYWGEljPcqxBoH6eq8PopkDdrqiQ14FyPTyVQFzBYdSX6duag9vs1MEDHgbpnkteYzw",
+      "width": 4032
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107663219656039627971\">Alejandra Suaza</a>"
+      ],
+      "photo_reference": "ATKogpdT6ad0S1A_Flaa7Oo9wu5Zw-r0FOy0jtl5GLgEGcP0fjqRlQZpFbVEZ_G3KwkLoom-P7Ij2NyHsN-zghCmqKssWTIZzTszDlp2M4ncH9bkYujtimFhSfZtEQimTwluOdxJ_aFBOafT1pu6KH5g6KPTN7V615oln0IPstzSUc25GYW0AJ6SLtiINXqu7FEoEeHKbAoL5YlmRAfLuuc1tHFnotkHLHDnyoLZl2XV6qJTHIP6edkh9HLaZVEpjVEP4YJHnsg8GcuKcA_EJU39VVt64g8XCbSLnxrE8gqibc6mSDGD2-h5C13aZL9Ho9q0fTc1Spvy8H6QVve0Nzrn9osDlc_gpFfudKnslf_4oOqj4Udau-KuF9eSqg5b7GL6LDubIg2OBMGhQWBjMv0WW8fcczjEGUO180laYsq4oIw",
+      "width": 3600
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114543676607799146162\">Danny H</a>"
+      ],
+      "photo_reference": "ATKogpccaZdZd7fP3xl5lvg179obmEkmiLz7xRKpiuxwX0J_e2v3do6qtio-uY8Wht8ItvPnPc2TMcGZVbUf8JYmKEc0oQQH3KWIPcx3zkri5n8Y8LMI8GnjoNc7Vqhf5j6XofIaVQLsdRlckNq5Eli86H7RIPQsBFzzaohLKEefUe-8UKuj4LE2S_RQcoE8wVcOwbnWfHh4erYllRpTPT5p_QcOm8Hatt-H7B_rPcjzpX5o1PMHjqKALNXPMRenwBKm8yT6dN0OKdCdoi_opASYDFlJPNbYeBbT5ti8CmuIy61L2jy4xPEqkpWZiJrLOw55r3IR6cMO0fhnUrT5YGWIzt3SYVPmmJiLAM8-qitswcI4dci3kNP_PQhKzAUQJUmgZn4o_ZRqO39-2xRQOm9GnHjH_Z73Yosn0MBm3qPnfOdxow",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJORutA8BYwokR6obC5YpaamM",
+  "plus_code": {
+    "compound_code": "Q2CR+C7 New York, NY, USA",
+    "global_code": "87G8Q2CR+C7"
+  },
+  "price_level": 2,
+  "rating": 4.2,
+  "reference": "ChIJORutA8BYwokR6obC5YpaamM",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Chef Tommaso",
+      "author_url": "https://www.google.com/maps/contrib/104310350660779066471/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9r7gSR7FOYsa2gzZ_W_wDevMVGHFiAuwo0JyZuMmiTfQqNG4=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "J.G. Melon is one of my favorite spots in NYC \u2014 a place from another time. Warm, charming, and impeccably clean. We absolutely love the burger. The tables are great, but sitting at the bar is a unique experience on its own. A true New York institution. The entire staff is professional and friendly. An absolute must for anyone looking to enjoy an unforgettable, authentic New York experience",
+      "time": 1747796579,
+      "translated": false
+    },
+    {
+      "author_name": "Garfield X",
+      "author_url": "https://www.google.com/maps/contrib/104758304501085459456/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJO9J4_8Os_PjQkJX7Kc9q6pmwfkgiNBuCS7c0BwZmQR0sTJQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "It\u2019s almost like getting a bagel in New York \u2014 waiting in line is part of the ritual, building anticipation. The scent of sizzling patties and the sight of burgers constantly flying out of the kitchen send your brain into pre-meal overdrive.\n\nWe actually came here twice. The first time, we gave up \u2014 the wait was just too long. The second time, we got lucky and snagged a table after about 20 minutes. While waiting at the bar, I had time to take in the half-open kitchen and quirky d\u00e9cor. At least twenty thick patties were cooking at once, filling the air with that irresistible, savory aroma.\n\nThe melon-themed interior is full of character \u2014 think melon art, melon clocks, melon paintings. It feels like you\u2019ve stepped into the eccentric collection room of a mischievous melon-obsessed boy. It\u2019s weirdly charming and totally genuine.\n\nThen there\u2019s the burger \u2014 the undisputed star of the show. It\u2019s minimalist: just meat, cheese, and bread. Pickles and onions are served on the side. No lettuce, no tomato, no fancy sauces \u2014 just pure, unadulterated confidence in the quality of their beef. And they\u2019re right to be confident. The patty is perfectly cooked \u2014 juicy, with just the right balance of fat and meat, slightly crispy on the outside, and tender inside. The fries? Also excellent.\n\nDespite how busy it was, the service stood out. No one rushed us to leave after we finished. In many popular spots, you can feel the pressure to free up your table \u2014 but not here.\n\nWhen we stepped outside, a cheerful crowd was still waiting. Everyone was smiling for some reason. Eating at JG Melon feels like a little festival, and I\u2019d definitely come back \u2014 just for the vibe.",
+      "time": 1742778404,
+      "translated": false
+    },
+    {
+      "author_name": "Luana Paiva",
+      "author_url": "https://www.google.com/maps/contrib/117630104170086684793/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWf7dsdclGwmSL6InGanB_zSTHZuM8DuRisTDAJsnuQk-mW2o=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Don\u2019t be fooled by the line at JG Melon; the wait time is minimal, especially during the week. However, if you have a large party, it might be challenging to find a seat since the restaurant is relatively small but cozy. It offers an authentic NYC vibe, and the service is fast and quite good. When it comes to food, you have to try the burger and their cottage fries\u2014they're a must. The burger is juicy and well-seasoned, while the fries are perfectly crispy and not greasy. If you find yourself on the Upper East Side, this restaurant is a must-visit.",
+      "time": 1745268132,
+      "translated": false
+    },
+    {
+      "author_name": "Taka H",
+      "author_url": "https://www.google.com/maps/contrib/104852759796487428154/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFc0r0Z41fcFes0IuCob3ayzGBR0uYrvWdLP0cypyeNVlRgCuo=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "2 months ago",
+      "text": "Is it worth you wait?\nYes, if you haven\u2019t experienced this iconic spot. Pass if you\u2019re expecting a delicious top tier burger \ud83d\ude43\n\nWait time = 25mins to 1hr+\n\nFood 3/5\n\ud83c\udf54 Cheese burger was nice and charred in some areas but inconsistent inside. The biggest issue was the dryness overall\n\ud83c\udf5f A bit embarrassing that the fries were the highlight of the entire meal - uniquely cut into potato chips\nChili wasn\u2019t too bad, nice and chunky\n\nService 4/5\nDecent NY attitude throughout the experience. No issues despite the amount of tables and foot traffic.\n\nAmbience 3/5\ndefinitely an old school vibe inside and out\nThe bathroom was tiny and pretty dirty imo",
+      "time": 1745752485,
+      "translated": false
+    },
+    {
+      "author_name": "Bart Wielki",
+      "author_url": "https://www.google.com/maps/contrib/111338307603182182098/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2C_uV_doEOwk1ypEHrzavQL74kcDidQXLXX9dcPxpvFqRO6Md=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "The burger here is absolutely fantastic\u2014definitely lives up to the hype! However, as this is an incredibly popular spot, the overall experience feels a bit rushed. There\u2019s a noticeable pressure to order, eat, and leave as quickly as possible, which can detract from the enjoyment. Keep in mind it\u2019s a cash-only establishment, and they don\u2019t take reservations",
+      "time": 1743304446,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "point_of_interest",
+    "bar",
+    "restaurant",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7163637709892912874",
+  "user_ratings_total": 3600,
+  "utc_offset": -240,
+  "vicinity": "1291 3rd Ave, New York",
+  "website": "http://jgmelon-nyc.com/",
+  "wheelchair_accessible_entrance": true
+}

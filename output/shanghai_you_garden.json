@@ -1,0 +1,453 @@
+{
+  "address_components": [
+    {
+      "long_name": "135-33",
+      "short_name": "135-33",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "40th Road",
+      "short_name": "40th Rd",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Flushing",
+      "short_name": "Flushing",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality",
+        "political",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11354",
+      "short_name": "11354",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">135-33 40th Rd</span>, <span class=\"locality\">Flushing</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11354</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0830"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 8:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 8:30\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Classy kitchen serving traditional Shanghainese food, including handmade soup dumplings and dim sum."
+  },
+  "formatted_address": "135-33 40th Rd, Flushing, NY 11354, USA",
+  "formatted_phone_number": "(718) 886-2286",
+  "geometry": {
+    "location": {
+      "lat": 40.7588918,
+      "lng": -73.8304711
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.76018218029149,
+        "lng": -73.8290856197085
+      },
+      "southwest": {
+        "lat": 40.75748421970849,
+        "lng": -73.8317835802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-886-2286",
+  "name": "Shanghai You Garden",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "0830"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "0830"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 8:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 8:30\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1074,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108936376451076817242\">Shanghai You Garden \u4e0a\u6d77\u8c6b\u56ed</a>"
+      ],
+      "photo_reference": "ATKogpcdZlt85yPZwM_jTYoqZTm5yI2TbnWhOTcNZCJEWCA55C1vEQHqxI1iwkW53N_VE4cVEBCt2K_-JFpiVwr2ymVdoK9qJhkrQ4XAi8Iuw8AM3mzeudseZmnQ6N_NFinn7NgO1FDiUnnnORTdkmyGnAGt-hzg-bjMwKwcjTeYquXxyJnQ93BWnLGA3H3Qvb2Vx_IZboJw3buvcVD1u7XKqJ0xVvtKQPzmnvK8IovlYBpGSLxc9bdCSaCGAzdkL9xelEqzLXAEz7Y37NA34r97-G2FJ-q91B4kEdtKQzgUZ82Fdg",
+      "width": 1440
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108936376451076817242\">Shanghai You Garden \u4e0a\u6d77\u8c6b\u56ed</a>"
+      ],
+      "photo_reference": "ATKogpcmrHyOqoPc3EEF7HpdU_QEZkR71K6l8lpJw4iwmconKs1f2h1myOJpShAF-RicvmDLN5U4Biv-OVFL_r0LMBjoLe8CidgpoIiXpLzmMrmvl6CpISyJX6BGL0SCpxDHEDSo81rM18_bDGdBuOm6S-rD2mhcYrDFWMbOJS_cYqoN1RZlc8TY128kPskaQtP6kU7d562GSgYaXN0KFNgKUUno93vgV3GTEKpzrO0r8OhJ-ZA6snmXwpIMeylaPqJCJK8ZR49CzTpfZvyQEvy4fKLygV9T0FNBSZzHjv8g40TS6g",
+      "width": 4800
+    },
+    {
+      "height": 2665,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101538702600557153325\">Nathalie M</a>"
+      ],
+      "photo_reference": "ATKogpc2yHb3WN06ru4pfM7L2i7b7WDWGzQqQooK3o88kxqL-wNrtmLa2ZRUBhpK7_S-QrsNj-2O6C5mWl-hcTY6ewOIJxRHbxOdpWmxnjot7_71yMp_7TBIubufffEcRpkcyevbtjRF-7CZtoUmL6TgFIEeOkXDQG9J_1JDl00W8Yh3XH1ONCbj0LWeTEJ3hYbAkKtzsuvZcufrpdW1VkKA6MYVrO3Ny-IY-EEkKlTCbk0h_ZfiLV6DKAF6eL2LYv9w6xH5wCS_k2FqJKKVyVZIK0OQfD-PEiBBiXeptCaufV8NFESAwTSWRdNPVN6G21Fmfo0BcYIRwiX7_HSiCOWuhUKM3_mVlelECjvUQGWt-OjYyvGlZeAsxy0sLCVms43Y5CRPm4mwvXQYZDEJMPUnscwDhhi7Jw2QMPP9XZXyhBkiO7XViC53CKlhcVJV8BvD",
+      "width": 4000
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107262401012258059785\">Jamie Lian</a>"
+      ],
+      "photo_reference": "ATKogpfvGz47S1WFhp8FtPSLyyFITIfTcG7IgE9_NrQFLEfuLiMlXEjaQzktPdaDIE8rnPVj57CTD9eiNdcK0olNv4XCrPaBPB3KCEUUBc7lgU5sqWfyvkvKG6LLx1o6d1hTmIRbAcemECLrzNsq_kgMIoxi9qxlHRpAABKH-xROZWI8zJdOjrlPj5KuexX21aShT8y23d4UPH7DxaW1y3L9Rb2RefIb3kV32_qR-xDaIhD5dBfDPQqcYwO2BC7HvwVKiHLTIU5pwEJrgaHzm4qVVoMXOmrU_SAchdzkEntw1s32rct6jqBbCb6WPXXc9wnDauSIRZD9ybcA7UngyFPRmSF6JT9Opi8xV9b5hm78AxMx3ib94Z81N6kWVfnwx9Q5-NvZKnbWX4lCHkGDlEnGf4JiYWjByCe1WAJNRpfD-ldLvQ",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113163946068963626359\">Sabena Singh</a>"
+      ],
+      "photo_reference": "ATKogpcFpiPaYVdUaex5tciueJUgzjMQlqG0qLhvHM2kdF4Sf_MlQGf5-LJqkelcZCNK92bvfcki4ie81FsFmNOh1uyhxD_qV-_ub67-kZyCZsc2J67fE_lMRsgCP5Oj3WBD8nKdIU-afc3ZexGDueFd3jhqseKLZnYZTwR4TuQmKLpopJx8TB9NAnPMfrCkfSo4f5M9GvOIo7U2kXUcDce3QgnKRecwcMPDNPN9XmP6QbI9u8yAjEYH6qrPyiRBObNIEGLWWD8PzmOIPgIbHee5zHpymhQoV5zdL2HyAK2_E2l3Ge9jPeQteGvCSn_ljm1p-8ZfSm-FK9qKXbKUMT9giYBjRFFLCaLc-QrJVF9lZbSqRG26_qvZwyQkCOMEhyWcbOaaQMWk4Oyc4Ru5ooJkyqusThpVa6-4-PmEUPsXsvAg-g",
+      "width": 3024
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101933395795359332338\">Dorri Z</a>"
+      ],
+      "photo_reference": "ATKogpfpEL46cCue6EMECFTgBmxVHHZPSPwS_n_wWD5oDUrfG9omcmwIK_wPdxpRxNjv7bKEgH9AAiParcUZBmxP-8BX6IBHZKO-P7j2mCSUWGJhdQnpBJ4QB_Shx59uOP9I2Y6X4G9E1tCQFxb_ghVHMf7YnXE52R4dyQac3irmkRGjgn6zo35f5oaZXiaUDggeTLNXxJuF3LLD47c9JzT0uWJ2MD2JfxY7sDocREX7JNUbqMhZtGO2IeujTSmNU83hzsJDYXJg_PLPtyZGy1nGkDuQ9YMhHImKOi0_JlnjvPGeI0lUfpWi9G_EvbGVMFahzvC2I_mKyhZr9LGJMtK0ii5iQ-rJ8pqsdEORCuyWyfRGyO6W6sUKEgfim8wEYgRKRjaafvQNaVCmzHhMMSM8yFJ2VvJhF9pc6YHFIVffKmY",
+      "width": 4000
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104240468001167791434\">Charles N</a>"
+      ],
+      "photo_reference": "ATKogpfMbi0a6w8bBluase9W5qCA_EXeARoYAG6O9dOdeXRZmAMq3V6jWC9697AQA6nmLOHjwOMz0COJvoNPOk176r7VLbboe7wA2ZWj4bvOhjKD4DVH-94q17_rGQ0DWuBwFkElhGBfy-jMs-s5HqJx3WmpNhu6c9YKq8O6R40Q23bIBKMmx6j-z4OGegNGxQL_gYJf2pK-9QLnbDKogp_3nDmLPPCH2uJwmjd0q1gDX0fCVIG44cJ5AXJi4zJ44gxUWqVL9H2hrEappBFxq_6BRRVDkVxNyS23nh4L8TnDUfGCHOaEymTubnFfmwv5TJltF1tx5a1UXm7Gizm0mrP1dx-PbVQcpjbaVgxte88xZYnMptqZzsDWUoQsbFHEqXBWPSnosjhrkn2oEX5eTxdowHtdjJu5DJHF3JD1QHrCKKn-npg",
+      "width": 3000
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115499328070754850684\">Xin</a>"
+      ],
+      "photo_reference": "ATKogpfCUOovJjPMEpxZGJt1qElKwThtoTvRCev_-UmeSB8uVxekmUHFfNJeWDtR4oV37IRvu1vM_TvXNyUL4DvN49lt_RIMVQh_DLaSpg9rB16hEqc9_KfsSJET2bjq8R6kBfbnIp0J4PVyVCM46BDCdnUqzH5B8zqEfZbrquQdcLchRSf1NGI8kjg3KI3ivNL5elNeCJx-nUlbAYOrqglWyRzaS8Crr0gJkBkHyRMiqwwyu5mZ0z1wwEClGYalr9L1QKmC6zLR-ZAB50eIl6LDiE6Fjt0BnwEJ2RbW6cm729LrYE9WwR9DMnBES0zypyGAJedvI5wepDnxCW61jXbHS02VafvtLiUZMn_o3F_CrX2A95Oa_VDqlTuxlbZdXNaiPK0KIUs2xYmYXYHRdSIjjpKOXNVHP-RzbYytf5sMJhs",
+      "width": 4032
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103411462277119156667\">Andrew Deng</a>"
+      ],
+      "photo_reference": "ATKogpcDwpYsAVq-xl6IBZfW-eGp4Dq0VFnGXPFY0w_8hw31IbAZtDWYXPwH68RIRsqTw4bDIsuaEYBQ2sQO7IJghe17MxeoCp22PrsRARq1BWBiOIcbHdUn5rKThTWTVdkVQNxm9vM91h-X77fvV61Fmm8QtVO6YnteVCB_i6OQ6pLBFbDaRTLQD8I4bmL83xrWvg0dNnYoLBt7XVIL9FeegYuxncxJnQtjwAskb-JB5meADnMD5Qra8pgiVAemRaB_2AIxjwEfNBqX3hPLmR5VNhhfidv4MKZeV8re5SlgSXHHXYn6sfzGKKAyxQ7o8OkL-JI9gY3IjFVS-RHfBsGhXQD5rHZO_r9TTNF1QmXUwyN2GuAvB_vs8ZKvvchpGyxO4KqksmJXzr5rgSFENEfpm4hlBw5dv4HQteVhBLIaoAUYx4gt",
+      "width": 4800
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109075738064712324714\">Elliot H</a>"
+      ],
+      "photo_reference": "ATKogpekyp08iHRc05ZBDCeUP6pj3yrXz6LrcBBqy68Qmo32LlQG2lSXvbzJw9DrdG_O16W_nBSQJDmveNYKB92RGDc-UZluS5x-H9x8XzRLIn5DhW6O22SYdu_1c-UlYSwUcTUaDCHPKSZVIjdOEi83vK83aoryjv8eZFSdPxGVEkWVu1pz4GDbSfAFw1rwk7FouYK5Dt02o8aNvibWJncz_yI4ay5qbIFTVV86z6ecbm_R9Ijk_dNiMNfOQvRaFP_l3OG1YlXpX76MkTe_hqIoBhPbc4ehdXkpvjyNcu_Y3Gz7KckHoHZuft0DhqzYevjG2FFt79JFAzn3OKjWHxAVrrRO9VDGgzgGhTRuauFUYZJrqHcFradKvKJw7OnYI3l0L2E3zik5i4Od4Nd_s36F2P5N9s9-theqTIQIG-m_2E5tLQ",
+      "width": 4800
+    }
+  ],
+  "place_id": "ChIJH8LwGw5gwokRk9ncph3wEUI",
+  "plus_code": {
+    "compound_code": "Q559+HR Flushing, Queens, NY, USA",
+    "global_code": "87G8Q559+HR"
+  },
+  "price_level": 1,
+  "rating": 4.3,
+  "reference": "ChIJH8LwGw5gwokRk9ncph3wEUI",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Sabena Singh",
+      "author_url": "https://www.google.com/maps/contrib/113163946068963626359/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqKM09qQrNdur1aJw8HW7r9yiuZIDMMoykSw02FY_FMGyAIw-5=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "No visit to Flushing is complete without lunch at Shanghai You Garden. With one order of a Peking Duck Bun along comes six Pork Soup Dumplings in a steamer basket. It is free. Yes! Absolutely free and tasty. When a friend had rhapsodized about the cuisine here, I made sure to venture to Queens and spend the day exploring and eating. This time I also ordered the Chive and Shrimp Pancake which was a tad greasy. With a crisp wrapper, it was toothsome and every bite made me joyous. Only the shrimp rice roll was disappointing as the wrapper was too thick. Service is efficient and unobtrusive. A clean restroom (washroom) is located in the back. During the summer months one can order these duck baos and sit outside in the front to enjoy it. There are countless restaurants in Flushing but Shanghai You Garden remains one of my favorites. This is a cash only restaurant and my bill is always inexpensive. What more can one ask for?",
+      "time": 1749508305,
+      "translated": false
+    },
+    {
+      "author_name": "Xin",
+      "author_url": "https://www.google.com/maps/contrib/115499328070754850684/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjMx0oceFkfDk2M_NiYYuKNzU8oJDZJKDh-mAWmGHwZx1uVfiq=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "Shanghai You Garden serves good and authentic Chinese breakfast. My parents are a fan and always prompts us to come here. Their menu is huge, but when you order enough, they will give you 6 soup dumplings or peking duck bun for free. I'm a huge fan of their salted tofu. The staff are always available if you need help.\n\nI will say though, after eating here, you will experience food coma. The food is also a tad oily so you may feel bloated.",
+      "time": 1748373606,
+      "translated": false
+    },
+    {
+      "author_name": "Jessica Durney",
+      "author_url": "https://www.google.com/maps/contrib/100256733248561877570/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXYi70STc9GiSZMztHQRQh3tDSKeiKx4VTq52AxFsyKqn9nJOnFmw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Stopped by to grab their $2 (they're $2.75 now) duck buns and ended up sitting inside and grabbing their soup dumplings. They had a deal for a free set of regular dumplings so we tried their spring special dumplings and regular and both were very tasty. Larger than the others I've seen, tasty broth, fun flavors. Tea was tasty, service was actually really nice and helpful, they even gave us a free \"dessert\" soup. Definitely recommend this spot.",
+      "time": 1745783576,
+      "translated": false
+    },
+    {
+      "author_name": "Ri D",
+      "author_url": "https://www.google.com/maps/contrib/113101568010535139255/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW6gNQid92rH8SDSiE1VTnSbPtm-pwomexH7goJTe-RGlRb4Xo91Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "Interior was nice. Good food at decent prices. Kind of wish they put a bigger jellyfish portion compared to the pickled radish. Soup dumplings were delicious though!",
+      "time": 1747171901,
+      "translated": false
+    },
+    {
+      "author_name": "Raine",
+      "author_url": "https://www.google.com/maps/contrib/110670655210969116688/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLVte5fJPaT1FazJkK28aHEnhwsz5mP0_QE41F2f1l-rn77e4B6=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 2,
+      "relative_time_description": "a month ago",
+      "text": "Had a late lunch Herr. We visited based on the reviews. The soup during were eh..at best,. They were doughy, and not flavorful. Some didn't even have broth. The food came very quickly. Scallion pancake was good, stir fry udon noodles and braised pork was OK. Saw a roach on my way back from the bathroom. Would not eat here again. Condiments on the table had food smears.",
+      "time": 1747168030,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "establishment",
+    "restaurant",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=4760850291251534227",
+  "user_ratings_total": 2309,
+  "utc_offset": -240,
+  "vicinity": "135-33 40th Rd, Flushing",
+  "website": "https://www.shanghaiyougardennyc.com/",
+  "wheelchair_accessible_entrance": true
+}

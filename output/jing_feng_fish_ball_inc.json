@@ -1,0 +1,447 @@
+{
+  "address_components": [
+    {
+      "long_name": "41-40",
+      "short_name": "41-40",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Main Street",
+      "short_name": "Main St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Flushing",
+      "short_name": "Flushing",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11355",
+      "short_name": "11355",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">41-40 Main St</span>, <span class=\"locality\">Flushing</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11355</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ],
+    "special_days": [
+      {
+        "date": "2025-07-04",
+        "exceptional_hours": true
+      }
+    ],
+    "weekday_text": [
+      "Monday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "41-40 Main St, Flushing, NY 11355, USA",
+  "formatted_phone_number": "(718) 888-9839",
+  "geometry": {
+    "location": {
+      "lat": 40.7570681,
+      "lng": -73.8291611
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7584340302915,
+        "lng": -73.82771696970848
+      },
+      "southwest": {
+        "lat": 40.7557360697085,
+        "lng": -73.8304149302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-888-9839",
+  "name": "Jing Feng Fish Ball Inc.",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104118687600263849657\">Tianyi Wang</a>"
+      ],
+      "photo_reference": "ATKogpejxfP_AduhH-ux7UyK7Az_rdeYGpo2KtI7NaCo7RxHXE5PiwxD7fH6oCtKgko7dgpZOgD3c7i7jrAUdpIA8crBjd8lB9epp7RE41nOiBEja4TUIxUBjwGxpLrfkYKW0ziwUghmgAV_fAr0FT_JJ_XsYTMudWRqLIAvrmM_rNPM4HHgQFP_r96Qg-a0cDkWz3DUFm89tMEMeYZNLNVHOsZLrbNpPygwiWCk3gKmm3pHZ0QivSPh8IayEPFTGXOgoN3p-aV_0Bg6PCUItP9Ehc_MBHuw5mzemHhaB7pZdf-hiD5pEDocoaE8mFvMT0DfXVEkC8H4fB3upToQnrMrVBwa2_Y4VVMfH6fXXaCF9it6bxe6hLnG_iq6nvhEZ6y-DSFU29kj7bmfzp_WDlNHmB9d_v_3Hr513DSMUn0LveEn1G7E",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110993685752064838164\">Winnie TheAgent</a>"
+      ],
+      "photo_reference": "ATKogpcuZGGHxYmWCftur3WyCvCi9IGy6b5znK78Fof0nYHOJYKaAn6YXKIqFigSQbI_jviNDf14F9swhH_ZRAow3a6CF9dIlrkMFLBS4ow-HgK1kxad_omzv6vAgLIAhvc8rvbqEo4RsfA5sTrCHCMSPO1aIM4XuaCnnhBPOyiCmb0DRtreYrBTKs6RahXeNNx7_GazCG8hwDGJinMavRImnVU3r6VC-SgWM1JyhSmmBuPCn3OsvibPj0AvIZZ0PTsCv8yr8860WxTNx3wV_ITf9O1LAxxrRALJoSVT2pByqWGVW4Nq2LgNneyR9xesMTbDP6CKNyiLWxcUHBLPtvtuhwAZAtIcuOI9cu-zxp0f9yb3Vz1OlmhiACdItsGv1xTYjpqCYIhLS7gRnFirMYQtMqUl33lJIxo6my2l-S2ZLyBxHr9MOCpuDcR0gUMPs-Lh",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103953798914619685448\">Cris J</a>"
+      ],
+      "photo_reference": "ATKogpeIRv8coexFgs-n1v3o7BXDtRkxqzClenRkJSoKtsGuT0SRmijsnx-pjwYikrtcjP6yZXKqR9s8IUecD4P1US2jJjviIF5ksk3Uq9vGB5bc6LpYZ2L_GGw3nhRqVTlPpVkCmzb1W_K9kX96OfI1Ahd0W4-xvhKsKZtbZwseEeg6wmJFef5851ympt-b2I9c3xHJbUi__kspofgmdqogE9dCIzOKB9voG7cfVehR_6cKicrueS9zsw1ICWKAC5JAoaAvyOgNRxqmHyLQ-tmskunkpFEBjdjBY1SnmusZTtw5yOZ38Nt-Bu89LwHypAeoTgWnzi7ZRs0KD7ayYUaVgoyr0-GlCUgEKdVZ6vm90NgHSjzKtGakG71riUrFalGBRKIp453_oKRwBWo5y-tDNb6Vud1Hklw-R8xCCIAYJqCy9p4",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103953798914619685448\">Cris J</a>"
+      ],
+      "photo_reference": "ATKogpfCq5xhc9qthsnosIew2zOKv025WFUjxiRfTGZ3VDVuFYQGiWEBx85PjoYBJQRV4DyHgsLupF3Ef2im_l6EZIrMg2Bg3BPHj-idbdz8zCFP-vCgXC6-7x4-Xgt6mpAu8pH1eGUu_ace2as9TBq2b1e3ibH1uVW00bN2mzWl65MTTo2CImv9Res92Z3fo1rZ7kMS1hwCUjOzv_IasPgCTG5VW4M0_Pxip4iMUoWv1FS-RF4B9RUQHEjjU9yx4eDeLDDxQwQU9DyZ2GSAETh2Sx70YmYWggOUbd-ob2qiNC9GP8_LqSfR-NozDpnXrY7Ie9oUL64elKjlUHHkCCpFs2uNONjmzPyaLHI9urNG7HoQ5Cm3iR1lVTfsWWrK0GZaBXYFCf4qCVWXuoCLy4r26pC8Fu0oC5VfU9aiY20inqdOjDzP",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110993685752064838164\">Winnie TheAgent</a>"
+      ],
+      "photo_reference": "ATKogpdr-wqmBElGrqM9a3ZvXSpbdi-DpxFuxvUOq6hxDG4u_Xwu5vTJR60CDn0rB_eI5iewpz2fKvAKaK38zW4iv6ZU5tAJFjiZZHAmLEk7yAvMpRPXzA6qhiivnDxq8kRqNGxNdAk0XmnukSRe5hjRhiL97V11kSX2NZQc5I8owJkUxtiKzsC-kozsD8FVsUzCgMQA_RrqXjJtzbG2xl2DLUEmbOPTmclqoInCW_kRYm6EwXi87bzxEdIzbw1J6ygWJu1YRXtGavNau6al79NfMaeKav8xRahhILFfFGnsLLrGxWktPf7FGHAT1-qycLxAMVPV43oACTgCdTgeeEeRlPq8W65Z05ZHybLu5HJr6d46ClQ3_HsxcfDvxF88WThyfvwfNzwxXRubWSj-EIC2K5B_H79gwuYtzpaekCEPgF_zMl50c6XRUoMl-TcU-w",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103953798914619685448\">Cris J</a>"
+      ],
+      "photo_reference": "ATKogpduXGuiedsIS7OCbdXbYxLIBIOfcBgNT5b8Fn_bxJcjmVDwXqEgHyT9sVsVFO3Uiw1_yAqREHmfNOSEL4tPUv1At0MRan8i4Iw4t6cihRFBhviVTlr9M8RgbkDptkIMnnElFYsZoONUuyjJqpgkcE3wt7g-eECrn2qDX6g_FRzmRcJUP4aEDiusbLmz99WP5KWLRORd56H1oHbabu2MCkRl55UyL9IVIHtm7SINoHE_0ka3hxHLGyrj5O9RiR7aDlEe2FOskHuYvVYH5aFIh2DfS90JnAYoqqhsV4DbOZyEppTNMuRqno3q2_2Nd-Hm7v_BJyILADffrAhtjDimKFSceYwLNqjqAfq5e8fVU1bbbIJVKs9E-i3sp_5-bhMByuUtandG6ecxYnfEYHnkuPwQKN4QfJKYD8kk9Yp_-tPQX3vg",
+      "width": 3024
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106648976218023369553\">Mark Garcia</a>"
+      ],
+      "photo_reference": "ATKogpcS0TShevPjc4YyJuw-ZiUaYhQati_-IBZG1-nOFcuLMJfYFKmElltOovUmaxTTII61iaBC2Vm9DU7EMvUxtfZitSujo3Xmt1ewNi2n8XL4NxiWR1sUDStN9UOmY2kXWwjCXmjCHN98wZ-i5xLpIXVhLo-ubkkcg4-9RtMbsGereaN8J7I9Qz4qlkbhEFmPKangR1fjRmd1tehlgXEItmhrXAofVIKNXKVcNtTn5xrPQskkJXlKNuSk_QoIX-fDv3XDlZffxo6zGOwMf9kOV1hjoGfmdYZCebasFlthQPTHz7UVYonpYwMs62im2UFyEzUP67GNA9A7vcF4QIWbnyEu1mJujb35RL1iiDPRMMCaTtPKw4Yxu6weKjKR6-OS1NeAVs_xZGVYU203vLdREtAjwuNWMkRTwBFVxy-RKoNWIwdQ",
+      "width": 2240
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103953798914619685448\">Cris J</a>"
+      ],
+      "photo_reference": "ATKogpfSShzWbhSjUGgV6Ju6EjpnC6HSodgVBVpz-VFDCeoHbzWmZ-wzTM9tHXkcCL3AU4K66Sl8lcd0Q0TUdC0Xi_T6gSTAGdrjV9a3k0D2nqWgSZDo_cFalMePqDb7_T2FDzGZDHJyNqC8553Dlkhwa0yhiI38AZhyPhbLuOzNJeCMPVuK98Xn3imEQsJ3-cyogJh75ecKP9TfNWeRC9df4MpGFkrdKftWvbO6kDKMP47I6CTLeHY3_oqXoWijvgEO8asKKzYJi4frPll7YScjEV7IhEONJETxAsARL5m1MoTf6w5FZW1Dmky_HTB1ym14uYHOSCxkqHMSwBhqV50prKHMAvcCgc-Mp1Az5KesCPo5GURg87l1JR56bdfDI5Vbv8eOR-7ln2pORb3aQE6ZTC27jbAK2Mk7VTiANmDT13lR6A",
+      "width": 3024
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101805607535239536429\">Phil S</a>"
+      ],
+      "photo_reference": "ATKogpcsxGSYDa7NE7rjTE6-5TdmTX29aTXddM3Bd7qHZhLTjPOeUZaXvsqhv5skIgZ7QHz9LV1wKNunMjBp7RRbzFwjz9WkHCjCetzVwK7sSMZ2HbidlQr0xHsr4BRraBlsIuSmgDblCYvW36EeifLkemDor-GwJgjRuKbDNKWl7j0RC2KiYE-8Nta20OGSIIBZ-f35FCfViB24WDKvodBMc1WCJnxV7ueqvqfWAB-gUiHUvYHPff2eS3r4dsXXJkvAj3VnaRxunQY-_HII1g-E5mA9iA7wPrmpftIvinUWGF2dtmuZSJ3RuRr6uBzMi8RVqugUIxAinh7yQjIXYrKHRJmvszXPTR-0-9ZBjr2jDPMoCYLhCDvSnmwI8FyTs1LSLIG0xmV49RHOKgVaP0uuJ-66W2T2v5tgH4E7cIpL5S0",
+      "width": 4080
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107703600735876407559\">Pan Ruby</a>"
+      ],
+      "photo_reference": "ATKogpdlxy8-I0KeRy6194gPYToUL3TtHkVWFiMnvsBvXJZMMHXaW01uTaHG16TArCN4Wpk-Z_WPWBLnLEjbpR4upBTOFOeHhziym73OadTIOTllJDPbzK5xM8xBTgFaDW5J8wCtAvnI76bRoqBQcD7bLWnO0uX_DKVOGW6X7neYijc68-3VUJXn_gtf9jkjFPI92n9HMC2JUzAbjKkqt-qA8uoHCNliOIGPkPoyU3owMfRno_wNeakhLEHZEOC7bPqUxZzKHviUWK78v07nBVQ8YdiZ0xDVRzPbOHIyrhB6HF-2LhV8gGQX-seYBFP4J6n8GuXrGgjFJuQTjUxkq7Elk7REOiTlikB_7ZjJp-MiCh7lM-SnEa1LJLVzlhskpz0lzSPget9Cs__hzALrw_57_s3ELplyEj-zDRuVWrj1H1pGBFE",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJz3rpERJgwokRsX811uqBsrc",
+  "plus_code": {
+    "compound_code": "Q54C+R8 Flushing, Queens, NY, USA",
+    "global_code": "87G8Q54C+R8"
+  },
+  "price_level": 1,
+  "rating": 3.9,
+  "reference": "ChIJz3rpERJgwokRsX811uqBsrc",
+  "reviews": [
+    {
+      "author_name": "Winnie TheAgent",
+      "author_url": "https://www.google.com/maps/contrib/110993685752064838164/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLmrtwBQQWVb3sC6w3KPI4bEpKzsZ2aNCqso0oioETnqKMZCQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "in the last week",
+      "text": "Cheap delicious fast Chinese food in flushing with table and chairs, Rice Noodle with Peanut Butter Sauce for $3.5",
+      "time": 1750626159,
+      "translated": false
+    },
+    {
+      "author_name": "Cris J",
+      "author_url": "https://www.google.com/maps/contrib/103953798914619685448/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1Kh_cDqVlghARhMfo-7OFcdjjfo_4nvGPU4ZV6NRhuHwmD_oKsA=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "great prices, good food. very local hole in the wall spot. items comprise of mostly noodles with intestines/offal, homemade fuzhou fish balls, and veggies.\n\nprices are super darn great. no tax needed. there is siracha and soy sauce/vinegar stuff in the handoff section if you need just a little extra thing.\n\nive come here a couple of times now and enjoy the food as this reminds me of what my parents made me when i was young!\n\ngreat portions, pricing and must try if you want some non oily soothing stuff!",
+      "time": 1650978787,
+      "translated": false
+    },
+    {
+      "author_name": "Robert Mors",
+      "author_url": "https://www.google.com/maps/contrib/100997811811527505128/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU4U26VsyZmx0q_noMmRzXMVZmlZYJ0XMEeQrwNA7HgUJC3-kvb1w=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 1,
+      "relative_time_description": "2 years ago",
+      "text": "This place needs to be visited by NYC Health Department. My friend dragged me there. But didn't eat anything. Eating \u2070stomach[ tripe] and animal intestines, they are full of vitamins however, it is a recipe for stomach problems.. Why? Even if they are fully cooked,  they produce HPilory in the stomach. The body is forced to produce extra acids  The food is exposed to a very uncleaned environment.",
+      "time": 1680011364,
+      "translated": false
+    },
+    {
+      "author_name": "ivana lee",
+      "author_url": "https://www.google.com/maps/contrib/116168590386593159057/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocImy_0CjFjTT70jVBmaRiKrz6j2OA4pIOF9t6NjbQaSKSQF0A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "this place is great with good food portions and much more i got the peanut butter noodles and some fish balls the soup is super good definitely come here when you can",
+      "time": 1660240190,
+      "translated": false
+    },
+    {
+      "author_name": "Adam Zheng",
+      "author_url": "https://www.google.com/maps/contrib/101343285165809098493/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVlYcgF5ADrRjA84Koooyje9982hUnhWsdY9wKozlcYH31-c4k=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Comfort food served by kind people",
+      "time": 1707441580,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_lunch": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "restaurant",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13236785100411469745",
+  "user_ratings_total": 20,
+  "utc_offset": -240,
+  "vicinity": "41-40 Main St, Flushing"
+}

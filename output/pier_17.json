@@ -1,0 +1,436 @@
+{
+  "address_components": [
+    {
+      "long_name": "89",
+      "short_name": "89",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "South Street",
+      "short_name": "South St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10038",
+      "short_name": "10038",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">89 South St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10038</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "formatted_address": "89 South St, New York, NY 10038, USA",
+  "formatted_phone_number": "(212) 732-8257",
+  "geometry": {
+    "location": {
+      "lat": 40.705573,
+      "lng": -74.00145669999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.70710338029149,
+        "lng": -74.00039841970849
+      },
+      "southwest": {
+        "lat": 40.70440541970849,
+        "lng": -74.0030963802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+  "icon_background_color": "#7B9EB0",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+  "international_phone_number": "+1 212-732-8257",
+  "name": "Pier 17",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1575,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110644808048080808242\">Pier 17</a>"
+      ],
+      "photo_reference": "ATKogpfakYU3UJbo8QvJozBCJT48hqWuvTZXO_NRlcLaSWxu79vBmNPC6w0PH9lSkT47ZG6m1MSy95e7dsZdpw2vDyowd20QrhfsxfEagQ8boFk2LM4ZLpsEf3cUU6dpGs7uUw2QGan_MIE5U3wf8wLJGZ2InXx9R_z2A1hn6c9wLBC6evSdDkxoYdlJFzFlq0trA8mpsE3qNdIL_3HttAfSZT2KLErhLZR8GXY7DWvK0At1K_EQR9ORxvg6Se2DSOzLIe_EUNoFhrH9JYUcAahFZrkkyDk5dckBuynI4hNKxmujeg",
+      "width": 2801
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102805297835617828311\">Mario Adamo</a>"
+      ],
+      "photo_reference": "ATKogpcm3o4jrsOO6gaAP5c87bM4PDdbcWcoinYmKZtJ9icq6sqc_kM4cnAnSHf0ruxt2GtfNf_sQnJEuNQ7rplByqb1AjLl2gUW7knIMNnTvDV0P4Kp1c8-ZwwwnkohJ7LAluDlR8WUrZALjTNJvDpRZdJj-bKke0UuxpxSXMEtwa7u5j9qzIkHHnYFRi8ScfkrQ33KCm8Iv9xSwJdMJl9euTX9z8h8Qfy2SiNjvSBdpZYlUvfSjl-vZ0aC4qE81nxpFfVZ0CA-ItzjQi4jKcE8z_OP9U8MZfXNrLdW2iqsThyN-0g63dDsrLJkuovhzbiydYoj8rFdUtqLxCDT5gNnhr30IGlqjK2MzBS3oKks59MN_8uNm6Vk6cVU9sOzi4oUlCW-5dCJMolK2OaizXwAMqd7RCym81p0nlpVj_2pmQdYZCs",
+      "width": 4800
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115767123126429480434\">Mir \u201cMiirkat\u201d Khan</a>"
+      ],
+      "photo_reference": "ATKogpcvJ5euVAJCwawj0qy-SNXZjqhdOhKLpPdbDvLkJnhz2JNYv-ly9-wGYwbmiHEc6NNllzK1qoJJLgrYUNBcpN4r--hAt1JTxIYL3yyhb5TFp2sjJuDBBJjdNzhnsqNwZx-dgtY3y6170psrTziY9dWhikm0Gt7rNPULC-H2QWVSIKJWm7p441VvvWg87kKyJCbh41mmuf8V48fzfAaC2gO6Llo2Y8qRHiBsFhnaxkzRHNKvw_g4SKcOd-3S9em5qCroHMgF_A54nY5TQd0LPv3Ow8KN8DOF1Nd0bIMAHo1Rio3lIjkJOlaUfFocLs8-KWEQSxhl2rVRAuWoWebbcG5VfBsEffDRGq7TI0BE0jETcaNFdJeoVj-UrogaOZSbrAxlSlKFguAxHWoRA_CRMvCWjnjlIiHnFUjutsjDxdOqNZtf",
+      "width": 4800
+    },
+    {
+      "height": 2508,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108271971730826129967\">Eric H</a>"
+      ],
+      "photo_reference": "ATKogpdjZqEtuD6ol9GQDM0g8BS7HXGs2Du7XYrOelRMwu_3qS0pL0lVES2UnxyDmE5w7GuqsEk4_UCp03r_Yb381ZBFJAlBYRaCs573L2HWwmG6kPtrMJGBPfom0JO54vflEb-89UHqKZ_XvSvLLt6RI-AD85ZC7qWZXjk1O_6CQgWlPc3DZSfUdmJ481-KOlGjsyA7tuN2yiGR7ka2XmrD91p1b_5vocKoy654Cb8583ZZIlskWzIu_-T8Iwyn-2qL6SC-h7dWmFdgoX4zW8kd6nwdFkApEEP3lZatS-MmqsYTCP-f5JvmVXI4yayB7gubZasD7yNRGrgCw9JrgiDXIEycsOuE_ekXinl7H44oQzgMczFV-L1aegdzCJ11jZW4PT6nTRUZoJI4W4S4lrd7fb2aRykl-Gisu4zSyTEqrqAOSk1yIrz2BnRHq95tltMe",
+      "width": 3779
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107552401532472305047\">cancanqueen</a>"
+      ],
+      "photo_reference": "ATKogpegyF2i6p3BX2XC6lcU-PqU6g6dVhDbfb-3SqErskEAX9vGwD4aY3LUDGtQJRwRbSb7y_mN7_U_6g8SKMjxwmL9RcLddfs1pBq2HFkuqHo4-rwMvnieaESWu_ga4f6EX4QWdULBUYzJAHXbVs2sQWjyqc1HoiQWKT5fRlOnnNaO13NaamhPaXFCkHnf2unUYaig2I22Xm2ymsgle1AOVmd-O8mBS5okh24bAUIPqgAYjGqNmwQBRS4o5zvYq5fTjvaNKFkiL6OCsWQ_ZJn2TOhr1pftx0On8VoSdNZDodYNRezRIcSLGv17Q-g_1xTkHQK8X8IHyY1A1-ZiTVriN2Uk6nPzXHqUGbkPP2Arl0ySvZ6P4zOmKjpQsSlIAIPhCmIhVXQ-mkhfN5X7IZp_WDhZBRGklY-ejAwscZlAvMLW2Q",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113960792418846423447\">Amita Gandhi</a>"
+      ],
+      "photo_reference": "ATKogpdkU_hD-teusPIwKdLXaUqBHyB1M10TeUDiMw6w4z2uPH_689G-dQbX0BLkO7gnEEH92osjREIVCG7jTN2EdWNYL_C5_Kdn7iODCxikAkVwyKLR7Err1NQeOwmI1bLZ--iMyuFbMZzsks5KVfzstHaq4T8_L5K52B0Igbwd9H-BDXqiwPt_dDZxBO-jdZrAfjLgaqNkMN-l60Gj7yZEyMMK64DiejQ_3AdkVAGWZcRtxt8kmcgOqyPc_NnZqRyye4wAdis3ui_BpFeFXjOhj6W9BUclY_ia0UP6wn1tuXnVqpDL263B-qqIqq6v5SmVNPyOLO4ba4nr0x98U8E0XYSto2xeOl5rIcRMo1MTv5edBDZwx1faTqavrpLumOTdnGEb8V83p3fwrqhmsofHaS2a6LHhW1aL4cot8ymwDPuaBA",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115697963535175629263\">Garret Lepaw</a>"
+      ],
+      "photo_reference": "ATKogpdRBRLCDZ4mBUbDeeOEg1qzGlFbSSya4mFSvdOeMDL_SZvjOtXWxhmFtSAhi63w8P33cVgH2zYj4gw8v6q8LbTjKpkxj5C_-1DKjf_JsYlwemtrGoyYQg_4qpyI8_oCr3HXqt8azvqdigwX0xxyExyPmBOO80OSuNMd5CnKYCwLk8AsRVf7aOB3kwBIu7lUU8PPv4brUG0CmgOWI5pb8I_FeEjbSvudxL03pxi4lLNW3fKKbsngL48jc4dQBDjZNaV2b4XeFPSgXVaHbsoxrxRW6LoqkHKhI2ECfL8L64b3YnTg-GjBOea9BCZhL1nP850O1renzeenmDYVzMBMqikSKA94UuX_st9tVlFqtW6_K_XIYS0v7ZHUgyPUVZkpyZOhq0OXgS4i94F3KNFfvNwJC9PfTZtmeaNTnjgXLXCYDpw",
+      "width": 3024
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104046621033082344552\">Ian Chesnut</a>"
+      ],
+      "photo_reference": "ATKogpcs1ahYXViPddwIUAa5V8FZ264D5ZAVLg9kxqj_Rxb8mmnftfpm65NoeXncFpyGiHJthxBHjK7PxmmUpKr2WtHM4jD5IEEIy7FJDLCLLO4u9J7rbJvBQV01-ZBUITmf9pdNniYdIQpGDdlSPMnn-9w65nTgprv6PrLUVEv_dT_W3TkllBDpm5LIiPqhB6pecj4sxgQdAwoUcQUnojwPSLt5HJrRBRZJTwRn9wxo1jWtuZwcr6Va8oJEDR9D4YQQgBLWPe2pyKqKo8vL3J_NEgcDMVBQcg_SAU4sFnUhiKykQM-TcSN_oFseZgdjJ1vACESuhw31HhqND_7kivREIH-TJ9coj-f_LIbZ1kV1tdM3wMU8moWIEr90ExeTwbmp9GVpuuthgCp8e_UPOtLTiEmPPdmSt5Jk-xRpYytETQXOM2BK",
+      "width": 3000
+    },
+    {
+      "height": 4096,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113285812492214897800\">Loque Sea</a>"
+      ],
+      "photo_reference": "ATKogpco7iMAAj8piBL7a6Tcp4utAXelAzpuFqh4V0VWt3SzjuOHxzaNbNppO3Cs7i9M5MLtzuPSMY-sbBI4DdyZTs_BApU3hJJX6l28PHnfOHJQxj0Xp-RXmVryUj9EDhkwfaLrsuNEJceXqLT3xwTVPfS3-fDbMBT7gq720IY9R8fE1AzYya_G04XSQxLS8-Gh-F-uiuHg8Cj1a_2kl1f-pkfLye046OIC7jSL3CrkDGjQYHtUON1ZPvCfeEFlViYlIWS67yefyqEvt6pWQ3cwM7m9P2M0FUMVutEzSX0LfJ5reNzNrSigQDpsJevJLlN1sa6m1BHdyb_TU13tdDpJbbFoKh_sIPRhzOq7IrnHjjAjH2T64jigRRpUFRzMNxUND7GQQCzesZCFQVnFH_OhVqzBZCRd_3WOjmTuCA-eRxKijA",
+      "width": 2304
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118173612414396904048\">Tammie M Smith</a>"
+      ],
+      "photo_reference": "ATKogpdXAWgmMyFb37wwmNBeQwPB6k9xZlfAba9GFGWll9zcNU6qNDZNHjnAp15lv89sISdNLMja1I_LxL1F4Gs3XZuenW1uJ8Y98Oe0wB22y8lPE1eWzLxqlzT1aNX6-5ryvs3D3GsnGBxhMfT9mDxi7RyApWWzdJPsij66afCGNxa8ZdAwmS8VO9nIyfN-Zof4zuneLSZwXTVFgd6Hd9c1Tienz0jTtLqxQVKaPdf_sHdoJlOQPVFoK0K3cI308tlCgieXPnBRux3D4ZxnQ13MBlIIIaG-mfGXTPkuq6ZFHOlq6UOKb0_YHSXDesNwdzYFUDwQaQBATXz6LZfRZTo4myutmHMJqcrtbi-Oyjs6rvAX3ZqJp2ZXEpoVDyn6MJKtTw1jKudtD6HFMfQCKjRs00PPy8tTFNJfC7u_rhRfig8LpQ",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJR1pTRTxawokRyzoX5XQ_alI",
+  "plus_code": {
+    "compound_code": "PX4X+6C New York, NY, USA",
+    "global_code": "87G7PX4X+6C"
+  },
+  "rating": 4.7,
+  "reference": "ChIJR1pTRTxawokRyzoX5XQ_alI",
+  "reviews": [
+    {
+      "author_name": "SUBHAS SUTRADHAR",
+      "author_url": "https://www.google.com/maps/contrib/111031369481108561173/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0KxiAg1It-1mvOsPwn8OPIxPYS3jKIKPLDKQ3p2o0oiLpY99kug=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Pier17 is really a great place for a little tour and exploring city & east river views. Also has welcoming deck where we can sit and relax. Absolutely stunning view at afternoon especially Brooklyn Bridge side.",
+      "time": 1750513971,
+      "translated": false
+    },
+    {
+      "author_name": "Huey T.",
+      "author_url": "https://www.google.com/maps/contrib/114589479073461679775/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV24A1vXcyxU2fJozuRa1OehPR94ZdKWY3V11zztlH9m_b3465frA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Haven't been here since it reopened. The mall is gone, and now the place looks more upscale. During the day some streets look charming, at night it brings out a different atmosphere. Under the FDR, The street food smells great. Still lots of updates going on...  lots of potential.",
+      "time": 1750029525,
+      "translated": false
+    },
+    {
+      "author_name": "Robson Carvalho",
+      "author_url": "https://www.google.com/maps/contrib/115063778666411826206/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCrV1MXSuUrzSDJlhemaQqLFkTOe1UWnQUnMqcdwsLy4xHvOXf_A=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Pier 17 in NYC is definitely one of those spots that surprises you with how versatile and scenic it is. The view from the rooftop is incredible, especially at sunset with the Brooklyn Bridge and East River in the background\u2014it\u2019s the kind of place that feels like a hidden gem even though it\u2019s in plain sight. There are great food options, seasonal events, and often live music or pop-ups that make the experience even more memorable. It\u2019s a perfect stop if you\u2019re walking through the South Street Seaport area or just looking for a nice urban spot to relax. Worth visiting, especially if you enjoy places that mix city energy with beautiful views.",
+      "time": 1745376135,
+      "translated": false
+    },
+    {
+      "author_name": "Erik Z",
+      "author_url": "https://www.google.com/maps/contrib/100921057140847570991/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVl9-sy2dDCsNxrbmX0_rsrMUVU6eHZX3aVqh2QZWWHidI_8Ltq=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Great place for scenic views. Especially during weekdays. On weekends it can get pretty crowded. There are also a bunch of nice shops where you can get stuff to eat.",
+      "time": 1746031546,
+      "translated": false
+    },
+    {
+      "author_name": "tiffany hayward",
+      "author_url": "https://www.google.com/maps/contrib/100151887630973502671/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIui4-fRpUrBTcBTQiXtMwYSvXYOQ1CJ-cHeRGvPSP35Rpdi8b=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "3 months ago",
+      "text": "The views are very nice and the walk along the water but not much to do at the pier itself. Not many stores, restaurant's or shopping. There is nice outdoor seating to sit and relax.",
+      "time": 1741385132,
+      "translated": false
+    }
+  ],
+  "types": [
+    "establishment",
+    "food",
+    "restaurant",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=5938628829933681355",
+  "user_ratings_total": 11367,
+  "utc_offset": -240,
+  "vicinity": "89 South St, New York",
+  "website": "https://rooftopatpier17.com/",
+  "wheelchair_accessible_entrance": true
+}

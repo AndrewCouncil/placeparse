@@ -1,0 +1,421 @@
+{
+  "address_components": [
+    {
+      "long_name": "37-12",
+      "short_name": "37-12",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Main Street",
+      "short_name": "Main St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Flushing",
+      "short_name": "Flushing",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11354",
+      "short_name": "11354",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">37-12 Main St</span>, <span class=\"locality\">Flushing</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11354</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Tuesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Wednesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Thursday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Friday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Saturday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sunday: Closed"
+    ]
+  },
+  "dine_in": true,
+  "formatted_address": "37-12 Main St, Flushing, NY 11354, USA",
+  "formatted_phone_number": "(917) 609-5898",
+  "geometry": {
+    "location": {
+      "lat": 40.7611072,
+      "lng": -73.8310692
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7624902302915,
+        "lng": -73.82965156970849
+      },
+      "southwest": {
+        "lat": 40.7597922697085,
+        "lng": -73.83234953029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 917-609-5898",
+  "name": "Eight Jane",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "1700"
+        },
+        "open": {
+          "day": 1,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1700"
+        },
+        "open": {
+          "day": 2,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1700"
+        },
+        "open": {
+          "day": 3,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1700"
+        },
+        "open": {
+          "day": 4,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1700"
+        },
+        "open": {
+          "day": 5,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1700"
+        },
+        "open": {
+          "day": 6,
+          "time": "0700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Tuesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Wednesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Thursday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Friday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Saturday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sunday: Closed"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117705513754883528486\">Hiroshi Kosaka</a>"
+      ],
+      "photo_reference": "ATKogpdnUT1fm5DNZ2f5S3jcVJ9knVRNHUT124pGCvIepk5tEXrvEq_ZfF6tdywCdzBLR5Z5L1dxVAZF9VoDlKqKGDpeoZU_ruKiNnvfmxYj2YlTuhqvoFmw6KHido2KZAll8u1tpIkA0I4cxBcctl1y0G7zkX-1Dv3-q2Yb9rAzNBpyZhnua6WM-veSq6eVf1INNxd8rKw43HdNB99tLGXeZ1Cxs17IyqGL01q0ngMFYlOS2G3hqcTn2xjsZLjq5eaSLsoSiY-Ebmv3HDFWze1RC0bUgXFsQj-TCl4AGs8qz378z7rNeNSD30oOsdVSp1gxWoeM8hYOh2J1Yvin_K7SXdpzSRmqwSk7-v8r96VRKKw-Fmh9H4q3cMJdxk0doU4sUhJ2zJiMDesy1ZHDIXb-8tFb2E3ZTWeQKB4z9jvJJd_rG4otfw5q6_PbcsxLmhIC",
+      "width": 4032
+    },
+    {
+      "height": 3305,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107079567977748648027\">Mari B</a>"
+      ],
+      "photo_reference": "ATKogpcDkPDFB_iRoipE2luvJP7yj8K6A8kzbdL3Un4nr2hiW4IjJXm8UblPM7mr2ZWqSuvhymDudGtl8aPuomcZCZ-v3knZLs33Zl-vDr_ud7Sckp_682tE7zwYAO_SFtsyC9JnUZ6Uht4Tf2-0jzA8Hwq2kGHxBLX7y7G-qE2eHh2WhUb9hoDzxIhloywrMS0H4ln424FH39BUPVgHbAiPKhjWlKN3JhuzHTHG2fvhg8JShSG7b7fXTlAhqI_BanC9eXB-OTpfPdBxXbKpBWGrlYuIMmbJrHwu7zdns-qdWE8biuGPOye_bNXL9XxUDTXCa9P-t3IjmN-YmNXjNX61bcN8FWyCEHuCkzqYntcrHj_m0ZjmtMbkYX-4pgbUSjRLTVACbo_ch5eQYNGGDDEAQtYeGC2441v9rwWEJkQSUaMAhw",
+      "width": 3023
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100024205216303010570\">Jimmy Ho</a>"
+      ],
+      "photo_reference": "ATKogpdoCQ4vxqYZu6oInJ6ewhITdqmlIM7sOTxnbdAiqO88WeVLLCD1eV5n5CY5Oj4DQZiG3MWOvQsu8WM1BwI-carn3NTcwdNPaCvrwDzD49xuLI67A-zPmSvC7i8ZGiRz3_ntPkTsqL4kr6iH9FYBgm6Edv1ylZhND7nfX3Y5dhQARksm01tS5eIvAehyfmiC7f_TT5BIsgzhqAgW3qB053xA4DHhYGl_dDPmk5Oqh2rG4XMvFs0vVkKmnMx6o2-N-XEWsxmKaUmx__AiTkCJU4Fro5ZSGADumjcpRjyPGUsF3HgbJxJyquIq1M0x0zqIzOgPGC2_IiDJvKOkGdPCSkhj8MQ9TzKDhXcKpMOTotAGw4ooGNIeT1qDYveUtepbfb1DtJuw1z0THbIco12cB7NmCaJLubmSoDd0hjSW5B1U1A",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109957387856384894785\">Liu Lisa</a>"
+      ],
+      "photo_reference": "ATKogpdDXMgwdBEV2f9p9IrUyFmEmcRgWwdACLfyq7YJ_Ym38b9i4Y0AdDYHPCBeEQ7ysfD4syckWJN6Odt4Ha4EqotDx3_OLBIyAHkRkZNB4CKSwmuAttWFUG7uFv470fr05QcdGF8ADBFwtz8F5Inlx4pjNCd8PPDN-DxueNvVRYa0t4R-zr0IFIT3OVGOhuBhUCjy1cEniAKm9mjiiTcsAewvN0DNOcvHT41lnPy2hdEE60VCTCYvf55Gm9kwtlmHUFEn_QVLP462qFbKx9xk0bEf54uS1eaHU4WzQ16fC2ijb5AD_Ow_JQrGYrMzzlTgaMP5ilPXWvd7Ad25EBMg11B1oIXpsRwwcti7IxALNOjY0ipOId0mvHXy_pytFRxenupfpmFfrG6DZsNaWIKNNppvA84oZ-IEGBbzW89cwLK41Q",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105051298909424044075\">Tommy Chen</a>"
+      ],
+      "photo_reference": "ATKogpcGYRkjJRZZQ962FS1n-BqM41sGv7SuD2iO60UpMjvwtQdNaEq_Jrjhn_I2YyrufRRAdrVJPif8XJwq6aYOiD3H61UN7lypIEjc8JFm8m8RHdvDeK6011QsKQOkOezH_zYStlqowg_rgkBIJbCGroB9eQOB-X6Za6UUJeoNGfTMP3xHGQ0kdI8tEaWPDCFUihNiUZJaE8_D5tznLbSIpj9TwG3O6EJwGnMoMp6LCuyN1m9PFLB34OSidD6wytMMGZB8EjUi37HfKQHkKR6ZiI7WSBCzikxn5dxqmsj-xff1pcCy8im5iDWKcG1Fe9C_TIZhNWgdC-qmNzKm_aIHy8r0inhQ6J5WKobLNQ9c8vZaumiI1bL8a5EOwOLQibP3MRrr-C6pCD2OGLs1Vg7y8Pr9NDp4FZCZzmBTxOWA2fl2Cnvb",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105536264176843152351\">Johnny Cortez</a>"
+      ],
+      "photo_reference": "ATKogpdiIyFl5IPW_itvavI_5vWyETW07XhVOaoHBF92R0eSnR6qbQgMPQt8bgITYxhD5NSSDlb1ZfnLNizQxh362lIwVDsnJGk12vQnAPbPQM2eCr22CUABWuoab44GUgqrIgcpCg6jA9l4Yk7RMifOfnYfdLK081-c3YtjmAQPAvOzN6H0vGyBOQJmacUnSC03Qa27mF4KV0zGh0Y-NUKxPX1nH-XwWIe9CxjT7UwpGBNJrqD0DgsRMOTolVUVYYccam_XL71WefBnWAFxbohYv6qHDf5Wr8OyNRND-yZM4RlsYLt-nqfdb7Sz71rQUzaoArFjmhY-px-sxlfpLoCd5Xax6Vljv7k_KuwysjM4vWn9iukOXSa1rg40h5j9D_AEhcxzLhbn_yaG8klR0ni5MgPLyZTWWHjXFpPTEFmpjRg",
+      "width": 3024
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105839777515636580937\">Si Chen</a>"
+      ],
+      "photo_reference": "ATKogpdT3w6dH_KPu8g7V3skTEbtvon78LD-L5AFdZIN5i16dQZJyjJzhrQRO9kK2tWSul5tln2qVgi1T8Yp7uR8nqmdjHMYy-2gMoTCY5kCfeh9f5Rk7mYQ172mfaRjbZC7B5ge2vfAetWTa781kbMC0ykZePfZtb8YsFxJd0Cn8hJyUZeVTXZG5rVeeQConbzjeQ5BijNcjXkYcGE6CGeCgNg0hc1OFiwhOlF9go-gfgEjmbsbb4N6VdLLqs7nmFkzEiEVstcHva7YKbAieVudWuA4IN3VP_Y4FM9Gm0I09Piu6C6P7Uid1jfiCvAOSkwGpRMR4zMcAclSKK6NfjP3sT4CoiCoCosVP6rpBkfTf5N4TTIPgOJpikhzXiLpuIgdIXJSkr3UPpnI9XV7vKCl2YWcZ9x9oKORKe3eRqMOTE1Ktgw",
+      "width": 3072
+    },
+    {
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118409196171602771109\">S G</a>"
+      ],
+      "photo_reference": "ATKogpdfOgy7B8q9RoGrwRZz8cnwxmcN99s9eTWJrvYyQndQc7hBt329HMbOz4DVvfzW3IrztHidFKibep6tmHTMgImcMR3aBA2q6mOvujZcm7GHnpHbYK2PhCMT6mcU7ErPWJMYcNnqPWs4hezapc68ghnq5zE979vVqbHSoyTt-Jod-wPCraXPE39tTBwxPflBgZu5sZzylxrrD9kLddW1TchGyIbtQVXaw0Tj1jj52W4G-R_WW4s867R2LFWlktb0tjKzCCCWBAFhySfmmGVosg7Je4At8QBQ4sle31LUGSIclMwP0Yc33pr25hlXX1EX8QhgA0Rm_pMrv3w0b1nv-mhRKhA4Nwl5yPkptoZIdcmRwfT0-rST_cH7fE8bOloKlfeMN02YtwlQsFiJC5rbVRkg2je8Mx9Ug1TYrWJNODh4CeEt",
+      "width": 1616
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113218979648805663966\">Beejay-Grace J</a>"
+      ],
+      "photo_reference": "ATKogpcfoobuym06TBN_JlrMn6skBp1_FG4GM3E4LpBjkKVaDfhIIXp5iobAO9agpLupXVGAONLIo5C8i1GWh82NVehfLYjPGCcmUrhExjNICjsO3c3fvF04K7mnZr028K11JchR9y3JwTM4BoGziSuJCImeZyfceUgXJC8dM_kc84fSRrvQThQp8oSgs5fJjsX9H00ZKx8JMZyJvyMnUEwUW8VsvKeIURrSNcp0zSDPCxxU-JwKeS6nBO6tZKKz1cz6VJySs9O3JyscQZxSRviuU1cpTUkxjo5yKxaptj7b11emJLAQoJY6OZq5euulg-xOD9swj3a-F2fIn9ECQcglNVYGCqmfq922ebB7G_2kpPWBeK-vkgnQkQD4iK6maDBG4dBYpTTnI4Z-R9WJ-e1eZLcTzFm8Pdr0SEnl2pYuxwCbCw",
+      "width": 3000
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109193964979697265133\">Jarvis Chen</a>"
+      ],
+      "photo_reference": "ATKogpcEdUQhfVZV3Fxo4qbuxL9UX2xbwXKg-OO02xsGem0ZS5WleM0J9fhPmBzC_4l3600qyNwMqUxG2ZhWiaxOQXaBg_5DrQ8KftXE0sVP3T9VIkP5Q0UAzc5Idj4JtjpJCZ0x3wSarQgowU-VDPlLMZfYjjbTf5BJXwWcWL24F0JaZCEE_wgY5fGz8hbDPiTq33TLPgfLhipT99ia5pcirZpo_bq0_7JlzI8xhMog0sgaKrCIc8IxmgmoWE-Ebc5P0lG2eb9vgce990C07wfeT-bRBw2Acrw2mH-BTc3PxapTg_nXtABjpxKiO4eOxMzPf6hE3owyJfCIMBe0D-DEjyHpaq5a-J_W0QJLC0zOZSfeUCyLBu4r5_BQlRr4hsdR4cYCijWssskKzt8iVsXdOxjm4dvLNtdxG48iP3a2YxTnlfyh",
+      "width": 4800
+    }
+  ],
+  "place_id": "ChIJMY6fzw9gwokRX7-iYzxPwEI",
+  "plus_code": {
+    "compound_code": "Q569+CH Flushing, Queens, NY, USA",
+    "global_code": "87G8Q569+CH"
+  },
+  "price_level": 1,
+  "rating": 4.5,
+  "reference": "ChIJMY6fzw9gwokRX7-iYzxPwEI",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Krystal Liu",
+      "author_url": "https://www.google.com/maps/contrib/116244520038688184480/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWkbis26c5CSe4DAhHAcWSONOrmdcW4oIK41VP2uM1ZscAvx_J_=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "This hole in a wall Chinese breakfast place is pure amazing! The jianbing is very good and authentic enough and fulfilling. And it only costs 5 bucks!! For only 5 bucks what can go wrong? Also ordered the \u8089\u71d5 soup which is also pretty good. Will definitely come back here for breakfast all the time if I\u2019m in the flushing area!",
+      "time": 1747720231,
+      "translated": false
+    },
+    {
+      "author_name": "Tommy Chen",
+      "author_url": "https://www.google.com/maps/contrib/105051298909424044075/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVDBMBPZw1pC1SAWg_bHhpBVNY4yzGYe3aZqReBy3gef6J8gu5Wfw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "I think this place is a little over hyped. It\u2019s a small hole in the wall and the Jing bang is good but not the best like everyone is boasting. The base is made well and the crispy adds great texture but the sauce / toppings are not evenly distributed leaving some bites very bland. The staff is really friend and it\u2019s cash only. At $6 it\u2019s a very affordable and filling meal.",
+      "time": 1743557255,
+      "translated": false
+    },
+    {
+      "author_name": "Johnny Cortez",
+      "author_url": "https://www.google.com/maps/contrib/105536264176843152351/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXt_hQND7V42cvip2pSD2b0E4VF-U5XkaRv-DodLvp2IUfhm6g=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "It\u2019s a must try for something different. No frills place. I ordered the savory crepe (jianbing) and it was delightful and budget friendly. Their staff was nice. It may look intimidating with their menu only printed in Chinese but definitely worth going out of your comfort zone to try. Will be a return customer",
+      "time": 1744372069,
+      "translated": false
+    },
+    {
+      "author_name": "Ira Echavez",
+      "author_url": "https://www.google.com/maps/contrib/117255057646366920111/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVSPo2PCOmB0EXpYP5KtydAYRuP-nnaiSHTaaP5aJn0mKNzGmPi=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Highly recommend the jianbing! It\u2019s fresh, flavorful, and super satisfying. Just a heads up \u2014 make sure to bring cash, but they also accept Zelle if you forget.",
+      "time": 1742666192,
+      "translated": false
+    },
+    {
+      "author_name": "SK",
+      "author_url": "https://www.google.com/maps/contrib/110378419625094350425/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWu_B2iYAXnX_fXwoFlmv6x_laAjfkh1MLvBEo1hC3b1nXW9ASD=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "4 months ago",
+      "text": "I used to grab jianbing here every morning during HS & college; affordable light breakfast but still filling. Currently visiting from out of state and the auntie is just as wonderful as ever. $6 during this egg shortage is really nice.\n\nOnly thing is the flavor is now very lacking... not sure where the seasoning went.",
+      "time": 1740783413,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_breakfast": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "food",
+    "restaurant",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4809931522819931999",
+  "user_ratings_total": 241,
+  "utc_offset": -240,
+  "vicinity": "37-12 Main St, Flushing"
+}

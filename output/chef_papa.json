@@ -1,0 +1,430 @@
+{
+  "address_components": [
+    {
+      "long_name": "42-05",
+      "short_name": "42-05",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "162nd Street",
+      "short_name": "162nd St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Flushing",
+      "short_name": "Flushing",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11358",
+      "short_name": "11358",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "4126",
+      "short_name": "4126",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">42-05 162nd St</span>, <span class=\"locality\">Flushing</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11358-4126</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "42-05 162nd St, Flushing, NY 11358, USA",
+  "formatted_phone_number": "(917) 688-3968",
+  "geometry": {
+    "location": {
+      "lat": 40.7599803,
+      "lng": -73.8038972
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7613279802915,
+        "lng": -73.8026209197085
+      },
+      "southwest": {
+        "lat": 40.75863001970851,
+        "lng": -73.80531888029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 917-688-3968",
+  "name": "Chef Papa Vietnamese Kitchen",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2130"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2130"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2130"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117641549833747907792\">Chef Papa Vietnamese Kitchen Flushing</a>"
+      ],
+      "photo_reference": "ATKogpcUHEU9Bf5bsbkeS-KA9fLRGOrOaF_dhaA1FK0XPLOkapos5pBS2n7DtAEAQBaCSwITSQIHkAsM2lfNwA3N1Cq4y44l9gEv5KQCe5qV1RdUVrOcyIP_CWYNy31AXadVdjlWvujGtgwsuSvN-ahnPnYg-JF3GuK2RCzFBZqD9P1OVnW3JBANHu9mSklKgKPtT46q6t3OC1wZqSvZu4MPST4VFbyyDNpurSKggEBfAfJRblxTwl10Fw-ffEPoI6KJVdG8FhN0bPaDHA9j1JkFFGamL1_VSB3imXk1AxV27JJjng",
+      "width": 3024
+    },
+    {
+      "height": 580,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117641549833747907792\">Chef Papa Vietnamese Kitchen Flushing</a>"
+      ],
+      "photo_reference": "ATKogpdb8BPzuEpKUcPCOpxsKMHW9JdOzzF4fTGGx3CcG4kIahL6698QioO6Y1xPfYyi5JkrIG-l0PnCFZvTqzY86RoNsOgqEuXDlk16Q0mu4Z5xrYegTxjcV1qnfIyGIA-CibyoEf4-m7FOJqU5pKAJsN5RFncDZJznac41eM3o8GmpFgOIgM6nyKRymUpsuwBqPUZLrRR7E5faT5gib8Qxk9FZMRTM7lK66_D1bZsHm5XJBKwTYPQYizGo1aOHH6HjtWMSiXS7ZVELwARDTgDWV0TnVIL6duFag8ha1074xBc8bQ",
+      "width": 1031
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108755777128607605193\">Arthur Truong</a>"
+      ],
+      "photo_reference": "ATKogpd9l_ZGuStsJLdxtKD_voYb8_dc6veplBDZJzUcHcc7tljLMI_x1IncKBheT8O8epksjd5wL9SI6GHaRSOz6sWklZN-sqxpKH13Bp3c6JSv-nwarhzMQpCBFrD8jQOqxigRWK3UyopzyM5c1a5rZn8UfdY3LQR47HM8Q7d9AZQHuHWFJds22NBKEFLGBTFPM2wo76Xeql3Ae_sNAHEojH9L0X8U_-pMQLGaxpwXvC435caImvN69Uchu0N9PGVIEuzuzR_QTSFmAQmxgsyF11mdv_Fzw0EL3hgM15BzUNlybDN3Misslr8o8cRuEbh2q1jI4dCa3Te4cLlxucj4ZEhlKjQpj--Fqcrm1Kv3hgRY-zOr7wDydCLtS3x-8OeW_KdczuZ1sRm0DGHG-fRAg0I0Gp1xlatRh8mYHcTuTdjDMbLbYAFatu6Gv9piGQ",
+      "width": 4000
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106798451853115952810\">Douglas E</a>"
+      ],
+      "photo_reference": "ATKogpf79PQ3vUeLzoGwKgT-wJ6R-jAR0Zt1EglPGtNvRl1SUrLEVnRf8JHjobLP5DdQtiaElpSKCN1Vd9MJdLj8kjHeb3dqzx_4ObuxGjQcfZlnOfpDK4ZRKQlxsP69rvfoH3ZP-sG4rmeuWTqbppWj9WJTGUXLwCK6e1BMMqrrTGbbbP04cWr5f7-Pvci2nOxw0NB-KjHtOEfm91zo6-4JI9Hm8pfZkVK7gntjS-qRAGRbnuSbPWtSURkWjFPYz4ijUps3mCZuzox4zPIHcwWmF-KFmj9i1jxn787_80s9_dl_itxIRMd8O2SnK6EzRUNtRegkAMjVUFmr1VALWvQXt7VAXlDwvk29S96IJm2eyV7YrGWMyETpaWSD1C79BaTcxIrCMiZHn8gpIJ84Lz6Sch-Y9nIq6Q1UdeoHdxpIWsdAZg",
+      "width": 4032
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106682861534373027094\">Zhoudi Tang</a>"
+      ],
+      "photo_reference": "ATKogpeIg83Bewlk1BtPjRssJIL0rA6o_WmudX4Ot8D2BUNVojvIKZEBeH7XeL4kUiaxknyOBWaFL_Bzmb63MlnyCUG_xAgverZcbN5FIhQfrXmRpSAGoHIaIfKwLGC_CU-FcIkB-O1PQgjGETtJU-1FsMLO78A7OYKT4nYkmUPxVeBBi6yVh0V5G-U_4AXqKEfoo7WrpSSDoGAqNWCWu1NXKARh0YX5E8v7kyur0wQCEjOsmIbx12itTaoLwVhyX79SSfznmagX68_GCOfHFxtCamD37iUjXREH2Wv74EHn1Tg3oTflOOW2Rm5CzsB-lDR0XsNepZDY8QCgncLtns9AuWEOQaIONs2JcMwcfik_-uN_PuDuR2fJoY_zqsgvJZAIum7nZHdmqoRXJfBhlbgDyx0jUkibrpgm9nzCOVks-I4oc9s",
+      "width": 4800
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115336782489573128978\">Olivia Chin</a>"
+      ],
+      "photo_reference": "ATKogpfPZQHBo-ZqCyBjc82SJ9MXOSSfEhYEBoW8MFI7HYTlcEU0lx8kPeCl-9STzmKbKFAi3jJZ9Oq-OAr-C0fEA-gG87uR-kybQMriP6TWaPm8nqdD-1goEhVPvqel2jPBioCpd90kEf-uKgZ5xcKl2ogJxV0Huv9i15aNVQWetJHW0emjGqHW549EBeliFY6atup2BB_Bq4lyneEzc6JyMKBjmUkcd9vfuM4qU2h6JdF8HvO0Lmol8Ss1ziwKVrnMWBMngg6a89dl0YMXUkJCgH1bxJGiWZjL-Q_DnC72RaaOpd-BqUj1x-KikpWE-R3Jd8Mt36qo8lM56-ecYqSJcgoQzyvDlS_Im7DxIUUgP7JVrucyClqwL3ZXZePreRUKe4zLlDv162Z17gVwBXtyRxFy51gb48ZQpCsKSBMpH3wewg",
+      "width": 4800
+    },
+    {
+      "height": 3540,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113644946760724029768\">Sung Elvyn</a>"
+      ],
+      "photo_reference": "ATKogpdmtPAhnhxcCjCAb1_uSpG4yi2GFoieUgvaN72Sm4tg6WWRHP7ksQtzPhGw_geIdr5ZdxF0p0N9xLUq6cIFmt1NViQdjWfkZcov8ZxuXJ8IopnWiIRHnFqBOWX75P8puk3AHQ-Ws5622TG2nrfgoz6a3Awk9z2-FvV0s3ECCFzQN06YoaqdAMkIS-RsAK-7zzl90qPvLEbsA5uE0hvODX6n7rDcZfYtRzwKTo9Ek6rhsINNRvdT-gO9-pDtgOR_joKzppQRHJO5sFZAhfQdgz_bSHXIOsC8mu4zlSVhkHMw9BdEh2C2ljySF1g6NvMho6bM9XgMyAq6WYQsIRDAjt7KKX3yqKePV5BzWNRj-3TX-enQc1BtOIX9gVdfBYP9vhxJg4EPka6S6nJwLlB-0xTJJtt239wS-82epUtwsEPnaoov",
+      "width": 4716
+    },
+    {
+      "height": 3456,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107913834786399896697\">Ken Yang</a>"
+      ],
+      "photo_reference": "ATKogpeeDZgA16VZQkUkjOeb5xC4lGhy8qxUY21l9HU-k9XRgMEnNwqzbFpwbnfYAH4FYSg6oAdON3l8Nn_oBrWf0g6ojKrAU4W2mcotitZ1q0-hVKMWuuiYN0EK1WXr0NucNc4asD1gfGwAbB67NplRoPgFAj2DyoSPayxyvOZazNS5swnFWNuf78kS0l9jG4O2YsHpUvHTqPnBR9yFyrK0NyYwhbVyBkijU6TPUmmk_KjmHHDSUQGVqti1_VtvWh87F_cMmLaYEvwZ120eS2VfQVjnXvRSDGKcq1iPNnGmmp70ToJX335jScepPibzhQAnA29oO6n0xEW_6K4FIdB2SV2XLxyR5QchJpPst32LcVryn7lwwlnS1v1S4yBQnls-CNUkaUCfQqt_1EFdUbXZxb_xGqMNvZoztMcUHd96shRtEJgx",
+      "width": 4608
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101055188599257808018\">Cynthia</a>"
+      ],
+      "photo_reference": "ATKogpcU84il2iLdinK7gWtqnhlHls0KdOKiQyH7nMowJW3MQ8YqqK_PKcdYu6Ud_l0yMosWQvi9diduyeFeLdcgZL2rVVdhCgFWkHnl9qKH68G2biiRWnuLDKPD1NuUvcphRSoapTeQ1iZ9-VHl7UkJHjoNsO4e7HziJ2O1c4n_ihxUo769qu4KsBYDqSe9UY2KyTGg0NT08ukZ4Sb4-krEBJKnfhhwC4l4YUJu5FxNhbYSMyByrE-u_Q0V5wHGnCpFmesuvRZj5kknNCsOqKISv9X8LYwn2uEas_1hkXmtfoW9xxoK6nA4wK8RkSX0TXcqjpPCjpMmTX5nSiS0AK7S07pfXb8T-y4pmrf6Sr5iImrVh6KbxnlTxPUA3ANtnq3QLWaXtn_N0Ul6-CkxOke9pkOsZHeUezmfqEvQzQhP-a0MUw",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103385791736943872632\">Amy Ngo</a>"
+      ],
+      "photo_reference": "ATKogpeM_BwI-GwNohKahRBVtMLCv8BFWpTXI7bzjWMWAVg0dYlTntynYBrVqsDKBZWMRVwbQV3Uv1_ltO5Rmecrd9SgClsa50e4T2YjI77kyDEiXXuaACG41iTm-EKa-nK-8fIerWSKtBvz4n4_FcLPiC9HuGwI_4cHjTYrcFRA8bQpaOSqi3kyHKGIdeszxr17Uq9sVZHefLkiXIr5H7sz3aaT0337uiQfCwmWyFFAlTroDgzopG_aA7plkFUIMTSDsxh9otFu8c3lvdBhR-gx0IWnyqI862WdhIdyKQ1VuTlhG5u0zSWYzvuMTAOR-3hMShEmeLb6oQmSw3P_t5WxIfitPJq64pmdwFqHXU3tPnCoH46aGU60nqJK4l5uoWgt3T_jsxs_XG6tuMxnmbsWf5yFXLd4EO1ylrooFxF2lGI",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJgYndA8phwokRgjxSQGi_Ruk",
+  "plus_code": {
+    "compound_code": "Q55W+XC Flushing, Queens, NY, USA",
+    "global_code": "87G8Q55W+XC"
+  },
+  "price_level": 1,
+  "rating": 4.6,
+  "reference": "ChIJgYndA8phwokRgjxSQGi_Ruk",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Kenia Martinez",
+      "author_url": "https://www.google.com/maps/contrib/114682296983092284322/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVo2PtlI6FbfrKSS9IfeEu9TJI4UrhzUcvWM5gYZ14sXskuE_m_=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "My Thai iced tea was very good. I was a fan of the house special bahn mi than the pork chop bahn mi but the vegetables were a bit more on the sweeter side. Too sweet for me. Service was great, super friendly.",
+      "time": 1746812351,
+      "translated": false
+    },
+    {
+      "author_name": "Abdul Hafiz",
+      "author_url": "https://www.google.com/maps/contrib/111517185678540001431/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUQTUt9uV6ulEXFZ7tlADQ1XxahvUmnHGKQEiOuVxdk_UPYpLTMbg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Let me start by saying that the food was absolutely excellent. My wife and I are always a bit hesitant to try new restaurants since you never truly know what to expect\u2014regardless of how great the Google reviews are. However, this place did not disappoint! Every dish exceeded our expectations.\n\nOn top of that, the prices were surprisingly affordable\u2014almost too affordable. Given the quality of the food, they could easily charge more, as so many other restaurants have, but I certainly appreciated the value.\n\nThe only hiccup was upon arrival when they couldn\u2019t find my reservation, despite my having called and confirmed it two days prior. They mentioned that they only accept reservations for parties of five or more, which was a bit frustrating. That said, they handled the situation well and seated us fairly quickly, so I can\u2019t complain too much.\n\nOverall, it was a fantastic experience, and we\u2019ll definitely be coming back!",
+      "time": 1738332812,
+      "translated": false
+    },
+    {
+      "author_name": "Kevin Lin (Sheng)",
+      "author_url": "https://www.google.com/maps/contrib/117574732345305101168/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLmURMIctEZwqhT9lKJkeDaS-bi_h8xDyFPOmzxd9DZSh1hOrU=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "This is my second time here and I absolutely love it!\n\nIt\u2019s a small mom and pop shop!\n\nYou must try the crispy salt and pepper squid, it\u2019s so delicious!!\n\nThe pho is always a classic and warms you right up on a cold winter night!\n\nWe came on a Friday night and were seated right away!",
+      "time": 1741395402,
+      "translated": false
+    },
+    {
+      "author_name": "Alessandra",
+      "author_url": "https://www.google.com/maps/contrib/102651137490743927568/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLZXZMr-39fLb4ahjD4qSqbcisc0rN4AM9bQsQIsImVHg6MQA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "The people here are nice. The food comes out fast,  tasted great and looked phenomenal! 10/10 would come again. John Pork was shot dead in Detroit. Rip. Pri. Low Taper Fade",
+      "time": 1740529142,
+      "translated": false
+    },
+    {
+      "author_name": "Jonathan Yu",
+      "author_url": "https://www.google.com/maps/contrib/115672569881580863006/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZ8tCEK9XR8CAIrqM27Kom7IqH1st6gemscojw8WNspVYKfMs=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "No line on a Friday night at 8pm for a table of 2. Ordered the bon bue hue and the crunchy spring roll which is delicious. Staff very attentive and friendly. Parking was a bit hard to find in the neighborhood since many restaurants nearby.",
+      "time": 1746231172,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "restaurant",
+    "establishment",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=16809333113683590274",
+  "user_ratings_total": 722,
+  "utc_offset": -240,
+  "vicinity": "42-05 162nd St, Flushing"
+}

@@ -1,0 +1,441 @@
+{
+  "address_components": [
+    {
+      "long_name": "118",
+      "short_name": "118",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Knickerbocker Avenue",
+      "short_name": "Knickerbocker Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Bushwick",
+      "short_name": "Bushwick",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11237",
+      "short_name": "11237",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">118 Knickerbocker Ave</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11237</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1930"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1930"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1930"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u20097:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u20097:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u20097:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u20097:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u20097:30\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u20097:30\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20097:30\u202fPM"
+    ]
+  },
+  "delivery": false,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Roomy, low-key shop with a large selection of vintage & secondhand apparel & shoes for men & women."
+  },
+  "formatted_address": "118 Knickerbocker Ave, Brooklyn, NY 11237, USA",
+  "formatted_phone_number": "(718) 456-0762",
+  "geometry": {
+    "location": {
+      "lat": 40.7049811,
+      "lng": -73.9296724
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7064204802915,
+        "lng": -73.9282570197085
+      },
+      "southwest": {
+        "lat": 40.70372251970851,
+        "lng": -73.9309549802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+  "icon_background_color": "#4B96F3",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+  "international_phone_number": "+1 718-456-0762",
+  "name": "Urban Jungle",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1930"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1900"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1900"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1900"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1900"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1930"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1930"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u20097:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u20097:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u20097:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u20097:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u20097:30\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u20097:30\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20097:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1122,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115316243953148756507\">Anne Evenou</a>"
+      ],
+      "photo_reference": "ATKogpdsAQ6r8nGLZx01Vyx4j6Gf5ojo_ARfMXTJFny97G3KQ3QI68YLCpI1Tn3_BdCifwdXKLGTDkAKk0SuRGybjkpt08BCyc3rZOExzSUcPoWZ1xD4AD2VjzEKXtPS6Rz-0RUo2V3BgpeRu_o54UNrO48xKTBz5FFILOa4DZK8UZyw_XGKWnOuxmFcTBsJD2QbhzYd6ef8zT9ayhjnGSfZLtM466WoSGqbBDPey70qbvaf4HbV7EutlV3kMUYPo6ioaeTgBLmE3laKY45lxWd-wxWCZFGMZ7RIiFIr3t9xx7Z8CYiT1hRbm4WeecU9Zlyn_42jGAMo2hwcr93n0T9I8VXZW90GgM5qBfJePQ7zsCdFt1RZB2B3Pz1yEuDir0LexpAapRsPKbBse1K57SLr1zh_tRXHdc0Dd84W6zZVk5I2mw",
+      "width": 1903
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112680927622963588235\">Matthew Wong</a>"
+      ],
+      "photo_reference": "ATKogpfJ07c4WRw_tBeADwnOS8Byrzcm59evjSOZxAJdTh32cPAMYnVArqI3ECfKvAU4LZvbgj8Z4wmgup1Yp360grhTKTfHC5G295LKYzujupq9Qd3cTJJ5I7KwAMwqzTzSZow_bUDjcJX66x9jTYN4dO1v2bzlquz18dUtXD7ohnoy6fTYSReDzMfvBZUoz8TW-KbDuE2CH2gRVO-dfDVwa7JJs_dmB33CNtViH7SgcRbtZxXXYYTJYNXNgDQJxML8-6oEojpEhAWkcaGgiYiwlSV8R3N8TG5YME6hKJEsQnGkeRD2F7PkhOsfxMDXsJ8wPT3OnDAErBuM7FkBwJK8d9Y45L2WHdBZDeeYbqD1I_ErypUOeddUVEv6hRw2LfXF3INN_I1Cs-aPwnX7XSIDrHHrE9mTuCq1UZSO810YwomSzAti",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106076509504627523265\">Lancine Keita</a>"
+      ],
+      "photo_reference": "ATKogpfuzLX48Iz7U1z9yq1wIK2Y2lldKyk5CPeVb_htkgob56bhFGyE6kGtk8-XkA51t0rLQb__H92AbOQ3Jt5ivSH24WyxfkxcJDBbkJc3KTPssKdFlg4VPoT49BIWhQV_UQc8VtV0DdOGcVCy5pYmoko5O1vcpUmZCVJp61poQQlHiTOd-t2uzzzl3TGUhEeB-0Lp8P4lwhDQ_kKAXTV69YV1_m4i4AmVDyUbDYXQGWELw3-OgMDifMpsEAtDsyMHWW0D-oBWv-89aFfCGEevmHRaANoQEFMwin-yB1rV09KeMQSMWsN-61CV0dIsWMDV1F_RTVHtUT-rV2msLL53dBQ_ulU79xRM54eXtutNkoLIf96or2c56zHyZ2ChcdMjF4Kg6gr676Twqcv__O8RSQEXr0Egm685F9t-6aNo2Yc",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112680927622963588235\">Matthew Wong</a>"
+      ],
+      "photo_reference": "ATKogpcBmxD_fojHHsVOmtkh_21In-B9hk4OwZBef6y_9k5IojHKWu7kRT9xt_QP4YAKxd0uu0fOax1eT7D9Yoy-shl0_DjIP-RpXHvaO5nogJWsAmrtK4uAQfJ2CYwQvFgEr6_eSmTkUsOn9oDs50AxO_8nDwApkO7UXT7Pl5mu-ycl1LJF2WQxxhDW6l9MYvwyDe-Hx2mTZEz6HvfHsAwKj77WoLUp_FxmvyWC0wUzHyRc64BuZb-8PCg2Z-JvZzsUw-pBOm30cTvy5qlITozVLuZ_6m4gMXHLIsFShR51nBtXXqgTG--C3zj4LrCChrgaKoocsk2iZnNWuzy10RoPJdrmsV6DpL-XY5CCUa9XZBDci9S3taVB0Bf91o2_JuxvVSlF4SbufCX8ipqH5KziVoliZihbZ0Gq2aUvQHFkMQRtzaIB",
+      "width": 3024
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109009436976894955335\">Amalfi</a>"
+      ],
+      "photo_reference": "ATKogpfCuC6dkdjaenaclQtVW-SlLWulYZ4R-YPbCYF7aSD-4czRNvGbWxshKtJhMJDlMlaIiwmiL_ELZUbfu8p9TrtnKQCH7Piua0wU6hz13N7Tdo5Zm4Ah7BV1gXa4SAKzkrlyGfLxsYjZdIWX5u73utAphUsMmSoZnlQ4Z3_CSMr3mSg1Kx1AZJdE7l0G8wfCSaXlfBj16uRjbc275l_f7zTcwOTW0JNoTgYtYgx3obxw5B4xQpRkf3uuuCA7n8ctDf_5Wdr1NBbil-jTaeu2ZOx23lo8W071S8pboofzJ_qXnauYGfJHuDM9mA55BxVNzshfw-Zv2xinN90fecQWX7yoOkpXnYad9YB9ZFxnUZCArRTWODzJs3w5snQ46VEPpibgTXXq51plyf6RP38jByTaOLaugWVvtXHKBqkhzy0bJA",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102657510989805460664\">Ozoz Sokoh</a>"
+      ],
+      "photo_reference": "ATKogpf0iEvPGhN33I7RHw9SM9HwcEacHN5XV8MPhiilmL4a3CL0rBn1ErdVv3RbNUIs4HizzD0hOYvSFpVaEL2V8WCL-HuaO3j7BdzSyl4wYmriGgK7YA8-6kPmVAdcObB83VEEDGUnzIqfCBkyz1Myl22qmEKZHhysFzJobkrTJ-XRno2lufr5srRY8wqT7Vx9IXUpRRqY57wRWaYX_vXN-rKJPzGMLjVKMOe78TZYmNdrME5_DkZL_Sfdtw6dV7ZxW5cDh7jaMF4bovF4xoDjsY67IMw_CmvMu92W16H9J9q7HrdKSmE_PAlcWRxEhJc1WF-iZEB3YObVfrkQgAKM7Fw-FphljDCp0FMNC2EWwoX-fSAh38dEAQFuxq9jl6shAuA_VmFF1-2tuH2Aro3aMe5harGDfw0QvExr5chmZ-jmtQ",
+      "width": 2268
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102657510989805460664\">Ozoz Sokoh</a>"
+      ],
+      "photo_reference": "ATKogpcxYvCwmml2MrWuZQZhzruds1EE1weJLL0iWdRx44fA48lujBI6jRdjWLG-5A_gnsSqqKcvDO_S1Bi6BQw57E9jT8TLULuOTa32EsjTP0qECuthus1slNBn40zHVbPoAl5fSAkp0nl8axKmabo4eFJMSIswpFFnsdiblt-q7q6YXAMH3MbCivlZGHAaV29LoyOR5EPFgzGiGGowM8paTRPwO-CycaT0fxYml1_KZfcy34AWrqXXsMfU-NlzbE10yyJmQaK7_eEzZvAfLXh8-9pHxsmSJaAjuYnXVFY58x6sB1zj3u_NtoQtHAZvbdh2CAGvKp7XMwLJIF7BAkMJLeydaGXBwmbU_oXMt3Gq4rVMnyBJa9ZZvkMoIQiwLVoIyphYoJfYCYZlxCF4TPH3SbHb7dKYedcMQndBCREQk_XL1j_v",
+      "width": 2268
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112680927622963588235\">Matthew Wong</a>"
+      ],
+      "photo_reference": "ATKogpeHq_9JSbkapFSiyOJaPOg0N7P4877-OGWf_aXNJdVvzKABtB_bTfNEr8gAk2nANSpdEv6JHBBd2_EPo2koSUYDJbwMfxRB9aGTO2oaoJ2nrY7YYv0YkKRNOKl0--3Sd57WkTHVHNs-D0EhFMF2X_3H4MBHx912LOVtkCHrwhuv-ovM53dwk3G5VPZ6RMonrH03r219TQvc_vER40x88wFdsejVr0kjrna8V7a-qZgxEqe1kHJ9IkVyfNV_WxIKcRA3YVhznM2fDGITY2iV4TX8wr6Tn6RvOE5Foaut_IwBAjboLWg1IOuIhIAfgHc3J9yjcSdxZwBY6Pocn1GFRv_9TmiQ-A2RIUCtHgzpa4OBoHpw3CPzktrMCNNcg3JXo1UtX1gjrOukqDFabrsYD3IjsGcslWKWzsLdk96QZkCuLMnd",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102657510989805460664\">Ozoz Sokoh</a>"
+      ],
+      "photo_reference": "ATKogpdKXNBX6yUVwQyfMB2phWMcfvbzH7_sBTi6MwqCfHC7oU-sMUSP2EwzyJnIjvQ_8EBT9jPeZPxAQuGgpoXWjvsUIYhxFHFImFRDJDuQ57kvGO5VQCrCsFT76bWxs9-PDTkmXI_CfrA2WUEkp0t1XkQdDJNauB3z-ya2oKuR7WmmOrFUundJA8ByCGHUsBTYRZ1UgPUGbBreyVzphiIUyU2V1AYay_-pnzZXfFRau29XHsvqap8lbwGHxt9zeNt1PUyHLWhQWEemPU5Uv4TPzObtnPjcCjw6D8BkZ237gnrMtxAmxyt6k-PiV_Rpn_frNzq_p7Bc4gDZq80VDi6_XWpCS1GX1JkL_duHD37_xLffNsdOHAqIwvbMPtJITdUVfxxLbRyJHFVTRz_0a7ED2hRnpFskRvaJuQ6vSJ0vfCOcvUXw",
+      "width": 2268
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114331968519592442830\">Luis M</a>"
+      ],
+      "photo_reference": "ATKogpdvqXxbPSxeJ5ls31QK0fxQYxgr2G9Ymzs5xBmmtpr5rljb5L_S42Kxm1JfKhhvZmueAonRU2SV8SpGoWVXs8QjSFFctlttUnwgyYHCigwERpmk7DXJPaLfyM56CgheuLkj0o8ri4aqDmIYX4sAm53WsEHRed3mvB_AJarvRs9n_IrF1v1ggUusTReKZZFZgqUAT2VJg5U_A-xbDJ92GcI4sswf_bRZIhOHEoaMvTHrjddVmfOZj_WnDBe16JCfvcOEbFR-naDI685MfJSaWyqRX6jNgfP6UUexp5yVMu3Fvgu-vCCd5aMhsa9jvmsjAtxiN9tKRvvZ2q7077FkaNX3ccP5kLmwyBBEwqnglJb2KKksjVf233TcTefQm3j5N57nPR5kHNLjzj8RM7M8uM9lS_Bzkl2YO0jidGtxGMo7cQ",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJMQcg0ANcwokRoM3AJoyxFsc",
+  "plus_code": {
+    "compound_code": "P33C+X4 Brooklyn, NY, USA",
+    "global_code": "87G8P33C+X4"
+  },
+  "rating": 4.4,
+  "reference": "ChIJMQcg0ANcwokRoM3AJoyxFsc",
+  "reviews": [
+    {
+      "author_name": "Brian Slade",
+      "author_url": "https://www.google.com/maps/contrib/106720735107572886402/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKSUJiZvkYFB7zvbo79XHVnauM5PdyLNRFvFKFeoJps60g7Mg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "2 weeks ago",
+      "text": "Urban Jungle is pretty great and is where I usually go to thrift. They have a nice mix of vintage and unique stuff. Prices are fair and the staff is friendly which makes shopping there pretty easy and fun. That said, some days the racks can feel a little picked over so it\u2019s not always a jackpot. But when they have good finds it\u2019s definitely worth stopping by.",
+      "time": 1749762213,
+      "translated": false
+    },
+    {
+      "author_name": "M Z",
+      "author_url": "https://www.google.com/maps/contrib/115403329715500408167/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUsQavDwnyWZkl4byHEJUUHJO6-Mz7ILLjh5teyu_31YfSnPjnU=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "I went with my friend on a Sunday around 5 pm. Great selections and prices were amazing! Can't wait to go back when I'm in Brooklyn next!",
+      "time": 1740450384,
+      "translated": false
+    },
+    {
+      "author_name": "karen",
+      "author_url": "https://www.google.com/maps/contrib/115582049624038024243/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXTWYr3VR3a8trD7DZu-0oLU8WJVc2fekkFSR0mtixVFKgEX4FiLw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "Went here a lot but you need some experience in thrifting to sift through everything and find something nice. I recommend looking at clothing from the side and finding textures and colors you like before pulling it out. Amazing prices, and endless clothing always something for everyone.\nSizes are always really big, but it's expected.",
+      "time": 1692759813,
+      "translated": false
+    },
+    {
+      "author_name": "Makada Miller",
+      "author_url": "https://www.google.com/maps/contrib/110805803726047494536/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocInTYGPjbp4ce5axo4Yv85bLirR22EpRcLwF_J4ugutDY5BcIOz=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "This thrift store boasts impeccable organization and ample space. With reasonable prices and a vast selection, it's a treasure trove of finds.",
+      "time": 1715457314,
+      "translated": false
+    },
+    {
+      "author_name": "Lily Hong",
+      "author_url": "https://www.google.com/maps/contrib/111581386491111829700/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyQIZTwa-Ak3iIO8RTmF97eua6MjL4wQF98drqraQZzhuOcs_jQw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "Overwhelmingly big! Had so much selection, and everything was very very cheap! Jeans costed around $8. The only things that weren't too great was the organization (not by size or color) and I also could not find any crop tops. They might have been mixed in with the sea of tshirts.",
+      "time": 1742948190,
+      "translated": false
+    }
+  ],
+  "types": [
+    "store",
+    "point_of_interest",
+    "establishment",
+    "clothing_store"
+  ],
+  "url": "https://maps.google.com/?cid=14345848878539001248",
+  "user_ratings_total": 506,
+  "utc_offset": -240,
+  "vicinity": "118 Knickerbocker Ave, Brooklyn",
+  "website": "http://ltrainvintagenyc.com/",
+  "wheelchair_accessible_entrance": true
+}

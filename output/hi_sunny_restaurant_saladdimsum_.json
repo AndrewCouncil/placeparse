@@ -1,0 +1,443 @@
+{
+  "address_components": [
+    {
+      "long_name": "342",
+      "short_name": "342",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "7th Avenue",
+      "short_name": "7th Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10001",
+      "short_name": "10001",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">342 7th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10001</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "342 7th Ave, New York, NY 10001, USA",
+  "formatted_phone_number": "(212) 660-9666",
+  "geometry": {
+    "location": {
+      "lat": 40.74817669999999,
+      "lng": -73.9930715
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.74946548029149,
+        "lng": -73.99157871970849
+      },
+      "southwest": {
+        "lat": 40.74676751970849,
+        "lng": -73.9942766802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-660-9666",
+  "name": "Hi Sunny Restaurant Salad&Dimsum \u82b1\u56ed\u8f7b\u98df",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2130"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2130"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2130"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2130"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2130"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2130"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109950851441885178025\">Michael Witbrock</a>"
+      ],
+      "photo_reference": "ATKogpczz0JeRvcHfHw1sRPiWLJscUFDqLigraQuz9xVYBPJUGLNm-Or_RvMN1BV7x8_D9Tlb9OBWJMEb4y2wNJNfYMmmfaVLVJ1xhELfkZ-gXKEIwNrYVVxPcdwQYeVSlKij_UFdXZGJNZgTzuBNod-yYA15lZ-nWx16aub_tHIy_IKGxBQNO84_Hf0xlkQ0gcW2Fl_TV6jSZJ2GjSqUTt-k6ckVUDgcaZJ7cSYYbJ-0bP5cB9j62ETmPXQZA0RVoCLsQ-eMyBYN5ghiMY6RP_sQMhh6-HB5i6W5YZ81RMcgvq6zE8KrEBIjPIDct3FCXi4FEy39UUSqwdRp3828NU-xO8QpoBm4IpzO0bYO6SNOfn3-OfYKYVFXnHSJng4-3FU6RgMri80KTM51OL_XHOeNY3TqEoyZc_o2sgjxHTbg7y7vGwj3KPKsxp45fyH1Cl9",
+      "width": 3072
+    },
+    {
+      "height": 1440,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114851526785053188929\">Hi Sunny Restaurant Salad&amp;Dimsum \u82b1\u56ed\u8f7b\u98df</a>"
+      ],
+      "photo_reference": "ATKogpeRqGYkOC6MTwGmH1F1k2HgQiaifBM_d4sRp8Iw-pk_mDcQia7W4AGAQBHm0Kbf5oh-C0acsi8zuy9J6W42pZKRzJoE3VtU3ugAuUnU8Tf4YSVXuH2VFgn1MAN0V39y__2kyE-T2jceMGqiQVxHbRBpDPoJesNISGopKMVixekB36W-Ul_DTIitXMTazIF9dc-W25Rvb_gw99I67qm6g7tYt6aCrz9I2RUI1Pns5Ex_YVwK1yPeEtJMamSVN7FWZYNUbldjll-2ahlzfRWi2m0WN9Da5EIOFAXzHEF0BFkczA",
+      "width": 2560
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105615818108039297907\">Bao Chau Tran Phi</a>"
+      ],
+      "photo_reference": "ATKogpcHkiyuiYpZtbxwWcoYFmeWaa7VxwLIGq7SiF4z3dDRRmy4fYGuqbLsl0Ao6u3r8J-p8aYnj1TtlHNSmkvyBZ9bFwLF1NTTsSwdO53V4QVtl65nyBx2gvpn3dJzMwiBKA0gVa8Z1fKHMqWQdeHsP7I3Z0sKVUAmnAXWeuVmgwMqKafvL8IcoBjcLNPA8ED3oOUESl1H7wBLM2sIf7sSr-SjBYDNMltWnCbGfDnvMR5M-Live3O6ZuMhWh5uNl2I0BJlgR-Y8RrYhpNdwyr2iWAZlRc98Hbt6CoZC1wARhLdnEGSicXU8VymUP2d8QV7Sou80G_zuX-Xe42E4IcEkAyupCn2A_CfhJdhHNwLxFqAlEUVwSCPGRuZ77K-mgKGz0M7CblnPKX7hOL2iNHPh9VEbmezm8wI2Ki3WD_VjbN492XbsUSZKRfteywxYg",
+      "width": 3024
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113963786411781750912\">BOT HI</a>"
+      ],
+      "photo_reference": "ATKogpeqRYIsVQ909OF63NpRAkoVVwh7YZJ2zrgCcrJ1NQQnlhiyTUWyCaYXxbTJ9bh2MHBgYYK_EHWGd1jlXR_snXdNovSGnXFaIpxyZEOhdyCKGB6Tw1LP7EDqvwQ7Ljn6uJ3ViL5ubizi6g4BaAtVv3tcLwOUVWg7KwwHgTtrsPPxD6_lXPnK4x1NcoDaJK2btmX1WHJPm-qWkDwP5g7PvadTreQqEw82ppm8MbcsPPE1ljXF8SEAAFm_CLdMM_JmbwQZKyMoaQRuhiffmsot19Wg7ZyctrFDd8YhcUnVkmP71_rLhpM1RnfNIN--8LGNaEHyEQaINItjhDSB6SYlvQR2qOt4wECROTQ0IDtKF7AKxxjgyoJVzm9r5ktxg9O2YOGh4nGItFDg5CxA4bIYwarxHAfeSrXfZXkO1wF__ZA_5l55",
+      "width": 4800
+    },
+    {
+      "height": 442,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102752026783842401961\">Nana Zhang</a>"
+      ],
+      "photo_reference": "ATKogpeIZknCTAJupELjxBlmeDlapYPfZb2mgwnba15-ljuaiATs22SQ8wbcWbULvUO23QZYUmCO4AjRNI3r3zYyQDomB9moKGFfdWliCjDWkEVC457G8jen2pgSsAbPf4b4U8xkGnMqa4797HeUCraLa1Dgog6r5XZikWi2aMPLQdMzxG1sQ11hD3PEz3x3j-N_qPRAJGSKSx1tmGvMUEHOe1N9BcbtM5Hs45U4KJEAYkAp4fFh0ChK3wLrB25uiMCEWTH3O0HtHzzSZuiX_kO1j7exrUhJoZ4TstaiMkip8vHryXZGtpxD3FrZPZJEUb8TSyKQU4VOYct0SZpMucF-RZm0RpmuHfqNUyfbslrc2G-pb7Bbs6aphb8L049AL_EecLd_I2t_OA9rhxVflzOj4-4tYXpLO_Gk8CjyzL5kaEUsxv1hvOcBwLJ69g1dhpvt",
+      "width": 590
+    },
+    {
+      "height": 500,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114851526785053188929\">Hi Sunny Restaurant Salad&amp;Dimsum \u82b1\u56ed\u8f7b\u98df</a>"
+      ],
+      "photo_reference": "ATKogpc_KqGmgWpqOQ000PaYMNmzO-SnqnID3gymANZUZ7HdF6c2QBOxF5KzcSDiQCty4nkiDY5PDsOI7vo7V3sPpOT4D--Lz1X11tVb7ef3_uw-JYXZQN6YkfDO_Lkafx9t8iUTdYgXSrSWiKrTufEAe8QZWAz9nS8FkDPJc3LPGAMs2_hg-SrXw4FVY6YWv1wJM9kP57SIFKGrCsUxagu3_YBfNbf4M1O3CK-ixbvjEbPNYpVSlRAF96fOGSQ55qLVimqEf8QqdRRjs43yrXHev-6ADKoSvN0lMQ7MGGpLdj2bCQ",
+      "width": 750
+    },
+    {
+      "height": 400,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114851526785053188929\">Hi Sunny Restaurant Salad&amp;Dimsum \u82b1\u56ed\u8f7b\u98df</a>"
+      ],
+      "photo_reference": "ATKogpfRQle33aE-TYfBt95gXBZPkgwH_gmuBB7ZK_mbvohG3dIWzgePqxBRaqqJc5cSHs_dzrr5I4gZ-pnmRiXHU8sArPP_Pycqw2tZvUqxseIm6fWHfFQsj2Uy7kqsq5vLvAylpSu5dnUXa13zK743zbhcGvm-kMt46HXWLQ-GzXViWkFMr1dIyaRGnB0b6fOPoc0IPynPiJKUioHYOUTmeEcDFXYr0698n-fRMSALu3eEzRpSNFlgmoWjD2jHVGxooW3EbjB-Zv3llrqbw9gdG3f2mJ7NQwljtXYQ-CeVXVMmzw",
+      "width": 600
+    },
+    {
+      "height": 393,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114851526785053188929\">Hi Sunny Restaurant Salad&amp;Dimsum \u82b1\u56ed\u8f7b\u98df</a>"
+      ],
+      "photo_reference": "ATKogpdOouzBPNQ1tdHfJHt7Qa5ltrfhiZWqYLhLtLTOhUZvjH7DPtjfg2MPnuUmq6hbo384g9vZ-CwTSzWxFwjYv6Kugg8dTP5xgNOgyHOWMw6Oi6B3iGfl-iISXV3xW11R6-dh6biGLqQbJqkB0CQhUTheRtL5Et5gfiShOwZhzyIM62J1tbRXP7zex1SkUC3vnssyozfxkbmMVjlKi__85Rc_cIG74Qf4FV0xY-5e0xx1pHpXTzNkKhBvbvzxL0rMX0Imai1XaGW67UXS0fsFsuMTp1HJiX5vE7XYUhSc4hX9gQ",
+      "width": 550
+    },
+    {
+      "height": 1440,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114851526785053188929\">Hi Sunny Restaurant Salad&amp;Dimsum \u82b1\u56ed\u8f7b\u98df</a>"
+      ],
+      "photo_reference": "ATKogpeUMFrSSi-Yspfj8wTmXtmZDEIvKpxiuO7tefmSxd4auW0cUnRzF6ISjbmjsPguIq--aDOB9KLPXlT_ky4UOizFq-X9X67M_92bpFQZl3x0dPQFGaLCCaPPXUlZ8K_93FyXXi2pH3uhha3sQpQit9Id1XAYpvgHzNf4AieRuinWK6FaWhYMQnDhE0LnathJj8owJJRS6G1O0wYKbiSUFCMvAme3BjIXJB1PT9NlsYFgkwKQpOvcc-8zzS1rjPP8xcQHz6sowj0Wl5Y6QCdLSqyJSyT0JXG0gnqoS74SUHG9iw",
+      "width": 2560
+    },
+    {
+      "height": 520,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114851526785053188929\">Hi Sunny Restaurant Salad&amp;Dimsum \u82b1\u56ed\u8f7b\u98df</a>"
+      ],
+      "photo_reference": "ATKogpdcJSGundQJqDqJFi6RUTEDOFrPyvKNCiOq5H7aq49wuW3GUMF0bS_sE9Vj-B3ids-71us6hLKwX30MnCtV5ajEGFb4yjAhAeGu8KDSuVxLIH125lZjeVlkiTEQn-PirwUSYnmFuLT5L1xPqTb4zvkfhkdvz8z9q_sNO265lgWw4HY3C5FjC_4GY3hEu7TyY-vY95gXu3Scwy5fSgtPlpfHNdVoyMN8xLgRhU22pDkm1FIx8aTXUFO7AhC3M7PES_k8lMdRB3CMBBlfp9TVkfesU03Du5tS4Up4RWmF1o242A",
+      "width": 638
+    }
+  ],
+  "place_id": "ChIJDXAddMlZwokRzNN6hu7bENc",
+  "plus_code": {
+    "compound_code": "P2X4+7Q New York, NY, USA",
+    "global_code": "87G8P2X4+7Q"
+  },
+  "price_level": 2,
+  "rating": 4.8,
+  "reference": "ChIJDXAddMlZwokRzNN6hu7bENc",
+  "reviews": [
+    {
+      "author_name": "Milagros Rodriguez",
+      "author_url": "https://www.google.com/maps/contrib/114132861193552352224/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJgFJSBzdeIkhl5EWDMTSU4WO62FSgzeJjCTWFT11VFiqVd5A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "This place was amazing! The food was so good, fresh, and full of flavor. The soup dumplings were perfect, and the sauces made them even better. The restaurant itself was super cute, really clean, and had such a nice vibe. The decor was beautiful, and they had great music playing, which made the whole experience even better. Our server was so nice and attentive, making sure we had everything we needed. Definitely a great spot, I\u2019d absolutely come back!",
+      "time": 1741553269,
+      "translated": false
+    },
+    {
+      "author_name": "Yunong Shi",
+      "author_url": "https://www.google.com/maps/contrib/110468092061647031838/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVIJva94Qinr81rQR3QLdrkI59u9J_yhFW3Bq5duN8a9Vf8bqo=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "The place is a bit hard to find since it still has the old restaurant\u2019s sign. The interior is narrow but clean and nicely decorated. I had the dried chicken mushroom noodle\u2014flavorful, slightly sweet with a Southern Chinese style, though a bit too salty for me. Staff were friendly, and I got a free Diet Coke offered with this review.",
+      "time": 1746633489,
+      "translated": false
+    },
+    {
+      "author_name": "yuke huang",
+      "author_url": "https://www.google.com/maps/contrib/109506219038975306497/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJx_p-5mUanFaAUBcGcVRaDLP_IJwAiTye0HHvZ4seplsk6jA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "Their food was really good! The meat was tender, the rice soft, and the veggies fresh. The salad bowl was colorful and full of flavor  I loved the egg, chicken, and all the crunchy vegetables. Everything tasted fresh and well-balanced.",
+      "time": 1750617227,
+      "translated": false
+    },
+    {
+      "author_name": "Min Zheng",
+      "author_url": "https://www.google.com/maps/contrib/108414620522327424628/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVl3KzDTKKbLL3WVITvhhYkVCrZOq1W4P8yL8saUml6JazAeMls=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Tucked away in the heart of midtown, this charming little Chinese restaurant has truly been a delightful surprise! Their innovative menu seamlessly blends Eastern and Western flavors, offering unique combinations like Chinese dim sum with a brunch-style twist.\n\nDespite its cozy size, the interior exudes a serene and welcoming atmosphere, making it the perfect spot to unwind. The staff are incredibly warm and attentive\u2014our server even took the time to chat with us and offered personalized recommendations based on our preferences.\n\nIf you're looking for a hidden gem with delicious food and a peaceful vibe, this place comes highly recommended!",
+      "time": 1739072866,
+      "translated": false
+    },
+    {
+      "author_name": "Angela F.",
+      "author_url": "https://www.google.com/maps/contrib/103534268979854455860/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXCQyy26koU7aM1LNwxyQ6mJ_Xxr92kqGEndWEjcjc5wSfsGq5f=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Our visit was delightful. Victoria who served us was very friendly, with excellent recommendations, especially when it is the first time and based on what we like, We absolutely love the food and the space.\n\nWe ordered braised shredded beef noodle soup and pan fried pork buns, The meat in the soup was super tender and the dumplings were incredibly delicious.\n\nAlthough I couldn't take pictures of the food, I'm leaving the one of the empty plates.\n\nI recommend this place, for fast and delicious food.\n\nEdit: I just came back and tried the pecking style minced pork dried noodles and they are amazing!!! My wife order from the lunch menu the wuxi pork ribs and vegetables and the meat was so soft, everything was really good.",
+      "time": 1747786838,
+      "translated": false
+    }
+  ],
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "restaurant",
+    "establishment",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=15497128135286772684",
+  "user_ratings_total": 309,
+  "utc_offset": -240,
+  "vicinity": "342 7th Ave, New York",
+  "website": "https://www.hisunnyrestaurantny.com/"
+}

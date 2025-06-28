@@ -1,0 +1,449 @@
+{
+  "address_components": [
+    {
+      "long_name": "74",
+      "short_name": "74",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Hester Street",
+      "short_name": "Hester St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10002",
+      "short_name": "10002",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">74 Hester St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Handmade Chinese dumplings, soups, and sesame pancakes in a snug counter-serve with a quirky wall mural."
+  },
+  "formatted_address": "74 Hester St, New York, NY 10002, USA",
+  "formatted_phone_number": "(917) 251-1249",
+  "geometry": {
+    "location": {
+      "lat": 40.7159626,
+      "lng": -73.9917091
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7174012802915,
+        "lng": -73.9903556197085
+      },
+      "southwest": {
+        "lat": 40.7147033197085,
+        "lng": -73.9930535802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 917-251-1249",
+  "name": "King Dumplings",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112686859515509695777\">Brian Lam</a>"
+      ],
+      "photo_reference": "ATKogpdfepvMbsFxtnZZD7iRNu6UuQb7_uwL_wtG_YW3MQUJXbhgG2NsZZ57xX3v07O1FMnVeKxXdKKJLvR5KaGJleZrUwDwKbRlAKT7zr9Y5caX4sZwaYoenv39POE_Ue0PpNYlP0KuWMVpQC7VmpLp6Ku4elT-cqhPuGZsPP5bajef4-mpbvqXimvnty4EAY0lntZgmX8hzCMtvaHGbOH8n4V2IhIrQ-Qhz5qinW8zzdsRGmt6vSc6PQn7C7tSWLecZQJGHAtk_vvdCn06bjyzgEFIa0fGdYwImh4gDDvjtRfmKz2H3WzTL7imJTzf5wmGiSHnmp-HlLYTtqZmbhEO3WhJz7gXgCdJQH-IKOAQSS6RNVU1UqX43wubJcNBn_VxlTx6GYBsyUtLE0UAc3A4BcsdUEq0WjYS2aWuN2CsjioD6uz9",
+      "width": 4000
+    },
+    {
+      "height": 2666,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105662480087228726221\">Juan Lima</a>"
+      ],
+      "photo_reference": "ATKogpcxXHea_kHpKKloloI3za2uF6iXTl1jB-WxZlQWemz5V7iudawFYs4QTjACjy13iErHB18W3svPh0Kffe-FyvwQTQWFXmrwY1LUmtL4rjtqUbNjjLGatQRw3FvMk7qEzyh1p-zm4mb91BluVZ6R1pr3HvL4LhveGkEvVX4t_4KdyqcTkV6_O2YHfvq2Nb6kMsbSdD7TJsal06RYH1BxSj_Cyri4dyrx3geILz0UGClg83lLY-su2elgMq9sdGmLUhkwYfpfTrEh5TmOidzm1k2KEqmN98t5kZEnZBAMIVe-pFNyeyemxJNSQyHEzGWXNoLxvq1hdxijH0jppJWfweXltp0LjVXxh37pMt80REGxEM8xVNv97uWbU4dEOWeGO3oOn8Y1tymNcqsoVBhLr2f5rpT4W5yF18JF_TKpPj1vfg",
+      "width": 2778
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103216833084795366486\">guy estragon</a>"
+      ],
+      "photo_reference": "ATKogpdXQzagjO25HNAYuNcze3jbEz1_5pBjMt39t10YhV-i3RQ5EW6zGG-6B7afCtZXuDSDl7a53-ndXQQnzmCkliJ6zBYoWOXkw4mTZhztB7eZrm0Esw5dvhu-o1RKbs5zBBqozdHaaaQoC8ZAtbEhbK85teUfOufrDr5Q5OgDZlZL2fTKtbqOQp01qFnNn7TZAdBP4VNij5WjR0G7i1x_d7AJlI_MZ0X74NykCNQPOduOn-RkIsOeRKKb3P9MmwBq6gH8R67nA6P25wdWtVBHimu8NnY4frJjddpYTRVqHLqQIcA_K1sd8qThZ9VMdElP5jNQBPIt7c0_1QUe1yXmAKLupj91DEsfywGOvm-EIvhN1a_rSNnNolAULD_ZSuz0kYnV9Ae4pbmkIjWczNV1UliulhHOVdNCuO65FTcv3W8D9Q",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103010987590483124915\">\u7d00\u5609\u6def</a>"
+      ],
+      "photo_reference": "ATKogpfL0kBv7-S0jm_lASnIAHPRE0yZJtOyJKa9gYcHPwv5uPUZWXYoiaQWyc98rJjT4HFOpma6xsnEPwDyGp_Q_mBQkzXto7biDLq3lxOgwDHEooGXX27IOT_etMjwxnY9DHWGHyPZ8ZswlzhA1pMvlW1Jo1Hb-3PAlobwCtIRAuxXV49Lv01V0WWp4oCrr60M_K8q66wiHwOUkDn9x30e7-wFkyQsFrihdRqXuVELSx_0VRerEloGJis8fTGS5YGuLnf3EzntYNZNprCs-ihV4Jo2WSXiIcyK3DnJKCQ3-wi7oEox-dl_Q9EaO9UjIkoC2dUVolsuE6oPB4Nl1fU-T0ASbehxugngbs9srQlIy_TU4jo3y67SxvdkLTApjOUZ34DeN8xCNBa_Z1k12hdV3askD64ltdoIMPTOg2TeyBd56g",
+      "width": 3024
+    },
+    {
+      "height": 2737,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116663704830185907271\">J C</a>"
+      ],
+      "photo_reference": "ATKogpe4WNvgC7OVisut6FfIHe6JBTHWOV3tdfemHOJ5u4Ti1FYtSQZVgegEimeMcR-SZUcAS7xk5DPyYHEUDt6QJzECzB-TrYgL2IA-CzZ9Bo-MfuUKBbAupdD6_Q-LS8N22RnouOP_xoDhYjx7iyW0cOLd0JdLK2uFahOhfp1UdpqL2XB-3EFw5UhvIW0Cju9wdV6bPIGahuOtPfJ7AJlVf_0Ns-CMru1ahuvnpeeoOJVrdHG_jrGtByjBFW3yQqRELafNvTj3s5Y1Uf1LTDJeqm5G6y-0XdU8D9_2EOWjbgf5kkKQNc6MJ1rfz6UvRK6fSE0K4xHaA6CIF6xR-F2_GWPWylrgIUJmRXNQSYC2L10RJ0O_olXWL5uLBdy1sZx_7L23ub34i-L3CYd1m1jjMPBjidWRaHhnVbkPU75DjNWkfwOM",
+      "width": 2052
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107128980403148028829\">Roberto mastromo</a>"
+      ],
+      "photo_reference": "ATKogpdpMGST8A2CytJUvSbYYPEWU9sLXRBN4yvk9WBifMU0zj4twJ7ccflH_bPS3TgujrJFba5g3WwLDimDYGYX0MmYtxg2drat01LX2pSmvgGbPDtBsRdHQZegMbuBxu6XaUKDvLfUoaBJMM76GxSOunU8u1YeZenSQK7EyElWKaEuUjFfKMIGwAlawt2DSR_UkQaAcwwMs0nh_bfzBsqFKlaNMGj6VNnDcO87YfsV-AXT0xpoOqVG0LIMbcuiLZNRP65z_WoAWDK5eZZxLBqaVvPfV-x6aeLdcZOHxyskxuRxkDlwO1RkXXvPGKTcB0JNvExMleSV2TDZOyg1yN1visNlLVdUljVXqNzt03Iq2TNgl4IcL_YN9iVcWvq4_MZQ4kOLECUkI4EHw7BHqFzMiNegQCMT4YpspOqvoRZpwGI",
+      "width": 3600
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107569751647623066584\">EatwithClaw</a>"
+      ],
+      "photo_reference": "ATKogpfxeFWk2pRtK6Q1oXxy4z_-27bObeAeee7HygHU7k2ff0-Wj4-yOkYFptzsmhI9H_eTLjZ5J3U20QS7XIAtcGuQ-JLbEqJA5Ju_Wjo6PzJMy9EuKQJ_wEHN4kCvt2f7Jtv_oRd1sZf9Jvj3K-hcDQ_WOouz_eN2P8vdb5xAjtKRHLb6yL1sfaRS0OgVGs9Gg_4tKQpsdyJj0l85hV01vRqSfR1fM2kd0Fd_8mo3ediP4v0o1cQeB1JQbT4DrgOHyy3l_lBOPB_WN-gkdb6TCsiWfmvytD3dvhzI4NiHi-mIAOts8BvUJqm-gVZj9THDsCdIWabW_yEggfwi5w14vm7SNdnNbjWLBbZLF2Djp7Ia9XmLYyblwHIREzvCQIh698UNCix-6MwluRWV30eeI2B8hrQ_WxcqZbcrSzeyVHwKaOnU",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113060449456791994308\">Tamiko Ramirez</a>"
+      ],
+      "photo_reference": "ATKogpdmCVPETYJ9LiQFYS0NS5Pdm6kAmeKJ50vPdsUihb8k94MA--Bbo9HNnHAJ06TWu5lzM1qb5AyBiCeJVh3pSKtNtoz_jEhZgbPrFqfoAjwd9fzd9yMGJzjWEy0fOv2BvMAoChd-Xr9DtrhNcWb8tcUa8vLG9LaUfJ_Ag-a4UPXHi9SPRijyrYlTuQ0Kkqknm2xJa20Wgx15gXOPsvUQTW9oe0WmnuxJSkUF-6cdWhTnEVPlESov1zjp1WriBbSGMUiD3FQQIxtMIJiqYfEWi38OshMsTGm4ZgvP5sCNYHIJRzXVtWJOwOwDJPFPzVmLYUQ6d3lHVGkZmOKhh2my8DNRSpEHiHjFmSCF-4bLF2NbknjDf0uxF97so0kUGNqMQMFIUmpE1R2O_zQ2OSSltZCNXyVtS3yJcTWCmXGYMYQ9PA",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101460474438530162592\">Katy</a>"
+      ],
+      "photo_reference": "ATKogpdw6zpAwEVTzrCmqJL5YORsJDMj0IAPWWK-l59VCa28Nk2ZGLe418TltWebNHUs33K97hIEw4aMov4vXFel3vHyI8c0kFU1pRGkbcJDXgAoKB4UXH8ZZuKs-YGb2IoomGNee_G4_miKo3NZWnZej6-uGJESHnDDLIuWag6_GAjWT8rTaLb1WstpWcRxGVE8v9L27jkC18A5rCaIPB57WU16L9NFndGgSlyRjEV1FQbdID5FDTxVOao8sz4xLVaHl7Koyj_On1O6gd7liXNa2e5w0_e5BljO-_8oRhN2uS3ha_tEWcIrvU2h0favYrU4naoldpuMMaYOnN8NDIfF_nYV6hkH-qTFd_JBPub0YksfSWJOf75zRcKxAVY7LdCqqqc1A2hcNJt2d51MI6CAeQB-0ZpJp04rXkj76_8rE3Z26g",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103216833084795366486\">guy estragon</a>"
+      ],
+      "photo_reference": "ATKogpd2qsvS8TRzesu6Obwf9fahLUvIB_DeWkAX1aJWmtERr5elfnmmijFi-w1dSn7eiP49SNx4GKWwiRvh8aBlB8AL7Fzpi1rgf9cBs1SrncySZI5GaFTGw2ynBitmFp6tUH09nKXP8MTDbHAORmmZHKvtgiTvQ0gK2XjNKKdrRULe9HbnG38r_VmVJff2vhB0s11aVHfAxeETcyQIwGir3aznB7Hfn_F-4MSKjRC2AbKsCL5q0WOP_QA5lkpYb0_gIYqR6MbQVA3c1Bk7EZ_NOx_PiPfQcVLyeD8q9j35xVI4ng2pCLWkDjjEtKFX_IWkXl6rZn4hPzuiQfExCtPsvMQzfvNPe6e0dQkX9gtXUm0cZfAUUVsmIU2PziMTk4RUTBp1W9aIax_C0xSpIC95WcL5JEZ842ZVTQ3iBYOS5NBL7Bk",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJwUWtpVNbwokRFXYqGsP5tyQ",
+  "plus_code": {
+    "compound_code": "P285+98 New York, NY, USA",
+    "global_code": "87G8P285+98"
+  },
+  "price_level": 1,
+  "rating": 4.5,
+  "reference": "ChIJwUWtpVNbwokRFXYqGsP5tyQ",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "J C",
+      "author_url": "https://www.google.com/maps/contrib/116663704830185907271/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWhbBcnXEBz5xYjHI8WoUadgGpJmA5EOth6ppJ47POmewcrQLchHA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Walked 10 minutes from my hotel on a rainy Sunday for lunch and I'm so glad I did!\n\nWasn't too busy when I got there but as I was waiting for my takeout order a few more people piled in.\n\nFried dumplings (10 for $4.5) and pork buns (4 for $3) are made fresh to order and were still piping hot by the time I got back to my hotel room. I forgot to grab some soy sauce but they taste great as they are!",
+      "time": 1750005868,
+      "translated": false
+    },
+    {
+      "author_name": "John Y",
+      "author_url": "https://www.google.com/maps/contrib/110084733003956649870/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJlYV7vF6KfXQId_hsPSy4xj_My5a3jwsqC2faIsG4d7yN4Qw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "We went on a Monday  at 2:30 and no lines. Small little spot on the corner. Cash only. You can see the mound of dumpling filling and the ladies making dumplings in front of you. Pork and chives dumplings are amazing. These dumplings are hot and ready in minutes. The bottoms are crispy and the tops are soft and pillowy. Perfect ration of meet to chives to dough. 10 for $4 is a great deal. Big on taste and big bang for you $.",
+      "time": 1748920073,
+      "translated": false
+    },
+    {
+      "author_name": "Jen L",
+      "author_url": "https://www.google.com/maps/contrib/110429751525185205569/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRnHHX8Vamjx0xrNO0S7Hg-OlpkohrfCmE6SfuwahbS0Ocsq38MQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "Superrr affordable dumpling spot. The pork and chive fried dumplings were only $4.5 for 10. This price is uncommon in other areas like Brooklyn, where they're charging $10 for 6 mid dumplings.\nThe dumpling meat is super juicy, has a lot of flavor, and the wrappers are the perfect thickness. It's also very filling and I think they gave us more than 10 pieces lol I got very full after 6, and was sharing with a friend!\n\nI recommend using the soy sauce + vinegar mix. It'll make the dumplings taste so much better. They don't include a small container of the sauce so make sure you add it before you leave if you're not sitting in.",
+      "time": 1750650822,
+      "translated": false
+    },
+    {
+      "author_name": "Alyson Savino",
+      "author_url": "https://www.google.com/maps/contrib/101476120452885163438/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUib9ThaYPG5v1JnOtF200PaOBQgxAOb6JZoDI3jIpTL7O6fwLP=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "King Dumplings NYC is a hidden gem that definitely has its highs and lows, but overall, it\u2019s a solid choice for anyone craving some comforting Asian cuisine with a dash of adventure.\n\nLet\u2019s start with the stars of the show: pork fried dumplings. These little guys are crispy, juicy, and packed with flavor. I could honestly eat them every day and never get bored. A must-order for sure \u2013 they\u2019re worth the trip alone!\n\nThen there\u2019s the sesame pancake, which is an absolute winner. Flaky, savory, and just the right amount of crunch. It\u2019s the kind of snack that makes you smile after every bite. Honestly, I was tempted to order three more to go.\n\nThe steamed chicken dumplings were pretty good, but I couldn\u2019t help feeling like they were missing that special something. They were tender and well-made, but maybe a little more seasoning  could elevate them to the next level.\n\nNow, the hot and sour soup \u2014 sigh. It was the one big disappointment. It was watery and lacked the bold, spicy kick you expect from a classic hot and sour. It didn\u2019t pack much of a punch, which was a bit of a letdown.\n\nAll in all, King Dumplings NYC has some truly delicious offerings, but there\u2019s room for improvement in the soup department. Still, the dumplings alone make it worth a visit. If you\u2019re craving something hearty, satisfying, and fun, this place is a keeper. I\u2019ll definitely be back for more dumplings \u2013 I just might skip the soup next time!",
+      "time": 1743100252,
+      "translated": false
+    },
+    {
+      "author_name": "koresawa",
+      "author_url": "https://www.google.com/maps/contrib/117414400449963598384/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXBIlbY7i6QeK65d4Vp_6aU4AGR8TvU-CkC80Q5pgWH7kQYJfI=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Amazing spot for a quick meal, best fuzhou peanut noddle imo, super thick peanut flavor my friend dislikes it because he likes it more watery but if you enjoy a thick peanut noddle this place is a must.\n\nThe dumplings are amazing so much juice, the flavor rushes out after you bite into itchy unfortunately didn\u2019t get to try the steamed dumplings because the owner messed up the order and gave us 2 plate of friend dumplings but he apologized and charged us the corrected price.\n\nOverall, strongly recommend! Would definitely come and eat once in a while, basically one of the top fuzhounese cuisine spot imo, Definitely would revisit.\n\n-sawa",
+      "time": 1749677532,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_breakfast": true,
+  "serves_brunch": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2645857922456385045",
+  "user_ratings_total": 958,
+  "utc_offset": -240,
+  "vicinity": "74 Hester St, New York",
+  "website": "https://kingdumplings.site/"
+}

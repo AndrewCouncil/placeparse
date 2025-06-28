@@ -1,0 +1,452 @@
+{
+  "address_components": [
+    {
+      "long_name": "18",
+      "short_name": "18",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "West 38th Street",
+      "short_name": "W 38th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10018",
+      "short_name": "10018",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "6230",
+      "short_name": "6230",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">18 W 38th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10018-6230</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "18 W 38th St, New York, NY 10018, USA",
+  "formatted_phone_number": "(646) 692-6666",
+  "geometry": {
+    "location": {
+      "lat": 40.7512171,
+      "lng": -73.98380639999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.75264318029149,
+        "lng": -73.9824006197085
+      },
+      "southwest": {
+        "lat": 40.74994521970849,
+        "lng": -73.9850985802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 646-692-6666",
+  "name": "THREE-HOT-POT & BBQ",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 2502,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113334354154406063833\">Rifad K Althaf</a>"
+      ],
+      "photo_reference": "ATKogpcG9zsrNkRmzwSC5zUK8qWLFRI-AP3vSUJRNBBzwILg4Kq2jKTk_gUWHOEqlS2ag1x3_TVndfLJMw9wthlLMm7GuGhVWiYDVX9qAJueNYt0jkbPH2tJe0VJBN6a_kYjEunROINYS7Uq2QL0CRmeg2QRTpzANFbpV3DS9nLGRGUPUTJA8ZU_SZ784VzvLKvpqVK59UJDdWALjgIF_Sti6PQNVZRapvn-zAn7OsgQ2xyfPQnUfGh0Z_PH-KXXqFh1c7hBWNboWf7YZ93WCRdDwCyEudxKkwVDjWaZpqZ5X4OwHSI3B5A44BAeAG2Ir1KopbyIOrAFNKZyrGIbDtIGX9Tdr8NPaNTF9NninNPhBK4340QMedm1S0YZ6vbstoWMoLIJHKuzhoBcM2wSSv2unuJ7OsBgYw4CcvXyL_OcaITY1Q",
+      "width": 4000
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102369980510920073147\">NARAE IM</a>"
+      ],
+      "photo_reference": "ATKogpdT7YsyzqzrN8FSImljDehj89tf9zW8cE_SFNCRL1wIdwS-YjaO0LMt2PMVn-ymRP53XFsg3ijjCP1AwkSFlj-8oW9b9KqHSld5tV8BJblnenTrvZxNrdI02BZ_3M-1LijFscuTnbvl3VewMc-P4oVFFecPCC0WaUys1o4A7Y9JUnbNTWHIt02KMFMvcXo7tJqywmFMj-rp8gFiv-KWyTzsnFeP9U4HFyxp6gznfCt78ORFHi2c1ZiBKvPLOrEEcPlLeI--3oawdo92e6EP2v1JU_ob-bLnXvHhFP-AA2M36Ih0jD-AALRmTWnG4lV0z4sAq7BydnDt3xnRzmJpn5o1L9pjGNrx02Oou1ikELhcUA9XR-M1d5ttczShvnzxOLN70Ts0sWLj3l-muF0TPbhHg_Bmn-PUANz_MGUNuNGe0vm3zHRSXDoxutJUkw",
+      "width": 4000
+    },
+    {
+      "height": 3408,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111427132879307916185\">Artoy</a>"
+      ],
+      "photo_reference": "ATKogpfLIhto7_2vqyxljYqXAw8t2RC0ygnY1mc497OLGj8ce0IwK9TcwxoXAcIFNAplXrivSRuUxKApoC5WCc9fbViws7cp2K_iJXfABr9ePp5hp47Okj0T-WWYsQG9208_4APfmKEvWEeezqhzBT7a2venedbeguxWdC31fcqxmNBMs07ChSxDvrQw6fQ4lLCdg32K8PZW1LnoiQNEK715Op3WR4Hu-etTP1zwmWbnUxcjXKtQfpL8xrXYyBltQwxmph-fo7CtxcJTjw0reLjVgW4Junx75CNzYgLpOVNaPjl5Ef2BMV176ucRfssHS6t-3n1NrWEcPLMiQ5ABJenXqqLjRFdp3PaU_RGtcbmJQ5INz_TTf9Tkl_YytKWzEYGBfwMU778saWPTmjxSQG_eTGnzsbmWhm8zXSSTgMOP098",
+      "width": 4800
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104384973743741704822\">Kristen Jo</a>"
+      ],
+      "photo_reference": "ATKogpdNPqERU5OfUQQyD3g0VMERy1sHdqU3fMNDrzpmdNgy9RRXZX2VEVYXXiFhmb1A1CMoDOrQWFF7VHZz6Nm97jk9FElcRZ1rP8e5av8edLZXkV67R8-NAfAHwT3HB7Briu5nGNnrgzOCM4uUXsWqdZ37s_w3SggJ2OffkdodT1gESyYml_G9ZmLZJu4_xvtRSIB2F31JXce5mkyivKYaQRaHj1FAFfKzAD6CJWW7S8FYXOqQ3FGLdbFtRa3MRCnxbbmGYwTyPycEg3RZRXAG818nORgQuruhSN-F-T8_qP38SespZhgQVHusMl20P2an8liE05ChkWRYCSpCUymn2VxfDYN_Sm3U63gG2Z5ordo7MBUXtWvsxxniMAgOj9nPwNwhR-JOwcOCL2EkV2p304F6r_FUY99-8l9kAp4SCKKhGGU",
+      "width": 4032
+    },
+    {
+      "height": 2920,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101307229368185133216\">qingzi wei</a>"
+      ],
+      "photo_reference": "ATKogpfLFbe3O7BFu8omIFOmTgcbus5jp6FNLZETh0Ap4qUZD3Qz6ev92nRc9U1cVPJkVC1RAJyzeO0EoeS3EaePPREvkC2iIoMEa6vKg3pE75858fhQ17NJk0dIYZr4p-Ba6Il_1IOUUkR4f-6TvhN-UbTCeWDEftMb3XG6b5p6Y23zFqkXP2hp7bbe0gbw4ojSGAqCUFAYIChz1y9ajm7N1IsV6tqCkOkPjNnhA-wZnoYG01ZbH_CRCmVOOqD7qCaBYRDROgqkbtT0pg1U8TK3djOCnpX1wBeeSBzgH1uJTHIr3LCGsyNkEyveJoZKS7ZOQGlH_sEA4YgVYKAuCIAqsnaqHhuQNMllNGO66puD7rT0utIeNOU_X48FbMaVNa2-CQJO074YEI8w5K3qcyU0wO-BMd1qgH99fHl4qLeVSrmnyNQfSvfCJMm6GqY-8iDS",
+      "width": 3894
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111277018293978417828\">Feng Lin</a>"
+      ],
+      "photo_reference": "ATKogpdQPMO0gdaeSjL3bMZvuc3qsyclz--zsP0GWuQj9F6LQffvlt2Pw_-GFrOmYEcQ4-VD02O3wMt6wyulIzy53vnrEoiZXRPY-B3AO64_3ZvtunpQpHvhQjUPWLyYEbpiyBAAuJYK6MAAcdI7yYV0sHA28xWsK2VQ4gKIQ6hhoTbkeYoMGs-aVhP6joDBcD04vGAq7Dnpombmmb1eB8uYFj-eGlNGRiwoEeiSmLyRiHwUqoDXFZ9f5nebYPsvgFUS4RPzx76co-BIPG6wSt_JZMYoKmcefSVRQ4NcaUJ2s_agxwIVzph9TlWnghbcnum9MCNFNt4LlRXfZ9yxQRtKqyFKZNfIr9v-Jt3p4qO3b4IGi_A0GbTE7ntt5_WAVk3ukMQstJzgrVzhydddmijhx6CGvXhIluKIoCwxXTigGG4qsQ",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112205052527292133874\">Kelly Feng</a>"
+      ],
+      "photo_reference": "ATKogpdcgQp-FGU7hAZtEQTIF0b9oMczyZsbn2jzSm00Ma_Cabcv8oz9b4HtX_0Z4BxYR0U_H1lzkB_7ajVXAybCA0xDZOWpWBioQz6oC5Irq4Wp3jpz5OLAukEGGJzB2C7xDLrXfG3OTecsumjtpww1KFTWf41L3SVCG0YLtRBjcrnM1NT7wanqMEuXgB8IYPS7g-rOMNLbw4AUfg1GwHjoczaczgRdZ2me2e3xTxb1i9HUUBuM_6nRqeCLKu7hGSGkhSzKpTJujFXOO6nIq-SG_02kv-4b28OHplXARkR4tkdj4D63k3laNMDrmpkdqUCTpGVKGCR3sOWncwkpQKcgsJ098sUrsNKsQiGhnqazvAsyS3hSduQMVkXzamN-4fs_dt3fIJVAi9KF5fxzTYCs8B2Lj3S9lROqkCpLOx2zvY5U20c",
+      "width": 3024
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113931081577795559259\">Joanne Chiu</a>"
+      ],
+      "photo_reference": "ATKogpe1D5z5U26ZJdeLYwbiANFMN_RSX2VDv0pmZlhNz1ZZTmeyd_fYfGh10AblWhqf7vNRcwFHcwTjn6AptUJfXHP7FB7LjHuiRPF2GEsF_0W70yaKegD9W35uevHBPx7eqsOaBA3ViVPyneHFi90ZhUdxAlsKDbI1am8w9WW6sKBospfPK_iwk_r4_KkU-FiALP2PfT2oe5GK43fE_FBI4C6GJVRhwWPlvDf1XmOHptix8JQC8mwqHr1gi_Rsf3_b2NjekhvN2KmBVNUtSHiO88vpyV4HG2ZeLmTNmVZzC6KCk5icL8um7k8-_hvQ6nlSJ5hS50CKeFMxDDB9iaj9VMLl9QjFqF7-swEa5wsF1Yv9TYIZNDDua_AD0-0Qg0kMPjJ60CTkvpJOK69-4iJpBBEDivjfo1k5g3i0rp4XGeRiz3aL",
+      "width": 3000
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108647108606070517255\">Yuki Dai</a>"
+      ],
+      "photo_reference": "ATKogpe9U3IemYmtrLL6t7Sqh1FpAIImcl2FSwZ5pOwFQ-OswE-kCP76ZXogc1kIgc-2i1gHWQ5Sow8siWLkLdQJMQ36VWXCS2Py8A8Iuz-2v7-_IoyvEct814StVH6MpEWrzYDUZWgEY0aOaG5kTxWu5WUztg3aYgE-5Wb3TWBKW15OBUb-cIEcqe7tqQMJaLkTWSSAD_HTETic_HLNvOz6cP0IR5BlDCpE0d-_bp5CUy5L81jyH90xCfedXBYCyprbu4XyXu7M2_r9rpaHvHxHH-jbxUG3mswa7d58-pJtoysMZrMFZAH3kd6Uypm7Db_Wq2Rh_jMgrASkl9I_SGPx_YrFFQldzP52vfkWFMmqBzRatnNg5yTLyW4IXif89QvDnT7c0VgsrxoyWYDbsIXVrVtY1qgHUVtCcVv1J1gc_QrY0QU",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105266671561913787087\">Olga Egorova</a>"
+      ],
+      "photo_reference": "ATKogpf-LSZFgT1ygqG_tR2Gaaxhi5oh4b_yg9JDR3FGZbpQ13jd9OdkHQs0IqoSpOWck0THpocdv4y0ICf7KsJbvEY7inIiZamLiAnSLyCJaPx2vx1GzN75OG6MmY-fRqMIw91k3DZC-3OinUi1FbhaTrnBvTHX9taX65r8adkvLPYsmdmMicpUL9O957HSWxCasfWvzvxATdDDh1ml9l-rTcSdLrjeY1DkvwYCLO6OqMgvaq9_0gRG09pdRu2gKnODqRJJuNZcXMRL2BexckO63eQeqKYmqebkAKe_CG0iHjZgw_X6HKPwtp8h3iZM4OXYQqUE7bn_0BKa_3YPpcGq5BSwzwfLeCkUI0W53gP1Kez35c5Ls_k7KcMxuzJ4Cp_K8RE62q9HugRv5aqreLOTTzlzq1I_GifZsBt2V4_PXJx4jYU",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJI4fvvy1ZwokR7gB_eAfsKBk",
+  "plus_code": {
+    "compound_code": "Q228+FF New York, NY, USA",
+    "global_code": "87G8Q228+FF"
+  },
+  "price_level": 2,
+  "rating": 4.8,
+  "reference": "ChIJI4fvvy1ZwokR7gB_eAfsKBk",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Artoy",
+      "author_url": "https://www.google.com/maps/contrib/111427132879307916185/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1-x95XgjhLUtF8xqPVv9gvP5P9fWNLlMCO5w5Quo75r8bO9gQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "3 months ago",
+      "text": "This hotpot restaurant has very clear pros and cons. The biggest advantage is the unique grill + hotpot combo setup, which allows everyone at the table, regardless of their seating position, to easily access both grilling and hotpot. There\u2019s no need for people to take turns grilling or for all the grilled food to be handled by just one person. Additionally, the price for the all-you-can-eat hotpot and BBQ is fairly reasonable, especially for Manhattan. The menu selection and broth variety are also decent.\n\nHowever, the biggest flaw is also the grill-hotpot combo itself. The grill is placed uncomfortably close to the seating area, making it very easy for oil and juices from the meat to splash onto guests while grilling. On top of that, the grill and hotpot share the same heating system, meaning the grill is constantly on high heat. Whenever you take food out of the hotpot, any dripping broth immediately hits the scorching grill and splashes everywhere, making it very easy to burn your arms\u2014a serious design issue.\n\nAnother major downside is that the staff never replaced the grill plate throughout the entire meal. As a result, the leftover grease and meat bits kept burning, forming a thick layer of black charred residue, which gave off an unpleasant burnt smell. By the middle of the meal, I had completely lost interest in grilling anything else.\n\nThe broth looked visually appealing but lacked depth in flavor, giving off the impression of a low-quality, pre-made base rather than something freshly prepared.\n\nOverall, THREE-HOT-POT & BBQ is a decent option if you live nearby or just happen to be passing through, but it\u2019s definitely not worth traveling for. The concept is interesting, but the execution has too many flaws.",
+      "time": 1740984480,
+      "translated": false
+    },
+    {
+      "author_name": "Libinski 0G",
+      "author_url": "https://www.google.com/maps/contrib/118441664754890020601/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdRsXvnnThXbi7WZN4gxyRQvFV7K46daA3fe18V2nE1s0A7sE=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "6 months ago",
+      "text": "Reasonably priced with good service.  The ingredients were fresh and nicely portioned.   Only one complaint, the quantity was inconsistent as we ordered the same items a few times, such as abalone and dessert.  Nothing alarming since it didn't affect the price, just hard to plan our orders.",
+      "time": 1734311655,
+      "translated": false
+    },
+    {
+      "author_name": "Andrea Hoang",
+      "author_url": "https://www.google.com/maps/contrib/104109881772830792858/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW9dyy234n6XALT8pYie2ZmbaHNjqKxKMczIdy6zreeUoo4c5pb7A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "So good!!!!!! I came for the hot pot mainly, and it did not disappoint. Tomato base broth and pork bone broth were both so tasty. A great variety of topping to choose from and the BBQ selection is very nice as well. Sauce station has every essential ingredient. Definitely worth the money. Will return!",
+      "time": 1744445345,
+      "translated": false
+    },
+    {
+      "author_name": "Ignace Manoury",
+      "author_url": "https://www.google.com/maps/contrib/118100755139839783919/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKp5LmSpwc9d-moR9OClLtEfacDXLCLdT6zkooJp78FDeVoVg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "From appetizers to dessert, quality and friendliness never drop. Large servings, good prices, and excellent food make this place special. Almost all offerings deliver on flavor. The service performed with outstanding quickness and every employee appeared happy to help. This spot has an excellent location and the team treated us well the entire time.",
+      "time": 1750675788,
+      "translated": false
+    },
+    {
+      "author_name": "Olga Egorova",
+      "author_url": "https://www.google.com/maps/contrib/105266671561913787087/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXkeHZw2Bxio3HpT8bULNFANVFcfyoZKbnEEC9zkoL8kN4vj_v7=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Great place with cool space design, a reasonably priced AYCE bbq+hot pot with lots of fresh and varied options.",
+      "time": 1743386050,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "food",
+    "restaurant",
+    "meal_takeaway"
+  ],
+  "url": "https://maps.google.com/?cid=1812958366847140078",
+  "user_ratings_total": 987,
+  "utc_offset": -240,
+  "vicinity": "18 W 38th St, New York",
+  "website": "https://pos.chowbus.com/online-ordering/store/13868?fbclid=PAAaZv3dcSFvn37VDLQythPBzMImumOMVXp6sJccvfEQ2w2K78xTEkD_b0TLc_aem_th_AV6eEcw_tB1aHa6KzBhYomTzCT123Jc_Wjo9Sk1vY0edZAKTL4WqaHUhgzHOKUYnqvU",
+  "wheelchair_accessible_entrance": true
+}

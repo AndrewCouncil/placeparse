@@ -1,0 +1,560 @@
+{
+  "address_components": [
+    {
+      "long_name": "31",
+      "short_name": "31",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Saint Marks Place",
+      "short_name": "St Marks Pl",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10003",
+      "short_name": "10003",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">31 St Marks Pl</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10003</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1430"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1430"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1430"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1430"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1430"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "East Village-based restaurant  serving Japanese hot pot, sushi, ramen, and cocktails."
+  },
+  "formatted_address": "31 St Marks Pl, New York, NY 10003, USA",
+  "formatted_phone_number": "(917) 905-1864",
+  "geometry": {
+    "location": {
+      "lat": 40.7290321,
+      "lng": -73.9882174
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7303064802915,
+        "lng": -73.9869237697085
+      },
+      "southwest": {
+        "lat": 40.7276085197085,
+        "lng": -73.9896217302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 917-905-1864",
+  "name": "Kimura",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1430"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1430"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1430"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1430"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1430"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103142027595257613009\">Kimura</a>"
+      ],
+      "photo_reference": "ATKogpez2XpZKjG1BtNhXQ90K9avqOio_vh14DQm2XacwpS7Snxx6mLuT_trl9dBSnO00x3KNdSTtmH4W_akoVepn-SPKEJAjH_yuEAK340XOTjSSEew_EdFF3NrL6WCD7xQPPfKNxU493xPClLq8X6xYRoHUkV6qkAKf-hRD21oTNe7OLLYRRpMlyVw69TKFnpkWYvEH9Xg2MWXrxrOLdQBu-bXh3Fif03aAXZWq-Xrda3sA12MhoD0Ot6ezJqSpuI3ESTH21-LKPqZ1tQUiIMMPuaLZV6iA5VaxNDAm-31oOLttg",
+      "width": 4800
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103142027595257613009\">Kimura</a>"
+      ],
+      "photo_reference": "ATKogpdYaw-iaygm1PDoC5Q2j3DQDy1iq0dj6C0RcOxi7rWH0SorztjfLF1tfdllyRI0sSgeecr9yC-Zk2ji3VFSm5LRr8Vk80sX2xyDeIdXAcV4Co2jFVa7uWcqr_fo75dCSFYI3Xz5F5N79I6ntdnv_KnfSnfHHeb2wgkyA09c6mCBNVnVgTwHAu8j_WCHr2rws3ElRx1x0hyS8NaJdA0f6Gnrk9aDkR853VnlQKIN6aXMJaYQ-6Rn2AfUs1MBlvRO0usqc5m_Pc-2z2uR43DCNme9ZWWi9MLrKBAdqm9cSRdceA",
+      "width": 4800
+    },
+    {
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102695439739093953846\">national_jiographic</a>"
+      ],
+      "photo_reference": "ATKogpdpQXM1rz5m8dVmehBbVQl3HU4_OY37GtHfTyvnYVGTp1wCQXbGHBzmX91OwnCpDNea2P5p1VpTKnrVktWGLvgxH4K7r4JEfwEwwVaaZfpNUGFhVGd9RMPRgQpeC8GYYhQC7QNzZKV4srH_XUcidVChTVd1nS3ZlAy8WjjYDCmyVtfnTVvpWieqLVlOKsrjqfwbKnnvDAMw9kZZoQsWWTg2a6wKNi5VzwNtHrmvx9FOsTIWW0QF801NeGXctX_8rTSYyPv1huJXE3qFTES-nrOEqbkHQf-nepF_ZmXx4UD8XwNlPInn_pXcrSW7suajeY4WPIIKVzY_SLFJP2eRD4ljrbLD-m_LIkrR3u7bAf79yJZ4iq3yYcM6HlwCVBCqGMdOYpoIGc6W2JPSQBCcYfor_RqHJxF5BWXr__9aM3_CXXe2TsEIK60u70ey6EhQ",
+      "width": 4000
+    },
+    {
+      "height": 732,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111308912295517404009\">Kayla Duke</a>"
+      ],
+      "photo_reference": "ATKogpeiYtMuJsIVlH7NN9_Okm749ERFQodf0XEPbEwNQYJ_39QI0LGSooiUA2dQlPv4svesS2mAOLfK60I7dnzTC3bIGcB5ddbGE-76MIQfEbo9ZV3J_yvJcf_NN3jdH6Pf6H2YHqcqQGaZx4zoxzRbw9VjW_aKK-JZhLNsD7EsHphrFXwMAosE_91pi8uOrmseKq4gruZ-cMxnLKN3DPVbyGqiFE9X_JgbvOT7sz0K4vliYyq_AwMZzTUQOvDnYlA0sh-llJf0uGU7CHDyxVFSiMWy_ZolbJQvDIqjrND5TLpCXko7YjoRxCIPiQffnbr4-e0U5uufnJn4UJ4C0w5Y-QKMKHORLkNhfWVQKYWh5e9Mg0JmNNRyy5zdjeV_maRclAmfwDAo59rncowAfj6SbeQMQ5f7UBCcmVoZbLhBCd49an_2",
+      "width": 744
+    },
+    {
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102695439739093953846\">national_jiographic</a>"
+      ],
+      "photo_reference": "ATKogpdBUW5-c7OtJcv_OjPrDJmh9l_wNhMT6TbvUWTy9b_NVisvyn6hL5uzLXNcz53XRIJ0nNalwIu30xuvYReulBZtuqBVUElR6p0clsEM-BoAjrH1H_fYwFyd6pTEfJacNv-XNGsOz6Jz6NEL8rfJf8v8wwN3UKJwTikq78Og5cDqTgz_O6IdunQplRTG7BuFQUEAIZHpcXYgPXiqDF__vnrylEdhU7djhIRB8xVTgGjvTzJrw_FP1HYNoIaJCs57alvgQxL2rA5kF4sP0vMSC79qTrrCH03F7wzKuOy7Qwagi1vkDFLWmcgFKj9fGOGLHZs2TALZ5SGN-haNQcHrkcRnyIGRfv66dFv3EffXICL8iM6c1-iRUyg1SGGZExj-qTvjrlb9IOAMyvOSdJ1AKvxRptIjtkFg2NYz7GwQlvKfeiBGC0NDZB7gbyt6OL04",
+      "width": 4000
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102767057222839890101\">Barilly Li</a>"
+      ],
+      "photo_reference": "ATKogpcy-OVh1ac-u6l95rQpfubVIbPZACsxSX1717mbP99Vfs5FdpD5O9h2jhrMRpxyQ2qRc6cu7CVxUpo8Q-bCWjd-V6FpjlMcOWX1J3pXQCp9pEssUcKUKA_p6ERQa35YL9jwrI78Q2ibfJCCHadYEWl-Vg6ayoriuV1cfazXDbovBmIw3hN_Hp8UkkWMHIDy6uq5hvRYlfcg0INGKZOAGmmCAZJW_zlLbmCWEluHyo6m0zDlNOpAlfWv8DdRzC25u-dJZIEYopZ5oq10H0GOE0i3fCt2cRdrt9BXFHUjtpfUyS3qt_w8XyHCCzbHGhZkgYdCLMdQ_QdzeZHH7FRYEcm6mRoLIPssfPbhFvzxhOz-Q3wZbIpo5NJlPe_XhgWlpeaxioG96TmQTMsex0xsvVrVGid7tJXI2BTU1V-vEmRJkg",
+      "width": 3600
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106318964416026982542\">iVes Winzy (Williams)</a>"
+      ],
+      "photo_reference": "ATKogpcz8PYKrzryP-VufAwmO7HXVmrhEFV3OicFFG1i32mXuqDhOnuhFOuHAE6wROSKD18j2iRxwwW94GwgStHn82AUJtJg5BqbtNAmZcxClWyKvjdPqlkq5jQ_YJg2XMGbtYoOBo3XMpTG_vk7ehGQ73an41ZKfvyFr-kKmuM72GM96X4tadEvnB0DMA-JglrP3j67wvg2KW5B4rOiRkStKYQ8FHsjpHyHNkK12cuPnG3hCyVYzluNzn7zvZh0eBJPeerCw2cfB0fNSHY5w00xLQjSvXmfALIkx5ZLEIIDTzv3dDxF8Mlx_OwXHxGNSyhs04ZuEomnx-PlHr3DFuSeDXSfInzWiKMTXcoUKMDIc_sKo9CpsGK0oBtAlHbu2n85i9WMBSlIG9Z3XF8U7Sf1I0bigzJ_c7riByBsM2bLf6e5Nw",
+      "width": 3600
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111871169791752641134\">Yelin Shin</a>"
+      ],
+      "photo_reference": "ATKogpeEI77OqevzrIPJ6T2A1vZ64tJzsiGN1st3boinawO_qpEyf4f-Uqn9qE9cOTBk1ddArFx-ddzlAC3EiISmti774F1-kOCY5-VzoopgEMCsB6in1LBZqJ4Kq48OAQbHR2L6HrxmMdcLklucUPc3c-GrP99o2AjUlbuBWVysZT4pMYteUM3rEKlqZP1JgU9NQsnOyLw2eQC3yOkZmgSNMZmu4xcxkONI2xbpomQkQkeM-2rLQ5ib-DlwZx576PIq4qCpiZ0Yp1uj7mtqUA2fv206_yU_Q_MUng4poPGjFn-efNlewS6W8Tyl5RGfMrYxUCGSQSGLcORUfJp_R2P0X72t7RMLZdI-HEGbgvSvHr5VZrp_8jRobX9JfZf9cfUlOA_bt5wma1KtTve8di3UROnGerUotx2xnX8ZOtYuEsoWVg",
+      "width": 3600
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104724097943836795185\">Khoi Pham</a>"
+      ],
+      "photo_reference": "ATKogpcor-gc2r9uN6JUb8owiwG2fdog8KYGlQcUeYD9kSLOMkxv_-5gDROR-ridV2guNCqNdxo1verqZcMMLSPBCk6-OCXZRnkncaMT6f9_umWBsCuKtLtr9C1uh9Jp2SHkSJuy9xOREHWGaZ4xuuenGxB01pFC6uT9-Jq7YZ5VJqMwFQvfPqg2u9hPxakiHHjibFBlW6tlti3SF7tMnTXfITmH_fkXfPzxxujKWn-tfF8uf5oYDs9XfNyLbpCNBmGFhDZk70xxu5u9LoEAHteHJ580x8WHD-Djm0BKE4AR3ERqbG5mHQv7BovAjFBtOqjTIxfBUev6BbFmsx1PbPLcqKSCrluradU8kFKs3EOjWsSVPQgsJg8FfMs1ZvDVo4f7S-guGarLHR97uvLgYzHr1ngSSKXOHwRKMCSaN6Dvc22NV6Zz",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105198936559294126437\">Pack Katisomsakul</a>"
+      ],
+      "photo_reference": "ATKogpdQGHFcAbxvmjEb1afsytnzgQ10KIibY_MZK5r4DjVngozDAMcbRsihcsa4EceKIUWtiZ9ASNjs9wWRjrqefDE2xRcznbgF0_xP75ERoEeFIlxKLoKA04CXHbjkvxcV9QFznUZuiOP8spzbnPmHTqCdo1Se4vICJ3mPiia_PsoETmiW7N1t-SC2GTalQJ0asCR_zGzgbn3LgWmbyGfWl2tWQueb5xz_ECcVBIs2HGYT8MFbFElQL8PPtzyiTWc3LoR_l5M6h3vddbtmxFz_3zPuVha0ehf-t9ZeCTG4aJinxL-vQta3IMX9s8B79LZNotuy-iDW4xcVa3xXYZlG2dTtJQpbCbOhU6yLo8k87ZO8GCERcxQv6RYUYTheLkrNN66KaRnd4jVeDb66JlDodIFwbS6TY1unefppPJZnBxY",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJR6LukiNZwokR-MTHVUbu4q8",
+  "plus_code": {
+    "compound_code": "P2H6+JP New York, NY, USA",
+    "global_code": "87G8P2H6+JP"
+  },
+  "price_level": 2,
+  "rating": 4.5,
+  "reference": "ChIJR6LukiNZwokR-MTHVUbu4q8",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Min-Yuan Wu (\u5433\u540d\u5a9b)",
+      "author_url": "https://www.google.com/maps/contrib/109377925133210517799/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFmPe_5Q5mDbUbZ7sF6ZD_280XxTk4Y_vNscTu18S7zpGhmw0d=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "My son & girl friend treat me for BD. The food was so amazing. We tried two different two kinds of pots, both were very tasty! The Kimurs Benton was so delicious with all of varieties in rich flavors. We all loved the food we had. We truly appreciate the chef\u2019s did an awesome job!",
+      "time": 1748347704,
+      "translated": false
+    },
+    {
+      "author_name": "KK",
+      "author_url": "https://www.google.com/maps/contrib/106019870827270154858/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVclShxyJMBYMdCs4QJoHlMzfMbNUyruWe_I18iW6fJ7_2MDqVw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "Food is good! The beef intestines are chewy, and the classic soup base is full of umami. The beef tongue is also recommended. The fried skewers are very crispy, but lacking in flavors.\nThe portion of the hotpot would be something I\u2019d complain. There are only two small pieces of port feet in the pot\u2026 rest are all cabbages\u2026",
+      "time": 1746806776,
+      "translated": false
+    },
+    {
+      "author_name": "Paul Ampunun",
+      "author_url": "https://www.google.com/maps/contrib/110377770150558895658/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzvUNDe2jC5ruEo6SQJAqH_84t30ujyy6JPpXMzy4F_uSvNLFfrw=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Kimura delivers a warm and inviting Japanese dining experience. They serve a variety of well-executed dishes, including fresh sushi, flavorful sashimi, and classic Japanese comfort food. It's a solid choice for a satisfying and authentic meal in the vibrant East Village.",
+      "time": 1744901780,
+      "translated": false
+    },
+    {
+      "author_name": "Holly Kerin",
+      "author_url": "https://www.google.com/maps/contrib/104517543304234393896/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhnxGVUQYvHdOrCU32K6Ouh6wJQJLGJDMPAGLkG82tt0OLHRbS0w=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Authentic & great!\nEverything we ordered killed!\nMango martini (although basically was just juice) was so good, green tea umeshu highball\nTuna crackers & fireball roll were fresh & yummy.",
+      "time": 1748348532,
+      "translated": false
+    },
+    {
+      "author_name": "Maydonshoots",
+      "author_url": "https://www.google.com/maps/contrib/113334552754581141801/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtIZZlNQXA51LglAfyRFsuAFZ5RAjQbRnrHpLY_T7dd2dgonW8=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "a month ago",
+      "text": "Kimura has a cozy, izakaya-style atmosphere, but the food didn\u2019t quite live up to expectations. The yellowtail sashimi tasted slightly off, not as fresh or snappy. The beef tongue was overcooked and mushy. The miso mackerel was decent and flavorful.\n\nThe motsunabe (beef intestine hotpot) was $28 per person but felt overpriced for the portion \u2013 mostly cabbage underneath. Not a bad meal, but I wouldn\u2019t recommend it unless you\u2019re nearby and curious.",
+      "time": 1746542250,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "restaurant",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12673954287228273912",
+  "user_ratings_total": 863,
+  "utc_offset": -240,
+  "vicinity": "31 St Marks Pl, New York",
+  "website": "https://www.kimuranyc.com/"
+}

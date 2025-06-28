@@ -1,0 +1,430 @@
+{
+  "address_components": [
+    {
+      "long_name": "Suite 6-8",
+      "short_name": "Suite 6-8",
+      "types": [
+        "subpremise"
+      ]
+    },
+    {
+      "long_name": "1750",
+      "short_name": "1750",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "South Rainbow Boulevard",
+      "short_name": "S Rainbow Blvd",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Charleston",
+      "short_name": "Charleston",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Las Vegas",
+      "short_name": "Las Vegas",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "Clark County",
+      "short_name": "Clark County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Nevada",
+      "short_name": "NV",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "89146",
+      "short_name": "89146",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">1750 S Rainbow Blvd Suite 6-8</span>, <span class=\"locality\">Las Vegas</span>, <span class=\"region\">NV</span> <span class=\"postal-code\">89146</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "1750 S Rainbow Blvd Suite 6-8, Las Vegas, NV 89146, USA",
+  "formatted_phone_number": "(702) 331-6440",
+  "geometry": {
+    "location": {
+      "lat": 36.1531901,
+      "lng": -115.2425021
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 36.1545492802915,
+        "lng": -115.2412059197085
+      },
+      "southwest": {
+        "lat": 36.15185131970851,
+        "lng": -115.2439038802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 702-331-6440",
+  "name": "Calabash African Kitchen",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2030"
+        },
+        "open": {
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2030"
+        },
+        "open": {
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2030"
+        },
+        "open": {
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2030"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2030"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2030"
+        },
+        "open": {
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1512,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102076377774397473166\">Calabash African Kitchen</a>"
+      ],
+      "photo_reference": "ATKogpedaF94h-0WsgaS-4cOlpGA-jVZUug0M6HfUt_i4xduABvY_XKNvxeFXW94IqqT_BPXECsYQ9-Eq7nfgs6JhpgMyV35winDN-X1My_uqh3iJIvj4ZObWhC8DYmvGJiLRAMdHPkbT9EsW5GMD_o51znbOU0dwxf_AUq2tFeUKmMcbA5isDB2jjS9nra51K1GyKj3LaMOErPq3YUKk5XmcFFR59IPoyo1V3I6_qpVxcgnpJg2tjm35WoEaBSngATZzwAwjGF3JuOhvrSj9Zvzlm5v_VJTY_x8za7WZhm10fk",
+      "width": 2016
+    },
+    {
+      "height": 944,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102076377774397473166\">Calabash African Kitchen</a>"
+      ],
+      "photo_reference": "ATKogpcVI0RPNC9K97yOQc8HjQzN_PHvuRKfbhmzkSy0wDm7rZO_8gby0Ccu8j-4d-a4kxFzKVCbULVnvvNHKIx_h5RK-X8QJtbTOcb-pIZ7fbFlR2yXQQ6O7taj_cX_moInAYP8dw3Opc1dJHBkcz_CTmqraVLfWYQihtVXN6uB0Z1hRoHgTcLTlxa-vEAQiEPSQ1BIfIwlYa09ntrbOtidwtZyrjaspKL7qa3eNhmio-mUClhSto_5jvoKkRf1XLgULtZv0324dkDxqbAAeNvDpQZNTRUS8ya3r0B4q_Wk-rQ",
+      "width": 1680
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109435182036955140709\">Diana L Franco Lopez</a>"
+      ],
+      "photo_reference": "ATKogpfyLY3tbAFANQbUhBsAPAN4GRPr-TfzCR3VAWgMJW9K8v9PmKDvHJsUQGHGiUiULIcrnuWuCUCV9vDc3BNSgoIa1sF5HYGGmfWaHPeYPzoUG1S1MRyaeakr3qRjUSoUKE1rq75oHS3UGgg4Ozo-V5RKnn5g0tmwxsAPjEn5RymsdK4WAOQF_MGQRkFsMpy4p36JAV_I3OJY-2vViubVQdeweJQZn0S93luE0lv4M65rEN1n9oyiR8Pa1irp7qIU8M8vmvbIuOJvv2u6-qZ5OFi13kbs4dVQ86H2xQ1qWKHbioj89ukrlPKPjT3nkJUiQXB3lDtkyezimBfdN0Tc_hNwIy3woU7Qm0AEvO5JbUdTHuLNNYgHnHKkAAReFEbNj0CX1ZertNNLs2koC5rPUgXc67IwvF_HRE7pXVRzhDmFa_A",
+      "width": 4032
+    },
+    {
+      "height": 2992,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100019283609802598285\">C W4</a>"
+      ],
+      "photo_reference": "ATKogpfc4rcX8P4_t1qqENG_EF60wGbUeJM12BMp-CBwdMIcO5jojV6nNqVw1i-Kq8jmB5Fh2_Md8zBEDwZt885BdrHr7X6_ikaEf4s3Mg8vwiVhHFNjTtBv5_l52wqmdYccgkG4PkblnDICe-e-9lnC8-sg_WI7dvZJ3USHLGYI3GWOMBc7e-S50PWPbdBafVFsp-qzx8ebfcq1_ZF7xYDIPkeOmGQZwYkUPZkAwS0gJTK0l7YvMrosrwqwAUkNeQ8bhEk2xRndarBVxre_XTHFbnwKsYciOKvXdarSzkiCT1D5NpJvX9UB-bcgggmrArl0CIj0IqCsLjdJtUCo36nV-eaHVbCbFjEg_akfFoyB_6rxC3ctalkF-qN_5rmpk27UOjTcfseW9g0pY3ySz_09Y-2A3vnUuzeB0iBt7sFZ_eFelQ",
+      "width": 2992
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117442982451833258456\">Clay L</a>"
+      ],
+      "photo_reference": "ATKogpcPBlD0U0_KQDIvnNWBhqpVM2EyODMFpaY8v9451UrYIY7kvioVp9r0kOqu6ZMKpR1t1gfuavGulqn1tMyNbYt652G892NMfdxdoyuTkGKSbKNtycuRfSRAehf_VkSRtatnCEoDwwlVVH680m9RBqjqRVrR0MqMByCsrRrG_XSRHhU58KbTnXs5lXm1mvBjHjuLT4puwGayN2xjZ8q5LRbqh2QDIXuJ4olin6ZW8HvPAxPOa8PmqHgE_-AV_3XozimiFUOAFZZ_-Ml-bEZXrnJKWpwvF8qDAQvcYGUgJE7av295i2CkUJ4yuSxL7ICXTCsUxkmouLHaXVXT9GM91nA9J2hhZzHEq6Hn5HRPHVVIcsMmx-TRqKTDwCgrwmA8QF2az7DTtdpUI1PFw7vnlfarH3OJyzzyt3KhvROeeQOLWA",
+      "width": 4032
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115398410973208235336\">Deb Parker</a>"
+      ],
+      "photo_reference": "ATKogpdew0zd8i4LBx3tknkTH9NR40LyNZ2H6VXf-t2TBBzo3p6YjseS4DFfPGosApwLh6u7t-4dwSGwyfa_SvPau9XrNdRYl1enKyVtI-yhvZDIlLSIcOs6IfH5RXM1tTg4iytl4-Q98FgovGMKuDtqAq_7gQ6KWybzQlVF8ruj8dDrwRZeaCXXcfOdr8JoHyPLquyllbT8r3dYvSGS3GWnVjjrZ1DG4pgeyqt1GCw4RL_VPzwD7Gh2ZWxN_xhqOv5MDFwCWtZkFKQoujtgLkAcq85rgzKtYSgVfjkDROV_PfdZ91F3mDbYXzBDTfAM8My4eZGg-oBxQ0hEVcCIgCVhAEoCGiqxfWMSE9L5SmCmMMsCbJeoK4SV6Un6kJgy535MKiL5zppCo9WBN_ywiFPKNak4JCNJjTgKNEBsxS3vCXo",
+      "width": 3600
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116688124301951135857\">Ndifor James Nih</a>"
+      ],
+      "photo_reference": "ATKogpduMVrhRSq36rnmVgi_uEJMuElyinuJK4oIsdXTa9NFsx-k-Wcvkz9yhzJCRrb78TotIEHaVjDqeiIeFjqZBl6nR_Ao3K6Sek-yiwmo-U2Xp4aK4SCVcGaJK-NbvbOkI9deTSj0o4BIYpYTCU5faTNpwaEjux3Sp8vdehiiTkKzDkwohlaggVwSW_breQMKRJmRDQGnjhBgJ8MYUCmbd4fH1lJfrZHDwMAHvhSnBkYS6n9ZIp5Ra-2lpPyYHZa9fYU-jdejy41-bwV12XcJWLe09mefEMIn95JNntD98OzLT0UvDgyH3qfSF9e_X6iPhJLabbat4QVEvi-xivtamu912qT0t651rC4mJIeL0TZnXZhcyUM2RKp4b6-uFSNCi_Un_5Jvz_X-LwMPr0BXkGroQkAX1eiB7klu1QVBRuI0RQc",
+      "width": 4080
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114041970927134350898\">Emily D</a>"
+      ],
+      "photo_reference": "ATKogpdZO5MjokZs4zU89QsFqon78q4tnMjVVFRlueB41H4i4cgtRAMJUWPRrJoeiB-STtBql0JRntli9K11_MsJf6av20fcjAK1AgH6K83PMcHy4xeaHJEf5vopIBpw1fK2wVKtRf_Opd6jCC3njye8AruIkuFnxy0N2WUwcvFsa36y_gW06BycM-LzUV1X0o4YDtFWysoM_DQJAMJZCknYAIg8kqy3ByVsimkEw3OYDGGz8oYRshfxBvSA6X3eyBjySJVBtij1mbeTSb3Yy5nUy6-rdHJYhlaIlfvhuWTWtoK4uUt-Y18rLtLGSwIywGehJpym-ODuEzyv9EvTG-G7mKAW2DoQsDXZE7g9A2zAO-WwRkAvp3mSNpe9jOk_qFZCzYqlcX7Sqg0bJE0fdRGTgibEztKRBiVlO1KBTDgCmVqAnC9ismgKAB10uGlqtH8r",
+      "width": 4000
+    },
+    {
+      "height": 2992,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100019283609802598285\">C W4</a>"
+      ],
+      "photo_reference": "ATKogpchpR0RI6O9GXCa0PMvf_0db-xkoebIPRE1FNSlkMNpbxlNTskX3u3bOwt5dL3Ji_6jMOdtAQHcDg85Q-IUE9Qal_4mH9rTaLBT9D2h-46z343JBMEBsh6rSswG8IhBHKt5772pBOKGiZdySg8tIo_Fft5kA-SFrkzZnh1oxHMigPddvOM0wN_-QU9L8tQgxHAbiFiRDRNJoFb_ktuOnIkrLgXzpzI53XCAuYW62X4JWQp0lCDrz8NCbkdDro6GEQS0k09DWamnOtjOOkHZ4F22p1ocCxDZ9PoftIDp_rmwglTKhejiop0bvpj3ejGaMgDOTJ05M4t0aI5MTjT12tt7Ip9QA7mBf3_TDMVGBO3Ud8RrsklrCu31_rDvqcjQ47NmQE1jnKB8tb_HNCV67XwoHNctQBqJtP-KrHhImqE",
+      "width": 2992
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100386429036648281271\">J R</a>"
+      ],
+      "photo_reference": "ATKogpekUDR-4Tdlhbl37dcizaH96ZgSr7BjwVc-89VLPC856Au-jJ4mp0TwzcWAim3yENdCAvs9XB63yHlCR4E6waPdlBQ9sUreL9l1V9WEUte9B3uFl3kTD5Dw_oWh9JoEFXWW54Y2AWH2SBm_0QRKRwHutNlxn3gBN-MzJq_C5anKrBrccWnq2n6ah2h3z8VJqqwsugTWLn5ANQXLfDhNMpGxVD5MyPJ_LcgU5Txc2Iig5DfyoWnFtaqA3EZSvBja1Zk8wp8dtTPLXbjk6EJylsHFE4GcujxNaRp5s8vyB5b1VZ1FSyzCYfGNYJ_I9mDplwonJVHFeBzx6UwViQtS4l6tFnp5RyUUR9FrNtKKTArMtjm3-rESm3n3VBMpnaRuUMWLGAs3rBBrmheBTP3YswXL_tagdPmuHkMcZlkdFrEXrg",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJ93aBhkfByIARIJtrekZ7l2Q",
+  "plus_code": {
+    "compound_code": "5Q34+7X Las Vegas, NV, USA",
+    "global_code": "85865Q34+7X"
+  },
+  "price_level": 2,
+  "rating": 4.7,
+  "reference": "ChIJ93aBhkfByIARIJtrekZ7l2Q",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Emily D",
+      "author_url": "https://www.google.com/maps/contrib/114041970927134350898/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHVqHFwGAy4lDlPVlIGU0PqSLt3F7axYHzQjDG2keb4OYVwavUBw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "One of our favorite places to eat in Vegas! We have eaten here about 5 times and it has never disappointed us.\n\nFood and service are top notch. On our last visit, we had empanadas (chicken & beef), ox tail, yassa chicken, and peanut butter stew (with chicken) and fufu.\n\nThe food is so flavorful! All of it was amazing. As we ate, we kept talking about how good it was. The chicken had so much depth....from the taste of the grill to the seasonings!\n\nService is always great, never a complaint.\n\nSometimes when we go they have a DJ, which gives it a nice vibe. Only caution....this place is good, so we try and avoid \"busy\" days & times in order to avoid waiting for a table. Even ay off times, they have a good business those!\n\nDon't sleep on this one, check it out!",
+      "time": 1750397248,
+      "translated": false
+    },
+    {
+      "author_name": "Lauren Robinson",
+      "author_url": "https://www.google.com/maps/contrib/106398122297843479860/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX69GPagNaxz3ihFHOAiP8GOIJ4RJpnMjiTb1bjM63PWIcFCZua=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Me and my friends went on a Vegas trip and decided to try this location. We seen it months ago as a Keith Lee review and was excited to try it because we enjoy African food. All the items we selected was sooo good. The  ox tails was so tender and had a lot of flavor. The red snapped was a beautiful presentation and it tasted as good as it look. I always eat with my eyes first and they did a great job presenting everything to us. We said we would definitely go back if we was to ever come back to Vegas. They also had a dj playing great music. Definitely try this place the experience is amazing.",
+      "time": 1748390921,
+      "translated": false
+    },
+    {
+      "author_name": "Jeff L",
+      "author_url": "https://www.google.com/maps/contrib/113939717810828943705/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIKKTcBA6QH2vsF8xOsUrEq9p5Mw6vwR3s54P-oLt97MGTttA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "By far the best food we\u2019ve had during our stay in Vegas. Wish were have been eating here all along instead of eating at the strip. The food is seasoned to perfection and just tastes like good home cooking. Isaiah is a kind, and attentive waiter. He greeted us as soon as we walked in and continued to make us feel right at home.\nWe used public transportation from the Cosmopolitan.",
+      "time": 1743028168,
+      "translated": false
+    },
+    {
+      "author_name": "Nichele M W",
+      "author_url": "https://www.google.com/maps/contrib/114658241541563041801/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_NaScQT62efZAEmRUdaUbpCZSA_x7pdlVcN6qomiMhkJvaN22=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "I visited this place due to a colleague suggesting it cuz she loves it, and we were having a semi-business mtg.\n\nThe atmosphere was spacious and clean. The staff were very friendly yet professional, welcoming, and the vibe was nice & chill.\n\nThe food was good. I really liked the Fataya Pies (empanadas). Drinks were great as well. I highly recommend coming here for great food, welcoming people, and... OH! Live Entertainment too! I wasn't here for it, my colleague was, and she said it was really nice. I believe this was on a Thursday. Call ahead tho.\n\nEnjoy!",
+      "time": 1743295740,
+      "translated": false
+    },
+    {
+      "author_name": "Haneen Artaba",
+      "author_url": "https://www.google.com/maps/contrib/100693766194856378175/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWNyHy4UO7a1xz4omXw1ECg2oBnugtY8XA3zEv3U1D0aqEIH0a4YA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "I'm so glad I finally remembered to come here! It has been on my saved list esp once I saw it on IG & started following their account. I came here today, the day before my bday,  with my bestfriends after we went to watch the live action Lilo & Stitch. I've always wanted to try fufu & their oxtail stew! So of course, I came in with a mission! I ordered exactly that & did not disappoint that I ordered a to go for my fianc\u00e9 bc I did not want to share my leftover. It was so delicious! The oxtail was HUGE & MEATY & fell off the bone. I was literally sucking my fingers off. As a Filipino, eating kamayan style is the way to go...u get the full feel of the food at your fingertips. You know it's good when it's finger lickin' good . Our server was really nice & when I told her I was Filipino we started comparing food bc every culture has their version of their dishes. That's why I always love trying new places. We came into realization that the oxtail stew is very reminiscent of Caldareta! So if you're Filipino & reading this review...don't skip on the oxtail. I'm so curious now to try their peanut butter stew bc she mentioned how it is also similar to Kare-kare! I can't wait to come back! It was even better that when we went they even had live music. He had such a good voice! They definitely earned returning customers from us. I can't wait to bring my family over.",
+      "time": 1748297444,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "establishment",
+    "food",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=7248397667907902240",
+  "user_ratings_total": 906,
+  "utc_offset": -420,
+  "vicinity": "1750 S Rainbow Blvd Suite 6-8, Las Vegas",
+  "website": "http://www.calabashafricankitchen.com/",
+  "wheelchair_accessible_entrance": true
+}

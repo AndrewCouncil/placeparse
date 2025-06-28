@@ -1,0 +1,651 @@
+{
+  "address_components": [
+    {
+      "long_name": "33",
+      "short_name": "33",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Carmine Street",
+      "short_name": "Carmine St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10014",
+      "short_name": "10014",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">33 Carmine St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10014</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Temaki hand rolls and other Japanese bites served in a minimalist setting with neutral tones."
+  },
+  "formatted_address": "33 Carmine St, New York, NY 10014, USA",
+  "formatted_phone_number": "(646) 998-4588",
+  "geometry": {
+    "location": {
+      "lat": 40.7302914,
+      "lng": -74.0032496
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7315532302915,
+        "lng": -74.0018603197085
+      },
+      "southwest": {
+        "lat": 40.7288552697085,
+        "lng": -74.0045582802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 646-998-4588",
+  "name": "Nami Nori West Village",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2130"
+        },
+        "open": {
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2130"
+        },
+        "open": {
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2130"
+        },
+        "open": {
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2130"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 2202,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100891429330433709232\">Nami Nori West Village</a>"
+      ],
+      "photo_reference": "ATKogpdMGj_FnrB0zFM299DObTlHJbfQ4J0Z1k9Fuo1WmvhZKoDG7psS9YetWGfVSAwRp7KKiwLjxw6HrEZHewGEOOY-LZp2OfGwdh2WFreSntRfWAwb8AbOZ5ziPDu9Bdb8Lp0F9X9qKM3_IPNY13du6UQuWqeP6-n_stirF8RZODCpRbi6DjRWdd9s11IVvR0sb7FL6NED2vvZuA4Ka9nZCTUq4I2myXfVXxKG4PhSgsFmaIrRMbnS82ojiEBuzLRmi49GNusTefZ5CjIOYgV9D4-gy5nDHePUaNWUtI6M9HEXAg",
+      "width": 3300
+    },
+    {
+      "height": 1920,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100891429330433709232\">Nami Nori West Village</a>"
+      ],
+      "photo_reference": "ATKogpc-PtaJhAzayZbGvsbVKaIbia5e9rgVIWeOxhUVdx90Ax9P5MEgRigPe_yT611EzBL-m03CEmis1e8M2cozLYFGkFH0inTImYSP5QVFEjGeMUiXu8_w7gC6nBqgBp4I_CCnOLD3SinG44rDKdxFrFX2x87Bi8cqBX5rEUEGWBbKpYGUiipVXEgDUAFiwmXXa9aRTZ0h113TDBbsR-1yos5F4T55fr1edeNFAf0m_k6Ehy56m0a8sw5Z0Da-iq9PJQpuiP7W7LG9j5ZGTCR9lmCXOPtwGq220wkl2LYk-jaFcw",
+      "width": 1920
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103076385831706741772\">Nika Strelnikova</a>"
+      ],
+      "photo_reference": "ATKogpec_J_bZ9B3BL-jtW2POEyXM6_Ium3xDOV2xNogWwKWxgSvv97fhWbTZn-JWfvI6onkRHF4vAsUkwN1K6HhmB_8pcDCQbZzrHN2spw6Qr9NS-NOZyQT2Y0DmPkLWkUbxbb4uZanvg1mfwlcoZgwMfhtK2Mc_Hj-3GWT3AcoWNamWekfMR5c4TbE05Nwvk-PReypeVfxRXj-W_sjuTvnhqMQyicRZHtDRLjbzP8m4pAs88iQ0EtFOgnSdbQzqNjjcPBA2spw7JGgE2tViFBvrnT5iDcgv-hZmWukmNAAIYnoDJmwI-P7yN_w0RGlCuAw53xaMU_zy-66018mURo55LZ-16J5y8xlLcQN2GChWLdc5AAoSwzz81JZEXGEQIzZuOMh8PQbb0NGTtA3WsLEWuwEjcFRkVB8V3dfvUM70FII8A",
+      "width": 3600
+    },
+    {
+      "height": 664,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100891429330433709232\">Nami Nori West Village</a>"
+      ],
+      "photo_reference": "ATKogpcfN6d8qOE16i28wXLp5QqPDBMTF9YGNag1XrVLmNblWbhHyAw0ZHFODmILZOVc_Rywlmbo5CgbfdOSlMCVWmSN-2ep9PUMKM-HS0xmGgBUauFTFxoHXUbxj5qDGUo2ImmQO9QOrmWeI_JYQzutkKSnUu2l2iV1Lf9wqqF6y0nhQ2ZeXiOqn3WTfBvBSSFHHdmQHBC-k-jRmBxE-2taeh5l-hPYLTibrj_HaIPYgPVD6K7hyElWz-vWiKLlLshLUWccVw6WZHkLW4098a4yMMX2APoZN4cAvPaOqjbF7QYN1A",
+      "width": 1179
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108355018410652883108\">Edward Yoo</a>"
+      ],
+      "photo_reference": "ATKogpcME8PhVn5k93ItLG-Oa2KrY_euJ7yLAVB_TMTaDCpCwGcXrbkBA7MdnBVXjBtSBx-JLP-UUob0Z33nfrVXUa-PpsLIwI5yKcYbAKkcaRFHnrb319nQ40V8HalYMfCVGT9RvpXO6HUDS6TAhfEOWtjHO6gVMk70Ac7S714Sza9Pabm_wnTTnjRwSaS7xt7MevQ5yfmOzoqRVLie6LeGQ_hdMIAkde9ghpaiWjte7ahMVDXGWi1vawCLVlrBlk_kLiRL7vTh-fKZX1WSgZzBhXDhyXAaJz1gLUZLpiKSprsuZJ-1c9OrDKGtRQuOHSYM7pHFOmNJhwdG5Wpw4YGNF_5EANR5XlxTKLvzk9BH53zOPFN9vxjpjui3nA54xmQOp1NkNj-l9kYskChs7Uqnf9Z1HvDtteWzymEQhh5V-fwn5w",
+      "width": 4800
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116508613387585310062\">Shachar Ashkenazi</a>"
+      ],
+      "photo_reference": "ATKogpdXkv9pQd0AwGYnNsaatf8BTT6p7DGjTb-fPj-2Oxhgw4mkiwZygj8-WQEdCTnio7fF27j2swgCikzHEc9FoCnogmjKdE-riu0MhY4-SrPvTlq8skO3iFBqJ__F4ya5J3t4PJOohj7Ujdy2KITbDF_oU_U45CiTL-d3oBy_7EEOgtRvs4alZRQS2U6UfhwdHkydEQpKTLAQFU0XhovkSVKXpZQ7r3I-4pBqcVFYyejOUVv2mPg7slhuwNp7RAiEo_ZFpSlOEvDnOpy_MDB7GzNI6Mq1gUb0j0TsTmO4kdPuz6sxxzD6z-Ixptbll2LyOPWIBOWNVhYtRSTBaJ32fd4AorzpNdQv1gN22J1-I1j-t1juo2NfAEADztgXn5Bz51z0hH1LZlqtLBAUiJykqYFg2O7Cqw_eZ5I96iHO21zqpNc",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106751828032239579811\">Luis Lewis A</a>"
+      ],
+      "photo_reference": "ATKogpdCyM6NfKcX5vPr08GPoBFuVu99kbXCLwswXzickRgFNFazqTp9ZOL4vqDYvwkvEe8ySS2QNovzoerG6eJmT9M9nL9-cOoCEbpPP19yc9kBzfFUhgKXJKatDXBUc0ETiiNn9ZJke4Y91_gL0d6hgQnTHV73Oo5i3Wh-43VoneYFuAQZtYWg4FajpCv7-xRtPg4ssJNqMlUxPLEdBqXC8CBwpYXfYh3n04dxN1v1otjIzfdlpL_3fZ_0bvm_zZFl5tCOKky_mYJxKQHGokJ-lUO4qy7XfNWw8bapfv87Zr8JE0rbENtvgTwF9t1vUfN-desa9DjtQ8FyBHisCmkmHaE6LuP9i5W-gyoKUhxWErfkcWwAgJcLj64pA-_vFm8ksECT-lYotbtP6fY5anjJS5XMg1-iFYFNT5Lu3Ra2_0954iA",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110640554791810488010\">Louise Hsu</a>"
+      ],
+      "photo_reference": "ATKogpdn5WDVmDWIxQsdqrkMP5Ocwjv9re_hs7jIKn4wpDgY10appHLhO7o8_2MLRC-_QSqCJNN6OXpX2AxM89tdO98B_F6zWLWKlyIA_eXCXlIIbPpBafxCnKBQcPlM-lildbsxAG2W-Kh7_YltFgcCTdBJIrQLVChQDJ27iXmwafWeDMYm6JWyg7v7G3S-kjctDWpOjeEli37L7-ZWL1RG0mq67hXON4dpOCMEHJp2-0cfALHKPzDGWkZnaXZJFslmeutejfe_BuShk0X1lK_WP6GUqYFOanfE_v8MRvTGTrJTx_jsuNxQygY1VBTbtxoCzDZ0cG1QthjCDDtjE4cAuqJDou-2gLR-myoFuyuFNDrwjQJwP2KyTmm6iuWiEDrYIE0CarEuWELyWacTiKy1duPiuC59bSxTgZY6L2tH1YybKw",
+      "width": 3600
+    },
+    {
+      "height": 2255,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108253470867764203513\">Ross Flieger-Allison</a>"
+      ],
+      "photo_reference": "ATKogpdSucHJGyQPk-WTeZSc773WTlvNDIEDIlxDI0JxsVVpKcg2PuB088CfpLsRw_PXQ_oETXtTcdJj0XhLn0RKrQB54JigSsk6f8k3AT5TbqjCFbUURSMaSLnpXq-K8ZnYFigNAV5a7kH62dfcPrj9jrtK-tBA7J90HfiC4jWViagxnsdBULvZB76bpAt24A-MNY1xdW368oGqVoBzKEa5yrVHnAry9ELAV7lsWn5nfwOcqwbzBuLJvEm-SSjC3Gt-ugdBNxF67WIAhXDJWkz_UCtyV1kvSCPIsRCKfCAnvlim12FYtJGzlzVXl9yZXIERCAZrE0yCFaq7nmrv3S9ts_OAnOcASQ1VctfF9ZMlWlC5-SbsdC-HrrO4MhdIibRFVN1ttuJm5g4CySxK7OvICimHtOBQCFBARNEaBEZ3BM3gCg",
+      "width": 3144
+    },
+    {
+      "height": 1171,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103663916218838717371\">Julia Hsia</a>"
+      ],
+      "photo_reference": "ATKogpe891MFjVOAi5YKrWoZkM4L2n6SYpoXW2OfbmcveeikvFah4QgVKzuD8JVmLlGXHH5TXV3x-EnC8OgXHgCI_HIwHFW6aKBK954FfeuI5epK39GVwVmlP35SAf7okY_dKJyMjZqPUAlWkjUB7xdgy_JyLXb-s_M5zrOpME9lN8clpSPS41sM976jAYSmIJ0vFyMQNugR-FIiF-7iQesFXO72cFVjKOSnwlPoAh_2PQDN3qr3Jhr-WxS16A9xowUukZ4DUvb25YUGFxM-9-HQsy8WCb6mxFNDUqeqOk4SbeK5xdhM0ph9WJYLvspFkNffP4YbP4GmIPFioyZlZD3aPYZQgkVnCg_FnPrf_8IwscCpSdgBIJ_92ZItzOfvxy58-5zQ6jKyuZ_mamKfJkehTqbZy06y5KKZ9jsaGQV0LsQ",
+      "width": 1560
+    }
+  ],
+  "place_id": "ChIJcfbyqFNZwokRUoBP92II4c0",
+  "plus_code": {
+    "compound_code": "PXJW+4P New York, NY, USA",
+    "global_code": "87G7PXJW+4P"
+  },
+  "rating": 4.4,
+  "reference": "ChIJcfbyqFNZwokRUoBP92II4c0",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Jose Miguel",
+      "author_url": "https://www.google.com/maps/contrib/104842549796908156876/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsgriCFXIkCIy5qy3GMTroC_m6VGSQ1-kYbJDt_dy_FGD6x1nm=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Tried the Signature Set (5 handrolls) and everything was super tasty! Beautiful presentation, fresh ingredients \u2014 great quality for the price.\n\nThe coconut shrimp handroll was a standout \u2014 didn\u2019t expect it to be that good. A full-on flavor and texture adventure\u2026 I loved it so much I ordered it twice!\n\nThe service was great \u2014 friendly and on point. My only note is that the seating felt a bit tight, with people seated very close on both sides. Not the most spacious vibe, but overall a really solid experience. I\u2019d definitely go back!",
+      "time": 1750155770,
+      "translated": false
+    },
+    {
+      "author_name": "Lina M",
+      "author_url": "https://www.google.com/maps/contrib/116273946395714123990/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXiUPC03RSrNmVVhNULi_OWS-0yGdg_jOTZkKokzFWPGq6uPAt5=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "4 months ago",
+      "text": "Nami Nori is truly beyond amazing! Every sushi we had was incredible\u2014the flavors were outstanding, and the fish was so fresh it practically melted in our mouths. The quality and attention to detail in every bite were top-notch.\n\nThe service was equally impressive\u2014attentive, friendly, and efficient, making the entire experience even more enjoyable. The atmosphere was adorable, creating the perfect setting for a delightful meal.\n\nThe only small downside is that, while they offer an omakase-style experience, I wish the seating was a bit more comfortable. Other than that, everything was exceptional. Highly recommend for sushi lovers!",
+      "time": 1740679174,
+      "translated": false
+    },
+    {
+      "author_name": "Cherisse Vandenhoek",
+      "author_url": "https://www.google.com/maps/contrib/104174249619564973315/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUzi_6uRcz3ROVPQq0gvpEYJGkP1-3NW4hbX-tRlByggX8AKVoT=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Nami Nori was fantastic. We were greeted at the door and taken to the counter top area. Our waitress was okay, just seemed to be quite busy talking with her colleagues.\n\nThe food was delicious, we started with the Asari Clam Soup. It was so good that my boyfriend and I no longer wanted to share, so we ordered another!\n\nThe Temaki selection is great, particularly the spicy tuna and the red crab California.\n\nWe stopped for lunch and it was really busy so book ahead!",
+      "time": 1750250660,
+      "translated": false
+    },
+    {
+      "author_name": "Tater Tots",
+      "author_url": "https://www.google.com/maps/contrib/113353584381640102600/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9ZEVL2cAmBEqvhUuw9IcDQal2NmgRnkYnCOK0oVMQKncolwVY=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "One of the best sushi places in my opinion. Ate here plenty of times and could never get tired of the food! Surprisingly very, very filling, would 100% recommend. Always end up craving the hand rolls here! Appetizers are also delicious, worth ordering as well.",
+      "time": 1744740191,
+      "translated": false
+    },
+    {
+      "author_name": "Louise Hsu",
+      "author_url": "https://www.google.com/maps/contrib/110640554791810488010/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXeRtyCR_5uYNt0DFQBb5NRUAfJrwPlKlQ-0vwcQRKCOmlSzfQ6=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "I ordered the xo scallop, fried oyster, spicy lobster, yellow tail and scallion, salmon and avocado temaki. They were all stunningly delicious - generous portion of very fresh fish, lots of perfectly seasoned toppings, crispy nori \u2764\ufe0f the service was also amazing. This might be my favourite restaurant in manhattan!!",
+      "time": 1749533846,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1130"
+          }
+        }
+      ],
+      "type": "DELIVERY",
+      "weekday_text": [
+        "Monday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Tuesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Wednesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Thursday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Friday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Saturday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Sunday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM"
+      ]
+    },
+    {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1130"
+          }
+        }
+      ],
+      "type": "TAKEOUT",
+      "weekday_text": [
+        "Monday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Tuesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Wednesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Thursday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Friday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Saturday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+        "Sunday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=14835147868684124242",
+  "user_ratings_total": 1594,
+  "utc_offset": -240,
+  "vicinity": "33 Carmine St, New York",
+  "website": "http://naminori.nyc/",
+  "wheelchair_accessible_entrance": true
+}

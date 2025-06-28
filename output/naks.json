@@ -1,0 +1,464 @@
+{
+  "address_components": [
+    {
+      "long_name": "201",
+      "short_name": "201",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "1st Avenue",
+      "short_name": "1st Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10003",
+      "short_name": "10003",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">201 1st Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10003</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1430"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1430"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "dine_in": true,
+  "formatted_address": "201 1st Ave, New York, NY 10003, USA",
+  "geometry": {
+    "location": {
+      "lat": 40.7303138,
+      "lng": -73.98362999999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7316156802915,
+        "lng": -73.98216721970849
+      },
+      "southwest": {
+        "lat": 40.7289177197085,
+        "lng": -73.98486518029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "name": "Naks",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1430"
+        },
+        "open": {
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1430"
+        },
+        "open": {
+          "day": 6,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 561,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114065585417618246005\">Naks</a>"
+      ],
+      "photo_reference": "ATKogpd9Pv_K6HFgGcPntw99dczcUk48tkOwS3rr6AM7gqkaoJX70JiUiSe0OoOvmumGmisGgQhiHPlgZQPT8STXmJLpTnafgLV0aWuWNkxg0l2zOko5KqtLGZ-RInVOquXY5oPjM8ADNcadKLgYGN6_HOdYAxPCcRWV4wgjbD8Ii6mmMRssppKN_QcPs7d1R5spNzKQAyKXDXMSA9Tg5XU_IUpEKHfM0xhysw-xux8PlzvNdsQ9R1hu-YbB9L6F7OSEL4ubk67WOpAYyJ7MKm-DszqqzE9UZlBd4gBZ-2lNuqM",
+      "width": 841
+    },
+    {
+      "height": 2921,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110714426155213656143\">Katherine Ebrada (FatKatEats)</a>"
+      ],
+      "photo_reference": "ATKogpci3yXFoRummRTgW0ZbieGlNQIcbU816CoJ084ioQ6s6aCo3q3KLsg0EI8Mz4lNJzYy0pYcdlGk_-6qdQWERjyCvtNhRwb9LW47kUjVaMFVKbavzgM2e0iTLRIksYciHVXTs4L_PLhZcKiEc9KmKBRi3avmOygJkotUxMv4Ad7qoLxvOA5ru0hshy2W61zBIm2iiIsXKRqMFNhQLG4i0Zy74CcmbTVsRoavvtFovpwsM9Q3DcFBp3wmohmqSXP980BpbREn0TOVdErZHO4RY1J-ZdWuCqs-o7mjvaoGkI7Fe1VPvyvURfEwv4LXBT9EspNxYfpbbfCH6BO05l9sVYacXyZkhK2DTaRZlLAAtEPF44PUBpddps42EPJzUT3nKtDrBwdegmp6ZW_ADoVMfmwQ04B76CUyHErpDsojzxbtYQ",
+      "width": 3895
+    },
+    {
+      "height": 3211,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114065585417618246005\">Naks</a>"
+      ],
+      "photo_reference": "ATKogpcpMezSkRpH5YlouNB0Ojec7nzIo1leimWZFDHCZ81jP8VJsO0fM5Y0CIrY6sqZF9DhljNS0irPEa5Tjb8WJ1qtNCcnPiW5HxwMD0BN0pCWUiefRZmFQ6S2dkyD3Xl1SBbZzG1FGiSmhATd3eXTI6c-amxRkVH3tvlCzjSMpRK9BKy8sMAKoU62H03T2ppK6WuoMN9LclzeqQFW401habXb3LG2IfkhTQTpZ6u8JOcw1B48Et2pGiy3q5pwDwME2S7ByQ7jXxeN-6SfyqI_eydUJHMwB1dmMF8HhzvzyXc",
+      "width": 4519
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110714426155213656143\">Katherine Ebrada (FatKatEats)</a>"
+      ],
+      "photo_reference": "ATKogpcvjKP57_ks2YAuuk5pR5fU5h-RcCNAT7BOo1nJxHCSwOhkNzG7xN0e5RqfrRNR2WV32w4xWWwkkpm2T_NMFHzGyLU8k7ppKNCPCFeKHDIVzlENz37-wTujsHRMi7DzmCxSPDqfiy7dkOIYnKw26mXOLF0MKBhjoolAjhsEIhFSs4TLN1uqZfoiQg79Q7H922Q0KJvy8XWbOR290RUI7f3dzNfWr2EYZxCgOmCvw2yTKH_CFbppM49cYpMbSy-typI1V_DVp6EF-K39DGGvmMdoiyj5whXU8FnbHC7TfD7FZCfKQq1Pqes4cvQJpSSLN7T0pkc2Kl4NCMDJq9TRnIP3Q8k0T-yrlMPyIWZiLJiGPdwfgEHFhqrNsK8vKA2HIBjGecB10yDJVtelFfXyYAYqmV5Mm3QYso5cXSbDS4DwIw",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110714426155213656143\">Katherine Ebrada (FatKatEats)</a>"
+      ],
+      "photo_reference": "ATKogpeapBGawIrseiHM-a1d9prETC3OzfQTt2TYC7GOs9LJSldcOv9ndrHUJbYAGnicVBLPFNA6OmRA4gq3zrt5sRN17fytY1DZ9DgrxJmzPeVu2CJTNivA8luDPA1NAhahtY3JjuqxPbon-CK1iYt_XNRRNXURFQSEEFiLiqdkPS1tYsHeQRFDL5dY-LmvEPf4-4iMxNc8N1o6p9iWgShBllpEKnz54ZqK_mev4AsnEdCUjwawNOT3xKwVq-mzOCXNwqhngFe7M597abfGMTGjgtZ633-AETeqIFeYOsj528Fiy0OWzpvaOAvdCIZAJrxt3VpTjXmowkvBq-EFfRVgPfOXCtbLylIjz0nDUL82Y0cDRjcNQk9-3dmuaiA_GdIsCGWdIjzJyllX18nMl7lxPKkaquRepP1BGNpzd8mLzM2YDKGi",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105733036077360697568\">Khanh Dao</a>"
+      ],
+      "photo_reference": "ATKogpecParRD3dp-YbDpyvr7nqcKE7YavngwmhsAeyxCenApkUASOPreNGanZZedCLE-YktucL4b6A-ecpkU-9HqNfpgTIFUEV8Ovj3Wb25YSDJRysJwhqDP9wkFG2oZZuD-1bVlqj8LAr_w4xNLLTXsZf0LnFhgnGfTR7-2l86RYbGccVMrU1-NNtHllyxoUAiBtK6LlsvUmzHSgJWGGWVBTBSJdSP2BH1oFGRIo6yx9UqSswYfGCxlp6zXeWJ_Fy0qawFx3O1pR3eiJpdNqSO73N1LOt-hHyQd4BV5MGpryyIeNGkem98bKGYxG7RLQfZVLfnDjKXeAPDwTyU5GV4ENPejJAPt3m-El5RTaIUJ0PtbSzs36Vw8U1HSVW7XLLKtxR_GDdZOoGth2i_S5vWDGReieOAa2soGIg_vnf6oEGqPw",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117206858717887881194\">Richelle L</a>"
+      ],
+      "photo_reference": "ATKogpe6KS7NK2jCuEGFG7Xxz-owhoTcjXkQJhP1VzcSEsRAxNl9Dix5Xoy1L5cb19xZ9dZVzwxO0QoXhSXvtYch2wE0k0216GqUA-30Wo_0VFMoy27p-2mglGGfBgIy4EgdKWjW4X2q3Y4zaXlKajwqVu4GE0eJ0mmv-Sqg5l9SLiH88XB9UrUlokkql4Eh5hyWsBlfy-1W3g9AF4lh_6y9BX-dD5-RWztZflEzt2jKSzzHZk8qR0yNYEOBaVr9XiW_xRwDc73Rww9FpoIjYMLK5PvLxeqAymhjaBdfMCUXTFxZKb8joAgSG2xM94161YxLrQHFNsLHt-TsEZCC4T9a49EZsuN-PLlQCioUbDLPeqZMxUm18amCu9loxsYGIYAj_KszAV6XFbcff75OC-ayGT6_M_eRKreyw97DPNR2IwPstQ",
+      "width": 3024
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113661524500314429927\">Maria N</a>"
+      ],
+      "photo_reference": "ATKogpeV5IK0x5fN0VRwdSiu1og1qqr5AnDKkN9CMW7a6OUqj5DhyvOH7YOQDkITW72PcrHIim8iIpVlnQjssQiuIp8KTHOfg1v1UpzXZ79JsflIwvybu4smgncS-ZAqsJyYBLWE7DQs5OmBA_BAHur-2Xhmo0Peb_JDRru0LiZK0ntNX_QsFLbxCpfOx_tlHgoVVfMc2qVDQV6xBoNwdu1iPEw59gXDIpjsbLY__kcob-r9rMaoQTJ2grSTuLFWRk9z9dKqmAy3fJPYfnZjAcTxrjyRD9mTe7M2n9kBNyy7tz7KdgwAzjYY6TSfjGVgv5l1gQcqXnToCqZdM-loeRLEXGFslQmtJwH-prjSOr1vcubW7F6-KRIcakLFHTiHd10AyQyDY1AUeToK22o73Hw7K3cJv_v6LZ2AOhEgnQVmpZ-nng",
+      "width": 4800
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110720141843556156482\">Jonas Modesto</a>"
+      ],
+      "photo_reference": "ATKogpc90OL8xBIUTduvAJo0MiEOjAtTLSEEy6FDTKqlg6yk_NEisdUZxxdKvgzy3B7cHHcbRytj6MN6ylDVsAXb8EWQm_hxHuyuaHaaZl5ORhkrX552c3reiiFqXVt2AlsiZnwdtNSBDaddw_z9nhYMo0gDO7F2dFd0BLDs0RyntUQXe99-22Ng-miJ8bPJzld20vaI--KdAjxqdiZaabLWPqOpcwRmRyF5-dAWu5QL32j75qFG83-PnGFhLS7GRe1VGpzAYOKYFYOE5Jq577pT3gh-jx66CSES7rPa-KyYqwjVIibr4CTBgcgLA-T2I4p_bKIhWpkAKTVY_7HTqWkfCfQ6nZMNxNW2wk6rqXGreErFfNXphCdGjA1F12_CGVXNqwKAeEk2XXywB2TbkdUqBLQjdDuYUNqZCBV65oJuCRf4kKDc",
+      "width": 4080
+    },
+    {
+      "height": 2507,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107100419871699451797\">Josephine Lee</a>"
+      ],
+      "photo_reference": "ATKogpeJxtoVLW66ar-YrUMZHfP3Mb645HcZrFTpQ7BD6o4SzFkQanMBjL9aODvshaSqiWKSN8LJ36R2ixVVEHFcaUVxTx20qhBE8a2ojsaNsbvHjs-drE4rqr6wUxvTCzrLRHesVXTcUOsWtZf4mLjaCYtlemgZqI5sThzFOTKjq-9MLi4D6NvGb9blYIokz8dvXec4mSZBUoFDYCwHSc8sJCeCr4waJsbRhN4p_NpvnVtxEOjkqa6TLp1LjxS15qvbTHd739n84pyPYaiRKvV3FNo-QyTr4gM4FWXYFqn-2yHw_g9UW1SccHtRHEfwnImkDTOj8VjoaC-Bg41MF1s_J5zztnZ8v_oa-ujfW06Ah_r9Rl5W-AZ0Lc75reDTG4AAKeWzghNQWD8TgQYynTJBHOKoLeMhIAhE-LmY1XKHJUSWgpgK",
+      "width": 3212
+    }
+  ],
+  "place_id": "ChIJQfYrEfNZwokRFPKHZM6aH4w",
+  "plus_code": {
+    "compound_code": "P2J8+4G New York, NY, USA",
+    "global_code": "87G8P2J8+4G"
+  },
+  "rating": 4.8,
+  "reference": "ChIJQfYrEfNZwokRFPKHZM6aH4w",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "James Milo",
+      "author_url": "https://www.google.com/maps/contrib/115818763606724893385/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqjjx2rqvRbJReEtNXyCgwdkTNfoOZdmXWSyYK5SyORdyiIwRDLg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Saw a video from Tiktok featuring this place. And I was like \"lamia oy.\" So I picked this place for my birthday. We ordered Kanto Fried Chicken, pancit batil, and the lechon belly for 2. And for drinks we got Kamandag - whew that hit me after two glass. Everything was so good. Taste like home. I loved every bite. It's so nice to have a Filipino restaurant that elevates the dish on presentation but never deminish the flavor of the food - that hits like home. We finished the night with the Ube cheesecake was phenomenal. And kudos to our server she was also amazing.\n\nDaghan salamat/Maraming salamat.",
+      "time": 1742422367,
+      "translated": false
+    },
+    {
+      "author_name": "Kyle Liu",
+      "author_url": "https://www.google.com/maps/contrib/106839718534359845766/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUb5G0ssAANwHHNgc4gvBh6Kpm9yScnlnFr-NoSx6leM0iVK2JD=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "Overall food is very good. We ordered a bunch of dishes and none disappointed. That being said, there were nothing special about the tastes of these dishes either, they all tasted exactly like what you would have imagined. Giving 4 stars overall as none of the dishes exceeded my expectations. Highlights were the fried chicken and the Ube cheesecake.",
+      "time": 1743433685,
+      "translated": false
+    },
+    {
+      "author_name": "Erica Ng",
+      "author_url": "https://www.google.com/maps/contrib/100397004711840910576/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyCReqls0Onrh5kWqDGJQu960onpoUUAqzRJOmA_kNQINFvhAg1g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Came to Naks to celebrate my birthday. From the moment we stepped in, the space felt lively, colourful and inviting - we knew we were in for a treat!\n\nWe tried the KFC, adobo and the Dungeness crab curry. While we enjoyed everything we ordered, the fried chicken (KFC) was my favourite - bursting with flavour, super crispy on the outside and juicy on the inside. Perfection! I love fried chicken and this is one of my favourites I\u2019ve ever eaten.\n\nOverall the food was spot on - no notes! Excited to come back with a larger group so as to try more dishes!\n\nDrinks wise, I unfortunately found the mocktail I ordered to be much too sweet and couldn\u2019t finish it.\n\nOverall a great meal and I will be recommending Naks to my friends !",
+      "time": 1742529925,
+      "translated": false
+    },
+    {
+      "author_name": "alexander valera",
+      "author_url": "https://www.google.com/maps/contrib/102287659769517519881/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK-nzGxVAVwlxNwSNOT_l-7YiLO-H30yjuaGYuC6cxJsV0Y=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "The place is spectacular and amazing. The food are well cooked and delicious. Our server Ms. Audrey R. was very attentive and helpful to all our needs. She has a lot of knowledge about Filipino foods coz we found out her parents is from Bataan, Philippines , so it was really a good catch from us. The sorrounding is blended with cozy decoration, cannot wait to comeback here.",
+      "time": 1744901582,
+      "translated": false
+    },
+    {
+      "author_name": "Drake Wooten",
+      "author_url": "https://www.google.com/maps/contrib/108935917368113855703/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKRxWT9SyrDthhFhhYfYjdbzNKAIt0ehus0HfVesqWPDtECtYo=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "I have never left a review but this is something that I had to do. I walked past it earlier in the day and i had flowers in my hand and said what\u2019s up to the workers. They knew i was coming in for dinner to celebrate my anniversary and they took the flowers and had them on the table when she walked in. Being a Filipino has always been something i was proud of but going into this restauranti felt like i was in the backyard while my Tito was cooking lechon. Everyone treated me like i was their Kuya and it was awesome. The food was also incredible and the drinks i could drink all night. Will come back every time my family comes to visit. Thanks to the staff and to the chef. You made our day more special.",
+      "time": 1750808169,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "restaurant",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=10096959100828512788",
+  "user_ratings_total": 451,
+  "utc_offset": -240,
+  "vicinity": "201 1st Ave, New York",
+  "website": "http://naks.nyc/",
+  "wheelchair_accessible_entrance": true
+}

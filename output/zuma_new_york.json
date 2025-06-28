@@ -1,0 +1,732 @@
+{
+  "address_components": [
+    {
+      "long_name": "261",
+      "short_name": "261",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Madison Avenue",
+      "short_name": "Madison Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10016",
+      "short_name": "10016",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">261 Madison Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10016</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2330"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2330"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2330"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1730"
+        }
+      }
+    ],
+    "special_days": [
+      {
+        "date": "2025-07-04",
+        "exceptional_hours": true
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:30\u2009\u2013\u200911:00\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:30\u2009\u2013\u200911:00\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:30\u2009\u2013\u200911:00\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:30\u2009\u2013\u200911:30\u202fPM",
+      "Friday: 5:30\u2009\u2013\u200911:30\u202fPM",
+      "Saturday: 5:30\u2009\u2013\u200911:30\u202fPM",
+      "Sunday: 5:30\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Trendy, high-end Japanese place with an izakaya-inspired menu including sushi & robata grilled fare."
+  },
+  "formatted_address": "261 Madison Ave, New York, NY 10016, USA",
+  "formatted_phone_number": "(212) 544-9862",
+  "geometry": {
+    "location": {
+      "lat": 40.7504423,
+      "lng": -73.9807367
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.75185083029149,
+        "lng": -73.9794853697085
+      },
+      "southwest": {
+        "lat": 40.74915286970849,
+        "lng": -73.9821833302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-544-9862",
+  "name": "Zuma New York",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1500"
+        },
+        "open": {
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2330"
+        },
+        "open": {
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2330"
+        },
+        "open": {
+          "day": 5,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2330"
+        },
+        "open": {
+          "day": 6,
+          "time": "1730"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:30\u2009\u2013\u200911:00\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:30\u2009\u2013\u200911:00\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:30\u2009\u2013\u200911:00\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:30\u2009\u2013\u200911:30\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:30\u2009\u2013\u200911:30\u202fPM",
+      "Saturday: 5:30\u2009\u2013\u200911:30\u202fPM",
+      "Sunday: 5:30\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114084934221516417948\">Zuma New York</a>"
+      ],
+      "photo_reference": "ATKogpd28k10ogUZPfr_EowD1F0ksfNoujNdXGXkSAMQrHvwakif_FWEn_wNdiI8xejEPeoMl_BZuTfsG6hWB2cl4G-U27-9PhwVZ2Ukmt3x1AB2WXdqfERYrGWgeazOWWzQK3TtOSaUHIYlpGGUBW8HlxMQyQm6aTy4v_a0JuK5mc6eHrmC0kjqueFTYT1sHtwrxSGaKOMy22v0Lz5-muutcFpci1gd65aL6ObrJCEoKg6dcR8tVSVY5TT5L-TyGWekYi97_cJL-lgTq1F_SbtqwKIXMJP3RzlTpLIBojXRHYjQrg",
+      "width": 1500
+    },
+    {
+      "height": 800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114084934221516417948\">Zuma New York</a>"
+      ],
+      "photo_reference": "ATKogpfJzEbP3apNuvobFiIzgtqRY_EKQ2Cu0AzmBBLtch62aVdqHbKj9d7mH1VF41FywqmLdJ2EU0TmB9tYqEux7yNJk4gX5iXm0pl6cij7upTWkevaWyEgVedn3Snwn2uYU3xHECBCq4PRRiNMbht0bVl273hupza3SsNuSH6QkG9Y7Ahu4_9OXdEVoJbFvqwrPZzbqlAuVX4ECw-DtiOhuaE4PJucch4giXxEFX2HNLaKZi4ekh7xs_IcB282pakt4WWVHqYDDmPwFA36aFiaXO9CGJ318KRryBITla3FLccpHg",
+      "width": 1600
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106713190747887263121\">Kimberly C</a>"
+      ],
+      "photo_reference": "ATKogpeCVS9IgPJ5TXhWLTForukVh825q6hBL6HUro4tjeLcSDXqfze_3zkI-TWfbn59EJSC6PaxjSGAcAa5ernj1OP5dl2-5c0L21mUXo5w8ueLNrDMVJEsAosrVjkQVfJlQ-bZxEsbUPIeZG_Hnl8d9kARbf-DLEw6eOP5a41nViIruZlGPWyWRAmFthgK-8x1Lui7oZXZ8Bn37zsbsiDS6q0xHnZOzFXrbT_ABeMyR7Osme6zf00LSEWn0kgV4Vxqusm89kDf7s6ns9DJbqfhH8DpAw4-tf5yU55gRcO96JYRpen8Kha-NMDPKRMqCPVg0BrZPxaRZiI1IVOYaR98soCOlN3l6yr_FYaUF5wrzCaxtxBcfkqTAVzNnkofdTx7oD-BdASNA6BPpDjPAew5HxzpK0sSwck9OweCSwxKCbn8zYojCCRj0nbqsB44Rg",
+      "width": 4096
+    },
+    {
+      "height": 611,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114084934221516417948\">Zuma New York</a>"
+      ],
+      "photo_reference": "ATKogpdIVdmccogUsppappzmlkOB4q8EsDUs_M40AD-azsIo_Iy7Ye-878VoLzqaIdtNkSZu_tMFNL3GbyY_Y021sEw-GFmMQIpERCKKv-iHJugXrOUP32quXPrVgKQLQRzY0hney5QQTyq-l1UqrXuf8OqiLAy9FjgoIop8nndLySkjY1N_ASwLobhNiOX0ULoVpmpTH2LsHWEQqYAICCW-jxzKta1KKChwCONpIdhRu8NNeaXRalBQP-0azI61AE-9YW0KAoPefri1-mvSGLRU_JjxTmWBtN6A0iMM7SU5P748_g",
+      "width": 610
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101187253138936176214\">Karina Turgut</a>"
+      ],
+      "photo_reference": "ATKogpf1ZxUO054E247Ot2EGnWdeCd3sbn3iagOi3c1ms0J0JBvEHEuNV7TPNWOF20iqs-PdQpwdDQRVPRxIM7PSa369pP1hb3p1NVyh5w_WqbdxZYl7cNPmRtTRnC126hXz6Bu25mmPZvXUtDEx_5mVxlv52RJES6uFJei-WHM17rgrlnWkph8J8GknjPLp5xDYmS_4rBjtSt__5yDG197d3AKPi5FGxusyU0e2C203cCQJfZ6dl1wSvitkIamd_rTm6BNiaOxMeqSnV_zhSfw9Gc9FYFRl6JsBSlnrbqJAp2Si_3SOz92155uuSBO3MaB5Ou4lPIbO-7lefGRhYwt73qFlVqrI2FiVW-lfw657NO5BGEQssMGyxH5rZyzhN0KPQpK2qth6mjsz6b9kZdnBj9hZJcWw_dqJRM0uubQdqtLtyYzd",
+      "width": 4800
+    },
+    {
+      "height": 2048,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113291979801880661266\">Anthony Ramdass</a>"
+      ],
+      "photo_reference": "ATKogpdpwm1xPOpvYdIDyfUstBwh_J8AvD-NPAhqIJwLICXn4lmKjkO07GY8YGLDrTLZ4kE7xY4wr4QKetJm2QuPKON7S_15hOgWyJERmU3IFO9yQ1MW0kuBn0ywpumSh51jUnngovOQsVH0r78NClYuGvPIMuBNe5XluaVIwMNB93mL5rkj6FcW_6Z947LLOetDFpzNfkvh9jnGMfN4McSbMnfVLwfBhHSZhm45kXEHWwgEGE5JJlK8ATOvYjIUvUtv-S4vZaYWkoeQtXGd1DX4QZ31FdiP3-_F4vP3KgtXXQldkGGesNXQk6MrfiPchSN277ONW34Q3ccgUtZK5PtyWonwKuWMXnAv8K3F1y_W1TVl-v6ltLmYsM3J7zGzGp1yomcSHzeNo_vUu4E5pILuFsRUh1MgY--F7bfhLhCNnMeRx_Q",
+      "width": 2048
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112439085975222561670\">Angie \u201cAngie\u201d</a>"
+      ],
+      "photo_reference": "ATKogpebG4PfVI-gRxDTwQ0pdq2P4uvObrqga_Ue1uUOmqc_OTrVEY4eTTM3eRtvNxap1G0kc-_DH52WLC-XHyOXcQ2L6Jw0FWiDX3pchfGx8doo5L194OduPAjd1yeusbdcVno6gRueXcqbac0BtljmJF-CqcmF_oCdekOL8Rkf2n__uHmr1wuFr-wYNkVfEFVGLixCik1OXe0-2HDVDR6vhyls3IoVI2Au4sMX3BCoLEcMvz4J0C1_xtFQt3zKE0VwvgpiFLqHAp47pDXZbu6p0lmbotWwla8GueWNMGYg3u0PSJ3B4hrblmpoGpmK7jG9-lCCRJ5Zz1wvRrVCYkymgXvd5542vYHMfgXob3i5LnwLDbQJCQa6ysT1BdKOhv0R56EBXwDHylrIfR3b5K5DOX_bbIT__VpbyeoqbnJNEXM",
+      "width": 4800
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112439085975222561670\">Angie \u201cAngie\u201d</a>"
+      ],
+      "photo_reference": "ATKogpdBxVWLyHv6hmirF4xKKxfGpdMqAqlNKij75jLDZBSWuQ9rRjoRbXtC3JCR0Ta033PFsUmbWJWLHFiMZxc55fHj5bcgZUzJ5EAKeD6pkeo2UD2A1i-krBPQUy2qwa6sm-RWHXCOjg0KpHIuw_KpoPn1EGQKVPw26nPddG7RAaYXIbxkeEVt7nu5E2I2V83hjADBAxIYeaGmJRDMQdLtgj9V0Ue7AYUL3gpNxJETqPuw0ZAbNEzUimwWpU1RZZe2A86_IOJEGFzGEojH3r8WrC1SzbNMNwJFjbUOZ6EXkuNAUHSovzdevXi0RGOF-BhDwhAx3iH8GeRoZ9RkWX_PSXhWPUAxyeeFRnQOFxi4TPwTUeo_FQbSCmUXRROeVlLwLGhbZj_8veo5Ey7y2Nn8NrMlem4VoJHMNxMxZXQJgsV8Mg",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113630097148912829905\">Eric Li</a>"
+      ],
+      "photo_reference": "ATKogpcM12E4k2LExkbiNQaNI-AELFtOQnqPpooC3kGsin2IfbI7StuBTtzQ8ZZuibk8A9ZNrQIHWXvgG7LEa1FdyPxc-dtzqHLQ1mnf5fcrV39IJHu2h_PZuqNnFyjWzRWl5nCakZcebqwSeE2wewVZlODJihU6qUxoRbiffF8wFIXYa48p7ITgpjH9dFXQEEYtYLvw0qJQYgzhCmlb87blE-Qga1Dslt1hO_jW7pjwOEXKX5NUIdpRZcw67vI0MfGmkRg_hJBjMW62Scj8JPPIG3j2pY5hRZfbW20W6H1E4PTWsrqsU3tiL5mINGtaBIAlqG2rhCNV6do0dQMsTO5pVg9nzmnPY4sdBplu8DyxinhOGSp3RD88sz2rh9FIN7gExneQ4_3hXkL6pfT9_OyUmIs4NUZFA7ROWSXtoiRUz5uzZg",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103077838355821965042\">Ariella Shlayan</a>"
+      ],
+      "photo_reference": "ATKogpdBghaT67XB7Et5LxInmE8QEJyy4q2dj3rytviwxE9lYQcopeheXBncGM_U3TLaeqT_yRhlP9slw4dhTrIKsH8mhxXAzAYZIe8mqpSiaTv7dA0r9TPHln_8o3aN9HKtSvHz-cjtCSyFMsf8FY6u-sviMSslEATOiySQSeYS3mucIM5gOrNHe8f3iSoGyu-3PK8Kz1IYQ9hIL_IGMH3D3TS5tD83nv_Jrm15eICH0wBif3SF6gPVmEeFnkRGldEm-Zwlm2goBbiaWrT3cfWO2juwDQK3hN2m-88v7jdLSOVlKLEob7H37Ew1SV97_Kl6pfaQqNMflrYCuk2KPVgPXCndGhOI6Cxos7zKRCxiHyszyaLOtKzzTCpE6AInXxeRKPDrJonTAVyKWOhw9tvYpm6ZWskq-K7kYB8DxryvJIoRJQ",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJjxZ92gBZwokRBs-63wLcBp8",
+  "plus_code": {
+    "compound_code": "Q229+5P New York, NY, USA",
+    "global_code": "87G8Q229+5P"
+  },
+  "price_level": 4,
+  "rating": 4.3,
+  "reference": "ChIJjxZ92gBZwokRBs-63wLcBp8",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Kimberly C",
+      "author_url": "https://www.google.com/maps/contrib/106713190747887263121/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXn2HmE2hI_DrXFDqldv2-K0VWu3VvMRfJ7McuzD1HeodxVs-qthw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "PHENOMENAL! STUNNING! BREATHTAKING!\nThis is where my partner and I celebrated our 2yr anniversary and I can't fangirl enough about this place, it was absolutely magical. Definitely we had to save up for a fancy place like this, around $400 for us in total for the signature menu but it was worth every penny to celebrate such a special moment. The staff made it such a memorable night to remember!\nThank you so much for the excellent service, we hope to save up for it again some time in the future! \ud83d\udc95",
+      "time": 1750505586,
+      "translated": false
+    },
+    {
+      "author_name": "S K",
+      "author_url": "https://www.google.com/maps/contrib/114388572357158929445/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWMIi8gXpn2ZEdZcW1L5taPIfVZw0Lnrim26MqDExbhMlQ14cE=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Zuma is a full vibe from the moment you walk in. The ambiance is sleek, dark, and upscale with a modern zen feel.\n\nService was top-notch\u2014our waiter Pasha was amazing: attentive, personable, and knew the menu inside out. And Tyson, the manager, is one of the best, sharpest, and coolest I\u2019ve ever come across. He\u2019s young, making a name for himself in the industry, and you get the sense he might be a restaurateur one day, I go out often, and his presence stood out.\n\nThe Lychee Martinis were smooth & perfectly balanced.\nWe had Yellowtail Roll, Tuna Tataki, and signature rolls topped with caviar\u2014 all were fresh, flavorful, and beautifully presented.\n\nThe Dessert Platter was a showstopper\u2014gorgeous presentation with fresh fruit, sorbet, and Zuma\u2019s iconic chocolate lava cake.\n\n*\ufe0f\u20e3: sit on the upstairs balcony area for the best vibe and view. And if you\u2019re with a larger party, the private rooms are definitely the move.\n\nIt\u2019s a splurge, but 100% worth it for the quality, service, and overall experience. Ideal for celebrations or a standout night out.",
+      "time": 1745191768,
+      "translated": false
+    },
+    {
+      "author_name": "Karina Turgut",
+      "author_url": "https://www.google.com/maps/contrib/101187253138936176214/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjtNL8pq9fXt3UPbTlRJOMhzsaHZQle-lW6_Nle8vcQpz9Jls2JQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "I\u2019ve been to the Miami location a couple of times, but this was my first time visiting the one in New York.\n\nI had my pre-birthday dinner here with a small group of close friends, and overall, both the food and the service were great. The atmosphere is elegant yet modern, and the bar area is lovely.\n\nI\u2019d love to come back\u2014maybe just with my partner\u2014to experience that side of the place more fully.",
+      "time": 1748972781,
+      "translated": false
+    },
+    {
+      "author_name": "Cana",
+      "author_url": "https://www.google.com/maps/contrib/115219089937116707708/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVXOz2g1OpSTABc1OvqIwjK9CBek3NiA0DSIVffSNdyahvjAiMh8g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Food was good I loved the hamachi crudo, shishito peppers, and miso black cod.  The sushi special of the day was sooo bomb it had truffle I think . Vibe was super chic, service was great. Har\u00e1 at the bar was kind and beautiful she recommended me a really yummy cocktail I can\u2019t remember the name of it lol . Will def be back",
+      "time": 1745902882,
+      "translated": false
+    },
+    {
+      "author_name": "Samir Sam",
+      "author_url": "https://www.google.com/maps/contrib/103920245558305683726/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLAzYCxEqIBiaiQgIDv1dm2CyQJALj80NjD4z1lLbEyldK30Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "I had a wonderful dinner at Zuma New York. The food was delicious and the presentation was great. The stuff were friendly and attentive, making us feel welcome from the moment we walked in. The atmosphere was cozy and perfect for a relaxed evening highly recommend and will definitely be back.",
+      "time": 1745805515,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1130"
+          }
+        }
+      ],
+      "type": "LUNCH",
+      "weekday_text": [
+        "Monday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM",
+        "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM",
+        "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM",
+        "Thursday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM",
+        "Friday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2330"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2330"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "2330"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1730"
+          }
+        }
+      ],
+      "type": "DINNER",
+      "weekday_text": [
+        "Monday: 5:30\u2009\u2013\u200911:00\u202fPM",
+        "Tuesday: 5:30\u2009\u2013\u200911:00\u202fPM",
+        "Wednesday: 5:30\u2009\u2013\u200911:00\u202fPM",
+        "Thursday: 5:30\u2009\u2013\u200911:30\u202fPM",
+        "Friday: 5:30\u2009\u2013\u200911:30\u202fPM",
+        "Saturday: 5:30\u2009\u2013\u200911:30\u202fPM",
+        "Sunday: 5:30\u2009\u2013\u200910:00\u202fPM"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "food",
+    "restaurant",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11459088206792412934",
+  "user_ratings_total": 1847,
+  "utc_offset": -240,
+  "vicinity": "261 Madison Ave, New York",
+  "website": "https://www.zumarestaurant.com/en/new-york?utm_source=InfoButtonClick&utm_medium=Home&utm_campaign=GoogleBusinessProfile",
+  "wheelchair_accessible_entrance": true
+}

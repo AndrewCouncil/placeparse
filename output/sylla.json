@@ -1,0 +1,457 @@
+{
+  "address_components": [
+    {
+      "long_name": "1664",
+      "short_name": "1664",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Park Avenue",
+      "short_name": "Park Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10035",
+      "short_name": "10035",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">1664 Park Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10035</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0000",
+          "truncated": true
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Tuesday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Wednesday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Thursday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Friday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Saturday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Sunday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fAM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "1664 Park Ave, New York, NY 10035, USA",
+  "formatted_phone_number": "(646) 344-1392",
+  "geometry": {
+    "location": {
+      "lat": 40.8003775,
+      "lng": -73.9428933
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.8016848302915,
+        "lng": -73.9414452697085
+      },
+      "southwest": {
+        "lat": 40.7989868697085,
+        "lng": -73.94414323029152
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 646-344-1392",
+  "name": "Sylla",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0200"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0200"
+        },
+        "open": {
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0200"
+        },
+        "open": {
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0200"
+        },
+        "open": {
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0200"
+        },
+        "open": {
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0200"
+        },
+        "open": {
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0200"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Tuesday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Wednesday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Thursday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Friday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Saturday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Sunday: 9:00\u202fAM\u2009\u2013\u20092:00\u202fAM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110208309018769519087\">Veronica Anderson Dedegbe</a>"
+      ],
+      "photo_reference": "ATKogpf67YKVbDAGfd8-LJAi09IxYkvnVlbu6lILShvqOI-RO_wwF8pttJ1mkhcSLd7n8ysaNERaj84JoSft7SI1Jysz8Uws6L4-JnRNL8TyI-1d1VOX8Npo6YFuM2bYehuqpNFmsk77bx_MVhoHkp4MH6GTMsiI_xiM4NvxvgQhVz8VSNElzrTOJYWO6haWYo8ZA8yq7QZnXhTr6gHv0ZFD_dv3oCdRjZS0Za7daGMsxx8bw1FcpwGTOh2WMU8Q_U92AhI1fWVLQW3vNvaVZNp8cJa3piYpCFb-NWZ5OgOb_NpB4hjuMbuO4F2BCTerv25gaUZn4DQ76FDH43EtQkFGl4BNZAr07OhhaGUhTGIg_AGKsIsFqJsyhpidP_jYXXYm16AsHwe0rPbv4J7IxGHA9gn9ujTHfzZTIQGPGTWkKEctdlQB",
+      "width": 3000
+    },
+    {
+      "height": 472,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110827553491532309953\">Sylla\u2019s Restaurant INC</a>"
+      ],
+      "photo_reference": "ATKogpdL-EjmUQsJvScqnv-myoayt1Jcmz6G-KJTdYUly5dnrt1-xlnUQNEUasKLN0gL3CAFYnJRTG_iRoob4eBLnu1q3BUAC8fV30lRo_rc6_kgC2ZE9M-FjCsGu6tKjORUuuht9sttB_7B8sJ-Xo5RxWOxWl6_Lsw4sBTdQmBffJUdNDArrxeXihfurgk7FhgjRjbyamRFsQZDFPqfYAl8VxmV4QgnIllCEbm0bUGsZR6Kjgu0N4AUZVLsceYo4cjy_jACUiLOpZWCFa0HqW1G3myq2MYknVxz53m2s6G6kndVBA",
+      "width": 480
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116508613387585310062\">Shachar Ashkenazi</a>"
+      ],
+      "photo_reference": "ATKogpdB29Ukd1mY0f3kPNmuQTh0K6NWkBLKMAyqO1btcbdXIr8bMpRrWutP88Fa5No8O49vipYBHJBNqhVLr6aU3Wt1lFzyNSfg4M3jkrtSo1WU-q8YVBQlZQXGsSzWI3ixQY8oy7TOuQ724iqy355bWHM6l7pExNZZlrm_blO4M8Lwk609NsKAyAkZeH_gNvmLiNY_VbYbxGWrUdnhrFDOsJkTsuJaW_qfgq5Dj1tqAZK-fTvdLjathLO3QAx6fH99vMAQgimf210Nu0cCtZ1b7W84xGXImmcaTBu0E8Cx_ilcFxzaR7S_5FR8ufnoChzueGSHwi0rr2QSsxamHEgDqJR3Y-vBYgWrHi98VhMEVdY-sZ3zuQ24QhMjO6lO15yYzC4H-_LT5xFDz3ALlbsP2VhFNz_RVDV7LVbS7C62N5KbPQ",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116508613387585310062\">Shachar Ashkenazi</a>"
+      ],
+      "photo_reference": "ATKogpfTvCHjb-QKRGwEGViJKVGhNA-yah3WoTBFvQ_8_R3WLZeGyrixZN5kzB2MPK04lGXEiHXmtafP_PjHKKuxaiYW9px0R_3SrJwzvsDuOktA4hUoW1UkGgVToLWOJ2W_hThpIVstCbgRm66ldeqrTdPg9pxoSRVGd5dJlyklUNvUhRZr0IPlpkXr4B56QLnu88iB1nsqb8BklLMtXzucEbFmNyXrxTZ7OttmqRBlLOA89PS1ZZl1St_xOMcTc-OveXw_64q64fgJt9XKaG19cBl4-phoa-IPhcglkW10OM_tfA3T-7flPtXrz_NQduP9lLrwsBZzfKQ4HTIDquxdH1pdNXmn4G4X3h4SKBh25DttzDZF75l-XRklcqelamSkjZNe-InHSNMCeV6fXW_PDJ5ckgvGLy80cCDEFgAjX8VxcA",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113232789755040477549\">Daniel Lam</a>"
+      ],
+      "photo_reference": "ATKogpc8jKz-oblWSXcIK36cmw7NGYX_BKXeF46Bd-XDqNVs5ShQJWpy6Nfs_TLu0LmZByOVFOB-rajHWmV-Opw-X6UPb833C7hHQIJRS-9g9yYVV1it2oRP7yQR0Hu_HyUy7OPd8h3f7BmlRfHfTccLBh5B0gdQcP8iDXu7dygy3lNlpnVZltOc8aRr21JI1gdoJbs2BDdf9Q8v8sU-dFO-GL-fQiMHJBNbFGPSfgnBMHz892EZQ03T6h4X-xgmQtdKkjYBecoKWrhFi2MNwyhdipHFjiCGwpeazAwHGjp2D3JN5j_DcWzSSAK3qIBaNniZ7ksvFlvsDaOrcWjAuTrAXTKE0HGY8QjFeATgzo5oPW2sNw55cRxl5owQvS4BsEake_CDuOPAJ8omtqGiP1PSb02ab8pTyadpRUrwcw72aKlvyTCt",
+      "width": 3024
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116622516592328866369\">Bill Wang</a>"
+      ],
+      "photo_reference": "ATKogpeK7sss4ug4Z_kV-EJwphekEYTTI-GQ369Lj9B3dWz73r2G4KQdKeHxhNA4IAEOTevd2C9z-TyhJPGtqG3GPy4NCHrOQG3TmUSEFCjl2hdMwCBaTK4Vzkm8kBdxML7Ehk4Tid6QOSZ4HDyY7jX6fbqE4sq70zGNmvPKAVoebtrF6zkOTQPsA26JEm2qXJ9hrrMobOkbmzvJZjpfiQXunhOKC8mBfUffSek27ImKKWCAf_fYyVWbBVPbExDrab7N3xp3Xpa575W-cAvpm9yr4FpKLyks80-XiLBlRyzbRCFxdGms2rpBlX8Dciu7yjQYR4gXRzY9jMJjKTMOBUahplThyHrhlewwdoY5gHevwtlrQW_eWVl3i3eOHIJAsMahInfRb-qvJbZqXrr2iuqtSAtHvbDn8EsKeFsNVaBs2NI7_A",
+      "width": 4800
+    },
+    {
+      "height": 2380,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107100419871699451797\">Josephine Lee</a>"
+      ],
+      "photo_reference": "ATKogpdLCKEWd58yxrxhabBg8Bb9_Ja9XNkV7BDNBr91mwsjeRbStca2eiH2uwRXom0lEM8rRsorlSzhxmX5cHx90hSUSvYuhqObUMBDAz0zDjSDYbmnFTADdoyPk5z2EYp9rsb1aSDb6suLPx88aX4TtOJ1T7I5NUtiUOQ1jLgsOfGSIHLEJ5DhJiXVzi8G9dekYIxK6lSgVmKSf_-kiLuB6SrVgP-sovT_7rT_1PzoJr89CPDxMdRgFQfouunZUtQmS0t99c33k3_egPuqtP_4nRCgeks2FPVBp1daWUVyPDnlPYJ9xmPTe1l0yQy-wLtsfUcp_8f10cJ47M2pyYjVnVJniJovSmVellAYPxV5EWE9qX8q29KtOTFNMJz7DGXCVtrxuQGO-WMuQpttNKsAp3lnkj61zCz72C42Go971fHeCKsd",
+      "width": 3141
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100451521549367102870\">Jeremie G</a>"
+      ],
+      "photo_reference": "ATKogpeERNtT5JpOdSn_f6vA6fs5A2JkkcoiTq0oV-OGvnDtWYEVzVsT4iKvcmE0DZVt3ySehyOzhSpoLi2sfvxLOBBCef4ganHPQ58xW2neP2_x7wRz5ree80C9w6NZfGTvg8BRl-f8_hvc3ucHF2kwUfZzvCTpZJ2v7SEDBkBGkVFws4iTF0Aimg1ZMJJ9OgepsBpnv5C3P6gn3oXSZEzLraudE7_LgOeyJkF658LeZG4whXEddGNQlHCPxbpfVvrlxTI98FgSF9t6lhsKTNa9PyXdD-WaI23bLGuNZErtHDXfYPyKKCuX6rtEMsrctGnhpuqBeRRyo267-alTECg98bAejkfuGeb3agqdDy44i62DK0-rmDtHCxtqXc_UNC81bjpJXzn36g2geap2Xama7PgMRvp5s3oRnDoytgIpDwYPYbva",
+      "width": 2700
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116508613387585310062\">Shachar Ashkenazi</a>"
+      ],
+      "photo_reference": "ATKogpelnC0JCZgqB9chF4uH8yRe6wHlc5MjouC2ah7Ie9usDzq1JCg-GRE-Z9hvn6b5ngDFn_2sSQrpthmYrRp-yPQYsU4_XvmX-_Wa__k9L5-XiF2dyc8YJLBQXWnqYULyAriq-xGZ_U0EYKOoiW1wYGkmZveDS-IZHEE7D3Pho0TJTWjEac0OoHL75JLpXvGcxp36GSNh9GFGraEwV25tLmOC2i_gJSMBOc_3slu-7x-k997lckRPbaopY-k2Rj1Ilg3mYU0JkPz5ad40gB8B8t5a-6c_id5hNaCrRYBNYlsBewHHe_jzz6JSRb7excoZEewrxa8M102wpRSAlNZL0PGD_x-6qyyZYkzcJjXkrt_pcf240kjlJ27bN5lq-HGhDb6OT3RnhMs-Nc_FWrXNlDxV6xsB-c2eSM7bcOK_cmlrJtyq",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113232789755040477549\">Daniel Lam</a>"
+      ],
+      "photo_reference": "ATKogpehkXjxZDuB8lanNRz7HIV-HAOaAZfZGI_zkODqneapLHcGjeC_zexc1h7T-huuWKxAMYlTZlxvtdylg9O3JwCgQ2p72uOOp2bGa22jV9dtEtGau9tuVFnaGKXkf2ymzKJdcYDnWfUlwBrE_4SER5GYO7TA_eXBDcgzjroRjvAauqSdSMtOIK8gWbUZMpbSivTxnqYcD9YiGKlWf8mlq6ea_YXQoKd7xiiJ_ehkUIxMZtahk5sr76n7ZK5N-VCd8H22A_saaTeTDvaQ3tWyOAWBzf95XOl46o-XTg4d1rw2AwR7HtMFmbcNJsnRnh1DT_eJlFVdj28Te-8iN2-bb3-TLF1eP6K9jRkl7jgKRf15X23hCgldwJjPyjCiJuufpcAOolHZMEycDcPPWvmEuOTh1mEWd0Vv2bDF7k1lLZxr0w",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJ8cO6EbH3wokRs0M2GGlpRww",
+  "plus_code": {
+    "compound_code": "R324+5R New York, NY, USA",
+    "global_code": "87G8R324+5R"
+  },
+  "price_level": 2,
+  "rating": 4.7,
+  "reference": "ChIJ8cO6EbH3wokRs0M2GGlpRww",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Marissa Alert",
+      "author_url": "https://www.google.com/maps/contrib/111961345546927923979/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ4O6iiFk_aYN62M55KYj44HFH9niLiiJaG_XW5un8mZGq1uNsa=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "4 weeks ago",
+      "text": "The food was absolutely delicious! Got the grilled fresh and the flavor and texture were incredible. Would love to come back and try one do the stews.",
+      "time": 1748711386,
+      "translated": false
+    },
+    {
+      "author_name": "M O",
+      "author_url": "https://www.google.com/maps/contrib/100861235725765230614/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKOE3m51gmsqi6X3ftxnv1JIyHNksNjVrz-XSyNScCpi1mVCg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "Classic Ivorian food with a wonderful, fresh flavor!\n\nI saw this restaurant on TikTok and made my way there, the staff and the owner are all very warm and welcoming. The design of the restaurant is very simple but tasteful, I noticed the restaurant is super clean as well.\n\nThe menu is very straightforward which I love. The prices are also great for 2024! If I lived closer I could imagine eating here at least once a week.\n\nMr. Sylla is a people person, he really engaged us in conversation as well as keeping on top of the orders. It\u2019s the mark of a good business when the owner is actually present to ensure everything runs smoothly!\n\nKeep up the good work Sylla \ud83e\udd58",
+      "time": 1735287163,
+      "translated": false
+    },
+    {
+      "author_name": "Erlisa K.",
+      "author_url": "https://www.google.com/maps/contrib/102422157430631296041/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU-zbpYKLSuDwaFgBcX4q_unznLaoQhh7DnglHZgr2Ri1ZKoa5L6Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Food was delicious! Ate okra stew (with lamb) for the first time and loved it. So rich and delicious!! Foutou is a great side for any stew if your not afraid to get your hands a little dirty. Grilled fish was spiced to perfection alongside the tomatoes and onions and it WAS SO GOOODDD it was so good.",
+      "time": 1739070147,
+      "translated": false
+    },
+    {
+      "author_name": "Mirettefben",
+      "author_url": "https://www.google.com/maps/contrib/111954828258574327125/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ2jWB5dxqA-adYGEF2PX6CgQfURcOC99R0PYYNg-8AgU3KRg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "My first African food , fufu was very interesting and the ginger and hibiscus drinks were both yum !\nI recommend the grilled fish over the chicken soup as there was barely any meat there \ud83d\ude23\nOverall it was a nice experience and the service was great , thank you",
+      "time": 1750522190,
+      "translated": false
+    },
+    {
+      "author_name": "Daniel Lam",
+      "author_url": "https://www.google.com/maps/contrib/113232789755040477549/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHayMmoiBLfBTI5CPdEVyFf7YucL8nEke-HanyVBme_ZLngLoR5g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "outstanding culinary experience! came at 11pm on a Monday night and can say this is the best west African food I\u2019ve had. Every thing was superb, had the grilled fish with the vermicelli which was so good, lamb shank with fried plantains, gombo stew with fufu, and several ginger drinks. compliments to the chef, the owner, and the service. If I had to choose 2 dishes to get for the perfect pairing, it would be the grilled fish and the stew. Vermicelli was unexpected but delicious, and plantains were perfectly fried. The fish was grilled perfectly, flavored just the right amount. Lamb was very tender, and maybe only slightly dry. The stew was richly complex in flavor and comforting. The ginger drink was surprisingly spectacular, with just the right amount of kick to have me wanting more and more. Thank you Sylla.",
+      "time": 1725996312,
+      "translated": false
+    }
+  ],
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "restaurant",
+    "establishment",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=884791751900283827",
+  "user_ratings_total": 150,
+  "utc_offset": -240,
+  "vicinity": "1664 Park Ave, New York",
+  "wheelchair_accessible_entrance": true
+}

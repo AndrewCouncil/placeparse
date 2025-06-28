@@ -1,0 +1,424 @@
+{
+  "address_components": [
+    {
+      "long_name": "34-02",
+      "short_name": "34-02",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Broadway",
+      "short_name": "Broadway",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Astoria",
+      "short_name": "Astoria",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11106",
+      "short_name": "11106",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">34-02 Broadway</span>, <span class=\"locality\">Astoria</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11106</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0000",
+          "truncated": true
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Thursday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Friday: 12:00\u202fPM\u2009\u2013\u20092:00\u202fAM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Hip bridge-&-tunnel-themed restaurant serving American fare, brunch, craft beers & cocktails."
+  },
+  "formatted_address": "34-02 Broadway, Astoria, NY 11106, USA",
+  "formatted_phone_number": "(347) 808-0290",
+  "geometry": {
+    "location": {
+      "lat": 40.760637,
+      "lng": -73.92299659999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7620084802915,
+        "lng": -73.92171496970847
+      },
+      "southwest": {
+        "lat": 40.75931051970851,
+        "lng": -73.9244129302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 347-808-0290",
+  "name": "The Trestle",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Thursday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Friday: 12:00\u202fPM\u2009\u2013\u20092:00\u202fAM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1489,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111338259192701893704\">The Trestle</a>"
+      ],
+      "photo_reference": "ATKogpfpHPEf549KoJQPujzQ6liHKC-vPoFpAxTqHRihJB72JEPw_C6UK6ycRN7gAEieHTxVP8ToSjFWP9DzvY01X6apQZrnoQVe33EcwnLrQRtTTrrNlJX4xaZnyPbccr5AlOQvU0L5xaQ_v1DNHqPwMWq2qTkZhEPZjaIPlTHTU82n2eLoTu1HGZZT4zpVqZdecDJcVt0hZFD95e-TbB_dRifZtL7IHzGT-5xCvzASkGQ7tNRRt4bgjSoHxZDcGrccDwzKV9h_M7g4QcgYPzijb-E4WDynXwHYiLTEQkHM_hwDFg",
+      "width": 2646
+    },
+    {
+      "height": 744,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111338259192701893704\">The Trestle</a>"
+      ],
+      "photo_reference": "ATKogpeFblgqoYixXMZARkT2DZkEMh497V_LqBjiu5eEdMyUoMcks4jiTRpsneF7xxBecFIkcTueLgnyatGSBi1GqwR47wOJwMYaFBYMHxzLRk9rPYR3WbUNu-5C3-PvkaAQyPac10JniZ6O-hd8I7vjCKaS1d78UqCPQpflkuu1sVPFGXZ-tLeUuUS1Uaxr5ggsGJ7ZA_2fDzbeDQj5GuFL2zz-TaywwWGhMqzdas53wEndkqTPnMiE292ju7lEGxDj02XZNU9qeSj3T-FdT_-DWSTRAnlJumMWuQpxfi6u9bA1-A",
+      "width": 715
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116366688042894790876\">Leslie Meyer</a>"
+      ],
+      "photo_reference": "ATKogpctYKK8yrLUgSe5eCaUxZy0mcAjlEagOhnszF9De9XgRgsj3Zxzr6mrMdBA3BrdN_1YWZYHAEiiUvUSJip6iEwk2yUJL_Zb_PO1iLcByf4T76PXH_PFB6Y6iF0DWg47APpAKw2nHmcU7FVUnf4vTm8niyS3ONm5bJbIUJ_AgyX1z_VmxM_HqQRi7hBPuJ5WZDPN7qxxUq7L_6-z-etXwOoMtrUlIYE4Dje58q3GOUp-juyJtxKMHd-PMFvrEsBY3yIVvbyNJUC1-8Wtm15E5c2dgM4ZFDA0yGsz8TdFZvwE-SthaysVKvlYTOBb5UwRrVT4r4ugEfJX51_s8SrN0swOPNwarkpx4tSqWz4QlvBF4oUkVo39BIfZdj0_P5ZAPnEb0bZGI8YVz2iUDyrIMZJV4kyfGYo7b-NBvzJKpfZrYgst",
+      "width": 3000
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113024473706890775281\">Scott Both</a>"
+      ],
+      "photo_reference": "ATKogpfwKSi5D_HOaEyfEnEXlgRIVp4nsOD8s0jLIvVuAIMvahLObaKQzUr0oQovXyY23kN-Vts12rl-FXTwitY-vIYjdILKb81gkBsTKiumlZdb5P8XoduvIuhb3qP_SdPd7iZy7IhJFNSydL8sHvMVEUWc1mllawc0iud333CJznSBkLSoLDNpApeEc_RC9iu3IUA4pf5OUOV2dGTKeZ--9sxenYe_uKosfRoipQlN8la7hURolJZIzAzIlARuThhwgTdmOIM1X3uNPdgIMxvDXZ6py94xsWl9O-Ud8r2uw9rXqsR2GxsFSxbLVnlwwa-CN2qhMipX7fNWdS5nEYElRisv0bkRjsnUAdbTzIDTDqOuayaBGJlwi3exZwQEIDNC6Urof0s-q65SviQ7Pta--QHczm8n3WW_9QxbPZiMrVdRew",
+      "width": 4080
+    },
+    {
+      "height": 2507,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116823789556768102113\">Mark LoGiurato</a>"
+      ],
+      "photo_reference": "ATKogpci4pwO-n2Z5gEb1WwOKBvtgizAatUIDKRV3SWHO8Vku_O2s0loI7puOAVPH5InIbMzfEEYtPuRfvF16yV-Ae5ZcPXRJxNw12bR32YxeIRbxgDB7LryHIkukp-hZkqkfM_CMEAAOJ1KaXDKxk8Ns7ddvpig1ezMAQLpp2tq2hIEN8rS0x3RIyqnyw651mEk1V0Lr2ffeCjCVE8Ic241RAU5s7RnXXh8wuTJMyw6EQEuoj8GC_owgg4koPVRSn_E6GH9jpyUtYDMtrmzxjm4oX36j-GhhfMcF-_e1qwavNaNAHZMMh7mRCebEpcjEBRc9eQ-KHWYczvy-8lRuSeThWlC8K5K6485OS6X_po8564ZOVVwpgoD1OJ-RPuH1vYV_135HZAMY0XJoaBWp-ZRr5baDVI0_rKfw37DZYwXnZS_OOjc",
+      "width": 1888
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108547625761866605391\">Gavin Andrews</a>"
+      ],
+      "photo_reference": "ATKogpe3Kv8ViG7sGH7qtRxcaarDLkS3ThyIz0eOsEJ3dd-eg6B_tvg_uVGcdNWSZjcO8PQCzIWvEQKP472ChCgQLjNc1bTuboDAHMuJ4PpNsgw0fIfVoUEy0P-f7X-jUCEo47-SYAB6DyrRdnLudVygtIu0dszE6vAlEDSHQayEikov9FBmJF-i5b8s-1Uo8OTmi30HXh3CP0T7E17AkQOzxrMnH4ORGF5Olr7ORreRztTnWPxrgLAY2ZJ44FyNgkf3esTidmjxT89dMhcNoceH8Aj2RHqEZx8a1Zxhu_710TdMugOVmD-VK7DG1z6Y8vuOiWxq4wFkgRxzSfHob8bbPAoDscGFtqogV7ipxVLkPH6GaiAvjMOnj49apTVn2BSZI56kla-IK3za3NaQrtb2Tsjn7M19S26WiiffTh-XCW_rKYvS",
+      "width": 3600
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113707480601132131438\">LaBellaG\u00fcera (Cindyrella)</a>"
+      ],
+      "photo_reference": "ATKogpdLMo4Cn2Q28DMgu082AcyCIqzdF0XhGH49ENSftWgCQT--nrogego_hPC6IeFFtPOBUTXLQMDiW7JhWqd4vWthx9FW8EE05yGw_zPEFQPs9UPMumcDiudCC2lFA6agQvikANaYlXWKzzr2Cm3B9fPSn5BcPtI7dLg3EIVovxQtXYmQswEv8ySOnZr3SqK3FDtkU2QJqT_UPuPBzx_k-GlAPHOMQ0IZ9mWrAWGy3U3Xo01if5DlpCq4GDcSCPPwHj6dQNFJpZx8qbSMyopiJNxOXjbbM3KMDVigBVpfSi4QMIFblw5T1wpfDUzxUYxt7Fa7FXkZfg56pLypY8uLY_kmD0vBNp7XHIyeuNIzgmej4klCqqs_9W_weOBz919AggzH3WrxObIEcSB93nOUYl0oYzOvc-svCUD8TTzl63U",
+      "width": 4000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107012948459993268593\">Liz W</a>"
+      ],
+      "photo_reference": "ATKogpfT6KSPN7i9ZjcOQ5jACPFk09jj4inDA1xI4m92N3mTwf5jAK7UrUR2jzr74KMoiq_g1ysLq1ehAWizH-es1Qc4TSToNfZGg-jDxEPBwKb2e_bmsc4wTjwittBl1zTTbY9Yi73uswTPtjTB-0NCAnhFFVTIvtcPs03CsVcrDrUpUpY__FSy2D-KYpcuyJ12VekTZkcLLx043WyyT2AlCDb1UPzyIXUiZqvEcWpGptNkhFLJoEUL1eAR_Uej5DJGwNwMDuCwb2W95tBlVv9OnjQxZvTIedz0YqOXZBFc3QDTWrkpUi63fgcz_WsKXWGjZ6Nxy6yTiluapt74f4sCXkh0E7xMfeVen1At89DOiG4iGS7TrNHTYHW4Ow5xX10vrYm0UBPVoUdE8dGFXp9GOKMXZlEACvdZ4PM525AtoqIoxg",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108994324036172078885\">Kayla Lawrence</a>"
+      ],
+      "photo_reference": "ATKogpfo8Crqeah5MCXBk1XBhG9Pp-8VJ2rbH6AnodU65d0WVFhB7a_WjSL8rJZ2hBxcxSZUy0ly_LAUxSMc3Nykf_U9aY7SfWKaHG0GRQZLdBvuLU4juqT5ejARxsyksMdjUR6gysL7b-_8ln3TY-DhaPL5AVUUy3gNjPTKdJB7YyBK4tInMWs5lGfD2-NjjE7WaipiqmJGixNroVLWlm7ZAj2aMxbPRDNf8Zy6ng8qNCRO52iP-uoHkZyQIAie2kw6BF1AHhbLn_2XOTnmTEvgwjCsHuX1uqctutcZ9OD8KAtroO9zo7DANpO1Qxd7p4MSGjMdZjBPFpuImcxnpL-NVA1B1gVIDs3Dg1vFvxnrK7BcOL4f11RvbDh2WzNJh18g_V9f22FlXMZu_NXdG5L5u-JvBolZkQ3WRIF_rMwfwzKYqjqD",
+      "width": 3024
+    },
+    {
+      "height": 2694,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109359029393732569501\">David Kim</a>"
+      ],
+      "photo_reference": "ATKogpchsHv6DOmKiCttOsv58Q7sF4lbk-Zl-tA49Y4B1xN4_qAJtD9e1C1Eg8hprNhXLXr7Kx5n9BPR15kgBC7GsmawT7ecgjYU9trOsfGIPWUa51R_1zy7piIFtKc1tVoXdsX3SLbKz6ZVtUCN-dZKGli3MmIzRmfwGoXtZtH-dDJN4X5Kkx7nFSlH3pVGDjSeHtwXe5EX6zPZiRwJiYU5JVvsOO0Z_7vsZUQq_Fm4WZTDQkVdBzw-qrqFqdMmN9N1txFK3SudKpREX0ZORYabg8LIPDfBAqaxfpFa2xo5TGkrduPdDIbt2WYE0PXQV8j20GwYTbviseYc_akc1Iqf4y6ywEBB0jdNAr45tJpkVBd2pZlsLF9t_v_mMCo1o6Ye1rEskTmTmxKwWW9ynn3XDw3SjFe_HKLmd4UCyRzvXb8Lmw",
+      "width": 4800
+    }
+  ],
+  "place_id": "ChIJRRMBFzpfwokRz_IwKtrMbdw",
+  "plus_code": {
+    "compound_code": "Q36G+7R Astoria, Queens, NY, USA",
+    "global_code": "87G8Q36G+7R"
+  },
+  "price_level": 2,
+  "rating": 4.5,
+  "reference": "ChIJRRMBFzpfwokRz_IwKtrMbdw",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "A A (Juji)",
+      "author_url": "https://www.google.com/maps/contrib/100702735218490197388/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWKqyoBL0auCqCyy_XgC0SY7SQ5Rqpf3q8huN3TBA4Vtn5gSJcP=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Went to brunch here with my girlfriends and we had the best time. We were looking for a \"quiet\" place which is kind of hard here in Astoria. They have outdoor seating and it was just right. We sat there for hours. We had appetizers, drinks and entrees with no room unfortunately left for dessert. But we will definitely be going back.",
+      "time": 1750367383,
+      "translated": false
+    },
+    {
+      "author_name": "Leslie Meyer",
+      "author_url": "https://www.google.com/maps/contrib/116366688042894790876/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJOKr1hkgOsH9oKLqwV0_zwQiPpDJ_rSybcjBOTxUfdD0ZWVQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "We did the Sunday brunch here.   Great music with a DJ. Food was really good and I'm very picky with food. Drinks were all great!! Service was exceptional!! The wait staff were very attentive and friendly!! Will come back!!",
+      "time": 1748810902,
+      "translated": false
+    },
+    {
+      "author_name": "Fitsum Abera",
+      "author_url": "https://www.google.com/maps/contrib/115654774347832878850/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIOn_csyHodoCEwbHh4wK-JWRn8IDa4K2yFrfsiXSwJ6GaEMA=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a month ago",
+      "text": "I ordered a chicken BLT sandwich from this place, and it was a huge letdown. The tomato and onions were cut into massive, unappetizing chunks, and the amount of chicken was embarrassingly small (see attached photo). Totally unacceptable. This establishment clearly doesn\u2019t care about quality. Avoid at all costs.",
+      "time": 1746910218,
+      "translated": false
+    },
+    {
+      "author_name": "L Nias",
+      "author_url": "https://www.google.com/maps/contrib/107447525725659082826/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqyCAr4XJ3mhxwWJ-6gGslQJiiym685TnlvObpV_8LFp_W4Mwvjg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "Market fresh salad with goat cheese and grilled chicken YUM\n3 egg omelet with mushrooms spinach onion and American cheese. Thoroughly enjoyed this meal and the atmosphere.  Music was on point from start to finish.  Walked in on Rob Base and DJ E-Z Rock iykyk\nService was great!",
+      "time": 1732063818,
+      "translated": false
+    },
+    {
+      "author_name": "Victor Castillo",
+      "author_url": "https://www.google.com/maps/contrib/101649417854507693959/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL-PTJ2thlkP5P4IAtMAfzYQm4XWZbP62jT7_QyzsKiyGol9Q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "4 months ago",
+      "text": "Went here on a whim with my friend to brunch. The menu looked very promising. We were seated pretty quickly. It took us a long 20+ minutes to get any service. We had contemplated getting up and walking out, until the server finally made it to us (we should have left). We ordered an appetizer and few other items\u2014one of them being the Fried Chicken Sandwich. The food arrived about 35 minutes after, all together though which is weird since appetizers are served before the main entrees. When I got my sandwich I started eating it and realized they had my order wrong. They gave me a grilled chicken club type sandwich, which wasn\u2019t good since the chicken was way overcooked (basically chicken jerky) and had a very burnt taste to it\u2014not charred, but burnt. I ate it either way, I don\u2019t like sending food back and creating waste. The only highlight of the entire meal were the fries. The only good side to all of this was getting the check, it was pretty cheap ($30 a person), the coffee was also pretty decent. I don\u2019t think I\u2019d come back willingly.",
+      "time": 1739214575,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "establishment",
+    "food",
+    "bar",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=15883576698188395215",
+  "user_ratings_total": 969,
+  "utc_offset": -240,
+  "vicinity": "34-02 Broadway, Astoria",
+  "website": "http://trestleastoria.com/",
+  "wheelchair_accessible_entrance": true
+}

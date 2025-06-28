@@ -1,0 +1,566 @@
+{
+  "address_components": [
+    {
+      "long_name": "5816",
+      "short_name": "5816",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Fort Hamilton Parkway",
+      "short_name": "Fort Hamilton Pkwy",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Borough Park",
+      "short_name": "Borough Park",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11219",
+      "short_name": "11219",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">5816 Fort Hamilton Pkwy</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11219</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0000",
+          "truncated": true
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Tuesday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Wednesday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Thursday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Friday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Saturday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Sunday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Chinese hot pot soups with an array of traditional ingredients are the draw at this informal eatery."
+  },
+  "formatted_address": "5816 Fort Hamilton Pkwy, Brooklyn, NY 11219, USA",
+  "formatted_phone_number": "(718) 851-5888",
+  "geometry": {
+    "location": {
+      "lat": 40.6338342,
+      "lng": -74.0049059
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.63512128029149,
+        "lng": -74.0036127197085
+      },
+      "southwest": {
+        "lat": 40.63242331970849,
+        "lng": -74.0063106802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-851-5888",
+  "name": "Xiang Hotpot-Brooklyn",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Tuesday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Wednesday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Thursday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Friday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Saturday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Sunday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 2666,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114681523803664712682\">Xiang Hotpot-Brooklyn</a>"
+      ],
+      "photo_reference": "ATKogpcK-Lb7qqfCzAO7KNdgrpVuDAIrsIir2I99--AqJkBoj_O34cDWS4naCoUuWws7jQbfN_qZA7miXc5xHR7f-QG_2G_WzYT6JYDtXaDuLw0efEAW7LBQGn9vIoc0c6S4hRgqUpGrl2QrhIMF9YlVzqwH6URMP2moRpu1mihcZxLvxcXYFFEAFvXCXRmzSKvLGC_dFebXrCOgmYH3vosmPg_TUPfDMYF0KEedL25VA_v9ZLtGC-MwaXGdlqhkr9n4UkfNBBuErg1M2FhQ-0BlxmMUdFJ7res30xvN7sWr_Vg9bg",
+      "width": 3560
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110084733003956649870\">John Y</a>"
+      ],
+      "photo_reference": "ATKogpdvhnP0tYwr66oullPU2PEEMDytoWEESJ3e9XkI7VmNrFdkkWDoZBTWG457M8zWdWNSwnGIvgyiAn8G74MLFBa2J9TaK6LPfCJjfhui9IylfsAXI9QjM89xQ4TJJYKYKkND1QwuqAY37vmEp75W3XfnrqZuJgisBVaMX0R3ngLQWFDq_q2FsMOoiD3L2dKA1PoVHYO5rTOcjXkG3G0m-egqc6CxUhhIDLRda3woI1Ojgg7Gphdq4RysnOCCulCQgh3rpy9_yYNzkvqvmtRfEdcD2rzG2xkAWEK39WkIGd-Y5cBCwqegwdWmloGzyE4tBgjxpeU4mZZLLqkU0vTWZw4EMeYeByVuvxPCoj0I59Yt3TT3pIA_5wMx_iQXf0sDZrkmvXOTo_MiIsZuKbvzcSeVLv1x1-dgj_1plvTDN9zLCPLR",
+      "width": 4032
+    },
+    {
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114681523803664712682\">Xiang Hotpot-Brooklyn</a>"
+      ],
+      "photo_reference": "ATKogpeUncIPOmCIj0ftCe0BdB-GXq8_3W5udtX4dbx7udRKRR_Tg_NqF5vN4SyXaM5aJgGbKrALmKh2NLL5SjIYDtfZonT3CPuAgnkXjQER6h71xzc2DnhLLSl9l02MHSO02c7pJ0ixDseTHctF6Q0rqKsFlfhQ5bMRqP5ZvruHwdgJOtBSrHcWz9eEkJM0M2leBfzSwwGItZ_NDx96WevgnAyn-IZGpewVqlpd9lS--9Nw_kVeV2lBKdzPXFtvVomhr9AfJgPYBD2SbI5uIez8I_y8XaRiuITexpI1nRg_gSS3yA",
+      "width": 1616
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118178570841182778128\">Elaine Shi</a>"
+      ],
+      "photo_reference": "ATKogpeocZYbwiX0L1foGwj9sYbJTf3B2Gu0_sHYktmX3Z66Kyb5uioJKKr-m5R7iuKoUigwu1j6yWwkliL3zLZNRCG67KskpXkPAYNnKV9grAiSMxEYMleZE1EXF-oGiGwPhebnuVprjvkKe7iIyBFVVJlcyXjxoj5cZZ-ITuZpXJxj5LGj2-FsoWB4yBNbkqjE05bvfvcq4pycLI7f0vUcKUivg0Gg8JZKmoViFWFa3Xy88r6nyqdR9oabVlzMMLiwWCJ5PjWIEOesgykVtTcMky6seaeV9xsg7FUqJAgIoum-vNl-_mSYACpSrpJ6RJSlhrHfX2L1Fw-P4mZWtH1hMRSxGWvRzWWB74rIo5tzFS-aAT4T9Y20OL5Jnl6ki5Qsn8E5bxUvyUI0mCnrntTsmGZM0Iy0xdKLBmuu4ffalstOykop",
+      "width": 4800
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115009092252338980872\">Andrew Lam</a>"
+      ],
+      "photo_reference": "ATKogpeONjs2ZB3iKYvhNfFIttSu8CZd8P2nJqPBoUi17UzwQBPWHmn1VkICddCU3I1w8GtEamZgi9OKaTqqYFgmufCcVMYBqJhzRMS4LgO_cdPnIob-1gpqx7G8zbx5WH6G_Bl3xePyg5FzP0t78FyK9bj5AIxOW0U2goiIpZknl5jcQ6uDvY-yWHvrdSGyyz1gmec-g_xWZzf6Nr08MTzvbx_ygqzD9BdqmXWLucuQu_xZbBDp7Ig_IjGNWpakjttq7BasEuNXa0a8AKdTBmFJJ4js-2CPHSospPgGBljWwDGONIrOVIujPF297eO2XvvozE0e479psQS1S4butZKn_IpETxj7GvNjemazKGWwMokxRVA6ImmW9NJZ1A2rqTvQGjiRWayQjz4nEJw8M23wFhJzAuX6EED9WMyG1GZJSnEE9dLJgSbQEIFG6CwvL6HB",
+      "width": 4080
+    },
+    {
+      "height": 746,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116289500111700276613\">Lawrence Donaldson</a>"
+      ],
+      "photo_reference": "ATKogpcXw4dV-lYuwNs5BtLgUN12IKQy-c9hHne3eXQWnUQT8NWkanffjJH1JMwgoPlhLa9kV-oT6qyHPuoQjkA2egAFSnBBfKGgDDKRSrmFsxp8Kw_gomU7_CM-B5jPh9d0m7guEQoXXgegzYDfm7rs8LeFpCKcdKXcxzSgdAgOvhotYHe3bHe-CQOwQUPe89hee0IESNFFE81BNJRmva5-iVI6bSzLvCqPaZSRH6TUWSyFd4PPG7MzGBy9oPvSNnKzNYDgpOKbOSdgCVoEWu7EaRX-R0nKySDzUa6dEMrzUUR0Og-GoRYXsILdJD27w9ZJVJ9SVWaIPWX3dD5Ihnsba3zRxbe7fv4l5RysCtE8S1kqeIWOSrMswoembNKnATlWPKf3Nx8sd8KL1eBoilvfe21352OGzLUT2DLYoYOSXZ3gWfLqAsPHIJRGPsSLzrvD",
+      "width": 584
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105371067729106064785\">Jerry Zhao</a>"
+      ],
+      "photo_reference": "ATKogpdXDFSG-2ZgwV7sloxIFO11UUOh0devVUKmtsvlYua_ueCcMCUEO64VCLdJABYGuVgLIKhGDTT8vpBYNY7TfPjIoYcp_jzO3mr5-Ks2QNsi9MZB_9ltuoMxyKfOUq3-SLMqpw2ANyk_KdgVvbyRiO_8Ld8ZJ-4qxr0b6-7dpSfQiv4fyxp9sdz4SUirgoWnzk5HlGSWTMvemT4dIMmiUcbOxFxkTq6ER3ZYEqn1x8CPi8YOjFu5cJkGXbNaRD7L0rEQ9_hIDYB6snSSD5vKAfNW25LUehO-kplr1ln3GdgA6xGFJMP8_SEKHOV0X2YXpgD7GVEYYYhK_hWxAiM5ZOpI6iUeh7OIsAUgN5NfkHXkYMCFitWug7nXmuUfiabfTLaHxH4gHOpksH9PawisOpKZiknDC32If2qqVSGXaDQ",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108771591803611440647\">Mason</a>"
+      ],
+      "photo_reference": "ATKogpdStdHIRAIGWJMYhkYOI0fAXrj2NFZoJfJykRLBkqeTU99rlGfbXb5CCyXHXgk0ZaL9SVG6dvF0O3hhIl02KemFug7IE4YU92q56q3Qc1z-1stL4KhPBuw3QZ8jVB9hPMETKWYtrXgObjeSISXcjf8SxbOxySCrelH6QGqUtv3Ow7Rrm3UMy-X4x2Fs6_LJ9oZgpg7n5DEkuoQOAnzmp5SDNhJHVcFBeCmgpkDyT-ziKI5jdgSz8PkX5sm_d9qGzFF8FFPQGuwzWN_dXBO4AFBy9UuF-IY-52QaFeI4ccE80bz8oupEpH-5YcaODLDCSFQ4EHkYSjurXMqWgK_NBhtQoEXe9g3bxBtvKicaqgGkQPbLrLdiYBPzbUyzfKcIvkZ2WIBDl5cTybPql7kaLLEjjpE77qMLGXbWr72Wm3llFsYa",
+      "width": 4032
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109846256065117264651\">Tiffany P</a>"
+      ],
+      "photo_reference": "ATKogpcNkE0__FjlVG63NFkKlCyhxkmRkLQaBoDucVirDfvB9tom2QhEX-iel1nYa_Rin1gFE_1KhG0Wh3eAqxed7F4V0wkpb1HVM7vBmyDloKXDgtu2wJvG1YcnPIhOCILYwV9WVJ2fjLwyq1QOBmpntd5HiKBBPOVcTfhrVgM94lydFo-ax1S7u5fMqpp7NjxoLRgjJoZ3veD6Wz5yV4Fw3T0QsA_DpLTp1phxvgxlr5leGnHTskZZiUoEnntzG9a0Q__9VsXJFnmxFw-49y4HAjz3KFTeirA1Q1uUakPF5_Gs3QDKn6CZXgiH0IYdzUnZt4IyGj-Sij1IB6NfWqCKckny1AyeV3jLONnMMrPTBbSGaBSzrwdjOHQeXW7XAWmFf7XWjZ1r25FL0JxANuKiprr2SIkijrwRayAxUAlHf8eQbCZa",
+      "width": 3600
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113861757246956829874\">Achara Kelley</a>"
+      ],
+      "photo_reference": "ATKogpc0Wpx0EcSYGNgapz9WQ5jnG07zGRIQy2cCnuZQB3DW6QrXO0WizhcQxvvolhu8_gdVQ-5_gfUJLgZZc4qBlLmfznxXgyaKmQmi2fH6RIJWpXVgtOCn-BPP_J0sDVhyTtAsBchBR0X3DQkZM_2Xg_ZnVssrgrwWmSNAqnRVA_9ifkFrrPhHp1XzG-FBGDBpKMHzS57_8E_wb7E4cwje5DCkj_qczjy8EX2ebhql1qgEh8hnxS2-ek-SJUhFwUCI_ryBCb9daT2Xr__hpHWzi-v_prml4Y_FQ7N_0pvQgH_9iw6k2eNZ6IlEX2bJcsZMfg4ePlS4eIdcrVMc6W6KvwQNsEQP0ZsBUi_SDI11LfptyQWBRw3lZQgjg1jKjD8bHerDRsA7GQhc8zB67CRXCNWMbQbXnJv_zsKWfsduqd4",
+      "width": 4800
+    }
+  ],
+  "place_id": "ChIJD5l6DchFwokRZKxRc9LcNqU",
+  "plus_code": {
+    "compound_code": "JXMW+G2 Brooklyn, NY, USA",
+    "global_code": "87G7JXMW+G2"
+  },
+  "price_level": 2,
+  "rating": 4.8,
+  "reference": "ChIJD5l6DchFwokRZKxRc9LcNqU",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Midori Mans",
+      "author_url": "https://www.google.com/maps/contrib/101760094878698389212/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV7SDTfZhM3dbVd66i8hHqPrrzTttwN-KG6vo4UMt6I8EyjeAT4OQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "This restaurant has a cool and stylish interior that makes it a great place to relax and enjoy a meal.Of course, the highlight is the food\u2014everything I\u2019ve tried has been absolutely delicious.\nTo top it all off, the staff are incredibly kind and attentive. They go out of their way to make sure you feel welcome and have everything you need. Their friendly service makes the dining experience even more enjoyable. I highly recommend checking this place out!\n\nIf you're having trouble booking an appointment online, don\u2019t worry\u2014just give them a call! There's a good chance they'll be able to fit you in.",
+      "time": 1742696993,
+      "translated": false
+    },
+    {
+      "author_name": "vivi Chanle",
+      "author_url": "https://www.google.com/maps/contrib/110945333286634553213/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLaY7pg6j2nKeKNaSJQcv05lUU0INxl3qmL75n-cu-x9H6InA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "Unfortunately, the service at this restaurant was really disappointing. One of the managers noticed I spoke Chinese and kept trying to push me to top up money on their curry card\u2014I wasn\u2019t really interested, but I ended up being pressured into adding $200. That basically forced me to come back again just to use the credit.\n\nThe second visit wasn\u2019t any better. I ordered a larger meal with more meat, but it took over an hour for the food to arrive. The restaurant wasn\u2019t even busy at the time\u2014only a few tables were seated, and most of the staff seemed to be on break. I only received my food after asking multiple times and reminding the staff to check. The checkout process also felt disorganized and awkward.\n\nThe staff behavior was honestly very strange and unprofessional overall.\n\nThat said, the one thing I always enjoy here is the dessert. Every time I come for hot pot, I make sure to order it\u2014the desserts are absolutely delicious and beautifully presented. It\u2019s the only reason I\u2019d even consider returning.",
+      "time": 1743741247,
+      "translated": false
+    },
+    {
+      "author_name": "Serena Shin",
+      "author_url": "https://www.google.com/maps/contrib/110056353713027397549/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhcW1rVeTONyO6ofD6E0kXTxnZywPGT-763ztjrLpIl2oZ8O1L=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "If you\u2019re craving authentic hotpot, Xiang Hotpot is the place to go! The broth is rich and flavorful, with plenty of options to customize your meal just the way you like it.\n\nThey offer a great selection of high-quality meats, fresh seafood, and a variety of vegetables, so you can mix and match to your heart\u2019s content. The sauce bar is also a highlight\u2014you can create your own dipping sauce for the perfect flavor combo.\n\nWhat I love the most is the spicy broth\u2014it has just the right amount of heat without being overwhelming. But if you\u2019re not into spicy food, their mild broths are just as delicious.\n\nOn top of that, the servers are incredibly friendly and attentive, making the whole experience even better! Plus, if you sign up for their membership program and load money onto your account, you can enjoy a free dessert\u2014so I highly recommend signing up!\n\nOverall, Xiang Hotpot is a fantastic spot for a fun and satisfying meal, especially if you\u2019re dining with a group. Definitely a must-visit for hotpot lovers!",
+      "time": 1741316748,
+      "translated": false
+    },
+    {
+      "author_name": "Achara Kelley",
+      "author_url": "https://www.google.com/maps/contrib/113861757246956829874/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUUVvWjOHivALAK1JJ6cP6QEux5ASPvgeVhsc0F7aX-oRYmpqxs=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "I was impressed! Let\u2019s start from the service as simple as they solved the obvious problem that most hot pot and bbq restaurants have been experiencing but most of them don\u2019t care enough to do anything to create a better experience for customers\u2014it\u2019s the stinky jacket problem! The last time we went to a hot pot restaurant in other state in the US, we ended up spending over $50 to have our winter coats cleaned. So the first thing after we arrived, right away they asked us to keep our jackets in a big plastic bag that was tugged underneath the side table next to us which was brilliant!\n\nNow, let\u2019s talk about food and how simple and easy it was to place orders. They gave us a tablet that we can place orders of whatever in the selection and whenever we want. The selection has many interesting and delicious items that made me want to order many of them to try.\n\nWe had 2 different broths; pork bone broth and the spicy popular broth. The pork bone broth was absolutely flavorful. The spicy was good but I still prefer the simple umami broth. The hot pot items were fresh and delicious. We were quite surprised how much we enjoyed the sashimi plate (non-hot pot item) very much. It was fresh with a decent quality.\n\nWe appreciate the little thoughtful services they have around the restaurant. Absolutely lovely!\n\nWe will be back again soon!",
+      "time": 1744495920,
+      "translated": false
+    },
+    {
+      "author_name": "John Y",
+      "author_url": "https://www.google.com/maps/contrib/110084733003956649870/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJlYV7vF6KfXQId_hsPSy4xj_My5a3jwsqC2faIsG4d7yN4Qw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "3 weeks ago",
+      "text": "Walking into this place you feel like your traveled to China. The decore is if you traveled to small village in China. Theres bench seats like in those old school movies. If you like spicy hotpot this spots for you. They have all you can eat\u2026 the quality of the meets are exceptionally delicious. Once you\u2019re seated and the wait staff shows you how to use the tablet to order. This place once you order does not keep you waiting very long before your food comes out. You spicy broth comes in a teddy bear shaped spicy oil. The Wagyu beef was soft and tender, the crab legs were meaty and great quality. They even have sashimi very fresh. They have aprons for you too so you don\u2019t splashed. There\u2019s a drink station there for you to serve yourself. There\u2019s a desert area and if you pay cash you get a chance to get a prize from the gum-ball machine Easter eggs.",
+      "time": 1748836085,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "2350"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "2350"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "2350"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2350"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2350"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2350"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "2350"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "type": "KITCHEN",
+      "weekday_text": [
+        "Monday: 12:00\u2009\u2013\u200911:50\u202fPM",
+        "Tuesday: 12:00\u2009\u2013\u200911:50\u202fPM",
+        "Wednesday: 12:00\u2009\u2013\u200911:50\u202fPM",
+        "Thursday: 12:00\u2009\u2013\u200911:50\u202fPM",
+        "Friday: 12:00\u2009\u2013\u200911:50\u202fPM",
+        "Saturday: 12:00\u2009\u2013\u200911:50\u202fPM",
+        "Sunday: 12:00\u2009\u2013\u200911:50\u202fPM"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=11904945461436460132",
+  "user_ratings_total": 4061,
+  "utc_offset": -240,
+  "vicinity": "5816 Fort Hamilton Pkwy, Brooklyn",
+  "website": "https://xianghotpotbrooklyn.shop/"
+}

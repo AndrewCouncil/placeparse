@@ -1,0 +1,503 @@
+{
+  "address_components": [
+    {
+      "long_name": "141",
+      "short_name": "141",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Broadway",
+      "short_name": "Broadway",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Southside",
+      "short_name": "Southside",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "sublocality",
+        "political",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11211",
+      "short_name": "11211",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">141 Broadway</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11211</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0000",
+          "truncated": true
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Tuesday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Wednesday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Thursday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Friday: 4:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Saturday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Sunday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Stylish, modern bar & restaurant offering handcrafted cocktails, bar bites & global plates."
+  },
+  "formatted_address": "141 Broadway, Brooklyn, NY 11211, USA",
+  "formatted_phone_number": "(347) 763-1481",
+  "geometry": {
+    "location": {
+      "lat": 40.7105166,
+      "lng": -73.9633332
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.71209728029149,
+        "lng": -73.9619199697085
+      },
+      "southwest": {
+        "lat": 40.7093993197085,
+        "lng": -73.96461793029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+  "international_phone_number": "+1 347-763-1481",
+  "name": "OTB",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0000"
+        },
+        "open": {
+          "day": 1,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Tuesday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Wednesday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Thursday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Friday: 4:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Saturday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Sunday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108000822947407168036\">OTB</a>"
+      ],
+      "photo_reference": "ATKogpe570fOFuiSuhaWRzsYBAt7hXgRh1S7kNAvYSm5Tj1f2wJMdrU1fxkAgOYJDDcr4HPxoP3HcGSTLfTXhMe90Ta1x1xGKZZlKiCvP4GoJ1uTM9uITO0zSnstqjT4_kH_NGW5iWdec4Zx6SWKU_tG7zirzg8sylw-BkMnUhP-DUvTOyk6M2IDBMjscrBEMHiJz8EjMrNfcvojDa2Pv-v-bKO2ieUYxVrCWkVAoMOhgC3XpvtAYWwYKsL_lDDyBh5W7FQYZk_LDcc-lYgOF6SL_slIPVA2UGEZZ4CYMfDSH25ePQ",
+      "width": 1435
+    },
+    {
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108000822947407168036\">OTB</a>"
+      ],
+      "photo_reference": "ATKogpcSbTn8ZXpkc7hr8YatH4mo5lvJZcyqYgL0PKnhb0GJjIKPOOyWOMfzKq-wHFfWZdDt9_2Nz-Mfb4-Sas4rxxt1ykFv6urQMXqOzPenW-dIwIkZKHaIeLUCjfU71p2kQP2fG_iSw3zaJawujvY3sfsGTmWDdv4xWOA6XhvTy43Z0Y-fEqhsOVA0rW6E52X2duB2ZhwNpx3h6znWWIxXaPU7AyoS4r07ZLit5C2cVeI63Zb6g2dXTAkoI-79ikwxnH71ZSQ_nqbgSNcXA_mOCckLCMhrzSgK5V62zXOBmdVlmA",
+      "width": 1620
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111345283712633424929\">Jason C</a>"
+      ],
+      "photo_reference": "ATKogpc3JquNyngDYgra9oPVv740vBnpkal4yv0L2RfQqUPM9TAP-UGpnD8jiDSlVPBF0-bs21yEoIQmPvE5xv-0xvGsnQwo8qguR71QitKTE3VTq56GQ_-EGTaeh_EksP9PRNU8aC2VMu8DMvy6sZFrOva-FCDKZW-S73Lh1MAYuiXCUV6uwW9ImanHY-HHOBmoOgQVa-4c5iDgHHBymdcE5KpyobwPx16v6eIB3KUD5zqQsuUEWp5AqUiwJa5gGnynIKOW7GzHRy7mGXaXxv0Ma7KUxrsEX2iZlgYH33egE8EawY_oIqfIy827-7VPxSArURj1vhTv8r4DXi-2KsdPfx0IQV2bXvQqu0z9mvvSQPOjpBUogKepClOhA9J6WfBnp5F3EleLI99shIyy41zCf_WcfgEW7EkPT7ZvrRBdnDR5FdRK",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113059877665537889918\">Marc Leribaux</a>"
+      ],
+      "photo_reference": "ATKogpf7s9zlwePRHJod7rOmhoX_XZoB6ojhW96OSxCKJ660y2nSwLjhkkEEGeC7sc2GulKw1T07gekwmNY-pK1lvqLkqUR7eiUN6uTFUZJrmPjo91y6S9livHlFrFvY3311G3jTYU0kAvhQtt955Br5mGpoiwUJ5-KM5zivMjZtxtTe1RwJToQm9rxZOxQg_-gZ1_ySt_gX6GXZargjEqnXM2fKhVQaxuhRNEzn9i6bUTUUf1KJuWB_gIoEzFVOcILeqfBP-lYUeVRrqKKAPrXFdo4zAcXdHjyv-FDOtc4Dkqu8bDyqYUNBcBLG_WzXYKH42t9xXGu6NNtRvEf0WhZf7-aYXJ9gNI0xz3aINaimCqI2jMGd4oUYxnV1XOoCNVdTwFwFWdCc-MoQOsaCGg8Y0hs5dg1S8WrMJJI3Q_JNdks",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111345283712633424929\">Jason C</a>"
+      ],
+      "photo_reference": "ATKogpdIWtql_yBllj-UYXl-1T1cH48c-GweL2Oq6ptJf94b6HUfTvWXMGYDElS_STRa0zsj30P2YKdRatnRIohBS8ebO8wZdSnIOJelk1Tn4oi7d9E5f46aud59Fp76yzOiW9y7dWSBKyMmpPxHUmg8YlKY1iu__KzVTTkefeCwC2fs0Qa8keS_LmE2Y6wxyA0n9wehR8oEutc4ZeDoEEtg5mh-canYsv9JWOhBwnO_sjJ_A3ViH-qW4sur-rhPLf7tHZLq27R0sS6UuPnvezLtssDhxctQycXLLJRKwjVQg-q3kcf-Oj44EWnUYNjH-3LIXGl93pf3ycEQW8Nac_s_3kFSdCNxixOrtzJXckky_8MiqJ2nLgj4BDL5cPmcrPx2brKOFIrs6s-nNR_dCwWiK6Upg52UsF4ZXfFadYV1wxE",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114741648071758857791\">T Tang (Honey)</a>"
+      ],
+      "photo_reference": "ATKogpeSFFjhcGeIN4NfG2feRaKK6PVUlJltm3V3DX_v851z2bDj9ATawjYG5bMmWO4GxgkfB7vfEthk_tSRO_rXzOWM03ZcKtAec8_ZhtvHPzMTchAXUPNPmBR3YdMNmIGHnfRE9dtyrLafXwNYoN5gXKqql-xHAjKTYm-O9UbgucbpZrzQS5urngxhidzdA5OdTWvM1NbGdV-9kKPG-Mbp48Mouk7aHB9VSM8tFoLql2lhmUh1jQjxIa44KfXMHhyEEqMqpLfRk_H222u0vmGsdryrhomPoPrTLlhStTT_XOaMzcWh9i7mQ8pJkjfIvPoK-s96fMyvSJAO_zkZLKLQcqmFQY5GMwMP_RvmF9wTrS1VA2iFO3gN3gyt75PpvE9ardVK6iNU1OSfQH1CwmW7bbZ0zJR-noVIj9HblR_tOoNwYw",
+      "width": 3024
+    },
+    {
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108000822947407168036\">OTB</a>"
+      ],
+      "photo_reference": "ATKogpen4KsmDpxQuU-vZggmvoKYm1Fcpdd55HF83SWuUERIxATyQsUAHMhl2-5cId5kMTHmPASAlZWmkqNNULwCjoYrmfzOr7YvifV5B2XMyeLpcV2e-6n5MdpI9ndySLzkeEuw3jVE9I-qMJa2LpFH4O8hMg6OIHMFtd3zgF2xTLkOF77oUD1iro_kg9X6gX5g5nIlOae6rFdXL6_w8SZDlGoTchbXq0F0Mr8X-1FyjoLe5UDo7La_o7Vkh4-ifcK79n1bA_DLy1cv9JNJp8eWHF6c4d2ag7o2vRf6ujhE1TH3fg",
+      "width": 1080
+    },
+    {
+      "height": 2505,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108000822947407168036\">OTB</a>"
+      ],
+      "photo_reference": "ATKogpdX00dEoU72FQQ3sm_YOIhExCzw21LRz2-MvrJd4VUP63Iwtr5FYck4K_VgdGTQELj8AIIuUM63XuBIF8iuyG1fTFvIoJRC9P1CW7i9ymxgKIyB6dgAu2TZe9vEygR1Hh-97yRiadTs0lEownzRu-fqJUhFjOdC3_wpZBRclKPllEjk-pOdDYII7jn1nfpu1TyA2UnULNxFogGguids1c69TkAdh4NoecVxXDko32RkwDZHC_gxb-HuT8o9m_nbuvvszM2o-HN60l5PILxCsc09ngpztZKhunCyypYoGkmBPA",
+      "width": 2505
+    },
+    {
+      "height": 2992,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111936703927812189704\">Takyashilah S</a>"
+      ],
+      "photo_reference": "ATKogpcPd7ZXGx5cJegY0vLxLc2nzIOUR4oe4bX6PPzQiusuxM_tdQ4BABXC_CpABsyERsY5S1vajmWdDOKQefdzomZ2mMMobCtNskFSweegAId0rR34ZrxYnsZMgWdBO30Y7uzehtJ2N3XwYcMBnDfWkJCPnidmC1K4FZGtW_wxpX6uuKIJAGu5ObOEND3CwGfcf9SsGdtXxKElDTdNf0Mfrg3EstW33hfwicKPTcJ2IYtbGP_97nURnUvV3nSBZCcDwxrvEyv37P5i-iX8JMdzVydBFZJcmY7Fycjclp036G89rLCskGkHZ3fl5gEgrPT7CUsoBj97kCz4nXiIV8--IruseX5Tx9-_avrK--rr-H8r4UlH4QPIuGWFziZ4QinfsphV7dzZE4X2mR3Q6g0M5yOxhl5Irbxr5x2_8dUPk6k",
+      "width": 2992
+    },
+    {
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108000822947407168036\">OTB</a>"
+      ],
+      "photo_reference": "ATKogpehXsUARBQ7T0XruuGzngqA4nkKp_AKKqd3-PVM1OMNpqbxvnyC1cSVNx8TsEG-IuKEFu6MACQs3IX02TQcH-SOBZVw5F5GezppO4IFV-Qb5ji4AITtLhEGwNVC5PssaWT4szlun6qFtmSDDQ2zNuPZ5HM8pGiee4m6Y-mT0JgmSZKzlKNbnIlCtN90p5U2xTco5-ITL739xssWmq2rCEZlYDfcMOlyAnDeGNGiO_jS1T3HLctjO81X_vh3UT27gDoZ0yJLpn1sEa6Aan4tUF4Y2Gj9SKKfvOmk5JJDdr2emg",
+      "width": 1550
+    }
+  ],
+  "place_id": "ChIJ51pNHN9bwokROF0EWcMTsoU",
+  "plus_code": {
+    "compound_code": "P26P+6M Brooklyn, NY, USA",
+    "global_code": "87G8P26P+6M"
+  },
+  "price_level": 2,
+  "rating": 4.6,
+  "reference": "ChIJ51pNHN9bwokROF0EWcMTsoU",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Jason C",
+      "author_url": "https://www.google.com/maps/contrib/111345283712633424929/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBxOanByFHV6liZ2Y3fiRPcJ7awEcyhrfq1RutpBX4BIE6hD_M=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Some of the best Cocktails in brooklyn, the French onion soup is fantastic.",
+      "time": 1742307458,
+      "translated": false
+    },
+    {
+      "author_name": "Zachary Thomas",
+      "author_url": "https://www.google.com/maps/contrib/111303408358389019484/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9lFGxa7la2BVVgB1_iXRGQ1eNA0XeefD5EBUs9KMGt0bEtKH7=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Friendly service and good vibes. My spiked cider was fine, would like to try other options on their menu too",
+      "time": 1743171701,
+      "translated": false
+    },
+    {
+      "author_name": "Jackie Tilton",
+      "author_url": "https://www.google.com/maps/contrib/102045709206771103617/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUa9qarQx43mVTyiLOxWk1LlkYG3KzfCVrUJIZricXV5W2B8tZ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "I hosted a 30 person birthday party at OTB and they were beyond accommodating and serviceable. The space was bright, cozy, spacious and not having to pay a minimum or reservation fee was a breath of fresh air. Would recommend to anyone hosting an event!",
+      "time": 1732393239,
+      "translated": false
+    },
+    {
+      "author_name": "Nisso I",
+      "author_url": "https://www.google.com/maps/contrib/105037738790521784326/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9L2pvSqwQmekBN_3yDJIXIAT_HvtKQ09Abpz-8JBzFHWU9nca=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Very cozy and cool place to visit with family or friends. We came there for a drink, to relax after a long week. Moscow Mule was excellent! The next day we came back for oysters. They were just amazing! The staff is very friendly and they recognized us right away which means they pay attention to their customers\u263a\ufe0f We are definitely planning to visit this place again when we will travel to Brooklyn again.",
+      "time": 1688160229,
+      "translated": false
+    },
+    {
+      "author_name": "T Tang (Honey)",
+      "author_url": "https://www.google.com/maps/contrib/114741648071758857791/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSfeBzRcarzYxMpa_3mONVaBngANO0QZHxhiC9eJFP7o0SfNXZ-A=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "I love this place OMG!!!!!\n\nTHE OYSTERS r a MUST!\n\nTHE BURGER OMG!!!! HONESTLY ONE OF THE BEST BURGERS I HAVE EATEN IN A LONGTIME\nTHE BEEF WAS COOK TO MY PERFECYOO. THE FLAVOR WAS AMAZING!!!!\n\nThe hot dog could be a little meater so small but that Chilli wit cheese made it up for it.\nMy friend had the French onion soup and was drooling. LOVE THE SALAD SERIOUSLY\nThe wings were a little too big for our liking.\n\nTHIS IS ONE OF MY FAVORITE PLACES HANDS DOWN!!!!!!",
+      "time": 1675045079,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "type": "BRUNCH",
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: Closed",
+        "Saturday: 12:00\u2009\u2013\u20093:00\u202fPM",
+        "Sunday: 12:00\u2009\u2013\u20093:00\u202fPM"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "establishment",
+    "bar",
+    "restaurant",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=9633784282631920952",
+  "user_ratings_total": 306,
+  "utc_offset": -240,
+  "vicinity": "141 Broadway, Brooklyn",
+  "website": "http://www.otbbk.com/",
+  "wheelchair_accessible_entrance": true
+}

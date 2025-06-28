@@ -1,0 +1,525 @@
+{
+  "address_components": [
+    {
+      "long_name": "Unit 21B",
+      "short_name": "Unit 21B",
+      "types": [
+        "subpremise"
+      ]
+    },
+    {
+      "long_name": "BrightLeaf Square",
+      "short_name": "BrightLeaf Square",
+      "types": [
+        "establishment",
+        "point_of_interest"
+      ]
+    },
+    {
+      "long_name": "905",
+      "short_name": "905",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "West Main Street",
+      "short_name": "W Main St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Brightleaf",
+      "short_name": "Brightleaf",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Durham",
+      "short_name": "Durham",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Durham County",
+      "short_name": "Durham County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "North Carolina",
+      "short_name": "NC",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "27701",
+      "short_name": "27701",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"extended-address\">BrightLeaf Square</span>, <span class=\"street-address\">905 W Main St Unit 21B</span>, <span class=\"locality\">Durham</span>, <span class=\"region\">NC</span> <span class=\"postal-code\">27701</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: Closed",
+      "Wednesday: 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": false,
+  "dine_in": true,
+  "formatted_address": "BrightLeaf Square, 905 W Main St Unit 21B, Durham, NC 27701, USA",
+  "formatted_phone_number": "(305) 562-4796",
+  "geometry": {
+    "location": {
+      "lat": 36.0002225,
+      "lng": -78.9103777
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 36.0015076802915,
+        "lng": -78.90910356970849
+      },
+      "southwest": {
+        "lat": 35.9988097197085,
+        "lng": -78.9118015302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 305-562-4796",
+  "name": "Nikos",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1500"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1500"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: Closed",
+      "Wednesday: 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1667,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110936942679603170537\">Nikos</a>"
+      ],
+      "photo_reference": "ATKogpdTmJ3BuZdnRrlybTOtQKgoFddiJdlUZnY1Sge9-0JdJJ7C7x-kkjbqPMzzxM_2nJtobQYHkSBl7NfyAej8v8Vl7EgtxlvKnvsu9VKygzJ2wKdZjnHs55zjnq-cJARG1wtVCrclRRM_WioWVJKZ3Y79CRW1B2MiPWcbMSNytXS6hxTkkwgUKyYF2XT_3rVP6DYLixUWRg39k5P_WddPZDDgla8aTY3B5W4GLDk23DDxOwCoSEvuUBz0ipTqol0NzesbkHT4VReFHSpiWvgo7PFnW4G8iy0F8HeCo-J5uRfjqw",
+      "width": 2500
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113840011948059397495\">Kay</a>"
+      ],
+      "photo_reference": "ATKogpczwwYtJAtGWo00Fxnk5YmXZroCg3tPya7z6VHfZjG_jwLyczqlcDbURTJOPDkMZVK985ZpaoafcDVr20kVk8IPhIHQWnQXM6OzcKeeFIb9_4iDj4sP9mMkjxVdAlqJmVOkpZxIiPFafLWukxP6j15yBf_T4v5L3TUO8IRkzNjHZXlxPjxRJk124lO3Kmq8NmssZSfNxDdnFWhnSZKTbULoFXyDFXp58L9AErqhubWu4UtQjjv8sg7WdcsrFMeLF4FH0lZjM95CfqeLfBeuD2VOa7GGCfExPUVgGub4ABb9vyOPUxSyaSj-WwS6xIJwpZ-LnJbd0Ubqi27Xz0wqeoM2ZCUiHEv1Q4pk8XibcBv6wo5MSrNlxTLACyGC9ZtxJCKAIIIUAXfvb5JGnqbqRGHRAoe2GxhVuwj4j19RL9GL2EDkHFR2KllOhzf9Uw",
+      "width": 4000
+    },
+    {
+      "height": 2500,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110936942679603170537\">Nikos</a>"
+      ],
+      "photo_reference": "ATKogpcu23ZXA6EzsXZIuNu_wpm_EO-EVABTiT773L0oBgLRsknRMj7d8vtpQIkoUo2Dxly79pgvIFu2rh3RK7063X9tD0mGRjljk65WoTWMAioIHiK4UFCX4HUbRrB2hkp1LvfG4obn8Bz4UAyWeXOEoScrG6bUhL-43_ACiCOhWeXL6FyzQ17KP8jwxfwdYdlodBleGQcpLpFJFhKuQh09oGFjPPsQhzbxfF0NsZUei48TgrEhZqvzZzm9TUwMwbTdSgyIpmxkSwrTmHID7PJQ2CmgtdN1lNqQroLm-_Ua6h8DMA",
+      "width": 1667
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103595216337459866053\">Stacie Dye</a>"
+      ],
+      "photo_reference": "ATKogpcPQ_qXlkL9IhgcO8guVYwjba7fG6m6hbImtk4GDru1FqnZMNqftg4UBnKzckU8OFKxQ2bWhC5k8OYWr51eVnOJWdx0QOaiAh-ODylgb91tRY7-wAX-9jOHxst6sTcomyH2X9fe5n83enHsBRAyMAa0lnG8XdAmMY0zcjovK1ARH6_C9TePRJ7BNHpg1nVwXI2DYnMMiw7lfnnSRH0CEyGhifn1gvdGRupDmuMwegv_jT8x0DMjd2v4iDc4AX2na_T9h2KSJLkxkkGuzS2XmtRk3wpctKmwRGxaxbKjpPfCrg9AbN8BOyObUhDqHkGGkUN_bfzypuVslJmdXJgDIoFlJ43VQyCYw5eFnrkXcbfEkBWmAIyl_TL4eM69xNwNdgW1SDp6CsuQo3_eklbU6dBV72hulEwivtTPnZTXO7w",
+      "width": 4032
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113840011948059397495\">Kay</a>"
+      ],
+      "photo_reference": "ATKogpcp3m3nmQVnv9TnIk-BDzIBkRfSxryAJBWPhq0aF0d4M3hXzOkeGJzMjFyeMgRaCgrfEhEKuzfATIwAIFHVCTXTctR4li4dz91gSPY4rEOz3ptlIpNk6rmahYe97V69kayM2z6VDkChxSszl21EqPSQjdD8qWW4_DPmAvOZkIt3TGnjAdVJKNP5iD7r49B0wogAhLOTXrJA-nB1joNtVzjJY36o_6XwjB024Xy7y5TvvSag9D0E5E3kmWBtUgV6YvwO5XPMzRQi3--oLLLIkTj6xGdEZ5Zu8l8Eo4sf7G6QUiwR31MXWY5qBY4uvk521YEiJR82Uti3M7Awtg-twv285nyRmOrD2ILFlRjkInDTmql6PxkkvHFkJMAdT7-CcdrRcNLnzZMe_S2XIK4asJxkKrUEtqGqwThnAsL74JPn930Ac7yhOPr4htwCp7ZL",
+      "width": 4000
+    },
+    {
+      "height": 1667,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110936942679603170537\">Nikos</a>"
+      ],
+      "photo_reference": "ATKogpenkIn99V2_QXODaFc3MDQ5zt1Paoj9dECJ1s3qaj6D_TDaDtkOZgalfbPiZjMtMX4eIakKLA-Dnx0n6-sJINZ9aS_aDTcChDqfzBvFpmN3yhp5E8Uc26LUMuxD4MjepQOf6fS_acjV2FmqdLOh4w2VAFfA3avxlyAYUVvoG4VrYtwSVTI_ocxpqByg_lSRivrYtqQFCSSRJBOv-7hHxZM0AWYjORthZMoTG4Ls3WLjmEb9iXTm9is1un2FszlYinPf82ZY8ZiyWR31vKiWUtKs8JtxLq5Fzhy_1Dr5dk4NTg",
+      "width": 2500
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101368907241841373423\">Keith</a>"
+      ],
+      "photo_reference": "ATKogpfgyOcbhABACDLop-wEiUvgmFfg_T9T8H3omGYDgafzQVCey4m7DiNdt1bCpzV6k8EZ5EX3qPeLjKTOJWlil2tbApBmthQhRITLLfRSBY1CEYwbLwF57uypqpxp-Fr8eAy-gUU8GJIFs9_nP-zmbMvXb_EJo9ZUwvECDViuhWDrtUryJ0qlMYP37HGkEKAnGnRRiS7qvFekEcuwQjBpQeR7TS5Ufvbkoa58H1uz6eltFTCFlLOlM0xWpX0zwjFbGMpnUNVOc-Lx13wU3aNeNGfJchRyBvHOrRWvQxk1VDfnoHH-Bzx7A1CXriDpTA05r8AvrJ2qd2XCklzxJ70Rt-CNIkdTi2OCHArIC-xefy2JEf6GBWfW6_rDC-iERgBY2LSyMmd5HT5kIGjC08x7zDGqcKQSAz1CAnrlIXLr2DmGRQ",
+      "width": 3600
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103268991439522761115\">Carlye Daugird</a>"
+      ],
+      "photo_reference": "ATKogpdfCjzmQFLjK5CrV74VjMBFutvN5Kwwasyia1uDi_AxdYk--quZU_4wFE7KjqPA9B5cwNBCgPJLDr3lgQBLymBuVIWpqDgPeHtHoPqtY8Hy6hcrQ5ZtRfyrPtRhPhbDCjx6sP7_M3gsnyffOv9Tkff-p0mBJ0YrNg1ftDptZUY0aNBqtpqL30zYHt2vze07RUKvhnixTBORBZ0OKsGFKnQI9Y0vMH_VCTi9l0l0Ih2B6CK0M87KgwBcd8DedJ6zrEbP3OJrKMJrcF3X9mGsVBxSiAwBy2_peyVKLIJ0cVhPKxNVSoaSHXoMjPJt_K6bk0PWRvF1rWDlFs1u_XNmHSjNl_gACh68DLJc5oD8CmYOCjogZosv7AcKrGszUcJwCXlyFJZ5dCTvsCNPxRQlT4AFpNHI89_ENTJ39W7iiTGcl-M",
+      "width": 3024
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102252895617547790642\">Stephen Mutz</a>"
+      ],
+      "photo_reference": "ATKogpekXVDlRnYq1f110Azo5YzsOL5uveunWz4QEwPw6MamP9cdng04JJGQ2599GjQDSb6_u4UIWqYfL1rdciKodjXiac1f5MsPm_7HUSvtB0YoJT5Poa8C46yZjJiPFCbs3PE7LTbPYGKJAZmB0FaBDxd7U_t-BNphnWkRaEOqsMZu_rCepFlEUHAdwtH6yPH1vyZyNn6mIvGjhDv1E-rHuxDvB0LwIr65oOjfGs5mwU0QlbNXMMpvwt2yu6L4wZNsDeG8GsJrls0srpxZ6VylcoUzT5S1dOzexQ5xlFMkGKXfN_9VXVdQz8IZkOleR5wCV1r8jCcwBzVFSrVXoPV9GlOJqf-NAdv-j0nPpITGUUFAw29UYuVdLMyWtyYFazcA1X538wX_xsrLqG4d85927Qu6dH_B4VfwnhokrgnzBdLWog",
+      "width": 4800
+    },
+    {
+      "height": 512,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110936942679603170537\">Nikos</a>"
+      ],
+      "photo_reference": "ATKogpebvx-u8dpQeXVQlPg4l3bD1GZX5DVN7UWhTd9j39E110iQKjOg4cN7ULUvNegNsLt0gw2ouIbUoqDf0SoTlajRP1ltsqXDJ8rgX_DfgTg_f2v9yYgDHSwojVPC7Zd_ZxAK9WJUotAyCAqpEOJdvGpoMB4WTnvEl25A8cwL1dmTzkGuwbLS9s5fFm6NxXCUpAMLZjoXUn7syvhiMmNB0Pc8bSZmpeSdCXasX4q7ZSdGxyLnBvISzlQplyypLM38BKh4vtP03j4bmYMDxPFKuSTxanXZuMXZu2HZ7pvmQxC_-w",
+      "width": 480
+    }
+  ],
+  "place_id": "ChIJ_x9-aXHlrIkRftJI4-J7huQ",
+  "plus_code": {
+    "compound_code": "232Q+3R Durham, NC, USA",
+    "global_code": "8783232Q+3R"
+  },
+  "price_level": 2,
+  "rating": 4.7,
+  "reference": "ChIJ_x9-aXHlrIkRftJI4-J7huQ",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Kerri-Lynn Scheitel",
+      "author_url": "https://www.google.com/maps/contrib/101116440535418696079/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJrAUktgj60AhEBcdJk-EDKyoezapR7i9eiQwoLng7zoXclYw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "This place has stunning decor, amazing staff, and the food is authentic and delectable. My fianc\u00e9 and I were drooling from the salad and the calamari to our mains. Dessert was a bonus, thank you to Athena for a special birthday treat! Next time I am in Durham I will definitely be going back here as it came highly recommended by all the locals.",
+      "time": 1742842532,
+      "translated": false
+    },
+    {
+      "author_name": "Shantel Richardson",
+      "author_url": "https://www.google.com/maps/contrib/104776282597033196197/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU7BVB6cWBgOB5-ceR84EPvBufAxNHBLwptJaeGgign-IlSTvsO=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Josh is an amazing server. Very friendly and great timing for food.\n\nThe staff listen to feedback. They made a vegan friendly eggplant moussaka between my first and second visit. The chefs here clearly get the ability to build complex and delicious flavors like almond, fig, fennel, and sea salt feta cheesecake. I strongly suggest getting a reservation and treating yourself.",
+      "time": 1749515528,
+      "translated": false
+    },
+    {
+      "author_name": "Holly Sullenger",
+      "author_url": "https://www.google.com/maps/contrib/104145295548824064427/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVjwitS6FLgCm5j4X6-UgbjBA8gYXDsg30OKHAZA43ah5W-W2Fp=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Our first visit to Nikos but it won't be the last!  Great service.  Delicious, mouth watering food.  Beautiful decor.  We went for a birthday dinner and received special cookies and a song.  Phenomenal night thanks to Nikos.",
+      "time": 1747149539,
+      "translated": false
+    },
+    {
+      "author_name": "Stephen Mutz",
+      "author_url": "https://www.google.com/maps/contrib/102252895617547790642/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQWNLOHMi0SeoiJ-VjnYXOBLF7S_507ytclIkLtZqlj0Qtj6AUqw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Went here with my wife on a double date and we really loved it! The Brussels were amazing and the beets were so fresh. The potatoes were really good though felt like a little more crisp would have been solid.\n\nOur waitress was really kind.\n\nWe were disappointed in the desserts - one had clearly just been taken from the freezer and was thawing, but the cr\u00e8me br\u00fbl\u00e9e was good enough.\n\nWill be back for sure!",
+      "time": 1740692697,
+      "translated": false
+    },
+    {
+      "author_name": "John Doe",
+      "author_url": "https://www.google.com/maps/contrib/110267262117699599455/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLkPhvnzW8yemMIQMDOVzfmj69UZhHbG7j4tUXb9a5o-tXaCg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Amazing food. The Greek Mac and Cheese is superb as is the Greek yogurt. Great staff. Everyone seemed very kind and prompt. Parking is a challenge and the chairs are hard wood, but the food is excellent -- tasty, good portions, and not doused with sugar or salt. Highly recommend.",
+      "time": 1750523426,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "type": "BRUNCH",
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: Closed",
+        "Saturday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
+        "Sunday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "restaurant",
+    "establishment",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=16466985301932823166",
+  "user_ratings_total": 507,
+  "utc_offset": -240,
+  "vicinity": "BrightLeaf Square, 905 W Main St Unit 21B, Durham",
+  "website": "https://www.nikosdurham.com/",
+  "wheelchair_accessible_entrance": true
+}

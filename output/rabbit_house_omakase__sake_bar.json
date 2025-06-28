@@ -1,0 +1,532 @@
+{
+  "address_components": [
+    {
+      "long_name": "41",
+      "short_name": "41",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Essex Street",
+      "short_name": "Essex St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "political",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10002",
+      "short_name": "10002",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">41 Essex St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0000",
+          "truncated": true
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1730"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 5:30\u2009\u2013\u200911:00\u202fPM",
+      "Wednesday: 5:30\u2009\u2013\u200911:00\u202fPM",
+      "Thursday: 5:30\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Friday: 5:30\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Saturday: 5:30\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Sunday: 5:30\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Spiffy Japanese spot for small plates, sake & beer, plus desserts & a chef's-choice option."
+  },
+  "formatted_address": "41 Essex St, New York, NY 10002, USA",
+  "formatted_phone_number": "(646) 448-4022",
+  "geometry": {
+    "location": {
+      "lat": 40.7162618,
+      "lng": -73.989561
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7176095302915,
+        "lng": -73.9881418697085
+      },
+      "southwest": {
+        "lat": 40.7149115697085,
+        "lng": -73.9908398302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 646-448-4022",
+  "name": "Rabbit House Omakase & Sake Bar",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1730"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 5:30\u2009\u2013\u200911:00\u202fPM",
+      "Wednesday: 5:30\u2009\u2013\u200911:00\u202fPM",
+      "Thursday: 5:30\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Friday: 5:30\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Saturday: 5:30\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Sunday: 5:30\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110868603367525416287\">Hsin Yi Wei</a>"
+      ],
+      "photo_reference": "ATKogpfgfTmqurVtqxdv7UCaNmW__VBnDxekkwv-HaN2VZl9FtfQHvbzNddFt4p-mC3CGZpLodeoWlly34mYibewgRxMG98SQ5m96R9QYLjPfTc36LjOGdSxSQ8rWqg67tPRIc3myZxL-j8pu-I-rZZw4UBLnKnbmpOd-J_hH1c3d5UfT-qKDPqopiafzyOOvf9l14XftPUr_0VBQ1VKj_RmjKFB62vKYs1wXjFeEaRRnxWAZRX2R7qclsqolmdW-lBVTAt0zZ0NZEy1eeOHfuqps5gciVK2L-Gaw5JwnLKmKI-kzenCX3Qwpys-NXYhQ3HhQMblEXCtKBTW0Evi3uhcCypip7dA_xLz6VUnVK8sh4ukD2oFdVPY2rvGxJZvOD9kMfrN3oBmlV-Kvtk8_-5dwICUynXOiYGiL0aUGn8eKk0yBbiS",
+      "width": 3024
+    },
+    {
+      "height": 391,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100812340100350156323\">Rabbit House Omakase &amp; Sake Bar</a>"
+      ],
+      "photo_reference": "ATKogpfMByZUx12GaggtzfCttLM_8vfS19SRoWVHyqBn42oA_0Nf45sYo8vEZ3rUQCj4TiUynU7YZqTJVL38f4V2W9YFgplhA8EbXmmEW2a5PJXZ0Enps7oaQ3uZcNL5D-Muf9a6sw-Ff3wgw2YgBckYgnVMNYQQMyyA2myY-y0xQdf-z3lyTscLc0vTh-UobpF0J_GCre_i3Z3wVGayVTGe7R-Cpi6eZVS5QSlcxkAwQV6kSOwaeF2UBxEfHc22waqMiv0Lk1_feYv3_lujQYyPo324MTYfI6rS8FZaMwdZYIKxoQ",
+      "width": 693
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107563704937053099785\">Carl Eklof</a>"
+      ],
+      "photo_reference": "ATKogpcgLDWFjsGB4U0NtDywXo4gCw2EgfUhY8BgRFUA7Kt2ldkU8BufSbzR2Mxi0oPzEVvfWRmjZVd3kHkUjNrigp9aDxZFw9XN1WjBIBsAhwWA2zaoUR9Do6lEtrq5cu1p9ICXe_m7rK5vjKTjp7o-ED3hx4vs0xe5CBjVwT7GIchCZt55K50h7LtfBarxISIinRdNOQ6SCc26sq6aiZsJ-gtoCJ8X8k65dn12yx5xpn2zWmg78pT7cV3y71SXbLoZ8T4MVhuyXmkDekZ2LknROCQofQ6Rs-WDgwrv77DPC_M9NaRQJAtlsr1k6vpu-XUgFdoz1Us0YDGD3vahvEuQKoA-1VpbJgdDRADW90TdeJMeCs1q4faSNR3QeG2qaydrX5ITOxP7vltKU8kAT6nKnTYmm9dp4ylI5BA08YprR8Q",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107563704937053099785\">Carl Eklof</a>"
+      ],
+      "photo_reference": "ATKogpeFm3jP0hyeikvh-1nkBlJAcdmQSNcHhjl5H8_Myo2XD40p9H6QEd1P0BUq3XBAkcXWDEHn26791U9IXd2kAjPimBTKuVgZqDIYZP_TL7fc1v8_i3S_jw4muWOnmidUHiNVORJesOKSE9wzlF0oFhHqS9MHuP9AlPj864prlNbmBrcGx7y-oo0xGywf9SSF1lesiu1Tm4S9UAEPZ3t19dovLVYJfOq2xfUTjmXdg226FHgLcDR6AcwRJj3fcfUCc4zcAgu-DJiLhXD0rKWMHa3H0Ap9QxH5_-BBiFu9HxaSDnzwZrT3ZagWZ09XqncLk3ojFalcKs7w9x7H5k02DSVEz207y_kynO4yLNx6lftWu1AWdnefQeH4ih6XkUF8eeZtGyYSSUbPy4cd4JdK7lBa4yT3laKkooS8Iq2eFXSpwGET",
+      "width": 4032
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112776880388653973862\">Marina Lleshi</a>"
+      ],
+      "photo_reference": "ATKogpfGRVFnEXNZy2qvNG0cozelk895p_pY8rX5jr4IbhE3jg6LNJBCD6FONZovgcUJFw7MoCGA6aRKgIMPDk28wTnSJWTzBAkpWSwBUDjY_qu5Rv3d4L-03gKHEyhBCqhb3IDswasoKLOFOc8BgMLm_auSCitd8_6_4Jc365s7hBEmNFarz3p9uF_66ie3N4CB9BfcVSoGz__e-yPHG6dn_8hMZX_4O6xWYlekgB85zSDZ_lUggyclp7qZV2gWwY-LDU5DCAo7aEFSsDNrNiGf-BbvOEKcSbM2DGeHKhzKmD-wRfxryp4mSEkOitWFKG5yIfPm4uIgHvu6jKJwJi-R2O4SohSi5s0KEsjPtHM4TcWLwniiy8BOWH7etAYv9j6qJ2E4PAiRUiRHh9F5Y7CrBy1Fayq7Um9ziDYteGwH1jE",
+      "width": 4000
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102063126625832259031\">Paris Sithi</a>"
+      ],
+      "photo_reference": "ATKogpe_rqOFk7NI0NJMvuDnAv9PBW6kX0tGCeoO8XhFCxQGvBDOiwNSL3_DC3GLLLXxhpLCuugNvm5EqzN15JKuNA8PqW9ozIlXmYfCM5J9n8zgOM0n9Xmzm9yns0it9RrIYHChkpMU23b1bNcbI7XxBpLAiDch55NyMbUD5ohUSlgZPBzp4bzcm7OztNzwJrfiNUF8auupqj9cJN1OWbpXPlQFRFp1PeRdOKaQWrbUL5EbzrWoyudqQOgPNkZW5DWgfZdEJRZUspBT6yBipkyUUKlgtRychRX0syf9YjBLTvsYaRaIsAKziHd6run5DNep-aylPh6MC2SXJIkRZPIkgN7uDmEc4zlR53a6rZJe4uJM8hBUvEObPyUHFim8Ybw4oIR3_YX_6qXvUOBRMFYBk5gb7u8_hn-Fq1fryBRLh6zvC1m2",
+      "width": 4032
+    },
+    {
+      "height": 2162,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103215944739639976492\">Dmitriy D</a>"
+      ],
+      "photo_reference": "ATKogpfDL7EuXSt8BCcS5bCJ7upwtgJRTZD8Cf8EQT34aEUKGGFJJTx5yjqOvZlojhxiJrxcqyhGmHufsibx0Do-uoNwfbF-E7DPvmLD-CuNZi22dIyEFzpN-roOPyE64lTFEH1LmXGTebsIjb-UVxMSuoK-3AfYwZQZgTedUNf46VnE1rdl5KWms1IGBgXL4qM5AMLmJgbgu7a0e8yLgbQPRtDxBFNg88olsNX6D90cDw5XvhRgfiDDpYA9GtdJR33Y1aliP1kjMqSKZ4M5kgW35K1TaLYjXzir7PjqJVQCkwtvtEfaaW453KCZxJi8MXNapBjrHq5A5zC64qjP5iuYsL_JOrIPvyqSbhyHwFqjo_9Wo1wZ_LR-R5I1oMThXZVwG410wzKB0CtXq3wLHkFS5PZnf9upHzpL5NgS8CVClblvEzMa",
+      "width": 2500
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106285063375987843809\">Alex Serebrov</a>"
+      ],
+      "photo_reference": "ATKogpehls2-If-_G_66uhtH_qKvxwpKkxcxB4-Py0FFnaRpq2WUuXMX_gKblUSEXfjEyFOabVUI_CN8e09IGfkQ2Am1lkMJ5KeOeDiQjcDbBPJ2Zu8XUEJ1wQx_7cO3VItNSZiJwY16JB_IahQFOee2Jv0rG40vsjeuBCmBKqyEy7NoVCFcSqRJYNQA4QSx29BqV_7VvAdrqhV4DlrJ1DEDmiL7HUSbJL09MOKuTnIvp4zzABNlFK70SiOVNQnFZ8OfUP0MlbdaS1F1AXQ4oOpWizx-vTukn4V7sOyZXqmq3AOtfAXlzSMLDg4QgzKWfToZ3L-iV1_oqz2L-6AHAs64m621417X4HaClnjkewPMe_-PtdQcNm-OCODVdnAlsYCj56wez_KV8ht48ZtTeYQKTmw6XJXcDRcgp2yHv2jQMjeGoyRZ",
+      "width": 3000
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100810740597924350910\">\uc720\ud61c\uc8fc</a>"
+      ],
+      "photo_reference": "ATKogpdtMko8JtJ8kAoIRfFyBIeIHBWnJkdPy12dTB6QzXw2WY6qnQSPAJrD2wREh5sc8XYRwN4P7GOOYJ-3buc6wIwJEbwxax_FZ0mJUQqVAaT11L6JlsFmRCcMhwFXxVaM8t8b2CGnTG7Ct-9Xja3iGKx2mDxrMouBTdjRMca1R5B8ViE3wG9EPoE7RhBP-5CPKLFKPlfXtdhdWtmDE5hWijcOXv2YOlLAN7FeTaym_VRvY1K4jWB6i5PVIW1M6yeIRJXg7yeE24FyuQy0XpmOskCtEVYE8gMWpTVjJXz9ducxeQBpv6ACchvnwCzqUsozcU8-INmDKfZc_gfC7vJlNYmaNPGJ39zezdcyF4JU8Y94f81aBI7KKpxTeAx2y55NTjgaBFB5vnyoQFwoRQKxFkRVbDUkIS3waXAjYpRjZl08oUW4",
+      "width": 3024
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112708902447329560823\">Joe Messina</a>"
+      ],
+      "photo_reference": "ATKogpfhlpWAzCcLyKeJkzVp1_vDIaEl0eD75uQrEWGNFnT4uXbzWcGF87eiiBzlze_Qh1YaTWa3iLCCE0pI0YJ6BKksMqV6xv1xdbsccb0VSHfidVHOxTu46eRLvr34I20R2ZdfCYN7yAcZhHCqGRW3ZuhIFYzU_pCRvB0JGR9oVrxLkpF_MnF1VglH71VDXM0Bh0AvpDHNbJFmh-q832XNurJE8h6sR6HEESZqUByf6IsJxrqUGkUuJQVYeybDCMeGUHdzcZPL7hQ1UdcQzU8UFbcQRsQhUTBEUKO1KJnrfMbFWBvkejNdeKqTjiK5WFQWw5EmosKCTM3ZApBzeOa7qpgqLix_O79gqevQGyGoDUq2lMX8mP3EqVqnlvXhm7ymB82nc_20CkpQVQ4dXTqUTlp3KNO3iodv_GqGyZEx_L_LvQ",
+      "width": 3000
+    }
+  ],
+  "place_id": "ChIJVyEPi4dZwokRMd36Qil0Q08",
+  "plus_code": {
+    "compound_code": "P286+G5 New York, NY, USA",
+    "global_code": "87G8P286+G5"
+  },
+  "price_level": 2,
+  "rating": 4.3,
+  "reference": "ChIJVyEPi4dZwokRMd36Qil0Q08",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Xi He",
+      "author_url": "https://www.google.com/maps/contrib/103563906897252405013/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJaJEfhETSx5bmeRDJJSmoC8flgYSA-GMyqvPVF1CIjLZn1Wg=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "4 months ago",
+      "text": "Seriously it\u2019s the worst Japanese food I have ever had! And also the worst omakase experience! They don\u2019t know what omakase means? They serve horrible food during the restaurant week! I have never given bad reviews like this in my whole life, but this time I can\u2019t bear with it anymore! Except for the appetizers, all the other dishes are absolutely horrible, the beef tartar has so much tender that you can\u2019t chew or swallow, the cod has weird texture and taste, it\u2019s probably not fresh, and the last dish was a weird lamb pasta, the pasta was huge and all stuck together, also they only give the chopsticks which were not able to pick up pasta, and the lamb has a weird\u2026 at last the dessert\u2026 I can\u2019t even describe my disappointment when I had the first bite! One of the worst restaurant experience\u2026",
+      "time": 1738207592,
+      "translated": false
+    },
+    {
+      "author_name": "Marc Miller",
+      "author_url": "https://www.google.com/maps/contrib/112527670746865038645/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUo6epEQGlkWx6lygsS7oz2g6tPl7AdFTx6N-ri4bGFl3Hl51yD=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "4 months ago",
+      "text": "Terrible.  First course was a half-filled bowl of broken Tostitos tortilla chips, like from the bottom of the bag, served unironically.  See the picture if you don't believe me.\nAfter a very long wait, they brought out a course of: The most overcooked scrambled eggs you've ever had, served in an eggshell, a chewy and leathery fatty tuna, and an oyster shot with a mignardise of cheapest Prosecco.\nThe next course arrived about a year later.  It was a sludgy mass of flavorless ground beef which they called \"tartare\" (note: I strongly suspect that this was pre-packaged D'artagnan-brand wagyu ground beef from the nearby grocery), served of course with another tortilla chip and small slice of baguette.\nLooking around the restaurant at this point at the sheer boredom of other diners, I could see the writing on the wall and left.\nThe chef explained that they offer a \"unique cuisine\", implying that I simply didn't understand what she was trying to achieve, instead of the fact that her kitchen is churning out raw sewage, not fit for consumption.\nWould you eat raw beef from a place that served you Tostitos a few courses earlier?",
+      "time": 1739895035,
+      "translated": false
+    },
+    {
+      "author_name": "Alex Serebrov",
+      "author_url": "https://www.google.com/maps/contrib/106285063375987843809/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU4lnJw-pXXZSSpA-iiZnSzONhQ-C0X3cGWpvI-zcDPVkNHZk4=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "Very tiny place that offers Omakase tasting experience.  To be fair, I had quite great experiences lately with other places, so my expectations were high. Well, all of the courses that we have prior to Rabbit and Lamb were okay. But! These two dishes were just off the hook!  Really really good!!!! Pretty much was worth the whole experience.  The other thing, they really need to beef up their dessert game, especially after such experience as I have mentioned with their hot dishes. All in all, it's a nice cozy place that I recommend visiting.",
+      "time": 1684854456,
+      "translated": false
+    },
+    {
+      "author_name": "Julia Hsia",
+      "author_url": "https://www.google.com/maps/contrib/103663916218838717371/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURwFcrHzw8wmnPsRL0j7aSBj8iM---QlsBzxWuQlTS4c13NtKq=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "What a love love lovely place. I was impressed by the dishes here. Mean to try their restaurant week menu, but we were told they were not serving the set on weekends. Initially, I was a little bit upset since they didn\u2019t mentioned it anywhere online. However, they caught my heart back after the night.. and I think they are a small team..\n\nYou could tell how the chef cared about each dish, with creative flavors. They seemed familiar but always had a twist, making it new.\n\n\u2764\ufe0f\u200d\ud83d\udd25Highly recommend the rabbit! The menu changes each season but I believe it will always be tasty.\n\nThe cold udon was delicious as well, the duck was cooked perfectly.",
+      "time": 1661232991,
+      "translated": false
+    },
+    {
+      "author_name": "Ives",
+      "author_url": "https://www.google.com/maps/contrib/117865612854376633464/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ6VR27wBwHo9kqWjsCBbkrkdoOl0Y-1xIKk_6OAuJ2nNBDqGU=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Me and my partner came here on a weekday( with reservations). We had the 6 course omakase with a wine pairing. We were first served the 3 snacks which came with oyster, foie gras and an egg thing! I loved the presentation, however it was not my favorite only because I don\u2019t like oyster or foie gras in general but I can see why some people like it! Second course was the wagyu tartar with bread! Absolutely loved it, the wagyu was so tender and with the crunchiness of the bread it was the perfect pairing. Third course was cod with calm broth, I love fish so it was one of my favorite courses. The broth part was just a tad bit salty but still good nonetheless. Fourth course was corn bread with rabbit and shimeji mushrooms. First time trying rabbit and it was super good and tender, the mushroom with it added an umami flavor. Fifth course was the lamb parpadelle, lamb was tender and flavorful (no gamey flavor either!) and I love the bouncy texture of the pasta too! Last course was the dessert which was the matcha, I don\u2019t prefer the taste of matcha however my partner really liked it! Overall I had a good experience, loved the ambience and choice of music!",
+      "time": 1708660156,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1730"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1730"
+          }
+        }
+      ],
+      "type": "HAPPY_HOUR",
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 5:30\u2009\u2013\u20097:00\u202fPM",
+        "Wednesday: 5:30\u2009\u2013\u200911:00\u202fPM",
+        "Thursday: 5:30\u2009\u2013\u20097:00\u202fPM",
+        "Friday: 5:30\u2009\u2013\u20097:00\u202fPM",
+        "Saturday: 5:30\u2009\u2013\u20097:00\u202fPM",
+        "Sunday: 5:30\u2009\u2013\u200910:00\u202fPM"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "establishment",
+    "bar",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=5711536473002138929",
+  "user_ratings_total": 266,
+  "utc_offset": -240,
+  "vicinity": "41 Essex St, New York",
+  "website": "http://www.rabbithouse.nyc/"
+}

@@ -1,0 +1,459 @@
+{
+  "address_components": [
+    {
+      "long_name": "95",
+      "short_name": "95",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Montrose Avenue",
+      "short_name": "Montrose Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Southside",
+      "short_name": "Southside",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11206",
+      "short_name": "11206",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "2007",
+      "short_name": "2007",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">95 Montrose Ave</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11206-2007</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Modern Japanese spot with a roof deck offering sandwiches & bento boxes to pair with coffee & tea."
+  },
+  "formatted_address": "95 Montrose Ave, Brooklyn, NY 11206, USA",
+  "formatted_phone_number": "(718) 387-5296",
+  "geometry": {
+    "location": {
+      "lat": 40.7072206,
+      "lng": -73.9458796
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7084993802915,
+        "lng": -73.9445116697085
+      },
+      "southwest": {
+        "lat": 40.7058014197085,
+        "lng": -73.94720963029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-387-5296",
+  "name": "Brooklyn Ball Factory",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1800"
+        },
+        "open": {
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1800"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1800"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1800"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1800"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1800"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1800"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116229455988403294354\">EAM Vibing</a>"
+      ],
+      "photo_reference": "ATKogpecyJDULoL4uBZCX0wt2gVDH0BksyuVdPHnFkQIzz2zlegD3ulvH4fIvndXEeEsjxFIn6WBHKtGib1nX3CCwyzXvsK9IuE7xS1sBZJRx5Ai-Bd9zCfkNGefJYJgAD64tobbcOzB_TzRcwBPbE7OHHribVHi3dNPxa_IsO_igWe6qdnhkWutyEcPWG5VrwJ5SoAGzsaUzs9_coOhY0NEBhUiTiBoZb9HSml04xrJPlGcLgqE6i6fxQBazWi42uMRBCSkU4Zok6T4m2uhEr32LtSQt-WRttDROWm0XC-ZGbM-EgM8eSxWEyUhY7nzJGTVSej_JjcytxyCI6hc0xEtpv8j57XY2gQDobXXmJDcbaMemupPiYJAvwsol-35fAnCSc-c0pXvYECJNXAcRqiyyPij_Ore7kLjHE3VuUNLQwM",
+      "width": 3072
+    },
+    {
+      "height": 3302,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107564352624246668787\">Tanya Lukasik</a>"
+      ],
+      "photo_reference": "ATKogpe23AU_oarRw3wFSWMmS7kYZenvQVqjzAw0eY-WiqYtcneEri3h3Fk-0L0hUCvwpTvBXU3yuNyCkcEuo3DghZ-k55tupfLDsiAvqEGkjmmkb7Ji1kvP4jCvita533blAQJY-_RlUEH776vu9vjlDYZBTBDt1zmrowhj4HlE_wszW9GJZ7PLOMNktzd6wtNIcbYQdJEMzFl-EPSuN25G7MtIbi1ayZFyMTPrOHwUFMCYygwiT0DNJ-d-T4VBf8rW9-EANlRe26QRNOlLvIts8wHpifQd6poGsCdnE5-gFne34Q0cUPLPYCAJ-FGvzabE1apzOHIbXP6Rcub6ktzdoyJEhzN_lUAIA9mERpwhBAT67dLHFkRifG1EHzVbyRSs_agyY3e9YYl-LEspuW2Y8qoyi-KSsGwR3UW5L2Gn0ftIY91R",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118348528147357214613\">Marquis B</a>"
+      ],
+      "photo_reference": "ATKogpfqyuJuXX-hcgxhp-7ZnWTtk5fkM2PV48YCiBBjuqgkNAhX4ot8tRs8A-DIcHkjr02p2BytVxC6gtVGGXKJMjNdxal_mPOqFGe-ghDoXzui1-ld5NrPDhe-P8lPNFLHkZzD5JlnCv6lQBVWK7VDAt9vgUy1jtIuufI8f85VOinKKSlMP8EFhvWrI6Mh5XOFv_fz0CHzz6ycV1gTHm2CvN3OXz1XW-ueT4rzvCXdsNwIVJnscpG80316lMYkUAjKebtQOc4khEGovJbQ8LgHzvDoQkjoUjpJ9Xn0HHLvnejOHCYNaHAQUMPqkCubrcCzRDQx3jmD1U7wW2jxyHpC2Sa6eZkmwusBEdAjmq5fIpCXIpNtLlqU5Pn32FQNiAWGGBHWxJ-C-62ezR7HfYcpVgN9DSXOZlOvuGu0vD1PJeSCOg",
+      "width": 4032
+    },
+    {
+      "height": 2639,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102236965127667790199\">Montana</a>"
+      ],
+      "photo_reference": "ATKogpcyLVejPtNC1n9OMY54zgO10_eJC7Af7lZhdz7dXZ_8CHDDRmdKvcbhA01wZpnY_RdlBnhBeKzxwk5XcW7k3Mg6ozBY6fbN2G0Lcuc3sG4jzKt9kRJHVcfBqVIWhtmlh9kFwp3LemhhWpvax9jZ6-myLuAYE5014MPc1wfWT2vuNuLUUGGTmqlRxpqEVoy82w617Ks0CZDOuWK3e6eYYb6DHuAwdOkwE01yt6Nda8jmRFj9AATKuQj01mfksnAH3Tw6MJwT4aLFHRdkEhJBwuJvATrznkI9UL_uYlBoxLwF4YzCU5q5LMKNWnQYSelKeCpl4PA2_KFYLqI0NpjyApdKQZTL7biYm6M_KyYwXmg92IeFLKEMDgCoQOI4g7ko8t9dbIADyRT9TZif-GaXb_Gauxpnc6S4cDeqOk3aR0XQ_v4",
+      "width": 4800
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104681405781792392889\">Luc Marrie</a>"
+      ],
+      "photo_reference": "ATKogpdkodRX24zRPqgy5GvWb6GX2ZAnuAPE4yZRyvOaYOghUBQuqj4B1GjbLkPAVIgG-NhH8YXAagMGE7tmlBD8pBY3eJkQ0AoWxPcVc0OkceuUnsGXq7OENr6tuHgxIGMG15zHNGDgq3FNEKG7qp-sRH8ZgZqymK2bFVZSDQMrqkkjmu63NNi1ufJscUxspRiYBEAOjcf75FF-YA0RyavxIIgqcbNN_gnqAoxzGB2IhSQ-LbkVHhq7jzxgJ4tZYrFzWy-2wi9l64IR1C8qDlYMxDGu5sP8uWS-G4EIhQHzlVpKfs_i0e0hxEjl_eFQVWBDVjvcPUDXZktFSFvbIxhXR-LhvEmFUG-_sOOYvk15QmnsbPPtIAuc5wEoWLH0O6aabxRK53jnJyjDTDG4mfIRKpWd4Gdi53CDtixumE9gkTBcSg",
+      "width": 3600
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104343149372906207690\">Queeny Qiu</a>"
+      ],
+      "photo_reference": "ATKogpctaYHALv-LFVLwTAgS3aoNc8zFJ9MSpqhl-wgZMqrTxCwCvqmfdLeNxisnfJ0ooscjLwvTUBzlrYmQfpnaqt2FWebSRXaPtwcrT-AWZuH0Yz3qiNmQfH5lVIgv-HLqFm2gU-kns9R-b9D0n3SKoOt3h6RyyNMofZqvxJuxb2ldCC5zjXBRsx2NyPsXMZNvnh-PGRPDNfS6lMfjgqw3hcTRp6av4H4YptP6GxfJv6N3Pk8cy1X_akiSKRLWYCNJlnk6gDWOHEKc3AoOHwuJaaya_IEkAAIfql3R3xVodMV-5MgzTUjai4L89yGjFzu50J-B3ZMjjBmYiqRUVDES_bb7MElHsGlrK3IEVY8URd3xcFAkGvcVaYvtH8zpNLBdd5uy1GwR7jj2FIK_UE7oQXeFxuQXe-j1dCWZNQeQ6PXhTw",
+      "width": 3600
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108463155052149063900\">Eric Tu</a>"
+      ],
+      "photo_reference": "ATKogpdIDgsVADtTjCt7bnB3yboSoWNJjDcKT5cvAofXCgEZr6FyVtigJSHacDAdb6of96qhiYtD5qwb4GDeW2ddM8YiMZuAmVGU89x9XpWSOGOpV19wjf5UWPNu16bmZXePIjxzsWFL3rP_N4KGdGso1UFpF5ithE2qbHTsbSabnsE5d8n__q3BhsrgruFfK8xlfm84PfUL43be4KI25gnjhLJ2DQEuZjdybWMrW94RQLmGEnhAZT1MX4Tm9aQyDOUSKZh_ZoldVb0zjRwhTdaPN9EW_RKN7sDPB-6QsmBVcY8PMQaL0IQ_AB7ZwRcg8XGaVgnBBPWvLpXxBvqxJkoJpFawKCv0M5hFGf-MYVjXVOyCzXrefiOKLrTgS6Ix3X9tWgmOKqcXtp1azU2pAhZ426gS8AC-JPbzkx9PpoCvhCCCWw",
+      "width": 4032
+    },
+    {
+      "height": 989,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107707363032731006443\">Andrea Rizo</a>"
+      ],
+      "photo_reference": "ATKogpc4A3AN8G_0gKx7ZPbEWPUJR3DgcWr2eZcJkKBQIqIy3qPTFRykgA5bjY3rP8qB5EX-RnCx07LVJhZNJAHVun40HnrcTAaK6nV5wzD_qJwv41mcDMUv3b1UID7YMtH_4j7ppfA4gsgB8mjfI7w53qcovTXvzFMv7LkHF0zPqA3KPOloTV1JGopOW_KMpXW95y_ZfszEcQA8tc9gM4maRm0K2Lan3R_8uc80P9EI-69My1kuP1TgMTozzEB7ZD0F9cNfZhe48Ckn6moQNgjKXWGi_Iti86easjsrAKDbOvQ6AKIP9N__gaqB_WQsWcNmYmnRHHsKd6kfAReCKvVVgxqMo2LykFSpeAQZQcGzNoPCooQLtTdeqCFw9OuG2rjiIc4US_ogNeA7Tz6XQ18zHQeYjvpUl0vmxg6nvKeRIUdNeA",
+      "width": 1170
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110856247563246794943\">Droods S.</a>"
+      ],
+      "photo_reference": "ATKogpcOQ1po3K9iSZPVL_6NyWcc-Wx6qosgxnvIoXLcBv3rXVcMd0d2sMGTVUc2KJHzeIW6tH0z3xYRrMMTMtAVxDtzRBcqs2-hdwejY3KgqNuaTw0jZpBXbsuFM3G6XymBKuSeFUuJotGc2Q2o4qXqCvPjRxgK_LJySK3EGlD1mSjgV6T6KeChvxHNPIa9u1OdrAZ7j3c9JsqWXTdgFTIKwpG_sLdy6L5LquMf0jSvSH4ELhQBlPEGMvAFqne_uMaPI35vZh6DRr_jWtajSj2KzSGfseLAP4DN4-Q0g2OluZQe6z3u5QNLLrDTuOsCGRNKJbFi3eZqWfchrhMBampibTeaHb2HvMND0ibW2ObXs8R3ByvGEsnuqRILMxDNUxOrBrw8COE6CO1Oe_wqrg2yBL6BLwXB3WlDtsirx2vUGfsyzw",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118071259307558762654\">Diana Steelman</a>"
+      ],
+      "photo_reference": "ATKogpfMsYPTquYJkrxgDljMQaVdWO7OllUaexfm1dDVqu_-5pvE4NlgEiyK78BSWhM7oTqkCE7oNRCHeEtuG8eoGWSzasB8Wo5GJSRqapggwnbqgjj2QC5FqisQH0xgMgoNiSdJij-TeEJWvbiXf207ePPpsrY-4bsdYzNC2HtviI4JRXnq4gM98T-lCrX0GVdCSFf5nn4Lvm_6HE54ikHJkKUt94YVqwRU5jCDhIBdWtE9SUOjWNHD9iF2CVqKbR8H8nKLqvQjF_Mh5voRFxQQDf1yWXMxOHRD7oPomggEuus7Do2I_rRaU-ysezVijvON_2Z4DpL2W23WlFXGFnAXM1OzopzT5heeA_ydiFmdyqVp-C5vnsiiXTouZF_l6OPEt459J9mYpQdsftzIs6yu1MIzYuS1x0vx6UYCgfZ7YBCsyLlD",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJqybi5fxbwokR3x90J-l6QaM",
+  "plus_code": {
+    "compound_code": "P343+VJ Brooklyn, NY, USA",
+    "global_code": "87G8P343+VJ"
+  },
+  "price_level": 2,
+  "rating": 4.5,
+  "reference": "ChIJqybi5fxbwokR3x90J-l6QaM",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Alyse B",
+      "author_url": "https://www.google.com/maps/contrib/112713249225278933637/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgibz-3opor1EsQy8QeTklc7tjJXvYmGheshPrW9BJdR3EmqjN_A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "Very cozy, intimate caf\u00e9. On a Sunday morning at 11 o\u2019clock, waited online for about 15 minutes before having our order taken. Purchase two matcha tiramisu lattes. They were absolutely perfect. The perfect amount of sweetness, thick, decadent, richness, and sprinkle of Matcha on top. Didn\u2019t try any of the food, but it seems like one girl was working the register and making all these amazing drinks by hand. By about 1230, the line had seemed to die down, but it was very consistent and long for a good hour. Would def come back.",
+      "time": 1737340632,
+      "translated": false
+    },
+    {
+      "author_name": "Jordan Hodges",
+      "author_url": "https://www.google.com/maps/contrib/115068814183240376813/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWqS6w2C8kyD-XoLRXukVDJiBwrLVc3p1n8Cpq_JwvoguNPz4NA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "best tiramisu latte i\u2019ve had in the city! marcaspone foam is mixed into the latte itself rather than a thick cold foam on top. sweet but not too sweet!",
+      "time": 1741484129,
+      "translated": false
+    },
+    {
+      "author_name": "Queeny Qiu",
+      "author_url": "https://www.google.com/maps/contrib/104343149372906207690/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVuIrG96PYZmmMOL6eolayz2BJ6jmzxO6T1TyVxHDfCE7rtTotQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "Best matcha latte in NYC! Very limited seating available but you can sit outside when the weather is nice. Sadly we didn\u2019t get to check out the rooftop. Will definitely be back to try the food options next time.",
+      "time": 1731952070,
+      "translated": false
+    },
+    {
+      "author_name": "Droods S.",
+      "author_url": "https://www.google.com/maps/contrib/110856247563246794943/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWL4jOApWSw_MnT-Iyt2GmTb-94qLUeCH_msrUV3mGSwp4ic_w=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "I knew it was going to be good but I wasn\u2019t prepared for it being THIS GOOD!!!\n\nI tried their Chasu-don bento box and it was so mouthwateringly good that I wolfed it down before I remembered to take a picture. I haven\u2019t had chasu this delicious and perfectly cooked before! Delectable! I did take a picture of my Onigiri (rice balls) which were also insanely tasty! Worth the price and the visit. Their cold brew is wonderful too. I\u2019m so glad I found this spot! In this Brooklyn area of all places!",
+      "time": 1734183149,
+      "translated": false
+    },
+    {
+      "author_name": "Luc Marrie",
+      "author_url": "https://www.google.com/maps/contrib/104681405781792392889/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWpV1egEG6alIyxtBpxMIVDdHij-3Jdub6DlEAsmKXWm1kdXQVP=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "This place rocks! They make delicious authentic Japanese bentos\u2026 made me super nostalgic for Japan (I used to go there every summer). I ordered the karaage bento + iced yuzu ginger honey mint tea",
+      "time": 1738952366,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_breakfast": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "food",
+    "restaurant",
+    "point_of_interest",
+    "cafe",
+    "establishment",
+    "store"
+  ],
+  "url": "https://maps.google.com/?cid=11763818843476336607",
+  "user_ratings_total": 372,
+  "utc_offset": -240,
+  "vicinity": "95 Montrose Ave, Brooklyn",
+  "website": "https://www.brooklynballfactory.com/",
+  "wheelchair_accessible_entrance": true
+}

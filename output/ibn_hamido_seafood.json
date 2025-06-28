@@ -1,0 +1,445 @@
+{
+  "address_components": [
+    {
+      "long_name": "3129",
+      "short_name": "3129",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Ditmars Boulevard",
+      "short_name": "Ditmars Blvd",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Astoria",
+      "short_name": "Astoria",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11105",
+      "short_name": "11105",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">3129 Ditmars Blvd</span>, <span class=\"locality\">Astoria</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11105</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u20099:30\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u20099:30\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u20099:30\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u20099:30\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "3129 Ditmars Blvd, Astoria, NY 11105, USA",
+  "formatted_phone_number": "(718) 535-4700",
+  "geometry": {
+    "location": {
+      "lat": 40.7755443,
+      "lng": -73.9096256
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7768520802915,
+        "lng": -73.90833576970849
+      },
+      "southwest": {
+        "lat": 40.7741541197085,
+        "lng": -73.91103373029149
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-535-4700",
+  "name": "IBN Hamido Seafood",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2130"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2130"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2130"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2130"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u20099:30\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u20099:30\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u20099:30\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u20099:30\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104127288621084851628\">IBN Hamido Seafood</a>"
+      ],
+      "photo_reference": "ATKogpddHye623bop6Ph9t8VyyZ_Uar9-0PWbdcYFonUAezAB-fRaHR1_u5mpV8dAlpm9w6DeoXVqS4Y8jiwEmB_Lhf7rRcou5aHUFxpfC6fAIxjeWqZ5_eiM9eJboXaCO-ADZsWsNXOjT5ITJCRUIluMOKUpDzX8DVy1VXnO5IbFS6x1c5l3ye3KdPBKQ3dBySt27BubE5upRD6ipvbMvbWX_i6J5w6qM2o4jLwoCfufuukWIjAocKxWFU_Rao3Ud5mJkgvCKC4CvtynGFHd-cnI4hj9wwQf8z81tpviVEIv-WSoQ",
+      "width": 4032
+    },
+    {
+      "height": 1848,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100253290573238698477\">Antonia Marrero</a>"
+      ],
+      "photo_reference": "ATKogpe3NaKq4CHrbvvDi8Hf2NlEzblj8nx9jR6PZQ8_dMZoFl5v6mJEfbpNUuF-nkgMY96ExQs2ZNXT5Zkv5qED_ARoT0YWX4ps1e470cV2iUo12c135Jqj-K-V3BwO2qs9HXJAOKChCugyNjWduJwhOIYluy1inYmZbdhgXRMdIq7jQXK6S9RCBZ7xpbAkvF6F2dPTDh9-SZKtENa32vfN3HVHq7CqQP_-mz6lxdJ2p8q22kDIR3ckHx8Scb0TSXG3hfb9LjfaxsN4pCT9l0uB6MqLsJQ4SqS67qTQLwT-iVOSODa-LmsvCCBof72N8aW7MtTeDQLyOMpYZujXemhDeoH9Y56hrixOLWpFzkyihshwmTYqmBFGw_LY5vHfQdJokMUQc-Wc2_IiiUtgsjICWkqkSakP2FtwwbN7Jva3R09lDzXTW-OKGz4eelYNkixK",
+      "width": 4000
+    },
+    {
+      "height": 993,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104127288621084851628\">IBN Hamido Seafood</a>"
+      ],
+      "photo_reference": "ATKogpe8i8w7JPGwKOjqkNgoe20B9S1-8eVxJ-4rOeZOlMkVDY80ywrWVjes0iUScAAGvjf_OqOElYjnz_baBxmZvQ0Hk_l1vmdc8aqeropYrATjYWxpRAXWigSllRwXFeyt8E2mcmSwN9aTdT3XZ1WJsx8C2WYRgTcMT7Pyr5v68PlMC8DdCVxXqybtLFfo5b1T4s7kpeU_uLa6a7crnp1I3w_XCvHGH_Mp_9pUD3uTE-duT4QZL993p9YQhttxWws_ev2m92b9kn5fbyTM1A99sD9RH_1NfsT7LwnJSR4KHireDg",
+      "width": 1763
+    },
+    {
+      "height": 3023,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103747632156664094972\">Itien Lei</a>"
+      ],
+      "photo_reference": "ATKogpfddJO74sjkNo_Q3bdXgy3A7j_7rSREECa8ABpozBFlA2j85py3aNLidX4d4dJJWTGibhv3hveMB8bf1a6w-LbAucTsLagJbyQdjuYvayfKXw0jV6kkSq9vH5nGYbk-kk7T5MuvqckwRbrfiRqiV72IaaAcTqrXFyAyBT_xgi44s8CY-eqfAM3gt-QoWIw3Xd5_RW_Q396ws23gPkYJ2fUYqieAmWXZWNSLq15w3ZEi2t2BB1HHLE0qjE3PuqYOvaN8211S8GZ20-Lk6yRWGz8bALBKI5umwlug2-js3CJTx2cZyxnCe0ZQS6VvZOoI9cfsnLvo4ALW34LL6u_ha14CYVhSdas8akd3mmfzHGnqOVX_sBImlsMVQSv0lbMq0c4-FxBTRY4pYhkAQEkfWbT6YiTiHcGRdyTmNXawwB_HwY_bbSGxQ2dnn3SMTw",
+      "width": 4030
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109063315343855360471\">Aj Lee</a>"
+      ],
+      "photo_reference": "ATKogpd_opVq4vQ4Xt28oFI0h5LvZYcQJGWvj2Yfi-nLaTcq49Mi7wLierlP_MaJSdjfm-izXzzIWDBIIXbJehgEYnKrOkbDpFy-vZCxLaojvQTBB2_yMV4aamLz6Z7EDVsi2f4-24OiztwcOumoXOFcMdkCX3J4b744h7cniPuVYOlExodxUUW-HFPlu1GCYHfl0LR_93wXCeNIqG_oajaq-uwx3uW5qWYHzX3se2ISTxySO3bTICLvKEeHLdVDPStyIgAuh3QIDq52ySvhmkiSLJUqH902hdyu8tSP0EafzJ5mRu-0HQO8TYmwLxL4cJdgoQCLjKmVXBIavW7A5nim5cElK3005-NnAsVkJ3BDdarFbfj-DAbE0epwGnqUU2Jxu22TannkWgEPw_RhnVzqr4_wNexq8CH4_I61v0ExCt0oJa1XMd6cA_fVrel1aA",
+      "width": 4000
+    },
+    {
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115128289878508369757\">Shaheen Haque</a>"
+      ],
+      "photo_reference": "ATKogpeiCi5scq4BZMknhYNwNRrKXo5Xz-wv0Nogirlp2yQloBPFeN8_D_ko_bJC8Kve30_FQw4dsXRAQeUqXe7pN7gxHip_FaebnMLyCbhFsGWjWZooVDaAq1oCL9_-eoQdSG2HjCUpT7A9SXtdnHkVUkVKG0y_Th5M4Chl7YMQz2RWzxbwmmaUkS8wU47nQKDotl0j1QGQgywj_xQ_nrlvMR2GDuiuTr0JYCax7t7-piRb0QZ0olpD2pYCjge567eMC-ZZCWlo1XLj5c3lfKkwK0CYZgSancF5zjqWAZ-IV_b-fMMTv2iXz_6_kLZRFapO6a1rMRwFdX4-3DRMtVUVMZzlmiSPjKpZYBc6Gap_emVR9tFtvHHY4cSiJwKMV3qyqF8JPh2Qri2J2OD85XVE9n_4RUnz2GoFxE5Tqd2eQykX9APg",
+      "width": 4800
+    },
+    {
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113059275196431071918\">Billy Harrison</a>"
+      ],
+      "photo_reference": "ATKogpeXxQypUj_9laRxiporpVtH_3Orw5QKaQjiRWW4hrNFQz94BQ9VIlvIX5lfhfamaxaM1Xuy6K6Jim9Tqw0tbc46x4Wwmg2DSOR4KawOPCKw_roSspGuT6b5yRbXq_uJfJGqnl5HbZ1n6loyTSSi9hWZyngd4WeFIyKqvkgVP8rurbSxSmemO1my2Eq8Gdkyat8ihU11_1QVJaY1FpzVdst1swql_aRflkQPjROsrgCjq4EfpM7CrmhGWxtS1XBYWBGYpFbW-3O3sFtnX-0z_ar9TZfcp6YVaAQa3ipGfmpTjtsW3xBM8lEWix0CfIeKz19Yrz8su0voJeWT782lY4iNXeZCs1AvHiWNg-q6VCnLcl5TLdPN16Q3-kfNmKHNKZZO7xlb-mnCh98fDXx1XrB2EMvjfBVnt3oshDGbs0BiPA",
+      "width": 4800
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113895632983277840869\">Melody Craig</a>"
+      ],
+      "photo_reference": "ATKogpf7vjSmdRkEEQ57kNeI2wWopuKKeGVxw_8JZNvubRs66KLalyIx1AUmVaZV6gmwnsjW6WOOWON1cDYhOrndfX2smvpsXQM_BwVv3FOl-ZAfnZSzLyKGvhF_xq3e-xtNQ1VACIhjF8dBQ_j5H7XYokCvv7_xZvYFa_YRRvCz8JfjSXiJuPLcgtSDQQz1yCIG0kIOhl0Zb8dkoJMDvdupSAfTN189OKB2LS0Xryl_nkIiUX2dY4BYyTp7H2udicN0FqE1TjLznjy2rWOqsk9rJMUS5W6mic6_q4UNLtzAiH4RennijS1z_4VVhjgWK5atKsD35jje6sfTDnyRHt9PaVWNhM-GvTT_HlrydodsRNf-bM2GA-6SItSC9YBBIbVWNQw93vY22AYsc6i7lk64RWVMADIfOyo3QPA9zGKEbcGYKIE",
+      "width": 4000
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117841602012513499942\">A Rob</a>"
+      ],
+      "photo_reference": "ATKogpd9k4O7Yc6RNK1GXil4Dk5Bnw2nmP1LS--Z9WxyzqtBny7NfxWqbLbeHy4whEV1DXP6jSDYzpJllsNgB5i-zMiYwu8j9JobIUjV9P7ZILaLYr6YkWDVeHqfwZC_6kDRiqodf6h5CeTtlEoN_P9p7-NEckkFADfENmH-7qV4EP9Gj_0LRxV4J9LqmPQOI6q-8ap-Tjzsn3rzrYdGqWPwJtjjo3rl6MQLb3LcClCO-haZEHAg9qTHeE6P5T_4d_lcQRsAiJkBlQvYO3lKKIDmDLwze7I06bswudTFXuuI10asxP-eprWsZYGznS_-2M0HVdLgod2-SJtsV9HdKiJqQU5Zt1tEx0CYdBNk1gQvKbb2bzxUXKkT-l05gUWC2SbovInmYVddmSH7HkzYZYTi5hVRZTrgG0qiGQ4B0wBKZ5w",
+      "width": 4000
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114165916106169665399\">Ahmed Fouad</a>"
+      ],
+      "photo_reference": "ATKogpdzTyJz1bQ9v35aWeZxAbeWaZI60sOjb0KkrRY9aUfhu1uoDdC1f9OCfR9eZc9j0xyW_ICq2ltKm4r9oJhOBR479HwVqRPsT_VUUjGb3jHAXqsP6vr63mxNWXncREY0yJ5m5q2JvWxnLB6EjBaGv5yAdFh-lEOcPbix8X7KH850Yc640R-0fBcovxEazdPR3TYodKAmKIS_kinLCvjrlyc75iC7vUhLgEEVIl3vxOlmK8tcYkOslQGolltbxzkYg2UN93stbKioFBSgZRllY8Tf7lv47knKANS8WtLaIpnhHeZEPCnUrTrvvQDYOQyMamFAEvSFMXwCkrlnWeknjV3mCKxRkT0q4K_sMB3W7PpdQ1CafuRfo4dCbc2DfnEB2y7EAGnsgFALyGuqaKTUampZprGG-zhJsF7IEWBTZPM",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJV6G4us9fwokRy4GOF89i6nE",
+  "plus_code": {
+    "compound_code": "Q3GR+64 Astoria, Queens, NY, USA",
+    "global_code": "87G8Q3GR+64"
+  },
+  "price_level": 2,
+  "rating": 4.5,
+  "reference": "ChIJV6G4us9fwokRy4GOF89i6nE",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "mika cribbs",
+      "author_url": "https://www.google.com/maps/contrib/111561431165200968863/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUmjbxWRUe64vDB7bYUUrf7NupGVW0rNCOP7sOt34ox3VWb3Qi5=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Wow what a dining experience!!! The seafood here is so fresh. We tried lobster tails, jumbo shrimp, scallops, and snapper. The lobster tails were so thick and juicy and the shrimp was beyond flavorful! The scallops were yummy as well.\n\nService was top tier - felt very taken care of was constantly checked on.\n\nThis is a great fun and casual date spot that will still impress! cannot wait to book my ticket back to NYC to eat here again!",
+      "time": 1750194955,
+      "translated": false
+    },
+    {
+      "author_name": "Bong Arquiza",
+      "author_url": "https://www.google.com/maps/contrib/110395782601254590695/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWg2-wFS9aTnqwTYjndtBjXUIEqkpMClwTiBwVbPuVf-TtGp4QTzg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a week ago",
+      "text": "The food at IBN Hamido was amazing. The flavors were on point and everything we tried had that comforting, well-seasoned touch that makes you want to come back. Most of the seafood was fresh and well-prepared, especially the lobster, fish, and clams. However, the large tiger prawns were a letdown. They were mushy and not pleasant to eat, which was disappointing given the price of over $40 per pound.\n\nThe staff were generally great, though one dining staff member stood out for the wrong reason. He was hovering over our table throughout the meal, seemingly waiting for the moment we set our utensils down so he could rush us out. It made the experience feel unnecessarily hurried.\n\nWe spent around $400 for a meal for four, including tip and taxes. While that\u2019s on the higher end, the quality of most of the dishes made it feel mostly worthwhile.\n\nStill, it was an enjoyable visit overall. I would definitely return, just with a few adjustments to what I order and when I choose to linger.",
+      "time": 1749999364,
+      "translated": false
+    },
+    {
+      "author_name": "Liv Pisaturo",
+      "author_url": "https://www.google.com/maps/contrib/110014995919414754580/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLjAqGKdMkw7oogbFQW-p1zQod6M5XpHWYiLSSvsw8ME9oASQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Wow, what an amazing experience I had at Hamido Seafood. Found it through instagram which is always a risk if you\u2019re expecting no line and to be sat right away. We went in on a Monday at 6:30pm and were behind 2 people in the fish line. It took about 10 minutes for us to be up and pick out our fish, 1/2lb calamari (fried), small red snapper (baked), 1/2lb scallops (baked), 1/2 lb shrimp (baked), and the smallest lobster they had (about 2lbs or so!) baked as well. It says online that it\u2019s BYOB but it\u2019s definitely not because we saw a sign that said no alcohol\u2026we snuck a couple seltzers in and tipped 25% since no one said anything to us. We got seated upstairs and got a Greek salad. Wow. When I say I\u2019ve never had feta like that before, it was fresh and authentic, absolutely delicious. Calamari was nicely fried, not too much batter and not oily at all, you could tell the fryer oil was changed. The rest of the fish were phenomenal as well, the lobster was great and not overcooked which I was very happy about. It ended up being $180 total without the tip which was not bad at all especially because we got the flounder deboned (extra charge) and a huge lobster! Overall amazing experience and all the servers and food runners upstairs were so nice and provided great service. Will definitely be going back!",
+      "time": 1750199898,
+      "translated": false
+    },
+    {
+      "author_name": "Azadeh R",
+      "author_url": "https://www.google.com/maps/contrib/100358711130709695708/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXFR56GAxmfxFUzoMiOVzh5jCzy7JinT_yEHPet0Vns5fTg2ibW=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "In one word, amazing. You feel like your granny cooked you a meal. A big variation of seafood. All fresh. You will choose your choice of fish and the way you want it to be cooked. The guy at the counter is proposing cooking style if you have doubt. You gonna order sides when you seated. All cooked stuff was to the point. Don\u2019t go there if you\u2019re starving, probably you should stay in a line with minimum half an hour waiting time, but believe me it worth.",
+      "time": 1748442101,
+      "translated": false
+    },
+    {
+      "author_name": "Nick Magnanti",
+      "author_url": "https://www.google.com/maps/contrib/109282213538417330396/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKEhoOHv1efyIIDK2MNR1gz0oo54-Bf4M3w8PGNkXYHBBvXB98=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Amazing, fresh food! We were worried things would be under seasoned but were pleasantly surprised at how great everything was. The scallops in particular were amazing - but honestly everything was great.\n\nThe only cons are that it can be a long wait (we arrived at a busy time and waited about an hour and ten minutes to order and be seated). Also, the service could be improved a little bit.",
+      "time": 1742326932,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "restaurant",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=8208481912429117899",
+  "user_ratings_total": 2067,
+  "utc_offset": -240,
+  "vicinity": "3129 Ditmars Blvd, Astoria",
+  "website": "http://hamidoseafood.com/",
+  "wheelchair_accessible_entrance": true
+}

@@ -1,0 +1,445 @@
+{
+  "address_components": [
+    {
+      "long_name": "370",
+      "short_name": "370",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Lexington Avenue",
+      "short_name": "Lexington Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10017",
+      "short_name": "10017",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">370 Lexington Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10017</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+    ]
+  },
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Compact counter-serve inside a grocery store, dishing up classic Japanese onigiri and ramen."
+  },
+  "formatted_address": "370 Lexington Ave, New York, NY 10017, USA",
+  "formatted_phone_number": "(917) 472-7025",
+  "geometry": {
+    "location": {
+      "lat": 40.7508931,
+      "lng": -73.9771112
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7522906302915,
+        "lng": -73.9757674697085
+      },
+      "southwest": {
+        "lat": 40.7495926697085,
+        "lng": -73.97846543029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 917-472-7025",
+  "name": "Omusubi Gonbei",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101765023807317744422\">Jana Wickenkamp (UpdateTravelmate)</a>"
+      ],
+      "photo_reference": "ATKogpdRSJMbXmMlsMQ4dq8AdcqjlD6pl3UMUQ3r8edUbPILYhwHuZMgUoaUt-V-NACq-AYe6JuUAC4wRD83mJtaLR9IyGRxda1elwQJ0oFmMMn3D8Ddr7Y3S6KBO5Rq67jCOzh2vQWLv6zeVPHLZ5vPP4BAjHSDUIea1eZTD3mB7wR9-X9LExoVUXzD5VklH4yHytyR0ZCPBTXce9IxJ5xs9bGgpr9oiI_5xkzbA5lbiWFyUCkD7ncN0P_WmV_15_BEb825AyOV4HkwUfYS-HdoKiKdZfbCZ3C_Glq9O0lfoJUWC_ijL19fS8XytSDTLn2viSc5XV_nspxbLyEvqY5bzkmTHvvbemlYjjTTwM5kD9YACkQp1-2aqJuA3OTQeAbxAlwN79RaHrmeWo-IyUyh048Gr2ljsdEtU00xXYLBkFmFrA",
+      "width": 3024
+    },
+    {
+      "height": 924,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100667008988744727718\">Thuc Nhan Tran</a>"
+      ],
+      "photo_reference": "ATKogpc4sV5gqDv2s3Bd2ra9lrUOvS1QxWSxRx5klfW5gmdPz6fo_-EzMw1l8P5jStsUDmIqReuRLhtNN9-KbetTCexuE8p6cvCDHg4ngEIs7SDMlU074iO4WEl5B5wiPjQhyMLGcb0MCrQxP6OaAsSEUR3JIpHQcxvqEHMd2NCEGunt4FL59ILga-ItdctRkeyFlTF11Vs18MyjxGMaheYLOb-tRzDFo7hBlVy_GiZPNhXS48nbullj8RvUx3wKEeiPpCG0kihlYHimVMMaCNmZepKqw6YVILK16XkSCnUMksKMlJXMx99H7BZhdM2kZQa6X2wK3Ra6UBFC_wkpRu7A4ip3PuI1JbIVifY0qpHlldpkYokZbkmsRv9NPh95VohcSPGZg_Pl7YQX5iZSXT0rAA3T_CQpVsIw2k2YabaVgfq5VA",
+      "width": 693
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116951021824569929177\">Pete</a>"
+      ],
+      "photo_reference": "ATKogpfoyn61JOAh0hQxGAsA9GMT1gYgJoQ6bFojui9ZypTUEwchScMIwQCU3I3J2Y9wBLe-Uy814o1A-fBRevpVaOfXdZ_SCVIyxM4SqkIV4ddMJeIM-8IBahmzvuImSUbqpkGO8TRM6Mxje-DnSIXw5h9IwmAkVayGx6O5ntdPGz9Efb2qgJptqiVjxPdwDM8GlNoaokF6MhviSd2lFb3_rDq3QvPbYjcozm4S7GvGWu34pqVjwV7l-1-EcFJ8F61lSmgU4TaztnAKCvL4lZJVP30W7uMW898xhbwxo8iS3V1Fim1b5ysqU5KxusUVlo067dH2pVhr_iJNHGZCWC9dAPlMAI2zK18Dno06aodCi2rcsEQSgctkq03ezYEkLqbudizSsStatXGhBXPBRwHRmCDOvprKEiZ-MUtvVMK0E9YYR7sK",
+      "width": 4032
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113353877374623178558\">Alexandra Jamieson</a>"
+      ],
+      "photo_reference": "ATKogpe5j1SFX3QZxQCl-rN-JzEfSPkJxoVzu4xBIgrN6hFZarDSzBtCDCpdGOBrAa9XW_Nlu4qX6YtZZhVFj4lqJqyQmMzgyDTQJxtR7vp-r4ozofvnX0jO_ZWj_HC_gtIo7dixdR6W7OTpuRINkIG-idjuMV4OxVdkazkOPG_G--A8GGesZXWVvQIYivlbn8aN4GhF06gMDvE3v3MmRdC4bmggucoGUlzpJK6anPHO_KLbZqEHKVCyzQWaph4_kpG3J1O1PE5u9NcOVSK2VTsLKdPc1nYy9s0o1SMkJ22UY7yHc4r5mSxLQ5RyTnnz8KhMlcrKPgXGku1XE2JHLB5kAgJlPbo88DPNP7zTDbh-IgkSi96hOwo-UEWIAizIjmX157AjsveXYQ7t7AV-QA9zaydj2lCTj0qC2y5h2zsE6J0",
+      "width": 3600
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104018129511324535439\">Kris Gonzalez</a>"
+      ],
+      "photo_reference": "ATKogpfZq3ErFNaOtbtmShBBvGSosGmfBHCB18VftZU-75rmJO4RRfp7wxrGPrjCFpP1tFlBMl-4QA0S4XHQY7OtU0XU3ekkZaV6BfY2gdBxgvlocfA3xaMunvBc4zUIz7_QB7PmHXG_ukip9jt1vfQQ8qb1X2vQ0-cJsR45rd5zHE64nwJhs8A4H27MjKz4rvEMYv1RHS47y5qXrLHyej54xjNfe-nE6DqmgnNlIzXYbg2T_EbRBEVgzxNEBFE5Eih3Qum540ke1v9Eo9RgdZYMf2C_IRgryWIfonegYV8KitG7cZOSo4Nfm2_vAHjRffVsTGUpmzcix9s1CrYcZ1YJojR_h5PjphNZnT8N4uTd2HiHMEp4GSkBQjwPNQ3PgieYR4XaaTznOx55GoPjF8rX7SvCWUZq2zWv92p_OV8-P06Gnh8",
+      "width": 3024
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104503844359252694171\">ken shi</a>"
+      ],
+      "photo_reference": "ATKogpcZokJ8J8y5lzMpu1BxbJBFjvaSDoLNP7Ehec46MRra28k-rA2jrRhmZq1qZbU8p11qvMjTFvCPTIAJmxt68WAk0E-sPbHRsxtg_XB5YYqjxp92_wQEDTex8d-dBJHrrmri470AbbHTOkd1Y4GQ43cV_86u00abz_6oDuI4gtwbbu3APHLpwsh7f1m635zhSaWK-99seVk1DjEqE2lm6WLTJul1ZrqocV6G6Q-a1ULtdsAxpIgBEYQsdYFJ-KucEBgHThpkwuNA8xfVqv_9cF-iW6W6weVCPqEP4TRt1CA1X46BhJWTdsRTAvz-Se3tioCkmyyCQrDIGEsQBYPixVPH2Q7jzLOiP_IFTc1yxwWHQkS5AW3F5E1Satw9bFrz4Jo-MfVoWTlEgqmPdYmSYY8pG7wEuZHUP23cpfkFqO3Qfg",
+      "width": 4080
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109862516641179315264\">Craig Wilson</a>"
+      ],
+      "photo_reference": "ATKogpfoHiqa4c6GayysQMtOAs62-WiqFBhfjOnIym1lK08XjCyDxPueMLwFvo2AJi_6qB9ZV0lk3kpItGMJUNbp58tQr1rfVvwFOP7hNERMZGMq0FKDIAqDO68HPfpuGtvS2ytuIphQMtUyxVBjaucMyatunaW2IoCAUTUb7eI9NGfWYqJbcEADJRcKfKIX8xVd9BCypf4inIEGfMe6MFGZkNXfNCa1SbBvNzivhAPviLVL28GRw51eUDpG4I6-HDpHpZnJQUgUcIYUE-BxaUdK_N8XHQZ_NRtEKXHWFglqw1EKr6IbBgDAlHFJtKNPo7fuSkFGoI9GA1LbtkEMi3Rp7kGnUdpZFZGMePsN_EIiRJMmpGfya3mC_i7k4nCKm3XHNX22ptHeUtrFiCeSPGQasQ3QVe4GLhXebjM33l9SYgt9Hg",
+      "width": 4800
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109862516641179315264\">Craig Wilson</a>"
+      ],
+      "photo_reference": "ATKogpddrFvHJH_ezdlMH_liuDF1U0VfWsk8ItL2LDeriYzeJAZ8r2r3JqETHTvtHkscATeFY9qAnYr57RP_kk4a7ZyeB8qxOcIhybfrOuk-6Yj8UB3x_PtZqPRjb8Arw0Ec13BELbZ2FpV5zZSpbhKg0z15_3Q_8PupNms3GyVxS9LBjjoEMyMMYNA_GYnh8L1AP_TahXydLRGJyxLGYcq_Yjgch2GocfQA7EHGX76vcWY8nF-EV5BVFyza5CXLCb9sacTCnPeAL5EKt5HK9ErUtsmK9GIDfioaGPcikASbYx1BlyUUue1P-mecdMddlVA72J1vHsGIelYvzIHl9WcxIEKNOF_KyLWxIC0gousF-V0MKZuMNqrAkl3JEGqxqmJuzvJL6LjL6jcvn4HX_N5MfNFYEHNja_LJ33z9SIwIYSP_upo",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107789089180475631840\">DONDON Ch.</a>"
+      ],
+      "photo_reference": "ATKogpcqLWU25s5rfbA2L5FBImDtNi-9gTUFfuCFxi_z0ffmtrbtWcsqQyYhQSeMyaBjogMvUkpAKZtuqp-Yp99yEcKrlDH5w7kk9ZaPIbI-kDf3ks_A4JrdEAoPxTFhUFozSCFJ4J5YtsupolovtA2V0lQNeDEv9XeBr_NG4JFc5DED0Ljs7B0JEU7Xx0vrBtBi3v5HJiU6JCZAuUkkRf-IQWi16R6KXj77EdYVQzjoRY_wDDJaPvvtFcI-K5vgeDQHwHtQFKBTlMUt6OpzQhqQbNMay69r2BHA8WkfpKydmZPetw1XCt-jmnczQu3myjVA2jea5MtEwQRCrDII1XKFv30XcCXHNH1OXpTN2l9igTTr4G7X72OBgIgU2vNOR5zkH9boiU5Bfpob92zYKY0S-Jwo819u8c91DUhameQOnqfCWv9-",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103521079678024458298\">Rovik Robert</a>"
+      ],
+      "photo_reference": "ATKogpfcC96THielpoySsxT_QTNDDo5Wmavr0uFLbv-H1Di17O44UpQJLkKH5vTtqNkH6zlkOYrjLLgfNj_yoduGthxAHGNk6Ow3QfiV5DAtnmLTK10DWtC2PNr_C1HFABFL60j4Ptqd75Bx9s_g2HUfATq4tDZAEsmJ5dpotVgFJ2oNiVc3MeA-Fuo_ofzVFMCCOsKkYYpsrGtz9KC6V4b112V3R1S9K7OK3xjL5MdXwyFAJ7zTYNIXseQjsMyKcnmq7zEdb9-aADk9nwofHV0WnzdoUHgv7B8zWiX5RoA37CcGHIZBQsd_MKrcpcUBeoZn4sk4caqFXv3QHWQaMFKNlpDQqS9mnDCaV3kBf-_G19wwje5tbcW6L2q049cyrbZMPrICgnjLldRC06f2RweXeMvMDV5BGpPZF_Wrhtww5rCj3w",
+      "width": 3600
+    }
+  ],
+  "place_id": "ChIJGRSN3gNZwokRI7SjrWSeni8",
+  "plus_code": {
+    "compound_code": "Q22F+95 New York, NY, USA",
+    "global_code": "87G8Q22F+95"
+  },
+  "price_level": 1,
+  "rating": 4.7,
+  "reference": "ChIJGRSN3gNZwokRI7SjrWSeni8",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Diana Dvorsk\u00e1",
+      "author_url": "https://www.google.com/maps/contrib/107783948626034549522/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL7FVYe9sqPBD9PF0e0v8h0iLdXo0eW9ndUltJQEYcEsLnv7g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "Came early in the morning around 8 AM, and they weren\u2019t fully stocked yet\u2014but I grabbed the only vegan option I saw from the onigiri section, and it was a 10/10! Super fresh and flavorful. Can\u2019t wait to come back when they\u2019re fully stocked to try more.",
+      "time": 1750553195,
+      "translated": false
+    },
+    {
+      "author_name": "Kris Gonzalez",
+      "author_url": "https://www.google.com/maps/contrib/104018129511324535439/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_2bn-_AzqmdYkC_m_svo25T7GtkLza4VZYYE9TU1UaUxoyifk=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "I went here to get onigiri after craving it for around a week. The food I ate here was SO GOOD. First, the store isn\u2019t too far of a walk from the Grand Central station when you go inside the store looks to be pretty small, and although it is small it\u2019s bigger than when it first appears. The photo shows I ate while I went around in Manhattan. I got shrimp tempura, ume, eel, salmon, chashew pork (I\u2019m unsure of the spelling), spam musubi I believe it\u2019s called, and some more stuff. Almost everything I bought was under 5$ and came up to 34$. And I can stay without a doubt that the food is most definitely worth the money. The shrimp tempura was delicious. The ume I believe it is, wasn\u2019t really my thing but that\u2019s not the fault of the food. The staff were very nice and that store was very clean and well taken care of. Normally, I don\u2019t write reviews for places I\u2019ve gone, but this is how good at this spot is I had to write about it. One thing I want to really highlight is the takoyaki octopus balls, they were near the middle of the store I was curious so I got them. now, of course, this is up to personal taste for but for me these things literally had me yelling with how good they were and I\u2019m not even joking. The texture was very nice. It was chewy. The sauce was good. The stuff that was on It was delicious. The inside had like a small piece of octopus in it. All around one of my favorite things for that store and will definitely be buying the next time I go. 10/10 this store is fantastic.",
+      "time": 1742668579,
+      "translated": false
+    },
+    {
+      "author_name": "Jill Chen",
+      "author_url": "https://www.google.com/maps/contrib/101682339028256340709/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXp9PHIDV5aG2WyWoB8npPlK1SbM-pjewbLNuw2z6vwwL70Zwk=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a month ago",
+      "text": "Went there today around 11am. Staff are very friendly, but the food is dirty. Bought 4 rice balls, when I eat them I saw something in the rice balls. See the pictures attached. I use chopsticks to make it look clear and then moved it to another rice balls to take pictures. What if I didn\u2019t see it and eat it by accident?? Won\u2019t be back again!",
+      "time": 1748448888,
+      "translated": false
+    },
+    {
+      "author_name": "Syaif muhami shidiq (Kukirakira)",
+      "author_url": "https://www.google.com/maps/contrib/112062538900677893005/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXt0GUDaLFtHe3uHkeI-h9FQp8Sra1zxoDevxRDn4qY6j0KxpzsfA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "Omusubi Gonbei is my go-to spot for quick, delicious Japanese comfort food. Their onigiri bombs are absolutely the highlight\u2014crispy on the outside with warm, flavorful fillings that range from classic tuna mayo to bold, spicy options. The variety is impressive, and everything is made fresh with high-quality ingredients. Beyond onigiri, they also offer a nice selection of hot foods like karaage and miso soup, which make for a complete and satisfying meal. The drink options are also great, from bottled teas to Japanese sodas, giving you plenty of choices to pair with your meal.\n\nThe space is clean and efficient, perfect for grab-and-go or a casual dine-in. My only minor complaint is that they no longer offer free mayo or chili flakes, which used to add a great finishing touch to the onigiri. Still, the food more than makes up for it with its flavor and consistency. If you\u2019re craving Japanese rice balls or just looking for something comforting and tasty, this place never misses.",
+      "time": 1746806028,
+      "translated": false
+    },
+    {
+      "author_name": "R",
+      "author_url": "https://www.google.com/maps/contrib/114428392323157797265/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKpj754mamFHri9HNfzV9VhqWLIontNL9h2_bYmoJbyH36sm2U=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Yummy onigiri!! Mentaiko and konbu are my favorite \ud83e\udd29 Tonkotsu ramen was pretty good too - firm and thin ramen noodle with thick soup. Ready to eat meals like gyudon and sushi rolls get discounted in the evening :)",
+      "time": 1746589104,
+      "translated": false
+    }
+  ],
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "establishment",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=3431354121350001699",
+  "user_ratings_total": 438,
+  "utc_offset": -240,
+  "vicinity": "370 Lexington Ave, New York",
+  "website": "http://www.omusubi-gonbei.com/en/",
+  "wheelchair_accessible_entrance": true
+}

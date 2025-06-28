@@ -1,0 +1,457 @@
+{
+  "address_components": [
+    {
+      "long_name": "135-24",
+      "short_name": "135-24",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "40th Road",
+      "short_name": "40th Rd",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Flushing",
+      "short_name": "Flushing",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11354",
+      "short_name": "11354",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "5302",
+      "short_name": "5302",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">135-24 40th Rd</span>, <span class=\"locality\">Flushing</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11354-5302</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+    ]
+  },
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "2nd-story spot for a big menu of Cantonese fare, including BBQ meats, especially duck."
+  },
+  "formatted_address": "135-24 40th Rd, Flushing, NY 11354, USA",
+  "formatted_phone_number": "(718) 886-6628",
+  "geometry": {
+    "location": {
+      "lat": 40.7585755,
+      "lng": -73.8306822
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7599556302915,
+        "lng": -73.82937321970849
+      },
+      "southwest": {
+        "lat": 40.7572576697085,
+        "lng": -73.83207118029149
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-886-6628",
+  "name": "Corner 28",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118347259474949745399\">Bernard Lin</a>"
+      ],
+      "photo_reference": "ATKogpfJGgvKajIqvRJ2LIacVBiTUNZL0_bToT6Uf5Tewt05ttjqprdEWFGN6i_eCvs7Yf3SN1UiRaUF-Q44OozhqnUZQ4rVVL6pnU24Xo6tXUeodUTH328wyhCwIw4Xb_Q6Ix-Fi8B2wxyiG2ICTCCSkPPrRaKBU1Ne8uOgzXSlZKSJxD-upPYAPZ0c7BXJY4M-1hKUnlaTByk6RV1lFE11CBSmdpC1ToX8O5hgqJ8UPJZx6Cv864owDTVz9ISdvXJI3sAbmOFCVhPgYyWDyXEhqoDdrpN3p7ulHZ-cugONjA2uxBTAzbzn4pe5Kdg5Yw8jnJwB__i_xl4KodkhQhg8nsLXF6SAnq0toQH5zDwrfqkTUYv32se9ESEu6AoHBr4EOubItt4O6Ac6FpE5kBQ2Mb2_7fNRXOtR6fY6jD7z0Xg",
+      "width": 1600
+    },
+    {
+      "height": 2939,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115100271982331608378\">Mike Pool</a>"
+      ],
+      "photo_reference": "ATKogpcjOVqhTLQi2UHhgj4tiP_2jr9z9I8I8Iw-y1tdWg8_osvOi_oo6AZe0UomMZ110joqdIjLqiwqeh69jjRmcdwAR8rAjdGG35anko7mLEk5Woj8hu31UKbR9m02dcpBu1aFBhWziUkQcd6sf6ihsyfmgoo-mjhdKIrZ6qOpiI0sIph6hK2mfKMInS9tcgLlJakRHJ5eB92Oocl7PhLo7b4zWzHWNWfEaQX1jxBkZzuNmgb1KsCLZJmnrXsUOqWqfw3wewQ4J_rBRyySqZFCmWueuT2y5bopGtGTEJXKh-5ISJcTvWrqn7dIA0FyP__2pcdefFc9lRRr_LQMHsib61bdEM9hkbZripS_-lIGoUfArxtUx8kEp4O9NVopsbDsivoAxmC-b7PGIHWRYI36EYROwMYoNN5m7RzEuxfwtAw0Vgg",
+      "width": 3919
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113148947611018822952\">Frugal Cyclist</a>"
+      ],
+      "photo_reference": "ATKogpd1Oa9Vyj7Oe7XkfEy78mVE07f4LJhRxo4QOJLuk1aSNW41Yi0-RibC7VrinbB6zNn2rxVENl79n0nWw54Bres-4VChpJZ3vDjdpjEkMV7QiuAkG5ay906IuYhKcUQaUK-fjwfRb-kVEDONW31GDFBU14ZO0I2gDgWMNv9VrNmYVQPGTgAy3hmJ9zzGcdZBvOMy-b_f8ukFvODpi_eApsmgavs2Sq1lmNL4FygJiNu7qSAq-bjmFm4z4Zzw06_tHHgtMr8vl_R7Xdyr7jZJIDIn0NBXVBrpfHNgHKzEerdbCSruXO6CgcfWaH_Ln7-9Nfs6sSfmyg84sekV9ysD0-N5lMTyiIkhUr0VzEVKQ0NN_mJGjSG6FGpmRnj7VNx2lS3V6137JEWFQy1Eid4acpkARhjGnPos4P2yTE_I0jgE7w",
+      "width": 3024
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106934168870313700301\">Martino Pham</a>"
+      ],
+      "photo_reference": "ATKogpez_rHwD6WBgga3SJJrHQoKONYQYnq1aNVZokaKS4DVufkk2GtIYR7fubDlpx7UUGku0TiN83uujUBaqm_cAUL8aD4DdTIeBo8c4U0YhYMnARKJnHLLbtFTDWTD_wqva9N6nW2W9wagTt6U7f1ir8oHLY5u5ipN11h2uNymAtIekKy-Ils3z8wVTFWmyhkG2yfGgapsQ2XaxYUH0VHPwwJSPcQIi2n2rVY1ozWGpHGx1Gpa3Q6OuNaydxDBWjZoI4w-byXr5jgmhCgUgBtfZSdxS-4XP_N-vy2NEJKazVRlrFLeRegx_ZmLHRVULsKAmtQ-fZZBc0AoHYJQV53faa5DT7fL479rJJWXYuQnQuE0JMQUipsLQCCzWAaybcNVf-CcJ-XSh3F5utE6ZlLCHu711dgN0WNsZmXRIA3mL_XFEtoB",
+      "width": 3000
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "Photos are copyrighted by their owners"
+      ],
+      "photo_reference": "ATKogpch5KMeoyfxv-jb-czUNtAK_dORmGbyA2JIIbiZAGyk96IAE3ebnIz8aSEZGl9Rfq2dG243JP--XiSofq1FAVej40wEwrzB7QQKjpbZnPrztDNLsZ7NlDp050SLVRe2aSkS-dKkbg5J_sjZ74EfIR5S0HV2fO7jVQwfEapIiixW6oCi7D2BiqOuJqYiZ4lqv0w6dTj3EELeKIjd8OshUoPQdF3ES53Px1fHeXq9thHDbn2O3s_bbm_vKQ9fWdroYKqiswnM7pc0Bfytt8Z98SowCTbMKowE1x3vGA1egzjb2bWEnoj4Ek6uxkaizw20SRtURS81FPxzrJCqZ5TQxWWMaEheYNyjyEZQaasKdYSNojmEBZvXXU8bL1UK1kBlpYwKokr8tghOLzvS-p3ICyzhGKOrDQScChxPgoOFsTFZBvcMgJ5QQhQ7qfCdeVJE",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100141602481698012179\">D Guo</a>"
+      ],
+      "photo_reference": "ATKogpdV4EVTtV0LApCI-EFfhsCktXHU9sQGB8s-iqd_vG-1WsgwR1TUQWPxh9WNmu6phPe0xJJChKUXSW1dbf6ZnmK7Baazw9eBu1Fw4efnrToAypyx8fh8KEyf3PBSpSCmj1sONy6otOAcDe9RxfLjDk5REC01lR8Bw7lekemiWYL5zqWcEymN38Kvq-2geIdE7iZJffF-eTA5-woUwrViisWX9XiQvtPFWojgQU6gebZbZ0WbxBXCKFKDOPbkZt72PBnJ-V9n0vkszXADBt4iYRg99t1jdK5-w6_a2n5TUZ-azrYHuNjfZB_3b30Hof2hzt3e33M5Wb2jtZhAfmkjOV0aWtM9we2t0amcTvRu_-3wTDY_5PIj9cUVev85ucb-AraroBC1KLqk-hYDhw7a8CzUVyI3jeeRmVx8tEIkfImK5Frt",
+      "width": 4032
+    },
+    {
+      "height": 600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111621433888070656994\">John Hsieh</a>"
+      ],
+      "photo_reference": "ATKogpe4KFYhS2JvkGNYsoW1DYFQSGMN85D2YkQgXuMLUgRBxfMoqqes394OoEc7_TGPIuRrImaoX_D1mPeGnfxWQp6_C3HsimhGwwAck21I-Vcs609AksJdPuz6bI0LJFpKcVh-vYsumPqPnQfBxlHxdLN8zNzy8HPviAjWBVUOtzksWGXou5EXptQn9lMYZiblKiVNkKRoZrwe5bE4a1MykCO1x22DfmlcLJoYe1KUhPcWaEOFhQsukrvMOi3HbI0_2EdZKkIZRB9lVbfKSh_6RIWexW4ZzQjhdwtG8HmWHqFhAdcKjAqjeVdI6vlIx8YLlCiwj3WDBKXXtdj8dFSgI0WNAn7VvZkrAbsuHPcbpbQsxtbKNVw7aIaMi_JZF44CochzPnO8gVby5XCOD8buG5eDXmORzWMhmjjBib2CgasmA4jh",
+      "width": 800
+    },
+    {
+      "height": 600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111621433888070656994\">John Hsieh</a>"
+      ],
+      "photo_reference": "ATKogpdmkvENLUKcRODmntGiozy28-wpRh_8do_wDX01tsliOiNnH07tHzu48ItjSJo7KjpKFcQu9d3hUpMG0TR_-9kiqEFKE21aS7-wS9IC2LsHtVghCoSaocwGwAD-1LSQBUxcFmbsLTUigE4qIIKrxolzEIT2I0gTWTty6cxsBX3IPyFj02JS4psgz37eNg21bVDQ5_OsN_FmXT0-soBYnEQKRHscNYSSbuzWfAxRcUZ4qa8VlLZ7Wyi9ttITUr20HlhSWuDzsrGHmP6EI-aw3aOITFoFe9tWjSFpEJ1Uu-xHWZHeags0BRQLrvVNk4HA12WUKu5urdLcmuXpviwBnUg0mBRqWN_JivxFhhXgg8FUzXTnBWDdJL2qLSJSQWDmgRzqnBVA24lArEiKBfw3ND-IKG4CORZRWJg_4elEWbvynA",
+      "width": 800
+    },
+    {
+      "height": 1920,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114095660721755749106\">Jessica Lin</a>"
+      ],
+      "photo_reference": "ATKogpcX1BaFDUQVDrWT8OG0_4sGELE74i3tCZySt2S8xCIUlClS0Nzt8nI8eDmM0j9RYNS_B-uWU0CpYS4nfVQxCjD0ftjSnHVi2veMe5684v0Mz8h3nVxs77njUh_jEJ-0QDJwUBw7CUG8-kMu0FJjurCtZqpzaYi2yqXk-453Y0OuhktXXK-2nJrugUzjGTumhC9q-5m0S7-CQ4yG1cpp0HaUdqs0CTvj_4tx0fj0x8HuHuPqBsc4UvVm9OCrgPt1LyUt5xXtJSAY5vQnECSVdTFSdQfZFPHlMB8oQEVFs_Xv2bOiob3UAntdrGKt1d1qS1NN3OH9Q-koLJTQHuLksAj8vdLHBUngf3mrjDYHkQHfOGlgvuLaRZPVYRSWpAhGD7SEoZNSeo9vzgDNVy6nWe_uQ___FVkp2w1WIezClbX5v8VE",
+      "width": 1536
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101406235071538839617\">Robert Kelen</a>"
+      ],
+      "photo_reference": "ATKogpeMYNEn-jce1n42CXepC3lDPWuXmNCgnk5mA3vOMgFjweWGCl4RM8YEdkCtVm82NPtbxd71hvhCeAPnlKcVcnZ9RGxdRdHOJ6MgHQySB7Q93x-zOSwbvWHhOZ4_AU8gk8mhHwtOTlLQrR0Pn3TkzqnyhqzxQjPLrLhqmDjkGhU_4aSEA5uNmQOA_t-_9DvK4OywJPSqrZLUhmBB2TMFmtL3HpEF8MSYF_XdfkLNwA8Bimb-frWVsw7QDVhWuyQ93nhoVuXsT8OM0jGddUmOPPcTTXlieD5p6aicNcxG5Ir4P1sy3MBs0X6_gUGRFLriPP5x0nzJTgbMPH2jJ-1CAnymDIG_3KzzUf53DdsreMft_Xa3mA0dHNqH90WObvi3doFptoi2dIQYWpM20ay6wIu48HXcUOMZUHBTq_RoRV1NPg",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJuRovhwxgwokRkZOs5i8xGtM",
+  "plus_code": {
+    "compound_code": "Q559+CP Flushing, Queens, NY, USA",
+    "global_code": "87G8Q559+CP"
+  },
+  "price_level": 1,
+  "rating": 3.8,
+  "reference": "ChIJuRovhwxgwokRkZOs5i8xGtM",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "John Krajc",
+      "author_url": "https://www.google.com/maps/contrib/108885364252618081433/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVhyNzoNepHbEWF6NeXQeIoELAa8xDvIlDzgIYYYUaFYjSNQLgW=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "You know it\u2019s good roast duck when you walk up to the window and there are cooked ducks hanging in the window! Atmosphere is liking simply because it\u2019s really grab and go versus. Enjoy it on site. Only reason for the four stars on the food is the fact that the duck is cold or room temperature. However, the flavor is delicious! Classic roast duck with no frills.",
+      "time": 1744158949,
+      "translated": false
+    },
+    {
+      "author_name": "D Guo",
+      "author_url": "https://www.google.com/maps/contrib/100141602481698012179/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKrHwBud4Z2XuynjKaXHlD0h_ukDbCGuUdiSmlccu_5IelRqw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "This small eatery offers a surprisingly diverse selection of Chinese street food from both the northern and southern regions. After a recent renovation, they\u2019ve expanded their menu beyond their signature Cantonese roast meats to include northern Chinese specialties like jianbing guozi and kao leng mian.\n\nJianbing guozi is a popular Chinese breakfast item that resembles a crepe but is packed with flavorful toppings and sauces, making it incredibly satisfying. Kao leng mian, a northern Chinese street snack that is rare in the U.S. and even harder to find prepared authentically, is done exceptionally well here.\n\nTheir Cantonese-style roast meats remain as excellent as ever\u2014fresh, flavorful, and fairly priced. The only downside is the limited dine-in space, but it\u2019s perfect for takeout. Highly recommended!",
+      "time": 1743371871,
+      "translated": false
+    },
+    {
+      "author_name": "Paul Lo",
+      "author_url": "https://www.google.com/maps/contrib/101630413243169411829/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWz6bFDL-04ZdivdI7btqgMV9x0Kw_CZf59GMwD7DTutLtEcKhk=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "4 months ago",
+      "text": "What a great value - 3 meat choices over rice, veg, plus a bottle of water for only $12 or discounted by 20% for only $10 if paid in cash, plus tax. I asked for soy sauce chicken, roast pork, and roast duck but they mixed up my order and gave me BBQ pork instead of the chicken, and I had leftovers even after missing lunch that day. The duck is on the thinner side but the bbq pork and roast pork were meaty and very juicy. Chinese BBQ is sweet, note that if you opt for it. There is a lot of rice that comes with this plate so this plate will fill up most everyone. The amount of vegetables could be more generous but let's admit it, you are going there for the Chinese BBQ meats. This is a value meal for a hearty lunch or dinner, so much better than fast food!",
+      "time": 1738525100,
+      "translated": false
+    },
+    {
+      "author_name": "Mr. Tre",
+      "author_url": "https://www.google.com/maps/contrib/118130255784373255736/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXB0ETHi3XskLDcwdIWSzbnoI6h5foaj7wfoJIH7N61oGSE9K-BwQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "After a long morning of hard work, I was starving and decided to try the chicken and BBQ pork over rice at Comer 28. For under $10, the portion was generous and the flavors were amazing! The tender chicken and smoky BBQ pork paired perfectly with fluffy rice that soaked up all the delicious juices. This meal hit the spot and left me completely satisfied. Highly recommend!",
+      "time": 1738556267,
+      "translated": false
+    },
+    {
+      "author_name": "Cheok Meng Law",
+      "author_url": "https://www.google.com/maps/contrib/111654140404484639724/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUuM9_iiddYAvaIaRvWf5MoAnqKfDJY_1qjt8cOTlCsY9hKD-6q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "Got some roasted pork over rice to go here and it was a really good deal. For just $9 you get a meal with a generous amount of meat and rice with some chinese cabbage. They also gave a water bottle for free which was unexpected but grateful for.",
+      "time": 1745005897,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "food",
+    "establishment",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=15211524773200565137",
+  "user_ratings_total": 398,
+  "utc_offset": -240,
+  "vicinity": "135-24 40th Rd, Flushing",
+  "wheelchair_accessible_entrance": false
+}

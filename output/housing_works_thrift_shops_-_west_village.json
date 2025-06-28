@@ -1,0 +1,451 @@
+{
+  "address_components": [
+    {
+      "long_name": "245",
+      "short_name": "245",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "West 10th Street",
+      "short_name": "W 10th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10014",
+      "short_name": "10014",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">245 W 10th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10014</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1600"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "special_days": [
+      {
+        "date": "2025-06-30",
+        "exceptional_hours": true
+      },
+      {
+        "date": "2025-07-04",
+        "exceptional_hours": true
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u20094:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u20097:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u20097:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u20097:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u20095:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u20097:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20095:00\u202fPM"
+    ]
+  },
+  "delivery": false,
+  "formatted_address": "245 W 10th St, New York, NY 10014, USA",
+  "formatted_phone_number": "(646) 998-7215",
+  "geometry": {
+    "location": {
+      "lat": 40.7339353,
+      "lng": -74.0058945
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7352262302915,
+        "lng": -74.0045360197085
+      },
+      "southwest": {
+        "lat": 40.7325282697085,
+        "lng": -74.0072339802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+  "icon_background_color": "#4B96F3",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+  "international_phone_number": "+1 646-998-7215",
+  "name": "Housing Works Thrift Shops - West Village",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1700"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1900"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1900"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1900"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1900"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1900"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1900"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u20097:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u20097:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u20097:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u20097:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u20097:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u20097:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20095:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106466979413608053885\">G Tenewitz</a>"
+      ],
+      "photo_reference": "ATKogpc4eujd8enaE32W0WvaRsvMs59i40glxQYxqhkjyBGWa-ZQGeH-JKrqmkRcQUjTB45wQcDzwfgIcpULvBii6l50yKwJC8sGZoBNbx-_YLVxlk7hW5LMd6IxfUT7CfeE-s6j73j5nqwY9o-x-Gru90hDhPxzwdn0Qei6_711UZIGE1-zWMOZ-HPFkNHpJz_eV0tx5XJCS0Kr2OIZ3p8tyEPHZQ3rdOaHZQqWLCS7HQ-buPJa4v69nYMdqnYJyt60zfM6Oi_kBgTjUKbbAGhWhjbU7yA5c6uTc23tuKwLHMzeIePS_78kG3PeLHcl-0hUGtQe9ZDsBlJKdsQzF1WM9LcpTwEL0RhOtl1AK_MoEVZ8483QMxBwS_hg7VVi8kywonW0tA_zQICQIG_nPp9Jl71SCuYxhLrMCbTF6yY2nLOjkH9b",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117808460219123378764\">Ruwan J.</a>"
+      ],
+      "photo_reference": "ATKogpcSt12ABFAotx5SyH5L7uINCNtS11Zy9DX4Vl7Fb9UDCjQQszbKSHuTKid7ySNO0PnhFQvMVXufU3iu-pQkpDbzogPWe6g18lD1PQ082zV26-XjbHgBYlOqvhpclWARVCE11aUPcDmtZS_xd07hEFmljj2tGvP4QRnphI0pMep-I7zDhki8uwlMcxGOEI4YkGkjvhwtPgwZMbHF53-uBl-ld1sS1NKY0O61bihWB3MGpQbMgchuB5HrScsxJhMtt-BN5eKH_s4QlJuyGoBxDr1QHL_9Aspdl5dhNFg-nbiKFOYVYDPmC2g8vra2k3mgg6w3inlKAxwYIPY6OMbzuBGDVgf6Ip-xGMIPmfnNE2gLhBgzOkEQuERnSw33kLHZQaEg8dnXjTd--PW_eIfAvE_j1eCRaupHeXRCqn_NJzR8ZQ",
+      "width": 4032
+    },
+    {
+      "height": 2176,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114033463017612485434\">NYLY JOJO</a>"
+      ],
+      "photo_reference": "ATKogpfIeDpIOIUUmSiwSMGKZsqJG7FsFZeDshpRnEpetyVdw7llhWafizrsa_OBeMKr9GVtOetkJFWp73hDE_AheHvw5L5p-n-0NjUg8rNjq5gCmavK7SuyhYhh93KoDI_yiMy-_LNsd7sP91rLpbN1K7hYpcSdZlXLL0Tb9KDHHjKsi7F5MMfNUhypj1fbyyJZpVgD9AlltP5WZmu-M-GZNLK353KsX7hnIZF8Fl2K_k0VO8SqzDw-W7f76Yf7r2ZcINOyQac59FDT3Psf6IzyNP9dpX4KN3-hS0MXWS25Y0X1r93WZgwAujPRvM3zdYhDbIu9Mtl_ugT69uDXRbYlu-T5gupYWBA0Gz2ePTApHza83Zhq8l-_CLw-XMQ6ljthaJcBvDYicQAe4K116qyf7l8IVff2YVqxAafjAYZL2FFNkxzo",
+      "width": 3264
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101941738990436117323\">Gregory Weiss</a>"
+      ],
+      "photo_reference": "ATKogpcp9ZDddv-FGLMxvDA0-zNUvLuHJhmrKTmUZnpcSWJQbGeXRHiOVSYjX7omQTtOShOeEzU3lvWQaVF9gA3dQqe-A7OHgjc4MVeRI0s-t0Ane9mUoTn-2DHQ0F8dVUhL-MHnjUUyWbjLXb0t0_A8SMnZdtZoHwJFoMmOMUGO8tBzQ8UldZ_iPno5UwERFDjUmtfgN-HcTaSabSOgb4T2ca2IAOufNuG_AptbXlnt2qNhQZ2MQy57D5p0rEidQoN7YL_HMTFE1wlmzOlMd8dz4SQIVjQ0w2v5SfrwYpKw9ElDDrTcfH8pfc_K92XptBLdT--1ST65bGllC9TlHF6XDksdkoQyjpKjJSC9uMpMb5hPhoD4LrSM48LowbgNFclpsYWatpQjbN1Y95dxCItmoRGz9kABLx_AtJ-Kg1ucuEjm0BWU",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117808460219123378764\">Ruwan J.</a>"
+      ],
+      "photo_reference": "ATKogpcd28abnPvyDnw7puf_zEnqxAXVpt2HUCtLATlihVB2EMla62AfNPjNMdqsGRIMFZVg3eGyJMEwTXOLzFAoAsXi-kGFY9Ho-InoK9bT7Tef9TwpfDd0fN-A-EFOfLCiAHpctcjLrxXX126bod-RWZ45vnrZefMnn5YwTsZgMYoMHJaGwT1YI4L3C8vVnPr5wzZYFuVPs3IKqEtoNc4AXkvvu040Sk9fIFjM3jud1GGb0PdABWbZR6QdO-TvqeNrj46u4dEGWDm0XB9HvmznT6JQpKVUYiBHhwgvxTgoC8REo_qo2QL7c4lzh8L0H1S7uYYZ1FqTpBMKo076QEHRaOf1O-acEl84UI1OCBFgkVbwyBQFXEBYaBZE7ylzQdaA6WdGZULQM6QqrnwxgrfXdl3j659XGuSsK7Y4rEnonOvbFA",
+      "width": 2268
+    },
+    {
+      "height": 3021,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113796009854537712226\">Andy Ng</a>"
+      ],
+      "photo_reference": "ATKogpdl_ZeiWw9B0qqTh0NHL9UQrG3MDYVHpKQm7qEYkGVuKF9qEN8PrlYWTikzTBxKQYHNIiFQ8uICdZdNdG5MW16wKXpi0XfdJAtT0gj7UVz0u6Yafeg5fkd4MIbZn-sMzjxkPrw9j6BkhRb4-QhWFAXIOqEsH7YwoWNKNIUNrL7oNn9afP2_wi5SKRnh8b5sNmjgbklEslpzEna46vggSA-ZtiTWvN0eF-60agv2NVH8I5g0UOzS4JSgHslHRhjkZDPYBiPlxNsr1QDxpQR-zFGlFP4F5_g0CsqNXVLswTjY5vikJKBPyURafcs0Re6Ah9vKcV3nvfIpimrcSi0XVFUsdTLTdSas6C5ytfGwiIRGyDHeX7KubNwU-xqxh-cjoB1IH_aRu0NXs7ihujQWqPBLrdedpQva5nxlUWrRVVg",
+      "width": 4028
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110919135385696323471\">Gavin Zau</a>"
+      ],
+      "photo_reference": "ATKogpdJwx25Usfo9nGE4N3Osyes2R_mYtPWPtykDLz6hUM1ttw0Hajsq0AqKj2jekJiDiFaVB9h4bjQUhleA_hRRa46h85SuHNMLQDuVAuDNt8pTxMF5dtXz8tK7kfGZFjKqMHl0bCkDEZfTZU-RwqyAyUplidg2LTupp-V0yeeGRJFlDPwFtQs1Xkof3lAkq-X3G4QX2L8eScRBXLmtqkRjKVwFEbbVcmJTJDbNpwXOEqd3MhKuidyq0VzRZLqBHZAlv_E5uPIicuqSsh5FQ4qU2HqQL3PXhjwyKBawYHi28moSB_q400L-speQ8JYDggUDk9w9KJAcBlBvwBOmSi7W46hYfVMoYm8TJzotCcXyGWi_weeMh4GBG5boWA4gbhsDnStqZDAEia7abFQk0S78xUfn06j5gRB_xCb3m-xt3k9zQ",
+      "width": 3072
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117808460219123378764\">Ruwan J.</a>"
+      ],
+      "photo_reference": "ATKogpdfrmSjRS5UyS6IF4pUYY9fbzH8bCMiJf40VKAZnrIcN_VGV3oG3RVnFt-L2e5QsDfL2_dUOQqyXCerRiQVdWC3lZey_vfcmbZpFxnD0PXcAUX8Fo-tR_ktz6uy6OFB2K7wadzs_dlFrKjtJjGYXNTSRQTPhJQRsWvx9_1n_SUyfa1nxhCnOJWGzGxSZARs-174UKXqmqQTxvfZ3Yd7h37TJ3QxGwG65RwhzynhLnkZNXRwuqpcKRWDT2H_nboSeQLji1xAokUxq7TdrF3VyQCB2ocKxSuVGrboJYjR69NsnBvKoSi6ry_wHO8iVI8bZsEiTruRQc8mWZQPfmRfrXjUrMxDlt6vkH3vF-Y_X4bUFaAnhRzxpOTNBDai9xrjwJpo0JoMqoso5dNCwTRuu9QO6EyUahALUA0b0iZBd0QG-g",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117808460219123378764\">Ruwan J.</a>"
+      ],
+      "photo_reference": "ATKogpdD6_TNN59Gwr_SfUTEG9tL_Sodph0Zea95Ym4XVo0TF8s6tmsXYZj0nn9irWGdcaGF1F0NmybtbzT-eAPWm_WR_K5F0NfxzGF7yd1KkDRMysfz-CSFlLdTwEA3MuRB75C1Koq5tPdkQ6YsOLn-hT0-GXz1kNYHI8OSHCUTxqVxlX3XX-TaI0anKqfj6u8mDiW7SxavGuodPM_nEm1frGNbRzNHmf_wmXpp2EmKMV2IaFo3D8ZZTrvpZMaYtW9-1J4wtFZdAu27Jyt0uG4-fzBMUdUC04oTOLqX41T2pxK7L2nqVIoRiraf52bALJwaWRVOWaZ6_gl6KIRWuYUZiaHuA4sszIMES2mtLoGOv8nC7VcYppy9p1Afni0UmTOW_q-iix0dAM_rX06APvkrmNHFrsfhWxxrjpvTxcfrjop6p3Gv",
+      "width": 3024
+    },
+    {
+      "height": 2448,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110957271291788674291\">Augie Arocena</a>"
+      ],
+      "photo_reference": "ATKogpcjxc-xF8GY07UOeIBo6zQtwlluPGEHQtZ8QoYoeWG3gALEElxd9o2l3AKyvAN5CNhGNXoCqVYULqe1iWAHp1qSqQSMVX6BFYk7q67IjviAkWcqRPvtQDGEdCW8t0JfhuzoWyeXTxijgWzbiScF5WTu4mLXdFmCcTNhKdLajDaprkQz41g1FNVnC0eRVh8Uj78C-AkvhGaCdH8N4FGKLgIBp-SUZwEqAhIpuo7cIX2vMea8EsNvwtgO6HSczUH1xKcLPVbuS3e4EIBHWyS7_l1JeXtJq8_ql7HkAv5WuYQhimlZuO5pyesP3OpUKkVYJcCcwDcI-XJ1uGD6KDU79D488FGPCuMYKWjz_4wW9tKcFtIRPlttJ5A_wzRPVcLQ1tWTqUezzzT02dlnHxoc9NWL9DIWwqS4PnEUJbPUHAJOEQ",
+      "width": 3264
+    }
+  ],
+  "place_id": "ChIJo_reqJRZwokRAHCtJNsmaXM",
+  "plus_code": {
+    "compound_code": "PXMV+HJ New York, NY, USA",
+    "global_code": "87G7PXMV+HJ"
+  },
+  "price_level": 1,
+  "rating": 4.4,
+  "reference": "ChIJo_reqJRZwokRAHCtJNsmaXM",
+  "reviews": [
+    {
+      "author_name": "Adam Hare",
+      "author_url": "https://www.google.com/maps/contrib/106585518738399366311/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVnp36unlRvc_ZOrzjUPg_Jg20A-73qIAJ2a7njNd_FnD4CI2yg=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "3 weeks ago",
+      "text": "A great shop, with a good selection of clothes, books, and household items. I think it\u2019s much better to donate and shop here than somewhere like Goodwill due to Housing Works\u2019 mission; however, prices tend to be a bit higher here than you\u2019d see there.",
+      "time": 1749240951,
+      "translated": false
+    },
+    {
+      "author_name": "Elan cadiz",
+      "author_url": "https://www.google.com/maps/contrib/103091032406001572705/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUUGzQha5abKgpzmaueoTus343fy5DgRWuzVxHJCXFkECRCv5T4kw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "5 months ago",
+      "text": "Okay, spot. I've purchased things from their before, but it feels they prefer white shoppers. I was questioned on where I got an item that was on the $10 earring rack right on the registers counter and then told it was accidentally there and actually $18. I will not be returning. Too many thrifts in NYC to worry about this one",
+      "time": 1736279296,
+      "translated": false
+    },
+    {
+      "author_name": "ArtsyForumPhotos :",
+      "author_url": "https://www.google.com/maps/contrib/115738298760842564625/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV9Ole9RUzvjT8fVpFujG0aAepDbJ2mdF8lhFtG53zwOFFh20b1=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Me and my fianc\u00e9 visited today and saw a typewriter for only $50! As a writer my eyes lit up once I saw it! The employees were so sweet and even tested it for us! We are 20 year olds from a very sad part of queens so we only came to window shop but no one judged or followed us! I\u2019m so happy with my visit :)!",
+      "time": 1713837735,
+      "translated": false
+    },
+    {
+      "author_name": "Andy Ng",
+      "author_url": "https://www.google.com/maps/contrib/113796009854537712226/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV1_-HKGRYAjoJXDOTdqypuZRxmaacCSu_H2isbPmJ0RryMf_kH=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "6 years ago",
+      "text": "A delight to pop in and check out the second hand goods every once in a while! I visited another store location in the city, and between the two, this one has more diverse offering of clothes, furniture, and kitchenware. The space is also larger and has a more welcoming feel.",
+      "time": 1547440883,
+      "translated": false
+    },
+    {
+      "author_name": "Jonathan Cantor",
+      "author_url": "https://www.google.com/maps/contrib/114732876808748041644/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWiad0XP_suznWS_MuRe3pKCeC2DD64qbJJPGM2bD1njpBFhrKvPA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 1,
+      "relative_time_description": "a year ago",
+      "text": "I bought a Ringly smart ring here for $24.  I took it home and found out it no longer has an app in the app store.  I brought it back the next day and asked for an exchange for half the asking price and was told there are no refunds are exchanges.  I returned the ring to them and told them i had no use for it.  It\u2019s pretty suspect behavior; parading around as a charity while simultaneously stiffing their customers for electronics that don\u2019t work.  I know that Housing Works is a charity combating Aids and homelessness, but that doesn\u2019t give them the right to rip people off. Just saying\u2026",
+      "time": 1716439670,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "store",
+    "furniture_store",
+    "clothing_store",
+    "home_goods_store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8316220909571371008",
+  "user_ratings_total": 76,
+  "utc_offset": -240,
+  "vicinity": "245 W 10th St, New York",
+  "website": "https://www.housingworks.org/locations/west-village-thrift-shop",
+  "wheelchair_accessible_entrance": true
+}

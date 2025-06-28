@@ -1,0 +1,429 @@
+{
+  "address_components": [
+    {
+      "long_name": "701",
+      "short_name": "701",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Foster Street",
+      "short_name": "Foster St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Downtown",
+      "short_name": "Downtown",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Durham",
+      "short_name": "Durham",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Durham County",
+      "short_name": "Durham County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "North Carolina",
+      "short_name": "NC",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "27701",
+      "short_name": "27701",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "2110",
+      "short_name": "2110",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">701 Foster St</span>, <span class=\"locality\">Durham</span>, <span class=\"region\">NC</span> <span class=\"postal-code\">27701-2110</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1600"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1600"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1600"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1600"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1600"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "special_days": [
+      {
+        "date": "2025-07-04",
+        "exceptional_hours": true
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Friday: Closed",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Sunday: Closed"
+    ]
+  },
+  "delivery": false,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Walk-up burger stand dishing out sandwiches, hot dogs & hand-dipped milkshakes since 1942."
+  },
+  "formatted_address": "701 Foster St, Durham, NC 27701, USA",
+  "formatted_phone_number": "(919) 682-0071",
+  "geometry": {
+    "location": {
+      "lat": 36.0039194,
+      "lng": -78.90155
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 36.00519498029151,
+        "lng": -78.9002116197085
+      },
+      "southwest": {
+        "lat": 36.00249701970851,
+        "lng": -78.9029095802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 919-682-0071",
+  "name": "King's Sandwich Shop",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "1600"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1600"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1600"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1600"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1600"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1600"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20094:00\u202fPM",
+      "Sunday: Closed"
+    ]
+  },
+  "photos": [
+    {
+      "height": 2448,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113333264104783101589\">Ronnie Bland</a>"
+      ],
+      "photo_reference": "ATKogpe2szhIkFMJXQElQoR-nx924R-GnFgvg4SmPkOkK1VFiU9nnTmWDGX2M_vVsJyv0TZUV-39bMWOeWVzUvtNy9BpGNYjA__KQM0m7zoUflw6mFpfYVCuISyt4zk_hQThNz2baseVRWdZdVPxP0HK5-2CKtx2XyGPD5x1nAaxXPAc0dIwoKm5HYlBAxauIdNO4ofVVrLnwdVqYHYE7wmipMavtkpZupnpl6tg976NbndiPOqxiBJz4huetBuArc2o7Mrsafn3Zw6Ol_4VoWR2DYW0RVLKnLhHk0wCcyhgqq--ULBMLhgOb2A7fpGCQR5Nvxw5sEQycsSxY8NWTBfbnGV_eQP-G5sXcB7BrXI4DH4xhTfHMp7lEKU54WyFhdMEuOM7U66Bpt2mTuMGaHXySNAJeQKXmz2YmWuEchUOC6Ne2w",
+      "width": 3264
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100282578633583705403\">Jermey Miller</a>"
+      ],
+      "photo_reference": "ATKogpddbXQezvWk3GLXfRWGWRp6TDa1Prb3a3LpjO__viwfZ_LnYHMHhAtaLqBSctHW3z4gyp_FPUOMwdFSyn5q2YC9c6chtcTCGy4omKjQM8L0vvYP_vzxQz15fhHNJUR3qUr0wPHT8e62lvCnZqZlJRyydRbTZX-jGlE9XtvVFmZbtY6YUWXhNF6k9ADlKn2cPhxVPicnZ58Iz7ft43flAmzrJ-uj5C-sPqeCPTgf62DeUo9CJrRgJL09o3D0Acwv17BR9lOvkv2f_KRyLTs3G4KEo3brufSr85w6r2nvU8QAA6HYaENdhuYr3sth4OD0RvcEwCOihMfbkHeSmzU9zIo89_A_GiEOLL_lDSezCmqxQkA08v5-3zaVmvWcL_doW4YDn8qtTzZbYUN20SKLh5Gzj1yAAHduOzcHuQb9PM5te0i9yHxeJwQs65_x5g",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105567469817926219259\">John Louie</a>"
+      ],
+      "photo_reference": "ATKogpdgI6Cr9gRtZR8nvkCM4XxLdSkegmUfDCm-C4lDJvVBX-fdzW-kwDDcS2FOqMWMYRtSUQbrdXgyNizh9PUt0_lMeGtUo5d6LVVaV6gpA4GfRevOJp9e53MtpdOClfpnTM5dfXSxcsY-Ot6ckcBYiUkpcQDwJojrxxDmnZ6gpPK9eUFc4UEQ_sq1gIHKuoOFxrN1aFaBhG9QxXGCfU0LQMB2C-IZRfxpnhswPm4Uh3ELWBx0Hj8LoiB_YLAm5o84gfXq1hgPi_bvVYo9AFLaEYMEAf74ArjPnAtEUfrVyXLsSogyuUvQYcJCpHL2rXdqzcqDQQPA6eqtFm_pFCHqV3fZ6vtsP2FqcYNXMi951p2xoLJU9o6ERBoWJnULGfrK9_u23XqMHzTh6ul1YVJRQ8lDOe9IVFfsxRxjlgZZttIKYDOn",
+      "width": 4032
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106597404241567458951\">Matthew Jones</a>"
+      ],
+      "photo_reference": "ATKogpcinjeI0XN59k2uXTji83AV4r_5NvGr8aOZEXIeHgHRHZKqTt1GoAIyF8CAhnr94bMNhpmTnMLsHrHky6_oKMcLgdG0___sw55ghTEPlbNBFEBQLbcQKMTML2bdIAkh9TWgUySC98SqT6Hi83uNjHL0QgHe4wTZTPjiEcN61dTFF7sHv2j766FiiUWWqsWFRkR7iM9CEFnf0rIOe2W9UCKyLsHTw5udqukFsO-KdYr0de3-CxPm6THyCML4otUEFsSghUcdetxGOvuHnooSUHphm_ymkFsaTBhIuDqQFVQwwPqUNA7FyOWcmetzO17CKcGFI6xIHOf7Pan9WwANo5GgVjPwe22eht49V31u8rIHZbsvAMpXDtHU3qejeT5ffkCpLHA-t5jW6FrKnZGXtTPEAzhljAMbvXYHErCobI4",
+      "width": 4000
+    },
+    {
+      "height": 1810,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106586543739831706107\">Daniel Perry</a>"
+      ],
+      "photo_reference": "ATKogpf6FQRD3LjhDmW8Q-UIegUBB8z5ZWsJMv51UW7u5gJYDEPrFniI8b_tjEjoZx3fL-P4mpTngYHdOxJcpFIzVSgxGaXtZa6jYKmkwbBDfeveZlRX4tYjF3nqqjc3VM6iG2EUnfekDu0ik4n8dwfE_ZrjYXjXgmmbYGDfJvIfFvDWapyYO-OhjU65EhE32EQtdZOuvtwgEWgB0fOL6IEumqEH58rRSZp9gLC7V9djdei3uJc1QuvpR2ux78_TVunfENGVFuLEApm_jdYRamkdJ6Vz4osZez1xPbMZQfqWEYJkThBMUh-YjU_SUEUHRxOibnGp_pEcCTCUAUp_pRHMrqVvyP6Hy0PmUKOf1oAio6QNhBHvPcjV4BVhmTbgSZra1XT-wqEec6A8OYAUC9gNZt9T_H_lbq17inGhXFO_llg",
+      "width": 1736
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105567469817926219259\">John Louie</a>"
+      ],
+      "photo_reference": "ATKogpeWNC2ezSDNGet-Did2bS6aueZ0a_uWDJF5oPNTlpjbb0Iz4dQS36FY7HJONQWtrV6ThofrIar24hP5OF5omQIqdIUEnHbX-S90dma3LWZrjhpQuEtGWFn7PXEY9doLBbxdgPyYWZ53obSCGT7QqWg8gDLHyPTqCcZpfcmIxVeHDUVaPmHEIlMnO7QAMQtg4nDk-Sy0a5eWZ2Gt6scSOpKRlopgeDpX9Tql2djQAHqK5KSoLmDmiELlhAY0AUZsT80qooImls9-xCLtRyTmn58SrU3S5V1ewyocq7qMH-GyweGOAOnfjlLIUd4wuaLihVXYxUW7c6aMQYYwJ_j117L3fvZV3m-RLrkwLNMAHl8vzP0c44S0FQccAFPY8_RvXObZ4VXsnghhpPKwIId5VxEJae4dWgtN-fp79oR0GboGrTL4",
+      "width": 4032
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113232220441723719657\">Max Wiley</a>"
+      ],
+      "photo_reference": "ATKogpdX9h6Sf7DqeG3b0wCcyMPpg_bcfH8OB10dspRrI7hMgQhi_HJVnHOYsc4gzN4XW32VqiHWR0dCihmcb_RO5e-dh-CaYYsr74MNJA2l5njv4-aqwHc7iBaoZSeSW8BjGcjcgBzUxurOOIpbwlFUIKjVWmxsxJyqJtmeRn1p_otV1Mm7nr5cGjIv7pFyP-G1VRHCSIUAA75ZckxziTODI1XMkiDFcXTyMNgm9-LTudbxv03vkv6CYds7hB8IMZZs56Js9pOHEdbia565u8asHYiSSM0DLee1jZp_PSqwYshNoFw9o0MQ7bCV24zng4wEOYHiBeRQwNa7el1_Stpvb31_VbU2cfHKiYl_43dxxzIwUk7gNhXiyu-yFMIvgK4zFmADhlBbWvVGk81zbTaAHt8eGMF0_7HtRpXLXqv0HxLbpw",
+      "width": 3072
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114870547795315215397\">James Goerke</a>"
+      ],
+      "photo_reference": "ATKogpcOF52iGzyDVOu1115_3d_-zqgDXam4HUcDPFESzY5ANqWZP9i-7pKOVk2vYwV5tFk3F60aavBB5RAu3zO2-PYN_d72n0QnG-Z1X7uZg_x_82L9D-Q6Uts4uiqiDq3zvJghh93qwE9ryC6PYwbQZMbh_cV0nppuBG9EhWWxLMik9hNmJ6HhjPgYGOdaIBKkhnysQ4sf0Ne7WStGGFgSDQxiG-1oG_4dduMds7JshoSYWjuydZMyGhMBMVtJq_mEnMWRY0VVBfbBWrizEKYe0f5tS2bCh0GgAKG5LXhNU4Z7Uxion5KE6Mlf38zRg98iufX0jFhIo9uixQYECjW2XnMMJkHEe7NbCQIzdw77D8ajoxWxUDoN8IDwatawsQQviihSEpV4e6WfOcnhaR3P03ilGWbDbFMa2R_vcafEE3GbPLvc",
+      "width": 4032
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105052758407334624644\">Lisa &amp; Wes Williams</a>"
+      ],
+      "photo_reference": "ATKogpc2FNgI6bDejESblx6QYR7mSGZ4GHtqBjqpgl8xdx2EmO_Va4XMYoyAkdADPSyg9pLe2YPgC4wjW6pjkifr1MwMk0TLHKz8iE5yS1LSdzfs52z24IAmtQNaFqWJC_e6ltCfFuq7FPtDvFz1REYrJMdetYGUeiVzhVVZRCAxerlaKA1db6qJZQl8EYeeao6XEynmtbp577P7ngly0lcfD2yelOqL0zvEo1L97rb2jndThJCg1A3mwDiIvMY27SL4h3KVeFOLDKT75WKrUBnsuw_0CELNwPf7RemAl3qolGgaoDF5MpkdZvwqp-cScvCOPWtisc7i1AF24El10Teef7NkS7oIkbIhBy-IwI6oue_O88VBeyxUZJvkB7ZR6I-nj_h-Mec_T8QolqxIpkq1jygO1vDSs6rbo-paph3tByRv3yp-",
+      "width": 4000
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113041541612994130304\">Roann Lara</a>"
+      ],
+      "photo_reference": "ATKogpdoSbaa1klLmXhLIoK0X9ulRPf2XdF8TShC5Mih05G1C1tlsQPKO-m_Uwy5QUspo2oQ_HK7HpJTWVl6R97IT3gFfh_v2yVekMeEnwn9v0PcIXOL4GY_AULoU_P3zXOSKxgVZ11hd3K_wynuLubFuY5HkG5ulihbeWCxSCU9o0XNyeKqHwpQEiDc6NsoN1i0jrAB5EN7hOHqWMayP6R_j8S38PtUY7jilDN4wCdpwL19ROf19QT9Zb7gCtYSEQE0kzW01Bq48SayIdZHEHNu-4q4lnJJXeZajIMiZdxZWGMpa98WSsOzF6kVVb-2pR83wKaGjJ4_FrrXqu1fHwG3VAiHKf7Ig_CV3Dd9gSVq-QehvpTEulKL4hzemkNY3DuxVUG0aluLBfUtzsBMQLwPkYv2ChjSIeA2pHF3ii5OgM6VoA",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJ03gwMXTkrIkRs6xXvLt8Yj4",
+  "plus_code": {
+    "compound_code": "233X+H9 Durham, NC, USA",
+    "global_code": "8783233X+H9"
+  },
+  "price_level": 1,
+  "rating": 4.7,
+  "reference": "ChIJ03gwMXTkrIkRs6xXvLt8Yj4",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Max Wiley",
+      "author_url": "https://www.google.com/maps/contrib/113232220441723719657/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX_OJfFy_crqm5tgA70-YHeWpY0lIw__ZUxfADf4XD2WpKE3X8=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Oh my days! I was headed to a brewery/burgee spot in Durham when Kings popped up on my map and the kid said he would rather try their burger. Thanks kid! Walk up counter style burger. You  cannot beat the the value of this burger in Durham. HUGE patty, thick melty cheese, plenty of toppings. Single burger of this size for under $10 is hard to find these days. (Great for hungry kids) Next time I'll try the Philly. All they need is BEER! If you're a burger hound, this is a must stop",
+      "time": 1744922887,
+      "translated": false
+    },
+    {
+      "author_name": "Austin Dorenkamp",
+      "author_url": "https://www.google.com/maps/contrib/117563833468593956220/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWUbp-FRRUu0srAx6_vO9zNDEtC6MYzwUcIdHTpfjfTONXya_LbNA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 2,
+      "relative_time_description": "a month ago",
+      "text": "Overrated. Simple food, terrible service. Ordered two burgers, hot dog, and fries. There were only a handful of other customers and after I waited for 20 minutes and watched people who came after me get their food, I finally got a staff member to acknowledge they forgot about my order and had to re-do it. Took another 15 minutes and additional reminders to get my food while staff sat around and did nothing. They advertise shakes on the building and their Google Maps posting, yet they don't do shakes anymore. Definitely false advertising.  If you want a great shake, stop by The Milkshake Factory instead down the street at the American Tobacco Campus.",
+      "time": 1747523987,
+      "translated": false
+    },
+    {
+      "author_name": "Cj Brown",
+      "author_url": "https://www.google.com/maps/contrib/107523850667740785035/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJiwUf8B90KPQ4pdivBK1VdhcE5kBZ43l0ZGE-wtlYvDBR0HRg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "I came here because someone told me it was the best burger in NC. I can't go as far as to say that but it was a pretty perfect Burger. Big and the ingredients taste great. The meat is well seasoned. The burger is juicy. The house sauce taste great.The fries are firm and well seasoned. I have nothing negative to say. I'll have to come back and try the Phillysteak. 10/10 would reccomend. Definitely the best burger in Durham at least.",
+      "time": 1750278797,
+      "translated": false
+    },
+    {
+      "author_name": "Daniel Perry",
+      "author_url": "https://www.google.com/maps/contrib/106586543739831706107/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU9hgsoF9pj1w93-xCOTcy0wAcjvqcZVEujh9LeoRSXea7zVw8=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Simple and awesome. One of the last OG spots in the neighborhood. Also the only place left in town where you can order a red hot dog. If you know, you know.",
+      "time": 1739829160,
+      "translated": false
+    },
+    {
+      "author_name": "Worlds Apartt",
+      "author_url": "https://www.google.com/maps/contrib/111521229767791318155/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUJmoDiPWCbj6psnk089lsK4ouIt4--AHUX5f8x_VTRNNigmzSYqA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "Been to this place twice and ordered the chicken Philly. You can't really beat the price in this area. The food was quite good and the employees were kind. If your looking for a decent bite to eat, don't pass this up.",
+      "time": 1748998103,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "food",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=4495292523829767347",
+  "user_ratings_total": 600,
+  "utc_offset": -240,
+  "vicinity": "701 Foster St, Durham",
+  "website": "https://kingssandwichshop.com/index.html",
+  "wheelchair_accessible_entrance": true
+}

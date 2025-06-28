@@ -1,0 +1,453 @@
+{
+  "address_components": [
+    {
+      "long_name": "82-80",
+      "short_name": "82-80",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Broadway",
+      "short_name": "Broadway",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Elmhurst",
+      "short_name": "Elmhurst",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11373",
+      "short_name": "11373",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">82-80 Broadway</span>, <span class=\"locality\">Elmhurst</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11373</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "An extensive menu of causal Japanese udon, donburi, & sushi in a modern, industrial dining room."
+  },
+  "formatted_address": "82-80 Broadway, Elmhurst, NY 11373, USA",
+  "formatted_phone_number": "(718) 779-8280",
+  "geometry": {
+    "location": {
+      "lat": 40.7411913,
+      "lng": -73.8813926
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.74257738029149,
+        "lng": -73.8799254197085
+      },
+      "southwest": {
+        "lat": 40.7398794197085,
+        "lng": -73.8826233802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-779-8280",
+  "name": "Akino",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106119741715819873611\">Han Thu</a>"
+      ],
+      "photo_reference": "ATKogpdPjDj9XynwojHBRstwGMXBLlalfihlEIntGeBZWjQvCh8liLWmRp2cCeP7Rt2z0xTFtidW-1nzSpIHtFsC9TrM0tR4oZaxgOvee3hpWpuck7wO5pfcmLV75V1DQBIsByHw89qM6nViG14cGAewklrfZHZF21WkFGnNMKOEw4JeMHvnW2F4uizhO21utdl8gCTMJUR4ySZBVATWNs0lQ18HPYVDVkfcKcLBT1fymplN0h0HxaVJJ-5mxzIsKSX4WwJNwyNkmKi8YryDE7aI0IiXcjwf_iRLMpaMzZy9hjFCmWUwCCY9enZ12WYz-cRZW4tnXed6fW1Q8rOmFTzsK4AZp1w0LgyWDvsbt-7T9cRRQ17PIcAdSyHjnY7kYUcTA0WD4szpm_uVHm-52dq4fbcSElgLKyNcyGkx2S0qJGXpslQ",
+      "width": 4032
+    },
+    {
+      "height": 750,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102034561832410557527\">Akino</a>"
+      ],
+      "photo_reference": "ATKogpfnsMaRxbEb1x4x0j4Z5fITQy8GcaUrNvpx_qwg-m0kPMZVao5JUqbxfjrw7h_mqHZIndKKCMUyBcbty5hah2POR2RxnY4637MOdpmivBEGKFrbKOxMlGQQ7niINKj5kt91XSSeuHzV2aBpuRWyuB4HtBWCGTA2244lMSYurpUvzBH3lmH4wMkWEj3-gBPJHytE0WEtWcyBjcgcWfZywtSITwTSB25-GNPbfEW3BC1BUHepqrlrnlFFvuTBftox4IIxZtnNKg3USCwXOb6rht2eeIZu92no6pAkjw3oK942Jg",
+      "width": 1000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117230414971690881493\">Tashi Norbu</a>"
+      ],
+      "photo_reference": "ATKogpdFhs4R3X0Dzw_knfIzqZ3CrjfsBQ9Z3UW8Fx-voRHw0tDb31TTtUJYc2YJ65SozXcZNkYtHKENBisfg5WunEh0Xj1K0mFQ0H5JLt3C1-tR6PYGeJgCWibEKyKzvUPyLqYgrwsNC3si4oz4W5C6cFGxFlI5WjUqSg3LmY7IoqwHzKZ9PwtV_P_b2nRz10izexLBOfuEGRUNho5TUsR5IdXYzOayGP8-1w-v6bZYxkftzFIyfCoDa8Eu797zHZbOzJA0j3CCTKgnxLIMMVYDHmldTHoc2mhdJFvKzUcEJOoS4ayD686fjMSua0rNWAu0mBix3LoFlNRl66di0wmrg0kB-9VX92D5VKqFuZHz-lhZeZaz98SdAGYRtkanat4BGe5faPFmryp-oPE9LjU_eWCKcvLOehAXUN1K2FCDdHHwDVFB",
+      "width": 3024
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107156480493865660091\">Howard Stark</a>"
+      ],
+      "photo_reference": "ATKogpeARUudrOQQWHvB-DVdA0t7W63WlfYginnxih_fS5XvuZZSDtOrCKeulpuBD7L_TjEnjRC8kPtGgA56XAUFeh8ZcKWM9nHNfEaZ4qd9RS11NKYqhv5BcgcS8wO9zgBAxkzgIjnH6hRe8sMdZP2pqO0krJEbf7CM4SnvAFY1HjFhDVnr662ltONB7Ydk01HbrlU1aVZzm4-jG50LNYHMW3PnR9nytiT3n7aduwTxvC_0VBEyE7uMCApxnBkBQ7FWa8GNDR4QlTTOPU6mtZut1-HgBU2k-tv5KT2sWp8q_7WCw1mOYCE-xJruGVAi_KAxdrNTb6EJsYJZ0A7bdoOtNcx8Vbx5ekSZN3WSzkp68kTBJys2pH5umd6qR3mDNm7JeQkAiGl_ds9wwUvbMojiWyywuxzu_YVeZh4lJBVj8ac0Bg",
+      "width": 4800
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105491962620880850405\">V Hok</a>"
+      ],
+      "photo_reference": "ATKogpe3rLfb20IZJuR68qX53AYxrbANlhYYxPv4EBOws0XdLdahcAnxrVQ_PZn8sITxsRX193kgNii4ehXaDL5P1Y_DXTRggwLGnEGBNWBOYU8ULsnaQrvyzdS5N3_uJnBif8Uf_3T0KAyMTGogw1AIouFhwOeo4HV-c1wvboO9pkLI1WX1GJf4Vn1Rqane9V3SQ3VUOX4K_4xxVlCidU1wGvA-5v0cnHoyZDKNi3Og9gHnz4YrMHsCqNCbCAnH8VuZfajqSaBr6iueqoEdFXFgfxjO3oZ8h6dTrOmv3FxhbqX0hFxRw35TmRR0hF-DrZay1BaIeNUtTb-vv5rtaU4UDRlrRjZYZ-tMx_mY67kRy13m0xahcZa9FLXZ1WWiwzHBb3GUESjNmvFjW2TnWvCWqPUj0JRUmn7mnxTLEG2oSKMha47i65_BU-Uz-7vsRePU",
+      "width": 4000
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103476685048711323467\">Nicholas Yeung</a>"
+      ],
+      "photo_reference": "ATKogpdMb9ExQGMq1D9vSxEeaOsdFTCzGpwEKuPJexNSpP1m9r65-udmT7OY8bwXsCZxiwNixkobmqfmbTHOKjZQHfqQ7NmbvNR7DMeY_4BmYnDCl9teRCit5NghSvhIDLwNw0rnGWOvIvkKap203OsXd8n5uFnxmhyWMdDJc6QwrSscC-aOeCtArQZf6S2n0xPdLSG5-wZ0cgy0dnsS1rROCF4_NZDW8LLzI9ZKSHoqftqpTLZ05qLEHU4fXRZqxe5hmZ6HGUMqGI08DSna9Adq_Hpd5fU0erf-9a9qevtDkdaepdHojy1A9deRbiwkqalitA23RM_xz1QoMNHcnAe0CmntwbILBuRl1K2HiaOHAHilK_jwJKYPKqxhkp4WYoSO2aZ8pkk7fF3b9wQhXBASwda3yJa1jDVIKthfeEw6_mlT9Ave",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106993724562760837895\">ench4rm</a>"
+      ],
+      "photo_reference": "ATKogpfj_lhzRdUsf3nevbIzqgN42Ht9J5dh1-31-VvhtHB99uQVhwNa1WzcOW5b7aISUTIaPg-a9z_ytt9QhdfNGHxvF_SZa9nrV89rPuVZ2CBWXocL8cifmJ42wqqIMTU-UnROxREE3WRyti-sDFGcPurH8-BbVmRhQzo93lAOEqkhUZJsEJ0VXgATP0Jepwj2GT5ByibKkhNPS7aL5ZbzaYXDbkIwFtCe0f99WFChhuThw29n-TqRDI-ZC8x0_bzdLy1Gxirzi64XoyISwg7s5fBoiMXthiu9PdzWtQ0KnXJsfbQKhFI8U3zQgCadZI39uJ0Up-3J4Sgb9OPq1eELF6Jltj7PdsHXW_SD2DPL-VpmUK6TRrPuog_KIunLKt1_afFngsFM4BuIRgxMP_VMbI5ZnuiamTFUrUP_rGfF3JGs9UbD",
+      "width": 3024
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105491962620880850405\">V Hok</a>"
+      ],
+      "photo_reference": "ATKogpcsNOZ9CIz2USplNd1yjeoTvPXn1PVBggyvZqTjlcVnfnDsR3RbUDZY6dlTKckAQ6sACcEoNZGnqY5gVvS31DyQki62URmES54r0s_OE4JyJ9TDdr2D2dxFlzC9ATX7vBQxG9Gu6v_xitDyFugC07BLhglE9fGRmJcVUfTVJ-Ivj6Kp_9WCZz8WqYL-huQfDQPsXIYgRXnIApWRIlVqv9K2n5c0DVXgmTdp4l8Y8Z596ac5BuzJifw119Xh9L_GHmp_RpPfvoXMZd51I7afWozVNqM2TfyppDQZUV0uB3uf61yGgmNGxiBixUW1F5lZNjzCabKajSr31ZN12lV3avrFz6SY-Dh9JNatbdNOx1VDiaMnhbrrO61fm2ZXC1Aw8K4pK-MloEwHJN45M3VmVbqcQMnWTHwAGLBNgxozcRUHhbQL7x4ugvdB04NhOu1X",
+      "width": 3000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110443016271217473737\">Fiona</a>"
+      ],
+      "photo_reference": "ATKogpeZbtbDo9k-p7V2Yhg6NScy0EVV-l_Lix2TtA2LNluZ6tUDP3SISAZNJR-1_iKAFKptCe-XdEw9KXBhSunmv2ZFN99LKLOwwV1zVZdhWqkmDnzKzmXN7V6WNu2kPhRmAFy11MCHa2Tkc-v3BkgBrR7wgC05-4-b-2__-6IsYjb55Ppngub1CrrzE9lCaQmfRVLftnQcpOdxsRkWU0R-q5YkGb_4tzqH4KsBwvM9ttutRjqeJ69StFRpOWSFvq8pFqXxqmGVeT59gcRak4v5E-lyzIrRQifRcuHxibXhHL2ea8xvhBdSiGbtguFfcddwd_9C5t-a1rOf7U3hq9fXqvBu4ULvWFAGSZNfZqTHHdyAt_esDUxL5DbWDFZzD4f9LQM85rEn7uwMxutOoBT2xWOug6LDhpX962JW8poGdAw",
+      "width": 3024
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107756063560157493099\">Yuy Buakaewy</a>"
+      ],
+      "photo_reference": "ATKogpfxU2QEgEzgzdAAFUHZ4rGKSnf8K0H6Wb9evpMXv1LPNeTiqFyC5p_AloBUTPz4rMNzy3mg1N8l5pSGvaor9zPCr-WaCuXrEqREINlBU1-7TXYTUn6D_0oLo1v_rzaBr9Av_-0OyQ7awQc1PgKMAryzvYFL0gx4nHrAG13Qn_j5UpDXjYpkABowNgxq3iq9v9zYouw4tgF5wn3VGkmV51RgGUqNDVMtIf9W1s-nBaKtNDjdp5MJqYp4yOD4TEPNJM7_u9E9op_JADfT7xCmWrpvUCHXXzXyMV35qgV_pAGlw5UT69QO4gSwsHTvjKciGUiisrmGKmYja5IYFkNk6szjQYnjCSXMZ-wxX15d0-ohfE0UxDOl10IA2m0xXirmOYGt3MZZLPjPr9nxLxqA_KIaV57o_U-S_JyzVUHjpJgtGQ",
+      "width": 4800
+    }
+  ],
+  "place_id": "ChIJc6fmxaxfwokRnKatMHUC1PA",
+  "plus_code": {
+    "compound_code": "P4R9+FC Elmhurst, Queens, NY, USA",
+    "global_code": "87G8P4R9+FC"
+  },
+  "price_level": 2,
+  "rating": 4.3,
+  "reference": "ChIJc6fmxaxfwokRnKatMHUC1PA",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Sefat Hameem",
+      "author_url": "https://www.google.com/maps/contrib/105426088058391401872/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW0ZN5qbDic1TWZ9-RIJ-qwoMpqR0ByCyaQy8NW-lGR7ag3b6II6A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "Pretty good AYCE sushi spot. Sashimi quality is pretty good for the salmon and white tuna. The price is bit on the pricier side for the location but you will find consistency which you want with sushi and sashimi for an enjoyable experience. When we went the rolls were not overly stuffed with rice. The dreaming roll was great. The size and portion of items is small but since its all you can eat, it doesn\u2019t matter. The service is pretty good. Try to go on a non busy time during the week for best experience.",
+      "time": 1748393877,
+      "translated": false
+    },
+    {
+      "author_name": "Danielle Sato",
+      "author_url": "https://www.google.com/maps/contrib/109805133016795875350/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWaeA3Z0PpphxlFbrmB1xglzl3Jiv_1fTTEl4PlxFfJkjjEiQg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "Recently came back here with my friend and honestly, you can\u2019t ask for more it\u2019s super delicious. The fish seems fresh and you can see the sushi chef\u2019s right there cutting and slicing everything. I\u2019d say the portions for the appetizers and stuff on the menu are kind of small but it makes sense. Our waiter attended us maybe once or twice but I like that since we don\u2019t have to be interrupted. Overall, it\u2019s such a nice place. I think it could be a little more affordable, but you can\u2019t really beat the price when it comes to 2025.",
+      "time": 1743064742,
+      "translated": false
+    },
+    {
+      "author_name": "Jessica Deng",
+      "author_url": "https://www.google.com/maps/contrib/108131938939792542236/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbozhrJNd86RIfBd0tXgQAQTu9TwfAwoq7F3lqs9mR8BPt9yYK7g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "I\u2019ve came here several times when Akino had the outdoor seating in the parking lot and also experienced the indoor seating. The outdoor seating was a bit uncomfortable, so glad they got rid of it.\n\nThe service has been pretty good. I\u2019ve never had an issue except for the time I found something in my water and asked for a new one. The food itself is good! I love the variety of menu items and no limit on sashimi is great.\n\nThis is one of the only two Japanese spots I go to in the area. I would recommend this spot to anyone visiting Elmhurst or craving for sushi and sashimi or even for a special occasion.",
+      "time": 1741825630,
+      "translated": false
+    },
+    {
+      "author_name": "Andy Liu",
+      "author_url": "https://www.google.com/maps/contrib/105645000485496508376/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU_If1Xc5MhKAitICq9_iO9TEIAE_tQL6BojGlB2hq6eW5W1aw0=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "3 weeks ago",
+      "text": "I had the AYCE on weekend prices ($43) and it was one of the better ACYE sushi I\u2019ve had. The sashimi is really good and they don\u2019t limit the number you can get. There\u2019s a lot of options for appetizers, and most of them are solid. Some rolls were good, but others were mid (just not my preference). The service wasn\u2019t as good - the waiters rarely came around to check for additional orders to add water.",
+      "time": 1748832006,
+      "translated": false
+    },
+    {
+      "author_name": "Tashi Norbu",
+      "author_url": "https://www.google.com/maps/contrib/117230414971690881493/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ8lbetkrn2Pw-K0-TkIVChxOWXQr8tJAf2hBtZz3nlwS5umJY=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "3 weeks ago",
+      "text": "Second time trying this place AYCE ,food come right away . Lunch special $27 is worth it you can eat what ever you like option are broad , service was good . Sushi pizza was too oily but sashimi and sushi are fire",
+      "time": 1748983450,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "food",
+    "meal_takeaway",
+    "establishment",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=17353497966516479644",
+  "user_ratings_total": 1448,
+  "utc_offset": -240,
+  "vicinity": "82-80 Broadway, Elmhurst",
+  "website": "https://www.akinonewyork.com/",
+  "wheelchair_accessible_entrance": true
+}

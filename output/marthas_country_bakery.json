@@ -1,0 +1,561 @@
+{
+  "address_components": [
+    {
+      "long_name": "36-21",
+      "short_name": "36-21",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Ditmars Boulevard",
+      "short_name": "Ditmars Blvd",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Astoria",
+      "short_name": "Astoria",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11105",
+      "short_name": "11105",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">36-21 Ditmars Blvd</span>, <span class=\"locality\">Astoria</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11105</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0000",
+          "truncated": true
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0600"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Tuesday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Wednesday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Thursday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Friday: 6:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+      "Saturday: 6:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+      "Sunday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Bakeshop with a warm vibe serving old-fashioned cakes & pastries, plus gelato & an espresso bar."
+  },
+  "formatted_address": "36-21 Ditmars Blvd, Astoria, NY 11105, USA",
+  "formatted_phone_number": "(718) 545-9737",
+  "geometry": {
+    "location": {
+      "lat": 40.7740762,
+      "lng": -73.9074464
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7753419302915,
+        "lng": -73.9061469197085
+      },
+      "southwest": {
+        "lat": 40.7726439697085,
+        "lng": -73.90884488029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-545-9737",
+  "name": "Martha's Country Bakery",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "day": 0,
+          "time": "0600"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0000"
+        },
+        "open": {
+          "day": 1,
+          "time": "0600"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "day": 2,
+          "time": "0600"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "day": 3,
+          "time": "0600"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "day": 4,
+          "time": "0600"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0100"
+        },
+        "open": {
+          "day": 5,
+          "time": "0600"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0100"
+        },
+        "open": {
+          "day": 6,
+          "time": "0600"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Tuesday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Wednesday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Thursday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Friday: 6:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+      "Saturday: 6:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+      "Sunday: 6:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112642613765449074712\">Artem Mordashov</a>"
+      ],
+      "photo_reference": "ATKogpek1feqZ3Ky8pFeCjjQJYk4-lrznvLCGzTr7NjYlQemF42ZZE2xSbI2VIgn85gIT3rX58SCOdZRFyVOKhfJ9VpI8d-W-5kws_e4GON3V4V1Me8H9zR2BpdkhOeK1PCG53fLwCDw0Tw_kXMbfC1DQtXqZHgkrmVlR5lOlB3QajjpNCdUpJDlacjprFOKTgy0LKbAWYFYvNSi5DMh6Kte1dK54q9WNnnmt2-IK5RlqwxOGTz4tLFnqS3VFLbEavhc6uiDRsPNco79yZaCqMLEhyV_2BJUDyObqcoL0rpWz8oPkeHS7WNta2xAvlc0Tz69jTdf8WZPHXoLMMQw8whI3EmOTzi_bNeppalN15NQQljHuvWqnhoBmynnDFrl8_10qpdkdWFA7gArgbiem9hQOJ_tlNmJN9Gb1PKQSYsAHIPMUKZ3",
+      "width": 4000
+    },
+    {
+      "height": 1960,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106121895596632084662\">Dzevad Muric</a>"
+      ],
+      "photo_reference": "ATKogpfKcnCYnSkt_zj7vd2MqTklo2rJnhGduw1o1yXOUJHtF6u_6i6kX0Aq2J2B6jmmVVluJeNxK5P0JZFU4FaOEIKaXB4s9TUvALTUJie-jerln4Fh2HzK1FVubwFg4Bk_yz1F9eCcFNpebUzHf76-_PyAH17vCohvmsQy_lMTSpY8Kb9XzelfFPK0lXNPUB6yJWVhLvQztlg8ONSkmbdmvFRHsODGkjuYI0-gy-l4SBTfUgspJigPlSC4M_vW1z05JFedgDa7xKVDS8D_DHfNcJKNXS15KxbgYq5fmAGPRYeisGcopKllbyiMizXCSOYw68JBGb2XKGsZpSH3ZbNTyLrfihcgUlwfwlpEZQxadX5CNwkJ8XwTrFPAnRxoKL43oPygAubVI1xKXLc4SHcgLyFrLo1u387hzW9IGCBcTR61ILOE",
+      "width": 4032
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107687681407779272991\">Sana P.</a>"
+      ],
+      "photo_reference": "ATKogpdsOWYfIBrZ18BQPOip6VVz8TevEXK-ym6wclp9jLQzIHORWE6Qu3dLt95KPi9RwkBP5s_Olyqo1SbsOQ9mSaMwODX-SvuGmduS7kIHFa0tMEx68HDKq9X6C5xXhCkjiml2_f15ZRAqKfV2ifPROlNhqLjBa7FIpR1w_t-rR4KvP6pbm_oQqZDxLxqh7KFXXyxqaEyIQKzm2qEg8hXJwhe_vR6VdOVOSCu3T8gM0bu1RGqaShfkWUok3yoyOS393B8JcLsvGa5xC6gwMQBrHJ4XEihex1MjXAAsi-3VoNzSsQlE6BLaZH70n4EXIN7bWT59v9lsFE-AEedAt-j4E1PUXAYCozGds49wlS3WCgJ-Z0nUri6IzO-nfv1PGAvR-OSBWrMC56XVxuFLuYtjN74pXs3C0dNCww_ycjGkjy3Njm2g",
+      "width": 4000
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113479852398816910142\">Cee Bee</a>"
+      ],
+      "photo_reference": "ATKogpcxR_1nPz5tYhPkSsl-2Pq7M5pYosbNbhVZxr0lfRWInp0u-VhjC5anCJOQH0k9VRMwcfdzC6Vr2_FOMcaWT_0gaPwXqxHl4DwVJC-3TK1acM6H1BVq8o7VxUTxzlpNKXVpPO-SAHuyJbaxgoPMKJ3VpN85bBSC0-GC2w8ZYKRPuF0uq6d6EXnwRJjNR1t0u6z0SzVFgtcxpPBJs-k1_f1VNIY8LXwZ_icpjcvaoDNDgpBGRFkVJTtiS5VisUCuGp7WYrWq9p--vCQZn1zVp0POhJuHio8O6LgUhi-YsMSwWUZMTAWYAd2tOPLzwiP8dTQi-Xa8LOntwcmJc65ua5HA9YF2G2Lenzpq_wULLpUg6MueUy94N1UWv_l0NCsoJ542gPVToQG_VgQ-pvE68cfGpw0OVC3TKnoy1cLuqw3yWNkR",
+      "width": 4080
+    },
+    {
+      "height": 1848,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117364800982534282113\">Peter S</a>"
+      ],
+      "photo_reference": "ATKogpdp8Y-fWz-dOA6f2gf_B8jTUNY16Y5VWxV5GI5WvVAIzGEHnEPGlT7pW32ESq2CjlgcSSzEkaGlR-QVVyGzSickfkrvgoGVwImPup_m3kuY4I9bf1oIY6ZqA63IyO7OfJ3ofwFLaWzik8z3HPnfDv-pXLEYS56Tg7VhasBu55S73ClZPSXnkq_oBfqkenHc0MGYI36pTPndyWbtULc8QnHYifjgcYjCufZ2fxLXe7bv0ZRQkQVPtoDIfessXp2gaO2HXNrc1Jj5suFHyJBM6Ee4203dMpFcp7pdtGsgfuFoaQuFzKqwBiBWx1tE2BM-7aLvNq-vU0vX4H2jCXSzyERwLmSr3Q5CYpl6eo0qpLRqvcxtgO-3M8AaV1ZsdQsHe-8yViXQntqiTDt70PnciocCImHGSUC34u1X6M7KzRvzNSt4HfASs-iJ9zevtVUu",
+      "width": 4000
+    },
+    {
+      "height": 1350,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108976169749545725585\">carlos castillo</a>"
+      ],
+      "photo_reference": "ATKogpdVm7jztspqAM7v0sAgBRJxXxRnwhyFeQOi52-NuBFVV2RTb1yQAoiXH42OFoCUd16BtEilpoitGFqf1qRwPwXOgcNFhn9eZYGt79vphtKhtSRVswqlWXqtKlFHa1l2Kjd4_obTjJqhSpyD7PJV1V1A0JKkFrSD-DCd2XNtSo_aFOV7BJE4DmSMx87FjI5zsJ1ftVvVO8LrGc3JdYbcfUGAPYTuql85Eia9dEhGuwXIaEQa9FT7Ilj_otEhS0aJDMCy150nrNw9DvaL2cic_jRG4IkiNu3p31z8KSEqS0DFRtVLohCEtyAVRkPz_XVrHKdQBUgdFkaR4wHova53ss6ItN-EVL1JZE06WH6yCjCFUQV2csqtFeGR7GCYfzT-jk5mXAsRx-QsaI1_kiKqgPVa9_IIkwwA2eEEedtnmyT9bTI",
+      "width": 1080
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101094665496870298031\">Marsha</a>"
+      ],
+      "photo_reference": "ATKogpd4kuAVj67vhj17_qim0P3wWjZm5gaMZ6PfAG_Gj9DD6_8e7zNLvN_XBRYGpClG_r8RLhndPt1Alss0pAwz2qpWsFkgI-poL-K1RIhHCW09fS3akB7Vwj58NXVhOQ86hBLeJJegXHgBAsGB6yoVTRUSLTCOKsXJjaDrNxe4JjoQPcwyf8BRiuljoZBtf8CX9Tg6j1q5LzyaJXPhzZlq5XSiocX5lmY392CX6FqPPKF0dlU3SaeR9vhLYFJOnx1TR1x9cBEMB-RyGzV2YsmNhfvuCTUpivQxanBRgPXLKXo9uo8xpXC55TdhMczla7lsh-V_nZiYyl5IO4ooNjlWJ4ZB4pJIZkzr7pHTltp6O8bGd30JfvHXqhX0IYmv1P-G_aMzPKthrW2j22g2nf1wcFsNSDea69Ga23BiHZBjC5WEjSkt",
+      "width": 3600
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114968158116465096860\">Ahmed Al-Shaer</a>"
+      ],
+      "photo_reference": "ATKogpeuUnLDcQ2kqeOZgf-b9uwKkzrgtXoNGfkfNJYECzzmFpbMcj1BKOyUdaBq_VBOuF2R8tTy48tOOuBZGCzZwTF1R0S9wYfej6G3fZv7T3tCU6Q7lTcGPaEQDiXt4_y6yyq6kDR6yf6UkRjqDM6_rVBE0kC1EmO5_hstwnpRKbXeEHGIvr2lZhNkfF-KXetUrdjJOYeYmpA4lu46Epq6luoh_EhhDKiQWI_DNyBwXb_n3_A6HrrDZ5W6HR80ZSWk7YOY8XRgGYW4y2PK3rbs2PIcR9kaXGOTAwg2bh41UrSa3K8JQHtR6FtWVD_QKqCGOF64_QiLbloebuhS9n9cDtSYJLJrNGdbk2yHzsZAj3TTe7aohdyhMwYELo_Tw9795DBgzmBYAkP6FJWb8pEG-aDQKkDknzar97im_4BRAWE",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109681699282093081887\">Terry Virdell</a>"
+      ],
+      "photo_reference": "ATKogpfUB8K5vvZbDlviYloo1hIkKEs47TouYla2ANMPFbRI016sUiK0ZcLkDv869Vno_wttQF1L7zAO9MDaX6m0L1CXWr9bC9nUM3-zNU1a5KIeiayP-1LecVCw9OVYKZ8f1LCvjaXx74UWAts3u60FgPASUylM8GeakvANqAeuMewcXgc_0GwCCqx0882JaKyYC3KG8WkZ56u4jCoMS6BOqAnr6CuyBo9VjMt_QyK-OLtTWWQ9wOZZ99FQkwc6vvCWbfaeOZf2ULTT6srIFFIJ8o9dYY9kd_6ZxL6hjvOzbN20XEPQCYLW8XvsjLRefHrizYWEWr5BcLQoTSabjW4McwXYtUOt5mUeswt9kJWX8ty4Len1EXXIk-ythCAc52eLLHeDroRhpmRvjdu5E0GGNlHD1xM0LrUm3qxx9oJC7-Leqq2n",
+      "width": 4032
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117204645218064652091\">Saimaz Latif</a>"
+      ],
+      "photo_reference": "ATKogpf1FlVKDAoPfsSxKseKHvnmvDWhdGztwSJriU5Zv5LdXu6KbxWL7T02-blAEQSPI9TbOoHD50adQphiPGeGG2O2UJDdxWpDgvRTjlU5KAPBSJq6_5Ppp0SfwcRdtCxwXfRfO8G0BmRswtHCKXWIpLSocBZfpTXmkaiS28B5HwVm-STyU79disR4V9l-DcetmulSDOZDxBR5KJR5kfPpRMT3NCF0vzy4vPUrY8zxsdgaGEN2wyPP0tgVH659ps2D_vtUS6v74UbfTQBz_O4V0yRa6shiqbJgVti5Z0nDSZk1FQ3dsQpneOobar73p0OMNQeNfe0ec-82ySP4ofbUEPNCKOw4LdBO-XAOylDZ6QuN6QyGqBJamkkIMoHnWTespN9vX4GRPx5qMjl4z5IylgkbsfKZWA57fvnr5PcT_r8",
+      "width": 3000
+    }
+  ],
+  "place_id": "ChIJowFop2hfwokROgVQ1b2LL2I",
+  "plus_code": {
+    "compound_code": "Q3FV+J2 Astoria, Queens, NY, USA",
+    "global_code": "87G8Q3FV+J2"
+  },
+  "price_level": 2,
+  "rating": 4.5,
+  "reference": "ChIJowFop2hfwokROgVQ1b2LL2I",
+  "reviews": [
+    {
+      "author_name": "Marsha",
+      "author_url": "https://www.google.com/maps/contrib/101094665496870298031/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzL98m9H9EW1Daj5RZXIJPkJw2TvQ3IB_xpkU9fyBkXzyZDWHo=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Bulk ordered some slices to have on hand for whenever i had a sweet tooth. They\u2019re all delicious.  Cheesecake, Carrot cake and Berry Nepoleon were my faves.",
+      "time": 1743355409,
+      "translated": false
+    },
+    {
+      "author_name": "Eddy G",
+      "author_url": "https://www.google.com/maps/contrib/109767325773806299211/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZj6W7XG4-rNFmOrGaap4oZXNju5nQLdy6IXx5fMaWK8I4H4Io=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Really cute little spot to grab a sweet baked good. I highly recommend their large selection of cakes (specifically the cheesecakes). Can\u2019t go wrong.\n\nTo be wary, though. On holiday weekends or special occasions, it might be really packed and hectic in this tiny shop.",
+      "time": 1743187942,
+      "translated": false
+    },
+    {
+      "author_name": "Luke Azevedo",
+      "author_url": "https://www.google.com/maps/contrib/102209014199031113707/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWRSkFZ0KWcUKFE9uGzlRzyW9--12yj16GM0Agkf6beQCXDKUv_=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "04/21/25\nEverything is incredible. Tried Ekmek here for the first time it was delicious, you can\u2019t go wrong with anything",
+      "time": 1745291080,
+      "translated": false
+    },
+    {
+      "author_name": "Stephanie Sutherlin",
+      "author_url": "https://www.google.com/maps/contrib/101380731778680826075/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWPJ_ZLaG--EgqNVSYL1o_5sIAtj_QUXInp3FGNIqt0nSzzma5tsQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Everything here is delicious. The coffee is fantastic and all the girls are so sweet and accommodating. I wish I lived in Astoria so I could come here every day!",
+      "time": 1745785711,
+      "translated": false
+    },
+    {
+      "author_name": "Vivs O",
+      "author_url": "https://www.google.com/maps/contrib/102925785606322178902/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUkeV0C1Mn4XehiAMcvZmPd_pwEW8xTxWzKTXfos7bgG39WZeY=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "Everything was outstandingly delicious as always. They always deliver! Fresh, delicious, addictive pastries. They are always number \ud83e\udd47in my heart. Must come to place if in area for dessert or craving something sweet.",
+      "time": 1733438519,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "2330"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "2230"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "2230"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2230"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2230"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2330"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "0700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "2330"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "0700"
+          }
+        }
+      ],
+      "type": "TAKEOUT",
+      "weekday_text": [
+        "Monday: 7:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+        "Tuesday: 7:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+        "Wednesday: 7:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+        "Thursday: 7:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+        "Friday: 7:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+        "Saturday: 7:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+        "Sunday: 7:00\u202fAM\u2009\u2013\u200911:30\u202fPM"
+      ]
+    }
+  ],
+  "serves_breakfast": true,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "food",
+    "bakery",
+    "store"
+  ],
+  "url": "https://maps.google.com/?cid=7075027187066209594",
+  "user_ratings_total": 4243,
+  "utc_offset": -240,
+  "vicinity": "36-21 Ditmars Blvd, Astoria",
+  "website": "http://www.marthascountrybakery.com/",
+  "wheelchair_accessible_entrance": true
+}

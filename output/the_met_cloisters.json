@@ -1,0 +1,418 @@
+{
+  "address_components": [
+    {
+      "long_name": "99",
+      "short_name": "99",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Margaret Corbin Drive",
+      "short_name": "Margaret Corbin Dr",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10040",
+      "short_name": "10040",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">99 Margaret Corbin Dr</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10040</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Tuesday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Wednesday: Closed",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
+    ]
+  },
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Branch of the Metropolitan, showcasing medieval art in a French monastery overlooking the Hudson."
+  },
+  "formatted_address": "99 Margaret Corbin Dr, New York, NY 10040, USA",
+  "formatted_phone_number": "(212) 923-3700",
+  "geometry": {
+    "location": {
+      "lat": 40.8648628,
+      "lng": -73.9317274
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.8657879802915,
+        "lng": -73.92727099999999
+      },
+      "southwest": {
+        "lat": 40.8630900197085,
+        "lng": -73.93255599999999
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+  "icon_background_color": "#13B5C7",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+  "international_phone_number": "+1 212-923-3700",
+  "name": "The Met Cloisters",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1700"
+        },
+        "open": {
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1700"
+        },
+        "open": {
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1700"
+        },
+        "open": {
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1700"
+        },
+        "open": {
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1700"
+        },
+        "open": {
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1700"
+        },
+        "open": {
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Tuesday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Wednesday: Closed",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102540241373904624176\">Matthew Wagner</a>"
+      ],
+      "photo_reference": "ATKogpf1qKZQE-2BrOTQTY8XMcGReWXnM4OZjKR6Cy5cUS3ZKlRorUJq74jPmz1qXIVdkcro6xT6_f1BDeGRjGtgQFjeaw1Sas_75ngRdGPE-MU7uCqsBoIikDu3qPp8HKNGYpIm6wEQs5U8F9bBg1IdDn4arWUJdxXPxXHi9LoGq1sGUq9KRCunNZB-AihJDc9UAjeI7sEtvFuU5X62Gwlb7F5hwQZeSCdn-OHifF3bTjEw4ULcaODhikTmRSVXPVNGQ71s58MydGlXwdgGKnjk47FDVqtnlxteBz0U1as2CGOcsDTPnauw3CzJ6svpyhHxK5f8aSvYs9GU70iN_7P5dPdQCdbVEm3f5vLWWkhenKX9RbDDKxHMyKWjltGIN6Qa4xaF-UiVTE4nWV7cvVTNRQKVqWXG2MUq76p4omwjDzjT40Qw",
+      "width": 4032
+    },
+    {
+      "height": 599,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101187299104322333428\">YanisGMK</a>"
+      ],
+      "photo_reference": "ATKogpfL9HJQNuy8GqlajOTVEmMbowEufBMLhklg2g9s91FtjDKbR-A5zyQEmHXXR7KaJ303z-Vhhk9J9z21rL1PoUBSsl3pWRWQCtffXi1ds5H-BaZIaHxOD_hwmCYtxxG3-b-YXyjx1dZTx_ADZz-awPnJxBKjHk0QEMwEnuDVyC-FzsqvfTPq64pCvljS5bE1YdQiKv7OmYx7efiieDHsYbwLJpH69syloKbx8Sz-qDBhWfMqVt94eV9hag5y9t3YkEd8wzG_mcyTSBYmF4du_2PyvA3LuG-X1FnNi3uZFSbnZz7YtKpEloDdoQC6SlvlfkEbwa6vUl0qhLt46wW4rZ9gAKvqETIr2P6nsdWmVfj7c6VVCllUK5TnXEaQ3-QOugaRQ1hx7Nio5hDMY2BgKOpDczB5YUWUIOKQkowVvBUkbw",
+      "width": 828
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100397839517225828133\">Andrew Ta</a>"
+      ],
+      "photo_reference": "ATKogpeSTVl2iHbPOeUdIQOEtXtfQ7HsHrncN1cLjcmWojeR378VfRqeqdC_CTAT_yE84ONn9NpFoT3MqnAk-X0lNQUwFkbAc9MLy96AAne0vBQGc8FWjpfWvDh0Wy6hqpllY1clsVumC0LQpAku09FL0xZV-c9UqxxF4YeK-8iRg0Hkxm_AcwOSRaRUyWuFWHjL5ejCUIF0HpwyL3X8HA82gTtHqBruvata8AwzFwqIn08CNHOLe1FaHxrYWPEfwwmFfWi4kG2s0iiM-zrXAnTsMP6shA_EzBRI3s2j82x8m77WG_W2rwhpD_ix1xkbuBniZ1P1Nr_p0SjacGUFWtt-uQGkQU_7wVNDRRd_pKrMkiNm8cPNhG86ctDlChUQHerTLIygr_BbuzLDczFT68sxPPKYtB1FUhKgQN0cnAgiEG6Sfrx9",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105083351288919588433\">Eric Wong</a>"
+      ],
+      "photo_reference": "ATKogpfc9Veq-z98du98iTs-WrqciSVQVozv8QxNXr8__TGjzDcb0XCnhO5lnxu3TfWxkBGhGnxGZOHAvdKa6OxZQQ3DYOoP0LYU9o_Qu4SpWAEy0pwx0DILIK3qm1JIGvcnoe7uSblUIMVdNOxZdMvyxv5CKE5S4wDcOqm-JP1NuUHVgeWNe_g0ghKDgDifDX42vv3XlAqWs_V_yRLEKI-odWlMrDBCMVqPzEsxWodQS5Zd7pJo4IX6ZMF1TEOs-19FcKK-N_nWwIL97lVtUB0KIM0WxuyfGY9nwoMu1rWcYMDMFiPLd_Kxe6GFpuEsMDeL6gp3G2VLg9ugRyJ0WeFbPNCaGXCQwUklYCHI-7Ov_nE60O4-GsruFmgn1u26sN0VeamT0Doqk7JgC83knixtae0nc_wjXeJjf7EyWJK-Iy1Qfw",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108585025234485852384\">David Herszenson</a>"
+      ],
+      "photo_reference": "ATKogpdVNodHh8n-0rwyqAauQwL-iP6LRUXfCAl3z2vm6jANcV3GLMAwdS4dlEOoivsdozKeWW6fFJ2qbQ8-0WwjaBFB6elRS8tjHswIQs0YtuIhKpsdgcyHTiwYgY1DqgGv2gVmnWuUeEo__zUW0jFfdZ5RJqaWLDuFvHNtj6D_YXgjo7qETbiO252-9I2jw8jF0eYLYlw0f047SHQHlFTqmp-QxmcTZCrwUjkJxrDr5tayDAb8hSQLRm01gBZujeGJF_wxwm3uYgfCahxtCqPAeJcnWEHiTy8N2TtYQIIN-R3qvVFXCVqzZVnPjzI81ndmzy_KPzl7QE4V4WSpH0y8siBxnPmRI4Ouey0U2kLBAC4wyH1RbTQ3MMG-a5qtPK_iJa7wv-VVKT9RZ_giFWuA2rSGjmDG60uPBOP-krOOYVAIdwLC",
+      "width": 4032
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117449415496853677264\">Vijay Thota</a>"
+      ],
+      "photo_reference": "ATKogpc3yZZKiel1V6bLqgyOzuiMIUfhkvpTWdtOrXAPWFYRgfjD6rwQEYqz7kknAqJY3Jwe0yVe6uW5l-xXTllZ2ZMw0HRBuEP5Eg2_VOki-0hnma2s1o27fnS4lsIsPKUBQPWhz9ywSnLpc6EIXmxsNd6exUm4VOTp1LWC2DltbMawQMh6UiuO0BrF5cVLJGuhDI696NJ9u0fgw2BK0zJtzWn_jPcgF6BDB8lQoHwWy-wQ5tb2kzu0NgGKeDM4EkQ9cECNDaD4H8cSdzRk_XE83WjTLkhGZRZW3lOOclm0UQbcYdgZ-clCzE60qF5qC8U4e73SFlDUj-dqaQZXunLKUBFhPMbGow-WYdHTmgemrKffs4RpYynULVCmkh9i4CCRiz05DDyvPUKdjk3II2ZH5hGDknNIiQUXnrO4-ifTft4qUw",
+      "width": 4800
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108041956073425604693\">Garrett P</a>"
+      ],
+      "photo_reference": "ATKogpc2giJI8HLwUFQeiY7lfECrc7IRsPZmcfPy82_7QJX-BH_qemP_TRxN-FYZuGFVER1JXeDCzfTAhpeQnnk6gTL_-nNyK_iBTvlLsH_MFjomRTgfdAIFpb8zHltLDsPq9-l3Jv86P93eMzDtqtl8DPZXF3xcXPvKyCWX97yzCYB-Koh0uw0YpXItv7OqlwHn0v8vvUFuejUMqCpsZzgspq2GxRJiorX81Yob3LyJfIJgbW9hjn--cqe0sn9yEgeAf0dT4ZxkH3lLLHnndWO-EzARnvlget5GABtm_ESU9U59u_o7iRGn3xl36z5WqQSphrsPO3qrWCTAJh__Nc_s5rq5s2A4N469cqEU1hJZPmwRPXCJKdsicfijXCwR4EdDTxYFKsQTcdeyAHpJ4XbPEHcv29L3cmJc51UpXGxMR00LZvc",
+      "width": 4032
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103373172827674437872\">Valley Kadens</a>"
+      ],
+      "photo_reference": "ATKogpe5wLrwtx6o7mYHIPvE-KO7Q0DdJHB_TIs6A8Fojv4uLuvWjHmJ6L0q4kTK0pShBrxNVZnKlqifqcbvWVs5foEF9hChrbCtX5dkzBoXmGXGTUGAemFyYBKIdCDfouStK42RmLAl-3U6Kc3OD-HULLdBLjbuQFl6e9Or_XBX9RBN5cuAwWfVocMnZVP5Pd8VpPlyqpIuup1V5iOb3d-z1esP9e6P6he2Ow2yg782mRM4unE52CDj58Uh-5ILh2-QismnykPMRxQFoCxvsyM7vjX9fcQBltUQu9tosW8rJ3pEBrPvAHtXVMRd5d1hj8adTyJ_JzhF2yU8LLEKuEiyGV2TpUPTNwHaWjmITxc24NgOJOZKGLqMxNDpclMafDT7NhNL1WztoTUptm59W0vXhh0FzRMTMBZMV42-brDl6TtbRYqE",
+      "width": 4000
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117268049427195277728\">Piotr Biedacha</a>"
+      ],
+      "photo_reference": "ATKogpcmV9k8kEzaFUUBKOC7zXnf8DZgWJdd-h1g_GJhhTCzFmFRx9Nv-coJaVza35fZkpY2LWptoN5xVyJoHAWeuqC1dLloRybbaifpYUkurvPEQBPV5_P48wqrvURiltWXwps__HlcGNXSpg5zTqe13gYj10HWzCLqF7oPszfqqTaBejEm-Zc9GcL1a1C1EGi4RaGi6sdZj9ZSKaq4q2HJ8JWhLZa0IvRD5yBFe-9oVsLydgJIJWQPxnycQvnfrrPdtCQzg6KAB3mILslM5RQX-C7vvJI--cZGT03V70Gp9VzBP86NX4XFY-swTKB1KMA_vGLRZu4xrxGsApxPOCyr3zN9OuNO_o0xmeQRVCPEEUWMrIOQq3uJdUMh-VR8z8awgWnotxRWpFkOEU8yvSvYa_1btpRx_jjBw-I4orFV8vnRuH5R",
+      "width": 3000
+    },
+    {
+      "height": 4451,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106941358220050045543\">Sol Pi</a>"
+      ],
+      "photo_reference": "ATKogpeSYB-aGNvU380kVtzycbEaktAkEdOfnhjOIlPEfsaGIpwtduET4qYADZAaTQfkC12HqwGkJ_SFNT3IxUZMZLLOxnk_F_a7yQPqKgsPf6LSNUlFuNs-3eSQBijUTxbWFWQp5NIuem1dQFImfjolAomdtgJKV2ZPnQjfjnxTepQFKsrVuVGah-DRifVpAaVsz3Ar69wfKWhnRNvqam2IDhdqzN2PLWw2vgSa4fntONITRoLruZAclBp-jMdkHX8QkEbFtsmE3SS50f3jdsd8FRmWMb0i0wCEvF1Lhswy_fNCth1u1VbQi8H3tEdzpj5C0djxi-WRF7onDV0hjce0FyH8BBo9vStSgW9uf7tq4CM5c3pqCXQKKEi1LAahXAsOYDMZWwIPyQWK34E-jCJXSeIp_QO6dYbq6XV7PGlJnhIJ-A6l",
+      "width": 2968
+    }
+  ],
+  "place_id": "ChIJK6bycAH0wokRrSnflfrnkZE",
+  "plus_code": {
+    "compound_code": "V379+W8 New York, NY, USA",
+    "global_code": "87G8V379+W8"
+  },
+  "rating": 4.8,
+  "reference": "ChIJK6bycAH0wokRrSnflfrnkZE",
+  "reviews": [
+    {
+      "author_name": "Paula Moirano",
+      "author_url": "https://www.google.com/maps/contrib/115979103205541625155/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_dSlIw6RcOsHptNPSFgswCvQ1QL9HkIw3uo1SMwkzg1IL4IeU=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Amazing place unlike any other in the city. The displayed art is well curated, tastefully displayed and the information on it plenty. The unicorns different art pieces are so beautiful you\u2019ll spend a lot of time admiring it.\nI was not too busy and I had a great time admiring the gardens, spring is the ideal time to get to admire all the flowers.\nIt is a good opportunity to take a bus in the city and ride all the way up North and get to know Harlem too.\nOn the way back you can take the subway and have a quicker return.",
+      "time": 1746795716,
+      "translated": false
+    },
+    {
+      "author_name": "M. Ceren Arslan",
+      "author_url": "https://www.google.com/maps/contrib/103622413656343973025/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXuDslCii57TPeJ0lBMgGOIx7P6ejdulpJvICYg_iLILV43Jxfc=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "The MET Cloisters offers a chance to visit a European medieval castle without leaving NYC. Even before stepping inside, the sight of the castle-like museum makes you feel as if you're in a distant medieval town. This is no coincidence\u2014many architectural elements, including wooden doors, stained glass, and reliefs, were brought from Europe and incorporated into the structure. There's also a terrace with a beautiful view of the Hudson River that shouldn\u2019t be missed. The famous Unicorn Tapestry is fascinating in its detail. The place is filled with tranquility and feels like a magical escape, far removed from the city.",
+      "time": 1748887317,
+      "translated": false
+    },
+    {
+      "author_name": "Forum Shah",
+      "author_url": "https://www.google.com/maps/contrib/113940542867475468631/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXnoCnsYMpnCLA2qI3rAiZ0Rk6uLimyBgc4vFBSR5vOEcLVC49v5Q=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "4 weeks ago",
+      "text": "I love this museum. It\u2019s so pretty and has a natural flow of showing art. It\u2019s built to replicate a medieval era cloister which enhances the whole experience.  They have gorgeous gardens there and the art is mixed with paintings, tapestry, and artifacts. I really like the water views from the Cloisters. It can be a bit difficult to get to but I do think it\u2019s worth it especially during warmer days.",
+      "time": 1748664541,
+      "translated": false
+    },
+    {
+      "author_name": "E T",
+      "author_url": "https://www.google.com/maps/contrib/100817671353395745654/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJfeeICARMw_3pq7D1K5BsgeBSM6WQDwSEltB3KlPK0OzgxDw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "A gorgeous museum focusing on European medieval art housed in a castle! It has ~3 small courtyard gardens; the main courtyard garden\u2019s flowers are in bloom! Worth a visit just to see the flowers, they are uniquely beautiful. Getting to the museum building itself is a bit of a hike, but the view along the way is nice. Right behind it is Fort Tryon Park, which also has nice walking paths. It is about 45-50 minutes by subway from downtown Manhattan.",
+      "time": 1745357510,
+      "translated": false
+    },
+    {
+      "author_name": "Angie Cruz",
+      "author_url": "https://www.google.com/maps/contrib/105981806284698706431/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJEyEvlH7zrnbsMTh0fFdTnPABcyixXMpq0dDgcIWmGYOts-AR=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Lovely place! Great to visits with friends, family and specially with kids!\nYou can walk around, sit down and just relax. Great place for photos, great if it\u2019s raining too. Be ready to go upstairs and downstairs, specially when coming with a stroller. The gift store is cute too.",
+      "time": 1749964301,
+      "translated": false
+    }
+  ],
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "museum",
+    "tourist_attraction"
+  ],
+  "url": "https://maps.google.com/?cid=10489420070564866477",
+  "user_ratings_total": 8060,
+  "utc_offset": -240,
+  "vicinity": "99 Margaret Corbin Dr, New York",
+  "website": "https://www.metmuseum.org/plan-your-visit/met-cloisters",
+  "wheelchair_accessible_entrance": true
+}

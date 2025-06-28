@@ -1,0 +1,429 @@
+{
+  "address_components": [
+    {
+      "long_name": "45-04",
+      "short_name": "45-04",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "162nd Street",
+      "short_name": "162nd St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Flushing",
+      "short_name": "Flushing",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11358",
+      "short_name": "11358",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">45-04 162nd St</span>, <span class=\"locality\">Flushing</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11358</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: Closed"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Korean restaurant featuring noodle dishes, soups & pancakes in a little space with blond-wood decor."
+  },
+  "formatted_address": "45-04 162nd St, Flushing, NY 11358, USA",
+  "formatted_phone_number": "(718) 460-0088",
+  "geometry": {
+    "location": {
+      "lat": 40.7561475,
+      "lng": -73.8047322
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7575185302915,
+        "lng": -73.8032955697085
+      },
+      "southwest": {
+        "lat": 40.7548205697085,
+        "lng": -73.8059935302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-460-0088",
+  "name": "Daesung korean Noodle",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: Closed"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118083243153026129965\">Daesung korean Noodle</a>"
+      ],
+      "photo_reference": "ATKogpdWZwkNreYGDPFAsoDh-PDZTL37QaWO7kJVxJfUNigOqTOw3OEjmRGzkY3xCEHziOmI7mz8S1jzAvjsCL4gR52-eUuGG9321zRM8j-S5eDIo1MIb0oubLX59KsJdRm8q93JtPfMKxaWBXjuLbNH-HDS62fdXx1HWJKrfsZUvm6X4rqfblvs-eQxOuI0Lv1DLB7HYFUB9N1kHiO757GnqUFIjmFW_hAJqYiIp9cTqZHDTAaYqWVw0lsmH3fnzkyX8wI5xzZG4ZravY_vatrAVgyWQlhHfB_b7aTGAJrxAzEOVw",
+      "width": 4800
+    },
+    {
+      "height": 3430,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118083243153026129965\">Daesung korean Noodle</a>"
+      ],
+      "photo_reference": "ATKogpcpHn4Lb_gzetiSopzDyDJHGCXwDfgmIUWQ_YRlnSVTwme55YyZq6FCSvNMiNNCTtZ2EN8y0K1Z-_raBnGuonbbf2Hq1YTw0OVpAdOBvqKwcTX0kIYoF4If_xDBX4Ll71t9A7DFbURIvDJGjBeeUNrTZxKnUZEvYJ7owCjM6y2A_IePM308ANOmX-1Z6qmj_F-QIzWfHJlTlaO6LlyT6T1N5f4Im-AIXaL7OubI-Frlyo7pN5S6uWCDNxoB0LHO5UfSE5oFIhstqfmGnprhSDOyc20shf19SbGw85gauhO1CA",
+      "width": 4800
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118071944809520413645\">Bk Song</a>"
+      ],
+      "photo_reference": "ATKogpd1JDviQfY7S0Uyxjdo1bJlbnnqvEkUWJhfPbDgE8zeNQzcBqgciwGC9OvhHuR0B8RJwvBWN9hW49BpSKYtramN2tyorqPQUTa5Rog52OUBbFFc9ztxTh-wZIjKtnWVl8gL3dtZwYWsdRlhU6KCk9qC9BKrGQsTaq-kDQJh1eMUz1bxWFpzOKKppCdoJik8jtgi76BnPkHtJ-HMhWnW6uboZMiOlHrPweJR2W5M09fEGeN7kg5TD742mHPado0rLCv7uzwVDA2WMmNnbux5QODSalnA05pZMErtBLCB3jWaTSAPiMooZNRWZTspTiOkB0ml91XrATSkuy0GXEwUsWd3s7xMYdE1cQtLciWNv5NVu1sC97mKUEqM3C9RsC0daBsYlVtwyThNWhwB5GGiBgGKIYsuAHW0S52PknwQMMUbvw",
+      "width": 4032
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109242876963545131781\">Kara Fung</a>"
+      ],
+      "photo_reference": "ATKogpc6b_9V49EDPYfcHYfM02RcTBVfNptzAiw9l5qx28k4oVMLJf362xcGP8pHUFhgj5JqLVFM-SS9fi-5pQ6OMg2EPmid62PkG-ltKliRNosyH17WxSZYipe8coxaY1a544Q6tpneASWiSiU6OT5KQTWzgS3BA7G02Oieueboaq9DuaU6g-vhTg1LMD0nW17geaguaiFaB6VLG90GBI7o7sh_lV1-U_hpAx0w4Kw84Vz0tlTlXw-Ys9ggWHzh0pwvTDoQA6AytnF6bZ6iiASkeflXmbPcZxZMyfKeq5nJJAkZb0Amv1WpDT8daiw42a0f3EBDW_bmz-x9wcg7q55cYeUOqy3q6_DoGdMcpNy_i8yh8_eWuuI8XYJ1KZXiovYZzCsHMVeVkUtlh2VNK6KRtSlJxDH1Jrf6kPIzTcqm31K4f8Y",
+      "width": 4800
+    },
+    {
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117193460432996431696\">Derek C</a>"
+      ],
+      "photo_reference": "ATKogpcRozinkAJTb403eft6_l00g5K8e5BPVNhibZ80CfERjBmRjiph9S3c2MdFBH6Oo4XPCXaprfxtryEOVouE7_HiddcqIkx6qUQKQuiAX-zx5dLPWKaBoCa1WYJbH_1yTWgAoKCQ-X9d1vqD-QhfYNArT9dTrDJRf6UQkRKuw6RNDePfjsTIgamNyD6rVZzlKHVLuRJno2L6NIH5qzE-dityMxz2rJVYLo6w80Kc8mnll0IURbSIfeHebb64Yu7pKRd9C2lW5er6yITCMPKWF7U2TP0IVjgyuKF9ETVE1aaWvkKBjyZx_85vLakl6ct7udbrcwMRT5E1UKcOCh_frS_NKavAPI9jfUojYUkzPPqACy0Vew8KLH9yi4--rNdeN2pR1r1fB72PlEYIsz7wWV-hmlAkYtGI6BwOoaYl80U2_V7-",
+      "width": 4800
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115499328070754850684\">Xin</a>"
+      ],
+      "photo_reference": "ATKogpf3kL1LIGwoTfb7F6Krs5rk-8tjazrKTC874kEM4791cjEf2zNFlrJ8DMuJbOztKLoXmcYl3YIOZ5njF4GYHEpNR8x9u08m4QgsW8fFj3gd3NlBLPtgKWjes99k-ZFd1_3dyDHUSHsaSK1UJz7vqHh5OrF7i6dYTDnOoep_AESMZVUpfPIkTfyLKOu8bF2sOkJbCeteutE2Ym4z0dPAxM6GpAl5ez5iDF-GrPYdwU9qEYDrsxLOte8gAge14-DmeCW1nI1M_Ux5teuHP7XXqDHYPgcTV5iIHpBrAK2G4DwugCCwqXr6BvHlk80I5Jjkclc05zrmtCs6blWKJNZO54jZaG1j4cAse7Ud5pfB--kOhH9GR4qdMFIiz65nTmZgan_PZC2HyLa-2qANFxjP1OCZJanm20wqAmUTHA_d4ZwGrvh1",
+      "width": 4032
+    },
+    {
+      "height": 1333,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105410564075099368649\">Sean Reed</a>"
+      ],
+      "photo_reference": "ATKogpdm0vks4dyZAUv4nHBqvb9Y33sakz2_AUcERVmnQ5VG9IPW6IErE055X7lR8Omi70asXa1jv4Ij-xn1q2FEGym09YyD5BXechcIGbK-aq3QMUS449tijd9NnDavwzhlEUa-bgPt-eIryfCLTOBnTX3yPLYDN61PbelMDT_tYmaL87sezahuCtecHmjOOSSDZ7rHNLjN0trLUKfPgIAuPX7FDahFBymIHRGL-tmYmNYZQ5R3YPcuuYNQrKRcSJRVDdXakEn-hXBdc2LVGxm3FNrbKJOVi710WXeYbX0l7fHB3XDlnCJTTFsEr-JgppkwysLUV8kg21oxGihFv8g_Tngt2SRCx72QmlxA5sEH2vv0ypiq6-PsEGDgC4wtScz_-mU0tLFfdI89snvVRFN8IFhqhPWpZA6MSFnvSGgIdGaqcA",
+      "width": 1000
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115586329512823334497\">\uc774\ubbf8\uc7ac3</a>"
+      ],
+      "photo_reference": "ATKogpdfkwSB1xDniWsQfAh7F4xcZp0vbPuxhzd8qH0QYgoNcX6cvnwKle9izaPaZ5EUD3NM0zh-NqblhJzS2kRWqsBFz4WEJTMdhN15DsGlMqbNbhsxQZxHvScN5iBmkkug_w6FASa0b-9CYgAWygleXe7Mue3zgJpzUZxXQumi_RIE-erj95qt_LC_og-wsDDZPmFQhqbX4n0mJ18RrglwFtTXZ67HLf4czAnRgut_m-oWCyT7b5ed08dtZ0C8MdxyVi7_e2Flw8sESB5VvRHspd73YmYd43x5faH_3EpBWpkyhM5ouqzcWF6D1dScglN_r5DSIcxVFWoVTMl6FG3KjeNBC4DvxMsehyZLcVleoQnasDJB8p_Rw6HqsKjP7ON4gL2Cs_-BhjV7iR4FixqW2NMuBMBxTGTKWgcOnt-V11sdD84",
+      "width": 4800
+    },
+    {
+      "height": 1748,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114362333012468985496\">Seung Ho Cho</a>"
+      ],
+      "photo_reference": "ATKogpdYTeXC2zMNbfXCR-c1fpE5kUI1VB71SxKVB_4z6oxEgiC-2D_2rwJWDBTrwo-KB0rkqyRcEURJGLrqze_g5dMt96dKpQ_nteW96k-RmxQZJfi3sDxsNH7lWiIbJ-4nG-5k0AcPkdRZzV7Ah7dLmGBOJpPPZRPF-CR9scujgcAPfPegTjnjnux82sX3ac_inAIoUH2ERbTBK6iuZBDy1UFLxrfEg689pJIlZE3N9x2l0_48-D0kENxLxAY2wrwgzy9MPs_9q12RELRH93XMPw85fBmngTnjkDPwFGVNjkRlHqh-ubLd8BCj83wEAiR7LksC_x-ISYV4xdblbxM-WFsvjYVfYtvqfXZhs48qXEodfvar3mgynul9J7qKvufOEPP6aGIMwYM7I9vTx3GDqRCF4FMQPagPw5FCBwxm-kHpdQ",
+      "width": 2861
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104588630328198853546\">John Wong</a>"
+      ],
+      "photo_reference": "ATKogpfgfZJX3CzJYoB_NjXQ2dsWGCDmQDNPZGvq2obLrlMycZbsdevesIJvVpopglzSBRQkdwG0QJJRkJCOGsTAm3NRl8D7xWsw0x5hSqEKgKFWU9Y91BwJpy9UP1XOAqRoGqF5uRAAI25EXOey3LI0bvl7IMGhJ3N0bcnKHLvqxT6p5aDufG9c0xEa0xm49mSwGnKINp_J60gfG03Ib4rcCiR679wWQQoYE1nbE3rQAxRKSz3g9hJtgpr7E4F-0w28xRtoMKnxeRhXVqRAVMhn6zjX3ZbUoaAIFNIU-oNAVhMKWL5PK6fuRN8Oo8ecnnOcV0imN0MylJlHPUC4TH_G0RuUX2osQ5MqsdExTjc0U0uRxfp4WymUmskcgpjfTEOOxzEP4j9_S4tbVgYUjSHRSUVXirORd_XSZXpLBNihgVM_7KWQ",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJ9eM_7DBgwokRj-RfOwEixog",
+  "plus_code": {
+    "compound_code": "Q54W+F4 Flushing, Queens, NY, USA",
+    "global_code": "87G8Q54W+F4"
+  },
+  "price_level": 2,
+  "rating": 4.4,
+  "reference": "ChIJ9eM_7DBgwokRj-RfOwEixog",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "O Y",
+      "author_url": "https://www.google.com/maps/contrib/110646300731524962820/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJVh1MrCoWyjWtlK6cQEqurY6qC2rMEebgBcCQ2jgmSUoqRpNVR=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "The noodles here are absolutely delicious! We always go for the kalguksu, and it never disappoints. The noodles are fresh, smooth, and have a perfect texture.\n\nThis was our second visit, and the quality remained just as impressive. The portions for both the noodles and appetizers were generous. We had the bibim-guksu, bulgogi soondubu, fried dumplings, haemul pajeon, bulgogi soondubu kalguksu, and dweji bulgogi soondubu kalguksu\u2014all were fantastic! Get the pancake it will not disappoint.\n\nBeyond the great food, the service was excellent. The restaurant is bright, spacious, and very clean, including the bathrooms.\n\nJust writing this review is making me crave more! Can\u2019t wait to come back.\n\nPS - their banchan is limited but it's delicious!! kimchi, radishes and fish cake!",
+      "time": 1742762630,
+      "translated": false
+    },
+    {
+      "author_name": "Xin",
+      "author_url": "https://www.google.com/maps/contrib/115499328070754850684/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjMx0oceFkfDk2M_NiYYuKNzU8oJDZJKDh-mAWmGHwZx1uVfiq=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "We stumbled upon this gem just being in the neighborhood and looking for food. I was amazed at how delicious everything was. We ordered a pancake which was probably one of the best seafood pancakes I've had. The noodles were just the right amount of chewy and the broth was flavorful. Will definitely be back.",
+      "time": 1748373814,
+      "translated": false
+    },
+    {
+      "author_name": "Bk Song",
+      "author_url": "https://www.google.com/maps/contrib/118071944809520413645/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxZTX4s-IaTZyIA0c-QNoNx48a5HhGu5lq3khr9nePRHxOqA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Bibim guksu is perfectly cooked and perfectly sweet and spicy.\nHaemul pajeon is so crispy and tasty with lots of seafood.\nI just loved all of their menu. The servers are kind and attentive.\nThis will be on my list from now. Even though I am not so crazy about kalguksu.",
+      "time": 1749954469,
+      "translated": false
+    },
+    {
+      "author_name": "Latin Impulse Magazine",
+      "author_url": "https://www.google.com/maps/contrib/104538795187083572031/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUvYv9Od5XPklkRRVie1QggSNvKQuo_3h4SnFR015-2IeRQSA6h5w=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "March 11,2025: The food and service for today was outstanding. The ambience was good too. Was here before about 5 months ago and the food was great. This is a hidden gem in flushing. The price is reasonable compared to other Korean restaurants. Definitely if you are in the area drop by.",
+      "time": 1742160944,
+      "translated": false
+    },
+    {
+      "author_name": "Chloe",
+      "author_url": "https://www.google.com/maps/contrib/115935059497756906414/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-PIVFmBTf2azLVt4CZPGtpt2ovbH03o3Wsjs1DCXiaE_lGbE=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "This was the perfect Kalguksoo for this cold and windy day!\n\nBajirak Kalguksoo\u2019s soup was so good and the clams were very fresh \ud83d\ude4c and my favorite was the Okonomiyaki pancake which is their signature dish \ud83e\udd2d\nYou have to try this when you come here!\n\nAnd the staff was very friendly \ud83d\ude09",
+      "time": 1743110508,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "food",
+    "restaurant",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=9855602223233361039",
+  "user_ratings_total": 950,
+  "utc_offset": -240,
+  "vicinity": "45-04 162nd St, Flushing",
+  "website": "https://daesungkoreannoodle.site/",
+  "wheelchair_accessible_entrance": true
+}

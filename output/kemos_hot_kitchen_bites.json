@@ -1,0 +1,648 @@
+{
+  "address_components": [
+    {
+      "long_name": "574",
+      "short_name": "574",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Atlantic Avenue",
+      "short_name": "Atlantic Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Boerum Hill",
+      "short_name": "Boerum Hill",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11217",
+      "short_name": "11217",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">574 Atlantic Ave</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11217</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Tuesday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Wednesday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Thursday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Friday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "574 Atlantic Ave, Brooklyn, NY 11217, USA",
+  "formatted_phone_number": "(718) 246-9700",
+  "geometry": {
+    "location": {
+      "lat": 40.6843898,
+      "lng": -73.9788566
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.68582718029149,
+        "lng": -73.9774459697085
+      },
+      "southwest": {
+        "lat": 40.6831292197085,
+        "lng": -73.9801439302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-246-9700",
+  "name": "Kemo's Hot Kitchen Bites",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Tuesday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Wednesday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Thursday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Friday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100749387681812239795\">Kemo&#39;s Hot Kitchen Bites</a>"
+      ],
+      "photo_reference": "ATKogpft0tVYF8u7hebZ9G0DE3tklE7Ag0YoVVwCVqao4pl_w4y4wUKvjNoHs3iJO9s8yNB2UKugMoeUM2l5AnClrdLHt6vxXvU3xvQlMXAmAuIsvvwc2CppK-vmMUcXEG2KVRiDbrwOiuDUF-sLWIQCkurCupnKjl9Z0d3OfHloauXCv2fpaPRSkA66obZbC__jjF5Pcw35RvEZ7Je1eiJz8sYLBOAdqgtX9qNdowO1goAOlvvImxzVFXFxLaYlJxkwq06gLG5u_ft6ReYO_zVEoH8WW9MMeXGFaW4tazrWirGSJw",
+      "width": 3000
+    },
+    {
+      "height": 3278,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100749387681812239795\">Kemo&#39;s Hot Kitchen Bites</a>"
+      ],
+      "photo_reference": "ATKogpdfFVkdO88UMKrH7QFObls1WyW5zca5PCha7Qkv7TLBKssH736ekTiFz2cHTIKw3Foy2tGd33OSkXQg7G3QbgJQPUtxuHq6GXLpnJ--xiub96ZXwBqNseQiycUNznkkCh6M27qqZM8Pa6mg-tpvnn0D-YCXG7GV7koWGDA0S-fIr6782e_q8EEB6EDarwFniZPOl-94HAJCwi4PPVd20Bsd6NFzZiDQ0Va5HHoP3JcPSPhm5JpRsJep3h1wmMSItzBMZFb1-LDg2CN1BOGbduv0hLwpdMOD_8CZGXrNquAmbg",
+      "width": 4800
+    },
+    {
+      "height": 376,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100749387681812239795\">Kemo&#39;s Hot Kitchen Bites</a>"
+      ],
+      "photo_reference": "ATKogpcJ141-daXtmKs2nnSJck4OprW0L-nb9tgQdgKaPa1B4UXy_sXlev2wXB_u2S6ciVISEl2iCj3vW-vo3e_bKysjaOfc1xpDqVzROPAeJUFNm1r9fHwP-Hseu6xqu9qP9bD3PZDKQvHGmmY9zjyQa6f1HZiAxCgugBOhjZGXxF2mei-y-TgqszhAP3h_mv-ZJ-Qghe6I9wrcqMTMy9LbZn3atTs4T6PjxB_p1N7m9FzEUN3Bg_7b6-uq5gpAStMzsiyD3HAFPbfRJcPtnn8Fy4pJ8R2-LmjMwN9zRiZyDV-PDw",
+      "width": 550
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100749387681812239795\">Kemo&#39;s Hot Kitchen Bites</a>"
+      ],
+      "photo_reference": "ATKogpe1xk_hhbn-KBRiZZNY4sTg6KI1z_mtHr2vX5RKxDZOp3qA-uSdfPVDp8TMfIUd-7UrgJ-nxA9xBbnzhRieWceKTkILudKwOAsVsWa-sAZqx1XIHHZ6WUeN98FR3AevfPNwdG1UxQUgpRb8Wh0eUmcldH1KQZ1wO_EF5biQWLyip7lH3fOevTk1ycbwpK_ZofaJ0h48gHXe9n_GW0BhrmMVgWYQb3FllKr4-fyW4XXI2coD9tpE6qZryWgmbDuEr3DC3nTnDsXiT2h67f9gSN-WSer5p1Gd7V2_J6N_i0eBjQ",
+      "width": 4800
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100749387681812239795\">Kemo&#39;s Hot Kitchen Bites</a>"
+      ],
+      "photo_reference": "ATKogpdPgGMPVOsO_-FP6TSufS1vbpXvcsFwRoA--IThLRf0kDchcCe5HlMUYssAKhwmr9_seK0IsCWJF37iQza84SJZG4Pku_OhZuJ3Kok6qCOcY3iFkcYpRm80w9iGPzB085sseC4afVVNBSRQvd8-gLczi11Vj63CHd3DvoVkhvE96BsLUtpArXKWT9X8nvZ4OmtcTUYf8Ry5fm86Z_f70JFR9_LZfffoa5UL9wUEKZE0q0rYpOOzllfb9YSM9TVWo__DWoQNKtyF_z1rCECi5Wx5nTaOoXEvsIv5AHID0pBumg",
+      "width": 4800
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100749387681812239795\">Kemo&#39;s Hot Kitchen Bites</a>"
+      ],
+      "photo_reference": "ATKogpfQZjPcTnLue8yryPFQliiZvrzoU4gKo3u1eqr7JUnBiW4_-YXTCq9BhQxNwrIx2jrDGC1_UES5rMB8QY1cos1vKgnR3sRMBjDRAxXY_ZVgcOuKfVmmPdYT7cFSE-5Ri-eGhzXKimdKIQgB1UeuEiSSZtrlnxfM3l2RDRsjaVAvBI_SpRoeWWO8LF4gk9qbbq4DtrISntCiiFG98CQMBvZXo67rqx8veUTg_Wjk2hbSY1nlBg4iUT35B3-n70bMY3m0zTwZmmboQ1sxqFYdS6bgwoY05wlgEjQ_e0wmpoalkg",
+      "width": 4800
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100749387681812239795\">Kemo&#39;s Hot Kitchen Bites</a>"
+      ],
+      "photo_reference": "ATKogpdwmkmHWm2XJHuqIAWAUMRP4cNMXlfBLJxI-OT3ro8KPFFFYwrW9TjpU9dRuUcHslert6TimbjsAvGNk5f4lU3gxmUodGQxWoRFbvpM6VVC-kuWoAMSfuOAwKPgY1RFBo1zqwvw-MxwXHdfNEyd2kIoahzcUywlhywfr3rK2O9TyFU8ZVE76J5PmpDi4Ft5XBIn9gIvOVvavgUy3PBTkUJHlCsO6IpcVrarAuc3gLhiyzMR6Z9_ND-0ZytTX9GIBo5cBTluYUFHysKfeyDs-yA34Kj-7_sAanAK1gng8spahw",
+      "width": 4800
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104638528077913770655\">xaz z</a>"
+      ],
+      "photo_reference": "ATKogpf_f7TCfNbzWyFQrK6OOmtDL9f9_OKq-ccBDBXIrYBtaS1H4X4_8rRzW0Qqxcl6ouTo7rBaxpUFOdi-1IxDOpdkeshQy9Yj3n6X_k8V3MGwR5AIL1O1HOwIkGRCp-42sJz6bb_03QB5m96RQBNCLuf42QOspcZYsrfIEGv3R883DiXid7lhGdLu2WyogedF3nmmOIDmU41ob8FAYawgRBvYhvZlVb3OhFyicnuXqiiMapq3qsubZkdcHni5jkt4Xs3nzMy8UxMl0p9ijEIvGdQpdZ3KgzkVH-pGymZkqfroVbxcMmL-awLxbghPChefV3qTKO_As5-Ww8UDyKhbEaCOswm3IWyXtyJu8vJu8IULgKULMKLI0u9BoXPcjm7FlxdcRVxzzz0jwlvXqZoBzUKLnQg5dlNBVSg3YXTGukk8cQ",
+      "width": 4032
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100749387681812239795\">Kemo&#39;s Hot Kitchen Bites</a>"
+      ],
+      "photo_reference": "ATKogpeQBzxW6VHYnrrgDgLiNAiffgFK3U8usk-AvdXUHSLNxKmccMd-_NTNjqFa8e5qXNnpuoDiMnTQM5uu8q34hYwmAyfprqj6xvDWuKlcGjFnRXhXP7c-ZYAWThiYnBEPTdyGVWuDwFPkCr8r72SHG_i3iPGB_DmR4iyq3ZdD1EIkbl8fgtjsubnJDWOqQVO8t-A0PMx3-4g8_wGmAQwNzNABrncj0C8dlxcdodfhwwh0kMA3EvsfU90itxTpIwxIjDCjIPaCndPIyRKP8b2Hhuwi-GaBUW2FbAKycDQUo41jqQ",
+      "width": 4800
+    },
+    {
+      "height": 835,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116795549384305470564\">Elaine Khor</a>"
+      ],
+      "photo_reference": "ATKogpepoO0TayxZn4zoYEJVScVWJdygUiOgDxds1rQG2mMftEQEgYNm0p1q9qyt8qjS0GVz2ZRAjpy4Qg0DquuUD_bQdKnsbG-P8n4xrHaQZ-qujY5ktOH3bG6DwSYr6_trDqMUEKEgpHMdSUWJI1J9yYGF9hN5gjSiegvDzlUZvKI6lc62iCIsyfHu_MomvoiBu20vdEBq4C-uOJzUlcy4mqcDSSza4QqWNQp67O32U6okG8kjG9HGQzEYYTJIqCoPJZZNGyEzVtgdd4U-q6vpbi2FC_1J2f0K48xj8LqLpzWKTRQhaxsYOqVnnu1XYW5XDLXA_F4KPzBSAiOXPEvFVyOp16gB8D0b2q8IHaJKedjdNIUmSmBVfcIz2iIjAUPWIwc8wLsPxQPWEJBW0p4HsBzA1bd59aQzq04l0B0KWxQ",
+      "width": 1013
+    }
+  ],
+  "place_id": "ChIJM_8k-PpbwokRHosHIiSEajY",
+  "plus_code": {
+    "compound_code": "M2MC+QF Brooklyn, NY, USA",
+    "global_code": "87G8M2MC+QF"
+  },
+  "price_level": 2,
+  "rating": 4.9,
+  "reference": "ChIJM_8k-PpbwokRHosHIiSEajY",
+  "reviews": [
+    {
+      "author_name": "Lynne W",
+      "author_url": "https://www.google.com/maps/contrib/104087604056913622352/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3tmDqTpv1NbsGSx55utS_VB_eU3v2c24fd4FdjIHRDLccY_-9=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "A scrumptious explosion of flavors from the mix grill - the beef was especially delicious and juicy, and the Arabic fries were perfectly seasoned. The okra stew was hearty and warming, and the Yemeni rice was also fluffy and flavorful. The service was especially warm and welcoming - I saw some mouthwatering lamb chops and lamb shanks that I need to stop by and get next time! on the menu",
+      "time": 1745781338,
+      "translated": false
+    },
+    {
+      "author_name": "Arbaaz Ali Khan",
+      "author_url": "https://www.google.com/maps/contrib/102147311437559619216/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXBtl6qLb91y9-gh7cO64z_hwFpzyyjn2HlfqEqNZ752u_Ju_8fyw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Kemos Hot Chicken Bites is a great spot for Yemeni Middle Eastern food. They offer a variety of dishes, including platters, shawarma, and burgers. I ordered the mutton platter with Yemeni rice and spaghetti\u2014it was pretty good, though not perfect. I\u2019d rate it a 7.5/10. Their prices vary, and you can scan the QR code below for details. Overall, it\u2019s a solid Halal spot for authentic Yemeni flavors.",
+      "time": 1738428835,
+      "translated": false
+    },
+    {
+      "author_name": "Cindy Liu",
+      "author_url": "https://www.google.com/maps/contrib/112915661396427312775/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW5GBzBbHDkO7ZpAPWB_n9d6zUwvX0gC1Gp0kXAlUYmSQ_CqEIp=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "The salmon was flavorful! It was not dry at all. Service was great and employees are very patient and kind.",
+      "time": 1746395399,
+      "translated": false
+    },
+    {
+      "author_name": "Frank Padikkala",
+      "author_url": "https://www.google.com/maps/contrib/101340110037418025394/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXDF-S0OhKZeyz0IRv4fGmh1JvBA9GSrywbjDC34V82_gDUWR1oGQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "I'm not one to post reviews on Google but this deserves it. As somewhat of a self proclaimed Shawarma connoisseur (I always look for a Shawarma spot no matter where I go) this is one of the best I've had in a long long time. It's Authentic, the meats are perfectly cooked and just around awesomeness. Also go for the Shawarma Plus which has the fries inside the wrap.... And go for both the beef and chicken. Can't go wrong. Also such pleasant happy people serving the food.... 100 stars",
+      "time": 1738256628,
+      "translated": false
+    },
+    {
+      "author_name": "xaz z",
+      "author_url": "https://www.google.com/maps/contrib/104638528077913770655/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKMN-u85GwblnRoaB_vcIySN-0Kk9B9F63KszrANL0eEb8bHA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "A nice, quaint restaurant with good food. It\u2019s all halal. The servers are nice and welcoming and the customer service is good. They also have specialty teas and coffees.",
+      "time": 1745109704,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "type": "LUNCH",
+      "weekday_text": [
+        "Monday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Tuesday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Wednesday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Thursday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Friday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Saturday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Sunday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      ]
+    },
+    {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "0900"
+          }
+        }
+      ],
+      "type": "DINNER",
+      "weekday_text": [
+        "Monday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Tuesday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Wednesday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Thursday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Friday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Saturday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+        "Sunday: 9:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+      ]
+    }
+  ],
+  "serves_beer": false,
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=3921091716304046878",
+  "user_ratings_total": 468,
+  "utc_offset": -240,
+  "vicinity": "574 Atlantic Ave, Brooklyn",
+  "website": "https://www.kemoshotkitchen.com/",
+  "wheelchair_accessible_entrance": true
+}

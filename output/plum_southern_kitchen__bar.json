@@ -1,0 +1,418 @@
+{
+  "address_components": [
+    {
+      "long_name": "C",
+      "short_name": "C",
+      "types": [
+        "subpremise"
+      ]
+    },
+    {
+      "long_name": "501",
+      "short_name": "501",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Washington Street",
+      "short_name": "Washington St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Warehouse District",
+      "short_name": "Warehouse District",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Durham",
+      "short_name": "Durham",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "Durham County",
+      "short_name": "Durham County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "North Carolina",
+      "short_name": "NC",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "27701",
+      "short_name": "27701",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "2169",
+      "short_name": "2169",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">501 Washington St C</span>, <span class=\"locality\">Durham</span>, <span class=\"region\">NC</span> <span class=\"postal-code\">27701-2169</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1730"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 5:30\u2009\u2013\u20098:30\u202fPM",
+      "Thursday: 5:30\u2009\u2013\u20098:30\u202fPM",
+      "Friday: 5:30\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 5:30\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 5:30\u2009\u2013\u20098:30\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "501 Washington St C, Durham, NC 27701, USA",
+  "formatted_phone_number": "(919) 351-6446",
+  "geometry": {
+    "location": {
+      "lat": 36.0028251,
+      "lng": -78.90411689999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 36.0040885802915,
+        "lng": -78.90261481970848
+      },
+      "southwest": {
+        "lat": 36.0013906197085,
+        "lng": -78.90531278029148
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 919-351-6446",
+  "name": "Plum Southern Kitchen & Bar",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2030"
+        },
+        "open": {
+          "day": 0,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2030"
+        },
+        "open": {
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2030"
+        },
+        "open": {
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1730"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 5:30\u2009\u2013\u20098:30\u202fPM",
+      "Thursday: 5:30\u2009\u2013\u20098:30\u202fPM",
+      "Friday: 5:30\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 5:30\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 5:30\u2009\u2013\u20098:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 2538,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114059450563230413519\">Plum Southern Kitchen &amp; Bar</a>"
+      ],
+      "photo_reference": "ATKogpfp8SHz42rtSrwAaJ3_pTIgN14PxdAO4VX7t5MYwB5AkXhQPG_O_wKpUmkgBI8AyYW6w07vxDqMzg1lfLgBi-a-4bIOAEbd_o3dnqhPqYhAcomOSbaeqUrDzZtOsHGYCpGgJ23z7555Qr-VrS7ctUD153C-t6-CzOZjXFmkWwYMNZfrVpZ1878F8xHU7EOm-0s_swt8ylimSsBOY-aLxwoV2R8DyfLTT3tF7PVc3CmjS_R7KBBA1hYz6iagiOhwaWYUfRHhNslcomOHC_s5E34h_7Wz51x_0t1O_oy5Pmwj_Q",
+      "width": 3024
+    },
+    {
+      "height": 2821,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114059450563230413519\">Plum Southern Kitchen &amp; Bar</a>"
+      ],
+      "photo_reference": "ATKogpdEBoT6bpK0CxcvA2Zm7Mtgj1ZJ5GJireXJyz7ZwHYkdRxX5lwSMR_TV86f-9xdO3mf6_fn-wQ8kEdC4ll8gGoK9aIhut2uUQUSTzapsw02EWiQnpBbkAwUxYMj4EWRoA7G2_j4S7BT8WvQuNkT3xG32HW36Ii2VJMiS75r7xzxsWVDAPUOfGyZ44gYbTd_2aD8mQtPNCOiYS5UU5HELrQyP-6a_LJxtNqo8TYI0A9lCunBv1j9P0CPbawkJc7rvDoso6_C2-PWNM8nTxMbJp3G8Uu6960dMcYPhSY-W_9kkA",
+      "width": 3024
+    },
+    {
+      "height": 540,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102670357991172665725\">Shelly D</a>"
+      ],
+      "photo_reference": "ATKogpfAqwP9ACDFPZP_5jR987yRiOY-qSjmQWjXjPJYiu0yf3T6FUwqr7hfQYxO0-UpzlLg6RLJjm4A3GeDiZ_TNPCBlfEeL5pPXS1uxVgODRaFozUy6JT4DX0DUL0GO_vt4eB-bwGbpuwn1BKCIHHyVirroy_YMdyt69ZoH8ZOy457FTzCjv4zBh-8nJ5nOJoV3QBr6WPDViahpSSZWVUmYcqimtMxgy6EESKNIkvKzJRKvLTtoJasJx-q8coEozYhMpvixlxAy9heEZ1nOqyGANMd9XgyOP5m8dx3A-tyQWaZD51vxVtgL9KffU82BJba5EdHfAH0O2rCk2rYeF7Hx-tKxBP-7SEXDNWR8qk2X7rfpo7mOxu9U9ExXQt4dmTnjqLO2_OSyphwYvhtYfxOQuIkPGLMpzhdP54iZkQYTte2pA",
+      "width": 720
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102428292131565983654\">Sheren Gaulbert</a>"
+      ],
+      "photo_reference": "ATKogpdJvelzNQjJUs0CIbH-r_vkggGRGQYyviCiNOsy0Hkaw3ND6Q0K5NPY2JJgn44CIoHp99ZVGvmdny9V1x4Wm3HFpWPMhkbeMLAW0o8E8yCFxtwAFd5S0BZflDJFAegeMzB8N-X8C9bwpNNivsv_xB0ushbInsDdvVMUocqA6JPbJkeXB06P7Zw7U9Xb5NCO6l5EUiU1dhM16lHY70tOk11DF1uZjYw4rxWkbmqmt9jq1xlxf4KqFKAxr9KKxi7WpHzbCGtEiUaTQtrLbSieV_Pg4a0iwFRaXPUXQfS1HrjKd7zqmcVbdFEVkR-IZm1M8AVB5LvOOzFDdTPBSrpomzK6_tzMeutPosOgmcCnsopGe7J2FJnOujGh4kTf_8M_bT6DzvCHPYCI-kto5X4HdVKmaPkBq3oOWgAK_lSq8pm1Hw",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112245467663872020696\">Becca Harrison</a>"
+      ],
+      "photo_reference": "ATKogpcq16cIWP9H5jScbgsBDVWWjOa5EmNR0hIoCtjDVSba3Y6jld7sm_1V0HJv9_eAJSEjliIIMJRetVxG_B_IjZUNVUtAvLSJwK_e-gsusCdgxo78xGPg2y4qx3o2SErraI4tkUHWbwlVZOr9gP2S0pmi8evBx09D4VLTuZAQGi84zEoB4x5cAWfEHK7MvL6ZQ9miegHcRoj0Fy_imRdUeAIt8LQpL4LDk7PHo0iMrRW44rMMLWaD4qR6tIL-vLlX2IwPiXpzo0k8HmlDffG7r9f3EGbiTnYG0GP_sRCiTAlTdN2fYH_6EYRIz8yj4hzfQTySaAVxBmHeAW5kDaclBAUgG8oQQ6bI6S1sf3RfsynEwABgGf3i_EbKn1VGByfwqxZ7D2RmCF8PX4rwIvb5AZ61qcC7Sgw1_E_95EMUg0tTvQ",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103883882696305979561\">H. Belle</a>"
+      ],
+      "photo_reference": "ATKogpdT4o-peKVLoRRdTaASdkTuVEdB0ro71ZIAJlO3tVOdrWBsaYF09i6PTqZFa3H9mGpLQvpubdlVbwOBrq7SsXqgxEOKUbnylMg2HSWv1HmS0cwQiVPkNMhbz0iqtKaeDpF8bQlN5m-iq8_XXUL-B2jZzYyhsziM5piy97G7vb_T8ecxlQlxuJJ5NViOyHNMTm04KCk9L9iKzhiykAaPRTSP2H5FeeI-WJghFE_AyBJoKWn3FJlgv-TFwvsw338kSnQ6_PtwcWsMvE3JNNT0OxNsWrUYLi25cOW5AjbimZmNGM-IBkF3J08thdjFVhwwJmhp2SaIHxquM2qUMJs5Nhg0lAVbQwpzf7ltwk4MB__i51SLcmFxQQncs0XgM7Ve-7QzvKlQ-ZStFQiPGoQgbpQx_weZ2jwZAHEy5MD9m7I9KULJ",
+      "width": 3024
+    },
+    {
+      "height": 4718,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105980899140829344840\">J. Skowronski</a>"
+      ],
+      "photo_reference": "ATKogpcTYDHPyeKMKCSsjj6Y0HJNPKJH2NBlckDY5EW-rNhq1dpiFX5oNlrHnalC5bhUaOUqidig4anEuHDOiOM1ER9E--moZMnwNv_2j9_hg0AzuWEoI-2bLakjisz4a9TI7DNBVOkTOUpQLYIOX7WaPog1lV6lef5JGBnGv_b7PE_QcUOKaMQO0Ba7TztFjMDC3J804Kkvg_HjVXhM2cWxH6fZf22LIwh-WT6ewoqnFzy9vzs5nWN_JdoZ381j_IsIEgiTzQMIuYU5Tsi52gbIp_naENzLUDSXP531jq3caSh1Ljzo8qk-l_E78ERa_tlsSpdWVmDUkL7d8C244AR3dQgIsGx4UZeZ99vF1XqBr5qo28skWREDSKDK4qebXs3F8SFGajFc3pPl4ZWupykNdVPgaPD-0SWtd9akdKExAnwsTvkc",
+      "width": 4203
+    },
+    {
+      "height": 764,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102670357991172665725\">Shelly D</a>"
+      ],
+      "photo_reference": "ATKogpc8yh65nWO5jPTsUkhMWxvNMEorrUEHlhmsSb78ht7_XVgjF1Ymtl-DcItWBRyd6qz8lY3Wk2soPvsKHT7sMd0kxZQ0myVsdwnovLJ2WI_-3626koxICbbMX32Ou8wIRL-5P9Qp8Je-6bDMbcTd-iXI7b13NQwFRarKYnTZdWaarfc8zqNRUvcK9uflIOCMvhoDGMdAj-1h-u4rzLyr5zbBxaZalH5A0cJ-xUau2FuX8XncWozUTrsHCXAdvqVWl0AlPH0bmgKhzmOkcMFoYHArcf22edhHHsG1IIM9n6abYIO16NketUTzrGTjm7tvLNWgctPpuIOTlfSWZGhmNdekFouGUvpadiE04QFzYWfK6cdMD5tp5wvm3v--A1oKasBFGFcfSl1erzMyp6oLtVmmrqvVcEez3qZJrsBUr5pZIKM",
+      "width": 1080
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105567469817926219259\">John Louie</a>"
+      ],
+      "photo_reference": "ATKogpfWXUQEIEgW2O38SBeJ7hxqA6FrWlLICZNsUMKlgG85xlmxPr1M8RvVx4r7wDyqpETfoPU_btldGDN12lnPXuhWVYVODJUmrxD9wPh5sovRatOJvy9IUpYPN8fJPVG2InCN1y6DsLjMuRRRYYHpiwdH819cV8a6eNuROhDT1zttsMfM8WzVgxnvmqb9UQGOEutlBo1-LziKVjhy_D7D5T6mLKMx6LHgfw3hnTqCbSy9Li4BzDyur7OY8Hmj8G9rwJIcsQoT_46CSFtx-sfTeudLAJdHunCtNB1teCMotET1nJETzCeFDEDi35zPPbCnBNNwkucvrINmZ7a6FGQ_iNzQLRgkbNqwxYrioRsLbAhUZ90Lb5Ip7H6mu1CW0QHrBgP1nT3cWrl8rQACo9Z0yj9e_qrb-Lo_aLzBOtV2isd5VIsn",
+      "width": 4032
+    },
+    {
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101037072441586683984\">Mark DeMore</a>"
+      ],
+      "photo_reference": "ATKogpe0-EObIcU25pgKEe5krCPb80JDtm0uLyfCY54oh0F_N_s3YvZ083UBsJqLYuYzjR_9qMn9pqdluRSDs6oduVY_0Wux0nbq2aigZQlWvBvoF6y8VPVsGokA8wg7VttlMba5oDeq5KlaTnq4mfD7SPhhjr85FVBAgrH0u3H5hwSJ4cyuEJkyr-QKdgvX6yup24R88WPGgg0bfmN6MkTKsAekIgp2OQuZtigNkmD4LcIk0fi0yWLp1iQgKzKGiy4zVUaA9xvA5WrOZD1mvwl1kejP9RXiu3sb7PNzSFEQDpftsKjVe-3AsOjspGEl_2uYdmdWphNnsOqKOUxmhVN7x778LGmcmVcnaHRttOCMbRTBHC-a_eYtiWghIRsw-1skH3v_4GSrlJhL_n8fA4CprVMl0zrBJEpbDykmKXNMHKrzfw",
+      "width": 4000
+    }
+  ],
+  "place_id": "ChIJE-bCLJjlrIkRuBojFxpb0g4",
+  "plus_code": {
+    "compound_code": "233W+49 Durham, NC, USA",
+    "global_code": "8783233W+49"
+  },
+  "price_level": 2,
+  "rating": 4.5,
+  "reference": "ChIJE-bCLJjlrIkRuBojFxpb0g4",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "NSA",
+      "author_url": "https://www.google.com/maps/contrib/100593805677606358122/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIvTyOmDgfSib860aCe7C6FD642iFGWrf_m_TqM94t2-L_NvmG=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "2 months ago",
+      "text": "Beat salad needs a lot more beat to be called that. It was mostly lettuce spinach and goat cheese\nOverall things were alright but not great and when we said so they said we know.\nChicken was the best dish there\nBrussel sprouts were good too",
+      "time": 1744598415,
+      "translated": false
+    },
+    {
+      "author_name": "T\u00fclin Bildirici",
+      "author_url": "https://www.google.com/maps/contrib/112455689873396355276/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLWLsjHTFteRLM0MeUGf7djdkghY7Vo6qBz3M93_IRji18upg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "4 months ago",
+      "text": "The biscuits and potato croquette we mentioned were not bad. Again, the golden beet salad we all shared was quite successful. However, we were a little disappointed in the main dishes. Salmon was the most tasteless salmon I ever ate. They forgot the meat in the short rib stroganoff that one of my friends said. They added it later.\n\nThe employees are interested, the environment was nice.",
+      "time": 1739069961,
+      "translated": false
+    },
+    {
+      "author_name": "Sheren Gaulbert",
+      "author_url": "https://www.google.com/maps/contrib/102428292131565983654/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXrVF714uJyRZKQoqTmXTLMiwNGn-APkjPjbYey6POHAKpDDy-YHQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "This delightful place came recommended. Airy inside with tasteful decor, and seating outside too. The food was like a hug - delicious, comforting, and nicely presented. I had the shrimp and grits as main, and a deconstructed scone for pudding. Attentive, polite and happy waiting staff, lovely chef, and Lisa the owner popped out to say hello too. I'd be a regular if I lived in the area!",
+      "time": 1717721348,
+      "translated": false
+    },
+    {
+      "author_name": "team standy",
+      "author_url": "https://www.google.com/maps/contrib/107538027848655204084/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQcUR-hys1jofnlj-v59ypTm9Qnz3cxC_AqPb2y_Z0iOalTg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "My wife and I ate here yesterday for an early birthday celebration. She had been here before but I was a first-timer. She had the salmon with mashed-potatoes and I had the short rib stroganoff, along with Brussel sprouts.\n\nEverything was excellent. I especially loved the stroganoff. I hadn't had stroganoff in years and when I saw it on the menu, I knew I was getting that.\n\nThey give you a nice-sized piece of short rib (boneless) on top of the noodles. The mushroom sauce on the noodles was very good and the beef was very tender. The Brussel sprouts were nice and crispy as well. To top it all off, we had the strawberry shortcake. These were scones (not the spongy shortcake you might have grown up eating). The scones were not hard at all. They had a light \"crispness\" to them that was perfect. And we could tell the strawberries were 100% fresh. They give you two scones, so plenty to go around.\n\nOur waitress was very attentive (I forgot her name!) and friendly.\n\nI enjoyed this place so much that I told my wife we'll be coming back for my birthday in August.  Great atmosphere too.\n\nYou definitely need to try this place out.",
+      "time": 1749229438,
+      "translated": false
+    },
+    {
+      "author_name": "S.A. Wisdoms",
+      "author_url": "https://www.google.com/maps/contrib/117465279191225468017/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK2oV3CJNF8bx8w42hxUCu5ENRbsoTmTBNdr_IHMjv92iRdUw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Wow- what great food & drinks but most of all customer service. They went above and beyond to make my birthday dinner extra special. Beautiful night so we sat outside. Parking not a problem like a lot of places in Durham. Deviled eggs & potato croquettes were good but the biscuits- whoah. Pork chop- amazingly tender & flavorful. Salmon delish, steak & mushroom risotto/ everything was so good. And all 3 desserts, banana pudding, strawberry shortcake & brownie- with a birthday banner & candle, and the owner coming to see us. Can\u2019t wait to go again!",
+      "time": 1748090934,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": false,
+  "serves_dinner": true,
+  "serves_lunch": false,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "food",
+    "restaurant",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=1068016229255682744",
+  "user_ratings_total": 313,
+  "utc_offset": -240,
+  "vicinity": "501 Washington St C, Durham",
+  "website": "https://plumdurham.com/",
+  "wheelchair_accessible_entrance": true
+}

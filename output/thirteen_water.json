@@ -1,0 +1,554 @@
+{
+  "address_components": [
+    {
+      "long_name": "208",
+      "short_name": "208",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "East 7th Street",
+      "short_name": "E 7th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10009",
+      "short_name": "10009",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">208 E 7th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10009</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1600"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1600"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1600"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1600"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1600"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1600"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 2:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 2:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 2:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 2:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 2:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 2:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "dine_in": true,
+  "formatted_address": "208 E 7th St, New York, NY 10009, USA",
+  "formatted_phone_number": "(718) 598-8556",
+  "geometry": {
+    "location": {
+      "lat": 40.7243157,
+      "lng": -73.97999759999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.72576488029149,
+        "lng": -73.97859076970849
+      },
+      "southwest": {
+        "lat": 40.72306691970849,
+        "lng": -73.98128873029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-598-8556",
+  "name": "Thirteen Water",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1600"
+        },
+        "open": {
+          "day": 0,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1600"
+        },
+        "open": {
+          "day": 2,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1600"
+        },
+        "open": {
+          "day": 3,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1600"
+        },
+        "open": {
+          "day": 4,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1600"
+        },
+        "open": {
+          "day": 5,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1600"
+        },
+        "open": {
+          "day": 6,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 2:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 2:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 2:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 2:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 2:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 2:00\u2009\u2013\u20094:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110377770150558895658\">Paul Ampunun</a>"
+      ],
+      "photo_reference": "ATKogpcYX2aSk-S-re6MFm1R1spHCrHCahIT2d35215De8sqa-i9FzJkWEFphR-J2EGc46-vt2LrI5OiwQLiq1izzdQKT82nQq3jv7TLioaWTKHBp5bSXJtyujlzNvjxterASBOFs5NCN_AvBBAMwmj7vm41cbO3dwX6K5zBEx0trvTbFsz_cIj-aOIIiunAmG00c8KxgOwyrsvTB6tjCJDCL9WVvWHSLaiIL5X960x2PBbZ7_b1LPBrXYmNayWMASK9k1HZogXirvrjl8ANxoblxVSakjOPQDUiCl-JdWYlBTgFc2zQwaIQ8FEaJO2dgybOPV4Ku03Gz7TvdddWZ43l3AcBA-ZEAg3_qQJ7vXt9wYy36kWkmd6EZ-8ebsQ5VGb8W8DHKq9SBM053koHF9Q36A64jRq7QFCrP7zz0zPGRM9zog",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103607405913592780801\">Adam Binder</a>"
+      ],
+      "photo_reference": "ATKogpcSwbSkKcpngfIre4SWAPsk6uvau15JW_5UMGyBLEXrvU37n7erBNZQWS6FP7Sd8pZqFklPG_sun-25hJqf3m9UWBASTHbJo28Epqzwx9Z69PXYVUbU1pGGHdWl9vSfsWOdCnNzEI6MK2saJ7F9Q-8gaKkJMouCxKdA5m6ZFmB1uHQ4ZTvbr9cmUTfGz_JnZT8kuHOAmphG6hi2D7u5bhj8_EG4yLhdtLmsvE6x8-Z0baUwLpa1QCYVgzs4LfacSgJAcnOTQGGMH5iSQwG60CsznAt0bLoxmErzxjqFfzYUtBQrE_H6o2CUsb6HBZSZjo3zJgplKLSXxw67xLS4Gkot5fOjd9HfJZGDoIg75tQ2YMXlz0ebeoeK1EY7zbqOLtT6OWW-CewDHEBhQey7Yda-JbjBx7-QzJpx-3jKxDTGp4jA",
+      "width": 4032
+    },
+    {
+      "height": 2816,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109188505151556673403\">Kevin Ngo</a>"
+      ],
+      "photo_reference": "ATKogpecZfrC4lldaYlSuiID8domIdPbH5zQtUeKuwXxhpco3HKpXxJc0LZ6dw9xXCTl2ZI8lYw7As1KNVo_Hxg2cmc1FlW31QPQoI5DYGeZhTk4KtZG7ueFbWsydfbY5lKxIGUfXMZXoCS6sGPb6ZJSdhFSS2-eaR4tfkUF_rLjHQdXKQw3p9u3ZugHQ3a8LTrwUS0NdCV9pOj4s62UqkNUPxwVBdwI4QPakAq--o2PWW4sWUJAAUWR-XRx5gpcqFEFW6ZfUJJQ-SeEh89L-OmljT-9LKkEbiuJo6dQ4IGVHKDtqgq_Zrw4s7zhhyucGiuNBRc1lPNcDRN__43P_6Bqtom30qSLKEkZynNPXCK3FBc3tpQjGnBTACpxK0hhzc5XoEBFYjnmUXlM89APziTc7TWa9PQt23rIFDpXHg9Yg7I",
+      "width": 2268
+    },
+    {
+      "height": 2093,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101003724716737222955\">Caius</a>"
+      ],
+      "photo_reference": "ATKogpfkI1SnX7bCdG19Ya8RwAf5kHInU7-7TZl6PUcHtsSYKdNUXjsNB7DBnwj6FRZz8NrAT9Pz0r_8lXDrXrOofPjstUzTjwpViviWEkbTlumaGSscZTSILDETFwCp8nTH3vnCXEeS73sATs2CHftukCP-Wv3UUWGuSDjP5VQ8tvPlpXcq-D79PYDS10eeTzApEHKTwo3upF4bw0I8VdzIKksu9alXUeeUeLvGlMAw_3dhJ7xr6TrQO0O4QkOGgfzcdjHX8LUZs4CaiK_lW3YdpxdLcFVdIXyP6TkIQ2fnRahSdUYtWCgHbFgHjQs1UjOC07vaags3_u3IRYZ9_tx_OMQXeW5q2AvYMEE93e0Kg7ib1gTZeUfZMKUROjx-gPVF5bsCDATNVu1-q8gAbfWMyYjbUA6JH5s3M5GOL9c2mB4X-A",
+      "width": 3017
+    },
+    {
+      "height": 2189,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101003724716737222955\">Caius</a>"
+      ],
+      "photo_reference": "ATKogpefEzYEBzDUDD2-_TtIuKSIKM_Y81XyafsdmFX79zJ2drPTbjH7Pjt5h0u1WJSXk38Zk0pbgNDUmJMKMUY3br9Z8ADT-HOGjdPXnvKcUoXeMl3T3u85ETcaFOR7kLB0XaNgaSr1evTO8vxKb0-y1nj_iguBjjh0iH5aSVEto6xL9ikCxG-weiSqqS088g_GBc5D36_RHMrw0hfJS-INLQMiFqnvgkPMT7ypwNh3yraDhTjkRWW_uDsRi_BAbYtLjvXDJexECN-5lS6bujNXSpGiP6wVVdw3NGW9EFtOOi_RNXevCtHc5v6WVkKir_mIUJHyxCbNPjsgkIbaFZj12El1DpVyp0YXDE0nmEEvUZsEOZvVL_YBQxOmdaxlnVPLgdW4i5A4s-oCcy-IleRn0d3J3OLWTCjQq6KHn0gTL4UllrJw",
+      "width": 3454
+    },
+    {
+      "height": 3461,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110687669271345651978\">Stuart L</a>"
+      ],
+      "photo_reference": "ATKogpemMDz2T79uXnMsymc2EeHgpFvCrDRh39toBauIT5dHSprq_b2j2InSPqn-Y2Fr-0Z4QI0BzIbcp_fjbKzh8KalkIw92okHo-xkaePCWY5aYNoq_GI_tF75wjSodVGxr_EMgbsgKYRv-wRs6vXbFXGPVTsXlMUXEeUb7-Jrq6OKzH5PHew6rG6noLxGbA12_Hn-PtgLpblTTsZ46-PUw7AGQa4jslPiCZdqlKxb_R9PwfFdB_cE1X7Bowy9wA0sHc72A8y-UleK-DtS5JTDrL-2yk0MAB9anKTkYhaefgfsKsTIltkT-I1WD-iC9sstOP1ebXKM2sI5hBqB30mDW6Y33oCRkRouQUlfJz3BXbXXimLkEXe9UQu4-jWE9gqvCudwYTmM0GUPB2bRqgIyBw089zCL6dseDliHKxreIJObshU6svk2yEe-T0ntvCvB",
+      "width": 3038
+    },
+    {
+      "height": 3307,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110687669271345651978\">Stuart L</a>"
+      ],
+      "photo_reference": "ATKogpfK8YaVeZxcFxXPh3A5D33orCUp3cGBKGYwdkS3won7faOTenADA-Lqn0-fj7ZZs_NulGyBjGz3yV7mKTqLu40WUKwYobjH4Upx6mn5XRC7go6R6ksJpcfVvJBM0Ijb9LdLe8MHmAY98_94XRiVYgxHy7ol-10RtlMGK-yFXH1sdXRePwpTir31_9LARaIaiLHeB5v8rUhZTbO2iF2OSgCsn9OGdAWtSn3QDh3bRWuP5ojQORKFOwuRpgDJH0-Fr9oLPbfU9WcE0-pSX_48rVXoHoRd-GAKkEmwjCm0z3Umby6F73G_H06NBJZnUFXTYDethLu45VYzmENTNG0T5fokKk5HX8ur9ElTpC8HFa6rlfENPStJI5Lmc-DViq0HBcCIxjQhJtijBxgaqH4dSLLVlgzA_qIJX09PerpkoRLM36v5L48Yx8Jtvw0ZO_IV",
+      "width": 3068
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115795810684261109244\">K L</a>"
+      ],
+      "photo_reference": "ATKogpehWWK0cFvoRyZHlgl6DBzXgoMKVLHeI8QUwYkvfrlvnhbmjEVmNPLTok4rlnfdcavgs34nHN_3c2PvSfV_lPOC5_2IFRQr2yc4kVI9XQq_jhZFfCQMxPV5imbXqF64ZHH-V4AjinOj3lL5Pezsug1WMI5EvbJPIOA4700kjr50p_okQeZmSmy2uPFsMYxj8n5hHp-bvt9LqzVic0zkPIIwWzxEnbUiQDZbdQ3RuS9NvPfJ0yuDzX-1r3JXwSiV5ItJ9FnXdmHPibbSDzs_d0cNR4Byi8ZNgZ-_7ebzIBFYEvk93dJCmT_xoFc2myzwthtI8irpqG2Qr5ievGYjdHr-1ebsmgsVuMA8ftOnVAor47OhHF_QaR-WCtVXkveHOr3dehExr9LbBnp9RtigVwRVL5rgpKIMJtYmwat720XfiA",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112008242353035286324\">Angela Nguyen</a>"
+      ],
+      "photo_reference": "ATKogpdzlaGVIELtP1rSF57qLF5zHcNt0zeS2DB4DN8Mg6c1wyjJss9IDNKkChii6v0jLaqSVjYwP8P-cYBf3NcIK1nWw5kcj971DL5PJoW54uQhEHSCjNqkMFH9KRWDuRZ7fIwxAU6EwQLeSQ4-fM30RTh3KZnZCIkgx4MSM_su0ddIzZW4IDP6Cp1_XZwxIEvKKTFXwESYCm58fugME2hwl2Qdq1Puil9PxBNfLZQpkvuB15ubhk1eJUy6Ws57dM-hynqkPc72ECRxgGPkYzlVdBRgwBRz70lT4Y6GT8V_d2rjdnwWHmpDwcvTHo0MUGhswe4-4mj-pjoICKKCNIwNjH-AX0zBRC86QleWu7QAW_SgXtOXkjLhz-ttiwu39iNhpyqECFxKG6t_JlA02WcLLpF4hplnaWP2HhT-AvN4xO827jKq",
+      "width": 3600
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116695116900581593856\">Joe Perrotta</a>"
+      ],
+      "photo_reference": "ATKogpdDWXkdOBbBYiibDqvyIOVdSZmQxlXgFL0YXE8Les5BTL6lELBbKkoYiMOfG8_7v2NggR_g6l6d-Y_A04n8UbJpuCZPQqPwiKD8C7iTS_Y69qkIiV43q8TelM99pyAP5meA6aTqqLoWOeZhVYCINujWyhAjtLikJzHAXvaWWfKWEzn6_3gswsE4wl9vaApfrSbbMMXQeZ_YiFmRgXbgdY5Dvt_ORY1149_lYWbV9A3-FJpmRi1SO3E3C5L8bdNfBwrItiy3r4EIVrPJmmKyy6t6Jvvby3XVkdSlQfqXVmsmEdeL1iw3LfMNlqjHJWXw_4-AE9WzTSBknj_76wjq9wooCQcWS4iQYPrdxjaxA_grC6KAqjxh_rG4-dKXRNNZeIP_adUpAnWs-FAcIXZhqT8CpgGFbg0G7ibsnbm9vmF5cuPn",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJsTmHXltZwokRXisc2lNWYrE",
+  "plus_code": {
+    "compound_code": "P2FC+P2 New York, NY, USA",
+    "global_code": "87G8P2FC+P2"
+  },
+  "rating": 4.7,
+  "reference": "ChIJsTmHXltZwokRXisc2lNWYrE",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Sonia A",
+      "author_url": "https://www.google.com/maps/contrib/106221524194022006782/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIAksiQHC48WcMoSKlNQDTy97H1S2Y6DvP3FxO_FGQTgFvAIA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "We just had an amazing experience with Edison who served us a 13 course meal. Each piece was carefully crafted and amazing taste. Edison made them extremely quick and we only paid $75! This was our first time and we heard this was better than places $100+, so definitely come here for your first time or if you\u2019re experienced! Thank you Chef Edison!!",
+      "time": 1742421760,
+      "translated": false
+    },
+    {
+      "author_name": "Michelle K.",
+      "author_url": "https://www.google.com/maps/contrib/115262447208596425377/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIKQbp_TwSps2_JlQl7q_c68EE_fkzbtkGlkX3EDf4gFRSOCg=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "a month ago",
+      "text": "This place is a solid 3. I\u2019d say about 2 pieces were memorable and interesting but that\u2019s about it. They make sure you get in and out within 60 minutes unless you\u2019re the last seating of the day. Price is fair but I was definitely not full. If you like fast omakase place with no interaction with the sushi chef, this place might be for you.",
+      "time": 1748478171,
+      "translated": false
+    },
+    {
+      "author_name": "Megan Kim",
+      "author_url": "https://www.google.com/maps/contrib/104818678699696557335/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUkGCtagYuBjdFGX8YY3yRaxP9Hg_EAuse4WGr2BUy3bOWzMW4=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "If I had to describe my experience in one word.... PURE UNADULTERATED BLISS HEAVENLY GODDESS POURING SUNSHINE AND HAPPINESS AND YOUTH AND BEAUTY \ud83c\udf38\ud83e\udeb8\ud83e\udeb7\ud83c\udf3f\ud83e\udebd\ud83e\udebc\ud83e\udd84\ud83d\udc83\ud83d\udc85\ud83e\uddda\ud83e\uddde\u200d\u2640\ufe0f i came here for my birthday over a year ago but i decided to come back today leave a little review bc everytime i go to to a sushi place im always reminded that im not HERE at THIRTEEN WATERS eating crispy tomato salmon and crispy rice with tuna and uni and that eel maki roll... so just warning anyone who goes here: you will never eat sushi the same way again. anyway if you ever have $100 to spend and want to use it on an exquisite juicy delectable thirteen course omakase meal then this is the place!! or if you're like me and ur mom gives u money to go to omakase for ur bday bc shes across the country and misses u and u miss her but ur going back home in a couple weeks and ur parents dont wanna fly out to nyc right before u come back home bc ur gonna celebrate ur birthday again in two weeks anyway... \ud83d\ude01\ud83d\ude01\ud83d\ude01 this is the place u go !! if u got past me and my monologue i'll tell u a little secret... this is the most worth it omakase place and you will definitely feel like your money is being well spent :>",
+      "time": 1738594791,
+      "translated": false
+    },
+    {
+      "author_name": "Felicia Chang",
+      "author_url": "https://www.google.com/maps/contrib/117663647922271524540/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVz9p8rb1eXxQRa5HVv778ZoKRp3-Ow7gZjpjLOrMWtSMJrVgL1=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Solid omakase menu with fresh fish, attentive service, and delicious flavor combinations. Price per person was also very reasonable!",
+      "time": 1739810682,
+      "translated": false
+    },
+    {
+      "author_name": "Jamie L",
+      "author_url": "https://www.google.com/maps/contrib/112896284528115449408/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtjN3YNioXRP1w0IaaJEEqKJRqsiy3bxSIAoLukcI97EtHl7GE=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "3 weeks ago",
+      "text": "I came here with a friend for an early dinner, and at $75 for 13 pieces, the price felt reasonable. However, the selection of sake and alcoholic beverages was quite limited. While the fish was fresh, the pieces were on the thinner side, and overall, the flavors weren't particularly memorable. The 60-minute time limit added a rushed feel to the experience, with pieces served one after another. It was an okay meal--not something I loved, but not something I disliked either. I probably wouldn't come back.",
+      "time": 1749224442,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": true,
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=12781873610572442462",
+  "user_ratings_total": 376,
+  "utc_offset": -240,
+  "vicinity": "208 E 7th St, New York",
+  "website": "http://thirteenwater.com/"
+}

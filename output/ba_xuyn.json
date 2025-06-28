@@ -1,0 +1,457 @@
+{
+  "address_components": [
+    {
+      "long_name": "4222",
+      "short_name": "4222",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "8th Avenue",
+      "short_name": "8th Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Sunset Park",
+      "short_name": "Sunset Park",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11232",
+      "short_name": "11232",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "3904",
+      "short_name": "3904",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">4222 8th Ave</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11232-3904</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1830"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1830"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1830"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1830"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1830"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1830"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1830"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0730"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM",
+      "Tuesday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM",
+      "Wednesday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM",
+      "Thursday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM",
+      "Friday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM",
+      "Saturday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM",
+      "Sunday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM"
+    ]
+  },
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Diminutive, no-frills storefront whipping up Vietnamese banh mi sandwiches & other fare."
+  },
+  "formatted_address": "4222 8th Ave, Brooklyn, NY 11232, USA",
+  "formatted_phone_number": "(718) 633-6601",
+  "geometry": {
+    "location": {
+      "lat": 40.6452895,
+      "lng": -73.99967529999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.6465828802915,
+        "lng": -73.99823516970851
+      },
+      "southwest": {
+        "lat": 40.6438849197085,
+        "lng": -74.00093313029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-633-6601",
+  "name": "Ba Xuy\u00ean",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1830"
+        },
+        "open": {
+          "day": 0,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1830"
+        },
+        "open": {
+          "day": 1,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1830"
+        },
+        "open": {
+          "day": 2,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1830"
+        },
+        "open": {
+          "day": 3,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1830"
+        },
+        "open": {
+          "day": 4,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1830"
+        },
+        "open": {
+          "day": 5,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1830"
+        },
+        "open": {
+          "day": 6,
+          "time": "0730"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM",
+      "Tuesday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM",
+      "Wednesday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM",
+      "Thursday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM",
+      "Friday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM",
+      "Saturday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM",
+      "Sunday: 7:30\u202fAM\u2009\u2013\u20096:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115095695647677579516\">Yat Sang Yan</a>"
+      ],
+      "photo_reference": "ATKogpcF26V_sYS5mODmvWsRzJIISQlzhvxzM_E8yvdYj14a5dRkho6gxGvU5RdKTcyIIEipR5Q88LLnkpJMBghPRdAC923bfYMNS3OfKu8YiAdj0fD5xR7rFQGNuBPsqK8we78LcvINtB1IEYT7o_JyUU6WVk61ZzI5y6NHVY9bC-1IU7WXdLiYLkBzzBz1xJfjyTCxdX8Xk4OmyrNnb235Hw9yuhQRfL-icI2wcCci2ES95ov6dF8xyXZ85LPiZGm9OmCk_nLgpE_cC4ekQlMlS5rrGUGlVo9hG6mCTWD7eYjx5khrhnVIp6r_G5fAajxDmynna9b-L1YCmu2_CZZ-IjBZWcSODqv-j__NTqzcpThmMRYf7esU8tRFOrK-ns9arxeoTUbM7wgsKOhAK_Qej3yt1WeQ_gDQIxfgzGxSoL34CV4",
+      "width": 4080
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114856077503672550685\">Jia Wang</a>"
+      ],
+      "photo_reference": "ATKogpfaV4cQs_1dR53B29CPhB-QJtazE18rpcqrjPZyBgdEngvFyC9VONpPCnZpy4WXqnlWPtCKTxTyrzu_7lu4OH4kJnBgcyOVxRh1QMH3PameuyeS_x2YPgwE8DRxinFH6qgRxGSGsG9-bzjH4s5Vs9PdOyXZw68RqM0AjJQjL9etJYFw2GNeQY7z6Xgw0NR4O3uB1v5N6urVEc_DkOnBJraNcF09nm5Lx2e1MUZOAle3LjtzDpt1mkgAFMIDuKJeqK75egSn4V6TTrBWXS42eT21OeXaBQnMypZIfQx5PvjJEKiMaP3XXuAB9MC77273_xIU2TwqQWncVpG7vTyU_ZmeEgVNZTDLzaAoxBgdpBiPfJsfMePgRizjbnqcILu3z4yUwI5aXkGNh_P8avYZZz8oIfmx37fh1L55CvLW0nFjS6s",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103010987590483124915\">\u7d00\u5609\u6def</a>"
+      ],
+      "photo_reference": "ATKogpfMQgJvSV5_wuWnDkxZiTHJ1Srg8LLcb_9y6Q-GqSbHZefLeXZyY-oYWT4EAIJr7q0TFz7zqddVgLkNQDqN8L7FYEV470vzTkS8_II4QH4QH_aySJCRiqJH3ZE5eCKxhdNMalvALlGcw0xByVWLnX4c3baPDkdD3FUfyWZEhr57Aq6gGrWvcJJJBv-A_OYTCQE4XW9d20qsNsyAzWIR0nAQ-0edSjMo20ziXd6ohnfhMZW_5uQ3b8gcrELFr_asQVsHe5oJvTHfUaPxLaxXszE-kcST5XZab_sG2jwNRLm1qBjYo1FLyEomYn5SkIozZEIpdQojOGMOqCoNdFwtiBXRRLzhHIzHqZeEJp4VJtpiO7G0dB0vbG1PLqv5bK8zT9ejVKgTXZkG1CpCfhQavUHJzxG11aiGn_6pU5rkafA8cEIu",
+      "width": 3024
+    },
+    {
+      "height": 2717,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118188010787230085978\">Li Lin</a>"
+      ],
+      "photo_reference": "ATKogpdPC62_0GMk31kgPE3lq8I--Q-4esgbE3JC20l3LTJyCrL6yBAdwXJsLl2slaUBtvwUjUhq1KqqlpRdR42wHHs_w3Lh5p4ODVFi5PIiBOD-b170xmnKlrCR7f0_wM9e1A_msHIqZ2vNWib2nIXG_c8IFu1pRcRtG8G3NuitLDiiTb7-2vm4anSl-h7Gj5aQzvdRJXzO1z-Ij6vVSsVmMA7mx4UYNh2P5lYxjqo52xoYkPnBNbh_dUaDvFCbK4-ixH86WJ54LOa408h3TsrxAuuWj0ZzFk6llRZt8BEY_WuxCGlLtp0-n_4N5LwClZSrn2QXs_7Z5PKy5n3wJbn1WMcbU6MVCAQZFoTlRzvUlqZM_Q70Ch7iqAdC66EKN8TQXocMZi8bLRYgCiLpokPw97XVC1rpa7vzratzxzvgSpTQoQ",
+      "width": 3561
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103452356414234169899\">Markus Kusano</a>"
+      ],
+      "photo_reference": "ATKogpc8N6nllLzvaCON9WFm1WKXb0SxuHrEtROi4jZ_ZY3cfsZXvXJX_1FWRnrKvxGaWPwbNyyvXwcMlYYREgK2uvrG2fOy7q3iiN8TanfMeCMYRPLSZCLkmUwcqHjkc2PrhbDDGng0S8-gVCbZPg2ffhJVQvXeMkCADfKjByRjdQt_caaiwvgFPfKnyQONphnU29DSH6lVzMDZ3xdgDZei7Qy7L01xNLKZy1ncXxL1oaLF81N6WFgFthKfqUWb7ctNopn1Ngwnjw9MQAPhr_E-xqjzwUmXDtKbxiv2BUA3eH5dyuUAw2OAhJk6n85pUx_ZQZpCppZ5M6wWuFG75AjNAy2ABxJd32VG190CdYMNNSTau9bNVxReNe2n1JJmC4teYrtAnj9tQijUQwqY-0NPmchlILSfmoZkodC3nlksiGA0Fw",
+      "width": 4032
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115095695647677579516\">Yat Sang Yan</a>"
+      ],
+      "photo_reference": "ATKogpe4MH8kdA8F3jmlozrWgtXQWB_BuostZFt_ubG8-ZIGkcDWzQjbsRICEt0qgS3QNtAuqE6ocGacRsevv9nPulKRhb4QF1_AurWs3IVP4N27s32Lu_dfEAKzBktTf2Q4fB7BrpnpUEpnRaTH1fuCYvqGoTkopeiR_ROox_Bs3TZMCbiX2XykXHA1Ey-VvWitcufNtH6TKT60TrhZLQ3njQJUfRM4ECDfo566YQhYDr76sq2U52xaRo9OhL9Y3Ay-WbJ3gIo80sTekg28L1JRuIrY_4cVnhbTHmL2Xrj1PL-fs9ACRYViPOqmXJqZXiz5jc3rRKvfMFNZLAGMFW5T4LzvRVHptuQkb9MokLfJXyg9asu4AgB5zsr7lP9bpmHTx0vquuWhR9E_aFi6LHFz9cyyJnUgZdRHQ5R4ESVBvM1bFbanEsaFA8z9lEESfg",
+      "width": 4080
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107703600735876407559\">Pan Ruby</a>"
+      ],
+      "photo_reference": "ATKogpc15ic8EX29YxjxBlSf9lpqSKbS1JKxMcksacvDxPi-MrpDnJ44fS6NIXhlr0CnKHe2ZmrxK8Njyx5NrOv4dieyeJtn3g90lvPgjDyAiTYd1rSeaThbqu15H2nFfmWtBNDds-W0Dfiv2env30ur8i2rRBGYNYJeaftQnaqOk1qzmIOG68xqllHpTX6xuZ68P6wafhaeOP5_xqd1YN6ptinTTere2CxyP0y7osljyvSH9KwW2HHw8ywRN922viKUr5RL5dCraKKZKsfaJg9wGB8Ac1bJKidV5Js4sLSAXhk5AhM_PmCxXv9TVtwq90HtAtNPlGki5D7WiF4Dig_H2QsxB3_pHF_gLTfvEkeLrogYld5LFvxNOEqOkzt56bUf0xrjarwwfXIigsKRN4HV4PPhOoEuaPsvsI0VMt_ejXfNdQ",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112551287735210793002\">Irakli Bubashvili</a>"
+      ],
+      "photo_reference": "ATKogpdfKxbCed52YTecqLijPFioH1mJ4XkhKbPNplnDZgrmLcO_fijrb3tGmHhQX3UV241uCcpjgZdBJtyTo98QfwPxCjKorQ3Ke4mSVhd7OmWtcsJgE4yXNq9F8VCtrH0PJf7BC0YjfLTK-x5U6ph9mUSvqHMrv3_mlt21If_vznvNqtMtHrbi2yTfE2nWUqKPXBo2sSGhFA7AqPv98vU4pr5RJoht9b16P0aitIg5sRuAARzJBeY1Mz4U7XAHOncRrM0zoWYWmysYeYFghgxGpHopXsOK3KVUU84apKp5xsD_BOqu6fTzyv4qRysgUmzNwY8OgvSH44NTOKctvnTVj1kpf2L4D5HbE5q7X4VLflSo6ygk_4YlRzNaW6q7zt-y4RXy8BBjwN62-8ebUEfiBB82W7LssfJqMP-Wn5vuZ5w",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103010987590483124915\">\u7d00\u5609\u6def</a>"
+      ],
+      "photo_reference": "ATKogpeoCUuNyt5fdWOauNRrgedyDAaEjLM-u2-lXGKcHqx22PhalDW4WFhm8srLhffksPrCJjcQy9cZ5lGtD_pMHTBtfQEvJ9u1Eyr8jDDl5CBb0O2iR2SxnMap7ps89pwRGBUtWeg65iOLIaQMx3989f7O7qIwKVgnrDI9yFX5NcfBM1DoR88GU81CTQTE_127rxZVXlvhEIxLjeaNy7DT8LcgxKR59-25sx_qaEt5NeCI_AgE_cNj_cLCyKMJvpDEjdeAO7tuaA7uFYXo6zFloqraUf3PoMqxlYRq-BACNdASUK8zdn8xK2UPgMRO0PbAKGSEnsfz5w7bftYre7NdkmRKtb5BGg0XAkvF2fsDi96WRD9VOfPg_UyyIkSw5F3aYom1JLochRCURVEiPMaa68zLZBMrJQ6e1wDzTOYWPsqpnQ",
+      "width": 3024
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115095695647677579516\">Yat Sang Yan</a>"
+      ],
+      "photo_reference": "ATKogpfJSlH19vLdni1uZUiQz-ixGVSp9oPjuj93kYK4KY2Sz5ViBmGOZiOoEWCvGk_rsZgtSAvpPRpanE1occ5hjn2bMgY1al5mAahRZp4wczzCWtw8Pu8HV3nkyKL-mIUZGS2E-xqMp8L8tNWLRmbABYRT-9RVdabv85OjVE7J-OCGKBgKQRfc3XH9iqTP0ADH1kozjNILbIGvbRCfnR3LkLXvn4xT1rpjMUqd9vMogIvVAv1_B2-XExIOtz7R-4FukURAtFlUvNkpuiT7OQXYnn42phYuZWPLsDqaL-DtYMWl1dfvWPYJ5nCdLwyj5fLxzW0gYY4BmsiDlPKqNz-TGUyb_G0EBDMJslCJoIpNqQsA8odVgf7CIqmfroq2suFt32F0GV3RneksGtf6VxcDPkCpgq2SNP3qeHa3g5gFS9_8I2EUOmF_i7TrgslRYQ",
+      "width": 4080
+    }
+  ],
+  "place_id": "ChIJr42oxs5awokRzyJdj2zfdIc",
+  "plus_code": {
+    "compound_code": "J2W2+44 Brooklyn, NY, USA",
+    "global_code": "87G8J2W2+44"
+  },
+  "price_level": 1,
+  "rating": 4.6,
+  "reference": "ChIJr42oxs5awokRzyJdj2zfdIc",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Paul Han",
+      "author_url": "https://www.google.com/maps/contrib/107396747877395222474/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpc5C7uxfIocsMu-uVq0ABqFO0exdRkL6S1EQy74ecUx1c_g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "4 months ago",
+      "text": "Service was fast and there wasn\u2019t a lot of people when I went so there was a lot of space. I order the grilled pork banh mi for 8 dollars which is very reasonable considering the size and flavors. The bread (assuming baguette) is nice and crispy exterior with a chewy interior. But it starts to cut the side of your mouth and makes it dry. The fillings flavors were very harmonized and well balanced but to have all of them together you gotta take a big bite because the meat is all the way inside while cilantro is in the outer layer. The flavors are very rich and have that sweet and sour taste in the sauce for the meat. Meat is also tender and is given in a fair amount. The vegetables are very fresh and the pepper gives it that extra spice which brings everything together. I believe the vegetables like cucumber may be pickled because the overall flavors are complex and deep. Closing statement: Bringing your own drink can help quench the dryness that the bread will give you.",
+      "time": 1738350220,
+      "translated": false
+    },
+    {
+      "author_name": "Adi A",
+      "author_url": "https://www.google.com/maps/contrib/116112202331094602033/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUnTG11CKR2-uH7-dxMSUg_k5oTHlnnOktMvlSLO11aacnePksqdw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "in the last week",
+      "text": "Just my favorite sandwich shop around, every time I'm stopping there it's great, never disappoints, and amazing prices.\nIt was my little secret, check it before the Instagram people will ruined it",
+      "time": 1750630989,
+      "translated": false
+    },
+    {
+      "author_name": "Dan S",
+      "author_url": "https://www.google.com/maps/contrib/114363590804773146406/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJEc8q2egU0J07_bT2mLLm8jbRXznQ3xFLrsoL5wp3lRSRmrw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "No frills Vietnamese sandwich and light take-out spot, but don\u2019t let that stop you from trying it out. This place is truly a gem. I go 45 mins out of my way for the B\u00e1nh b\u00e8o here and am happy to do so. Really feels like a place you\u2019d find in Westminster or sgv",
+      "time": 1748321126,
+      "translated": false
+    },
+    {
+      "author_name": "fantine chen",
+      "author_url": "https://www.google.com/maps/contrib/105203054999555825541/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL2jxPbBC2OSTEnXYxQJYNNUMm1k2EBN34m3QuRWeaCOzwWKFs=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "There is not much filing compare some some other shops but the flavor is good . There are a few tables but lots of a lot of aunties  and uncles just hanging out there so I had to take my sandwich togo",
+      "time": 1747501246,
+      "translated": false
+    },
+    {
+      "author_name": "Stephanie Cheng",
+      "author_url": "https://www.google.com/maps/contrib/106079448191189870400/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIxIGO4if0uE-UJv6--O_HLILm0oMWguFA_lARgDzEVWIzVmDw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "Edit: came back for the food. Excellent banh mi #1. The bread is perfect, not too crispy or soft. Less crumbs and messy than other places. I would get very spicy next time. The #1 has 3 kinds of meats pate, ham, and BBQ pork. You can taste every ingredient. Not a fan of the fried spring rolls or the shrimp crepe.\n\nVery good Viet coffee. Lots of locals come here. Will be back for hot chocolate. The summer rolls is only $6 for 3.",
+      "time": 1748797241,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_breakfast": true,
+  "serves_brunch": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "establishment",
+    "food",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=9760671949773415119",
+  "user_ratings_total": 735,
+  "utc_offset": -240,
+  "vicinity": "4222 8th Ave, Brooklyn",
+  "website": "https://orderbaxuyen.com/"
+}

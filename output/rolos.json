@@ -1,0 +1,494 @@
+{
+  "address_components": [
+    {
+      "long_name": "853",
+      "short_name": "853",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Onderdonk Avenue",
+      "short_name": "Onderdonk Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Ridgewood",
+      "short_name": "Ridgewood",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11385",
+      "short_name": "11385",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">853 Onderdonk Ave</span>, <span class=\"locality\">Ridgewood</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11385</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Easygoing venue featuring a cocktail bar & a wood-fired grill, plus brunch at weekends."
+  },
+  "formatted_address": "853 Onderdonk Ave, Ridgewood, NY 11385, USA",
+  "geometry": {
+    "location": {
+      "lat": 40.7019431,
+      "lng": -73.903537
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7032476802915,
+        "lng": -73.90222616970848
+      },
+      "southwest": {
+        "lat": 40.7005497197085,
+        "lng": -73.9049241302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+  "name": "Rolo\u2019s",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1500"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1500"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107316059097676751564\">Rawad Elias</a>"
+      ],
+      "photo_reference": "ATKogpctzJvhJ9Da79i4NL0EuQfXl_jokQHWHSONxU9UThLQu0D10deK5Cl0i4akdjAr4F2dU7it0m-SQl4O2tTc49FjvKmP2lyhQjK0bc3996NSX6lbdYZ9R5kIsTPopvP8dQh3aqv9FhNmaBstVGtevcyTaRHOjEsqNYrMHMti2OIpBRmlzpG6tCFknPWsEpi_LljhJeKUTDS4cIIu2EqWigXCvSo4YEYcIhGeBBn9welRxpK1-0X8yiYNRqBaf1vPWU36Mmmb3EaUB7oRcOTZ8aJCDkofk8AmIo42YLU0ASuqnhVCYzsok195U7MUOc03dZKaLx9_3cksdcpJlUWKQUBVr38lVPepjzM8zVTy67MaYV9eD7vn-Tfa8pS79PTRkZmD_y3vc-ZwN1upW4bkKXAuSBDUKpguNLeN_aQ0QIBoNg",
+      "width": 4032
+    },
+    {
+      "height": 1848,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100057677700390870493\">Diana Fong</a>"
+      ],
+      "photo_reference": "ATKogpdPS0xqwMCwk5-l0osKUe4dhniWEnBtlgAiydE211z-D6r5OR-jIzsg03bvIyoBVy-BGw2qz6WOR2goi6mHm1-ttkJe7jDB2M0ixjjuF9A2Pbg3cOu41hMOmRntQ_1z7Gy4OiUYGvjje1ittzxSqFHjnEwho0rDXPaI6JIcTaZDjQhLEgSLtszGk38_D01SViUDai9gzSKiPzSW5f3AsTrHQTKCsHilfz3IjfbcM_H-Zo4iAtOCaj_PwQca11LkMOnvbUle9HYzVYAUAVmHAb6H1n_SbdVuKmpQOl-c9N2s41r70En08172Ony1qZOQFrlfWMtluZ9KNjkBGfB9-dTYQKw13ddi6AR16Awp85X0WhXG___TAdeQ8Fd6XczdxpHPQBOKtr2phgkZClQdn-yMvekZXCWZUyAMLd5Up3Ms9Vm-",
+      "width": 4000
+    },
+    {
+      "height": 4281,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113412024776752785205\">Lazar Durovic</a>"
+      ],
+      "photo_reference": "ATKogpcVTJW8WhtBOT4aqDx3xjngaGrOV8xTlG6s3J0CUFafVgbXa5mYYuJLzOL2NRMgioYfm9kJkgjgbWH8Aw986uk0rADYZpSpl1SN3MVEfJyE1TXBtd9hsxwbS1qUKv_eGPw5ahU10UOOKCBV9cZmzmkaqAI8htkHgg4vpkbnuheLD4h2IsDL0NFvtp_RkMX8De8uac4_5-v7ahpIS4qQ2wjnU--jAjY2ypEIEfrhDEAp-I9N6EEfbS-TPtKpfc5-ZEb12hveQWPfUb6k4IjGdEn2sMdAJYeoU4eBzKLweHSp-t-VqhAYH0m5RDEhJzFOVBFLL9kdtIJuk3XdnMY7CKQaOuLRZI7-Yuvpqcvxo4TzMczXgxLeefBDDUwHkCx6nJ3iiMAQtRIh8VkTDNIuNnIItE94aprvWhpz9tfQjwJ41iJzaKKM3g",
+      "width": 4281
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112592230357964787964\">M K</a>"
+      ],
+      "photo_reference": "ATKogpePZ4Ir05eikmnesM7Upvvs_Nv8a_S8-ZNaYEnnr9hziMdJ04sFd9LnlyvXzuMEjezMuJe9e06O1L0JSmBTCYuT5D0yKALbhGV2-D-yPezQXIQEefWFemht6NvfMbiLrpIDjgb7ntZR2Ozam9PLquFg5IaAQNRSNwvn2y03B5aQg1MvTLD3QsL5VdpYA_1qdJIoa5eXVdgK0O3VBLINrltvZhJTmZ849FDoYGrkcM2WhJy9ko1e_q8V2Nu3SioaqvZygJVp44YfVPwecOaCXNyFr1evfviqyjVXtKTWfZEJ5WofG6zW02Z00prUcBXWybrai2fqoBUSQzeUJiZqx_8n-tjo-MhGJgK0Ezi_qzHPvyTudjzMbMEfVlckzk9YU99uzeAYDdUBB8d2iYr96aph9It5fXXvGGxeFkyAjamU8mzB",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113914965855243748662\">Tasayu Tasnaphun</a>"
+      ],
+      "photo_reference": "ATKogpcQ-GQ-gflwccvp_dOT4epGz1EXAixULsuiaknBncnBUrUP0GN52CsHOb68XfRQP1VWedRAaAzdinHWF2TJ9BAl7mxUuW8vnFdeQLk4Bb5ouuna45IR_84CRLVHCI6kIGIZePpKw92cH9iFLhxcaq5eTqmUs_-GsLTne26FaEl97DMDsP0xv8ziDITxGBVa8PF3wWGGlG2TfoEBt42KNtMGJGj6EWF-kv10EYRefd-bS_ifCSSFACMzls9fk_yTF55MTH1FZnDvtW4NIWzQYvXfdIhrEBiw-6eLMvcttX8FJ5jrXHanqILnEXgPoHmwqdGUm8L8eSr8w9pAppTcJ-CrzgvAEZ0F76f7WPbeaSSdeQrClWejAOksyvUilh4WnNcXnsrYnPmBytNEVUd9QofuSm1KUWkmhUkGWn7Yulrm6TE",
+      "width": 4032
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105893776533435491787\">Megan Truong</a>"
+      ],
+      "photo_reference": "ATKogpe6_j8DD1FVSHUGzHcnP7gvQ6eMx8idbJoaQC3MNfJ6LqFkfiLlK5w9iuV1Tea46ylnHBqPacRuDgiQgUoatHpqzq75JV9jpR1gLFc41aart0csuqn1KujsqwjSZ_F_kR4cr-MclafKu5ojy6JA6gZpqNcHqPxvWbEVrMm5ckTp7SFA82rVR05a3WRA0M8n-f1srEBfkmmv2OJpKdZ_xBtyo3_3SDNJfs5ApCh0LPj04zYFiM1f7MXfUacn92i45oXZ3TD5h2t7OxlmrPSPtm9CxFM1JYJLuhxGnVM4hU8WdI1p-uMWeGRznU_pLYjBRzP1pPD-jwzpWbdqx8WKWf9inDmPD-KRwz5-FLi2PKhnhMjBvXxGVToR_KPoICQyUYQzEdYAPUqX4aOjWNtTMdz5ESGbroIV4jGnBfgmL8EUTg",
+      "width": 3600
+    },
+    {
+      "height": 3500,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114333042282625349690\">Joshua Fields</a>"
+      ],
+      "photo_reference": "ATKogpcSTmx1-Ln1I32V9lLSjWPxhqrGpR4coxlzM0hOKAmiAgO5bcVNTmPfUJtt0EJgPX4wohJc_ASY_BncjzP6YX7R-A-ft7yGgkBuJPidsEDFctHaWLeun0izsoTFCFwB9VbP3nHV2cEOkvHCJIO-UCHlja87xrVXsl8pduv-yZxwPBtMV1ksxfoybT2pJE8z3lMXPXMEJ8wUBsV7TXKpKPte6ExDPmglSPbxakXCZoxzMg9Ywi5o5wZU8WNQcvtRxOQKicG6cBcl2-4iSUA45RcwD0lfs5UV1R6nPzgJssV8GOTgfJps_5zIhNUboAOrcphAWA-dGVRDX5a6zWe4e4DtZLrJSjR6Cud7730Z59cWcgUcQwZQFFC22GR5nDZo-JYIxOFd4k1dlnNF6CtwSjJCW7mdMC8L3TZlNTdZPUevp-b-",
+      "width": 2995
+    },
+    {
+      "height": 699,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114018746893905554358\">Waleed Khalid</a>"
+      ],
+      "photo_reference": "ATKogpdmW8N417nb3aykiFpmSBpp_UDtkWaJJxZfbC0IZUVpAWMyb2n1tlKsSIr2hY6igWGDiZIvtenPajcBsVeiFnoYSOcsV_RautoxBfObeV2dzsGRmKcgQt0fabu1RyMnAUTNuCIf2HWEacxeFGI-PQN1XBywpziH15oZGQCD5ChrHHnFaMiRMLLKf5bXCH5pZM3JiRVLhqCdnOtKq4G2pBTZ8PsSGjpu6iYnbp28zmAfxh9hzjgT17l5kJmf2cnf3sJJCxEsmW3m38trW-EL9RsunBhks9aEGz0xjb2lIZNybmsulnvS9VwxhsUrvyRpjEUQIA8TdueR7JEl0Ad-ayQzz2kcs5ylIIjZ4Gsc427El2A1HoqTV3yFnbbbWGY1FYzD4Sxh-3U88bVC0TyhnJQ6BS2ecRGccRzxy_DIhgdI4Q",
+      "width": 1080
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100828220502596214040\">Blake Rasmussen</a>"
+      ],
+      "photo_reference": "ATKogpeZXRBeSpgWHlXyjAiAdQ3cH_Y6h3-yvWVKaCLamsgV7108bjMsoRQTsQ_vmRyKQKpbWXwqoD5c4La2UA9UDYHmGbH2wOPNP8P1T9vNuc1WcLGvMt-u8uS17968Li7Bab2lj-UtTDaI2ellc0S03VXmHl7w-LiyzeevBTOddrysrLtM_Rws3shh7Jw4kKZ11X5_HpVN032ISn1xOh_l7yga_BVi6F2AlhPVPjk84PnpJrurH4CKN2XMedMVNbDMbeQmU5pu5LO1rtOnrzD0GszKNp_XSA-fjH9XUf-lIQEGngh4TAy-PxvYhKX69v2nDJ_gj9K0Dt2TejaupaPHTePbILluNeV9EnZWYxZ8_lfDfYgd54ji8sIWDX0eKTqHBKQRYYSLQvCRAivYxhKgBXDKYtdrATIZsMun-Mh_iAwKbA",
+      "width": 4800
+    },
+    {
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104615009667805425460\">Lenny Zenith</a>"
+      ],
+      "photo_reference": "ATKogpfBfkUF6UINL53YcwZcMrEfIh69ZAE2J26JweClSd8gohV8RuEL9lRQe96VbqCjEb39QMMHZcNUAOeP_RTgBuKsLSSDFF3tTG3K5w1dOVOPwEnytfhDh611blVuYBXFnfX2j2RfytxlV7WK6HuYW5QRHstFXxI0mrOcR2QiReLukgWoESdowJmztDr-u1IG9eq4pZIDHZZCcmaDrfR8Au3qnkIJrD4qzSlXAE2oTJ94m8UG-TCcd-sHspQX74SM3ftXeYYmsWhSgJsmaORoy4m89HMDHmIDthtyeGvBg6eC1TWFzjionT6E7s7AkN7VACLhoMhlpAK3JjM4LkDjC45NsZ-Yzu2ylXjqMlTR5vjGfHuLHZNnT7pulMxyJR_QFnE6OkbKjULSzTWf5HPAv2HntRyEiMt6k2qwHFP7E29pkOuPTzV8TvIwbdQjXDp-",
+      "width": 4000
+    }
+  ],
+  "place_id": "ChIJWUhoPQhdwokRYsDwo5qMnMU",
+  "plus_code": {
+    "compound_code": "P32W+QH Ridgewood, Queens, NY, USA",
+    "global_code": "87G8P32W+QH"
+  },
+  "price_level": 2,
+  "rating": 4.5,
+  "reference": "ChIJWUhoPQhdwokRYsDwo5qMnMU",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Chris Curry",
+      "author_url": "https://www.google.com/maps/contrib/109077470975893098441/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtBgRVCzQOat0lxwsoSxEu38EQ4btcJSanQ9J2F4iccLkt-zgyRQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Great place for dinner.  We had an excellent meal. Service was great! The chicken was so good.  So juicy. The snap pea salad was refreshing.  The prawns were grilled nicely. We had the pickled carrots, scallops crudo, arctic chard, three cheese lasagna and the bread.   All were very good.  We were in a group sharing and they were great about timing things so we never had too much on the table.  Good wine suggestions.  Would definitely recommend.\n\nIf you found this helpful follow me.  I don\u2019t give many 5* because I reserve that for the very best in food, service and experience. I try to be quick to the most important stuff, the food.  Then add notes about the rest.  Enjoy!",
+      "time": 1750016307,
+      "translated": false
+    },
+    {
+      "author_name": "Carrie Sam",
+      "author_url": "https://www.google.com/maps/contrib/117711924020783792764/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWsFoa2sJbbAhBaOMfDc4PYjKOChDLrsFwzWjjerp1ZIVMPvftCMg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "I had to see what the hype was about\u2026 and I have to admit, it kind of exceeded my expectations. The ambiance, service, and food were really good! I came for the burger and the lasagna, but my favorite dish ended up being the polenta bread. I might be biased because I absolutely love bread\u2026 but something about the dough and the ingredients just hit. It was simple and not too overwhelming, a must get for carb lovers like myself. It was so good, we ended up ordering another after our entrees.\n\nThe burger was juicy and flavorful. Was it my favorite burger in NYC? No. But was it still really delicious and tasty? Yes! The lasagna was thin and I found that I actually enjoy this version more than the traditional lasagnas. It\u2019s not as heavy. Overall, great experience!",
+      "time": 1747280660,
+      "translated": false
+    },
+    {
+      "author_name": "Sophia Cohen",
+      "author_url": "https://www.google.com/maps/contrib/117911291828345034105/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV_wy1eA2EPBsoGeelVbjquEzKztmIcPnIlnkO0LLvqUlFqWdJdHw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Rolo\u2019s exceeded our wildest expectations!\nWe\u2019ve been wanting to go for so long after hearing such great things, and it did not disappoint. We went for our six month wedding anniversary, and were greeted with complimentary sparkling wine. The servers were all top-notch and so attentive (re-filling the bottle of water on our table before it was empty). And the food is sensational. We did not leave anything behind. We got the polenta bread with chili butter and a green salad to start. We split the steak and famous lasagne. And delicious brown butter apple tart for dessert. I also loved sitting so close to the kitchen, I was mesmerized by all the action and the wood fired oven. Before our food came out, I said \u201cI can\u2019t wait to come back here\u201d.",
+      "time": 1742650602,
+      "translated": false
+    },
+    {
+      "author_name": "Brandon Diaz",
+      "author_url": "https://www.google.com/maps/contrib/105575966890874640302/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX80tBx2HVognR7AtkXqzNRcloY_FBkAWoWKRA90LxdR8voNew=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Absolutely Worth the Wait and a 10/10 Experience at Rolo\u2019s\n\nI\u2019ve been wanting to check out Rolo\u2019s for a while now and I finally made it. Let me tell you, it was completely worth the wait. It exceeded all my high expectations from start to finish. The service, the bottle of wine, the food, every part of the experience was top tier.\n\nWe had the chili bread, the two sheet lasagna, wagyu skirt steak, and head on shrimp, every dish was incredible. Perfectly balanced flavors, rich without being heavy, and plated beautifully. Each bite was memorable in its own way.\n\nLeo, the food and beverage coordinator, was incredibly knowledgeable and passionate and really elevated our dining experience. Our waitress (I wish I remembered her name!) was awesome, super friendly, and helped us curate the perfect meal.\n\nI\u2019ll definitely be back soon to try the burger. She recommended coming before 5 for that, and I\u2019m also excited to explore more of their wine list. Every detail felt thoughtful and it was truly money well spent. Rolo\u2019s gets a solid 10 out of 10 from me.",
+      "time": 1745335331,
+      "translated": false
+    },
+    {
+      "author_name": "Jean-Louis Labrecque",
+      "author_url": "https://www.google.com/maps/contrib/112689346908440803565/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJjeE9lTkSGS1K1RgdTFtFrUOgxYBj40BYB-VzYKHPs16xRakU=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "If we could put 10 stars on 5, we definitely would. One of the best brunch I\u2019ve had in a while. The decor, service and of course the food are simply fabulous. Hands down one of the best burgers I\u2019ve had in my entire life, kudos to the young chef handling that section in the kitchen. So good that we wanted to go back this morning for a second day in a row but couldn\u2019t make it on time. Congrats to this whole team, we\u2019ll be back every time we\u2019re in town !",
+      "time": 1748191059,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "establishment",
+    "bar",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=14239410717641982050",
+  "user_ratings_total": 1484,
+  "utc_offset": -240,
+  "vicinity": "853 Onderdonk Ave, Ridgewood",
+  "website": "http://www.rolosnyc.com/",
+  "wheelchair_accessible_entrance": true
+}

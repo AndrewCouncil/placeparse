@@ -1,0 +1,445 @@
+{
+  "address_components": [
+    {
+      "long_name": "69",
+      "short_name": "69",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Bayard Street",
+      "short_name": "Bayard St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10013",
+      "short_name": "10013",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">69 Bayard St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10013</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "69 Bayard St, New York, NY 10013, USA",
+  "formatted_phone_number": "(212) 964-0284",
+  "geometry": {
+    "location": {
+      "lat": 40.7154542,
+      "lng": -73.9981861
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7168516802915,
+        "lng": -73.9968863697085
+      },
+      "southwest": {
+        "lat": 40.7141537197085,
+        "lng": -73.99958433029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-964-0284",
+  "name": "West New Malaysia",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2030"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2030"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2030"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2030"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2030"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2130"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2130"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107055867758746530691\">Thehungryboo</a>"
+      ],
+      "photo_reference": "ATKogpfEUIFQHbbhGWPCxj9qIDax1tCsBoZKt_dDXJoq0sEkErQYz9_-y3O68vKN0REPjUQ2mT8zVVElynYdXNmNicBVRES5DKfsZ1sTydN6F1OilB2kky9ATKqANKc2zMIH8vHz28I-ayNCbokwpFwCi1_bfloEJDvSaTSxzl45puWGcrMmTTw8csDg01W3Upyg05x0Xi9t9ppE0aQt5eNjEEyVFPc4YVFRKpjJN4hmA0Raran9C_19Y8FQkMoqIyCCgUdGIclLbIuIJtvo_Eva76qdoivId29FgNJxkR3aJ8XW9oAfsRW2cYUstHhvrKiL01HFvpFYDtu8xVK4UPz4hTcveWX8tPzuOrKmA1zmVqC2jRS8VADb895MSYc09mL2SE4lUuh7BQHHl9Bp183oSh8ph_Inp9jAoIXRT3wSzCJxiCQ",
+      "width": 3600
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117795955823699679975\">Alice Woo</a>"
+      ],
+      "photo_reference": "ATKogpcujv10rx9ZaUOzv98RpTy-vaA3gRBUgRloFGQKlupGkUsTyTP9Qr6zwbAfjp861l0WuvpNyIggLADlg54xoC2A07VMiTq8ny6dBttJ6Lb1VHDDWQiYiClhWsyaZO_gKUpJaz-sd8daRhf4m0JELJM781RC2O6d9jij2WiFF34ICVQyi092RcJVFHu4Z5E2-dO96PDLwKTEXWOY_dSKk2T1wFp0m8abhrBQ8YTehDjTwhMBnpABB9T_VIP7yEP9O15TG2KpgovASxmLBzbaynAFzCmHbiZ1tu0rFTzXqLcG9twyUp65ywekuYgJLOhnbve_e96-uZQQGZfbCVGxMFFSfEM6B_rvuOIRkGeBgUolL5hEqfxULb4YkCyeNtc6H91tek1hS1qjE2oJ_5t2JwbezWGXINFE7kMT5bQ1xhCjBP5a",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104641095422852249098\">Matt B</a>"
+      ],
+      "photo_reference": "ATKogpetRbLgysOwKt6nrqrwknTQN-ufqYKmc3JWqE_epWTKCPoM7lG3ip_f7EGCTd7ukzpMW1KXHipqtahw8tuVI3wrSQ_fXXv-vHoJvn5FpJ4_lHHIjB3f3jHCNUq3NZhp633nUfRLqoJ2n0P01GwQCQ-HJGzI8f5H9HxyExCxwDV6RnY3U8hsJt1idG-ikusr9ebRJ_jHPHoDJE4K6jweWeUwlj4_gNyI9GTeU1B_ZsCrdcM3-vemk03tx6SNHoSOC0A2YQaMFyB-RYjdmCXee-c-u2avJLimrZJ34mmntaHHfU1NKb30j4iBM3-lcX_DJLX7lBYbFTPSoHZnLjURWLbvAhLtNjFuIb74k3VX6x7kmQQBd5RvDTSonrR3CK--IFN8xSra2eJYe1nDhOwQ3-NmdvMg38Kgi6jBRrgn0R_Pcby3bGk35YjWoilnGA",
+      "width": 4032
+    },
+    {
+      "height": 3061,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109960168688134767401\">Aileen Hsieh</a>"
+      ],
+      "photo_reference": "ATKogpewTm12zd8ecmCyQjPtAOWUQSdgIVxnc6-EIXz0iDYO46ZCO9xbj29e7ski172g3vvGrZDDC39FiqMiU9oLsMAKsQ1URWDF7XeOwfrv2nzVVhFliCuKgSYOP-vAnm61F7adEJzHKtu9pd-bQCHthaKQG8Q0mVyHk9YTYK4pWtDgdmqWeqHHfhnkKXMEC2dJwFTTtRv1NTq4JzEskGG7D_5ChgWaPNJkevzzrcqNq-1dWFb0ehSU-Cl4UKC_44pH7kGG4oIFLM5ULaIJpcba-mYbNtPv_jhOcFYdHRrQuGjphNFJRImDZi6lAJlXYTCpoTz2mVYt9ebpT--fP8rAB4MLlhpmC-YkquJQ8qOp0ruhUPPtXWRAUBewFBra-7InWvmLINYrQiXdoReKLwzQe8DU7frw5LPIqY7Zb6wHUWyyZ4Sm",
+      "width": 3540
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109944309096907120608\">Matthew Ho</a>"
+      ],
+      "photo_reference": "ATKogpdKeti6dnoDghTda_i4DdOeyuTP-wKRxvwTlaZdPv2J52NXwN7OBC2QdvPtU2oV-m0d2OljR4j2ObYUjUB19E_C1-CBiPMhCoRiBayeSa1dUcryDL6muBPOdMGhh212YixiX340YwLtBNU6DafHgmFrqJPZucAcqCXC_xhYd6DDsMOSn1kB6AE4iR0sYwseumX4Bjs8YSUX3huk_y-p0Y9fy6Qn6RnEUcly-7CQmAVjsQHpXhyJ5T5CXDY5MTeXceEtwdoGKVo0cwpKPjhQmJG3IvRu5Gj_AKZlu1wdLRl7z0Jj7kPm4AQ7DuTEVzFBRIgLpdKVBLJsyhfW0_I-RQ8UrDfrDsNQfRY_slqYOD5TpvKi7UaWVYsHyNpK4n4BkjxyaBOsSaqa-Zdz2bEuuS-klyq0UQkJ8mTqztsILQsT4g3YATWnUq521rccCTw0",
+      "width": 4800
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106688867265713461310\">Burt Lien</a>"
+      ],
+      "photo_reference": "ATKogpfsY6vXNi7nrdY9sIXwCDjc0YopODtyIfuQq9ynxmEOiW-52H2d-PGwT0ZpxDAL6GFmMGH3SkduXtjh5yG3AH1TqDTUxsE26XbuQ9fYYTiC2AgBZldwoYXy6fgjM2Wk2CVwkRc6SOvE2QuQDd79AzidYlBBbGjnpPqgLcFYXgQIPRUW1qA7k9lujStMD1yDYgLOXqAgFH4qU3jWKB4hq34Y8N_5KKdQ5AAvrqPhbJHgHlbsDopcAEZ_b4pLW_Vos1Ib81mVqLlixFuTYqEAuqWZx_GITpV0mM5bd3XgDyu7yAYAqh9i6owrKWBKT0sy348u9QXiWVIQkzMWqq6cAiHWMu3x5xkLCq2po_Vm2deLnG2DW9oVcGmushkoQgJHHfrChbrvvdX0hLUm3-2H1e8GJGQf-Y3zdRP2DhsWsKE",
+      "width": 4800
+    },
+    {
+      "height": 3812,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109960168688134767401\">Aileen Hsieh</a>"
+      ],
+      "photo_reference": "ATKogpdesBlZcU2_31W82dn3NH3yXrMf6IjA9jduoeQwHStn9QV5Dm5X1P_hFUJbCoaryouMSKEVkuvfEfRMiiV5ggUO5a00XkqervmZYCm8iJvj-K2fx5Q8Qn0yAqSDTH10Way97EdSCl2g9IJjn7udT9KrbwYaT95DTQ41QLhiODVO1598KptV8cQ1gL-x9FDu65YF1487wpmnorzOISEzPvuJKcIm3JFr5FWh2BCDei8il_6_hRTtqIJpx49YKoTXsqwv1PBFqT9D8mQ-QRqCQq4p1cRuADd0N0Eu_VgHiYh-Pic9sK-hvF2DUI8C_4PCAw_KixluLxRFtNyeC4KqXBIZGIfDDYVTaq04eW4OpHGl450aLPF3jK8WDKyG4TbZgjb3oJ4BahkHoQioGmK-poEgZaEuPzNk0pSxjYQn26vaTTs",
+      "width": 3540
+    },
+    {
+      "height": 920,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112932995851549871677\">Daniel Ngai</a>"
+      ],
+      "photo_reference": "ATKogpf6-Vv8RyWLnSlGw09e3SMwBpMmMKQt-leRnnhds84WFtu_tNUbenKio0tFwjaiNkagB9BfXttGzSHbUGHPg7e0ySjHY7C-HBwpq35YqohJKnrtLEbuzM9Oggp9-27SAMSRS5X9jKk-rG0Nke4FBQWeJN8AXAy4cnG8fHeue6mUANe0oNpqXJ2Qqg2ABioKrtIpZx6ibe6rOqkK-gJRyheRU95_v-o05i9sZOdH5lindQ2aHmYdDIF3dXUbDLaozJvov2yYa_bgd6WQgr_3YFcJsVhaGRLG5VMal6pp103JkxMSvvHH2cgdWdgok-_d5w-OWbF9kQnpqJzqXlBJjqd07GohpCZO1cLO3AEJyr4_XDnKpzsCs8ofr-xu_tp6Ff1OWHDCy6EXjxlUH-apbD64NYJEoJf2XX2fr1ZPuTz9hjMT",
+      "width": 1320
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110090682243074351756\">Ferdous Ahmed</a>"
+      ],
+      "photo_reference": "ATKogpccHiXz6_NUomeTMdLWGluTIc7DjMGok65jUVXGttMlSslFE8GtqD-gk0Sp71rBXbeX_R7T07Dnl3oZC5WLvS4sLl2KmOpAkodIswJF90jLElRbe0BF7znRipbnJdV0XLIND3YuXQVa0RAEjz2Cfol_9Zrsug8AzmgcNun_7z8aAdw1lnUkHn6vnwcp5KKLBPllAYb-6SzTQy7W73h3DlkH5kht4imrYl4dNaI9z_TaKK6ZTgFdwYCxnuMJBZFKZ-vGomnKQnhyRm36mxcjuUx6Bktqciy0-fLD2BEbGw-exOB_mLDSytRT_MFfCrEaLX8b4koUOTmiLfpXoXLoKCPXS6c-T9iRvJ8RpjHJmf2c4zLw0mAZXIU9xEFbHTLA1lW9zg6D-Jhypswm35-KcWKmNEb3N1nnN3gdCZzA6YE02Bw9",
+      "width": 3600
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104665617824805061963\">Piotr Pawe\u0142</a>"
+      ],
+      "photo_reference": "ATKogpdxv550bxbnQR8BiBZe1SdjhCWpIPzzxtsDqTCHRoha1SIpSgLIJRGfYb02u4YOTxoDxVodIH0H87Dwr79606xejutOomMTq9fXkmNoAykyhBCETkuhCHCrhk6g00vDPkZveZSOsP7yRv7UrKbirrdH3WQ2Gs8sPA2l0udzmWVfTak6PEx7oiUjVvAbCGFDbmVVFna7hK-u_apMOgngykR4Q5ir_opAeiHScoYM22-1bQ0O8Kgfr7JC-WUkCcCKWFjfH-4zgLaewxnAollUtvtQWCVzKVKzXrKf4bgucFpATptVImmGQ1wibTAw1bQWaYu8zOjQGCnde60Vvdc0dVWHaSncDLGNEycKfvA3-GvJwHe-pElIwGOzOwDBW17_arDgAM4zY9haOkDrJfUvfgPf8hd3JmXoz_TzFr9JZdc",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJ96ZaW9RZwokR_9w0VNf-5lw",
+  "plus_code": {
+    "compound_code": "P282+5P New York, NY, USA",
+    "global_code": "87G8P282+5P"
+  },
+  "price_level": 2,
+  "rating": 4.5,
+  "reference": "ChIJ96ZaW9RZwokR_9w0VNf-5lw",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Buschauer",
+      "author_url": "https://www.google.com/maps/contrib/113247761011303797523/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVaJrzNwu72h2wVIorf9G_IbzWQQWzHwDOWtJSTwNIFbgL4X1Sl=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "Let\u2019s start with the positives. The service was genuinely friendly and very accommodating, especially when it comes to vegetarian options. The space is modern and clean, though it doesn\u2019t particularly evoke that distinctively Malaysian feel in its decor.\n\nThe menu is broad, with a wide selection of classic Malaysian dishes \u2014 which is great to see. The food we had tasted good and was nicely presented. But if you\u2019re coming in search of authenticity, you\u2019ll likely be quite disappointed.\n\nTake the Nasi Lemak, for example. It was decent, but came with raw peanuts \u2014 which is a big miss when it comes to authenticity. The satay tofu was overly oily, the fried chicken wings looked more like modern bar fare with a pandan leaf added as a bow tie, rather than the traditional pandan-wrapped Ayam Goreng, and the Mee Siam leaned completely Thai-style (wet), instead of the dry, tangy Malaysian version that\u2019s typical.\n\nOverall, the dishes are okay, but they definitely don\u2019t capture the true essence of Malaysian cuisine \u2014 that rich Peranakan influence and the deeply layered flavors built over centuries.",
+      "time": 1745204164,
+      "translated": false
+    },
+    {
+      "author_name": "Matthew Ho",
+      "author_url": "https://www.google.com/maps/contrib/109944309096907120608/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKuhZR4zIlUmumum1nbqMtve-QySmrlIBqCMh3eVCzyj0mRfg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "West New Malaysia is one of my favourite restaurants in NYC. I've been here more times than I can remember and the food is always delicious, portion sizes huge, and price point unexpectedly low.\n\nAlmost every time I come I get the combination curry rice, which comes with a large portion of curry chicken and curry beef (over rice). The meats are always delicious - very well cooked to a perfect tenderness and juiciness - and the amount of food is just so big for the ~$12-13 price point.\n\nI also really like the indian mee goreng - the noodles are very chewy and I liked the great mix of savoury/sweet flavours in the sauce. The char kway teow has a similar but overall blander flavour. Roti canai is usually yummy as well (the chicken curry is ofc the same as the one on the combo curry plate).\n\nSome anti-reqs: the singapore fried rice noodle was not very good. I felt that the noodles were so soft and borderline soggy, and the bland flavour just made it feel like eating pasta\u00a0at times. I've also tried the kang-kong belacan (water spinach) which was ... fine? But it just tasted a bit overcooked and overly bitter when I had it.\n\nNonetheless, I do tend to stick to the 3 or 4 things I've here that I love, and I'm always extremely happy at the end of my meal -- satiated appetite with loads of leftovers at such a low price. I have to say, I think this place is getting busier with time (finally getting the recognition it deserves), so it's bittersweet when I think about maybe having to wait for table in the future :P",
+      "time": 1750391112,
+      "translated": false
+    },
+    {
+      "author_name": "Dan",
+      "author_url": "https://www.google.com/maps/contrib/116562438433820578984/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV6Vpad3zmd_bRS_NRyMDg5xHn355DE6cSY0nXB1CDQJfi5a5o=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "3 months ago",
+      "text": "3 stars for this restaurant, roti and hainanese  chicken are the go tos. The stir fry noodle is also pretty good. Mapo tofu is alright, a bit on the sweeter side. But the fried rice and fried calamari is so so. Nothing outstanding with these 2 dishes.",
+      "time": 1743214402,
+      "translated": false
+    },
+    {
+      "author_name": "Niki",
+      "author_url": "https://www.google.com/maps/contrib/100701960552601829810/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWYTtKRzawTT44UGbpP9xFLQBTlyTXpHSS7Ci_rOjCiKR0UBwykfg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "5 months ago",
+      "text": "All the dishes I ordered were very good and tasty. Their signature Hainanese chicken was juicy and tender. The curry soup noodle was very flavorful and I love the two different noodles mixed in the soup. It was crowded on a Sunday during lunchtime. Might have to wait for a table.",
+      "time": 1738034641,
+      "translated": false
+    },
+    {
+      "author_name": "Matt B",
+      "author_url": "https://www.google.com/maps/contrib/104641095422852249098/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWk8qO_qslrJAsU8AckTpNvL7ovyWJ4Xz7cMzI6Oabnbet38tAQSw=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "We ordered a variety of dishes here and everything was really quite good. The mapo tofu wasn\u2019t fully mala, but it was good in its own unique (lighter) way.",
+      "time": 1750019238,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "food",
+    "restaurant",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=6694318096916995327",
+  "user_ratings_total": 426,
+  "utc_offset": -240,
+  "vicinity": "69 Bayard St, New York",
+  "website": "https://westnewmalaysia.org/"
+}

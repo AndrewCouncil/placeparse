@@ -1,0 +1,444 @@
+{
+  "address_components": [
+    {
+      "long_name": "136-20",
+      "short_name": "136-20",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Roosevelt Avenue",
+      "short_name": "Roosevelt Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Flushing",
+      "short_name": "Flushing",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11354",
+      "short_name": "11354",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">136-20 Roosevelt Ave</span>, <span class=\"locality\">Flushing</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11354</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "136-20 Roosevelt Ave, Flushing, NY 11354, USA",
+  "formatted_phone_number": "(646) 920-0889",
+  "geometry": {
+    "location": {
+      "lat": 40.7593211,
+      "lng": -73.8290528
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7605282802915,
+        "lng": -73.82810961970848
+      },
+      "southwest": {
+        "lat": 40.7578303197085,
+        "lng": -73.8308075802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 646-920-0889",
+  "name": "New world Uyghur Cuisine",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 2816,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107688513051944490084\">Nada Zakaria</a>"
+      ],
+      "photo_reference": "ATKogpeIdtMPRErDx7xQZw0FM_FKclW3w2TfTURlVczY-aKehYHPvOJ7oNJ_HxZnJ3YybiPr1zZ39imzDD27pWIdeShCnw_958T4J-vH7x9mnJZwqBcbJwDdfbHpAKODZVnvXXA42oFuHi8eDgeZ1g7DqJvueMMc6ekhDP03eklj2Lppa7YQ8FOof-fEpt0tsSvk8SOM0kr99Ik1_eGCtFHUhB-H-KyTWKIPR0t5R5jfAcNnT0k07Cu_B3-eKI0PdEckJvPwLz2RAtUOG-kf3-RWJERBi3uaxyqjXGvfiGP2hq20W00CwX3Pnul7guxhQMR3-5ndXzm8XSAVppzNbqURL6FO23Z5l7DYlf9SPPBvEstP4hQyzlt-Of4fk7PycGqO_CQqfoJMAiVTs084826G10EQ-I17f4-BLUyT-0IVRTbmxZOe",
+      "width": 2802
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103356169202042157892\">Kevin F</a>"
+      ],
+      "photo_reference": "ATKogpeIdyGodg_2sgIo60mjbUjVdk4-UmyZf6pM71KWTT1TYCdKGCGeqfnSHCdvxOcgQ6AnW5E65PMaQgTdfeh8-bSeqqaJOVPUsvZkXO54JAh0Z2J2bI5k2cst1nlNyUzpvQrNiO6jQrWe5mLhMJQZ4gK0DiGJz7zO_HQDHEse4HqC6hypT32RUVL3nCOMkLZPkcId-v85MOqa0n9FQuH2Us_uIp0H_tLw6Mhty6vKSQB-rSejEkd1Hk_nGU-AhRQ4W1G2l3nPgTst-nHleJq6xgeaXPERKbve3amE6Q9j6uwLfwFbQlVKu3y7PnkIBY-Hpmh2mnyHWym0Wg8dCFeATy94IQA45-mmr5tUulH1lCDXD35O1GKxRqfqwydMbthlDZOwn-KXOwjjarIpD53GYPTkXm1pXsgc0JhObG-9mU54UoQ",
+      "width": 4032
+    },
+    {
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116964153465995550825\">baqi sikder</a>"
+      ],
+      "photo_reference": "ATKogpeHN2lbuizbDzHNRLNsfhmNOEcQC6Fj7OKyvLb1rxjVA79_ItiV6qwtrrhKkkIr3VCVpFFA7iqmqR6Dp73-m2PTaQvbd-o8sJo125XrPyk4_gktfj_mHmLcdllFVMdIy-4GKvJESGKOTnIOoVsqRyWV7lZdyUSQEdl2kmp6vYdbpfMsYQ6HZj_feqvxIWy9k_8q8PyOvbATRAfNdQE9LH6zQrUnaLHR1QxKiqCZbgQ_xHQxhU-JaYxb2MTbHpLNcs_APN_TQLr_uOXInK1zcyLZBix0FMoekhNO34DRRi844JEYYg9xNgnLTfZAyYd7TIl8udLuhKeGrvkQ-4taSGB0Gf4KXu4jIaEThe2Q1FnrNkeonyGG0ZdEa5AqUqgLj-zfXmOyBLGM1pLB8eDOaWeb97Q2sDGI7xODrcisu1--HhYd",
+      "width": 4000
+    },
+    {
+      "height": 1600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106899408343673535231\">Nusret Mirahmat</a>"
+      ],
+      "photo_reference": "ATKogpfDwYiIK1AA77s85_jEjJ7ti_6WwOK4sgW0F-0JAVd1qsGERXkVikBkT0Xfk6AmjX3nSe2wFSIl1-ivx7QgHVpwIHx3QeR0ozt960vfquMzrHI8aqYIbdWSx0qp5t9qY5iQG3XSoyUUw6083bK0EalIoutJHAWTic_rw3Fg35txE-d493cS9UcDoetJ70rw42jBOJRm2QQ-HTkLiMWQbXa4b3xyo1p1vHL1vVYswEiOYS31SuxcX3TTSHkMsM6vIkOnIayykMqjGycP7RufWUOT-l0RVLLlqtZzJUtDFiI1hvAhrHP77bVetG0WHL7tk2yckoKnEMuWSvDavzOkyO7Kqb7uJX-5KYthv7jI2cdxoyc5AyPuIvKh75hlknbLP6RnD92havFXA26DXDe1vtVHv5s_QG1-05q4QomhL14",
+      "width": 1280
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103356169202042157892\">Kevin F</a>"
+      ],
+      "photo_reference": "ATKogpcEOCHceaXy6H7hqoH4zwCUdvsDK4gKwNYaOnkzYxEKrYu7j4DUlCPunkdxo7-MGgD3RHTAsF3vCvms4yonRvoYHzYnKa8wEMl_nP1fJgvo4fH3nxS_5S0_40-oZM3PDISB22YIkIPCvEmWnAJqDGeDBDeCRAmGeh54IiKGo5unrZtDBuBufAj8An2EirDaNqlfV8iXnxeUCIYyRqx2Ly0b_o7EFWryvRePsnAhmhYU0xDWWjkj2F3ACFdUxBVnhyW4ffBhi457B7eesvG9-DXkzgvAO603lpCVpr8fjJFJ87tIurj4EJ3gZLweyIHdB2VpkYipyri0QphuUFIboi9kp_2jyXNdhvvKiXbWY7jnTPXOO5BDsZTvJSKwQ09mYHr1j2HS4QkMTTCfqXe7CwxMzwuQ_2H6OIWEqw0b-lg",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104801048799599006561\">Lei Jin</a>"
+      ],
+      "photo_reference": "ATKogpdXN6OVKYhEAQe-gfd8UM4C5BL34z1ZPWG3rJyReD9JoVTIkDI90fR_X9JLeK9GI1P4j0ZwbmTdNvfGLTciSybrfd88laj2FaNZ0zNoAhW3xKoso7HcyolopXnU6zI7NhU4-_iq9vKUxBE9nBvFCbVd9TcO8IPUO-7xIuprUMR8iMHoxXuLBEjXI7v8-akoPnJYD_opn4IjeVdFZfOZfGEJBRf11ttixxmbj0Pfv7Tls3qJeZfL_aNVQ3jccYshl7xARouKWBOH47q0c2k_8YBpuOqk1ZPfUW83MZzqs0tvktL2OWi2HDjCqQiVgXAuXE9HjQ4WwJcbr6QMBF3z9crBvx5VDyL5Aoi02-lPO9iRo8uGY2lGdotY0ild9PgCZ7mrU6pmgRO21f2qKVly1dzqOLxKF9lNOCkuu4vO9mKOaYH0",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103356169202042157892\">Kevin F</a>"
+      ],
+      "photo_reference": "ATKogpfF2FYrvbvIkq9-GCPge1UfO_epIk3VBQwyNCdkaHt1SHSZUnkqs9APxHepc-m4YMp9oBoV_jRO3-h3lEFRs1CS_I-JJjY2ye1_82wbJF9p79HgmwQ_I_LQYjMS9OxH0HwxavvvpFSQiaMVxCSMe0BAEZU0nyZ0a5se2cGWD8d2cEeUAvewJD7kvK3zcVPH3KbxQNhQNr6fSpy1n667vAHV7Fwrd0luBFjXvI18foFdOJEebXW3i_yhjec2knOxcKkIiWlucHqU1pNFh-WOj814CjTg807qVh900y6ekfYV8a7bZqCMylAgO1mUuxJtVD4dJw9Gg8pjQB5yJg44NEdeYIH6_69ozZNdYtxbOOvML_70K8CPSWza0cgZ-cVQotSs-ffmnX5XAd59bMpDC1bc0nQLaA9jpkgdTGB3tB6iiw",
+      "width": 3024
+    },
+    {
+      "height": 2736,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106614160667247964810\">\u82b1\u96e8\u99a8</a>"
+      ],
+      "photo_reference": "ATKogpcMx3I6EoUxIp4vINmboRZjuTUczPxuzYao1-dmN5ei-KoQW1oEbKO_x9COArqDlvfEyr9KF5LIGwuhnwCPACWmpVliYYC_T8o5-jUmrAKXfZMtIW8BWMXtuLlJO_OYYkcue_Licnrw1wSAZPaTU6jLpN-9hd5CX5nxIdAxoALLbO-TwoHkpYOAmVlF6oLKwDII65HX9VjqB0FVzpBT5G_IyOKDrk2zBJdRcXGkAfuniSswma79tTDuQe6cymr4P0kUdWxevIn6zq8Cr89_b1BLDzPKBu8h5CQqqxDtKjrxt9ApPRxxWGuoQWJEZ8wzh1pHmxsKwfbKQUIZjxn-nNKEdzmhd2CVDuC9kioWNpX9kO4inmsb7ojDrVFn-zyg-E_GNDpfB-P1Qtjzv-ZeS8pHKUcrkUQT_olaIs1uv38Eqw",
+      "width": 3648
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106563139630936121371\">N D</a>"
+      ],
+      "photo_reference": "ATKogpdLRvBVijZhhq6FCZXHmFJsGOe4nZFMFOGApTRM1J9WAAjpzHPZOvBQI_sJDyVMRn8iI9eS79xUN6ao1BJ9fwJxIBFdweIb5SIlxTDIFUc9P_PZfog0_wVtH5qqmTJC0KN4cdpHtLqheqxD36ObdjI3jg2Avzn49Jmxt2M6J2LZwUGH53Q_oIJLE5-W1XiD_KbaRquyZ5MgyUoWlMMKI3Wy_PpDD6Za-7l__Az_loN6uvbHdtYC2nYnn3SPCggN3S7D3fwhJ3F-52dvTtJIr0kalkBcTK_5A7aTCuIRRa9OoO-X42GkuYifakgNqitLm-l6zmrDuBZPcnOTfK-1rpEf6Rl75ZbIiW5qWm1-j7xYSnWUVgGnYH3TmaynSE07FN3moUcp2OtEUvLwvcLLDPwf3xzpYECRpMvXIurqMmg",
+      "width": 4032
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103953798914619685448\">Cris J</a>"
+      ],
+      "photo_reference": "ATKogpfd-wdqd1iOBiPbwPkTC2ZzZyBhvdtdVneG-j4gytJABdDBQRZY6dyrdam0-hWzU4BpqvugZtGaqZWcTtiuwm_ffrbk-sUjBtcXnt5s1pIK7NehqyTOdLJd6ole7Qr2464NQZzFHBERFZ8jNV0NDBgSwGRpuvfznAhhBDMxtpqB7QYcb3SsOfnEXDxdHuG1fZuiAWxt-ms0KmYwY3KsWcl0xAVUyygX11ZoVj-MTNb_lJvrXIkzJ3KiFAg2YuNyKMzSGuv6EaGzpnfaEuVQpNhzSV6DSzCiCCoy_xIZVX5ggJs-oVsk_FGSfOXeTs-b7JEBLRGSO6NO8tUWo65onYHAekjB4K4c8YdPln1UOaxLJ3qb1clSrBxVKXI8PZVX66Kd-YSg2oj-NzgC0FseXe49CftdIRZrxE-xKrSNTyb5Qw",
+      "width": 3000
+    }
+  ],
+  "place_id": "ChIJwbPe3yBhwokRofu9EEUkbqM",
+  "plus_code": {
+    "compound_code": "Q55C+P9 Flushing, Queens, NY, USA",
+    "global_code": "87G8Q55C+P9"
+  },
+  "price_level": 2,
+  "rating": 4.4,
+  "reference": "ChIJwbPe3yBhwokRofu9EEUkbqM",
+  "reviews": [
+    {
+      "author_name": "Nada Zakaria",
+      "author_url": "https://www.google.com/maps/contrib/107688513051944490084/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3_CmfLYoijIO46anM3MUw5zZaWoWmbe30lU1Q-U7VeU9WNA5Q6g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Absolutely the most tender lamb skewers I\u2019ve ever had. Served on authentic and traditional metal Uyghur skewers. So well spiced and great quality for an affordable price! They take cards too. I will come back with my parents next time! This family owned restaurant stall is such a gem. The family owners were working hard together as a family and it was beautiful to see. Lovely place.",
+      "time": 1739843822,
+      "translated": false
+    },
+    {
+      "author_name": "Victoria N",
+      "author_url": "https://www.google.com/maps/contrib/102062002843249770764/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ8yn4GRed_VYvZY1H30qN1Te4N1o_oy_hgYw0B5Wf1-H7GhOo=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "This place is honestly so good, whether you eat Halal or not. The meat and veggies are super fresh, as are the noodles and pastries. I know there's a lot of options in this good court but this spot will always be my #1 go to, hands down!",
+      "time": 1745539296,
+      "translated": false
+    },
+    {
+      "author_name": "Yuwei Pan",
+      "author_url": "https://www.google.com/maps/contrib/116906658511570634951/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzHXyYf-XaYRg1p3EiA1Klp7nS2CZ0KvbE6CVJw7o-iSgTXZ-7=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Affordable Uighur food in flushing! Good for a quick lunch or dinner. I tried the lamb plate and was delicious for the price.",
+      "time": 1744218820,
+      "translated": false
+    },
+    {
+      "author_name": "Jennifer Huang",
+      "author_url": "https://www.google.com/maps/contrib/114700889661734851560/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJalbNXvKnQs-WaQ3US3-2iyRwvSgmOUmKbttKpO0UCMS1I9A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "a month ago",
+      "text": "Beware they will over charge from the price you\u2019ve seen on the board and on the table. They won\u2019t tell you the higher price till they gave the change back. The clerk claimed that they didn\u2019t have time to change those prices on the board. Also they didn\u2019t give me the receipt either so there is no prove how much the food that I ordered. Food was on salty side for me. Would not order from here anymore",
+      "time": 1746306329,
+      "translated": false
+    },
+    {
+      "author_name": "Juan Lima",
+      "author_url": "https://www.google.com/maps/contrib/105662480087228726221/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIH1p901gRahD3FqXZDEabaG5FS_GWJ9iuNyHak1hn63IZ_EA=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "As part of our food crawl in downtown Flushing, this was another place I told my buddy to try since many of the same establishments had a similar theme or food offering. We ordered three skewers of their lamb shish kebabs, which were seasoned well and delicious. In one of the pics with the fancy skewers, it an abstract pic of a silver stingray ;-).",
+      "time": 1719267325,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "food",
+    "restaurant",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=11776389954672655265",
+  "user_ratings_total": 258,
+  "utc_offset": -240,
+  "vicinity": "136-20 Roosevelt Ave, Flushing",
+  "website": "https://newworlduyghurcuisine.com/",
+  "wheelchair_accessible_entrance": true
+}

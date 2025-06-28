@@ -1,0 +1,271 @@
+{
+  "address_components": [
+    {
+      "long_name": "146th",
+      "short_name": "146th",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Northern Boulevard",
+      "short_name": "Northern Blvd",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Flushing",
+      "short_name": "Flushing",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11354",
+      "short_name": "11354",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "4234",
+      "short_name": "4234",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">146th Northern Blvd</span>, <span class=\"locality\">Flushing</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11354-4234</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "CLOSED_PERMANENTLY",
+  "curbside_pickup": false,
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "146th Northern Blvd, Flushing, NY 11354, USA",
+  "geometry": {
+    "location": {
+      "lat": 40.7650516,
+      "lng": -73.82067550000001
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.76647293029151,
+        "lng": -73.8190828697085
+      },
+      "southwest": {
+        "lat": 40.76377496970851,
+        "lng": -73.8217808302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "name": "Witch Topokki Flushing",
+  "permanently_closed": true,
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118395414830941427349\">Nina</a>"
+      ],
+      "photo_reference": "ATKogpdNao2HGVCsUp8S_mWg4K9n40Z3YAIQvqs3yoOtuoPhGj3ym3LuEhhxnRf2MznfNq5YvqmvvR3r1ELyWxoLOvPLgTjIBaL8MHa13rQP2j2uj8bgQvg_yaWQGC_XcDMuRydPMuE7m51MXYBNzYZIz6_99nv7LjddfHAbDTBvH0X_M4WSRSJQuIUDOwVOZClMlggsqtfH32c4kNpxu7L62Q3nwUgLk-eCtEF6weHyq200gq9Oi_QkIHsoaI7OY41s5fZRgxpSrS252FlJC5VNFzUYnpj-rvBOPJQu2TNaxucZ2qeRgF5N0cv1FlTzzQjDCWPUkPZIbIo0ILiQ_Xhbcn-0o_RtQgZDQ2Pye5JNZF2Gkm66eVbxi8udCuz6-wrch8sYP-k8jXz_rYFd0wQb8mqnWYtDsL1flsv5G65YGmg",
+      "width": 4032
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107673254960936430246\">Christina Ng</a>"
+      ],
+      "photo_reference": "ATKogpeHW7PIbKS74od2NtTWwz-6HMI9SXoZsuxFvKfeApKrY4oh0-9ZSOHrzWUMGrZMaRGMWoDqL9nZjtq-mtWKJwppPSd58-fZVBSycl26Xa08V_JiI8qpA82-wEcKPx6A0odGFDfkQVaMWNrn5jN0HmnZstLX3s-qv5MK98R6RuU3Ow3P6bZYG6-rWHMeNy9qjEgW0AnMeyNItxXXqq5te2wH6_5bmb00NWH6MlbaV_wzlJDZ4ZQ45dgLuMV7yZ13crmrDd3Pij09LiRnoSIjb5ST1BtHoU-jZ3E5J1bgDFv1OimnztQ2bjb210hIivdWmOm-Pdsmwfj-p0Z40Xx8xVSKzndNxV9gsF5rRwywGw9OavEuVv49gm4mEIVHOLK5-iQ7Z6nXkgQ9CUju19VVAmshGlpkcqMm3hH8uzPJ3eD5Jw",
+      "width": 4800
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106923301844815776299\">Emily Tang</a>"
+      ],
+      "photo_reference": "ATKogpdqcjkNzQ3eTngsNm0CiS8Bip6mhT4ufsKnk0OFHYoTn3An4vHP8uSeVrppUFIJBtvF2MWO3o77B5DzWT0NMWzQLrKCzAmjl6YovxNAa7X0W2ZW904i2eE80abdZAoUcWv7pFq2TIaaPf16zH1NFyIUkfrfb1JhQv6o4E_MRr7Ys45s-3OwE_azJPlOgr1X9GDqQAxBawNN2V9PM-cySHuJT0ah7T-_Ql55luuynEf7BR0yjOFbDFI7QZhUMDcwD5FF3evp_lrWbqP2VeqMK4oO8LbFnRb3bNjoB-Mww6JC9P0BY0tPz0Jew-xk9a8CcIyRzGqaxCvJX_4YQwA1u-SCcKDaGvaZr8D-By8cG08UCGLcW-CJVJqReS9Sipn0f8cjf7BdyIJeRV0JTcbiJ9SoB8hy7O0oS-7w89ACKsHGwnB4",
+      "width": 4032
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112994953604547337944\">yuliana youlie</a>"
+      ],
+      "photo_reference": "ATKogpfjLF_wWQvcHNHKMBYk4P5v-duMuXZSO_-vHoSNYGTweB9w-eRF6JRB_4NKmRU7Nn11zsLm_qwdYZW9HlUbBYHl3D9I_lacPUlhs806XDsrY93XqT3js9fZ87z2TkQGArD_YqxHB0577Nz_M5JmYbYOz8e3y5ENrMZ17pAjSfTnSM2B65iRsMqXdaApjaS6JB1rfkJ7ivaod7UamcLjiBXSpzllBbV8V22mTTlsBG_zcT2GrMUHVAjpgTP2_17jrBt_wGzoX_le5V_OFFobERXnT2qM9XauR4SERBWPAdRFJ-v19KSpJLa6OJTRTCxnqTq8O0kDibp361_H3SNoRH33qNEK5nhM_XOYBYC7oKE3Aji6ao6bi3H3lfcoa19-ntVXgB0EA3hrPZKCLYAX8v1IW1wOLKjsvMiW9NvVfHQ",
+      "width": 3600
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107673254960936430246\">Christina Ng</a>"
+      ],
+      "photo_reference": "ATKogpdPeJaDp0lCrreFS4J-HFoPZ6cLD6rDSLycoAX-W4QwsZ-49QEmnw81-CaMv5Y4RA_K2kJGrbRBvVw2-kSchbENI0zVJy7yG7-G_IKPTOD8XJRfzTydnSZY7xAcg90FhRcWunOhdp6jTBkqbOpXl4OBadKfSSiJ1SsQ0E-GwHSSWvm5tPKPHO-kjVhF5O4vp7nMELnxxCbBMnV4cDaGuybPLVJW3ZFzH1Vm77qViaRa952vRaJvkVTpXUU0KbGgxmbCT6vNMgz1YZ0w0HL1dE8s3tV77Z9pQNvINkJNeXq_JdjFzaWvpLO5B4T4sYoZLcCcmV5KPTm_qWhmivkgjNjyEm1LnHxWcM0xhufdQZwFmvLdbvCw85QR2mLJtEdKH1e67d0skKqbyUPdtrSDZQddDZkqF59NC-Fy5HNADDjZQcFh",
+      "width": 4800
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107962429791548454888\">Yang Leo</a>"
+      ],
+      "photo_reference": "ATKogpfsV69avoPEPRfhVgj15N9iXkIedSJrlIown5_-FlOQfASZrXIgzzFAjh-i3q83mca3n2xNbQIZjGDo62qC6W3wUYw8wa8HF2iPcJB1zADOsrcYJzVV5_wGxrKWwsedpSIg51agXBPllWB6FJRXvSE0eLMZDV43wHjz2kRDqQYWvBAFMwugm-Z-Pu8kJybahTGiIpgqbT3KYqiUMrOgPPtvfgsSG4lsuM5NSrtETaayI47VnxDe3gVGWDKhS6qrIOMCHibHtSQLT-rwuCTrxPKPEsiHNuXCXToqVER7hyGPQYFxYAlvKZvA0K6HWyYHMCtplivTvlr4TaJofJlCMj8rClKPI4prUbxYf-QQF-rWLWhMq3nU1hbvSdvTL2eUUMuQCeG62HIbQFhojD_1adLjEiSce54Q2WOk4CFI9oCDAA",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113603482767338256866\">\u4e0d\u8981\u54e5\u54e5</a>"
+      ],
+      "photo_reference": "ATKogpeWbvJuc9qkF7iNP-nQfx_8zSR_SMtLczNJ7gHiHBFnEhg5svPx9BSDhqi3diz3FhN1nbdbMeCNe4y31cxItTq571hiJbblIW1DcRyqDVKIZ6KFQuSwbOpGQkHnV28W_rrGTiYAK0bA7mWcS1X9dJBuBeAtYE6WHHWzX9QUvgG1bHpm3cx-V-jmGun-cWeftsSrzJXEwPKyN_TH9hVKEw-cTWHxATEsYhAziP2lVbC69OSqB_n2nm55NLxbFB3TG92unXoA13hWTMM72SUTU5WiB_2O_unCmWDSiI-UXQ-qUzkU983rq3sgjdxBP8reO5DZ66Wk8AMMLLZ22pY0DdU6E73iuLlMaMIoeg3vuPdhiBum6NdQ0SR5s2owH4QVmh8Nlro31bgalQTyZQ4-ancPxEmGyYqgkW0d-06fMWoEP_hM",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112411104687058894117\">Victoria Lorza</a>"
+      ],
+      "photo_reference": "ATKogpfVIutdrODbZNwzk6I8gmBKrwaUKr4ws21kaSvYaWqqkXDdnFuK37RGmTLmHB5ydUX3G1SQtdyfTBLDUfuUvLSPcLNvpOAHidzel-hfhnXp0uyLrgB1WkDZR8erDwWWbX3FlXnlBCZHYdZ3Cl0KyX7iGsxChtZHesMLGdREsEu2TnCyRN-rt_EOddxLfC_9zlUIIpYnTW0QbF2rVtdEVFeckEyNXUjfUEk5LfxqiGG5G2Yjkw4JUMYtr4zVDwv0PudVx4zaj4i8ngRobQzFLnu9IrFyMzfQI3g3wwJO5Xd-aObH-0c5AKSoz6GD5TQB_XS_a0KmkjyxFucxyUki7M9vonqOWtRUme2R3ASXOwmN8i_WRgKuqgC76LSwddzPpKWpweFUkcojCzr_5rnF6t_sWFMsy2eSXVZA8LsAo4UGBw",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117649036848198872309\">Joity Singh</a>"
+      ],
+      "photo_reference": "ATKogpeRhk2um4HV2LVSfymXr4rQVHt39ljtzPfX4OPKuKTTAPY-bEvI0-vR-Pkt6L5U1N4Ur5C5lfDexzYhvve-7x1Ie68QKLam0SPK44QiVzNU-6MG86ODRmm6MpSHC_XkPsHwVZ9-bp4STMxAuTgEkT80ONDu03sqVhRFvxk0_MbSFJeuVExIRszxJ4C9Ph6I4sMKC351Z30yodOXaEvOSA2pc9mQMVRFBHNvmbIEq5Ulupzt8BCjjPY6vf4T7kjDhTmksFME-jKR1lnQSypC44L_vnXiGZWEOW2H17j1RHWLNkWspUZfZnXbeNaFP3YfvyF8o4eteTK7zGvsHXphw6m283yauak52kdfOBEqsFSDF6YhY7_TXiya4QuIEXuZtFJxrxjphRtrxRjuympJtk39Q0I8mrQt8SoihKtl-o4p68S0",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116607486783355153524\">Dane Tamayo</a>"
+      ],
+      "photo_reference": "ATKogpfSMNC-HRaJBdbaa_hinvSWmcbOorKFp_2YN-MFQoxdFe2PSJhzA3SI9oTKy6p3jF2S3_yX5nlXWCfYoBmy5c_qnrGq7PpcR2Bdc_edabauVR-WIUqOkAAElB2xLufTzPeoSjFy0YbGD2QFhIfaIRwZcHT6dRJAjBVSYLqUDk0m3sTr1ndHjzfxEHSMxYIFzh0oyFJ-MQtU7tNaBnLkqzd3nQCNLx4anxBPOClhYDozKBAnLEapbqbushWZmR2mv5UCkq9krNR195nXhlJ4jDZj7kDuoR1AYsUTrBBNhb56v1lOenek-Lq_ZQpQOJgI0UseNoNdEpEm0NmgiGdm_pXynuqO8dwnuOT4NhVirEb1CHiiEgXUB0uDnOi8LVz9_69Zc0PzULrhrvyVEkiVir9vUAx-7G-cI505D1djiqc-_A",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJPZYVwMxhwokRxhqo2ESo7AI",
+  "plus_code": {
+    "compound_code": "Q58H+2P Flushing, Queens, NY, USA",
+    "global_code": "87G8Q58H+2P"
+  },
+  "price_level": 2,
+  "rating": 4.8,
+  "reference": "ChIJPZYVwMxhwokRxhqo2ESo7AI",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "MK M.",
+      "author_url": "https://www.google.com/maps/contrib/104996643868855546723/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIakmuMEG8wUOnxQWcOPor27CyR4XJHDG9A93Bqul-6R63T1RoGg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "We had an amazing family dining experience at this innovative Korean all-you-can-eat buffet! From the moment we stepped in, we were impressed by the extensive selection and the welcoming, child-friendly atmosphere. The Korean-style hotpot offers an incredible variety of options, all of which you can choose from the creatively named \"witch bar.\" Our kids especially loved the unlimited crispy, spicy and non-spicy Korean fried chicken, alongside heaps of French fries and other deep-fried treats. The endless assortment of instant noodles and the variety of spices available to customize our soups were fantastic. The service was also top-notch, making our first visit here truly memorable. Highly recommend for a fun and satisfying family meal!",
+      "time": 1715605246,
+      "translated": false
+    },
+    {
+      "author_name": "Lucy Liu",
+      "author_url": "https://www.google.com/maps/contrib/111005338526080986194/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVbPxv5clyYa3flhQdAeZlzz_1YZr58GjubyRW-QEt8PQnWQMD_rw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "It's so much fun and creative concept. The service is quick, and there was a line when we went. The fried chicken was BOMB. The prepped food was amazing. I love this concept. When I was full, I wanted to keep going. There are a lot of fun, unique rice cakes I want to go back. It's fun in groups or just as a date. Highly recommend. Def would go again.",
+      "time": 1693980988,
+      "translated": false
+    },
+    {
+      "author_name": "Dane Tamayo",
+      "author_url": "https://www.google.com/maps/contrib/116607486783355153524/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZtt9p1QDnVRIXLGOo-ANbP0IUOpcardh2t_h5QTMguHVqXmyh=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "The staff is very helpful, they\u2019ll show you what to do and where everything is. They have great selection of ramen, broth flavors, hotpot balls, veggies, and other side dishes! Its also to easy to mix the flavors of the broth because they have a guide posted on how you want your broth to turn out.",
+      "time": 1718053132,
+      "translated": false
+    },
+    {
+      "author_name": "Lisa L",
+      "author_url": "https://www.google.com/maps/contrib/108279310061587929941/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIu8lqeXx12PwV721fgUvFVlAIIgv-mEet-_9lQ0Bc1s5WK5w=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "This place is different which was why I wanted to give it a try.  If it's your first time they explain how it works.  They provide you with an anchovy broth.  You pick from a buffet your ramen, teppoki, protein, veggies and spices.  You dump everything in the pot at your table.  It cooks quickly and you're ready to eat.  It's extra for drinks and brisket.  Everything else is included in the set price, all you can eat.  You can't have leftovers or they charge you.  There is a time limit, 90 minutes.  Mostly self service but there are wait staff walking around to help.  Check your bill, I was almost overcharged.  Charged weekend price on a weekday.  There is also surcharge for credit cards.  It was fun.",
+      "time": 1704486947,
+      "translated": false
+    },
+    {
+      "author_name": "Erda Zhao",
+      "author_url": "https://www.google.com/maps/contrib/117664788411238880547/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-rX1ubD8MwAG5mxiDzUfpakx3i8inYpav2y9a_KjSYF8jg2cW=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "the atmosphere was nice and the food was good. they offer a variety of fried foods and vegetables, and you can also choose from a selection of ramen! overall amazing meal, well worth the money. can\u2019t wait for the manhattan location to open up!",
+      "time": 1713824259,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "establishment",
+    "point_of_interest",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=210728296225708742",
+  "user_ratings_total": 3511,
+  "utc_offset": -240,
+  "vicinity": "146th Northern Blvd, Flushing",
+  "website": "https://witchtopokki.com/",
+  "wheelchair_accessible_entrance": true
+}

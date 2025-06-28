@@ -1,0 +1,424 @@
+{
+  "address_components": [
+    {
+      "long_name": "3761",
+      "short_name": "3761",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "80th Street",
+      "short_name": "80th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Jackson Heights",
+      "short_name": "Jackson Heights",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11372",
+      "short_name": "11372",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">3761 80th St</span>, <span class=\"locality\">Jackson Heights</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11372</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thursday: Closed",
+      "Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "3761 80th St, Jackson Heights, NY 11372, USA",
+  "formatted_phone_number": "(646) 203-7304",
+  "geometry": {
+    "location": {
+      "lat": 40.7478142,
+      "lng": -73.88571639999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7491559302915,
+        "lng": -73.88443596970849
+      },
+      "southwest": {
+        "lat": 40.7464579697085,
+        "lng": -73.8871339302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 646-203-7304",
+  "name": "969 NYC Coffee",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1800"
+        },
+        "open": {
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1800"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1800"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1800"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1800"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1800"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thursday: Closed",
+      "Friday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110610333884923936066\">Queenie LaNY</a>"
+      ],
+      "photo_reference": "ATKogpdH251eroq41qItnl6oOhOWubvo5yZXuhgBlqzYpShQnW_o-gI0mFZI4JRRu4rfoxKN4-674x4dFObfZf7-rAlSqCJu-I6ZR2jshHnhCE1BLVVCGPDaiQ86H71ypGtaMnQlM45xjV1t2FCUg9NpicJ1rI7wMLPkmjMkHYHBb-fGa88MGfNZ74w9Df_81VjYslNwNriTqirM0Dlkdvls4ntvVy8wOj6RT-965_jOmnod8EwpfegmhAfGpztlVK__wUnVQeQswvqEjk__54HKGSufFB60WcGxgW5v6QGzTdv4xJDZrNn9RrKCeWtVSXx6OVlhmzLIsKR-OPN62qE1cckT1xqhMfJqltaDWJBMht5Xvg-_fyIKfpqEvtoJPP2tXHyRkVF1Wb6hPY0-005sl0ogpyqhOw5RxgxtZv9o9Mk",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117286114398541094157\">Mabel Cheng</a>"
+      ],
+      "photo_reference": "ATKogpd00-yBC-SRKq5VP4dPLKeZGmjJuTgC_nwmB_fCWAmwf4BtrZp0fKxfxbRrTuQq2Vg_2u0yl29bxfJzqr7-Xk4acNOf60_zoDH2gTpalryzwd_j5VBLuPoSadwHxdbF0L_sodSjLX3x0cwXNbTS7m-fJlwSH7dIlly9Qh2Ng5oy4t__88Vxlx4I6MRFZEyvatnPB6e50PFm8VHrnNf-3d2QHyhAbAY6zbzM8NqyfsKdkjBlHZZHcwgZVJA1k3msRSLTPZh8dZu8DPP-HYL5lLIhxZ21nz35vuqIgxELdizklo-KAW_8N_ASHENuSHBLoMieOcyOhXNimftvAN7M81Vq1kLnFeLg6uQ-zA2CKbX-SjlEwf9ka10Kua3jTud0B_1qCbfDo2fOTSwoEpcUGrB0TVO-MRAjHqFYEosvvlpiH0A8",
+      "width": 4032
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103107845904588530315\">Kittikarn Na Lampang</a>"
+      ],
+      "photo_reference": "ATKogpeoneGKS59jKTkFtiye3b6-X0S93kCLz686CeGtnKnzKLQMY6J7N25cuk6koyGKf2Azr9rZeyKIfNeo8SFLX8G11st7yckuDlo5Rd9FAs5HkK4Uv49qhkWsCzKTYqkR4D7FsKCNGI9t5GZwar6x6L2Ybx8lvJ5DiMjScaCoNc3ie8fWbH-fdkuDqBytnZVBp6pTYv_bmoH-7wQ5x9hDmvkzmiQIKMG2JyV4Pyl327G4sieXT_NxEcQtcOOYCRUeMA05sHWNQ7zY3KURvoSsxtaT6iHEjWGSEXPc9ePngrEXEMvaoOWLVwxw_K1Twh40PBJNUIUB9yicoW8zd79x2wu4LyzmLKbyXGraCmNGFutV9rbyy0Kl-0bOyk9P4WjiJ6mp_1y-ZnNLpDbRXRynwNGdBPoQCJXHH--HU86e-a9HV-VU",
+      "width": 3600
+    },
+    {
+      "height": 2827,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117533019222759975839\">Dez Santana</a>"
+      ],
+      "photo_reference": "ATKogpe27EfT4IoY7hbJZ9N5woMbZveRIWWv3Hdy5mBVXfZxxvw3A94_I93La250HXP-W9AfaX9Mr1AGQvd97FNv0l9yK9LqP4J6dADf2bqKmSP54Rvp8UlYQIT1YBgHQkY6P66blOlc7YdsP6v7ibsw3Cqe88e6vf28O8oCAsNQNlmUAiWfZpfb_jhDE1INTb3EOY9syiLstdqSQgiq2U2uNROlpeNMARAqn3XQ2K7jECXaKAHWR94u3L9oCEnIdLgwmXiDd4zaO_DW8Ku-f9QECZiVhxJocBUi1RVFI7WyfIG2emBfxxG0TO4WonYwcwxiLcNe_ozpJXS-Ik8-45M9JGJlTjVry15PF1-yQEB17kixFk2cOEfc-EomP5zoH08w2v5vZ7v9El8t1GpQJz_FafOjqV6dXfLCoxvteo9Jvmoz_w",
+      "width": 4000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118183416311239600396\">Breeze Ryuvely</a>"
+      ],
+      "photo_reference": "ATKogpejtLK3NEtUt8t4owqk2-OtbWFwUKc8sB5zIZOdmkbQCi28EIwMbVS80mFIb1g-WMAzdbAOSCy_mvThokTkwRJdgkJJfFf-yeJgq-eU5t-XJi-gMY_OqzyPZQ3SGLsp-0ohpwzRm5MeujWkcxYeU_wmFT8pjAdunLNIJFraOQRTrPrc7EJfdpVByQ3-pGqN1Pp-MSkDo6p1aMNK-F6r_JdCTEbWve4KaBDPpcADguczKEzM9O-ogTtIwQ1rsEmqUBPDoXN8vRVhwGjwRjUqcn-qlnsTyATAZgO6MtpOlCqxyD7aWujCLuqcp_gkScpUYZwsVWA6mQOUNqVexsmMkZMOH47cZBRVN2MDtibRQsTZwsBopJvIsvIWjIPuXTwq2-rlxnw_aOoZaGKJQTXZJyUit7NEi-gGOuqhremnXeE1dw-R",
+      "width": 3024
+    },
+    {
+      "height": 3475,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100909615162835267278\">Olivia K</a>"
+      ],
+      "photo_reference": "ATKogpfAd0glB7lImUQNVo5thYtSZ9q_jVjl4BXm47sRUvU6_w_WCmQhyIg4-0bHihPrzNzWO9Mu2fMcuthlRm1yTwvQC4IgtOFLTq2OMqUMMFLhEJ8dY4nFPp3zSS346z2875lHlAph8HlVoHWolHZSWvsqiKKmiTEgNLGdzxV_ejOxFCiA_-lQLDSriZNeL-OZXgJP49KdEyJTomZldWDBlsqjDpGXhanSEpVUE3GC6banBBZneeFui3FVorBk2oFxQ4qN17Rc-A8vlcptRWt8fSTJIB-U7gWUW0KJ0L3Rz1AXGrzFzNDSp-iZJmbNuMAFnNo37GDy0DO_kVIEKOXP00fgDykC5sgQHo8YQtfnCqHZbYLVz5PHoatGgodjx4TdWdAs-J1LBbV-JP8pDU4qi6IySNqFJ2xr99NwcPug5J6pwA",
+      "width": 4800
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108295124030375166808\">Chol Kim</a>"
+      ],
+      "photo_reference": "ATKogpdWw3OwFHGUNL_VauuOGCoGAsys3GWfeOpZho_dpJQjk_oQ0kvehXeig_eFopl3GvjwsLFekq3579lXxqwp5u9C0ia7aibEbcR2Ef0FpfUDmE71GWhMf57-nCB37miW5pGpHBLw9aKdR13fsCZY2BIXvDPMmuFFuG9YjQOuKfphXUKMbza8MDwfJi8PjN5bF-XhMlilbXH-og-6NzApXHVVhP8TzGdb_6RUx-rKuq1sknRxWU6rDo2M831T47Vgj-ruRVQfMv09veQGm8b3pFcpXQp67_zoOuljNY5jP76RkoFQG8Frukj8OuYiKmukaMsoqEpDk1h6qPmbDjwnrhQwV-j0kRXMA0kTCKa4ACpqe7RdVYL4KyCwZd6BMu_Z_ER4528xBGvJz5AoBHNx-AQBfk5Uwf9efCpOVlHy5-91Lw",
+      "width": 3000
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115243275508472767468\">Nicole Ng</a>"
+      ],
+      "photo_reference": "ATKogpdr591yc4-aqK7P_ncN_pfnLwpgBxnyyrioxEUQVyR8AF8zJiZt5kyLKAW0FgZ-SNF32hnpNSnw7OH2d1WUh3LOMIdOBoLrI1TUWc4XDl2EbMegerbg5_68QXwW9KjNSJ9OOrqlK9y3v9Yvb1s1d6aajwXX9sSfxOnGgGh2Fs0LEhvhtDr8yCVSSdplTHFqahE5yaJqtRoDC2w1ZHC6A5d4bj4KZURepy9UzGzXvDrIkYqAaNCBoqzcNU8xR45bxj6dDuKil1maHrZzt7BhikuHVetwbyRBo4nkTdtf0lWoALoxKS-055UtW6XGqZheKJvBEYXypIj2e1OmaCkmOBhmwvYsPjeHTEcF6_Xq2ofFN6ygjCdEfwRW5ZovVPCDYp8YdZIHAsxeOMC6WFaKGayw_LUyFmPq60nxobnXMkk",
+      "width": 3600
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116458966731253147563\">Gri Shi</a>"
+      ],
+      "photo_reference": "ATKogpfa14lVsDYkjZIkJ8dRlWcV0BbuF8Qedy68jmLv82yiJdcTOdvoOMg2R_CxQcFSEPIy7xeBGr-9z8SHXYG1KJxFpzH3auv77Ab5eusURCVyEBZkTo6k5PXjfmpBlbHIV1jcKA_WGH-GLZi4qvN4FyUrox-M5MbaBvoDCWYUrVt_uzM8yHxM-b3HUOD1dcztOYWlFOvQVAt5x-CzvT19XBXF39Vd_2ccWEwlk2jx_J6t5UaB1tpJH1seUAMVWQ3ZBLZ5F-dM7-TdQSy87uNWFE6RZlhFsbn0xn-40K9gVVzazqv6zBCZ3EfiWCc7evYfZJJhGqqHvV1F2VUVgmCNYpm268ZpDRyd1QTmBdbOmj6zcFm2ZcYMiZQVUwxWDkPdJwBdg1_5tR1noJSQAHfzFDKeXHzzQBVvo-9hKnkKFT2T1P4",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110610333884923936066\">Queenie LaNY</a>"
+      ],
+      "photo_reference": "ATKogpdR3GfaelJYeEeRkcRcMvb-DbK46B7xS4Z9AhaD6eqGk-8JvI33cKc07RPqIDTH3ls24wy5C_NU_GUIAGIaRoCGTijzN_t4fjXWJYSvdTnE61FsXXdX1VEYglcE5gLo0d6u2dTEuLQg8Qou_Jwkt4dWD5b1FLtCMiBvdeWHffor1v8X4iVAG2_8YT9fsgWr0gNmfRVUvQwdkujWj5pFSOML4nL7DsmwMLntISxYf2HcbFUU0Ti7jH6HoBKIAFBHcRDic8wSLVre50VeRDifYs6rMi4FUSAZb2ZBcxjtIRodFxPq2vuh4ZX4spb1YEQBkJK8pDD8lDefeq4w-GgkV19zcSfKs3z1tMy11ztAEKtQvB14RJJYroZF1STFqXSulnqayukrFKY04k0L9S-Ky_EWud5ry__4w5X8XsIgFuOoWxQ",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJpVgwCalfwokREU6kmsyAqG8",
+  "plus_code": {
+    "compound_code": "P4X7+4P Jackson Heights, Queens, NY, USA",
+    "global_code": "87G8P4X7+4P"
+  },
+  "price_level": 1,
+  "rating": 4.7,
+  "reference": "ChIJpVgwCalfwokREU6kmsyAqG8",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Julian Cardona",
+      "author_url": "https://www.google.com/maps/contrib/108732146583482745165/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKYDGS86_oZ83Bd8NVcvPKr14KGMYwV2GSvfU9noyhlrkVV7A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Hands down, amazing food. Ordered the pork ramen, and a cappuccino. My mom ordered a honey lemon ginger tea, also very delicious. And the teriyaki rice ball. Would definitely recommend more people check this place out. Variety of healthy food. The pork was extremely flavorful and lots of veggies like lettuce, bamboo shoots, scallions, and half egg. Pasta was excellent too.",
+      "time": 1740330753,
+      "translated": false
+    },
+    {
+      "author_name": "Evelyn Morales",
+      "author_url": "https://www.google.com/maps/contrib/106555648110367336549/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK5O54IY_z_wKpvS81Fs25jlmHt6tRhumCds6S646tF4SPy4g=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "2 weeks ago",
+      "text": "Food is wonderful, the wait not so much. You can taste the love in the food but I wouldn\u2019t go if I was starving and hangry, the wait is long. They have a good selection of options though, on a day I have time I would definitely return.",
+      "time": 1749869733,
+      "translated": false
+    },
+    {
+      "author_name": "Sledge Williams",
+      "author_url": "https://www.google.com/maps/contrib/109850878987968081829/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW8oMvMi4CkwZQ8Y6eEZYlI9YUVn6U9nAHu2uT2gOlzqT9zhTc=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "3 months ago",
+      "text": "In my honest opinion, it's OK.\n\nThe Instagram algorithm tipped me onto this place since it's nearby one of the Blink gyms I frequent, so I figured, why not?\n\nThe place is small, felt packed with a number of people here, so the place does get good business. I left unsure of what I wanted to order because there was no menu for food, only coffee and tea, which I had no appetite for at the time. They didn't even have Iced Tea, just a few drinks kinda close to it. I had an idea for a sandwich but didn't know what they had because once again, the place had no food menu, so I just went with the Chicken Teriyaki onigiri. The onigiri itself is good but felt too light, it did not really fill me up at all, maybe I could've ordered something bigger but the place was already packed with customers and I didn't want to wait on more food so I just settled with it and an apple and grape fusion soda with no sugar. The drink...wasn't terrible, but I wouldn't want it again anytime soon.\n\nThis place may be a hit with others but, it just wasn't it for me. Nothing bad about that, not everything is gonna be a home run and it's not even a knock on Japanese food as a while because I'm a fan of their style of food. It ISN'T for me for lack of better words. I wish this place the best of business, not sure if I'd return here but they'll be fine without me.",
+      "time": 1741982720,
+      "translated": false
+    },
+    {
+      "author_name": "Gri Shi",
+      "author_url": "https://www.google.com/maps/contrib/116458966731253147563/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVW-1bE8Di4euRwNc4mFfebmTVJV8hd7jbxDWeaufx0NnX8UXP9pw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "So good! Sushi sandwich with panko fish! The rice was even slightly warm when I had that sandwich!\n\nAbout the place. Cozy and friendly atmosphere, like at beloved home. They have cute patio. I enjoyed this place a lot. I already planned when I\u2019ll come back.\n\nGentleman at the counter was obliging, friendly and witty.\n\nThank you good luck",
+      "time": 1718151409,
+      "translated": false
+    },
+    {
+      "author_name": "Queenie LaNY",
+      "author_url": "https://www.google.com/maps/contrib/110610333884923936066/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXKPUSzU9o6-qEVefoY2W3_R8zmP1PhyRYMaXFKV3F-nM773J3lHQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "Very delicious onigiri! So far I had tried the fried pork and the shrimp one and it\u2019s so delicious!!!! Would definitely go visit again.",
+      "time": 1733165582,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_breakfast": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "food",
+    "restaurant",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=8045822350553533969",
+  "user_ratings_total": 468,
+  "utc_offset": -240,
+  "vicinity": "3761 80th St, Jackson Heights",
+  "website": "https://969nyccoffee.shop/",
+  "wheelchair_accessible_entrance": true
+}

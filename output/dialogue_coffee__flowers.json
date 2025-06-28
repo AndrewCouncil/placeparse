@@ -1,0 +1,439 @@
+{
+  "address_components": [
+    {
+      "long_name": "188",
+      "short_name": "188",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Allen Street",
+      "short_name": "Allen St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10002",
+      "short_name": "10002",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">188 Allen St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Tuesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Wednesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Thursday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Friday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Saturday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sunday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
+    ]
+  },
+  "delivery": false,
+  "dine_in": true,
+  "formatted_address": "188 Allen St, New York, NY 10002, USA",
+  "geometry": {
+    "location": {
+      "lat": 40.7219933,
+      "lng": -73.988732
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7233422802915,
+        "lng": -73.9873830197085
+      },
+      "southwest": {
+        "lat": 40.72064431970851,
+        "lng": -73.99008098029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+  "name": "Dialogue Coffee & Flowers",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1700"
+        },
+        "open": {
+          "day": 0,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1700"
+        },
+        "open": {
+          "day": 1,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1700"
+        },
+        "open": {
+          "day": 2,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1700"
+        },
+        "open": {
+          "day": 3,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1700"
+        },
+        "open": {
+          "day": 4,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1700"
+        },
+        "open": {
+          "day": 5,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1700"
+        },
+        "open": {
+          "day": 6,
+          "time": "0700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Tuesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Wednesday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Thursday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Friday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Saturday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
+      "Sunday: 7:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105601992699102170460\">Nic Garcia</a>"
+      ],
+      "photo_reference": "ATKogpcA0HKo2uYUJJPMD8XYsZZsaFP48k9H9At_xPZpluBIzxom1FgZUaJAsmKTUUNNDiQ5JkmngEKBdHp0e5pv4c90T3MLHyuyav6JWX9YQs6VR_I7ZpbA2Sn5hOj4hdhCyKdEuLfRYaqNs2eUOyZP9FP9t0BDqsXJym7j7yZTC7E-6xwV9ZQkv1O2JGpHGS1JHsLfpJKzZb3EfFEHLauc8BqaX9Oz-DYEeWVTB5apzpKUrAjZQHzgrx1yvrCbSgrVnGCB_yQEH8si8zlsf4k-0oRASYhIS0Lp4yTRJl-G5tf1xCbaH_bbTbc1693B4YqxVz2EJy31eYmEQBZFYzR9eiLDTVITYrNDSxKyQnLlpjRh6Az8K15aPrp_h-LHvwnE1vVqCwLSosJv_FECsk2oAy8Yy4hQs73QMY-G7J7smCk",
+      "width": 3780
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114746114434966868203\">Mia Huynh</a>"
+      ],
+      "photo_reference": "ATKogpexOUMftf94RJA1INYqBmqFMK79cQtzrlB1x701zshMY1JC7_4WZTvZOGxd5Z-NZ8n4PXj_iM6Kp4hUSnxNpHqqscLsdGIFUZ_BlZ0A_qeSlmR31XO7cWLDBh5_ljmTvBu8l7epWTBvoHnaAWlnnvuoHo3vS9bvR3gXiRDH4gyrHASnYKY-G34_6d0rv-YDCdXIlIGRYrcZAvIdwBMFUbO-YTBFVELV5Bf_x-DM0XF8KmON5oUrf-I07uFJWowsj05zEqik7vzKoRK7Gjf0HC4mEaKdyMWlpwcFfOOMaFQfYcyu7XvmY7eaoxQt1Ms4qb9i8540CrPfCM0Z0tLrxtSZxvsfvalyby5VehPftyzJbGNE6H_15ncwbo4_Pebz6z36-mta-S4Nsc2j1nTM2w3MnzVd6gqrINWdvbyqxtwO3eOy9QQoMaZdQSVCbA",
+      "width": 3600
+    },
+    {
+      "height": 1321,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116593377989413490041\">Rosa Q</a>"
+      ],
+      "photo_reference": "ATKogpdSyykCkNfMDY6d9oM4JmpMM4vp10LucKxmHqK3lLTpC0-Q2Ul_olQ-t0KASBcnn4fdWjHP3tTaVhgWgEfIwy56xK6pr_f4H82udoS704LNR5j0lhi9aQT4eDhVifYL7JcKSIi-aghxRDQLQcOEhS5GR6woxUjD8m03YTJVI4FEagi1YRZElgVIZC3_bPN145FHtmK5Sqy_8-Nkwc8TLk931h9lTMUD-5-iBY1-pVufYunAHgMvfXKxZ4ZJDRTHp66_Ihdz-IgnmqIbrg_n8KG7nvq3JgAC7wmvQaN-0ddx34jPwRA55xYZKt8r74IOQ-yMlzohauArMtMbeJ6olJthiiENz_eCBFcVtrnz8pPUYFgN0rINhj5hAX4FJO_Y_hlSavzsmqOprSj7u_ctKeenz6MUIgRqAIl7O_7goLe_XA",
+      "width": 1179
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102242079302541030947\">Irene</a>"
+      ],
+      "photo_reference": "ATKogpczPPDwW5Rn5IswJZ97VBy0a8Yjc2fz1VszPfaEmxEWwd7j-ML7x3-A1zDaTy6iou-r5gEHUpgZ4CreitCa03Gz0EpigwozVD864thzhrEEcqCB7luWb23hEO8F0WF8mrpv7E3GtVU0T1GvabqIflLDWxZO5l6t4mz1wxP_hPQVmAy-dr_0_Bi0tcFGW6fyvHEbie3oShmhbMLnRUmprvVEoDmLtbAPeQrvzFox-3O0dRzG_915N4NyFOHWx07uOkYCd-tH6_8kQEq31lQYzErgG0-PtiIQnzYJqw5bPWR2L8CKJ4KrQw4vWWpO_g5vjQ5CFWNJPjc1synEPF4d4gcFzNWY3vJ9vwdM4W6AazesUNVFQAKpGC_FcWrk1XxUGvmWJ4vJDPOOKPxjhJzBljJxKRdsgkz5hsc6GsU4jB5qHAE",
+      "width": 3600
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104621721160763235082\">Christina W.</a>"
+      ],
+      "photo_reference": "ATKogpcWqXSiwK8mgFK9D_j0ahjKb1jZRC3i0TiBE-xMyjMkISqzgXuEiWSDnrOI5Hhg3xaTQZQyW5eoDLV5O90jxbzUxBxd9G1bEjLn0gY_k5x6yVQy_FUsscUcnor8VOcw-IAL_j1EYtgz6vERSWkVb3nBTAHXq8aJI-7yftr_OKR4wAc_qilap4O-QgJ2dYIwhcAewKfhlMkvBGR_yH_iWfQCgiz2OjJhl2NKL-RuhhtInSp2YoHei2bZwm4xKZ5sOAKDO92V2Pis5K1T27__IQ1Vxec098ohY7DUrZL7XZIB_W_9XtOQv3tAph9UjcXYTbnG168i0yJM9LezmT_YXySL1-tKGNHtiM6zi-aOfgHa0BiO66b-OA4WrpqrBHnJZYkrUpd7qbVPx8sBXQhK1IMP4iZp1R0mCc0jU167JEnm6Q",
+      "width": 3600
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101719980552367746939\">modepure</a>"
+      ],
+      "photo_reference": "ATKogpdxm4epzsM38J-ZNKYCTJPcwJrbscN2sRn3RS7jK1MA0p-R3TRz-Js9D5-wmLJIpoPV2uLlpMMplnrXJMGYkBMaIlDCOOhjD1vW0Av1XJ6feuC3pdsAaMWc9WatbU2NLaewPsPlYAaD1HZbp0ZWod7VwVYIACB4_57pI-BXxpaEeTsOLkWMVhvqhmUUB_rmcbovRfHna5VaM7RKCMfLs16BfF2RLAxe-QxvZYGRRYCYtkX0J9l0-7UpE33di0Tiu0V5DkY4FESqey9myOubQjv7gnG9nDXxiRkp5JPXen4Dj7S5NIWhC8EXoNUpNq6eYud8YV9-AmiJ71HgzHJlQ6LBRoztoD3FF56E80oKrpss3mHMtHYWxJvMaivwKNVSIYwpKodn2TfoiqdO0oOYDFgs8X-5nlGFuztCN1Kw6yAPgi4I",
+      "width": 3600
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104621721160763235082\">Christina W.</a>"
+      ],
+      "photo_reference": "ATKogpeeLQ9XlOf2mJIY5rWOFQCvIE9DaRNMRVp_HPRBy-nwCt8k33BEHKUZ8kpJlfrruOYvg-dAMBUZ7cyW5wOhXQfjYESYcrNG7dzheOYXNSmSocKkwcG9Tc-VE8DjuqL_3sHiss7OiP18wzYdAYIlJYKZ1vdYxQ1to0XhzsxJAllI1mc5Uzsv6ZJxy9XG0s-AYas1DAmIyWhzlt-zhpQPlO-313_jRA-x-VZ9FdoH6F4g_RAZGrvkymsOWLB3UutuQPL54Wi6mHtK-rdo_fdnrY839oyqch3zjHJmaoQwhlRgZtVmr4RgAnhakPIsWuTEFles_EGGj4fs10LdePOZMclxAiZhXsVMGbhYrjZ8mRn3P3pbpcnVOTW0_W8m9XhuJdc0Ub-LFjXxKbo-eGi_a0OU1HEAUd7sIDXXB1X5xSS2Ozg",
+      "width": 4800
+    },
+    {
+      "height": 3180,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106293848782047073665\">Hai Ngo</a>"
+      ],
+      "photo_reference": "ATKogpeAXXvtD9p_okOAS2k7FN3fPYsqxxK4rZ1grrL5TvJT_G-gT2l9zKOLjK01wLeZKTL2BV6dIBYfSbvI45sFbsNr_oz3-l6WhxqvsACEWKZWOALavkLNFDZkIo9AP7d5zS1u2pPxu_WINR-7CDKkcJ_EQe7ZeifpQTrK24ihGEA_5uxS4LDTBwaSunFQsb4AkcT5WhlP6_ZKT9xIbnSBfQBvwIT1Zx4uGpqxHb7oA00R9RXogDmy1BgsVUt-NEiJJgd73yPqJKgV9GTlIyIPwbksyFFpPB4RpT2xxvZ8DqbMnO1ImRKfLcKBO5rBasIGllpN59HRuVGuWIA3p8biGR2ncIulEGjqlWirEzJYEIQnF50UY9yZ6l3f88NFYUzCHjHRk93t5Vmy6qTkjzcwUNXthmRRUic7oplHUs20eTA",
+      "width": 2899
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104231248451984564197\">Mysha Azzad</a>"
+      ],
+      "photo_reference": "ATKogpcSOjg8TT3GokYx5Zx9nSHawKlxfR6-BF6NCDvm1as4-wnbeoYxm1wb1Gff6z8InHPR1lSPNpsw7-01BgEieNUxPa341ZV8LnqqHubH7yxAro9csFJbbP3tQpXiGQrc9aY6uiThhgDa3J9ZVxPcVa_bHnrrQDYS5vITS0n-BJM8FafmBjVjP1LwAI_z-uXeKlwoXiMcF56yFrfHstdWQhp3rZ6FSHVo2MAqTmBPufEJDHXhnCioZzChfaKKI0OfkqOAKLi_vb8Y-JwwulrVn3Kcu6qbbctQoNmRzYtbfvjuM2D46yXL2Z0UNuDAjsWXVAlzI22QmVOAybfVwdJRUmkKYR22kKDTpvy4TWVoRZdXZ3dABe7Auq7iqmNNKEKJ5ndXzZLsffDfF8-KVcwCGLjwMWdfbralmqzGBq3tXr1GwA",
+      "width": 3024
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116622516592328866369\">Bill Wang</a>"
+      ],
+      "photo_reference": "ATKogpd12fdV-8Ef_oLEBOS0EwnnPnVfy_woHmrvAZgVkkDofhRR8fnIqkv3zHf5aH31DXo6rXnQiLOC03L_6yqFPItwxrZfSSf8dKbI9jZhOkgqSRjQy-Rn0d39XLD99zv5K2YCvQjt97o0Uj604pQ0hBrz20bsXFuBAdU4X0SaTDv4lEZGWvE7uT-lDQOrw-yN4KNHO707sOSI9wCx3HiuAS9Ps13HSfc_ti1wlzqvy9GcTMWrVigFveIjeZYzabsOV9FaV5S83JKtMlK7-InvXemmYhXFoUgnsxjocKei_nckLY0mhYck4fp1hVQiHBDeNHvpdkAJb8XT_7ZhbqhybYsVoXB31ws3c30KVulOjNlr8_ELSM65fzosOgZ8okuoUaMtO9a4F_9HG1w7oMvs8fwzjKR7HsZBgc9WldNhU6F-sA",
+      "width": 4800
+    }
+  ],
+  "place_id": "ChIJj1_yRahZwokRr6Ktp4IQ4Ew",
+  "plus_code": {
+    "compound_code": "P2C6+QG New York, NY, USA",
+    "global_code": "87G8P2C6+QG"
+  },
+  "rating": 4.7,
+  "reference": "ChIJj1_yRahZwokRr6Ktp4IQ4Ew",
+  "reviews": [
+    {
+      "author_name": "Mia Huynh",
+      "author_url": "https://www.google.com/maps/contrib/114746114434966868203/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWE4czd-grUsa03QSphvyCOclM_Ar_KI27-4Jd9NwQtCduvru9p=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "This cozy cafe is located just outside of Chinatown and offers a cute space for you to chat with friends, catch up on work, or relax. They have a cute exterior with flowers dangling from the roof as well as interior with lots of floral decorations, and a garden-like ambiance.\n\nTheir menu offers a variety of matcha and espresso drinks, all of which sound so delicious. I got their carrot cake latte and absolutely loved it. It was sweet at all, and the cinnamon and spices really reminded me of a carrot cake. The drink also come with a tiny carrot which was so adorable. Would definitely come back to try their other drinks!",
+      "time": 1750258623,
+      "translated": false
+    },
+    {
+      "author_name": "kittywithaY",
+      "author_url": "https://www.google.com/maps/contrib/110889425215259631037/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVYaXS9trDvduo_fsxmudqLBea56C4Ov7JzUpapeDxwlrrwxNA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "2 weeks ago",
+      "text": "Lovely lady who helped us with our order. We ordered the Iced Matcha Latte (sub coconut milk and add cream too) and Ice Black Sesame and Hojicha latte.\n\nUnfortunately both drinks were very bland. Aside from the sweetness of the cream tops, matcha and hojicha tastes were barely there.\n\nIced Matcha tasted like sweet water and Hojicha was just oat milk with a hint of black sesame.\n\nPlenty of seating and free wifi but would probably get the coffee items if I do visit again.",
+      "time": 1749516617,
+      "translated": false
+    },
+    {
+      "author_name": "Jenny Zhong",
+      "author_url": "https://www.google.com/maps/contrib/109807236014361164299/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXDHVKeLEpcgBxM4S_aViAiqpspoWhstZacSUDToXoIW_U-wfUl=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "I love this cute spot in chinatown. It's really pretty and the drinks are really well made. There's also free wifi, so it's perfect for studying and doing work. The only thing is that it is a little smaller, so seats fill up quickly, but luckily I was able to get a seat!",
+      "time": 1746458058,
+      "translated": false
+    },
+    {
+      "author_name": "Jenny",
+      "author_url": "https://www.google.com/maps/contrib/113780587967426889887/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVrODUpzuOljv7mI5eG4yVZtY4zLzV8E5Rj63ZbFbJ_SObouPYA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "The place holds a special place in my heart! From the inside out, it's beautiful. \u2661\n\nMy friend and I ordered the Osmanthus Cold Foam Latte and Carrot Cake Latte. Both definitely need to be mixed! The sweetness isn't apparent at first, but mixing it brings out a sweet coffee flavor.\n\nOsmanthus Cold Foam Latte: 7/10\nCarrot Cake Latte: 6/10\n\nI wish they had this coffee shop in L.A. so I could try their other coffee drinks, but sadly, I can only try them when I'm in New York.",
+      "time": 1740188850,
+      "translated": false
+    },
+    {
+      "author_name": "Cana",
+      "author_url": "https://www.google.com/maps/contrib/115219089937116707708/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVXOz2g1OpSTABc1OvqIwjK9CBek3NiA0DSIVffSNdyahvjAiMh8g=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "It\u2019s sooooo cutesy here!!!!! I really appreciate the creativity and attention to detail in their menu and drink presentation. Some times I feel some of their drinks look better than they taste \ud83e\udd23 but it\u2019s hard bc the presentation is super super beautiful. The drink flavors are pretty good. Drinks I\u2019ll rate like a 6/10 flavor 10/10 presentation 10/10 aesthetics . Staff is really nice too!!",
+      "time": 1743540147,
+      "translated": false
+    }
+  ],
+  "serves_breakfast": true,
+  "takeout": true,
+  "types": [
+    "store",
+    "point_of_interest",
+    "cafe",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5539445695010677423",
+  "user_ratings_total": 204,
+  "utc_offset": -240,
+  "vicinity": "188 Allen St, New York",
+  "website": "https://dialogue.nyc/"
+}

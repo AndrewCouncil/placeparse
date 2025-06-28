@@ -1,0 +1,551 @@
+{
+  "address_components": [
+    {
+      "long_name": "10",
+      "short_name": "10",
+      "types": [
+        "premise"
+      ]
+    },
+    {
+      "long_name": "20",
+      "short_name": "20",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_4"
+      ]
+    },
+    {
+      "long_name": "1-ch\u014dme",
+      "short_name": "1-ch\u014dme",
+      "types": [
+        "sublocality_level_3",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Asakusa",
+      "short_name": "Asakusa",
+      "types": [
+        "sublocality",
+        "sublocality_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Taito City",
+      "short_name": "Taito City",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Tokyo",
+      "short_name": "Tokyo",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Japan",
+      "short_name": "JP",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "111-0032",
+      "short_name": "111-0032",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">1-ch\u014dme-20-10 Asakusa, Taito City</span>, <span class=\"region\">Tokyo</span> <span class=\"postal-code\">111-0032</span>, <span class=\"country-name\">Japan</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-05",
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-05",
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "1-ch\u014dme-20-10 Asakusa, Taito City, Tokyo 111-0032, Japan",
+  "formatted_phone_number": "03-5806-4222",
+  "geometry": {
+    "location": {
+      "lat": 35.711838,
+      "lng": 139.7958863
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 35.7132203302915,
+        "lng": 139.7972410302915
+      },
+      "southwest": {
+        "lat": 35.7105223697085,
+        "lng": 139.7945430697085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+81 3-5806-4222",
+  "name": "Hinatomaru Asakusa main store",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 540,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102424430306621053926\">\u65e5\u5411\u4e38 \u6d45\u8349\u672c\u5e97</a>"
+      ],
+      "photo_reference": "ATKogpcEDPRfScAn5_-255k954_y99DtUzJCanVkLvHN4dU_59kWv5R_OO9Cc2Esr527IqB1BO-xYhJzdOgv8t5vNMDXrSas87U0Yi4ZXa7Q7ASu3F0w6FA8YbCKlFIiPRCPTBcBOoTXOu7T5gC-I2-qg0h2JvdgyUIs-WJpYAn4j1aXDS_f3UaDYAMGT1nA0nVsii1jW00tC_vhY_X8hseeWJPnhZ2tPCZGkTYtciR_Sipvbmw0nzw8BDxvkX-JRMz1Ose3jVy3Ard8O0PX2W7G6Dbse8PF6XFoyoSpW6tcyOCu2g",
+      "width": 720
+    },
+    {
+      "height": 2160,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116149895806721665486\">\u30ba\u30b3</a>"
+      ],
+      "photo_reference": "ATKogpdbUzdWjcOqMcDt6LxS3ZaaJ1JdpDjbFLh29F2SpZfmWI97sTzCLKb2TsLtIO5T6FYLuJnmAYaSChzSO7aOz8KddenTEGQ3OKXJkxZ6W3ko36i20rb87B9Yx7kYT415qWX8mOHi_WK8IDBzq8Uj8WeI20uL8K7mY_cnHGPzkgEy2oo3h8vKvszwn9dwAAnUVjdxqINRwE4_AVQid6rmRL8H0F2ggqlDKRMrr1UJSd9WetsJWG8PlYNfH8WBrcG6tFMqCc4gOBgDWdGZyAnwMmy2xDRN2YSB9SuQBAlg1ZsOADTH4c6aGteILzPK8AQar8VesaHix-COk5MJukrFqBQC53uM5T30o-LXY13qxgRmv_8v-OmB1ptwi6Uky7-JzadOnlt4TFQ-Q3UrJU1FCwuVMDUTtAbFcRoK9pV7fME",
+      "width": 2160
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111415083231340612305\">Linus</a>"
+      ],
+      "photo_reference": "ATKogpfhqU-GrJPK2Xa4XPKzMHYo2_shlYOJYJqfu4tuMRoEYXwGpkDPLAr9dG-mbcG0aWlaMLApzSXNtCiSjBkS6GO6FacRI_g7_03kEh7Rh1eiFsyqQA-9wH-nbXPogIV_ZUrhfOjgG2po0selj1l6fEr1DgjwlgKcpGmSNciUXJjXoV5L6pQo-fOlW_jQxbXrl5wyHvknNZrnzmERA96R7puDOb7r1t-UCufodCxzM8gOu-oLYMTQGuDev0nCGNcN_9Q2n_Na4LLhXUEOfWRYHAvi8NLL6frX6OvQy2u1zcj94QyXD6M3VpTcVh3YC_uZHAmCyNlSEy-eRS5QIxMLjZ3_woQWFAs67eLQdPZ1FytSLA7DIVBJmGErM3qWjawfn_jKV2WrJvYDS7jLlb9Vcotc9xE-IT3-IlbzLYwpu4-G6w",
+      "width": 4032
+    },
+    {
+      "height": 3840,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103400386340287620635\">\u304b\u3057\u308f</a>"
+      ],
+      "photo_reference": "ATKogpfe3DnsPF77hnpGP0-m50EA4d-s7mgnRjP5T4WPRQGEGIXRlDur3WfcaW2PrJ1jPNsBaac5i44EetPtyTRxFjGKGEyGkuGB_gHSvEjxCElcycCYA1kegJ5oCDtcqlE7qLwaEX9cyZAaPxzWqX58wbPMOX4O1P-gl9A5-cIsIiSW0wbQJgP-pNngziQb23ssC0F6gH9VKwLSFpQJWtaCYzWfWsAHt7QUuGDV7k3cKNFrHhgYV7Q1C-hg5dhZhX9sRtNtvW64oUs1Sq8hHkwED-DEFV0ERz49Y2WiLfUSks7P0WMnbqpHcD_9KMGHaC4YG7ysN49f4F92NlMNLayYSm45bSDBFWY1Ay-6Vnd9293SAbyyE_2Y8fdqHqE-ClP05Vh9fo9VeTTlA4ToBVEwcNdW29Qw6kLs9T2_-XjEBwyeXb3S",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108569658246251825246\">Y I</a>"
+      ],
+      "photo_reference": "ATKogpeod1W1ALO_fkfDbgfOwKAOKwWQ3Mc2T0mgxXVRs0tVXnFzWht9UGESlhZLJYewHn5l4JmRBLA9W1pZoLtLcVrDS01_EaSvSib3dyEh-AjBeaEU7ns0JFlEV2Ay7r3GBagKwmb8jD6pSGAGlt5cwwF0Z1tlNsuNUjnuSGRNtMD4yNWpxfOdp6R0zBxaAQfgvjd81NUUmpk65PxJvL99GKaEEmFdosoIFRFisfLm8DOZYvA-wu5hjX5J-awhwG2V52jlzSfUHKEv14TS41OE8UUuFVxRxdJZ43BdTbehopabH0lQ-0E5DZpMb1V8yQpKhZZbyLcwtow2RQQEN3AEnCSCmM2o00_-BN3RcNw1Fz8LRON2uOO5aaVkojxoslEFunTwMbDZKhcl_93K6BtLwIKNqyY_IbLmHsrdIP-6fCEkAzFfAv0AJSJroIjMP5ML",
+      "width": 3024
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117065681762980488784\">\u3051\u3051\u305f</a>"
+      ],
+      "photo_reference": "ATKogpdBr4Tn93Z7BvA88x-5JjedPKDpDbR7b-U_Qe35U-XvxgWpr4agOOZLC9ILF-009f9ic9K2g_Xsn1HjLr00ovvcCz5I4oEYief-mXqcpz20CLbR2eKZySUaYPDBaWznChTBfiq5ex4pfHUqjpJlvhmPboOU3l1He5D3Ety862bpYrpkeuiGI6QHccup17gphPMl6AcVK0tNtw-Zmais7UvCovhplFGgo9K5uT4ANKjw64Sehvyg5NjJjkiVaNEwaT317fBFVAOG_YIz6Tn-LC3cOj2iHNTYoASkTRMZu4TsdKwqfcPf17xln1VQGyKUXExKFnAbjdng3oIst8WnPe1Ra8WDmRDIV2H1RvQguHQJuMJ9CGOByjfIGqtkcHJcmW4x4bOeXG6mI9rgP_0yXEhOEN-auh21aJInD1UPlsBshJKb",
+      "width": 4000
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106260173297286569477\">William Chu</a>"
+      ],
+      "photo_reference": "ATKogpfYd5_-X9uBK9OcLwelah31WjehtlTiSsWU9gpAqe_YeTtv02XRL0m1aoLe_TtfG2BGrps7xJAYEZo62tP2PkpaJe5GS46nQyQaOird2j-KlobWiCKOJVczOYt6WAO-ZtFBKzbfouidRyrnLRxkqndbOpM0YCO3ohHcHlYfhhWYTTH219H6cyZT2VuaVkBHrI3On9LWyuOFp0MhOiF8wUFSMKulGr4OEBX7u1qlJQNhZxd-OsFoyH3itTLgbCPKDUBrD60M8EHH0LXXiLUR5i7WAbhgP19yG2Ko2vHPxwO4REhdBWVD83C4Ga7surfqAajxs14prLPhoXzP_0xcwTT5zHOdVU9aWXeNgAlZEU4dM0-8Lq4bh6Vq87CFYSQvwNEBAI4im_i_7ZZVYsebqkOi8sQl0vw-FvEntrY13SzFKNmO",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101573330273094692348\">\u6d69\u5e73\u5c0f\u5c71</a>"
+      ],
+      "photo_reference": "ATKogpdaDVmwVuWTkFnFetgXi1eSf49Zco3bQ81R1q-5bT1WMwZu8PRyIm3c9Z6qSYsYYtDsQ2td8HCVqcXx-CshjSmrKQ9UpefladfSKd_3SFOM2ZSUx31lbBmfb-DsE79BNvuCl04_NpCZR_imOIVKKnzY8Mi-BCSYY9e81Jq_7mTx25Vp4V2GSHDRrzJgNONZ-FV_cuxyjCixjKfcHVPy4Q-puF48RUXS4e2r5nMyCL3NOgRWAvKGdAZVL2ZwdDcbW4uqrcE4PNqCT_XvDRfmyk_tq_muFUYRgWWmllGsuZSMotEH_1-_V7ffDrRr3DymHmWIKdPjYQwi2V4hQhA9-U_tYO0id1t-zPyp5Fr1kTTKouQzAyI97uoqXCEU8Oee32M7zjaN_8VDcYA-QmZHK0OPM-rjimP0TG5jMEl0mJs",
+      "width": 4032
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101821845339142359265\">Rares Andrei Sandru</a>"
+      ],
+      "photo_reference": "ATKogpdFNzktBKx-ykb0EJQgHzvRmU21za7AU0hV4afNY2b-1xF3YiR0Jn-p9-ui0xVsPmQCniZqUmjynIBVmWamOqkG17DXv4vUCiAkDkznED0pcnoZqZezPR-yWYpg7A84OJvpLVy0F-j6t6w8ch0uQdRhbT06xIcdbe0JMYU14BrfeKspKVtqtD9T_GCMV58E3JdC8nzCfI4Reytex9ZRoIrG1oQJD5ubxC4PpCqbPub3E1psihm0ciKFxEEhRToQEhvx_HTmVIk87aiUxVFuHIcXYb02ccJuUSIhkTTeSBJhnUCNld-Tg2a4tawUL8K34ElZry1W7nDsWyC-8Uo2ZrJIm41iiRHMCn_EKN9QtqX67zdnoaoTVyid-x0ESorOIbqDfrAmdK9_oUuePFj4Iq6WX8b9qykNxThWH6G3RoPMxXXB",
+      "width": 4032
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101821845339142359265\">Rares Andrei Sandru</a>"
+      ],
+      "photo_reference": "ATKogpcjgensrih0Bow7oz1Vt8EIWJZoSv4QowzQmVrmjhfg91eylcEN1eqnw8OJcf2xIVI52ASsm2u6gpE-xFkca4Cns9ppHLbLhhOQT3Us_4OlEwLRWCntLeZIdUcMlMfrZaqK_Roe5NhlhgsVWZd31ns2eQmFoT1yXGiYpjZ1JEoGuu_q_0nU3baF7XFpsIjoCXI0H_nuIWjgb5uWcjgrfTyBGVXBqJkVf7o7_NPZHHmxybGP_lZc205JnrZMqxIvihltZk4mDd1BHDKCcmQRMhTtVOHa7wQ7JmjfmRFqLzIkIdFA5dEdP6vFXpL__FbIDKCvJIUhEJ40WXVVCVnk307USa_3xKaIsUruimmGva9N195v_m3etUyFv6RKwiDCiMa2YJJGbapx0pwCEj-9pW8QxgxMbHx1FlPcvibz-5B7bg",
+      "width": 4800
+    }
+  ],
+  "place_id": "ChIJh2nYzsCOGGAR-uyXwK0Kamk",
+  "plus_code": {
+    "compound_code": "PQ6W+P9 Taito City, Tokyo, Japan",
+    "global_code": "8Q7XPQ6W+P9"
+  },
+  "price_level": 2,
+  "rating": 4.2,
+  "reference": "ChIJh2nYzsCOGGAR-uyXwK0Kamk",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Christine Loh",
+      "author_url": "https://www.google.com/maps/contrib/108495065083168151690/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKbADut0KY0nEIuK1msV-gs33tZkKv3dyOqtJUaeDe26DPjGw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "2 weeks ago",
+      "text": "Nothing special about the tuna sashimi and sushi. Over hype about this place. Not sure if there is a difference between sitting at the downstairs where there is a conveyor sushi and upstairs where the chef make when you order. We seated upstairs cause the downstairs is full. Been to other sushi place where the food and prices is better than here",
+      "time": 1749562735,
+      "translated": false
+    },
+    {
+      "author_name": "Sunny Wang",
+      "author_url": "https://www.google.com/maps/contrib/110178872207555461362/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-s1NFEDaR2ihXl05V-_Tk_5t7eJmQi9Yrei658p_PQbsHtmlg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Excellent sushi lunch spot in the busy area in front of Senso-Ji. Came here in 2018 and back here again in 2025. Great sushi for a great price. Our son loved the revolving conveyor belt and we ate 28 plates of sushi.",
+      "time": 1745072433,
+      "translated": false
+    },
+    {
+      "author_name": "Rares Andrei Sandru",
+      "author_url": "https://www.google.com/maps/contrib/101821845339142359265/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVPuaROqWyrx9WPi5mLd6Y2cXcbgQO4_YJyv-9eirMb-lonlpu5=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "Hinatomaru Asakusa Main Store was a fantastic introduction to both sushi in Japan and the conveyor belt dining experience! This was our first time trying a kaiten sushi restaurant, and we absolutely loved it. The variety of sushi passing by on the conveyor belt was impressive, and everything we tried was fresh, flavorful, and delicious.\n\nThe experience of picking dishes directly from the belt was fun and exciting, adding a unique touch to the meal. The restaurant\u2019s atmosphere was lively yet comfortable, and it truly made us feel immersed in Japanese food culture.\n\nIf you\u2019re in Asakusa and want to try authentic sushi in a casual and enjoyable setting, Hinatomaru is a great choice. Highly recommended for sushi lovers and anyone looking for a memorable dining experience!",
+      "time": 1736259710,
+      "translated": false
+    },
+    {
+      "author_name": "Nicoleta Grandori",
+      "author_url": "https://www.google.com/maps/contrib/109446204409975151571/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXvfI5-DqrJv1AqM3_mex3UvojxgXaLAz7XKI4iV56YLfAaOAEwqA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "One of the more expensive conveyor belt sushi restaurants we've been, but the quality was undoubtedly higher. We loved every single dish we tried and we ordered a few not on the belt, which came quickly and were amazing!",
+      "time": 1743297398,
+      "translated": false
+    },
+    {
+      "author_name": "Line F. S",
+      "author_url": "https://www.google.com/maps/contrib/109047162798886680285/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIf7DvHnhsg_bX9IPd46u2GZ9SNZb0tq0B0Mb21Sx9qFRTjBTL7=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Best sushi in Japan!! Make sure to go upstairs instead of choosing the running sushi. You will enjoy an amazing atmosphere in a small place where the sushi cook is making the food in front of you and locals hang out.",
+      "time": 1746694014,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "2145"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "2145"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "2145"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2145"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2145"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2145"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-05",
+            "day": 6,
+            "time": "2145"
+          },
+          "open": {
+            "date": "2025-07-05",
+            "day": 6,
+            "time": "1130"
+          }
+        }
+      ],
+      "type": "TAKEOUT",
+      "weekday_text": [
+        "Monday: 11:30\u202fAM\u2009\u2013\u20099:45\u202fPM",
+        "Tuesday: 11:30\u202fAM\u2009\u2013\u20099:45\u202fPM",
+        "Wednesday: 11:30\u202fAM\u2009\u2013\u20099:45\u202fPM",
+        "Thursday: 11:30\u202fAM\u2009\u2013\u20099:45\u202fPM",
+        "Friday: 11:30\u202fAM\u2009\u2013\u20099:45\u202fPM",
+        "Saturday: 11:30\u202fAM\u2009\u2013\u20099:45\u202fPM",
+        "Sunday: 11:30\u202fAM\u2009\u2013\u20099:45\u202fPM"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "restaurant",
+    "food",
+    "meal_takeaway"
+  ],
+  "url": "https://maps.google.com/?cid=7595895462890564858",
+  "user_ratings_total": 477,
+  "utc_offset": 540,
+  "vicinity": "1-ch\u014dme-20-10 Asakusa, Taito City",
+  "website": "https://tabelog.com/tokyo/A1311/A131102/13075573/table/",
+  "wheelchair_accessible_entrance": false
+}

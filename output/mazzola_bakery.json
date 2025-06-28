@@ -1,0 +1,454 @@
+{
+  "address_components": [
+    {
+      "long_name": "192",
+      "short_name": "192",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Union Street",
+      "short_name": "Union St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Carroll Gardens",
+      "short_name": "Carroll Gardens",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11231",
+      "short_name": "11231",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "3502",
+      "short_name": "3502",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">192 Union St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11231-3502</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1930"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1930"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1930"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1930"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1930"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 7:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
+      "Tuesday: 7:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
+      "Wednesday: 7:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
+      "Thursday: 7:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
+      "Friday: 7:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
+      "Saturday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sunday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+    ]
+  },
+  "delivery": false,
+  "dine_in": false,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Neighborhood bakeshop turning out popular lard bread, plus Italian cookies, pastries & coffee."
+  },
+  "formatted_address": "192 Union St, Brooklyn, NY 11231, USA",
+  "formatted_phone_number": "(718) 643-1719",
+  "geometry": {
+    "location": {
+      "lat": 40.6833144,
+      "lng": -73.99965499999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.6847291802915,
+        "lng": -73.99827526970849
+      },
+      "southwest": {
+        "lat": 40.6820312197085,
+        "lng": -74.00097323029149
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-643-1719",
+  "name": "Mazzola Bakery",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1800"
+        },
+        "open": {
+          "day": 0,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1930"
+        },
+        "open": {
+          "day": 1,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1930"
+        },
+        "open": {
+          "day": 2,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1930"
+        },
+        "open": {
+          "day": 3,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1930"
+        },
+        "open": {
+          "day": 4,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1930"
+        },
+        "open": {
+          "day": 5,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1900"
+        },
+        "open": {
+          "day": 6,
+          "time": "0700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 7:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
+      "Tuesday: 7:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
+      "Wednesday: 7:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
+      "Thursday: 7:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
+      "Friday: 7:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
+      "Saturday: 7:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sunday: 7:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117024707744357690207\">Albert K</a>"
+      ],
+      "photo_reference": "ATKogpfMJkj1zs9aVZHlNDWaklYCYLpHjue1KTNlVCNlLGsz2cDNBlHSwZYhyLM8x6EtHNn9LB-HVQHuR453utKAqMm7JxxCjs4qJl9Ml8DdOL0VASBstbQSJ4sukHbDAPaO57Rydeyl0LNw88lM6ZaPHPgeO_Bsmff3bT3NSUYRlf_z52uOHV578FQSltTrvEzTHFITK2dcwuHQ54wwaixP0mWHn4l77jNlSo7KEudcL7EXNVIoLtIYq9uclhRZhZ5YtmzPb_jgtxhattaLDWaMvZ5alPcL3K2rHHk3MR_RXni-0OScqxecveiTNeriLS2oRTLI8FrI-ldkfGCg1lwCqN4yCOBeKiOgX5nZnqQcmipm9XEIVUKLwazOy_KbdzpKROwN_FzwW43khlipcY3xkZ03dv9c0QgfwNc0sc1GusXsoac",
+      "width": 4032
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102168725445996826325\">PEARL AMOROSO</a>"
+      ],
+      "photo_reference": "ATKogpcXeCwEZuFoBZTGhmTj9A_khTIJsLoeRgLrrj2xtjzZW1Jud0p44MMO6KI0gAMRjO2AKDQdxz5ogLAlLZSb0nqvee-uMIG-mhK_ULklOtRTP-D0RvSj4I4Z_mcQ8v_9Pn-nYkukmpYRBCahHPRHDOr5i3MO7b2ZcRWEJjRRLuhsdIvTVDo25uekvjTOimKbfPWOvARi4Irw7aoCBPA0Lz2TaxhcNJL11Ejek89EZAdtXAiWDpiPpXhSL6l63HhT8ZDubDtz_RZu80_UyDWlc9CVaS9EL4-YUoAoLxoOryH0jFs2Z-2V8g3xI5OrraOx-FywJtgZlfLcPnoLqhwf6gDUSAxeMsxOngqdSYXrJ3WPpzwJCThS_USD38XEMdh526YgD8Q2lQZgOJh1DlHxH-tOduqirku25QpmdOVMlgkwcEj047VHdwDosPdG91N9",
+      "width": 3000
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105291645896819624711\">Tango NYC</a>"
+      ],
+      "photo_reference": "ATKogpc7_fhwQocWRekngPGFEQtBICaY1IpqabvzGiVmj40feC03C6jt1A8zlmYVJj5ak3WH6iey3qJO-SHEZ4Fk3e9T_TTHLEY2zx0iLSIp1IbSOEV4ezJEWvhhJKRfDBVvFgZn2H2kkri-g0-e8Oh35GqZB0A4APVWEJ5GvUHXbR1rU4Ghpx8sqZHuWMAuAJZUmSHl30q5N5lXVXH6VekhxG6FbTTbSar1RcNXeCWFpSevLWMBY8wnqkbsj1GrzEQHNykrkiN1lU5wqWfGIVfPymd1Di6qx89SShPqDE2jdnyHXYzRy-BPhYnzM6icNkVw7MT5VhmswtjnkoE2_5Nc9HJtqbcxDp9B6t4A4a-kERXnAkTyo_R0R4FvEIXuoLHa00dsPpQ6QL-PPAhiRXR_blPqtdeIVdHXtue3q9CluggTlG8",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105291645896819624711\">Tango NYC</a>"
+      ],
+      "photo_reference": "ATKogpcC-JnKsMq2fcmK9nrVjMyUT0dyzVJHFeN4AlDIcpk-WkYfTL6fFBgQw4Sn_g8u55ztLJwiijv8TteRqbBuwbiHNh9EJud0TqLN1XnurQIbYJb7xwNPt8xxd00LhzoWDGsl-0-jUzFxlMuztszy98RHK3zziOJB7-rVyRhFERoTyGA_iMejElfL4OpEixuzmABZbpOWSR1ZokB0xEUmDFjtpNC8vNpALsaMgjZYFlp2vAvhy4GlQVKt2OwcZIwmgW5Spqtx_L_ODY9ODBmPNgCZMltsKdp06LY0P6v22pPWJtbr4DKEs5pq-Vib_4yUZAzv8Buo2TCbS5Xh-TSZXVLGFGz071JMngrqqxKSsO9hXJJXfYlj83aG0YAuB3GzBeb5PbKpsWBGOU12M89GEi5s9RnPhpj5okd_fIYKsjiLcoQ",
+      "width": 4032
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100493690661652707074\">Jenn Back</a>"
+      ],
+      "photo_reference": "ATKogpfdAg0vS4jSOSRBBX_GkaiKt-IvJQLnlwegoqba0y6X82aqeiJTCPSjmkLdpWSC6PfM2RYbKUEC9pzNALhEKULMIL1snhr0Wz7PjYjPGvNo7cNmjwt5EASeVfGe9iWjR-l1EoUeThREhJbflQhC_rweEqh8dXo4Udm8ypCG4PwRt1jecGVmVz26E_jsDYEnEtHYLikZswitxYc4z1sk8nZPftZP8wDDwbWuC9GcIPY6m9tvDKYPazrvPg9ktH6yalWMN6zC1y_nHRVIuUshYCFLXC5-Z3JkmEQR1T3G3sYttSnZnQo-YYO9dm-4jy9UX1yS_maRIzjW2j1otD2LZ3lFFbvhtDP563ONasZDbkypgmLy6zHL0R6Xz24-3KM7Jnkq40A9bBGjmy1FFyxatH9Gvar1sH5l7IsUAugNW_8XmA",
+      "width": 3600
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105291645896819624711\">Tango NYC</a>"
+      ],
+      "photo_reference": "ATKogpcnTeVrQxKxa24JPDrWB29fesLlOYABS2tlx5f1GW7t3SxKrgJrVcxsoVgyKJ4mMqIyw1FCGa4bNgYKkvLnUGUwgRv38G0LffEsHSGvcTVen9KShANf_Eh0f1X7_3zcGQAMZtp3XElhrBrTz_rBU5Vcem5tdPg-8Cz2XTE06HkRdA58mDqs3Y7eTC2sWY_563oMLMWJ-uhjZyUeRRnLUiLIRcH-Nio0Lo3ISuvQdXb2hdCvItnF-tjevXBgAtGGV8QG5FnZQ9F46aW5vIk4QbEvL7j3Ym_SGbPx_Wsf2Vv0sXRUtqd8_-6p9hrtA_RmWrFxV_0DDs-UNoIi8g-NjAkhaal3V1D8Zs1GjQHXi4UUmI1fwUAELoLLl1ORE4kaT0FnWlp59OTOa86P0A6XiYZg01kShtVD9Lb9H5BiPErVVQY",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100493690661652707074\">Jenn Back</a>"
+      ],
+      "photo_reference": "ATKogpc5M2S3yGSD2iK2JD4xaQIy8ZKgVPFbiUz3BP74dF2R6iL_Ixidn9sbFYYc0Bg4HVQOGIYXkiZhRNnnn4gn3jNcNt1wP1CjXZ6iwShb3xeE1yt1XRU1nxZIPpoxtVGcaMIChp8MabAPM2IkBhACZ7pGPPmDm9S2S6VyUFRqNQ5gmRuolwCVJPGJSNNqYx2AvVMLBOBDKH3JNGEvEj-zUxvO4z-Nry7-DdBQeRtARFHplYlXttGQRw8D4goTZGi6IWmjjajmBofYysIErmnnzEKvR4_Rl123GDXxo23fpBCBYG3YxePnTVtabY5igaijE_BacAC24LfTR7f-XhorftPfJo-TaIR1wv5suX1kcO_SxN2ex_60zcWCWVcD5gSEydSMsXzm8oLOpdhLzT1wNGo_WRUyf7VDl_jGpaSqKuQRMdE",
+      "width": 3024
+    },
+    {
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101526527215092074338\">Jason Patrick</a>"
+      ],
+      "photo_reference": "ATKogpey7dJe_rVWZC8inDtTjfY-Av0xdItPbv-p3qznNWHypMZOHqa64kkuihm2XFAQSp60uvh9z6fnR11Kd3fxOyPciHrvc7JXD6XSpq-2ti9SAFOgaxc9xeLafM1-eYZ4t2ZEHTqF88Kt-WacBEa2KA1mxo1ChJhJXDGW_8nju4cECocNRTMg6NGjKv3o9-JbL-zAoL-_qs9M-ga5VId1ooPR7UGiQLYjfVD8nhdSCBn1X5KcibP3ihdvTCv586cBvP8J6QMEcSufP2QPY4C0atMbv1i5jw2mrkzEAV4UbxOu_DfsaYwxkvZ9oRT-3S3PRdcMR9e8OMA-5KjxOSCVGichfSM6632-jaAF6NjfMxhB9-70VickZ0AWxTC_w1tNYNSTSv3fZm5bWDnEC61U4-Cbnt2ocXuG1W2Lk5LVs-v64ms",
+      "width": 1616
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105291645896819624711\">Tango NYC</a>"
+      ],
+      "photo_reference": "ATKogpfD6-5Ln7t1tFp5-YmKTn8OrAQF80UGNxo4qwRAc-LisbeMiIFX7hR2-50NJC-O8y8-NTviG4vOJxfaQPnlRwBO5vOOepQ-4kvQ1UKI6zwSb4gouLVpp2GQo2AbgQGvtshlyX2D-LjOJU_Q0VCjmhvR8M76bHPF7SFnlU5DvP1hpxrZEexp-GnWwC6xJ-nYMTEFp9vz6izKp48mCBEkOqZ9tG_zSvRa6n6gYZeeCL4oNclVwkf3U-AEgw7KlXxehyYuDS0iSJOa1l3QBUAxe4LUw3mN718oK7RM_2xV_pciEyleTEdOlNSPmwD0ZHBhDiujfCOpjlyKmbHcx3c9MRS_s6027GEYzYl1aLNXnEUjbTRCoMhX34OSDkKQM-qFLZN5GxPaikjy8cygq4f0xvf4Dc3UmzC5E6KQhPQF-pvHwbtG",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100255764131072056943\">BackpackingAndy</a>"
+      ],
+      "photo_reference": "ATKogpfgFRzV3XxJiSGHU7lmYRZWNpGNUO52ZlKM8QAocIpQ98pLoHJmYTMQzozwuhKRXmJwKWJMm3J7ByVtvaNLvJZJIAcUOyi0Yj5Jfb1FW40DhX-yNAWz4wERHEjuHcLNwEulNFXyqdCtDkihCHrgLv8epHdPuw2CNIrqAcOxBVblbmGbXiPv-MysOkeLVtbnB34uofwYLJdqNER06L-0RWY4q_OusFUdyvsYweuiIrj9F6dWtS3OLszU5XjqSZ64a6z8ExP5PS4cgUvxERAlL477VhdHqSIOePUhsI42gdqgtWh5m6b68i7bfAeHUxCRT7l1fUhFLOhpvXZjU-t8kHtMebijbGx6wyhxJy3R3rv1keUvaY1JMvFqfmOTu33LrqsPsaFrude4DZQPGibMqlC1iuN_3HIMfBBQlrmFyKEZrg",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJqRAR4ltawokRTWY_DA1RfAU",
+  "plus_code": {
+    "compound_code": "M2M2+84 Brooklyn, NY, USA",
+    "global_code": "87G8M2M2+84"
+  },
+  "price_level": 1,
+  "rating": 4.6,
+  "reference": "ChIJqRAR4ltawokRTWY_DA1RfAU",
+  "reviews": [
+    {
+      "author_name": "Mallory Herb",
+      "author_url": "https://www.google.com/maps/contrib/111594474997715289917/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxYgqAbm55nrYyIcgLlkHf2ADDXao_TXj0uhohPfHRtncAHJWM8Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "I\u2019ve lived in the neighborhood for 10 years and just tried Mazzola for the first time\u2026 it kills me to think of all the lard bread, pretzels, and other baked goods I\u2019ve missed out on over the years. Everything I tried was fresh and delicious and the prices are very reasonable. Josefine is friendly and informative. This bakery will be a staple going forward\ud83e\udd0d",
+      "time": 1733062989,
+      "translated": false
+    },
+    {
+      "author_name": "Vivianne Barretto",
+      "author_url": "https://www.google.com/maps/contrib/102742956794448020016/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXac20YAknjryWWT3EDPbCPTsIkyCw8KErm6SzehaNJtNhMLvp8=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "8 months ago",
+      "text": "Small Bakery with amazing Lard Bread.  This is a lovely neighborhood bakery.  The service is wonderful.  They have a nice selection of pastries and they also have Pizza.  The prices are very reasonable.  I came specifically for the Lard Bread but I would definitely come back to try other items.",
+      "time": 1728059326,
+      "translated": false
+    },
+    {
+      "author_name": "Danielle Cyr",
+      "author_url": "https://www.google.com/maps/contrib/111415719507447239441/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXVjT9jYf37zZ3HlZ0Qz7sH0fmsYPzNrOZawqZSJxFdLOxQszqE=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "This is my usual morning coffee and pizza slice place.  (They bake bread, so they know what they're doing when it cimes to pizza!)  The people who work there are friendly and quick. Sometimes I hang with the \"old school\" crowd outside when they let me. \ud83d\ude09  You should go here!  [Cash only, but there is an ATM near the door.]",
+      "time": 1750209041,
+      "translated": false
+    },
+    {
+      "author_name": "Joe Franco",
+      "author_url": "https://www.google.com/maps/contrib/114384843854887170338/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWel_xszYigKboBVxxbMdG1TcA0jdStBhXrDQQmUHne9TwkGGBl=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "I was in town on business and had plans to get some Local lard bread. Mazzola was 10 minutes away, I bought three fresh warm loaves and freshly baked chocolate chip cookies. The size of my hand. Great corner location But parking is horrendous if you drive had to park four blocks away, but was well worth it.",
+      "time": 1744478408,
+      "translated": false
+    },
+    {
+      "author_name": "Bridget Burns",
+      "author_url": "https://www.google.com/maps/contrib/100150862504326045101/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWczC8OR-fOmBelUvPnTroWe8NCLNa7ZO3oozWbjIEyNL0I-gA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "It\u2019s rare to find an older guard Carroll Gardens business that\u2019s still going strong despite all of the changes in the neighborhood.  Always a great place to pick up fresh bread and pastries.  The best, or my favorite,  item on their menu is their cinnamon roll.  No frosting, not too sweet and perfectly soft, fresh from their oven.",
+      "time": 1741056975,
+      "translated": false
+    }
+  ],
+  "serves_breakfast": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "bakery",
+    "point_of_interest",
+    "establishment",
+    "store"
+  ],
+  "url": "https://maps.google.com/?cid=395279983783667277",
+  "user_ratings_total": 483,
+  "utc_offset": -240,
+  "vicinity": "192 Union St, Brooklyn",
+  "website": "http://www.mazzolabakerycafe.com/",
+  "wheelchair_accessible_entrance": true
+}

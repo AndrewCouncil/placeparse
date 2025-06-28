@@ -1,0 +1,405 @@
+{
+  "address_components": [
+    {
+      "long_name": "1305",
+      "short_name": "1305",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "East 17th Street",
+      "short_name": "E 17th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Midwood",
+      "short_name": "Midwood",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11230",
+      "short_name": "11230",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">1305 E 17th St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11230</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: Closed",
+      "Saturday: Closed",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Compact restaurant serving Middle Eastern comfort food including pitas & falafel."
+  },
+  "formatted_address": "1305 E 17th St, Brooklyn, NY 11230, USA",
+  "formatted_phone_number": "(718) 483-9100",
+  "geometry": {
+    "location": {
+      "lat": 40.6186096,
+      "lng": -73.9580695
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.6200080302915,
+        "lng": -73.95680406970848
+      },
+      "southwest": {
+        "lat": 40.6173100697085,
+        "lng": -73.9595020302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-483-9100",
+  "name": "Falafel Tanami",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: Closed",
+      "Saturday: Closed",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104345128993953132944\">Hal Doueck</a>"
+      ],
+      "photo_reference": "ATKogpfiOkreOdEQPY-DJ8e0eZlxV_6o3L7jewlBMUAg22Jzq_GHga9-2vQIpJex7mXzH-l38KkvyeKlfsB7Czjh8QDC9BCqdhFM7G3S5bJ8ahV0Jj8LoF1HnA7a8cP-nQ7IRhY-QFdNKKgGuu8mC7I1Z0aK3FOedk7xdN-C3qxGovZlsycsX8rGUsnXvVi9QpCuDWYuCaOMEKBWswJCiI-QFJXH0yt7uC5MOzKwzXwk1bMfChsRT9ndvU6FiQHVn0j23m8TXp2f--YGOHA-uRZb35kRCDWT1HFT6UWJAbIY_RZ_RsRGL1f-JdmUGlANL4_KPiD3LZynp-txtLh-Eay1s-ffqYDnEBongjo8Cs7olppioiMdizhh-zSmz_YNhJYKEXMPlxAPzTKYzL5gpyzp1XWpaayly0zqTs2GRtRhVYxy5qOQ",
+      "width": 4000
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108743087455720442186\">\u05d0\u05d1\u05e8\u05d9\u05d9\u05de\u05e7\u05d4 \u05d0\u05d9\u05d9\u05d6\u05e0\u05e9\u05d8\u05d9\u05d9\u05df</a>"
+      ],
+      "photo_reference": "ATKogpeEi3YxYXv7WxUUr_2oDzkBwYJ04q-cs79ItF4Qk0sIxc-Odt7g1Uv3zKqGRZ2-ogYSvsbvpzt2RGOWuRGtFDGZQCPH-HYLxW4NcJOSLByxdJiLWNRJ2a5YE_CO7DhNO7T6h58_WxH5d-0IZ9PxyKuNtwYUVLZ1Wr9V_K0l7dZ0_dsBbVEDxZr7hpUI4B61a4-NPVdUiY5bKykUHkit7ZKv7hrjc_50cK31zNZwfVGIw-_5MFqqiZHOc7_AuZSTRMl9_dde4dGs55Pcuz842nlTG2hjTXOPKRP19MC_4IotmXTb4r334pjeFvPPbwQcywFp9OgpsozD-taW7q0cbVAfOM0Cwpfhc-8C708V7XqK_uLpR2PTmE8y_fKA7cziGKY2VdJ0OBvv4iDn35tc3d6ZqR3zOt_QaPel3KYO5CqeqOw",
+      "width": 4000
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112090121506401612321\">Moshe Weiss</a>"
+      ],
+      "photo_reference": "ATKogpcpT4Di5Da91iS0lcZaRhHy9T28EFRYEUA9NZ-lIdshUpHMcBU_wccR4ePt0LgLmrHeEE52Xj0aA8QxsmZVSTmCm7DhMv4jPntCqcgvL4PFaMjwWsOBA04h9V9q0cCdOCt5ua7cgkRsbWn-Y27Kk3m351bQylzl5GqOmh9mS_MrRGdX4f5JE3LrhDk0U84xFvl3D8D9m_KUMGfVvLPvUVpo0_uwqrX9GUgHix0ICuPKufeC-fgPGfOUhxqLnpEqHEZ3umsZp60LB1yBMVyZpBH1TKOnAxk7A3wkH1nPjRFXaDW-rAI5bYe6ay-aUkBtjI0nhC3f7FpFYffDL8zZH1LkZFxfFw1SJpKYejCYgx90qrrgK2YJBqroN28IvydTjXhgMDDk4Sty3cOXx3T9BjRa2SzJxvLVO_RkXP5DU0UQgzDEIhl6-xpuWTr9BzZJ",
+      "width": 3600
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100210944364217930280\">Yitzchok A. Vogel</a>"
+      ],
+      "photo_reference": "ATKogpecVXvxT_Z58OzJk8DYJ_Ob-ntnl_LksknuPE-XdTwTWCXxdRdQxJcRW2IBXM2YN3H3wXMohZRbe4jTjLc1YS579rvaiNd2ysHx8q_YHsDnRBYs0BGwjRsOZVLxBMrab2A7YxWZjjdGYdq213i8VpLgJJVeYnHAyyhTVKmosMEEkFo9tbvyZAauyll0gCKUa0NalYfi9ivV0pm9wQ9ec6mB4b__L_Nxtg2dJnIlSf_DoLoRa3Mzzzhmn2s7MWfq1Tf3iU82OMMMtuSdsIuVUaf2aQc7LwhCejMQ2lPe_w8hUhCCUGxRjeoSp9uKXHVBW_zTQwVOSHGnc54dD5EPLkFxWtdssBS2oPaFbmYpoOVRIOJ9O1wvJUWq8rqGSXoAytGO_K0UKVpOWd-7VBXtqMVAkvtd5m2TYeOYPX6KRGY",
+      "width": 4032
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104428623672769265758\">mendy prus</a>"
+      ],
+      "photo_reference": "ATKogpc6L-v9r5PGunqorCxwLT1Kgh5_0J2thSoawHh227QQ9TeztbUAN6ztZAz7qN5_LwNf4zBBL3xMQ73DNGkRjLfcsLoDz47i1RQ43ZizrKSjdtu5RO2jHdoC85hBzZkJThB433idaArA8utDdoN39yjjipYYOMn1cJK2ScPMiiwBZ13StCm88yg9pY-TApmcYF-j4p36o5ghoCCLZif2YwIhFUMQOXHVaxOOmkhqz1MlDMYptvP6n62TyaM8cdwY8i6N9gmjdKFife1MoiQgbwQccXes1IJ24Fg3P1ixRjqXAiYcUzss_bqINWFW2Ho99akq0un77O1vqX5EvSU0H2H7wp4-U8LolA58wZMaIi8GKit9ajkSOam6g0rg9K5-SGs-D3sXNtZ_oXDnwIHd4MKffZb653A34SIUyuCBc_mpsg",
+      "width": 3000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116951021824569929177\">Pete</a>"
+      ],
+      "photo_reference": "ATKogpeLD126dhHxNZdikgVu7hRbQd_d2Kr6cV5tnL9j6IiJBVioe4H9hrUJyw_80z2mEA3MOa67b0YbrtyyahgVhFdmwxjuxXVqNac84MVC1MkHm8DM9cdIDD9Kp2HXCtqF2H0zGGFlpF1RB_MxPv3ygrTuOuOEWipytdamg7qQdW7oOVshpuuPa1Oa6VJq-rP72ZOrr3U7oAHmh65hO0OvOmcYfpdeZJswCWOO2fBHYBl0HcsOeIZbBj3a4XPcGI_XJ_jIeAZpN43bB9xpuw4AoqF49KGJhiV66NC1XT0pe5Ppj4IP_E7wNplh_6QFWC3V7VNNerrDkh7GU2seboH_-b1gb1J4j0qiZekNKuQhGmWMgtmkwcjVNiXrktM66JfQybOemPQCKFDk2SCMydRkDI-zig2ndifp6nhM_a0q68qJDw",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116994016180601743012\">Daniel Mardachai</a>"
+      ],
+      "photo_reference": "ATKogpfCyPuW9j-euy-vQOcDVp0Gc2UomwD7h9LF4rRleElFTUedPLW_r_40JhWlQtR-oAqK-LzYXBJSVwdq2lVbygpKqfttRjKh2WGl5oKPB78COCWBXie4BCR8AMQskfcQJVEIM13bLNDqPIcS8ylnlIz_2xauEs9xuYja1m3DvTZIvFfCaIltIWgbMCZtLMyhCF4b4M5_54fdtrkJgtn1BdZ7s-USRc_eiAuPD5Q-ZdyqkSa52wwPddHpookceck73NcOp9UwfDyv7c36TDyLemh_8ilCbz905klAvao0KQbr3zUbEot6g0g5LZpk9IhNmttIlwQn61XOQpk_UBITLRvo4ThwqjQfre6oa4wNO_WVqb2d93hHPhoA2CNlVS8My3hifYaUA1530svSnVBeJESZjqGxZ9NF4oxprLevL3PeBC_i",
+      "width": 3024
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108743087455720442186\">\u05d0\u05d1\u05e8\u05d9\u05d9\u05de\u05e7\u05d4 \u05d0\u05d9\u05d9\u05d6\u05e0\u05e9\u05d8\u05d9\u05d9\u05df</a>"
+      ],
+      "photo_reference": "ATKogpeUJetUqTf-nmNHGMPlgDvqGY69_nino6CgJ5JeWRQsQgFmQlUWfq391ip0jfFnccBnbtErjvolLeMFyL9OeplGGF38PpI64C73BTSjppvyQ00rCpHrxdWGHKBcJkbO6UM8fpwxYamwNzEMBqi7gknj_Q7bluodFi--IOlKYCGhlKgzQyhAHtOb_Utytae2Xr4YAqggkoB2Dhxm_vuKRsN7bx03lU0XlLcwrsyskMeLA96KZUOmG0w1KxRAPT1MHY4qdAk5f2tMO30Tc1_yv7XC4xHep0WFJxgmZFqsiJuCPG3TtahWu4wzb8NO_SsXow-dPntx5Ukk8nz8a5z58BlV09VQsr3kri-bX6VHr49HLpXUFORegyxA3d8cg3mfuTWYkV512mc0G3dynkjM-pUx0OyBKd4e-ZMuJCA4vTsH4G3M",
+      "width": 4000
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104345128993953132944\">Hal Doueck</a>"
+      ],
+      "photo_reference": "ATKogpf8U8C2kiff4_8q4aiV7xbFipM3_c4MjbuXAIgY6lUeTTpB5rcHXwyQ3HSiYe_8GQMBTdb8PcAAGsKiTegwVEIGWWizHy-tvS8Bj-YJfuF6ETDnFkiP9OTnMEr7LgJHjrT9iXKqIxQSwMNqAXyC53fFtyDqTjLDCgGDiocN57Cc8R8pV-P3g3XMjXnYDUL6ZgCcoNGKPvyO9ESf6GBTuND7rd9nltmi1DkxHLNjVMJAwxDXWys77v6qU8_clzoPAu-IFwg6VhlMvnCocnpaPuiwkQKxBED3AuprdPPUHtCFj6LWYYnZFNdxxcjzfNSd_Tqq-Ncmjga4WMsRBdnnSUPP0p7zNrfsBsuFmaRA8mysPEW6_xHuPjITUjXrtYIySQz8XaGVV38SWl7_Z7CQTszmnVjwc77uCOACK6tJelEN0A",
+      "width": 4000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117206428670372446411\">Mewroz Channel</a>"
+      ],
+      "photo_reference": "ATKogpeVumFIt3i3sk6B_kNrp8DYij_YexFiGAfmTiU80QGPxUQNtimqhS-gz777px5oeFKxcQxsL9iGVbTP9-YujdgZ6sWQtBIZ-9gulrXgblkm2E6irNFI7X8H7KRpPd0DiP2kjskNCUasF2cgw0ok2PK2VTF2DnQy5eXls30FTwOZhhrRCfUTpFelezNmApC7DE5Ix2eXgIKcir2-NHo5VEKrHTOTs8PKG3iaPnx9du-VjEcBg90jthtASuZUIeNnE7PU6-Dc0TVSxatKUkauJEJsmlvMKI7CUNlNk7-ioe86DGv_f3FBGkubf_YTt0bIG_PLZQ3NZE6WU9E9NNbOYRnOV40cyMLxwWwIve1mT2IWToMDW8ryZjtM_EQKaf3p6SyUCRzYGiW7dwKpE5ZmM3nM8eHP_bD3FfZ6uKMWl455qMI",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJVYUouLhEwokR0P6kpq9x2pk",
+  "plus_code": {
+    "compound_code": "J29R+CQ Brooklyn, NY, USA",
+    "global_code": "87G8J29R+CQ"
+  },
+  "price_level": 1,
+  "rating": 4.8,
+  "reference": "ChIJVYUouLhEwokR0P6kpq9x2pk",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Moshe Weiss",
+      "author_url": "https://www.google.com/maps/contrib/112090121506401612321/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXq9hJcY75imB58XFTki1mLxy3D1sbz3eVPfC-VBIiwA8LvJPTN=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "The best falafel in New York City!\nSuper original and authentic. The staff is very friendly, the prices are really affordable, and the service is fast and always with a smile.\nHighly recommended for anyone looking for real, high-quality Israeli food\u2014this is the place to go!",
+      "time": 1750391126,
+      "translated": false
+    },
+    {
+      "author_name": "Whitney John",
+      "author_url": "https://www.google.com/maps/contrib/104002452100863632428/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJxp7S3eGYlsgIxvlNATobA762ItaYo26BqCjL1bZpCL0120ow=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Never had Falafel before. My friend took me & I was skeptical but also excited. Upon arrival you would see that it wasn\u2019t the most up-kept place but don\u2019t let the mom and pop feeling fool you. The falafel pita was sooooo light refreshing flavorful, like I was at lost for words with each bite. I plan on taking a trip VERY SOON\u2026 NY TIMES was spot on when they said they are the best in the city.",
+      "time": 1745709439,
+      "translated": false
+    },
+    {
+      "author_name": "O",
+      "author_url": "https://www.google.com/maps/contrib/113848896843951887051/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLRqiGOQNvcS75xCgEaly7PokH1PgMF2ipAqAoaFwfUODIIZg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Unbelievable quality falafel and pita. One pita will literally keep you full all day. Whatever toppings you want and they don\u2019t cost extra! A gem.",
+      "time": 1750336244,
+      "translated": false
+    },
+    {
+      "author_name": "Mewroz Channel",
+      "author_url": "https://www.google.com/maps/contrib/117206428670372446411/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUaurp1W-OegkOYRHaptMBvMyS3PRH1DWEgzAI3fzz9CgpDFU_K=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "Was curious to try out this place went the first time and absolutely loved it! I underestimated the serving size so I ordered some hummus on the side and just the pita alone left me absolutely STUFFED. Healthy, homemade, simple and delicious. I am officially a regular. Can\u2019t wait to come back!!",
+      "time": 1733170384,
+      "translated": false
+    },
+    {
+      "author_name": "Chiroy Torchon",
+      "author_url": "https://www.google.com/maps/contrib/115325247424259351581/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL6kaVbsIThAnFxyIa91kMZwpzRhvzlouJBnu_vF6vd7HZICA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "The sabbich and falafel pita were appetizing. The hot sauce, tahini sauce, eggplants, and french fries all together was an excellent combination. If you're like me with a voracious appetite questioning if you should stop by here, let me answer for you: YES! This is the best place I've visited for this two food items.",
+      "time": 1732053859,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "food",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=11086298431954943696",
+  "user_ratings_total": 1173,
+  "utc_offset": -240,
+  "vicinity": "1305 E 17th St, Brooklyn",
+  "website": "http://www.falafeltanami.getsauce.com/?utm_source=GMB&utm_medium=Website%20button&utm_id=Falafel%20Tanami"
+}

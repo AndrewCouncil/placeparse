@@ -1,0 +1,453 @@
+{
+  "address_components": [
+    {
+      "long_name": "164",
+      "short_name": "164",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Graham Avenue",
+      "short_name": "Graham Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Southside",
+      "short_name": "Southside",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11206",
+      "short_name": "11206",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">164 Graham Ave</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11206</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 9:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
+      "Tuesday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Laid-back neighborhood spot serving inventive twists on Taiwanese classics for brunch & dinner."
+  },
+  "formatted_address": "164 Graham Ave, Brooklyn, NY 11206, USA",
+  "formatted_phone_number": "(917) 909-1725",
+  "geometry": {
+    "location": {
+      "lat": 40.70724269999999,
+      "lng": -73.94296589999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7086493802915,
+        "lng": -73.9416587697085
+      },
+      "southwest": {
+        "lat": 40.70595141970851,
+        "lng": -73.9443567302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 917-909-1725",
+  "name": "Win Son Bakery",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1500"
+        },
+        "open": {
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 9:00\u202fAM\u2009\u2013\u20093:00\u202fPM",
+      "Tuesday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 9:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104490960828362033230\">T. A. Tuho</a>"
+      ],
+      "photo_reference": "ATKogpc4qTbFO2Jv7qnGX9OD4h_Yoma4rRggbI2riYa12euHnCvRE5pbjWr8AYrgrFehN_EXvOhx2fM6p4HN52UL6QL7wnRRSlFnTTUUcF1-aZwqqKgflY2a1XP8SzP6M6_454Zwi5kLYX49ABi0Zxzafpvt7IPaTFHndklw694YkPLRORVm1v3EcnNelSbne8QkRzo7_6t5W_cuDCHGIoQiHoG0Om7NTJiwR5YM2Z9IhoQd0fT3JrTJGzF9dwVRMb71sVShwaWgoX-zZw3qM27dKl6EAJReOV1XEfRALFxtlY2m1j2K8Qj_q-oRffTWS4PYaxTo-Hq8AOWqGV086wRcolyCkaSZP0i4cyzrWDpILzva24dIHgnZno2H5G1xU1ssB9CtlWTZFLr_CfnxDdRKgMpFx3PzLR2dX3I35DExZBX-Qw",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106933804621440495685\">Larion Santiago</a>"
+      ],
+      "photo_reference": "ATKogpc4Xw0OMjnjDNSxbu5Wn-2GVi0SjYPl7sFbKxQnIvDfPGZj0VPl5OeXGT1ZBXiEDBWJePrZKKPefCEjWUkKkK1OwkBm3N5Im034EU-mtyQD7Ki6rTlXaatxLhHoV9AlGosOvHSACAnEd56I6e7HuUK92_NmyFn5Qh5U6Xu6oDgvdxn6bnb2o36mQpNxQ4k_PUJX95GRyjzZ0ZVagggs2xjK8dfHDNtXALrnm-UMjBvCusp4DJPS4OL5z-keVmhN3p8ZWuBnGSNtKi_o4VbpEznueJ80dAMUgAabnRxrxYq6klaYS9U2uhun8Kskk7q9RQpmR_Zyf98VcgZFjDXE72OrkSMdOxWpW6DLBmnxeJaEV0oHH0Kd9SmQAAmq6nb0eSbZID8IYgZ5VC9DFSOgZKh8zHtveWcKfkUXqMGYn1h_Xg",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106933804621440495685\">Larion Santiago</a>"
+      ],
+      "photo_reference": "ATKogpeGZ7lOd9le8siczb1lwfXzdpxSxbdFR7a9IdTu1uOBALV3tTd1IvZjqJDu0hTXx1w_aJoyhe1ylqG0msSE-7q83ciuIWUCSeNuvFdRAxc_83Q9oWcFGsta9bHnlyCc8yAdDZJxh0uN9Vlv82aywQnUsToTvVXp_ID7y_3DMjNudUFV2V0Uw45TuQ40vhLTC7jtwitANdC0JTPgmV-BI3XLu_lzfCmD7JwJAWGJIdA71OWhAfZBfsMCouecnNU84IrAeoCGqlphEKkME1ME2T_mLTNk3rVd8AwrAMmaKEJhQ32rq8lQuu_p859j30RhBBND6owBU7O7ALeU2m4rx1MJNJKtdsrU-LCDQA_4WFEYGO_0uNVA_s9ZcHd7pRv9-DKbdrhCFFKgeQv4hlibW4h6KpXGwRrM9N2BqgdgZJiGWg",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103688512592452127720\">Peter Farejowicz</a>"
+      ],
+      "photo_reference": "ATKogpcvKXfrzLzvInzEI2OKJHjLp2qJ6_Sf70a7VpwQP_v0GV2gHGmrB5BTpZB63ozX3hVsZZ3FCdUXBuE8h8gEG4sSACGo3Vy0aRDPDVQLW-vjjA_jUP1UuRHi2uNU_HZCEgqyfbxgi0iPaj1cuO2KfwDA64y5DPnyqFd3Pr5G5TQXiNwOIcTeDAXotHL4W2O1YXdI9eIki1aTuiNRvzeJSkT9kVnmZYhh5LRa-u2CI-JIJWeZfK9z6shXSO3XSZPrTfR-xA9KJss1nQFJwswWo48k6ywmgbFCMISZl2VOGL_qpI5t15uXJSwlyzop2EmAw1IqciAX5LmXuA8WQahS3NGkEdPFaj3-KbNbQyYHpiQVyfh6cH378Fm4bblAPtLZCaURjgRfbKo7bzK7HtPKukGi2FnpTH8-ykcicBZa2g2DSg",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103730505440605555458\">James Gagen</a>"
+      ],
+      "photo_reference": "ATKogpeaHABTbyupjZ2k0L-4zU3lqOj_1mMO5At2geJuuDzvgUt-ATtqCIcJlZQF7eEG79320aVS4spywQRv71gIkpe6SLGOrBHHZOP5vMaDRIMxmB-h7gomkTdGirA1TLehlgSBcYTwF1nmabLYp5fU6spPv7A2jLSbZcoXeUMKZjFZLUHMWrVBK-IycaB1n1aoEB4S5k2DNxy-H6wGeyLtb-QKKBstO1o1DbwsDFDmz1L5wiojLx6eVeaLR0U37cYrlexRAJGrju4S83bT_2H58XucjFwLS2Ih-R9WGNVP9M7akJieS2IDUsON3yVl75JbgVgWrKZpyW863tqB5IHkIiFjzJB6Niln01HUQAOW3NVdCtaiKWsQ6tnKonXPKJ3-VJGnewbz-O029LUZaSVxTZcEtZZS4StoTeKwgyJKln0-79QSg_3_NQ5dpa9P4S6B",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100828220502596214040\">Blake Rasmussen</a>"
+      ],
+      "photo_reference": "ATKogpeIvX3bV3oje6wK-e0tku4YjNBdk41m8ADwynUe8OKxQ85neT5NaGF8pxWvy73-616GQZuQYjuYQdgYESv9Ne71traUWRe_yuTT9gdtXRz_3zcREHeTXitZoSG2S2iitz5Rcln-roVHm1KweYOXlfMbDa0dKnymbBK9TmrpEnS5TrM4N-igd5EYatQtyHLFv3OS1RcIC4uT9YEEw8tG_TPQX5eIkWndEiQn_4tVOAC5Ii9DfKagUprfbyjDt_spx_pfiy1WyW1T0UMpmGWsdQv8iAN0R9qnySko3JkZ8JREgoeoQJNA-EzHBJtf4KtYvgrdjmSrTwbzzj9Bx0LlS38lpgkf8y_wRljpcxeSuA_OxiU61B96-GekwQ8JIngBDz-bOzles9gHUwG7Tlg1_fSkwaUpz4Eqj1FqDrpwOdOWVw",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104490960828362033230\">T. A. Tuho</a>"
+      ],
+      "photo_reference": "ATKogpcXu80SGyuCOHq-hoD11H-kQqX8z6zX2wBSun_ZXtKh5H0We0D4rKphEu2kdp_DjLI1Dhv17BOLZZdw_q0NnhuC8Re62wkwcyOknzJs3HGf-J-iBtLZxKXWOfGkXyNySITAOeavxm734vcKt7TjRzlZFED08joJh_HOOboJA2xXE2gBvpzePh1BhpsgZiW5eG_Gf0XqIXFV1C5CcgZ7Bd4JEqJEeIVjyBfEyr8RBscJQYtlYVHudrUEuPEOgphN6EI_wO43GhBRC0peRdZZLe0DWqbNGqudEw5RMg6YlplyMdHhv86UBWS7cVLQ8LbdrBv7yTYMxa_8Q3kLVDZc7t6q8M0DMsbaNNcyeqfWuK23AxFveuAa4t2FRyZfeAhQUXm2MIL-nOgMzqItfo_hy5sPht0L1BBbrfDf4hlJgYrYMpgY",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112845492399193712736\">Darwin Nguyen</a>"
+      ],
+      "photo_reference": "ATKogpf3W-qy6d8EPJ-0WegEx4P6E48PTatW_rKwI12tllzZ8Srh2qzb6G4fGqnvtWdt0epi8LGNaerbjRUv1V7M5gj0j2mK1mY7gld9Py_cxX3_1xAs35yZjO8vfuQjBKaYcAlnjG6qO7S_fM4jKZWJrJotu-kx3Oo9XV6ph_nz66mUKI5oCmNUtZRINTfl1cAOzr0WQ8cKiv80h0W3rplwcjZhFHxKYo0B-99ZJtJWhEHK4HFmkSNO_cQcFoi3RYWhXb978XDCjLsTeM3l2SDEl-7iaZdkic6vwH2MxBAJhZvQ_r4qbeixAanEK97OikL7POjpeQAMN6Ow0H9C_hnkmbWa46H1EsYb2_TIQAltqfU4U29_tOkI0sHtsPsn9LyiABMwnMDEgK7-kk6BzBzvMnMX9LqqIr1KQc0a1xeatcIAjQ",
+      "width": 4032
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105163506342231719352\">Anna Chang</a>"
+      ],
+      "photo_reference": "ATKogpc4OkKKVHfZ1KIsbtrznvWDBcSrUi7jFU21g8ZeRfOZIVGWMNiLHTx2BIXhKWG-8C0KR5rMpFrhhYCkOeJWHWE8jpn-1hUru6-WtqiNYzM8pRsb-bihkhZfEshC8GPh1R7mau3enzsckrFaIAHdcl1fkSe2wc7NUfPtUt1GsV-xZJ7VwU1JuaqtJMGNhzmtfxeNJVzgPh5xdr1VCLfQ0pIX2yA27C7GkoNqIf0Q4V2lRB-TvdlENmnIRyaJ-8oewV90NzSdbnL3mR0ZSAAQAupRo6cdgLfrrixWFzjoqvJQOWY5nnuE4rs8K1Zh9UzrMcddq7jhkO9j0n674TFbQJFvD6cBSpWG3IGxERabSy6u1EVNP4ZFllToYsAYAFX-50QcvkVrQV3N5eLpJRh98hHeaP8IA4ps4XBAob2oKZV_3w",
+      "width": 3600
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117166330468508774246\">Desiree Frias</a>"
+      ],
+      "photo_reference": "ATKogpeeqp53L08jBrZQ6pUjxKzQ9VFN4tSCFmOE9XnbUCq6TckZdQ6zg0-FxC4C-ux8xFJDxCUedghkOq_mlCTQTPBYeESQW_9nKyatW-83vYO3ZBT_VxIZ3I81FznmXu4zEWxbytC6I3XdBqNigXIOWqt8idSWZfJ0ieRDUBNQxpeVua_UC4hpaquBJCyXAiH9GT_LrocgvxBli5-9E7ktHMrFwr7pbCP__OCzyT_9GPm89foJDo6WcgmWts1f-G6M-C_XySXi1mxB_j8bLXplDcYAuhGDeZG8mYX_pNy7ijjpnAUgRl5MEEwcmPb3YhiGoMvSTa-bI_mSdUovFfidGpVh-5-Do1ZUl3fqTl6npIKqUcr0edp-Jbt_mr4XpCj5Z45UfWH2hagYacAqbyTzIw3WhuqCg1VB6husvAqf_oB_wA",
+      "width": 3600
+    }
+  ],
+  "place_id": "ChIJWUWEmp9bwokRD6Q20axkQoc",
+  "plus_code": {
+    "compound_code": "P344+VR Brooklyn, NY, USA",
+    "global_code": "87G8P344+VR"
+  },
+  "price_level": 2,
+  "rating": 4.5,
+  "reference": "ChIJWUWEmp9bwokRD6Q20axkQoc",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Tina Norton",
+      "author_url": "https://www.google.com/maps/contrib/110100552137322965679/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVlu5L1cBG1mZ-RSUOhlHs3TVtoowPuQNr1T9gP2Dm_wzE6GWqc=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "The food was absolutely delicious! But be prepared to wait forever for a table.\nAfter waiting in a long line on a Sunday morning, we finally ordered and were lucky enough to find a table. After another 15/20 minutes, we finally got our coffees. The hot, 5 spice latte was heavenly.\nThe staff were polite but I think management took on too many online orders to serve dining-in customers efficiently.",
+      "time": 1744153553,
+      "translated": false
+    },
+    {
+      "author_name": "Ujesh Vora",
+      "author_url": "https://www.google.com/maps/contrib/108156106340152393816/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV2mqVBorW5-ToDVQePqGvK9Nn0fz7Bz8XmGK4D-I737G35KLeW=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "No words other than incredible! My friend and I went for brunch and loved everything we got. From the scallion pancake to the latte to the mochi donut all well made and perfectly flavored. Absolutely recommend checking it out! Very easy to order as well",
+      "time": 1746150125,
+      "translated": false
+    },
+    {
+      "author_name": "Bong Arquiza",
+      "author_url": "https://www.google.com/maps/contrib/110395782601254590695/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWg2-wFS9aTnqwTYjndtBjXUIEqkpMClwTiBwVbPuVf-TtGp4QTzg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "a month ago",
+      "text": "Win Son Bakery was honestly a bit of a letdown. It felt overhyped from the start. I waited at least 45 minutes just to order, then another 30 to get a table. The vibe is cool, but the food didn\u2019t live up to the wait.\n\nI had the fried chicken sandwich on the milk bun and it was lackluster at best. The chicken wasn\u2019t anything special, the house sauce didn\u2019t add much, and the whole thing was really messy to eat. The fries were decently seasoned but not crispy at all, kind of soggy, which was disappointing.\n\nI also tried the bacon, egg, and cheese scallion pancake and it was just okay. Nothing memorable.\n\nThe one thing I genuinely enjoyed was their seasonal strawberry nian gao (rice cake; not pictured). It had great texture and flavor \u2014 wish the rest of the meal had lived up to that.\n\nOverall, not worth the hype or the long wait in my opinion.",
+      "time": 1747104923,
+      "translated": false
+    },
+    {
+      "author_name": "Arjun L",
+      "author_url": "https://www.google.com/maps/contrib/115068663168186475517/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKIPtOOZH_ArcC67noIJfTGjaNtmG7dFNikk490NV5mS5FLcQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Close 2nd best fried chicken with the crispiest skin we had in NY (thanks to the staff for recommending the sweet and salty glaze style), BEC scallion pancake was also tasty with the dip. Choc bolo was okay but definitely not a stand out. Highly recommend the five spice iced latte too!",
+      "time": 1747266403,
+      "translated": false
+    },
+    {
+      "author_name": "Karen R",
+      "author_url": "https://www.google.com/maps/contrib/101836722724058151544/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUWgXkPpJVBsc73ZqKETZ-YHMqEZdJrfHh-TFLCY2Kd3LW7vwz=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "Really loved the warm soy milk! Tofu rice rolls were really tasty. Delicious pine nuts cookie. We ordered the egg scallion pancake and the cheese scallion pancake. We did like them but found them to be just a little bit greasy. They tasted much better as they got colder and they were not so oily. Little over priced at 60$ for 2 for breakfast, but good quality and service.",
+      "time": 1747764365,
+      "translated": false
+    }
+  ],
+  "serves_breakfast": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "store",
+    "point_of_interest",
+    "bakery",
+    "establishment",
+    "bar",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=9746463236990346255",
+  "user_ratings_total": 1305,
+  "utc_offset": -240,
+  "vicinity": "164 Graham Ave, Brooklyn",
+  "website": "http://winsonbrooklyn.com/",
+  "wheelchair_accessible_entrance": true
+}

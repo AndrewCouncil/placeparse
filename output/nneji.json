@@ -1,0 +1,402 @@
+{
+  "address_components": [
+    {
+      "long_name": "32-20",
+      "short_name": "32-20",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "34th Avenue",
+      "short_name": "34th Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Astoria",
+      "short_name": "Astoria",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11106",
+      "short_name": "11106",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">32-20 34th Ave</span>, <span class=\"locality\">Queens</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11106</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1730"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:30\u2009\u2013\u20098:30\u202fPM",
+      "Tuesday: 5:30\u2009\u2013\u20098:30\u202fPM",
+      "Wednesday: 5:30\u2009\u2013\u20098:30\u202fPM",
+      "Thursday: 5:30\u2009\u2013\u20098:30\u202fPM",
+      "Friday: 5:30\u2009\u2013\u20098:30\u202fPM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Humble pit stop prepping traditional African meals including meat & veggie dishes, plus baked goods."
+  },
+  "formatted_address": "32-20 34th Ave, Queens, NY 11106, USA",
+  "formatted_phone_number": "(917) 832-7338",
+  "geometry": {
+    "location": {
+      "lat": 40.758923,
+      "lng": -73.9259478
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7603020302915,
+        "lng": -73.9245213697085
+      },
+      "southwest": {
+        "lat": 40.75760406970851,
+        "lng": -73.9272193302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 917-832-7338",
+  "name": "Nneji",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "2030"
+        },
+        "open": {
+          "day": 1,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2030"
+        },
+        "open": {
+          "day": 2,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2030"
+        },
+        "open": {
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2030"
+        },
+        "open": {
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2030"
+        },
+        "open": {
+          "day": 5,
+          "time": "1730"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:30\u2009\u2013\u20098:30\u202fPM",
+      "Tuesday: 5:30\u2009\u2013\u20098:30\u202fPM",
+      "Wednesday: 5:30\u2009\u2013\u20098:30\u202fPM",
+      "Thursday: 5:30\u2009\u2013\u20098:30\u202fPM",
+      "Friday: 5:30\u2009\u2013\u20098:30\u202fPM",
+      "Saturday: Closed",
+      "Sunday: Closed"
+    ]
+  },
+  "photos": [
+    {
+      "height": 2048,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105656984050238943998\">Jonathan Forgash</a>"
+      ],
+      "photo_reference": "ATKogpeEKijV9UMpthVy2lmziEM8tudjHs2gWmXdULXHX5XaHdtwUVm5Ea-3zkRrsDqVjC4Aeho9YdgvLK0dSxnetPfzC3naUtq66J3dOzbvcfhHnJcKDNCuL_0m1cZ9bgdtMoOUnauBWRt7iyrF85ILSF19QzCT6LUaEc5HzmM3PnDS9eLfxqWjf8_5IK6uhW_f8VAFNeYePvCDmF1CrUy2IANbe_qWyUtLZf7-PGGRU6Um_TOXYM2JtlEMLIy5Jy3b6oFJFLrPkTIKePdXU5Sx9t6lEAfo3FrTPWZew5H0ZLZzq5iSeycIJJybkcjcRK9vCPr3X2gxBDHp_-RorNRgMt_9_mVoDjmQGmyjlog4j5VBPMrGKglsfRMb-Sxx7Jo07ybGlk3mrXm462LdmKynnIkgtLmp2Ko4EuLN2-ICLAw",
+      "width": 1536
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117562911251476881600\">Nneji</a>"
+      ],
+      "photo_reference": "ATKogpfqXOdim3FfM1Wz1pEUnqdDuGac9Obu-hXWkkxq8rV1oB4TUPCgjDA1PREBUNRW3m7rKu6rGtl0kdzosbYBQ4Nl4SrUfQEWNSq_B8xEcNH3adkX99O2A_RpNqsNiUgqt3s_mpjI55QzfbQuP0DXvOnmg-H-hY_1uj0Vlz_H_0VKtdyFAsP6crkNJZCq-Mzzr8NLNidM53mCbiFxTyjGyVZe_iGSZ9k0MwGsD3eqfx6t9J9Wohtl_fiymUvKqPwRFjQjnpKN9L1Ytl1iFl-ckbcRA7QbLU43nK7fA3x9QU0Lug",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102388801712436073615\">Kristen Dority</a>"
+      ],
+      "photo_reference": "ATKogpcPUv2iHvE1veZBZhFpumRxTod8gupyCwOBO8ABee1h5_DU6QRSzTYW64sJDTvYLM-wZRAK_Tiv4zOJDB6imoLhnk7XGgntKNGJZqi_qebBlcFtnDloxGc9nIujGDj33rx0jYuFiPKq8ontjVdqRJxAKjkxRLXgMeys5m9nlr--VDyRD05ge7h1CssT_m-mFRhkAFIPYlEICI208mFAWsTT5S78aUKVlLQB8UiL4aXAm7ZOEySbJ5xA-soVQsLEp8Arjh5kJVwfKBjvHjXLSSCdM8NbXV4jqDYjycdveposgsifIHCTvY1LcqCZ0YOvWMxeYTfubvtzbzAHn-2Dth3m-Amf7s_9GIpCZlhl4S_DXR3-k1V3YBfOZ7o0RNoMO9olKN6lcujRGdserL79DS_CJagLj8Q-cNlDJRyJQjKgS1M",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111139605921648680928\">JJ Jones</a>"
+      ],
+      "photo_reference": "ATKogpfcAA00fhzIT7tPB9pt14cNo03rtmf64CXWpEAuF7e_OFhiUs4QL214acdf20J94TIXASviHESRDPQErMJlBmixWgdycE16HmQGOO7IXp3bGFoe8dFpHqSLbiUrqYF22T3B8mCNwLgJNMsV4Z7eL2gLelyTuDRYG-Ft7S2DxhhS7U1eiQioQG23Cl3xGG5f9f_btp_NPmvPHpFxENUE3kHCwHNDXrS0Og6VJOjV-UrNRLkBl-Wwi97n_YLefVaIm8wnYN_uJlLOesH4rL2HGlGyeRSnlYakiuw46JatF9Q6lIQcOyE4Q8cPHUTp2m7Gc1QAVxjc6cfHmLbzj2hUFjYjP7gp3f_14VeyPuB5KpdTg2cL0xYpRKJQj92yrn--W22SJaMrbHbz0Ie9i6Gvl79FF2flL-5jkBh5VgumKfk",
+      "width": 4032
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104251512661618083713\">Kevin Xu</a>"
+      ],
+      "photo_reference": "ATKogpdApB0VGMAUzCal5cn4eesXSOwM2uTsIYHxrPF6E0ko7KzutnBtLT9cmB8dPE5F2VvSpS7eafh8CDdvGaIFHa_WlJyq7XjTjSN_wJQIsDP0XwC1AnhO4qQs--2iGlFm5hfbk_hX6ljRCnfcbYVCP144ONHcMiZkamH0QLdRz18O880rXLF_4awGGwmHSArvU5TtlRB6-PLr4qkRBNsPbbGH07fHe8qa4SY1o4j_zTD90FMbN20blQpTFkgKvG4zVtK5ZajcMuLX3hJQzn4H-etDP3rRvi1FbK_NAz1V3ul9HhetpRnEIgwZ8jBr5kJrYssKVFzZWcbYKorZ_qo4QYz2QcV8i9mfdXClYG_TlPCaBvptY01RMMovBN6mKzCPASDNF11Be-sj8z1DQ1aC4irckRPk0PjuNn3V1oGZd65lAg",
+      "width": 4080
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102729187129937798119\">Happy David</a>"
+      ],
+      "photo_reference": "ATKogpeVgHheCV6pMQVjAykDzxkfU_uxBllDBGvqeBjPs2tt9M0iyHCh-3rHIADs9P0m6MlMfi_yoiiWe_SsFtvH64wCJxg-Ys2WB0m2gBE6P5RXO_WmkIslSisLCrCVKart0EpyR7xgAlfK6EZdcppPF_ISNf7asPXNmxNC1hA6LBShtvd5a6wE9AHy40IqoAk6buztVhGVKNHioCUF5uqEX5nH5416iato4kdoy9Z_4nnT6i0_DAgPkBxlKK7_TBsDXzrX94ie6_ZTyRaNzjE-E6ezqpKa-b9w7u2PbzCc8a04mvpmpWSvF4XKVLdHjYoORpFI5EHa24mLfW_WVnopR8EIeiG1fp6EJY_cUxHqMCdN_bHdkZBGmqOAer6hxJj_tcsGXDAnmJw5Tj_A_hzytkBIRRcvntn1735xAw",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102729187129937798119\">Happy David</a>"
+      ],
+      "photo_reference": "ATKogpf6zAE-IzYZ4awpgKpHjMPAdV55r3vlBbHXXEw5Lt9_ozT0pHKxUnFYAv4pbfSfHRc7_k0iPD0XzW8WX83d4q3smSQn1EzIXOJ6ggBt2KowNhycT9aQ4QyjIlldggQt61umNVl3PGdU1yaoYLHKbkqa_OnkjXwky0xaf_FKR6jlZauj3buVWiC7oB2BX8S4RjHhMXVHqY-c8R61qG53wX-qBtw00GsEASRAqENaJezjBr1iOMnyH3TSI7NoIWHsovOkf76CHH4hyqFPWXaPhA9oN0v9yWmSTlzgxAVTSrXPkiSCyRuKqQcrzES68MWdJV6ea6fu9a8O9LVFMCjAmLXrmFGT0NRbCklpBjwc-GvCy-inVm85B9RUemEFESTbXFg4BJ4Y7KbSQ5bP-tdp3JlRWUowDkOXXgyCkVNN4z8",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102729187129937798119\">Happy David</a>"
+      ],
+      "photo_reference": "ATKogpei9kc02JebuECL-Qh-hnThMFmMER1CvtSzj7gLBuJgGKT2QmHK4r0vk7Y0azJSaduOUaFvRYNa171UDOF2O__MnVkF4yYvkVjV8lewHsCrB0-NzKVIbYyHhF8xEviT7somOQZlfoWiA5LlSdPDGEX92_MiGKBznBPydMHFkUqYkve2hTR0xlIvSYbZNvmYX3L8Z2e6EPG_9ptwFwpSzBMxrhrgqqnTa89B397KTDyiWHg8DUik7HFS5mmMAX_cGWrs13k4QuBOwdo1s5DRDytYWQ2kM3zOihAq0BVp3mpnOBaoBrf2ciQsozJWd2yZZezCwWRzcypajV5O_pJHdmoMXDr2WeBsQrQzyl9tFxKzvZYchxUX58aBBckMB6W_oJUut_sIWkcovnsofX9VQz8Lu0eBArqpVRW6tTFEDmOQ2A",
+      "width": 4032
+    },
+    {
+      "height": 2250,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109149594968027013208\">brandon wallace</a>"
+      ],
+      "photo_reference": "ATKogpfTp7IHHB05zrwtk1LWDhwsrUuNE3wDo0SKWLn308vLWWYsVBj6u7Y58A2zeegm0KT-mcRoCh-trGbfMyso1IpLIWQWqJSYxJKc0R4skr0-giYT_EzJPpyTa54Y5tw1q_mTd12PxSi2Ufph1BRrcraNIqmfkdRSP53w2Dvpez6Di779d7bZMBMfsoEjF0MxBZ4FMPkgcuf2J1aXfZCan_f0No8WUEyzRevqFilzuucYKdt-YkzfzNFAbR8AlW4fJR1J2jBWy7CDOlpjhgRMKgvf5V_2iVsODwhkj_4e3u8ztNcTEi3txvDrBERUbA_pbZwhB-iLRJFry9r9-dAI6Icrgy-kxp9WkxXGS6pfxgM_9wfF-soVaXR21eKRAu4Z3fIXGwn-twZdXnGfQ6ukV5lzuTB-FXyPqV50LA3tJmwN2PT9",
+      "width": 3000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102729187129937798119\">Happy David</a>"
+      ],
+      "photo_reference": "ATKogpdYZxooaChNpwO2B3tDYMes4dRQ6Q6yhqlstT_D0tR98p7I94l3D2nTX01apYd_lgE6pcUAAuj58_tIXa3TG2YpaToUadrQpSl0ul78yFolo7oMCF-pNxIkFJEXrRFgXIUAgL2BP-k28t9HaRMJSUe34ZXgd9xwerUCj-hVg7xuM30R6x_I6nAt9fmUgJpuZd8bLb50YDtRagOuiJMX4gamQ7ThlGn9L-AhZgwweyD3VlmKpR9yHR_t9eYSPd3xT71Sci1UJ5TRtTcwJLUJwn3fJiyqi9d4QNoHOewrpYewN2mD3h_ihy4mrF5kg0onC1GWZ7URDB7TK0y_aeFNULygBjZCQqSj0Wot-y8OEZTTNIiaXkfTtH0NmHShz1x_Im2jwTv8soSYXqAOGiXtaNnQGqkajAvtRxyeumpenfR2hA",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJpa6hjNpfwokRoJ3lUZdnkUQ",
+  "plus_code": {
+    "compound_code": "Q35F+HJ Queens, NY, USA",
+    "global_code": "87G8Q35F+HJ"
+  },
+  "price_level": 2,
+  "rating": 4.9,
+  "reference": "ChIJpa6hjNpfwokRoJ3lUZdnkUQ",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "brandon wallace",
+      "author_url": "https://www.google.com/maps/contrib/109149594968027013208/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTL9VYOsJoPaQ8VZnXOvmtmFRS1cx-1qv9DkqrurV5wtZoyAZi=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Nneji is a restaurant with delicious food for takeout in Astoria, Queens.\n\nI had egusi, which is made from a protein-rich seed. Egusi is one of my favorites, for sure. I also got black-eyed peas with sweet potato, black-peppered salmon, gari which is a coarse flour made from cassava, and the ancient grain fonio.\n\nThe food I ate had excellent flavor. It is definitely a place I will go back to.",
+      "time": 1690656159,
+      "translated": false
+    },
+    {
+      "author_name": "Foodstaham",
+      "author_url": "https://www.google.com/maps/contrib/103071721573158357851/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWAsXuMy6JqVl0Ixdwy0F5CyG9GFWEMGaJ06wIzaWnm0oqzmtwhLA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Super friendly staff.\nMeat is falling of the bone, spicy but not overpowering.\nThe tomato soup dish (Egusi) is amazing.",
+      "time": 1627844534,
+      "translated": false
+    },
+    {
+      "author_name": "Leila Nasr",
+      "author_url": "https://www.google.com/maps/contrib/102981333055855555620/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCuVIEJmrfL7LKq5jYhUbA2bOWqrjvjY48LauOfi6VqydCDqdF=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "I got the okra+spinach w/ spicy goat. It was out of this world. The owner gave me a call a few minutes after I made the order  to let me know they were out of fufu (pounded yams) and replaced it with yellow rice. I enjoyed the goat \u2014 it has a kick but not overwhelmingly spicy. The choice I made was excellent. I am most definitely ordering again and hope I can try the fufu next time.",
+      "time": 1732755649,
+      "translated": false
+    },
+    {
+      "author_name": "ghcy h",
+      "author_url": "https://www.google.com/maps/contrib/106643283381962331625/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVf0OU63S5jCECx5gcccYsRcd_XjjUZ6TV47brury2yUu-AwCvW=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "Delicious food and friendly staff! They took the time to talk about the dishes with me and gave recommendations. I had the chicken, jollof rice and okra! Loved them all. So flavourful without being overpowering. Wish they had tables and chairs so I can dine here with friends",
+      "time": 1628197127,
+      "translated": false
+    },
+    {
+      "author_name": "Kevin Xu",
+      "author_url": "https://www.google.com/maps/contrib/104251512661618083713/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjPVtDoqccgZbEI-KCg1nvf2L1kwmeJfn3Aj8fQmm8odkRP5lRxg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "The mixed meat jollof rice is so good and you get a HUGE portion. The restaurant is takeaway only and smells so nice inside.",
+      "time": 1678749677,
+      "translated": false
+    }
+  ],
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "restaurant",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4940844165813869984",
+  "user_ratings_total": 136,
+  "utc_offset": -240,
+  "vicinity": "32-20 34th Ave, Queens"
+}

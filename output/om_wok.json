@@ -1,0 +1,448 @@
+{
+  "address_components": [
+    {
+      "long_name": "89-17",
+      "short_name": "89-17",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Northern Boulevard",
+      "short_name": "Northern Blvd",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Jackson Heights",
+      "short_name": "Jackson Heights",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11372",
+      "short_name": "11372",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">89-17 Northern Blvd</span>, <span class=\"locality\">Jackson Heights</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11372</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "89-17 Northern Blvd, Jackson Heights, NY 11372, USA",
+  "formatted_phone_number": "(718) 639-8800",
+  "geometry": {
+    "location": {
+      "lat": 40.7564595,
+      "lng": -73.8782275
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.75776383029149,
+        "lng": -73.87687701970849
+      },
+      "southwest": {
+        "lat": 40.7550658697085,
+        "lng": -73.8795749802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-639-8800",
+  "name": "Om Wok",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100510546788490615357\">sangita moktan</a>"
+      ],
+      "photo_reference": "ATKogpdN74kzqTmcHGWaHaONnfiF-GQRcMgRH_15BK3sB99mbF7Jy4p333-KroQu7JYg-wOGzWnOHW3P1GZRpOIrCR6IgfrW-s1hiVzvqNflNxmubqMkz2kcYMHBcT8AkiLJGnFUm-Vt07x5g1EjTNigKTdw5UusB5A5MyI5zRB-k5NoL4k3h_AmH4Sm8SQBYvXIYHCZNeSNfMDDGOaQsEDy_-01__ZX3rHNWOMgVMdD1kNlQdvg3t2NPw8CmnjvGAWTCPMbqEfoQlnqVbL8EuwvRYKCrRJ7s5FCE4j1lqPt1ZPeZRTfQx1Hdym08vaDv0aPVi4wrdFDcwGCAEw1meJAjk1R2e68bYATdSNT4mDcDWuH7ua5OIme8Tb-doAHShyDK1AXa0gfrBdIC5a-QdZAxWQ8AYWDn_3rjNlghnl3lX8uEg",
+      "width": 3600
+    },
+    {
+      "height": 432,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100731076341577329391\">Om Wok</a>"
+      ],
+      "photo_reference": "ATKogpe6-RKNJ2xnh7I_nZlkKLPIcRac3wPWNy5k3ws9pyCO1j-Erg2UxdFV_ZyUzr5ci3TLY5NvQH-5egaSBj3WBlJQZ3jtOdqun7hDYrxUiU2Xayn0iLC4phJ2nagRx33AOkRZJ9SOTBchZYStBOXPNHCO7_16mDgrM_Js3hHpJGzFIglf-7XfhEcWYyltbudINNFEjInfWl_ciHEqCr_ZVPlvFbLm4z063Sn-NkZXA6e0JNYCFj5MMk8vYZlgvQ-zmIAf78faVYUmG0WjFLVw1lSblSDFYXg198khTmpFPM3zWw",
+      "width": 770
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101891582367033237871\">Sarah Rose</a>"
+      ],
+      "photo_reference": "ATKogpc4izMOWmwlxkPkrJtdAi5euQzlNYM3TaP8k7Rbca-pWCBmEtLnHFdzhuRcuT6z1RfVXzJzuV49yWhOtzIdMajgwrvQsEUQxKxOFNOhrKT--w8RpXWRuQpibUgroMwwIi2SzQfSCUxpD_BzzMZNc1jICQpYiTAie0nYWZD6Nc4IkM4xhiE3-BlzxIIa-cLgjQtCfLILujfvd0uU18cG1MCn_EGjOpWgBLiWU591W7kCB_4oMdCRdiDAM2aT8-VZZti57JrzwnAvCPQc3XZJIjuK1NyFYVxs8CauuQkB1dlJC_aCj4zkesidwQkFUG_jzP4390Z1mhw796z7T6G5pzMb8cOAACaLhwadj2KUpSlmSm5Ppz-T-78f-Jb42FPbEcrE15jWS1FOw43M-0O3m6It2Mhkqtz5Yn5z69mjzITbSg",
+      "width": 4080
+    },
+    {
+      "height": 880,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100731076341577329391\">Om Wok</a>"
+      ],
+      "photo_reference": "ATKogpduWE3G1Nwp-4H0MW991WNdOSzwfF1HS21OnjFkdCCbTnj_PuLWy8yrBHE-E7HJfDKfxDj-MY5VpwZ-JIu5wijGXhqW_tUdEzsLJbhzrCobV0bAfXTacoLyPGyEp_VH0O7zc-5oaStJiKTx0Y0Evl_m3FGP02Zkbz6DRnGvLtGZ6CU67d_TYBuAWwT49oElWYdNPX6KXpeoMnO_aIPsbUqt2jXAZv8LtIHJU6jnQBrq21ePIKjoOl9cULg7MTI4EBXDGxEN0-MahjoAoxcKZFLEXxCTONbv4O6lIL3FXuGw8Q",
+      "width": 1350
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117074108483909665087\">Miah Arif</a>"
+      ],
+      "photo_reference": "ATKogpclTry2k7JRxU2xap4fyhKVlpMAsrRp6gVY-VHBZSITAn0Qbbe3uPom4635E2VGNLCAZArKtT9lwGQDqGqtajXTK4G2WRfuTi4EXnJyKayZpHAaet5cJ5AKYr5uuF3y9Q12ihAubgXjyrT86l6-08gdtrj_GtjACC34_oQGw-7rxTnB_Xey0ow5qSCUjaE0gvyb_GVKlsFtaYarN9BtJyROM5TsowfDDq9qJyF4yX-QEJ_garnKrlfgcTdTyFMgUkyOqHhIw77SY-PremXDZzTLV1ocZAUfhs29vbHvyE08ZcQmBdWkuNsxNSoZaIlvD6KvIGa2bwgS2fMraGHLT5o02PqeeGDiz__cX3mT8szi2RgOL9QgUYbo89AT5bah4Zv_G-49jIl6Ne27f58Topjn3sWxrgqfg4eFN7VYE4Yvww",
+      "width": 4000
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101891582367033237871\">Sarah Rose</a>"
+      ],
+      "photo_reference": "ATKogpdNgoQxyN3TyKm2zpZvnlkX9Ti7lIDKNCVmRfJf49rwD5BV3Vvo6DavFhaHN8QFhXikn7t7_F-6ppCSrRqgnXfdlAdc1i_-F5AJEJ3Z4GyKrD6q-dPdaW6MkFbgMofkCoBy-REf70JtdKGnxXtiYqedVCTB49gT9RH6lvFLbPdIzFI5hBeQqx9R3pCW4ZZAkpv9lFhcwFBcIXww_kaDhPKrnMCqQkvNgGprrsFb1C1FP1ndUXwu3aqMDlQAiizPrtIJ7fZGyu3W_p41vpYmXgew-wdzpc6tBOb5rCm6K0cuKHMci-5RUfi1TBe1fp4cf2GmT4wiGrfHSmyMJzAXRh5B9cnOoFRqOWKBNvLh7hZDsZsGZcB5HnSLnhqFyIPwrjqmgYdGXC4menpVHHiM7_8e50PUrfAUnTduBU9hAr0Q9ZF9",
+      "width": 3072
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117074108483909665087\">Miah Arif</a>"
+      ],
+      "photo_reference": "ATKogpcWiPKzZExd2IW7IQia8YwcIm0kY3e634bkfN2rUzQpH3njv3NrzXTcU8I598qdyrbS0uN9esb2iM0OnuBvCI9SaL-6IJ1zEjUWLfuUc2ix0e5lJewgeP4W_xFpAVI3utkY0SMy0cdoKveELVw67ytHqxJOXcz_WG83-jFfHMaKMajZKEwnTmFs90A5JINDyPJ-gSwJuidNtxH9IYwU9QIfMSDYD6bxMPbz3CmgfoIPqQlzVx7Fa0If6Msz6eQ_QDXT-e7cl4rYlq1CW-oTFOVkUfo5gp3XskJt8Gdph7SQAF0S5qEc-eTIRoMQ5X04UIiRuiL9ZlYo67jZnMBNz23dVANP_0ajN-ILnTdoR-kI6SC1IL8NuJZ_9deFCUR33E1aVNNb-nJmnBuj-vnl90cnysoZq28SQ2QLf7hOgZqtwA",
+      "width": 4000
+    },
+    {
+      "height": 4096,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110369826394988639144\">Maria M</a>"
+      ],
+      "photo_reference": "ATKogpfs2-nkelHDnrEt6_3UEVdgzgUbNJ27wmxKxWCfrbJopLsyJUcSPll8Iw9V1Y3empdcorD-WUU9PbrwdHhoM6CLiD7xwpS5YTMqkQRgIoIhkmIkiGzX5KsQZtyD3WE_AwVRCnzslV8FsSbCnj7OlIkJQhWEIUfc6CiIqDaU1IVRh7c3YzKo_4xlsLtcU7w11WWBAg3jZwvZQ2GQ630FnI5OvbdVI0BsVSouFVsAwnzVAOrJb-A3y_M54TXWdc6gkBcor5YgB54Yvgebi4_xD1woHLFXeSzvkU6cXRiMIRPgQ1l4WwUhlPaBdlxi8enPUquHktplr-zECmWlBc0BiTsEcQk-bJs3Gt5plGXSDKOOrNIozjPbdmNbHshKiuO1hK0eJac0mLy4mn2sSTdA0O8Jsv_2CWH9k0yKT8jam0TMnw",
+      "width": 3072
+    },
+    {
+      "height": 3464,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100902619982961453181\">Garamon Kanegon (Spacegizmo)</a>"
+      ],
+      "photo_reference": "ATKogpdKNI0wYEX_oc67IR3cF6GmjEeeHvXokk80A0qiTI5wF874SoTSoovCjLAN6KDAcwjQ5Bo1keI6p70i67MtXBkIppr9kj05qNjkPzg1v-BQ43h_Gic7x5VFiVibSYedtjKETBzsHULn47p6zxN4tbN4TS0Db2E93Ew9Eh_zFTQ7S1BbHHqUjUgt8Q_7CbnQC_IImColVBdJfzs1-7Mbc9c7XHoBAQCGEWmGUfgodpzFeFwJk_ex2SwRfN1d-wisQGvtx9oBD4g84ZGhqkGEFFClDQBemhWR-PxJ40c1wzFzF_OQBySe9NxRcdKW_qEdkdPeDkaugr1xU0tA1SHIJs_CO8azP_6YPbU41N1OmgOUDqbc7AoC5KrnRsqpxPQQpuwGqpi1zhn-mpM7DxTXrqbeXPwE7gsko5K76AP6J_XCtA",
+      "width": 4618
+    },
+    {
+      "height": 3264,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105567809692192192770\">Sonam Dhargyal</a>"
+      ],
+      "photo_reference": "ATKogpfE-NfLqaUytI6fNjDV9bSOUM5Mw1Y_h6peNRPz_JPqmow-_C5d1vdkgf1P59jIEtOQ3KgPE7A3bevjt_9VKoX-f76_-i2p-K7h9vxMNcLVtNgGTGAJwEz_CvYTc_dcwOwhC-G22PI1uP2iMxqc4XKl5F5l_a0PHx_mkAVOttthVQKigGyK-Sd4464rGavMSqjx2si1vSkW1Q4G2kuLGS8P30aWolluHTYj-8rofUuotIbcVVJa91KhDUwR3BzhtShDeCC0LOeJNqfT6A2FnaWIyaAf35B7kpV2Elo3p1WNEXLWIldaavWeaY8C05ZclAnN5oc74djR8EaEEIqJ1EZmPeZ6aFdSa6Arls21EB0Y-qs-gyZq4Etjl7jR8CN4I1VlOCHqU1FEVEXR14EWNIbXYtcmcLnpv1p3rywxi1_4TjQ",
+      "width": 2448
+    }
+  ],
+  "place_id": "ChIJpX5YOaNfwokRhkh_BM_Op6E",
+  "plus_code": {
+    "compound_code": "Q44C+HP Jackson Heights, Queens, NY, USA",
+    "global_code": "87G8Q44C+HP"
+  },
+  "price_level": 1,
+  "rating": 4,
+  "reference": "ChIJpX5YOaNfwokRhkh_BM_Op6E",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Tenzin Khadro",
+      "author_url": "https://www.google.com/maps/contrib/103233110600059247991/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXVikrc9bs9AJNF8iJqoLYIjTrZ4gTCp0OCNZ3wYefy0a8CxxRd=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "I recently dined at Om Wok and was truly impressed. The food was fresh, flavorful, and delicious. Portions were generous, and the staff was friendly and accommodating. If you\u2019re craving tasty, freshly made Asian cuisine, Om Wok is a must-try. I\u2019ll definitely be back!\ud83e\udd24",
+      "time": 1750449195,
+      "translated": false
+    },
+    {
+      "author_name": "Beatrice Evans",
+      "author_url": "https://www.google.com/maps/contrib/113343587830858549911/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUs4Xl1qwH5vck0j0PKoOI6YvsBKvBAcpNZ8kv5hT5-9jvbHEYK=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "3 months ago",
+      "text": "I got the wonton soup and chicken Momos. The wonton soup was an absolute travesty (in fairness I shouldn\u2019t have ordered something not Tibetan and expected it to be good). The meat was pretty meager and the flavor juat overall lacked. The momos were definitely better, pretty juicy and good chicken, but once again the flavor was minimal. I\u2019ve definitely had better momos for cheaper too and the food took them so long to make, very fresh and hot but not worth the wait.",
+      "time": 1742210046,
+      "translated": false
+    },
+    {
+      "author_name": "Reina",
+      "author_url": "https://www.google.com/maps/contrib/109515678360795036394/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXz7NgnjS-JP1EKjI9AlmxgxwgTG76neTkVW6JMVe0zjjSjG2jMCg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "The laphing and chili chicken were great and I only managed to have one momo. That tibetan rap though\u2026 #CHOP",
+      "time": 1748212369,
+      "translated": false
+    },
+    {
+      "author_name": "Shashirekha Mundhra",
+      "author_url": "https://www.google.com/maps/contrib/116947128617731340320/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDXVgxemlIIg22wOs2GYTB7NH8CJOggX4m6t3jbv70XEgUu9rs=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "I absolutely loved their potato cheese spinach momos and would definitely go back there for those. The spicy fries are spicy and worth trying if you like spicy food. The fried. Rice was nice too. We also got the Hakka noodles which were okay. I have had better ones at other locations at Jackson heights. Since we are vegetarians we didn't try their non-vegetarian momos which made them the winners of the momo crawl!",
+      "time": 1703797254,
+      "translated": false
+    },
+    {
+      "author_name": "Sarah Rose",
+      "author_url": "https://www.google.com/maps/contrib/101891582367033237871/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSajyDCG9JFIANSNOT_aT9-2LZ6TEbGtASx6CiedPvpxe_3RM=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "The Momo's here are amazing especially at this price point! They're SO big and the meat and dumpling skin tastes really good and fresh. The hot sauce is actually hot ! 8 pieces is more than enough for two people.\n\nI had the fried and steamed momo to compare (I did like steamed more, plus it transports better) and the thenthuk (soup with hand pulled noodles). Both were fresh and had a great homemade taste that I love!\n\nThe lady up front was also nice, recommending popular dishes since it was my first time here. Also conveniently has parking in the back and large seating area!\n\nI'll be back to try the rest of the menu :)\n*Note there is a fee for credit cards which she warned me about*",
+      "time": 1709169078,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "point_of_interest",
+    "meal_delivery",
+    "restaurant",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11648506349746079878",
+  "user_ratings_total": 310,
+  "utc_offset": -240,
+  "vicinity": "89-17 Northern Blvd, Jackson Heights",
+  "website": "https://www.omwokmenu.com/",
+  "wheelchair_accessible_entrance": true
+}

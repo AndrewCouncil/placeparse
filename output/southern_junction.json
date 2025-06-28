@@ -1,0 +1,405 @@
+{
+  "address_components": [
+    {
+      "long_name": "365",
+      "short_name": "365",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Connecticut Street",
+      "short_name": "Connecticut St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Front Park",
+      "short_name": "Front Park",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Buffalo",
+      "short_name": "Buffalo",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Erie County",
+      "short_name": "Erie County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "14213",
+      "short_name": "14213",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">365 Connecticut St</span>, <span class=\"locality\">Buffalo</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">14213</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1600"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 4:00\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: 4:00\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 4:00\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 4:00\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u20093:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "365 Connecticut St, Buffalo, NY 14213, USA",
+  "formatted_phone_number": "(716) 262-0575",
+  "geometry": {
+    "location": {
+      "lat": 42.9058586,
+      "lng": -78.887294
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 42.9072840802915,
+        "lng": -78.8860036197085
+      },
+      "southwest": {
+        "lat": 42.9045861197085,
+        "lng": -78.88870158029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 716-262-0575",
+  "name": "Southern Junction",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1500"
+        },
+        "open": {
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1600"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 4:00\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: 4:00\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 4:00\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 4:00\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u20093:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111546954775661995100\">Joseph Andrews</a>"
+      ],
+      "photo_reference": "ATKogpfAQ97VoItYUsPoQhuZAL9YtTpcnB5LVPkGX1V59FE05iBRqKXQRmDA8-PTJksjbB3920jmstxX2ujqwmU1cTJ3xUdMzqr30oT4qEsNMTnVk_70Jbn6cqu-jx2Q8Py3kvp5lAPiCdKvfD1ihTEBcJRuKnMDAxGdiNBj0LNqUWIC2p57C3vqh1jhSQN6Sia-d5SO0GEcQcMfdY_MoGerdIhZJkbSTKproiI1NuLBsX7tx8pAhpFZQdqNJ55poEBvPouiFpRtta1V8qXwBsZyVOGY1hmBAiQTQAIS1Ya9yf6ebpgiJzUTyK4ZdheHqVO3snh6c36jYIYeBm4pIfb6qZI2wp-HpUKKtX9Gp_2STq8nLmpDcM4BN_uDsYZldl7R5aUmxETIylIKdpJJ7Y6yqnLsyjRS_C6OsZPouDrjZNSdOVgsKUqqCEUBjhzZUoDu",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117287284645253788716\">Southern Junction</a>"
+      ],
+      "photo_reference": "ATKogpd5De3RS-z9_0R5NZ9pyGWHR6LIqqD_eq0Rc0WTopgDhr3QlHjFEmnR8pVsnejf9fodHKNta8gSFGl5gOh90TEWGeLh5J2fnIVDQqta25-DJTpylf0GvmVCGE843at0zEYoq6eLKPtSIBI6lq8z4v8yLbAHuUVJuvRchVbyk1JEJH6t9iJy69aQnqxGY7L-CRT0x1XnMnZB3gYKGTyVc8Iu3yU0HAliRCSZmZYmUPUHfBPTes8VepvmsX5xSvDAZb3Bxtge9UpEftrk_67ReAk6CJGxS0S3dR4YpOthTQ996Q",
+      "width": 4032
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114926906187406970115\">Jen G</a>"
+      ],
+      "photo_reference": "ATKogpd8iwbUHk7W7eipZ4XOhNa6AUqj9ypjBO69-OiDHvwB8gboZY2afCevTRX_gjjpntLD-7WpqM-sXevqJ9u46S-2uDxI85ULlZXpuX984cyfvD4HRBcdVM1FXi1qcj__LRTn2bb3F41s_4L7bUpAMmZPC6dTi1DEB9LzMuDEc8WqvOtgn1PWFfbgepz80uyI59jal5r5RdyFgSTtJcp51bdgu7M2rBu-VzP6uhBP9BKX07IZ-f5Sn9QFUN7ykJ98Jxr6rSQ8yfiU-LpD0cLNI1ZtK3qRklEveB-oP3469KzyQMUUBXy_B91n9t0vVzAspNPxtMulnRIEwE4ku3uMGavLUR1-2YkxCa2w9S6-nq_I-e2DRHNK41mgwiGA8smO3y5lQ_Twzx54n5-6NRZV4iGkxmR26eSxheSk20nmT3Nv2lw1Ob11rC32NQAJsuNJ",
+      "width": 4096
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103977601448868143308\">Sowmik Parapurath</a>"
+      ],
+      "photo_reference": "ATKogpenWxo8pwN9sRu7Z_DqcX7e-JgUa0QUfetH7S5mHPiTCekxptKB1Sm7LhWp2gTMCaELGNHQ0Mvv3sV0ArPlfmoWpNrF31GnHILmB-cVBwds2u1qI-UgG_l3i2DaGbZioN7l197fD_XOf9ufCjs8ebkpQg0wtSIOrSe5quazVsSxAZ1RR3BwBMeLQYL-iRGB5UnBRtSIMydhWBh7kJz1_OVNMfrZSW5vKteBc6d-pVC_H2B81SoDhilQMpg0D9Z66syKTP83mxQOgHryqez06BiAyRwpnFmvXH-M3RX17fs-_Rj7Zv8xD-QvBgfFkOmUJ4CiHxMKi966rh8lZmQbqmY7oKP_loRcp34ucrGyGMqxV0Zjv2h4aW_f1mgssbiuLFDWnwGgg9xYY4ZdvgapOg7gLmCm45EryA5Ilq1jaLfp8w",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111546954775661995100\">Joseph Andrews</a>"
+      ],
+      "photo_reference": "ATKogpetMGcxfsRZFbsRTHS5FwZ-XgM1jt8X1Rk1tMVw5M_mOXXtJNTGfIAYpFBlaVU11axn0II5-lDDiRePLPpjPSxu5nceJRcaCIXLLuINL9Dpb72c44J3J_BNWxywvkxQSeyXE0yB8P3hM5pV6Ota5GamKJIT1JOZsmYo_lYNa_c0nWArUolyRZj-9nK1QuYQRLRfHfeAHnmSzGjqNiXQVQS32k4wbXAkt3ej2A2Y16AQFhg4OOxZDqcCNQYLzxCTt8oZe4eS3Cv99jEAiUikXA0BYcGh267YJCD4nIpppgQN5OGHp4l_W02-TpDgPA_kehfiyVSIWvY2zqMvaAD9estNp-GvcAbs7MXifenkixsffd-HpTDKmwr54yl42p9-GsT9wgpTdp-9PA224XiZuI4bQTLDcYkiWAsSgSL6GOhhSTxkeSSccKur385jPqYQ",
+      "width": 4032
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103915912141054892891\">Tamara Raby</a>"
+      ],
+      "photo_reference": "ATKogpcTG9DPd5I_BHQKbBQgd7Gxfv3GxhD2_F62uiwhyumt2WimNDjhQjyYEyhFvem9HkIZI29P8Dw4FGxulZAzEbxQ714HHW49MHy4X5hJiu-coAaloeJCLi82ZGpM-4JyGT7_OyGvT6K3ywDXulEP65P4Kedbi2HWZbSEEfLAkDns7Q4_TTJxRaMB2leqhWvBYXKnQDUGKbEeeCX-FTEfxDZy9p7Gi1CmKC_pqgtwUiP-UlOXanvCW4Yo0oyYpp_GAvTU_wGYEIjbLg8LwSVxjsg02dI9u-zwnKUzIgEYdaIaRvWhjMxpCIqynEuNunbKNIFox3AHzhlxKdEk2YqG2p5I2VoRS7yAoVh48ohh0qVcaV0wbv-DnqslW1wTThLMgab9SyAFPyMQ30dCW6dXBOzF15WX-NyQ6ARdTyox_OlYQg",
+      "width": 3072
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112774204739554165656\">Mary Krencik</a>"
+      ],
+      "photo_reference": "ATKogpenUy6GN7XrrI5bMCGrKzmZRwaeBek8BWwS46ZwkIO5512fcA8EKrEOHQT7Hw62FwS0r3mLyh222nw6IDmAosGaKRfVPpFHLezOfozMO7SLSCuH4Ft8tDB9NCbnTFskXdz21eKswMzzPj_ZUNfvJ51FlSH9pivxUOtju9bxebZ0RjdBKSBY_aphwvmg3MW0-rxTqk7f_d4ffj5IFliUYcgiNQwrLmv2Q_DXaDXgyGs9ZB1YqY0W3KvGVhDr4arqLSjUyQMBuY0dJAj8mwDTl_dNpr-prP0KlBesU0CNDjaXKu8kvQQAg4GDrhAe2r4QGXksm8EAyH4Zsq2_dl-YkeW4DqB0H9wnPrYPHZU-JKiZ2X0FYEgZsJCE5Ny2nCy1mpuvQBjUPr8-naDc2o0aLbzQloKfQ1UNT1oQRzkQ55P6TonN",
+      "width": 4000
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117149804276889505997\">Dinika S. Aurora</a>"
+      ],
+      "photo_reference": "ATKogpf3W35VKFSVop3FI89mh74DJc4MCEmKISq_QJViNS4BYRpB321s1vgwT7pkYdgMSo1K0CfBQS5i4ooi4Vdm0LOlvuTQrdW1TLNR4ClQY6JTU39EmkdEo87QSHIGpW9ngBjHP13dH63ZYoo9uWb1TCLp9nPQD9kk7pWfNbtCaJIh2ewMO0bjcFMlcrhxwlvv4ejBU6tPjx8Iv3mPo6Gv7MgYqgFrrzVAcOgVru2gcHkECAWGJvLwyOHsYHT0OnGgWqE5JFIg1qT7FzbMt2lcC09xCjqW2voJjbtpeu6f5zD95JJSuR40kiIQg8RJ2ZsfzozfKFGDxqAhPwxaNfFgNIdwBct6vSC14eRPevCgWyxTNyCp_wG7-EnJHKuOEZ0NQ7A536HwWlw31lIheml4z5BOX9uTdPOSvwFDETQWfhSbnukB",
+      "width": 4032
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113825434163685857097\">Doug Petti</a>"
+      ],
+      "photo_reference": "ATKogpeN686wF9ebdiZb-UIcTznPPm798jpIissSG1isx1jW4_ABRFWEL5cU49P6-8yU8BAxVyhyEN0cuzBxz7YMKvs7ZtKyZOeofbBXeStNf6K7EFPx_L5fsIMZoZcSn8ZMAyO-P1fgNpKTSggm_cX1FiZmVubR1ksaGg0hy69tf1NjeIZmoUYL66gamdXxlTInJf6WgKQ-Aj2uBVJ7EjemMXQYU4ex-KDEkKXCCa9f6HyH2oQR6WsLDURyBmXdSUGTXVQ99OC9kqFbUQ867uL8RDhf6JJTYi1Qgc-0rrdjrvEaKBt-iRsgvY19gTmgPjN9gFur9iIld_3RJpK6yNyUapHPX7WOHxl2KklLHVI0QM0UNqXQkwa6puSEnzVE6OrKF9isG8cTrLLII_Y4AikQl6jJCJ0cLpRBxFfFwqIK98eY79qy",
+      "width": 3614
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109935958491913672834\">Barton Pena</a>"
+      ],
+      "photo_reference": "ATKogpehspaJEkJauem-gCMV9KO906DlGeKiOcC1adhWhq_aFejGLkT9xyJiEYeuII06zC-O04nsMvTWOW8UcwR_YdQXJKRAn70T3592m3ik-ge7aEBZIfr1kEBKYIyQ6-gms4l-_b2lIheJgPfh35ozrZc_C56Od1xwHPh15PA0PQNu_1F1zE1xELj2G4oA722J0HUHpEXbKpe2lmcmSpeYZ5--wwjdR13jEvgsgIECLatndZyjaqB6t5OYon4jVKY6Kw79wEdjxaKZk2M8hk8ua30DSRX_kge3Ga2k2mzUCJBi-ItZ7Afto7Uj9oG5zaIVa-jOsVvPYdBCUxVhZV5XDnqRC6AwYQ356kcjDRNK3ZEJHMwSvkDWKScizPmIKZ3laO_1awra1GN-wI7euDGEkpyHt_FnjH9Rw0MphI64JA1CMw",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJM6VzmXtt04kRS1mirH3ZVlU",
+  "plus_code": {
+    "compound_code": "W447+83 Buffalo, NY, USA",
+    "global_code": "87J3W447+83"
+  },
+  "price_level": 2,
+  "rating": 4.8,
+  "reference": "ChIJM6VzmXtt04kRS1mirH3ZVlU",
+  "reviews": [
+    {
+      "author_name": "Joseph Andrews",
+      "author_url": "https://www.google.com/maps/contrib/111546954775661995100/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKTULhTCux0xwBM8pO-Xy7VwJei9-MbYGcdD6HpmpTN8g2DMw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Best Barked Brisket in Buffalo. The Flat Iron Steak and pickled onions were a close second. I used every bit of the what I believed to be brioche bread. It was the perfect vehicle to shovel the meat. I will go back even though the price for the amount you get was making you think. Great relaxed atmosphere. The 2 man band was enjoyable and wasn\u2019t too loud. A nice experience.",
+      "time": 1750250881,
+      "translated": false
+    },
+    {
+      "author_name": "Joseph Mineo",
+      "author_url": "https://www.google.com/maps/contrib/116700736077539843028/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXN-IV-9sSW64UCbDm8J9PN1L0ztqAAzWjflU9GV2akrw5a7frTcQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "We've been wanting to try this place since we heard it was a james beard semifinalist and I will say that it did not disappoint. All the meats were smoked to perfection and the Asian twist to the spices was inspired. The sides were exceptional and especially liked the brisket beans and the cornbread. Even though there was a long line we made it through pretty quickly and there were plenty of seats available. we will definitely be back. The banana pudding was also a great way to end the meal.",
+      "time": 1750460072,
+      "translated": false
+    },
+    {
+      "author_name": "Kyle Matesic",
+      "author_url": "https://www.google.com/maps/contrib/104532122242157845322/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW1NrJkhTBusSuZzQAY4N2piZ2WVaQOfBK6uPtdCq2C7WSB_9US=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Finally after months of much anticipation my wife and I finally went here for dinner. The hype is real. Best BbQ I\u2019ve ever had.  We didn\u2019t know about getting in line to order the food directly from the cutting/serving station. After that was figured out and inquiring with the manager on some recommendations. We were cooking with smoke lol. We ordered the Barbacurry beef, turkey, flat iron, sausage for the meats. All were PHENOMENAL turkey surprised me the most. Sooo juicy. The barbacurry had some heat which was great. The sausage was cheesy and delicious. The flat iron was better than brisket that I\u2019ve had elsewhere. Next time I\u2019ll this brisket. We got 4 sides; the rice, the slaw, the shells & cheese and the cornbread. Cornbread stole the show holy how and the butter they use is amazing. The rice was great. Slaw was a vinegar based also tasty. The shells cheese with some jalape\u00f1o was tasty. I got the banana bread pudding for desert. First time I\u2019ve had banana bread pudding. Why have I gone 44 years with never trying it before. Loved it. I wish I came sooner to southern junction. We will be back. The food tastes sooo fresh. Juicy. Delicious !!! Thank you sooo much for a fantastic meal/experience",
+      "time": 1745076761,
+      "translated": false
+    },
+    {
+      "author_name": "Molly Johnson",
+      "author_url": "https://www.google.com/maps/contrib/117973518994971459079/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVVAU2GZ_nF_YrWz1LBEX_GEqYKEpKNpTDP0nv-ELmmNV-6yI5U=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 weeks ago",
+      "text": "Texas Taste, Southern Style\n\nAs a partial owner of a BBQ catering business, former Austin resident, and someone who\u2019s visited many of the most iconic Texas BBQ spots, I came in with high expectations\u2014and Southern Junction absolutely delivered.\n\nWe tried the turkey, brisket (you can choose lean or fatty), pulled pork, the phenomenal Brisket Bimini, mac and cheese, cornbread, and roasted cauliflower. Everything was memorable, balanced in flavor, and expertly smoked. The cauliflower and cornbread in particular stood out\u2014unexpected hits!\n\nThe ambiance is exactly what you want from a true Tex-ish BBQ joint. As you walk in, you\u2019re greeted with the smell of real blue smoke from the pits and the sound of country music echoing down the painted alleyway. It sets the tone perfectly.\n\nYou have two options for ordering: the slice-to-order line or table service in the bar area. We chose the latter and found the wait time about the same. Pick what fits your group best.\n\nSeating is plentiful both indoors and out. The backyard has a laid-back, casual vibe complete with cornhole\u2014great for groups, families, or a relaxed afternoon hang.\n\nThe staff was friendly and helpful, rounding out a 5/5 experience. I highly recommend this place whether you\u2019re local, just passing through, or on a BBQ pilgrimage.",
+      "time": 1748712156,
+      "translated": false
+    },
+    {
+      "author_name": "Kevin Dao",
+      "author_url": "https://www.google.com/maps/contrib/102148601089999951872/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUaxu1pPmdQNIhNMdy9nEOxOYOaJhsLWhYyoRJthxVzD0BzOhU=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "We went an hour before closing to place a takeout order and had a great experience. The food was incredible, the service was friendly, and the atmosphere was on point.\n\nWe ordered three types of meat: chicken, beef, and sausage. We also ordered coleslaw, mac and cheese, biryani rice, coconut curry sauce, and BBQ sauce. The quality and flavor of everything were fantastic. The meats were fresh. The sides were great as well. The sauces tasted amazing. I definitely prefer the coconut curry one. The only thing I probably wouldn't reorder is the mac and cheese. It was just okay.\n\nThe service was great. The people preparing our tray were welcoming and friendly. We did order a fourth side, but it seemed they forgot to make it for us. We realized this after we returned home with the food. Other than that, we were very satisfied with the service. The price of everything was actually cheaper than what we were predicting as well.\n\nAlthough we didn't dine in, we could tell the vibes of the space were good. We didn't plan to dine in due to the insane amount of people that usually come visit the restaurant.\n\nOverall, a near flawless experience in my opinion. Highly recommend anybody who wants to enjoy good food.",
+      "time": 1744411593,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "store",
+    "meal_takeaway",
+    "establishment",
+    "food",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=6149341475011451211",
+  "user_ratings_total": 600,
+  "utc_offset": -240,
+  "vicinity": "365 Connecticut St, Buffalo",
+  "website": "https://southernjunction716.com/",
+  "wheelchair_accessible_entrance": true
+}

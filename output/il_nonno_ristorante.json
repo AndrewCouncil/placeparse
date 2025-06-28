@@ -1,0 +1,525 @@
+{
+  "address_components": [
+    {
+      "long_name": "25-17",
+      "short_name": "25-17",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Astoria Boulevard",
+      "short_name": "Astoria Blvd",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Astoria",
+      "short_name": "Astoria",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality_level_1",
+        "political",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11102",
+      "short_name": "11102",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "2939",
+      "short_name": "2939",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">25-17 Astoria Blvd</span>, <span class=\"locality\">Astoria</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11102-2939</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "special_days": [
+      {
+        "date": "2025-07-04",
+        "exceptional_hours": true
+      }
+    ],
+    "weekday_text": [
+      "Monday: 4:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 4:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 4:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 4:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: Closed",
+      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "25-17 Astoria Blvd, Astoria, NY 11102, USA",
+  "formatted_phone_number": "(347) 808-0087",
+  "geometry": {
+    "location": {
+      "lat": 40.7713439,
+      "lng": -73.922144
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7726124802915,
+        "lng": -73.92082191970849
+      },
+      "southwest": {
+        "lat": 40.7699145197085,
+        "lng": -73.9235198802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 347-808-0087",
+  "name": "Il Nonno Ristorante",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 4:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 4:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 4:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 4:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112811335066066562300\">Il Nonno Ristorante</a>"
+      ],
+      "photo_reference": "ATKogpdk2zG3DplgdWpfvhgQwHDPkHSaHFZmymI4kJOfgqJQaGNTPP47o7L7ZI_9Bi7DOHINX8vIudCLPaJuUMyUHnWDp988_T55MPMpUh0trhq4LLbExx5x5YTY8wgCHIHO0b5ELpfACLfGiIxOY-83WxqxbQeiC51vpbhXqdfyp88HZhBmE9GzHYOWhxWDZ_LbVfXZ6DQcNB_ga_5thltU9h4uQd65vKw6TIquZ3GKlzJIx0qfL9FDzW58ZWh0eRL-_qyjti69tLw5l9_ZlFeucRJZCKn5wIpNjLk2v52eAE-yzw",
+      "width": 1200
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113760851141697768727\">A K</a>"
+      ],
+      "photo_reference": "ATKogpeiXHd2CtUD_8lIeEeS1GgJyA9cV1kE1P_sM_gaW_T6MAJyjbmY7qDsO5jDWUa2Z8Ek-sI0oWiWBFbDK2dfA9h6LNSIMihnSjFSspqU4mpaWxfFUS3TEsYwzT4qQktQKqdEca9jMJ9t6UYpTmHt4LC0G1AIDpjBBh1iPN0766XwU0YbGQkelK88Q9Qfmvf0huLZTcc2bY9XIaKfvJQ3A-9BcuHhwXo_QirZCbBS25X7njaPMY-ZNyuSgUIpExQJoP0s0y-PtQvikb423aQW0saAtayZjHmjvDazdjXwprwiYS8awvD41Vme0Zjg43pPw_L8-zmBHGVk2xEsvh-OZPtGE-N8Dvp8dz7pUX1DT7YU-N-R0MUXzWwNjK1BDgrUDSD7Lo1taCbsXuIhyft5h6ivMm-LAFfemERyvfqTQj_7-AW-qxJ0KdMSubNdh88w",
+      "width": 3024
+    },
+    {
+      "height": 3271,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105418815602111710859\">Sthefany Calle</a>"
+      ],
+      "photo_reference": "ATKogpe9q38tOCZsK-6mil3_aso_DEU2JaJV6Naof-Db5APMgm4Vgr_mO92q38Tzgu76DVyKxqP_NdUbCgUqxSiKmuU95zn1Dm4Hm6mx5DXk-WmIxlYyIeU3iYH2wXs1VIJL2M4AfIh0hYlxLp3Uvh5_qQTou9DVc1BTGp-tI0-341oDD_pMbf60EFHirIdAVxiaCYTZ-IPA2FUzFufPVHEyfBRiQ9Lo-Zc9bLmyOBMkGzJsbrnOquhJR_9l3ZgvD90Ff5I18JsD9eyGV7V5Dc9t89-EkQAdEpedjSImMvLAOIYqFS2QarrTW7BOPFAk6oBtOwZCWTtD8XwORxrh-HL1qzU-b5SiFOcDpVN960IXUarQjgT58JNkZdT8O2q8k0hD3Bpyhw2VaReL4NL02yAqGwlQjHGKVRxBoaVl-1_Cj0CWPw",
+      "width": 2453
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104102214031361474120\">Usury Torres</a>"
+      ],
+      "photo_reference": "ATKogpfrsLwiHpYgfi72j7oyqjSY4PVkFXWmaEFwBq8tOrYmnQI4u93RNJNqjPLdTbErgJXfPYDQp9avSotVvC0qt8s1vL3zRDlmzEggGDg4GyvFa0SkP14vzICvpO6byR1gPqmaz_av0VbrvvrFTdjIp7KwsgapSulUmjlnW6ZpuYZBMmC9ucuZTQq8tYE_-AGdMdSVpH7A1PAFmmbdclujPkVgI2eCwGoJVA-ABaNS1jfiUl9RYu4wh6LQQxKRfwQAtIdTz0vGQFyNanaCAD-NkPs50ajOvwhjQeoqvwTvi-KTZctaUMXV_-tqEVjvpWg0QvTE4iGtQTvbjb8cDqV1ufeu97z9JVIW93JQj2FCqgB31Z660aO4veZWw9cxLH4wc9beKJs9WT4YbmlqyuV54cUxruxkEzeFr2vTC8jlH6ptww",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116446362529092730861\">Jovi Alegrado</a>"
+      ],
+      "photo_reference": "ATKogpeHiHem-Mz2qp2H3NP-OeWj1G3s9y-9ttsXrJ7lWZalBUgfWsLpNILZpRjt2M7X8ywfnLANPDc5oX8gQRbK9rYPebx2h5IbQffFX9IjSP4oHG8b0q98QtO0OrCYv91YIcJaDcBuwr1MeHhEldk5Ug1hMqE3zj-f-jOvBNISUMWFcbSVvbxY0SaMjXXNgnOYIK65wW91lc3gTxW_lz22UKIsNGh7lvXRoM-OLmgHZ6IoSiVUJtifK7V-G1e8xCTWoCPNU0Q5YxQT3CkYOf9CljtPxyrGzNajxbGFM-hcl7HhgEj2e2VtNkNpkzHc92dZ9dEUSClB5rVzgMHXUeWloyZiJKBzDEwGXZ9ENm2L1_Q7kCI-pEvd1Kq0aqmy4KU7QFM5mrzidBqh0zN4n7A9clTl7ZV1Yc2oiNMD9SM1OSUjF9It",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103469793755076578627\">Cornell crayton</a>"
+      ],
+      "photo_reference": "ATKogpf-o_6DVv2mIPG8liye9VmbfLKVILDQlEkjeHv6vs3qDdmQ9I1SQZj4ZmsPA3WJ-lEjAQUywn_aISCsAeNBnxiXjs1elZZI4kj1CQ7bF1rVrK8lf192NIOjT-TOO8F71cKMFoy9OCyPExii8HmWutSVPKeR0KluEnjJhCISlao28OQ8h9sTNuOLu9IFG1PNvhvftI32H3FRQzdwTf-idlAzCKxMcKyA89Ty3dnXG5ULiPlfji9IlygUreJMnTzVujDzrJU4VOkhP_1gTsKXywJu0Gb1v0uCKXkVsBjPzPpHgR3IahFqSb1hVhRX7WG-IvgOvs5wm_eXfWCtz2rs0dKEsCqCmt3g4ujGaQY3pxudJ9-GQoZ0wYPPfwBdjdQifabn_Syq-GLKN92RzFG8fb2Lb2gMrEksrHJWzDwe7jr5Hw",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106005823622774319786\">Se\u00e1n Cunningham</a>"
+      ],
+      "photo_reference": "ATKogpePrMg2SA4ozjZsp6hnv1tPqp7teUJ0IpXfsmTOfd_M4KkMxFMyXfJbMK73sFWaIW_0YEIfxK-VsS0jAcHULt2BJrCZvOK64WIoc9l9wANIsbG53tS865saqXHHfDjm-Z1N_7Z-QlcjmNndYN8n9v9M7sURh8GH8j3YOb2No08oYuHLynTb1TVKB5BlYKLDZMfZVrG02xO-NSDu2PjaHDz2u1GtCr8k7CK4Ae5AIoBnVXOwamaSIdFgq4lOOFbie6jIgGvZtbDFXUiGKeEi8x8PHsdXPLnlDeaxgsQFWy-ODJBX3udmJ9YgjNmKn9Hifa9v4EdKTvy8y4HBt5Re0fEq8d0zYvyRz7qf-v8oToLBFCg1akpM0gEb-2L81Xm4BMuTUmgHvLS10z3WX4QlM5Rg2hYLt97ZNxT29AJ_qgNffg",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116446362529092730861\">Jovi Alegrado</a>"
+      ],
+      "photo_reference": "ATKogpcWKQX-K42NUaHGLiyrRTZFynANojnol_1M9hGTBjUczWpeBdvrmE0hzNHgecA8QOWldxUI6BeRX7nrNlzyXCXaGySnMCOvNB8feEWaTeyYbb6mfKm57OSvAHdYVWuzqDluCseZ_n97PjP6yiLe9GL-KqHWSjhClS94B_QkJz58ZG-q0YnAZIyQ6WguBK_7K4twhmw3UtOBUewtMquf6rsrUj8kPq0c5XNIHAPv_1_422qFjAwhg4E06LHbWdRsz5qTARkhlcYr8dISYW_NUr7TTyBxIbrUnmD8WkSGwgtXCiYz390YkhokDe3b_SQJjEQy8vrgnYoIZHfsO73YIs9OulQ_eCJNC6mmjZHdrqohXhju_ylmJLebwK9qiY5w3ZEqp3cPnDckiKUBByo3joUdXxiwxaoonsPwLqtSRAY",
+      "width": 3024
+    },
+    {
+      "height": 3022,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117992606029403912193\">Frank Greco</a>"
+      ],
+      "photo_reference": "ATKogpcyM7IwH7PYPXpoE2VtRqWWp3nRRxHJYD_1C3FZmwY62cO0YV0fdMyU9D4330Sv0Jx9nAv-jK9ranxYPO2c0JSB7kQOdnfajuD8IzS1DiVVyi3PbzOby5xKkaFMx3lZVLAjeaqazEdWAs6I3SjqF3rmftgaNK8nMVYod3RO5KRJkWiEEkWoJW57YO5ieEQAX7qP_QAUYPVvHxEld_X2jnwwYUC-U6vMNdFf3r96ptEZxrzAoo2JcVzVQgJsoaf-Jytti7dNZJH_kA-GhzfMeb7RrgbGlHnCWtm-dzTZOtg3vqjT3-r4tfqndSUCMxjj1TQj0h6utAfaGaxb1b8hN3ozEzFqF_PqfemwyflXc_QsFLwNwgJyM4ndW5u__wSBG8g2m74_suaE5IXocpDvJEn6vQqOHgiWV358wRF8sPE",
+      "width": 4030
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101234478326324835670\">wen wen</a>"
+      ],
+      "photo_reference": "ATKogpdkSsD1QzGubeJCMvS-UQVrJsfVbplbnBFN2Ju9Z2RjdxQo8bUkmnyXSnMDoRYIBbpl1HeuV0hZSKJDVQILZ036YAC_1Sh0Z5Up0PFPVR3I3zp5L3v_VTq4oglLxNWB0s0QllXW-YW_pJQVC_UEjbBo48TpsDBQ5cWthHwsKbfbBvnJsVN3TTCO9FPGb2-oMbmK5HnCFzyGJ3tAMZb1EKkD-COgngTqOUp76mT-1O66VTxiNitW0u7lNfxRFQeCzFMFvC2Kgw1NWtP9jCdqKvNReRK1cZZPT9-dkQ73k2jMENc5ahdy4q8IfQBcJBH4383Jvn_GAb3zPhrgw1f6oNx9rT2SHazX4B0DghVJKkblUy4jy4GuddL05hQC1qCjcQ0rcf8RKMkunQo9N75TuRl9hTi66lJ6Kbki_9cerqedpw",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJPQSqAQBfwokRkCRWBn84M4Q",
+  "plus_code": {
+    "compound_code": "Q3CH+G4 Astoria, Queens, NY, USA",
+    "global_code": "87G8Q3CH+G4"
+  },
+  "price_level": 2,
+  "rating": 4.6,
+  "reference": "ChIJPQSqAQBfwokRkCRWBn84M4Q",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Michelle Katter",
+      "author_url": "https://www.google.com/maps/contrib/117050195300694403109/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3ueyeXHvf8fpDfqAHFWsU7uxA0x2klcOHKKdrim_mbh1SpLw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "4 weeks ago",
+      "text": "First time coming here, and I must say everything was fantastic.  There were 2 seats open at the bar, we sat, ordered the burrata prosciutto for an appetizer,  it was so fresh and delish along with the crispy bread! My son had the truffle pasta (penne), absolutely delish, and I had the chicken parm. Everything was fresh and delish. The cheese cake was so good. Thank you for a wonderful meal. We will definitely be back. Oh, and the customer service was top-notch!",
+      "time": 1748697626,
+      "translated": false
+    },
+    {
+      "author_name": "Edgy Russo",
+      "author_url": "https://www.google.com/maps/contrib/102741798348445364236/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWl5LQUs_5S4miGvHgDWlaOZkMtVI-k6esRd-pijIjGJz9mZnKn=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "I am extremely glad to have come across Il Nonno, upon arrival you are greeting with kindness. It\u2019s a beautiful cozy setting great for date night or even girls night.\n\nThe chef is extremely talented, we enjoyed absolutely everything we ate. The sauces and homemade noodles and gnocchi hold a special place in my heart now.\n\nI am glad I came here for my birthday and excited to return to enjoy some ridiculously scrumptious Italian food in Queens.\n\nP.S the cocktails are yummy too !",
+      "time": 1734361487,
+      "translated": false
+    },
+    {
+      "author_name": "Mohammed Islam",
+      "author_url": "https://www.google.com/maps/contrib/115081898361729277608/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI7XleILa_9mkK0o6HBiIjSV8E_bTbAf_wcoNkZ7wYwuQ0p3Q=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "Insane quality of food. The chef does an amazing job in highlighting some really awesome flavors- we had the boar ravioli seasonal special, which was insanity. The tuna tar tare is something I wish I could have every day. The service was perfect and super attentive. Super easy to find parking in the area and awesome spot to see in Astoria.  10/10 will be back time and time again. Best tiramasu I've ever had.",
+      "time": 1732076859,
+      "translated": false
+    },
+    {
+      "author_name": "Usury Torres",
+      "author_url": "https://www.google.com/maps/contrib/104102214031361474120/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL7gKnRdN5eA3IIm0ZrKWW3hSncXQ_pQZVhOGqeTMjgj5g4yg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "7 months ago",
+      "text": "Being that this place just opened there was a wait to get in since the space is on the smaller side. Unfortunately they don\u2019t take reservations, however they were able to accommodate our party of 5. We did overhear the party of 2 after us would have to wait 45 minutes, more or less, so timing is something to consider if you\u2019re planning to come. Once we were seated, there was little to no wait being served water and complementary bread. We had questions about the wine and the waiter was really attentitive.\nFor appetizers we got the calamari and tuna tartare. Both were good but I\u2019d definitely recommend the classic, calamari fritti. For entrees we got the fettuccine bolognese, porcini ravioli, and penne arrabbiata con salmone. The bolognese was a comforting classic with a big portion. The porcini ravioli was very creamy and flavorful, while the penne arrabbiata con salmone was very filling and as mentioned in the description, on the spicier side. Don\u2019t forget to save room for dessert, the tiramisu was fluffy, airy and most importantly delicious.\n\nOverall this place is good for classic pastas and a casual dinner. The only downside was that the bathroom was dirty, toilet paper on the floor, water all over, etc.",
+      "time": 1732459447,
+      "translated": false
+    },
+    {
+      "author_name": "Cornell crayton",
+      "author_url": "https://www.google.com/maps/contrib/103469793755076578627/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIL9ZLk6jMHA_l7-ge_kpKLn1ILJVdeRomdF7aurMVxShMafQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "Every once in a while you read articles and stumble upon a little known and barely mentioned spot and find paradise.  Such was the case for IL Nonno.  A Fantastic 10 table restaurant IN Astoria, Queens with an amazing atmosphere aesthetically and great twisted pop/jazz music.  However, the restaurant could have been anywhere with food that good and there would have been no complaints.  Our evening started with the Tricolor Salad and fresh toasted bread.  We also ordered a glass of red to share.  Dinner was a basic Spaghetti with Red Sauce and Basil as well as the Pasta Nero.  The spaghetti was magnificent but the Nero\u2026. Over the top and one of the best Italian dishes we have enjoyed in NYC.  We finished it all off with the Tiramisu which was also something to behold.  Yes I know\u2026 it all sounds basic for a NY Italian joint but this one will not be forgotten or missed on our next trip to the city.  A banger!!  Write it down!",
+      "time": 1728395492,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1200"
+          }
+        }
+      ],
+      "type": "HAPPY_HOUR",
+      "weekday_text": [
+        "Monday: 4:00\u2009\u2013\u20096:00\u202fPM",
+        "Tuesday: 4:00\u2009\u2013\u20096:00\u202fPM",
+        "Wednesday: 4:00\u2009\u2013\u20096:00\u202fPM",
+        "Thursday: 4:00\u2009\u2013\u20096:00\u202fPM",
+        "Friday: 12:00\u2009\u2013\u20096:00\u202fPM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "food",
+    "establishment",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=9526019755037041808",
+  "user_ratings_total": 84,
+  "utc_offset": -240,
+  "vicinity": "25-17 Astoria Blvd, Astoria",
+  "wheelchair_accessible_entrance": true
+}

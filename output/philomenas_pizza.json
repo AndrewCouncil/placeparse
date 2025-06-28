@@ -1,0 +1,425 @@
+{
+  "address_components": [
+    {
+      "long_name": "4116",
+      "short_name": "4116",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Queens Boulevard",
+      "short_name": "Queens Blvd",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Sunnyside",
+      "short_name": "Sunnyside",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11104",
+      "short_name": "11104",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">4116 Queens Blvd</span>, <span class=\"locality\">Sunnyside</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11104</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1300"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1300"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: Closed",
+      "Wednesday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 1:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 1:00\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "4116 Queens Blvd, Sunnyside, NY 11104, USA",
+  "formatted_phone_number": "(718) 255-1778",
+  "geometry": {
+    "location": {
+      "lat": 40.7432931,
+      "lng": -73.9229366
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7447478302915,
+        "lng": -73.92155366970849
+      },
+      "southwest": {
+        "lat": 40.7420498697085,
+        "lng": -73.9242516302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-255-1778",
+  "name": "Philomena's Pizza",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1300"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1300"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: Closed",
+      "Wednesday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 1:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 1:00\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104479853762281393223\">Brock Dalton</a>"
+      ],
+      "photo_reference": "ATKogpcDwoQ6HWC6m1e2NqjWcTaV5w4ohuSbTd_4MxBkUumMoZRFRc9vQOsdXoyP_vga4yqw8t34Q48UIFlfVE8NfcScTMTchYLq3Haf_6gkoAmHyI63LXjzuhfgdHeJLJwuhCz601L9Z-epb1SQTmOm1ykJaqTsO9N7xm4dtSNSGNwbyRbPUE-3vXGrryLpNwicrDilQGySR87JXNtF-D3iJ3uc_HDBQKO-uuVLDilDT9ogI6HSY12s0jLDtKhdShOxvrzRHj-kDha9y0R4d8sNzDBF8dUp0RANZe8VP9AJVmsV7bzvoeySDBTEAOhe34ONHIUucyab12iGIiJRAMLPW0X05aIU7DBJs9P8Yt61RKPi3cUr2venQ2tq-HM69Sqy9oj3vf7XzYoH2aVcHYzshonL_T8BurfIZyjpO2pSQIDmTa2R",
+      "width": 3072
+    },
+    {
+      "height": 996,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110565104739761542708\">Philomena&#39;s Pizza</a>"
+      ],
+      "photo_reference": "ATKogpdCTuJrVsjGgUtxmHtzkckH-kmsIK5Wgdj5qZPYZnk5IZMblBw6aGs4MCA1J1Do-5OQUdSl3kSe4cpkySa5WUzEvep3fJBuHRQSnn1_dQE58gQHvzF5o7pIob4kDyPqihzq1ZMmiEH2VAcWzUGwKpTqEPuFPQOLauNLnNQobALyO1gqNeNQ2W8QGePxA79UHefszJsBJhRh3_Z6VwdaVQxEqTT-yXA_hBZm7PkpGamnWUtBbcOrW3Bb-PLJ5KlxzgR2fKHopZxOLTMKkdUaOgDlREi1cZ9mTKUtMGZCG6sA0A",
+      "width": 1000
+    },
+    {
+      "height": 1231,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117078049244800167529\">Jeanelle Folkes</a>"
+      ],
+      "photo_reference": "ATKogpeHUBFKvovQyVWt0GO3z6AopsSKrUMhDt4nBWdz8kthpEd_Is_aCuv7i5VMMiLLocVArruT8WQlfoetjSOICEzb4EvE2ip-h6trmC1X5Mxd9Vo2K2KRADhSpNCwU2ZfRB7rrl8WNh2ScuFS7sRdGPjOSK5yTdZCGgnnEXvkrbrNAiV5NxDOkF6pF_C-fvXWh5C40td1-elUCWUxeFLFRjkIf2ug4Qm2uewhMpmklW4QRarvtiCAGqpPMFe0dDN6URV5U7nUt9OiqRTNj1WXNCMq0siqHpUlumGmmgBgnd18DCo28aeMLKnMmqUNG-bNhV4tuqPh0vRKi85qWeVCBBz89Ghcce6A5LfM3ht0yxEhZXdJ1NXAr31ZBouVSBQ_Y4rLtHUIwquDf-4gzyDmsIk7ZPd-WZLUcVOKruuVkYjEyJI",
+      "width": 1171
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103795542602826219624\">Khalid Ahmed</a>"
+      ],
+      "photo_reference": "ATKogpcsUHwOfJYOnxL48Z1z45Y9AZh9M5nIZ-YpVFc_tdVAr4ZKbldUe1FxOelFpIdFzlWrDPzMUJfYd8GxTcEa2GRhA-IJctKqbnTiMaoJCfuCUi-fZwHbRdlpqcQ4dUzFMweaffaEl8FLCn7tYgKPAfNYXvsf5P9Tu8m1WbVFJv5YLIReelvxXn6P8EjBDKU24_k-uBHzG0FIstRxPeR7f-fGQWvpp0TiSjs07yD3QUuP9LlApaNO99rRVuVpddEj3TZvFPyQR08RqNiJDQ9VCWUZooqlsuAcEIq5aIsQQ9DnCQeuAJtFU7s00IN1szsNkZ-CR6OZr2B-b3DAzlHZUdj55MpWJrOH-pL0WgG-YIRhHSUJ8nFeBRulyY7rHYbbFzUfLZLLOSlSZx-3Xo11ghoXjVtVU8VNPQhYXJngAzydWA",
+      "width": 4080
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112324241169789205581\">Maryam Rahmani</a>"
+      ],
+      "photo_reference": "ATKogpegj-HWRIGTgYsKpJvswNNucPf_L8qTOc-N9j740a96qJIk2OdeeXTr1ZiMGMY6o0qTyR-bwGdvwm6d2D5VYPC4124KFg0IMFsUgcv5O-OOBaugzvqLlNNmITUndLaHgSzNUfdLPAvuDgoeIpXdvtxI8RYy1Fclanh3-Hyg7yqwsGTu72PXLAEYUH7qTdfqIYh16lJxCEX-Du4-B4Pda3uoyMr4Qm6h91cE0gVwapYdErkzT2MheXZcQnznyVkFX72buEM_WfzBdqNKxw9T_GPfmUAWN84miQIDY9JKvbVZseJ1z5sXClGwa_9nUp0QVzseP1EkUW_asyFVXnhpnUDneXYPljjTwQxyC1cVS7fVq1O7bbsbXEyI3tKkD91_-_aP83OT_pbuXqSZKWhd556SoMC_R1fK6meVN8wuImm8sCy1T4JD2EFsf2Rw8E3M",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117644271998322614838\">Kenneth Bollwerk</a>"
+      ],
+      "photo_reference": "ATKogpfqn3gsA2pw7c8N7RO_gV8kfbeXxlbL_UfG0cUg1cLkCkDfkayX3s5T9y-zddy6H51yP2Cl7F-9O8AQ5mswV23A_7-rSpkk3ewzQ0gsXBn0CIMf2R0i1Ui5h9MMSc0Qcw_S84DK5lp0iPlxRQjOl8KGqNIqMXjYRNvQJ8zPqlI2I2F8r4Bqt0xLgxqeyYJT-KpQKSL3d2PjBFMWXUszdHjzJp6HJt1yItDMbulsVjj8SRD0hIB9OmEJbquafKIF_4vdGdcRyQrSc_HQp9x6NIN7ItxjcwGjOn-zEPy2D2RwZAa9otOA5N9N3piscNN-ou5maSLXdSqepZWp358RK7S8fE3Whuv2_r8jt0NKB3pWZ9FqbypXjPWAdFJEERCr5uU7G4Wm-0nSCZy6DpOpQgiazlRn7b41cIvHBb_x8KNKLF4",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109820015918236342423\">Kat Su</a>"
+      ],
+      "photo_reference": "ATKogpfMmZReQ4dMQOLn56TGLfv2TTMXt-eIVmjsZSxzz_z1IEY7jDe8Zy-B0UzXcajAJ0l9ftcy_rLMvYF4-7H7H2STq9Uru0cweIK0DM-xALZVUFq9RKMIdWmHoGz77M2e3pf7BWQIUuZIn55av3RFyg_uA6a2LhvNlj4kPmz1DbU3i7VL5MOIiM9qINQvVkvrZgv3G6r6AFnJfR056qoeNc2FoHIbufij2NSn8MMlpyXVpyb77bJl4d8WbbRap-Ria_KFA7OjtkPtr8_9xGU0pqke4K0HLB7wX__W-Nsqgn-pXXncqQiMSZ3VQ2SjnY5NT8toKmSiGqHVKBfv4R0lZquNCDhXgf3SKQg4cayKfodE0orBDdIqtPjJ4nF9dulnY8fxBtPzUQotuS-_Vr8nu6D2LhUhKuUMYRhkppoGjeA",
+      "width": 3600
+    },
+    {
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102294979591528053202\">D M</a>"
+      ],
+      "photo_reference": "ATKogpctRr7b5cbcS6hGS7lL26lNQhbP5ivX4J0JvpZGPM-eUQ2tVIwfj3_ul8cSBb26RUA5y7WU6y6vcknhQZBJySD1-dLGjebN_GGcC0v0UDESshouYxsA7GGY-2L_D0FM4TZhqOkoxgrnx0o3rBrG2mXvFQ63m8h37FlsTZkWdrav3gYiq5Zzr_R9cGNajPoTOa4sz9Hl5HotlifHBC_uRtiHRkSgQeO21ElauQzIaQ9HIBMyB8NA_itozLFc4c8IGhtXt-oyMHPMOFUrMdr15doO06wJ36nLANSOw-7P08BFsR8MrPRmW0BT56AWe33i9tzrrXmOEyTJ88H7dIc4SA8TU77Ka18Vm0ykYnLyWMrep_HuequsnVBSI_E9PFck5DnMqgVVVy8RDZWVsFHi3J14B1Gwi6LUltNkYCqKM6H6PA",
+      "width": 4000
+    },
+    {
+      "height": 4174,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109768388126735214139\">Eric Fan</a>"
+      ],
+      "photo_reference": "ATKogpejYqTKl5OO6KvzyXGoKdOtdBZwV1iYQNU6w1hw1tdBQD20bMSfM6UyzqKt2Xx-SJyVVf9Sh4nYoGHnKDVq2dzNJtqp4_6IaGOHf_8Z1HDj1OFpmNNVFuIWfXemSpeDmdgQgEcigtz-Binw6GeI5w7tDXvxkPdi1TZx3iUrtU1cVPxSkI4dKkcdsghORO21zoNgDsG9dS3LQ8FzwSgFnihc9OQyJMe5EFl2zg8gM7RfVVMw1GytKYYX3cWGAtwmIJIOdcAv2mEwrWpfD8U1HkBZww1KsPC64OvwJAj480b9wQaWbO3juo8gvJM__qS1oZ11ubYPWwdWAduEUt5drqr4OniP_rRaJxxKi5RJNWdxFoAZIPcPBfqDqHhfDggjMcIffrW-kjoavRw_Ab7ki7pmn58ZVWwSgYOohlNzt2M",
+      "width": 3852
+    },
+    {
+      "height": 2992,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108355018410652883108\">Edward Yoo</a>"
+      ],
+      "photo_reference": "ATKogpeaidZLtDIhx1EL1CKjJr752ZCW_-5forcoQb_1QAHPqXwrRMs9qCoeXLwkgwRPNyzSHlgnKliQlXykD0TpOC0Mntj8dXR2wXG3_MAbzQr9GbwDmGzm8FKTXmkrjolwOBzXmLCf2N3LpNyzmGburBvBYbZhJQhWb5Vab2J0fmMMrzNBhKpHeZk5td-pYr7fGr7fXCTwcvJV8F4lWkWG3MyyAt5Xh_540HW9H20RRWiHnNDx2zkOZA--6eaEMhG6je_CUXmHpLkdZmIKaJQkc6BUCa5isJaoIzFldy1Su7j_SA4lcAjBHC1BVF9QBsawTirCMLi0g_XwYsx8sny7RJSRZuS-1rw_HpR3mTAwfGZhz_pz_AKUwNjN6kILsaCZetTv7RYcvG9N-HeTP4X_Kysjm5PoKqpZ3sThHqYiTteKR3AkJxTPach8RqJVDQ",
+      "width": 2992
+    }
+  ],
+  "place_id": "ChIJvXR6z1VfwokRYGnzn7W9eao",
+  "plus_code": {
+    "compound_code": "P3VG+8R Sunnyside, Queens, NY, USA",
+    "global_code": "87G8P3VG+8R"
+  },
+  "price_level": 1,
+  "rating": 4.7,
+  "reference": "ChIJvXR6z1VfwokRYGnzn7W9eao",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Michelle Kang",
+      "author_url": "https://www.google.com/maps/contrib/117000237655164792448/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVn7-x4u368_Ly71GF6Bg-HR_EsBt0rp7xceQytTBOLzh5nu12Y=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "Philomena\u2019s is the best!!! I judge pizza places based on their plain cheese slice, and this place fits the bill. Delicious sauce, perfect cheese ratio, and a crispy crust! Plus some fresh basil and parmesan cheese on top, if you\u2019d like.\n\nI had the opportunity to meet Mr. Philomena on one of my visits. So friendly and welcoming! Same with Kenny at the register. Thank you for an amazing pizza spot in NYC! \ud83c\udf55\u2764\ufe0f",
+      "time": 1748921880,
+      "translated": false
+    },
+    {
+      "author_name": "Kyana Ifill",
+      "author_url": "https://www.google.com/maps/contrib/106902456777025553539/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUaeNeUnRjtKNWX8vgafBxQlEz5_9sAtCLZKAZf0MGOJcSEdW03RQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "UPDATED REVIEW 4/10/2025\nThe review below was Super Bowl Sunday 2025. The owner Dave was very nice to offer me a free pizza and to give his shop another chance. I\u2019m on a bit of a review kick so it was unlikely I would have returned any time soon. The ninja turtle was really good, I loved how chewy the crust was and the pizza was quite cheesy how I liked. All the toppings were quite hearty and it  was filling. I would have liked it a little less floppy but I know that would have been quite hard with all the toppings on it. Flavor was quite good so yes I would definitely eat it again. Most of all I appreciate an owner willing to take criticism and eager to correct it and not brush it off. He clearly cares about his product and customers. Please give the pizza a try when you\u2019re in the neighborhood!\n\nSo I ordered takeout online and the regular pie was not an option so I got square. They told me 5 more min, I stepped out and came back and it was another 5 more min. Fairly slow and pizza was not good but I don\u2019t really like square. I just wanted to prepay and get out. I would go back to try a regular slice but my first experience annoyed me so I won\u2019t be back soon.",
+      "time": 1744294209,
+      "translated": false
+    },
+    {
+      "author_name": "june xie",
+      "author_url": "https://www.google.com/maps/contrib/106936293891486961263/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVCZA5Z3LF3lswfFy_ZxZQEKKk489r3-tiDNBJXkilB4Q0R-a4cyA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "Always amazing pizza. Dave cares about his craft! Flavors are balanced, toppings are classic with a subtle delightful twist sometimes, and the crust is always on point. Get a square and a slice, they're very different experiences and you owe it to yourself to try both. For the garlic lovers, the broccoli rabe square is not to be missed. The eggplant slice is a whole meal onto itself!",
+      "time": 1730686796,
+      "translated": false
+    },
+    {
+      "author_name": "alejandro ghietti",
+      "author_url": "https://www.google.com/maps/contrib/100164508814576338559/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3Zd_XlbkZnvC-hET7xszTMZcZdmSNpUY3ZHpYdSuK1Q_z9fA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 2,
+      "relative_time_description": "3 weeks ago",
+      "text": "The pizza arrived cold, not even warm . I call to place the order half & half pie, on hour later I get at call from the owner or manager saying they can\u2019t make that order only regular half & half I say ok . Then they can\u2019t fix the bill I was at ready charge for the special order , we chose to compensate with at dessert\nReally bad experience with the famous philomena\u2019s pizza\nI\u2019m open to try again",
+      "time": 1748741423,
+      "translated": false
+    },
+    {
+      "author_name": "S. C.",
+      "author_url": "https://www.google.com/maps/contrib/109923895407581822835/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKHIDZ6X1gkgbU8FqnBWf1Huj_SYvTZb0x28CzVD6y940fFxQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "a month ago",
+      "text": "A Neapolitan style pizza. You can not compare it to NY style pizza. Now, based on flour texture light with a bend but not with a true Napoleon pizza. Maybe the fresh basile or other additives throw off the flavor to me was a bit saltier than sweet on the sauce. With that said, the pizza rates around 7.4.. I did have reflux typical.with first time pizza based on acidic additives. For the area might be a good diverse pizza. Astoria has a good pizza place as well as Middle Village. Each zip code has their choice.",
+      "time": 1748048623,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_brunch": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "restaurant",
+    "food",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=12284058046399998304",
+  "user_ratings_total": 527,
+  "utc_offset": -240,
+  "vicinity": "4116 Queens Blvd, Sunnyside",
+  "website": "http://philomenasqueens.com/",
+  "wheelchair_accessible_entrance": true
+}

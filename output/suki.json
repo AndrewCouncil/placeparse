@@ -1,0 +1,264 @@
+{
+  "address_components": [
+    {
+      "long_name": "208",
+      "short_name": "208",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "East 50th Street",
+      "short_name": "E 50th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10022",
+      "short_name": "10022",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">208 E 50th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10022</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "CLOSED_TEMPORARILY",
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Japanese curries & salads are dished up in this compact, pared-down destination."
+  },
+  "formatted_address": "208 E 50th St, New York, NY 10022, USA",
+  "formatted_phone_number": "(917) 613-4567",
+  "geometry": {
+    "location": {
+      "lat": 40.7555035,
+      "lng": -73.9702592
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7568966802915,
+        "lng": -73.9688777697085
+      },
+      "southwest": {
+        "lat": 40.7541987197085,
+        "lng": -73.9715757302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 917-613-4567",
+  "name": "Suki",
+  "permanently_closed": true,
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105436012284087737917\">Nobuhiro Seki</a>"
+      ],
+      "photo_reference": "ATKogpdWxhIPkdxS47wTDh0NI_gpMzQ6pTrQGa5AmZdi6HFdGWS7k5M8B4i8Wt_eDt_7V5Sc8Y10ttUgHyLn7h7E1tP2amVWVdkGwsyLQiIkvmu-m6im2zo_poMzdmzTFSzi1n6OlpsczozxwguRxKn5Vtc1Ia7HFMgkBcmtXi1iBJ5j_1YpSRMnlti4GpoNuiL_Da1XSQL_usiwr0FOw3PMqWWb8jWg96NutIl28uY7kI9DO-OTkV5j2CKiD7pBQNGieJBEyTwZkwBQ8_7oKlYSXxWkpLW4bUuyWjjAiK6d5ZRiMOTurkiruC9exBo0H4rzc5tqDNCV1kcA2ht1i8ILJrdoPyYRjyJpBLQWuYysNSpdomqfbjkyk0iPY0_lAmaZ-wfa5Sqi5Tx9ZzFTw5oN9haD9LatrqJ7aGMU_g3nGtihVw",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106933804621440495685\">Larion Santiago</a>"
+      ],
+      "photo_reference": "ATKogpfi6h_et_4XIdso_apJxg_1Gpi3kdTyU2e3Gu5NoW6E--9PBOd6QKMn2sFnHXAOoLnhJWpJqyd0aWf1SsvHd37ysUpVWBkBkTmeDoLHxkBOl1Z7sCUT_nI4-rLKvWDBrzUuO8V5UoVWWrdIa5YZLl9qxnxXUUmweODzIKkZLqWydm9Aj0ny_ywKN7KSZL1mCiWZMW5TKl2yMHsk_jRoIpAgkWlV9WP2HD5Y8vJNNDEHpJnsk-OYdea5aJgVZm6XA1E-Dpdidy7rpWSfmpUY5Og27OxUhlmr1pu1bTSyKzscxNS6wwAb4NjRq_8xo0mTRLH-egsfPE_bL_VaJiXvuOtGMTIopP3br8yFAGWvfQ_0H6YIgEu1sBRVhMT9uhnLTtft-R5QUR37tXxsS-GSeEnRBvbB2ToefPr82aaNkbXvbBMi",
+      "width": 4032
+    },
+    {
+      "height": 851,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118164073743099599409\">Chenxi Liu</a>"
+      ],
+      "photo_reference": "ATKogpc2gOBk2QAjS8jzoJ3gtAjlhEKuNUzqxfAonHGAr0RN1ZNJv1BZ6EtSA09C1egZ9WaUmdU9oENKtzJm2gMwwyP0qMeusnN3W4-Ze9x1SNX3oAumzO3A9ghnTAvU3_doGWF4xSQG0LShuG51enCGuYviQPhMRedLH98KttVcVXtpq9xHStEBe2sBBYG8q_nP2LbI2jXFgEpE3ZnQlhT75LAlYFAP-HUfwlf1HjGYfF0AYjtYgOZ69hkgWxz32xjRmNhKmg6-af8mntf54Pv0r7KTpkzniMf72V_ixjMHouXak-P43kUYxo4Y97dhl37HSiWgBorafzJ0WOlHvuqlETQCo1unXZeklFKpjbOpxVvsNRVfoyXq8H-5BDAqEUKnjAodUcNLKv4vh0eDFQV9bsEunDslaYqvK7dTYDyuob0",
+      "width": 1179
+    },
+    {
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108977133122053817960\">Maria Victoria Ota\u00f1o</a>"
+      ],
+      "photo_reference": "ATKogpfsAZuq729PqZZKoT4IOzLZPzBwPglLT-Wcez7P6rJY6Q8mV2iDAIJUBEff7kOUmJ8zJEgCbNXpmgMZBuQHMtHN6JLw6vGmLPP83MkgyZkYyQBCR2Gfoy_eVdqLqMzZaDrEAYgXCOJcmIsETR2Heh1JgkljpYrWbLywbGFo_5ReYPjxMXTHkexUBRJIle4eVmNt7oOhQKRqElkqXFmKlDympKxWy1rVSNMfcoJp9yHIiCF-OkrpY2EIJprABn_s8nh3CXwY-6vBr6GUmaApbmMa6MlEjBmsPi1FDUClXBjS2H9BHvK8ToYqgJTRz6EsuYjiodq8BIAt2hcYlRQsE_BwXIpwwRLAdEPadwZIwfn9NEmbH4btf1Z0qNcrf1SdqiP0DQBnoheN06ROzK6dmcnP8hh4KXQnfWl_v-NJnfMJDQ",
+      "width": 1920
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115095695647677579516\">Yat Sang Yan</a>"
+      ],
+      "photo_reference": "ATKogpcE1l5FSG-L_owYXKyHYmsP2VmLcCHQXIbpYma5RmSYDahC05hNmv2aO5EfKqMH4eU-Uf-_Bz3upV92PRCDdJJjb1FXaCZRi-TWOYY4ABnJaHP5wfA7rBes256aCCKch-1bhuFZKSx-qS9aextKg7xkMsKNKWG0G8w40YAJnYTohdXWCKppRiXYPIrZTBT_8pWpYiPyIoj__rfi-UOYypWCTU9iECRsypu3q6bzSUQCdabI2fiJ6rWRc4d96pbw5LPkUtZ-tXj1wZXysOGMTsGo643dekEtHYjwtgv7TMKLleisSfVcEo9K4aZi7Rhlur9-7bKGHBzqjjuUFPNaTBaRU1XHap8H1rED6-aKmbTyzeV4nbsTOnQSo6PkoxXqEiOhji4gg0uFR0dRNT2XrVEKZKQ3YCqFhc_3dx1trg00Ew",
+      "width": 4080
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100412701753014433686\">Cyrus Lee</a>"
+      ],
+      "photo_reference": "ATKogpeaYqLh2iG_2GK137l9UTulLssq9AFVfsdrkIZxCIBiqYyY4NBI0rnwuWgZjjbML86Op5S-xGFptKi2AanQ-GiYVNb8aOXvc_2db4mNM_1W-Us5I62gQyw-FUUeBWeX6LaD1zxZHsyG8kbIpfHUHW4KJeg91t-HAjvHjDxdxNWgL-aOkr4MLC0r8Ra5LvoOFIXdygz_8cEvViqtcLfgczoqqo_AGqS3laY2n-bQ4BVdr8Einu1yifyqc3LAHlJ1GSRqWL8WdWSeEUCIPFKhYsdjPXvVb4SVBkCpNlydRTO2ypQXvlOHPC34h3W5sg-C_2QftMjL1fSpnZrc8Uwo9-5iH7LAHFI6_R4ZhWq4n-hI6llkzZtWL_LbYd4bJRK2WolcOiAK_W5ikT_SA4lQIdvCUgfipMQLYCWzgh_CGxk",
+      "width": 4032
+    },
+    {
+      "height": 2048,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110868603367525416287\">Hsin Yi Wei</a>"
+      ],
+      "photo_reference": "ATKogpc04JxZtAz63YDdCyf2rbukbboft5UZaZgkeCDgtYXtkK_4HR-2fvRRK5X8nTvcmOMSLqAHPs48dQsCLBAwQAAE_cq3qijCEunATK7kPCExgqOAGEyulePAVz0m0tRQt61D9wdviRkAsaRO3uDAZXJoxN10B4qrrpeLwzk5KY5kok-tkXK0l0ipiDPhji6IjBAo7EBi19n8P9TDMv9KHe2JSCAwyOQJPY0MaI1CUkQVyxcBOH3DMyoA-0FC8yPYXyMP9U41ASq3Ycy6--nZmGcnb-HwVa8SbtGLu3jKR00ziVfyy4cz_9NrgdqqYsoo40EmvEg08iTjH05kgS94TWCmWtI1nqBt4YfK7nYuIn1zpuMNdqweQrcciSd7ZwS5oWn7Lockqf9cFbKK4WeIJceePXrykn9wy8B0iem2IqTn4kpB",
+      "width": 1536
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115095695647677579516\">Yat Sang Yan</a>"
+      ],
+      "photo_reference": "ATKogpdYG5TS1N3bIf10_qEdP34_skWrjpzSV_d6UtWgwyMSt_orIXBTLOwFj80Wk8hyIPZLYQtvwGApJY1s9ZjIDHoc_Nei6U8IGuEQhlgcvjYGMapQIfhj371XggeeQ4DU5onp5atb5L-NUKjcwMSk50HWbg_LAlCnBae9oX-NTx6yg5ir3giKkyJyUtPgdFOOnIgvCEJTE0bsSmUjwz127NnJDcgTfY4ZlmyIbwgHjzHx9eiT1Za1fEG6MhD4aYNqZjn-MWlOQ0mUc4kcZ5azPpVW8v1KCGda71wEnPGdveFtXYdcKXhThQmYsmnm4t20SB1pbBfSaDMkviR8OcOOaECBb0SiimQ_vQA9dT36l0ygWA0Lnw_YiioDlhGhRGiA6v6dOthS54KWpOtzadUxaxL9MUSKEcBHBuZy2r--Dv4",
+      "width": 4080
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115095695647677579516\">Yat Sang Yan</a>"
+      ],
+      "photo_reference": "ATKogpcIsyeWo2lvcuEP8JzdXIkbZLsX3TSGRBs2q3mimi1gFE36wNWm2Or23UHb9s4-kCV1cAYtTZl4k3CexQhUG2fUHa736gBqyFNqPMe6FEk7RZKRqicdg0jCQ0AZ8OWjLF6QV0To94szH0SP0bkLTHfhIgrAZ9pKcDWd1rBEoH7dY9tiE9wtpXMOYSbNhtrDWF6Rmt5R1TfQG0Ei18t_f1yx0GCqQ4cZzSn0XKkFx3vy_DwLvvW5fGHGhFE_bfc-OHO8iFM9KLOo3kiRvplFuPVqNxR1h1McilkMPtCgYhutNxXl-EEjnIPaiLZ01cTqly-1hWfZmEmJnoM39sPp6rjpbjzjCOwN8blLqpm_GI8kcEy1_gy95oIuIKISB1MseRgkVoxRIfWTf0PByKNZjht9lTgzdoi3htoFGykQRNC1Prbq",
+      "width": 4080
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100759775706660999173\">Teddy Lau</a>"
+      ],
+      "photo_reference": "ATKogpc3mSZ9-1eMktbfqvc0PbclI-qnX3e1S8oPD7wI_9_UKR1Vc1TCGfurdFs1XnUwoQeJDxWlDDa-zI5EpA-3SYm8BSGEEPTxtwY_NNMLA5VZRwur0rf3NZL1jKiTDe3unI1kIz4d7-lk7aoO6I4GSrAJI8cNT615tEF2B2-607QifGnj6yAk4ENi5xnks4TZgfzdbjV4RPVj7MnGIpfnHKMGp0KcyMQpTDyyYpPFJyBt_CLmY6kAynBLMtMxuNEhvTXr-fxblK4W1yLUMk3siW48Pu5cdoEKrgasP7x9CMXoS-YQfMVMHradUarbx6RF1kU88Xhqb0eAm41gJEYe5uvfgMdXf8w586jb3aQIzqNfX8coVHF4aUMgWT-LUyKT0_TaWTayYqvvniSIfdEMdseFS68Qe7A751vQStqNpB0jyOng",
+      "width": 4000
+    }
+  ],
+  "place_id": "ChIJI6Fyq0dZwokRzHGWG9_YM50",
+  "plus_code": {
+    "compound_code": "Q24H+6V New York, NY, USA",
+    "global_code": "87G8Q24H+6V"
+  },
+  "price_level": 2,
+  "rating": 4.2,
+  "reference": "ChIJI6Fyq0dZwokRzHGWG9_YM50",
+  "reviews": [
+    {
+      "author_name": "Chenxi Liu",
+      "author_url": "https://www.google.com/maps/contrib/118164073743099599409/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUSLxE3gfXV_qWseaJ799GV1K00FbwVA-b13K4FYvpqRbWtX0xd=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "We really liked the food we ordered: shrimp bowl and the sukiyaki. Pork curry is also not bad. The quantity is enough for three people to be very full. We had sake and it was nice. Also friendly service and nice atmosphere. Restroom was not available during our dinner.",
+      "time": 1717292429,
+      "translated": false
+    },
+    {
+      "author_name": "Tirso Ramirez",
+      "author_url": "https://www.google.com/maps/contrib/109336360615301093393/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLCZtby4KB86jOUOTUzDEEs4Gb7ZzYUF_z-9IziHVtkYQmc_Q=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "I had a delightful experience at Suki, a Japanese curry spot in Manhattan. The pork katsu curry and Wagyu appetizer were standout dishes among the various options we tried. The restaurant's ambiance was pleasant, and the service was excellent. Can't wait to return for another satisfying meal!",
+      "time": 1704172483,
+      "translated": false
+    },
+    {
+      "author_name": "Sandy Chan",
+      "author_url": "https://www.google.com/maps/contrib/116219687390639720239/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK3DfOIkUhCcxpUOopTt96itIPN1onlCUpm2XGHp8c_wW1h6w=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "Chanced upon this spot as we were going somewhere else for lunch down the block and decided to opt for it instead. I saw a painting of No-Face from Spirited Away on one of the walls at the corner of my eye and my inner spirit couldn\u2019t help but be excited after seeing that unexpectedly. This place also had something about it being Michelin posted on the door. I was a little confused, but after coming home and researching, I learned that it was 1-star Michelin Guide restaurant, meaning it was rated for high quality cooking.\n\nAccording to the Michelin Guide site, the rating is based on a 0-3 star system putting into consideration the quality of food based on (1) quality of ingredients, (2) mastery of flavor/cooking techniques, (3) flavor mastery/cooking technique, (4) personality of chef in the cuisine, and lastly, (5) value for money/consistency between visits.\n\nMy party of 4 ordered the Pork Katsu Curry, Yaki Curry, Shrimp Curry Udon, Chicken Salad & Miso Soup.\n\nThe Yaki Curry is the baked cheese-covered looking dish. It has rice under and the cheese was an orange-kind, probably cheddar or American? I did feel that it was a bit too cheesy for my preference, but it just being rice under didn\u2019t make it too heavy. The Pork Katsu Curry with rice was good. We opted for a level 2 spice (you can choose between 0-5 I believe it was with 5 being the spiciest). Level 2 was very mild that you could barely taste the spice for reference. The curry is on the side so you can choose to pour however much you want on it. The Shrimp Curry Udon was pretty good. The udon was thick, but smooth in so would recommend.\n\nOverall, it was a decent meal. Not necessarily mind-blowing after seeing the Michelin Guide recognition on the outside, but still a good spot to try out.",
+      "time": 1670805739,
+      "translated": false
+    },
+    {
+      "author_name": "Loni",
+      "author_url": "https://www.google.com/maps/contrib/112384680069000284539/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5r1sSxxo70rxdhl_Nzck9kjBxKo9Xi9TjO_8UiN3WCDY7f_YpiA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "4 years ago",
+      "text": "Pretty good. More like 3.5 stars.\nYaki Curry: Epitome of comfort food: Meat, Cheese, Rice and Gravy. I ordered low end of spicy and it still had little kick, tasted like togarashi spice. Definitely has truffle oil on top, that's the yummy umami waft you get when you open the lid. With the cheese it tastes like they were going for as much umami as possible in one dish. There is a lot of carrots in it which makes it taste sweeter as you keep eating, for me I couldn't finish cause the sweetness was just a touch too much halfway in, but will be amazing leftovers for later. Will be good with some oshinko (pickles).\nKani Salad: imitation crab and cabbage with kupi mayo. Also too sweet, especially when eaten with the curry. Just a squeeze of lemon would make a huge difference. Next time I would order side of chicken katsu instead of salad.\nService was kinda slow, but I was the only customer in between lunch and dinner, so I don't expect much anyways, it's a boring time for waitstaff, so I understand.\nMeal was not served with any napkins. But I normally travel with a handkerchief ever since I took a trip to Japan, so maybe it's cultural? No idea, but hey it's more eco-friendly :) so I'm good with it.",
+      "time": 1624564688,
+      "translated": false
+    },
+    {
+      "author_name": "Hilary Asher (Silent Music Photography)",
+      "author_url": "https://www.google.com/maps/contrib/107998932881683555931/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUr23wTLZDmhVzxVPufGQw1pvdESpAPMHmKnx4AgGvtRsgovlXn9A=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "a year ago",
+      "text": "I really wanted to like this place I REALLY wanted to love this place, a female chef, Japanese curry \u2026 sounded super promising, right?\n\nThe cucumber was too hard the tuna too cold and it was watery and bland. The udon very unexceptional and the chicken katsu? Overcooked and dry. What an incredible disappointment. The room is lovely and d the server polite but this place isn\u2019t it. Japanese cafeteria quality at proper restaurant prices.",
+      "time": 1712381008,
+      "translated": false
+    }
+  ],
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "establishment",
+    "point_of_interest",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=11327635940519080396",
+  "user_ratings_total": 345,
+  "utc_offset": -240,
+  "vicinity": "208 E 50th St, New York",
+  "website": "http://sukicurry.com/"
+}

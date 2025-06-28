@@ -1,0 +1,430 @@
+{
+  "address_components": [
+    {
+      "long_name": "177",
+      "short_name": "177",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "1st Avenue",
+      "short_name": "1st Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10003",
+      "short_name": "10003",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "2927",
+      "short_name": "2927",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">177 1st Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10003-2927</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: Closed",
+      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "177 1st Ave, New York, NY 10003, USA",
+  "formatted_phone_number": "(917) 388-2230",
+  "geometry": {
+    "location": {
+      "lat": 40.72938509999999,
+      "lng": -73.9843357
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7308005302915,
+        "lng": -73.98299306970848
+      },
+      "southwest": {
+        "lat": 40.7281025697085,
+        "lng": -73.9856910302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 917-388-2230",
+  "name": "Lhasa",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: Closed",
+      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102222285316567081260\">Victor</a>"
+      ],
+      "photo_reference": "ATKogpeU6gVf7DtYv7NB4sCVSvq5AMrCwbdgMUN_CaTFNgyqj7qQnG7ItuE41QVfean7cBQv1UoB2tktX_TDPjqgOvfENHcnnHC2EruQVHOv7NjXUIoLpAH3y1LoIhhxVhwmdqikm0Le-ZcXAKnqKJ1-PW7crSIYeimVCBVse3vmZpvaaDmkRlEtp9weU03NVKRXHTTs8yaD-AW9j_dh8qfrZ753rRomi3NNOck4kYKkLggjxveOtyF-SVmNG845QckfyGWmnUZsirFjm-K82pzv1FzdRRJZBcSiSIVvhKqkRo__FGubSsUuryWB03MxggYkiI9DRBRKV0jtMIeTDVs-A3DNau8BD8QYjz25LGrrD1DtbQN9eiM7AYEbYwFvYYka-4XpV0otLMFE1TxuFYHSGurTSXWdMoygiJ5xlAsr6Xdsr38",
+      "width": 4032
+    },
+    {
+      "height": 800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113529285062929298718\">Lhasa</a>"
+      ],
+      "photo_reference": "ATKogpfTTBNTFaxE8e1T0udAjxB9bHBIhCZVKyg9iIOTKmsoVuUp6fUsp00ArpIK4Iuaxy9FfxzKzDGGv1WfujWKpxNi1Zuc5QYHmgzdXB0ioYr633XATZXqG4ssxxW3sDE-jB6Dc7cFXPQteOMWkR5nh6N_0C-aajpGatop4rmh6SA4yG5Qa5HcqGuNFt3UKOFyvpoTi7Qee8BAzV2lZKaP5prn-3RDFluz46TJHGWJJjZE8yUMaohK4X3dzNr7PuwLgZEttZp5onq4gnO64gICQ4bQGkQ7XLT4XXDmkGy0padq-g",
+      "width": 1200
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113234612515325743830\">K Z</a>"
+      ],
+      "photo_reference": "ATKogpfscXvpv3vbAJB6nvojMBtVFiyVqw2ChuAYOBRfhrD6CN9eswmauhKa4Tk59hAku3NaCTy7bs07EtTHIW7jgujQwBfzBza_c4TUTPhRWrncOHd2qLdKZKR89NPI_jEHNXICMXfdoVwLMMGKAudFuPaaVzzR3LwVVX-EKBcfmaPUOfMdVh-9Y44RdL-2Y9vTxrJ4Py8u3ft_94jv6yzZM2US_seDvnI4BzCIFlL-eaoksSVWgF-CYSwEzx_3sDMRiXsxY8pjHJ1YvyhtExssZGmne1WAR6iKT6iFCtQOnU2e-Y43RGrDRvO7msFzUjirbPFeGSi8VRnPeKYyj3upSy0Yvqj9bRut-f-wnK3-M8_jd-HqrBSyW9Uf_glfLwfC8EOiS8pX2-aQq-jdbjgAIkC7zCSVadABH-m-_HWDBG6ioLeL",
+      "width": 3024
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107770886574208588616\">e m s</a>"
+      ],
+      "photo_reference": "ATKogpdpJIIv-LNN_fDjny3RuPomXKqKZA_4yrb9iRrY_wqmDB_ilJVRaGcWCi9CO51mcHkDqySKauyLepOGyUfxX0RB0xtJRCqr4kRqT04y7ApldvklOif4piXL_U-dRGxaKRjsu_tzUbkvgsPUH5MYavoNN2XMWvXTfA0XXKUZ6E421WOOHG7QpldqaeEMOBwZbZBfmJRVb0naXjJE7WWLAIO1ZO8yAht-QDBcRHnCQkcUndi7I8R2Fbz0Y41mi_vnx4oVGsphwuQ88BS3UNvTiUjGUyGxQ-xvfaXWZyE_hFLUc7LCar5kw-_V4NGeavCzCHYuGAHVv5lO5SrnijWdfREHoKLW4n8HP8j7-uZ-cd7oOUHJD28tw8u-x2ZMnrpYfTAplySyMZ-4FgZ2FKvqi21AlBqQiSeCxv0EKD08Y2c",
+      "width": 4800
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114955250538652050870\">Javier Kohen</a>"
+      ],
+      "photo_reference": "ATKogpfNmAoViVhz147KLPU3JI78pmBX_tpyd01RrXG9Snrlm_JTcyyl-kIc8TONswjuADoinKsCBEVk6RfgyHts3Filv7xoHWR7GRJbcWfBBahD852bgytg8CrhpB-6If7NRAgSDjHZePyGOns890uDY1TexxTQRYJ2mQ2Oe_W3_se8RLAlVMFdCZtPqRlqI3WUUWUkKi75beXKIKw95dkOCWCRqnnaaA1SmnBCtmAgFWRRYLKC7KCZlYVYc7bT0PlRQ2GmuBNcDWJ5FBZSAkFaOQo2wPYM3gdofsUaRhoxf9rUjz-zIyXlAlGfqlHx19ZfPKqvX3NM96JYcf9jJd8GzVoAi2Z_aWg8yGY3B_aic1WFteNDlVHHQgCFN1Id6Zrg96FE-lVL9wM9MWXvj5ct3rFvhaxFstqtMTt66h_h7ATE4OxwOndIdz4vL3fh0LWq",
+      "width": 3072
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111236411195835908794\">Polly Anywhere</a>"
+      ],
+      "photo_reference": "ATKogpe1jHkj2QDQwvzFKL62htTKyb327xzaazhtt9y-mmvzaGiC_0s9DYweP9hxI1qTjn03dc1dwO9PJ8uy5PxFL0JpBFZxBc3Sdo-7J7TVGHvNjinArY6bI2qMqnKB6vvIbunHeOHKXqX8F8f3ISk6p0UYT_8lyYCMtVOxPCZq1o_Dmb0psczdV-fbdQuOrwqnc0mJk4SVCpvvxpL7ueUIJvuX2fs-tnwjCL02-rzDDVxDgTk6zUuOWOGHometq1sVfnAdCQje--nyHlqlDW1DftoULXQdxd3_m6W9ij0ZFt2Ksm8wMuUyP0Jw9XqjIxCJgTQwTCl7nLcljf_SzDV3VLVTE9E3eYg-zXnAl6m-m-6evDnF3TKwC3yIeFbS5dni8zdEqQFRu0_-suyUE4rQFbkV8GZtP1kQK9P8VfhbDVEoM1Q",
+      "width": 3024
+    },
+    {
+      "height": 3510,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103445588069887468370\">Joseph Philleo</a>"
+      ],
+      "photo_reference": "ATKogpfI_ncVtTL8s8d_lp2zcYhIs0QG6MP6zxuFgA4ZadhLA9S73JlBCL0UsnoMn9G9GEWq9umPHhJpIpnLv5zoSxR6a5wdFVzJ7xKE9d4Eu58FeGUOUuNHcHIMqB231kSjnNMWS0D-Vz_kW3y4uwoYtw12lqeNelQRqXFFCUjSXL_P27OCmo_16kN-KCRViR_HH9_A7vEcZql34VEawss0UffIHC_Dz_ekuFkS3EYDmCU2cvM4AAt7gxkXVRq1s2-2LTUCvrfJjNU8Lq3NoErHxVMHRsouxBGRI6K7aZKADdj2rBuiCf_6_qw0Q9erGdeP3NLWchcQvAw6YxLQmpFzRAwu72xcTucJeC-qa5MplvFyTZCBc4UmaxiGvZViw0ZhtSxEd6wUJYSb1R3RAC7vnms4yr8yKaTxjy-tR0P-oCwfLg",
+      "width": 4680
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106688867265713461310\">Burt Lien</a>"
+      ],
+      "photo_reference": "ATKogpe18N3PKt5bkvhfiQXUPuDiiaewiyAIoq2yel2Q-sxdnWWTY-1MUwc7UXkzhH925kxFhhZGtoefMKii41FPG-JNglYzMh9EC_UbgmekD8YI1BEtHXSt7GNRGf1YBhsYpi8yM8yFyt8XUZ4YqA743czUx3EWLojZkr5zcdRblX1vhcp3agLY5CDQHTRLZ8ZQUIPJ0glhXuzoklEnlrd4Oq9jfSoflWthSGW702XU7WlM3b6WhCgf_GYi0d4VdJTrWViV9GMr6MK2X0ACSn6mfKp72sBhQQsfkiOSe9_WZJyNHTIoS62hNju2_WAEozUSPuvZ6mCTWOUFT7iBUFJ4rLIRQg-QMGJIAdlFDxCfCResTM6dNeCP7s0SvHWmJv3t7CHh556mUAQ-PM3RDyZdBdPFchu57RWY1vsWq9-k0oM",
+      "width": 4032
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116489729291038869828\">Fabrice</a>"
+      ],
+      "photo_reference": "ATKogpdzGYzvPOGAH-prGLidjm3O2lQJwi4rBDZ1e5wN9yVuK6fHoEPr1iYHTMktRjI8_sau4Qy0Hw1wwkP8wwgUiZXJp5MwUnmEGNEvi1Z6UyB6C-XlEXXJ7G96Z72BCUj5mnRPg1PhSArQp-rsS2-JsZMH7D-dojxOs5Zdn-8-DX9IDeJc9ZbIbuzE108V1CGi0VWv4csKOeclcWEWvzDGtYlSajVYRHaZtEpkvvbqjRt0_Vdry744komkYjqiKQM3IjtUvd_aZbI_0JO-fe17XC-L7yyXsUfLeevrWLihwgmv3XezVwE9smtNYHwUCfZ7-_WflSjaSCGqfd5thYE1fBVcLJyH1-GZbrfaDhFRlklhDR190TPHkxZbik2bYwis2wNRje6r4Vv33HTudKHJzHhVVR2MDxxhfbIFFhu2vU8s9g",
+      "width": 3072
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107558091680364785640\">tomasz j</a>"
+      ],
+      "photo_reference": "ATKogpfiS6L8vxNjkAGfsq-D1JZ0ks2YFi6Ao419Dvc8NM0Fq9WJCFfeHuCkTBY0vbWp6vs7bvesNhUQ4KWIkIjSxCn8HyYOEvT8G6mrvHLbOoKrtz7EocHq2TH56CUuMdSPnbjWPYmLpmqzaAEPyRSR-r-xBL9XumUvSH4yAjCGzpoMhM0EdRW3UWT8sbdB_s-UH0nnbHtBd5ObOq0TaabG9PeHgftynocx9iIgCA1crciHu1NBC3YQVNPvulDikcRvJVzA9pS9tWD73ejCiE9VZwh9jPJ3N4fV1dkLvTSmquvQcb4vtBcqJng3pw8uxsCtDMECj-Xb5WU2qU9BngcQA2i0HxPT7pL4Z6_gVv5LSOcJcLT-H-Hv1OGr_AZdaLBxl-EtVrZ6C2n3o9aQQDJjO4g8KfIK7NK1URxRgT8RcDM",
+      "width": 4800
+    }
+  ],
+  "place_id": "ChIJ44SZj09ZwokRqIeN6EEd_VQ",
+  "plus_code": {
+    "compound_code": "P2H8+Q7 New York, NY, USA",
+    "global_code": "87G8P2H8+Q7"
+  },
+  "price_level": 1,
+  "rating": 4.6,
+  "reference": "ChIJ44SZj09ZwokRqIeN6EEd_VQ",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Javier Kohen",
+      "author_url": "https://www.google.com/maps/contrib/114955250538652050870/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWpx_naboFyS9hPV2vugnqK3-l4129suf5aMbaPbgYVN0P1ZJku=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "3 weeks ago",
+      "text": "Simple and good food. A still rare cuisine in NYC done well and definitely worth trying even if it may not blow many minds. The chicken thentuk (flat noodles) were super tasty. The \"sushi\" dough roll appetizer was a simple but fun starter. The momos were very juicy and flavorful. The spicy sauce is a treat, if you can handle the heat. The waiter was not paying much attention.",
+      "time": 1748929778,
+      "translated": false
+    },
+    {
+      "author_name": "J Y K",
+      "author_url": "https://www.google.com/maps/contrib/107890678258394934830/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXxtmrIW90cVpxHxvMdbJ9dcFQd_Fovegqdc17aq2GbiC3pvJtK=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "4 months ago",
+      "text": "I got curious about Tibetan cuisine so tried it out.\n\n-Butter milk tea was pretty interesting cause it felt something like mild beef soup made out of bones, but with a hint of butter scent in it. Can\u2019t really say I enjoyed it cause it was too new thing to me but it was interesting experience, so no regret for trying.\n-Noodle soup was unfortunately not that good. Soup was too mild with just little flavor for my palate, veggies in there felt too raw for what\u2019s in soup noodle, and noodle\u2019s texture was dissappointing. Pic in the menu suggests it\u2019s red(spicy) but in reality it\u2019s not.\n-Dumplings were pretty good, although the style of it wan\u2019t really new to me. Dumpling dough was the version that was made out of potato, so it\u2019s bit more transparent/sticky/chewy than usual ones.",
+      "time": 1740530540,
+      "translated": false
+    },
+    {
+      "author_name": "Martina Ruseva",
+      "author_url": "https://www.google.com/maps/contrib/109650804599673358678/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyesK4_2M8fzwLhHLC1efmDByyNWLk3bknTemqt48KgF9_kvGw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Really enjoyed trying Tibetan food. This place is super chill and we just popped in without reservation to try something new. Their butter tea was like nothing I\u2019ve ever tried! The food is a bit on the spicy side, so let the waiter know if that will be an issue for you and he will offer modifications. Overall, I recommend this place for a casual night out when you want to be adventurous with your food",
+      "time": 1705370358,
+      "translated": false
+    },
+    {
+      "author_name": "Arushi Kulshreshth",
+      "author_url": "https://www.google.com/maps/contrib/100688640759383674860/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX1qGjzZuvtlL1ur7DDZhejW-P8ybA8q_HQzROanoGTOyhYlLw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Very cute and cozy place!\nI had vermicelli noodles and they were delicious. Staff extremely friendly.",
+      "time": 1743966701,
+      "translated": false
+    },
+    {
+      "author_name": "Marco M.",
+      "author_url": "https://www.google.com/maps/contrib/108762370128570044912/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW-uQLEUvaR2ubsrDwCn4cmH9FKB05ehrtZvoV_0L0t3FDS_CtD=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "Delicious food, fair price but not that filling. Could be bigger portions. Contains a history class on india when buying the Ruppee beer.\n\nWE LOVE EAR MUSHRROMS! FREE TIBET",
+      "time": 1743467363,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "restaurant",
+    "meal_takeaway",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=6124083237205411752",
+  "user_ratings_total": 301,
+  "utc_offset": -240,
+  "vicinity": "177 1st Ave, New York"
+}

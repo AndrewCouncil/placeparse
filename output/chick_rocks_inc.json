@@ -1,0 +1,458 @@
+{
+  "address_components": [
+    {
+      "long_name": "25",
+      "short_name": "25",
+      "types": [
+        "subpremise"
+      ]
+    },
+    {
+      "long_name": "136-20",
+      "short_name": "136-20",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Roosevelt Avenue",
+      "short_name": "Roosevelt Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Flushing",
+      "short_name": "Flushing",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11354",
+      "short_name": "11354",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "5661",
+      "short_name": "5661",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">136-20 Roosevelt Ave #25</span>, <span class=\"locality\">Flushing</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11354-5661</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Tuesday: 10:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Wednesday: 10:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u20099:30\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "136-20 Roosevelt Ave #25, Flushing, NY 11354, USA",
+  "formatted_phone_number": "(347) 368-6181",
+  "geometry": {
+    "location": {
+      "lat": 40.7593046,
+      "lng": -73.82913429999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7605200302915,
+        "lng": -73.82815036970848
+      },
+      "southwest": {
+        "lat": 40.7578220697085,
+        "lng": -73.83084833029149
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 347-368-6181",
+  "name": "Chick Rocks Inc",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2130"
+        },
+        "open": {
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2130"
+        },
+        "open": {
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2130"
+        },
+        "open": {
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2130"
+        },
+        "open": {
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2130"
+        },
+        "open": {
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2130"
+        },
+        "open": {
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Tuesday: 10:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Wednesday: 10:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u20099:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1276,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115438790183770899288\">Chick Rocks Inc</a>"
+      ],
+      "photo_reference": "ATKogpd-XSkByp4nvAfVB46iAhXSowhvtFpOnckthIiYw1QGckR9_IQ19cf56ayD2syX76RXz40IDN8l6tYcX2j2nzIvJe529yd_sMoFN7zi2Ooom3t3qP_8AHPUEspQhO_XyOATGogX9fzNC15Q99fb1AWJkfJxZW2pabkVFTNLRKn3qIVIRWEEvF3XjyNpTA9NFU5S9UL3t_HMxHvCBNy3BKS6fKvYRE_vL3UAubFJQyZFpAaem5y2cUI9O41lxa3HnXu5aVK6kJNfwJ8QB_nIPA2LiFdjj00KKNPjqQL4UiUEEA",
+      "width": 1702
+    },
+    {
+      "height": 474,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115438790183770899288\">Chick Rocks Inc</a>"
+      ],
+      "photo_reference": "ATKogpfpVXtefSm2D6pbSrwn7qD6Nv5JRy5LVdyLKDhoFF9uoGJXKm6QruTKoQq0UwWf7iaR6R0VpTc0vEr7rRByAT7JpD0lI-1fjr25cqII0Y-5NVdaccAQHTrMZ0FQxFo_gce5hfXDCakXzeMRGaIbI7bXlovgHKQ3Ixr1hezvkcIR6BFenfxwrIF-QjBlb-vN64EKWd0lpUO_ZaYNkEvr2rCJss08QkJJtTUSaB95Pyc-jyiF7yMXwcjKKl67bhCfOltdbH-AWFKqck76cN_kl8peqDAynAtP34ZKwQtpPzt7yA",
+      "width": 726
+    },
+    {
+      "height": 1274,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115669779561965803211\">Kin Tsui</a>"
+      ],
+      "photo_reference": "ATKogpddHPP05McsUbyR6OnOFEObLbXdthYOV1sUOo1OJVhPEGg9jwVykox-3Dw-4mWBsA_80g24hxPEMr0Z1zf5CXY-Ov34lGR8_LpxVNPhQSyp0FWVHzS8nQW8iq1O1URohptQLcTNYETYDlMYxmIvnSlgdb6I4905yp_AYkiBdmJmAaXu6M3AbB_W_tDz4kbHOUrHzcq4yuEUNwQqyJBHHttfqBGLpHzVZtf3rjDqYpbERdc8mcJ-RrKLwLNuWPSStjkloQkn37yXZYRgxoGSci12edwPivd6P026nQV_B99X9DxN8Om8yqIIDiF6ga6bAXw4Mb6wmNe1621XpLRW2oQOHTG9ADezvM5V0xD6SpmvnvhfEFeXHx_B-JJckvwjsTSZQyxxKPaj5JO2QbvHLHIfP_jH9srhlG8DEX50Ph6riQ",
+      "width": 2281
+    },
+    {
+      "height": 484,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115438790183770899288\">Chick Rocks Inc</a>"
+      ],
+      "photo_reference": "ATKogpfiyf-FMt8EJC0icON54r-69TbNb-fM2D02zsFZn9Is_vjSwpBoFHAmnjN16rceiVC_KqQJcHP_AINPlcGCOZKNBIFLSBhbR60mXG5DlQFdlsdtxq3rZDk3wOl8IMZ-eBv0XJPimv_05MMvzDKHNEp2yRGnUSQpUPS1Cc0bhe33Moc9cMR1UO9Cpb-9LZe_BkRgRGkfDFpJryB5Wp3C9Mp5zBG5TrHZ14lxTQfySkkVcBT3hGh_f70ZvfuVxGCMKG-2S-pN30-Ek_RKnYbLpzGBBEXb40eVOAosTHS4nWd03g",
+      "width": 726
+    },
+    {
+      "height": 1280,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115438790183770899288\">Chick Rocks Inc</a>"
+      ],
+      "photo_reference": "ATKogpfVNoGpe7ayS6aTX8XcoO6kLNThdLtDVTWapIrjbUcxC0Ik0MUnQbRYRLsZOC9h2zyNyK8Rllx3CtijlI4jZ81B97Pio0gUid9uOjlZ5Fl4xrB8DcmzVFGNgvV3xuxNttGiMrvedBqdz3YXn9rFq5kDBCTxHg7-dQaw6asmOkfWpkMudpJsGLM5AAb_KTIUe4uBegkfqno7j-DoCCCTQjVkkrh4vnHWc85KILmRyDkKJ9Q8MxbIS2RzDuKm2r36fd0LrULGI4Czz7CEBvduONuVS_IQxzZDsmxlTzHJtxOqkA",
+      "width": 1280
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114009410165974718727\">Not your ReguLar Idiot</a>"
+      ],
+      "photo_reference": "ATKogpchFqnoVL6sjp50LeWPwrpldmvm87JxNn4HeO3fIO1k5IEDoPQSnHBlcKNQiwQQAfk4ESzaFl-XbhkbjFq-qxS4HiHHfoaWppbBE89VVLH0IjHUyJ7QxJtm91nH0tq1jWsguluJVhI2NvKuz5KN51zFntwX8B6PiKAz3hkqGRKLFZalzSoSZdvimXL6mryE5DmPk_c2J_Hv8VC-qMZ3-GUT8DMs6SmEb4du0ODWNKMv0n1Q7xpKle7sy_uGLsiZZAU9QEPxSdMaRKKKjxy88w1Afna12q-njBGa21s4mHxD8nzpKmk2BL3Qp344flHuJpmE-uqZjdMnTbQXH2_bSHpnA7hH25X_wvfHkoDYhCxSo9UxsPwMLWdBu0Yw2C3SwSasXSrHT16156Tz3jtmw_It11pJWXedQ6Hah6jJpFbPPQ",
+      "width": 3000
+    },
+    {
+      "height": 484,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115438790183770899288\">Chick Rocks Inc</a>"
+      ],
+      "photo_reference": "ATKogpd6A5Esd57MK8VsAxvYahIZ5nwUb72Iszww3ui2u86GvfddHyYZxu6cvZu9mYe0WUMf9vy3E91FC6DP0RFY9i2s5l-RvbnImxJYzZLSJz7GDU4XN_5VaFfveujErWFdcovXy2mnuZx2BSS4qj1ooH_t5TiFr9TdPgz74V1Li-zf8b1dmW-FjVvJNID1JrppkORTE_19HdSHMGu5lPj_8f-lD_r6XEPl1ywbcWf_BuJdoUOR_240fB3O3UqfG4L6ug99RpdyAdnNqH3hhfdBwFrQ7jszipeVzYiMO2BclY8Uig",
+      "width": 726
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116166982007237307264\">Gregory S.</a>"
+      ],
+      "photo_reference": "ATKogpfMB5deqkcBYRnD5akzPZIrIwbg1OswuXX7XJP1FMHSGjlyqQr7p_esOQUmopurZzjtOKqVp3ibq9EKPoGvH7tk2ntzOJKoOiGCJJzCIcxTqefkp0xpBQZzBruKyWJ776euGX7_81HjsRLfYLEWkl7efvYuCAfmrIPLBGlCgBgDId2JQnsRAcKKEEdbe0FEJOVyjLVAhuVU8WH6ntFQuHR6NfB4XF96dKsO-zBSHTlOVF5hw-tMj_yi9zsdKGgn8GNVGd9o93ueMLErh3MLGiN7d9fKkV9lv4XDlFa426o3OL0O8UChvOC6IrtX_fikgoGDDTjJfa0FgWSKcbQ699FAzvame7fsmT2VyI6BxnF0fOReFkK2wlBHtMze9-fw5NzdhO23J6kdWvbI6t-wngnoLBHxzUEmezylDwuZFMY",
+      "width": 3024
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107508462843467662936\">Cheryl Woo</a>"
+      ],
+      "photo_reference": "ATKogpe8ZU6CPMXWzC4AaHnPptDVH7Ajb6nGGFJer4XNiUYBd79HVp9jfYeM68KAykOTwDuPZ3hPqTE0X4I2IM3NSNvRoxXVoKRkml702xpTeGO5cbWlkBieYOhiJaJf0P0TYG9rCv6ekuXMFzM7flMrFpNlT2j_suGyALGrf0P6E1k3PiWkzODaY_HTKQ4iHNWmbstcZmHHgaQKokoF9YlVgjKrdP38UxGjxVYTjc5AhFWDVa1Gf7YZG63i5FVGk3O-rv8LWent0rsGuDI7Nz2xI3yOyPVGjbb8bV_xfQb8wreL5M6qh2tbDZvpPDcEYIrvcRI2YeRe-kQfllGixOcFHlmXPxzJt0F-7-7YAhldg1c36iSTzQeG2ZRTw6NbGP7TZfSOR2OrQy0AaVdrR84eECTAbmMKjyVPWK25KSzNGA0",
+      "width": 4800
+    },
+    {
+      "height": 1024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112124305465857237436\">Cheryl Pink</a>"
+      ],
+      "photo_reference": "ATKogpd9JDOvvzA_zcUUyJlwRgfK6VUmCmPB6xMtTFzoG6LI44IhHGqjnBb1tnIc3qC9OIbYKTf8byxS_Aq_tUb_Egn5uhBU29ibCY40O7B_rTaH2tmnjeYAAGqB74NZqlBvjFLxw3bObyi8_EZTXsU1MC7tiYUQqIL0t6euYq4nwxEBOKtYYIyUGY6NM6cIu3tzqmBFFkaqsMoYvGse0vs2FH-Xmhz-JpBN8M9T8pSUEZUK4SS7C0Ow4xoCEoWRN-Fk-0qX7-4_4A-UAzS66cuyKRpHMCS0tfewMWNxyW516jqc21isD1ZO7stZ6Y5hw3o9B6lMs0bxGHzs7_oZQBQjYz7AjBqGt75Y6exY9qhpiz7rqzHKu5nNGOuwYLWuEOLJmGd0r8DSvc8tIHGzCbkcKXRpG-kkpNMyBY7p_7pjEB4pdA",
+      "width": 768
+    }
+  ],
+  "place_id": "ChIJo0N1P69hwokRrkN0pexhRgs",
+  "plus_code": {
+    "compound_code": "Q55C+P8 Flushing, Queens, NY, USA",
+    "global_code": "87G8Q55C+P8"
+  },
+  "price_level": 1,
+  "rating": 3.7,
+  "reference": "ChIJo0N1P69hwokRrkN0pexhRgs",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Jeffrey Gomez",
+      "author_url": "https://www.google.com/maps/contrib/110926037576051324071/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSdVhPoqMn90f-3FZ97PoYafgr3bupeTraruxVDosIOmqXy96E=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "6 months ago",
+      "text": "Chick Rocks is serving up affordable chicken, crawfish, fries, and much more dishes. Located in the New World Mall. It can get a bit packed at the dining hall. Besides that the food is pretty good. All the fried dishes were freshly cooked and seasoned.This was my first time trying crawfish and it surprised me it has that seafood taste but it\u2019s not fishy. The crawfish was juicy and tender. You can get it on a bun or in curry chicken spaghetti. Also, there\u2019s a variety of sauces. The service was good. If you\u2019re in flushing queens make sure to check it out for yourself.",
+      "time": 1735032720,
+      "translated": false
+    },
+    {
+      "author_name": "Cheryl Woo",
+      "author_url": "https://www.google.com/maps/contrib/107508462843467662936/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3zxLhpdfcbp2ihyRgBJxDsu3DjkJY5iCVapnclZeoscwbUSOf=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "this spot is located inside new world mall in flushing and they have such great deals!! they have combo deals for $9.95. their fried chicken is so crispy and juicy. their menu has a huge selection whether you want fried chicken, a burger, a wrap, spaghetti, they got you!! their milk tea is also really delicious and it\u2019s only $4.95 for a large. definitely will be back!",
+      "time": 1714830971,
+      "translated": false
+    },
+    {
+      "author_name": "Gregory S.",
+      "author_url": "https://www.google.com/maps/contrib/116166982007237307264/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLxdR9O-eELQ_4XSxAf8jiZeyJ8kaR2uVbNjUCajXAH6zxoEyo=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "The instagram deal is the best, the woman by the cashier understands english and helped me get $5 e certificate/reward program using apple wallet. The chicken sandwich is the best, their lemonade is super sour and tart, their actual fried chicken and mashed potato are pretty mid. But for the price of the deal $10.83 and how quick the service, Chickrocks is gets a five-star!",
+      "time": 1747495276,
+      "translated": false
+    },
+    {
+      "author_name": "Amelia",
+      "author_url": "https://www.google.com/maps/contrib/106623882990849129290/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUsvy-WDgNqoBtDtyZ-xncIJc8rgmCvyB6UzKGjEdw1Vmjl-GTnOw=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "3.5 stars. Located inside the New World Mall food court, you'll find this stall on the left-hand side, in the corner as you descend from the escalators.  The menu boasts everything fried chicken (in a burger, in a wrap, popcorn chicken, chicken wings, chicken nuggets, etc.) with some side options and drinks.  I ordered the 10 PC Spicy Chicken Wings ($15.95) and a Mango Sparkling drink ($4.95). If you're inclined, you can also order (for an extra $.50) any of the six sauces they offer to dunk your chicken in; I would have done this had I noticed it when I was ordering.\n\nThe chicken wings had a nice crunchy coating, wasn't too oily and the pieces had lots of meat on the bone. The spice level does creep up on you; I didn't notice how spicy it was until after I had finished the first chicken wing! Luckily, the I had the Mango Sparkling drink to help quench the fire.  The drink was delightfully refreshing with pieces of mango and slices of lemon.\n\nOverall, a solid place to get good wings.  I've had better wings elsewhere but the ones here are still pretty good.",
+      "time": 1658745132,
+      "translated": false
+    },
+    {
+      "author_name": "Dianne C",
+      "author_url": "https://www.google.com/maps/contrib/116701799065113005156/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIYxkHQphogsWtB7ySYdN9IGs-8tGWqUm5pgHc-shCgxF-IJLR7Q=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "This is a new spot in the new world mall. Overall, the chicken is super tasty. The spicy chicken sandwich was spicy and had a lot of flavor. They have great combo deals with a drink, chicken, burger and a side. I recommend the fruit  sparkling drink. The service is friendly but prepare to wait more than 5 minutes.",
+      "time": 1702396168,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "establishment",
+    "point_of_interest",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=812444451802989486",
+  "user_ratings_total": 60,
+  "utc_offset": -240,
+  "vicinity": "136-20 Roosevelt Ave #25, Flushing"
+}

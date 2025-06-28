@@ -1,0 +1,497 @@
+{
+  "address_components": [
+    {
+      "long_name": "911",
+      "short_name": "911",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Fayetteville Street",
+      "short_name": "Fayetteville St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Hayti District",
+      "short_name": "Hayti District",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Durham",
+      "short_name": "Durham",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "Durham County",
+      "short_name": "Durham County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "North Carolina",
+      "short_name": "NC",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "27701",
+      "short_name": "27701",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "3914",
+      "short_name": "3914",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">911 Fayetteville St</span>, <span class=\"locality\">Durham</span>, <span class=\"region\">NC</span> <span class=\"postal-code\">27701-3914</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1830"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1830"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1830"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1830"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0000",
+          "truncated": true
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1830"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 6:30\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 6:30\u2009\u2013\u200910:30\u202fPM",
+      "Friday: 6:30\u202fPM\u2009\u2013\u20092:00\u202fAM",
+      "Saturday: 6:30\u202fPM\u2009\u2013\u20092:00\u202fAM",
+      "Sunday: 6:30\u2009\u2013\u200910:30\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "911 Fayetteville St, Durham, NC 27701, USA",
+  "formatted_phone_number": "(919) 450-6351",
+  "geometry": {
+    "location": {
+      "lat": 35.9844952,
+      "lng": -78.8985536
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 35.98584358029149,
+        "lng": -78.8972813697085
+      },
+      "southwest": {
+        "lat": 35.98314561970849,
+        "lng": -78.8999793302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 919-450-6351",
+  "name": "Ama\u2019Gees Jamaican Cuisine",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "day": 0,
+          "time": "1830"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1830"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1830"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1830"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1830"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 6:30\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 6:30\u2009\u2013\u200910:30\u202fPM",
+      "Friday: 6:30\u202fPM\u2009\u2013\u20092:00\u202fAM",
+      "Saturday: 6:30\u202fPM\u2009\u2013\u20092:00\u202fAM",
+      "Sunday: 6:30\u2009\u2013\u200910:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102868870596122847050\">Imran Uddin</a>"
+      ],
+      "photo_reference": "ATKogpdyTUo1F8ods8ePDgsIWAQ5dOA4JGUMNQnJsqIvzIqBLVqyxpkmSH8Kklu26gaK7BUwEGAlESSK8-HGgCFGdoNiCmCEaYvhoFctnrgGI-XeZcga06cKkL57137L0flsjfF7a53eADyi--0V5eyb3tWjWGzEa9XaknzIz1EK69W__ZutmHIdMB9BcbnQP3COfrdBGQ0SmsYYBlZ417paRopDFAKYeklZWuhIfdRLLGHwqLU1WxQ66sA7RVEj26ZJEIvNFLDeUp7N8R8oMqLjOSjbraDCd9Wo4LEctHVRVCHpAwN5v5cd-tLx_I3esQMGplJEMH-a7jIZayaK3FlStWeo1_X7kvU6jptZ0Y0JWvZhjq0-Supvnrz4b3LaRW0DGBsFauH3IribXLqkb8g1SRPRcDkzC3N_y7FjGr_ODKDJCco",
+      "width": 4800
+    },
+    {
+      "height": 2939,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115672881460025017524\">Andrew Turnbull</a>"
+      ],
+      "photo_reference": "ATKogpebMLHywTPECpnEVh8_QANCK-8pIShM4PPEjOUWX5pTQ86mX9b-kEuTmJBjvQRJC1Pkf9SKdrk6DShzEfR6D7iUpLuasVP3NFg_1oU1MT9oDtAoxrSFy1jce-_YEnzwvKzc1w-FQLt1PFMachRgZWsDE6j49XE99eKxWBObe2MU2G0yDFcx18uxCYB4mI-e4SYUwowa__hib00Ne9JyJgEBAQws67k6aqWvobSrpjQ1Kym50JLti5gIfIJs7g94uOSWNaO7MQMobzcHtuRMueVZKd06GQgtLIViNGuXIi8HC49HUG9mNXZ-5Z5_Lxp9YQ_MpQWaCTCiVzBanprgd-y4xrICmyGT3FQaQtXxSijvIaaOsQXIVMZH0_U1NtpgGd6wcGcdJY4pTu774hg2W5R79sRIxNfoSza1Y88SCNUdzxZzNn0KBiZqsE0ZjlMN",
+      "width": 3918
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115672881460025017524\">Andrew Turnbull</a>"
+      ],
+      "photo_reference": "ATKogpd5FyDcDFeqr-_JVDYzQB9s8nDtDqQQePhYVGd4bC09ltP9GjtBqfNoNsFUfCHMbpJx38pIl1VZAwAK58XMMi-E3mPeJwrOQKsLCblmJGuoTcGGokEUNyOeHtk4LJU8tkoogrIwo0fWhtgaUTP_jBRuvrynXFdFLoRPFgUEpb3fcAmlIgLm2t6XY1xMxekB2dJVtusVhhcw6YOPoTLEZtWqjme9xwVikU4vwL_CwLpHX28rFq-hquQxbGOUjvG05w_kQQtzzGX1e9T1yVolTic_AgjLGuvn0CDcSQsYeBn07wN5-Nrz1K6P1bmQgUR_GLXCYa--mVr1xsNcvlxvkcJlhq_niySrJmCQEqxC4YSb1SkQxNgt2PvPTjAEPTGzHhFztT1k7zWeAWDSUUTLkyRaFcMGUtRNYwIO4wNO4rI3uz9QlG2j1icwpchbypRo",
+      "width": 4032
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115672881460025017524\">Andrew Turnbull</a>"
+      ],
+      "photo_reference": "ATKogpchuMWO7osAPTsbKz7Jz7W5oOKr06DM8St-9iu6VlFa3myFAEpMwMhbxyCfvdKlIpl5LhaDpj15SzswA3TgEXPKqrEKAVcKtwlaunCXs56dc3mWZO-ZbgNtcsyzs8uHrZIAYjXKZCy8CQRYgkLKy1bfgsQzbCAd0wY3ouRHtmGGt9y1L0wwwZHuBuRbqrc7CzB3uiPIqcsEZBRI4gnPEbZkVuOD4Nd_ctPMwM_MPD1t6GdhEsce2aNRp26Gv99kM-J5POZOuMLNzgIoKzfj4n93J_1dKqmuQPGJo6kJm61OwHbN0ABvDGVuSHTAoKBuBiD3sAAIklO1cZRtiVMFnCjM4gS2ZzjT4xcGRSQl7sOA-ZGr0AIgWNfpCv986lJc-shv9GihXT4WO8B_cbzvyXz3bjub9Wyc8BBTnREsg4SnKAzJ9EfLPCfPiCV6l8eB",
+      "width": 4800
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115672881460025017524\">Andrew Turnbull</a>"
+      ],
+      "photo_reference": "ATKogpdCYiId0I6s_x7oplen9a5rkulJBzidxZ1zhPOY_i8KLSIZIRgPU19QIeOp6ZSe-wnEgEyL8EE4kiG6PmNT7hysnMYZLGH67XVlGzAVxewF8Ec3HvKi-_VI1uyR-wmDw9ysf7gm9ySYAxyQPev4EXCC2JiPGSKodH0-aZ75mSFsFhLp-nt1GPqKZXEbzv67yz9j_KLcJJTeCYN6D8wGrjwW7QsjYOwYi74ilTdnpp5FXt9dWEwYlRuNhUFK7h5SLiH4weldvJov4U3c0NnojqId01-EIz_RXKmn1Q0l32kQKG3U02MtS34KI1zoEFC53KJci5EhPA3Cs92gaT_8ljiHeb1VnIyDwYF_fYv35wHxHB1O5LLq0rKwfYU5N5_rrIqbYjEKVWukD_gv7DkSHNovkCWK1Nyt2k9D8JRuqYHy3ycGEV3JpXOMMI8JSY4E",
+      "width": 4032
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115672881460025017524\">Andrew Turnbull</a>"
+      ],
+      "photo_reference": "ATKogpeT690T0jc2MYvQ_HU__Ddj5yK-ddjLKzeU4QOz5d1EbFty0KYaD6hTugJsa-ib5_q_T-66OfTBoG9jVO8isXdb1H1tw5iG-DzGurWmNLnaqHMZPjfj1LXob_0-NuTLuBqYWP-NiErf2Frm8-0el02ZIm_BB_2m3Qx8vDuDpO90FQxCdVaZrMX6RfXVOEYoB7ZxBlKwfn-TLPUAj5th52Djo5aFdyBT8cr6u3dOvHA0jkNp_ZE6wxfM0vxTxKWkUihBjtQiFlZlIEvdOKA8t4wfgDi0Pjiji1skqfLFbmMsuULFPmMPtx7ZrZC24vZAsvyN7HxkLBWp1VbI_LGiireyswCEe0TlFa5GdF-c3QC9rWZnjO7NBvlxMu9NL0nJPHvtgcB-8hrkfLQO82kBhGmRvRQ1Fb4Raje0O1Q5xXRTsygVr9FqEdwYHac59iA0",
+      "width": 3600
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102868870596122847050\">Imran Uddin</a>"
+      ],
+      "photo_reference": "ATKogpcW-RBp5otxgzM8n1CQoMVL7iBPWVn8XPZ6wgoGMyomhwvhbet28LujGPh7TJyzioMj88bQZLvJE3jxYSIFxDQSJaxn0vqcUh_PmhXZ1peK_Vqee-PtTjGBaWApQQ2ehv7N4t91CxWFfVeLSaFzRXhqjrcyFFZWVvNdXxxrHNSJsjuQjhAojaxadlxIBzvdI1PolbNa5vXbkHxQMMQ4voW99pfburD8WbAYQJPsxK4IGzy1V0lqFChH6rQL09dtp7PS7ugvcu8DbrrZ_ae6KxWW8Zf3XzSrvHFDlt2E21VOblVIWjXKvayhTOH7olR7L_PuDudOIb5eExhVj8AnnJcfhaK5Jt5kFZPoLCw-i83zvVyNz1MuOVVJC2FIg9t96c_mFRxHRRMMqiF-bt1pXNFzQLGh9ZUx6yJol1HHCXbnKA",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101110414579548243791\">Deena H</a>"
+      ],
+      "photo_reference": "ATKogpeVYLGZc-QKMc8z0_LNrEkc7StO1SRyMqGX2sdOulaIj1s3eDmlOxm9KnGp4u0rkn9Ak0YQivKrBo4MGP71lMwhSIzc_GBtkU9U8gkB1qIO1CfQJ5Gwj5MtbpLD86Sr-kW-LCFC6leKnyjltAN0vQWS_FA6AfjDAcR1g9dDjn4r0fDCMqJTFUJ5ZJ5ah4v8ICD8r4wEQun-2hiKwdxOhn1wuRBFbKarD2xVy6rKMHm1SPc7f1EzJxn-VMf-jlOfilFtXpYRXQqaCuP1GWP486mIy1XIL5Ggsn2cIAaht1LWD7fFN3KO1iy4YI0nmAWyeOEZ5Y6twl7z9WsKP9N1ldowSpNdR8B-_2sv-p-kXy1FbXLM__tsoPcrnALfura16YgerHKGaM74dR-2BsxeBy1dAr4fxgUEGoikKY3kFf8lIGfh",
+      "width": 3024
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102868870596122847050\">Imran Uddin</a>"
+      ],
+      "photo_reference": "ATKogpdn5gm6kvVc7ifYvtoZz7EGq8EyQjvqQR5MiOUBRuJvhiUdxJj43BTsM_fyS1uspTBB-UKyeTPZ-jdEijPy2KSGPRK6YBemSISTDTMl7hU2nyjSeWTzlcwwcKncOU6rNr0ihijAKYfevLjyE1eWGUe5wLw5H5YRiJ8W38pybeiIc7ltaojfLr9jZwgPDpum2sKPM2KsluZ-dDO6z7D4A-rxEycpCnpqWq8ROUQL-o68b4MLOYiKYY-LmR2kP4xEGdF0Vx8WwOnBN4QoIby278hNStP-uKe9YrujmaekLJTEbGQBsE65D2wx9wP28fWuRkg_fEWgEG8wRFZ7Xt-2vnPNjwdLuaxmrMQg7eS1AdldFX3kc6001nnMzwVYeyfvGr1xREAWb-VUiJpT5riLeyyRXCnNme74nR1_AG48zbonyQ",
+      "width": 4800
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115672881460025017524\">Andrew Turnbull</a>"
+      ],
+      "photo_reference": "ATKogpfKfhVz34niPE_Wq0_vflx5qXvp1kT3libQrhqT3IUY1T4T_ZeD_RRsPSmK4vXshKkw7GOy1bKCdc4Rk-a-wLcmh2Pe-1n5TcYcTfPAi8uj9-coh3igSvvGat5nUze-aTMZF1rGC-fHBvCJZ0Lm3o3szWmKjiASD7EexwizGJj7I_hayWcFGlC71CcVcvoL4NuZdJts7ktO2lOiZZnMTEDseGLIiPEjKYv2qZ2o4uS5aLB-vISKWaJlXGwQCyL-BMIRbhBbzor6h69dBo9yEFpOfLHLtiD1WZLlM81OA1knS4qPLbwmmXkrw2UZX22Ak5WgSGqjbE3QstYFu7pwtvEkL0gG6uDyjXL-aCMThcN9JbeoA1gqeZNw51wRT6HQFoyzhat5zmLnQJ2ZqaOlL84tl40IcvQnEAF2li8r1ZgjtbVH8lzqkHXH5FMbD9nl",
+      "width": 3600
+    }
+  ],
+  "place_id": "ChIJJxTLMcflrIkRkm2wS8WglaM",
+  "plus_code": {
+    "compound_code": "X4M2+QH Durham, NC, USA",
+    "global_code": "8773X4M2+QH"
+  },
+  "rating": 4.2,
+  "reference": "ChIJJxTLMcflrIkRkm2wS8WglaM",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Elmona Reid",
+      "author_url": "https://www.google.com/maps/contrib/110218019659924513515/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVKOkR4H-PvFy6mchANi633IwZAGgfV6oW-kNyDEDgZP0Mt4hM=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 1,
+      "relative_time_description": "in the last week",
+      "text": "This was an expensive plate in my opinion. I was charged a little over $18; chicken burnt, no plantains either. The cabbage lacked seasoning. The wait was pretty long too for food that was already prepared and served room temperature.",
+      "time": 1750898344,
+      "translated": false
+    },
+    {
+      "author_name": "Jerry Taylor",
+      "author_url": "https://www.google.com/maps/contrib/107692150024648047579/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVVHEutLTDxDS62dR_zaKxOXioFWtw-sFb5lIQxGCYzxTDYx80=s128-c0x00000000-cc-rp-mo",
+      "rating": 2,
+      "relative_time_description": "2 months ago",
+      "text": "Very disappointed in the food that I got on Saturday. Spent over $44 for two plates, just to be receiving bone scraps. Portion can be better. Food was okay at best.",
+      "time": 1745248441,
+      "translated": false
+    },
+    {
+      "author_name": "Omar Helmi",
+      "author_url": "https://www.google.com/maps/contrib/101781529194483413860/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWD-ae7qC5gOL-bHTHA9zLllYIwR8aesnXsIx7LQzR53DW44eB6uw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Best Oxtail and Jerk Chicken in the world! Sauce is insanely good! So many good options with generous portions almost ordered the entire menu! This is a must have go to spot in Durham, NC. We came from Greensboro, NC and it was a million percent worth the drive! Will be coming back again to order the rest of the menu! There\u2019s nothing on the menu that will disappoint! Everything is home made with Love! Much Love\u2764\ufe0f\ud83c\udf0d",
+      "time": 1706973658,
+      "translated": false
+    },
+    {
+      "author_name": "Andrew Turnbull",
+      "author_url": "https://www.google.com/maps/contrib/115672881460025017524/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWgWTf6EMv0S4CXWugX-nqAjLu7aANoWjoLPNr5tIoBA74IJx9b=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Great late night fund. Did not disappoint this Caribbean boy.",
+      "time": 1749968671,
+      "translated": false
+    },
+    {
+      "author_name": "Breanna Marie",
+      "author_url": "https://www.google.com/maps/contrib/111649956026908225633/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIX0wjpPruySE9q50WLC8IUkbLhUV93TWnw3UJ9MkwUsQpuJU=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "Made it my mission to stop here before I headed back home an hour away as I\u2019m not in the area often. Best Jamaican food in Durham in my opinion.",
+      "time": 1748829652,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1930"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1900"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1900"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2330"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1900"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "2330"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1900"
+          }
+        }
+      ],
+      "type": "DELIVERY",
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 7:00\u2009\u2013\u200910:00\u202fPM",
+        "Thursday: 7:00\u2009\u2013\u200910:00\u202fPM",
+        "Friday: 7:00\u2009\u2013\u200911:30\u202fPM",
+        "Saturday: 7:00\u2009\u2013\u200911:30\u202fPM",
+        "Sunday: 7:30\u2009\u2013\u20099:30\u202fPM"
+      ]
+    }
+  ],
+  "serves_beer": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "food",
+    "point_of_interest",
+    "establishment",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=11787504368950996370",
+  "user_ratings_total": 52,
+  "utc_offset": -240,
+  "vicinity": "911 Fayetteville St, Durham",
+  "website": "http://amagees.com/"
+}

@@ -1,0 +1,426 @@
+{
+  "address_components": [
+    {
+      "long_name": "111",
+      "short_name": "111",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Rivington Street",
+      "short_name": "Rivington St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10002",
+      "short_name": "10002",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">111 Rivington St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Wednesday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Thursday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "111 Rivington St, New York, NY 10002, USA",
+  "formatted_phone_number": "(646) 287-9153",
+  "geometry": {
+    "location": {
+      "lat": 40.7198165,
+      "lng": -73.9879359
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7212271302915,
+        "lng": -73.98655726970848
+      },
+      "southwest": {
+        "lat": 40.7185291697085,
+        "lng": -73.98925523029149
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 646-287-9153",
+  "name": "Kalye Rivington",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Wednesday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Thursday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1535,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116058710817127813017\">Kalye Rivington</a>"
+      ],
+      "photo_reference": "ATKogpeN3LhW_5fBf7DTsrPyYwwMrLJyKPVFJfoLe7liy2q9sr9PTTkOqXYxHyOOcSdGR_E8vLO1c_dyypcHhR531Mjoz-uFBOJdezxz2-aIQT5sqy2WOVuCuzhsr1kDOow77wG9TpNPTtxjQsZLhiw1wft4uMr8I4YwRHlXC1jU7Q3OcTSk2496JORl1t94JedHEuvTvQkBiae3BG058cKvqXWuw-m4rQJ6F5p88ZDU8zzaIOoHY09aNm-nifbq7rLyr8ikMfL5aq3upcGproGLexElqPwDwgZ-5WHts8FhomfhRw",
+      "width": 2048
+    },
+    {
+      "height": 3549,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116058710817127813017\">Kalye Rivington</a>"
+      ],
+      "photo_reference": "ATKogpe4_6TXjY60iYKNlnmvbuZhtBf2lAvrW_LcV42DfTo6kX7MJC1w6Ag0DIt7-s6gAWtWnyQdi1zkYqHa_DGAJpY8ZcTzRSOwsNeq1YuPjQnR4c8do4w7qmWaItQFh4Kg-bdAmm9o7-l8S5B0PkRHfP0ULlmtXpkCL6ZcFSkjZoyRPTfbduy6VaDNGP9cha0jdK3UkTpeWoqV76gDRsBlvUQ55-7MKAHBWvNtWzdnWlydsX6u8g0Ls8XH_jv1y_jZ7rpwEKw7fO7FOKdmApoHFuz-NyM0olfRJigcCN5x6hLx_g",
+      "width": 4800
+    },
+    {
+      "height": 679,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116058710817127813017\">Kalye Rivington</a>"
+      ],
+      "photo_reference": "ATKogpcJNy8MeVQbIS657KR5PuXd_5M3wQTPQuWzY3Yw3DKDWsGB2Zll3jrtEMEuZ6T1c7UkcxOGdsf_4un99ocv2aKoQcENI8oAc9zDn26iP2mbmkKR1XNWl_qi9ICD3nxuRNaNJOFyOwIMQVlquFixEXmyIVxolicS-MhaB5h30UwV7uYT9QplyiWW3Cq33AXxHqnDfwUpT47wn39Wqfd1A369bXNfA5cfPh-jdX4Csd2GNi1nfaN5DeuDER4DOWma-jiYts1LGi-T1UPdOxKPmeWoZG55xFWR4OBetBno8jQEhg",
+      "width": 1207
+    },
+    {
+      "height": 1532,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116058710817127813017\">Kalye Rivington</a>"
+      ],
+      "photo_reference": "ATKogpcjFKO-qKFw6ormG-a0_L-IDhEUmd6WvjowdAnAZ9BXQcsvSyomsiaSE7M7_nnvkA3fF34-Kc447HLVvQPcSEnvG6_Nam8KxK82zreHQy_Kh0a0pJlnAJkOY8lp2QTAeTOySuEQFFfct_UXT88AIZfI3Gev4DCg5LGHk8-8L--l5b_z_pQuly0vvhkmpkB-JWPFKtLEBU9Xwc2DFTCt0Ivsz0-C3Md14T2SRUkGhomFZ03h9bP5FUhQtJTCmjV1EVd-mGeQith4GIY-6kzXk003xo9OLY-bv5ES83_y1A0dXA",
+      "width": 2048
+    },
+    {
+      "height": 864,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116058710817127813017\">Kalye Rivington</a>"
+      ],
+      "photo_reference": "ATKogpdUX1oiJ8GG-7KVQU0wL-l6DWIURjzpgP1kWNvcjHhtHPN9g-QL39sexZSizYR8EHXdnsSb0iFO7MSqEvnws6LnKc-gdprGT_wRDFooEAbc1J_gxWraT8kdn9d5YxLKu5z4z3I2u0m5NbfsLa1llwJnojbusScFtqKU8Yc1Ow_GDvxOehKcK-xaElS1RzmEmtqfuh4NRmeGEHHFX4jrNSlJsFNZaq2oDJ8IJ1_0oe_qai6jyfcNwwY0lRb3xWW4G-4xl5FGf-7OxaG5K8vwSqO-xsigOuRNVWGTLqweJwZDZg",
+      "width": 1536
+    },
+    {
+      "height": 720,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116058710817127813017\">Kalye Rivington</a>"
+      ],
+      "photo_reference": "ATKogpc-8YQX1xKz4-GeOTf7yfm9zrP2PAYotx6bQCbjGgTgK8htAtLappgTkKKzi2SD9gUyuBUc01o00PiFhf1EfdVL0MKmRcLLTepPYKFxr7Bxt2mkjkIwkHpBc6PIRWfNxo_J9r86T7Daje_OWNQUuu8TwjspzxkAhIfUAY0wXS-A32qm04Iy4By0tTTIGqnMMwEUPpukuRF2upqk_vubSMQnrQ9rGsgk41FE1k5-ZV1p_aj3J1rxJSlhQpsw9CvL9TQhKPy8BbeHb3YlFabHpapnvIAfsbzRphfGVENFF7tBPQ",
+      "width": 993
+    },
+    {
+      "height": 1415,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116058710817127813017\">Kalye Rivington</a>"
+      ],
+      "photo_reference": "ATKogpfeP870era0oo5KT6xRrEawI8UElhoAiQKWNZ3-gNDSj64NLpESD60GEGHHpwhpKW5WNHHrbzQWqDh_9zxN5Ar6bqa9-VfLVa-qUDsjRVhSNf6Z4Jdy74b2gEjAVI4JTJ3ZMKBlZrasWl2e16dgow-Vw3ASL_32OBMBd7QAlTLlkf78CLALGoBapfv5fdHsA_R2B7HeKDFx0x2tU6rhIxOlyKY6jWY2lk7ZjfSJHecQXVNZ1lA3Mk_BOjYkJk_SCPgeSZlEjUQXHgx4g7nZWM9_Rh-LoFCBRuSXQxq-Z8qZ5A",
+      "width": 2048
+    },
+    {
+      "height": 1398,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116058710817127813017\">Kalye Rivington</a>"
+      ],
+      "photo_reference": "ATKogpepY_V9pY7mB09rbfN5r5w0D3pkeqOLsfLzVsRKm_RbBYK8Oj4WIqsyq9wSoC1vQ9JvngzXdqHOEeahpbJQqz8YZp9rsic6z9iH-WSElVw872-OnUO6EV6F31E9GFXbIT0ABeUksZgumV11KKycyZp89dvv15FH7dVVqRlEAup5I9pvpF40WMuzQOHw7GPbmm44C3_mTJEhXYgV4xttLe0ToACRk1fD65yodpF3nV6JRqKX1EAuxFKARGeMJ1O59cL1xclRmHWLaUbd_-IyNj-Pd-n3lrrOrPHZhKCTVKE_Pg",
+      "width": 1179
+    },
+    {
+      "height": 1562,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116058710817127813017\">Kalye Rivington</a>"
+      ],
+      "photo_reference": "ATKogpfka1X6HvfiyMb9mKeJFA1BQKMxF2YD2qSya2V0DCzhaK9r5ye3jfpJVb2LFp8y8WDju-tiQIkcXjPq_rlgyc5V_lmp7afLuJDOFsBWhnXILBaD_FY-TPJYqG5Fl6hSeqDRpCFHxuzW6G2m13omL2RWqFYkZFVfC6IO5UQE1p9KwvTwlIODlQvCpVHWI3ZiqvH2c2f_C-wrzUOgcieN-Y92h4Dr2pcjaZ3jANIBSGoSdQUZaKB_QdtBxTjmvZyHLyJr8sYHEUXF-nlknxXIXbD2V7svUx2LKHLSC-1qvtRKsg",
+      "width": 2048
+    },
+    {
+      "height": 1663,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116058710817127813017\">Kalye Rivington</a>"
+      ],
+      "photo_reference": "ATKogpeDsebOsyLRqjPIK3c9g-XxJSgMb5YMEoJ-VbalEqHsdYbJQhlizunMK0XJmEnDAqiNlpOsTZWfBTbKG7FIsPUFiXYRj30UBLRzgBB2n5i4b-Kj-AFSLpHgtYAneszlf5idjeqoiDX72ErF13KixKSGn0pp4b0ZS-FMW0smq6wXTqQLM8jfnT8xVH3TmO6YqB5lh8Nx5peOQZdDJCvGCOBPxlrS_VS4dwLoD5-jKtjH8ij4iOYecC1McI792v6SI1AFtVzmxzXlaXlNRuUNPIn3j6yW2jk-nPz2v5pmbBHXRg",
+      "width": 2048
+    }
+  ],
+  "place_id": "ChIJzxi2CEFZwokRGLb3H5aeHDU",
+  "plus_code": {
+    "compound_code": "P296+WR New York, NY, USA",
+    "global_code": "87G8P296+WR"
+  },
+  "rating": 4.8,
+  "reference": "ChIJzxi2CEFZwokRGLb3H5aeHDU",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "R S",
+      "author_url": "https://www.google.com/maps/contrib/108528715069049643781/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ6l-ZUGVQZy1TcNq0RXh6S_vD-1VtBO3fE7e3lhXPjomPMiw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "We had a memorable retirement party at Kalye. The food and service was fantastic. Damila was very helpful with me planning the event.  Thank you again to all the staff I\u2019m looking forward to come back and try other dishes in your menu.",
+      "time": 1749628924,
+      "translated": false
+    },
+    {
+      "author_name": "Pauline A",
+      "author_url": "https://www.google.com/maps/contrib/102400401631915023686/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKlfsjzGwHU6irPw-OVovS5rhUfQs4wSNREo9TvvrjjbCJJhytV=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Delicious, reminds me of back home. Sisig is a must try, and they don't play with the level of spice! \ud83d\ude0b Restaurant has cool hip vibes. My only suggestion is that the 4-sided cube each containing a QR code for a particular section of a menu is overkill. Just let me scan 1 QR code \ud83d\ude29...I shouldn't be flipping blocks to land on the side where I can see a list of cocktails.",
+      "time": 1750393943,
+      "translated": false
+    },
+    {
+      "author_name": "Isabella Olaguera",
+      "author_url": "https://www.google.com/maps/contrib/103166320834839033199/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvRmhVMI2ifyaVjXtUbUiCmCwiItufcSNOip3uWea7lzjMSWylYA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Had a great time with my Filipino dad for his birthday! We chose the Club 85 Kamayan (boodle fight) which was a ton of delicious food for a very fair, affordable price point compared to similar experiences in Manhattan. My favorites were the Chicken Tocino, Pork Skewers, Longganisa, Seafood Gambas and Inasal rice.\n\nTruthfully, as a Filipina, I found the homemade Lumpia Shanghai only \u201cokay,\u201d but certainly not a dealbreaker as I have higher standards than the average non-pinoy diner. While the Ube Ice Cream was great, I thought the Mango Cheesecake was too frozen for my liking (I don\u2019t think it was supposed to be like that). The presentation for both, however, was excellent.\n\nI also was a little off-put by the fact I wrote a specific request in our reservation note, and despite being the only diners (around 4:30pm), our server did not read it. He was nice, but showed a lack of understanding of the food being served, which was a touch disappointing.\n\nOverall, however, I thought the presentation of the food was impressive, the meal itself satisfying, the atmosphere inviting, and the touch of an old-school Filipino movie projected on the wall very entertaining.\n\nI think this restaurant is best for a group looking for a tasty, fun food experience at an unbeatable price than a harsh Filipino food critic. I would definitely come here again!",
+      "time": 1744242076,
+      "translated": false
+    },
+    {
+      "author_name": "Jaleesa Johnson",
+      "author_url": "https://www.google.com/maps/contrib/106698622851752158207/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIrvLLtgjv8V9HKTsli-He6en_jmLS9qcA9bARAeRf5Cvh1VI=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "Loveddd the food and the vibes! Never had Filipino food before and the pork sisig did not disappoint! I\u2019ll definitely be back for that. The staff and bartenders are very friendly. And the drinks are pretty. I got buzzed after 2 drinks. Plussss the live band/karaoke was hype! Perfect place for a pregame in LES!",
+      "time": 1737085887,
+      "translated": false
+    },
+    {
+      "author_name": "Aldo Araujo",
+      "author_url": "https://www.google.com/maps/contrib/104240917719499264039/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLpft_RcWb-otvr2yTtGZ3JzvPO3DzbzdfQD-DVYpnjt5zXJQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "If you\u2019re looking for a delicious EXPERIENCE look no further. Kalye is the answer. The food is delicious, the drinks are craft and tasty, and the ambiance is amazing. Depending on the night, they program cultural events, have karaoke, drag brunches, live bands and more. I\u2019ll definitely be back.",
+      "time": 1744590470,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "establishment",
+    "restaurant",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=3827108150976689688",
+  "user_ratings_total": 175,
+  "utc_offset": -240,
+  "vicinity": "111 Rivington St, New York",
+  "website": "https://kalye.com/",
+  "wheelchair_accessible_entrance": true
+}

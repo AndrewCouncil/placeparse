@@ -1,0 +1,430 @@
+{
+  "address_components": [
+    {
+      "long_name": "7414",
+      "short_name": "7414",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "37th Road",
+      "short_name": "37th Rd",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Jackson Heights",
+      "short_name": "Jackson Heights",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11372",
+      "short_name": "11372",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">7414 37th Rd</span>, <span class=\"locality\">Queens</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11372</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Compact eatery specializing in vegetarian North Indian dishes and street food staples."
+  },
+  "formatted_address": "7414 37th Rd, Queens, NY 11372, USA",
+  "formatted_phone_number": "(347) 848-0097",
+  "geometry": {
+    "location": {
+      "lat": 40.7472139,
+      "lng": -73.8909126
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.74861258029149,
+        "lng": -73.8895558697085
+      },
+      "southwest": {
+        "lat": 40.74591461970849,
+        "lng": -73.89225383029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 347-848-0097",
+  "name": "Angel",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115985096031029878992\">Adam Sah</a>"
+      ],
+      "photo_reference": "ATKogpe8Y5ojmhB0h3W-DAKco4uu9cLByQJYJNWugxcob1OtyjBNe64ZAd7EW0atvrO_Wt-QorySmAIST1nAAvDmG0tsP6tvx0tBuhEG7wJdy8uCRQsf-eJWwna20qc5pbePFAIBKvpc9KspjF_Kj_8JMrKOJTq9Y6MlXt6QtpQTtMS76tcxWmWwXYQlxEA8ZO-845UsPZCM_shgfDYvn0kZ8mdwz-uMQ5X7WTqDW_Bd0LCpG6d9zSwTY0szYU1NtFKEL7GroliEY0Vm3OYQYwoIjaQDjtuGhX92SjUbbl5Yp53w0sGbAmjeVwelCTgghDQOxOycpgMnHdiy5AVXYxuVRiCcRA-cB2xRd5WETRrW6Hst7OANz5G93DXLUERI2aIC-MPLWybXXxx7jzRV10aYvLRfmwz5uX2oGJD7yZO5yYSbew",
+      "width": 3000
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102710065230682961169\">Keya Patel</a>"
+      ],
+      "photo_reference": "ATKogpf8fpu2BK4jg5UgclSoKFPi-Dgl7TFfFOvfFtk9vu_MAf6lfyUiCyUoogyqafBcBK9Y7rHzoi9jt3_xT-pWBiyqUO5_xV8yqgRf9w_TR-4h7B7J_wiba_96ZO0kn5YLQHjqaLZ-Ze8VgZbMHGcK1dro3Hd5ClpGHM7DZpdjHHjLX-FNFUHkvyWPHkRHdlztsKxP704uHTrgO82aO1_RPRYfAl7X1qQQ6Ef2L2B5EYjCW0DK1K45YtTdPHt90nVJxigfoZwZmKWyJQ6GsJ1xBIDDfpD0fypNgM4d1KmsLrBhaKuLXzc-9QlgHRxRuPnkvgpZX5VakfgK5tLpzkjHVWt2aAKcJ2kGex_LoG8tNxTmvgWxvWzjs9VHZmg5KqxyNqqGrRrEzyD708d5xpnqaoj1zE1BIVEyn9Bb1j08K1x6EA",
+      "width": 3093
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101503359746343785979\">Austin Wu</a>"
+      ],
+      "photo_reference": "ATKogpfJeaFho33upeiPFWSs0DkuwlH1ez5qGigWihLMCs8sG-iKLzosh602cmH2KbqhbBsMfPosD_CzdZGxPUc6aAg1ZiwDEzxmukZzkLykXEZEu5KnYxkM6KOgP_5dY26uupyQzJvGDpB7WXV7EFiLaPUTLv2aKtl72qN5CmX6UbilykcpIclHCKD8Kg31t2miQETrU063vTDRkMiAI59mAhORqEP8aI-VidMcpebdz0mppQAioFI1ZcqH8scet6XdXdXLlqCYItDL3z8j2gcUJreJis2ZMhcRUS1HOOwl2O8JrG-YVjwv5ojMXrldVwrGoYYI3ZcqLXG0JWtApTKIXDjEIdWuboOQuKDravnsuiSwkr6VZ0ZaLovNf8etREF5cViXXP6yVdYGtZ4AL4UY8FoVTKYsB4yNP9bcOaeMgpI",
+      "width": 4032
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105496664564047858626\">Saim Salman</a>"
+      ],
+      "photo_reference": "ATKogpdULBTdCkM5mf1Z3kJzws9zM2Ay-Iin8f4M_eiQA9fnopiX2Du1CKn_DrOdan_eHQRlXGZWUl0WSna6u9LDAqEbuNjCtnajB8EYmrZKMRuOFh0_P6LYtNbsy8wZKI9QqDj1thFt-9dBKpg4zWAZQsUADcEE9LZDfJEM2jRC5RpfH3RaUiN3eoqB3l2Y7-hFJXEjZMyKIY0wtugTN4tnCugBOeT86AQdm9jc7uHkgdM-defG5kq0Wo_7CcnMz-8hnbl1TsAVML_klflmSwm9VI20slwMYTs7WnhDlV-c6tg5Qjazh4X9a_ILA3Zsxpk4kjfRY1quFzF4cXtGPWjpg8ndWqDEtGIEZyTLfNGBkqe36WZKMV4UCD7OE3HQ4-WpHenuaklsUtWokD01KVjWg5rDrcf4QS2SRA3RRD5cCKkrtXzG",
+      "width": 4080
+    },
+    {
+      "height": 2189,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115385787685679726663\">Jay Singh</a>"
+      ],
+      "photo_reference": "ATKogpdwkHSOHp6-JykQiHBYpMHpN1YFR6TdzAoJeNyRhlbKD4tOsm3uP6UF0LSnCo8Gfd2Yh59DbiG8fuF9tgWFnQhuKPONQJFf7ZmSPKD2gTlf0TBa5P6pj8Amc_Rh8B0BRGCQuYp1VX_mEXqH1r1DxuW8pQWTKWfU1DuCe_eRCHQ7eoVqp7jxu8L3NTwq6zdczhrj2M5r_WSmJMnxCJEJkfNrXW5mmqH333uAbz1_YBuEcdm7vFt_juH18OxyhYaOtBtw_VSZxIY5eLk67OXKg29srn2yDgk5f8EFjepXFVOBGNGFk7vde1q7pMnesVCAZEM_Breg_WxktiCf9_uVz-o8c6P1UtXLeI4JhXXU3jHlLr1W4SVN91zt6P3GDd0hB70_8FucqoX_nW7BdaV0-bjfZpd5mjf1m5IAROXoYwEALQ",
+      "width": 1848
+    },
+    {
+      "height": 2010,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115385787685679726663\">Jay Singh</a>"
+      ],
+      "photo_reference": "ATKogpedbwtkKktIC2fozrVqniv6ezlzI5MWvpUzmatJQ9jrweFGMkCGeIosli2lrjucZ3EjLaaz0ohjL1selcOx8uteQTqR9-UJsLPOUTW6aeLtmybp4_jzDy7Aa_0CofnEdboqK8ETXy0jks2wdXSa-mHds66bQQA_rlWLKYsDg6OQcPa443QqS3YDNEkQ-xZLap0nz9Adas7p7rzJK5gfgUbrpVp8t_Ub6Rbxs9asjD6uVIWhjOGYLsRXCVt0m6UotvYKp26DzRbeTOKQp4Ibb5caNX5WuVPg-mB3Fj8g50w0dcSaEQm_5gujfSptXxgxA0HK-3xT2zBPDy1bugYIG4z5q0iqMZRTtQZnR3kn_ewokWObeiYugbMvWMw4HC2haYFbG_Lr806zGvWj2WCfyubW3EUP7m_gCocx7AC6kYdbjAKm",
+      "width": 1848
+    },
+    {
+      "height": 2634,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114139670366354586830\">Suhana Meah</a>"
+      ],
+      "photo_reference": "ATKogpe7TmdpHXOn1gSwfBr0xmtj5-ytaQZkZuYHGgnRVYkvN5Nle-E56SYwy667NcsPdOk9cEyryYGpeg_m2_OygkDZsrMpKf_J_gXRTKC_fHnukym_qm1MORBQXoz0Q8H9_EUUbV67rNJ5iJCe9G0ArxZWRdDqFm8okRGr_qIAJg3DM7aSCpgwF1CAioJ6mFyCk--CCQXXkGM8tpm3iu8hrUjObOD8T9TuIsGjuKUV1TlMNbBNUvZMi3PNbyusnTsN_PbBd6Gyhv3bRG4Dr-mpLt7hpXujtSWHXQW30QKClWSCY0H4fW20H9eOyDgl5EuMf5ZmBIAQAZIyGgvl9S96dzy2Yn0zoyiJBcBplD0F-6tREUYNx4fIYQ-VT0s2sB6MZgFPRcIhp_HNOoiBIhkUuXIEAOyisV6KVJwdUoLHex1APw-v",
+      "width": 2570
+    },
+    {
+      "height": 3456,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107583403171538620082\">Patrick Zajac</a>"
+      ],
+      "photo_reference": "ATKogpf6BdXaeFn-v8jUuzAb1KUIo8nbNJYb69kXqE5FScYWfohh8WLu-jzYHcQeBi2whe8EQQqRgrLEQFigT1FC73k11_TCUkOIFPlOSkUo20_oJKubwybsnxv5nIT8Pj0VGCoyWXZc9s7RMqNQuvyqb_EBpTrISdE18aRB6G49gIDMSa6bSjGeCUJk6qWKhE0sb_iwPBl9zrXf8n79KjH4g1f9FQJt8mMLhSUOjw8lePlwpWZbaqSRQNsqKH5CpBuDFGsNPlN6jZC-HdaA5Ly0t4-EVMoE-6ee0A6nonARY2OR27BGS45bw58SmTjxS506OAsoOh2Ik2pCZkKrqoZz08k7HTl42K64b-yZwVx431qmFeS07wBZ5tQzukOdwXnQwAL4mxl6-fny_SMbXeLW0BvMRlnsFGagQDjmL4Jljs0MhBXK",
+      "width": 2592
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109298754886166899053\">Wonsuk Oh</a>"
+      ],
+      "photo_reference": "ATKogpcosa2mLZaHYa6lCYe-umQ73rxJbQYv_MQu5Q062sesZffTZXLX4lO52-AEBTB7k1U_LD9y--okyTiPe1pUvuaRhvGusoVX_qC8VMBPWBC-xl7Wn_VZAi5S1_7Lu1nssTfmEKQaNS9x63cptPP3KbLwTHpsWmm6yRl4TfqyzHcDG72qorJN6SO7fDrMK5VdduyASkTORIzAmZQm7lRle2yAsFpxiiWNhqYeUYpEQjRBqFJWOjlGrQfTHdxCMZxxt3Qw0OVCW5lnKtStSvp7FYY0w1AfY74VHB73BFGWWG_Gj7r4ysXPYjk2yKplAvctRmCKlDrz5FRF-YkM_GAg6NQSdg3_VBFgjGHH46TeQKXp2OjM8bKtrovO7wI6jy_pm4TIhSHHrwiKqom7iC-tL0xYgx9OoRNHWfEwvRxjec5KLC-F",
+      "width": 4032
+    },
+    {
+      "height": 3636,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107583403171538620082\">Patrick Zajac</a>"
+      ],
+      "photo_reference": "ATKogpcWml56z1Rp8q13nGoalxxtVxH27wjW08hNrGJKLKTC5OdF9OIRgRZzJBewX5pg71dW0Imyy8JpliEirKG8iXRL88z7nG_Fjc2vXjFzRd-DWpbbp9fwI3a3f3a_bFbRDO_gJNFyeZGds13ZnkYeNOGt3JxD_mXmnr_VuKg0EO8UDaU8kmnHGEeM-IhqPved_LaEmLvYG5MijiHwYOQBzr-CaadroEgjcsE9bbMAouhxtQw7vS6fRbbLOiAEt5VWiGgNZRK0-05uxqJmZql63y1YM1yYnY9_7XvECq1ywAskjoRrmoCl2CeVVQp351B-jrR0HtSuGN2YSpqVH8ZXYx2KR9eM-kzMFxrRwQUnS1ihiZKOVWG2A-9cdf7OfKgX6ZP9YeJiue83Jzt42HfA_ccycGXgvGrGU0FAPnwypeumXXgS",
+      "width": 2727
+    }
+  ],
+  "place_id": "ChIJ1wuWgyxfwokRsawxQvB8hMo",
+  "plus_code": {
+    "compound_code": "P4W5+VJ Queens, NY, USA",
+    "global_code": "87G8P4W5+VJ"
+  },
+  "price_level": 1,
+  "rating": 4.7,
+  "reference": "ChIJ1wuWgyxfwokRsawxQvB8hMo",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Austen Groff",
+      "author_url": "https://www.google.com/maps/contrib/104331025179652799559/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK3Ium6meQgpPbWDihKDgjf_hxEkrRhKomztmEdbD6zutr7Lw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "In this small restaurant in Jackson Heights we made a reservation for my girlfriends sister's graduation dinner. We had a spot for 9 we probably had to wait about 10 minutes but it was so worth it. We started with mango lassi ($4, nice price) and Mumbai Bhelpuri (my Bengali girlfriend referred to it as sweet jhalmuri) she was so happy to have this because she enjoyed it as street food back when she lived in Bangladesh. It's like puffed rice with sauces and peppers and peanuts, it was really good. They also gave papad to start the meal with a delicious mint sauce (no tamarind though) but they gave plenty of papad. Then for the main dishes we had Lamb Rogan Josh, Mutton Biryani and Chicken saag with some rice and garlic naan. The lamb Rogan Josh was fantastic, I'm glad we got a lot because the flavor at the restaurant was delicious you could taste the autumnal spices and it had a nice kick to it, but when you have it after it's had a day to sit omg the dish comes alive. Also they didn't skimp on the meat we all had plenty and there was leftovers also no bones which I saw as a pro. The Mutton Biryani was presented so nicely they bring out a pot that was topped with a layer of naan, it was a very nice touch. The flavor was magnificent nothing really was center stage but you could taste the saffron the coriander the pepper, the cardamom, everything was in harmony. This did have bones but the portion of meat was excellent. They gave plenty of raita which brought a much needed coolness to the dish. We had a big portion to bring home, but it went quickly. Then the saag was very well made, though I've normally seen it made with cream (that may have been a regional thing) but the chicken was good quality and plentiful (maybe could have been cut differently, but just a suggestion) and the spinach was tender and had no hint of bitterness just absorbing the flavors of the sauce. I'm not sure if we would order this again but it was healthy and very tasty. For dessert we had a ras malai which was probably the best ras malai we've ever had, creamy perfect texture and very flavor while still being delicate. The service was excellent and the price was fair for all that it was a bit above 100 dollars and well worth it.",
+      "time": 1748022057,
+      "translated": false
+    },
+    {
+      "author_name": "Paul",
+      "author_url": "https://www.google.com/maps/contrib/100727839778876066141/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX3xwnY3atMDWPqDTKup0Izb6G5ra9en4Cfhau6hx1fwgsgyihW2Q=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Outstanding Indian food in a casual and cozy location. The food here is probably the best Indian food I've had anywhere let alone in New York City! We had the Butter Chicken and Lamb Bhuna with garlic naan. Both dishes were authentic tasting and superbly prepared. Neither dish was overpowering in spices or heat. You could tell fresh spices, seasonings and ingredients were used. Servings were ample too.\nThe Butter Chicken had plenty of tender chicken with a perfectly prepared and delicious sauce. This was the best version of this dish I've ever had.\nThe lamb buhna was very intensely flavored and highlighted garlic, ginger and chilis flavors with pretty intense heat too but it wasn't overboard!! The lamb was tender and flavorful!\nThe garlic naan was excellent!\nService was efficient and friendly!\nThe atmosphere is cozy and only seats about 20 people.\nHighly recommended for authentic Indian food with good service and cozy atmosphere!",
+      "time": 1741231487,
+      "translated": false
+    },
+    {
+      "author_name": "Heena",
+      "author_url": "https://www.google.com/maps/contrib/109351835502666711657/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKekErgZ7o2RWBxbmtq5DQDQj1opcYmwukioYFmZV24amf1qHU=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "No wonder why chef VIKAS KHANNA named this place as his one of the favourite dining spots in Newyork.\n\"I had an amazing experience at the Angel Indian restaurant! The food was fantastic, the service was excellent, and the ambiance was good decent. I was especially pleased to find plenty of options for vegans and vegetarians.we had veg dum biryani so delicious must try, lassuni gobi,pani puri I highly recommend this restaurant to anyone looking for a great authentic biryani",
+      "time": 1745436042,
+      "translated": false
+    },
+    {
+      "author_name": "Patrick Zajac",
+      "author_url": "https://www.google.com/maps/contrib/107583403171538620082/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvvMWZZugnr2rGpPS4iqLIg8HnjMeZtqq9FqHXjIXIVq8TPcz_=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "Indian food being one of my favorite cuisines ever, Ive been so excited to visit Jackson Heights, and more specifically Angel.\n\nThey serve free papadum to start which was so nice!\n\nI started with the Pani Puri which was excellent. I just got back from playing tennis and the pani was extremely refreshing. There was a tiny bit if heat too it which made it cooling but with a kick! I loved this a lot.\n\nThen I tried the Chole Bhature which was fireee. The chikpeas were creamy and the sauce here was super interesting. I honestly didn\u2019t know what to expect because this was my first time trying this dish but I was pleasantly surprised to get sort of a fall spice essence! It really reminded me of pumpkin with cinnamon. It came with some onions which really lightened up the dish too. The bread here was incredible. Very large, super crisp on the outside but was still a bit soft inside.\n\nI also got the Saag Paneer which is my default at every Indian restaurant. I will say I am a bit partial to more blended saag paneers and this one seemed to feature whole spinach leaves, but the flavor was still great. Actually different than most saag paneers Ive had but I liked this variation of it. But I need to give a special shout out to the paneer itself here because WOW that is some of the softest creamiest lightest paneer Ive ever had. It quite literally felt like eating a cloud. I think the paneer here is homemade and you can definitely taste that.\n\nHad some garlic naan on the side as well which was standard but in a good way.\n\nThe portion sizes were large and I have like 2 more dinner\u2019s worth of leftovers which I am so excited about!",
+      "time": 1749303164,
+      "translated": false
+    },
+    {
+      "author_name": "Rina Shin",
+      "author_url": "https://www.google.com/maps/contrib/111315748450095409067/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ9duhLKe7C1ZdSNIxM8mmb24yddDztsl2Xr7a-E9T3j9NQwuo=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "We did not make a reservation and had to wait 1.5 hour because we missed the first call-back. That being said, we were extremely satisfied with everything we ordered! Would definitely come all the way to Queens again just to eat here!",
+      "time": 1744395113,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "establishment",
+    "restaurant",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=14592926063931796657",
+  "user_ratings_total": 3510,
+  "utc_offset": -240,
+  "vicinity": "7414 37th Rd, Queens",
+  "website": "https://angelindianqueens.com/",
+  "wheelchair_accessible_entrance": true
+}

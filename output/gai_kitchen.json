@@ -1,0 +1,442 @@
+{
+  "address_components": [
+    {
+      "long_name": "51",
+      "short_name": "51",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Mott Street",
+      "short_name": "Mott St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10013",
+      "short_name": "10013",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">51 Mott St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10013</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "51 Mott St, New York, NY 10013, USA",
+  "formatted_phone_number": "(646) 861-3798",
+  "geometry": {
+    "location": {
+      "lat": 40.7154724,
+      "lng": -73.99877839999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7167999802915,
+        "lng": -73.99735291970848
+      },
+      "southwest": {
+        "lat": 40.71410201970851,
+        "lng": -74.0000508802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 646-861-3798",
+  "name": "Gai Kitchen",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111704429459037783496\">Gai Kitchen</a>"
+      ],
+      "photo_reference": "ATKogpfEQYL4Tl1tJAcugqqRpxKRHUK5z_ExhpXAyIYRm1HydqY8lL3f5p1IhkzZxybzcsd_TAsNbUNGoxiNOUm7X7z5KdqynhqO2BZoozHnyAfL5AAmpLHHlmBcbiUDwCjjRfVAklE_HeQQqgmPwyE6e4dusNixaSYkDox3ZAM93-9PRoEHE3TAfp64SCnT5y5esafmImcQ1UdkSlU-KeQXuVABsIbdaikJ5g9mLiJTzVecFj8U9dMca0fv0nj4HfRxjSzbXG5woMIvFLGnz9vH_aQb6mVzkTX2LS8QqXWLRTClTQ",
+      "width": 4032
+    },
+    {
+      "height": 2892,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111704429459037783496\">Gai Kitchen</a>"
+      ],
+      "photo_reference": "ATKogpfwulW4o1-xBjE08oscLpMXEltruo74ATZkspKvmXkejxe8BEhMNqZ-PAyxqspChrExI3Gtb6Tb6Taq6QAK97tNLUZdP9AWEbeDhfIg1aTkyZ7ExIMfByX34aJ7-xIBmrKLy1l-e_4zAVE7rA3WIKkQDS9HVO2SBDxULuMAu-HqWYVI_NGGihEpDLGRwJH8qXZ3k8oPQnRFiW4m0CD4GvB1xe2xxzyHlxKkVWxEA_f8jSM3GlNgq1vgUpd-jshL3hfyyej6sufqnKGf5rDpIqcKq1ZjFh8CHy6U1R9luk-tEw",
+      "width": 3852
+    },
+    {
+      "height": 1166,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110429751525185205569\">Jen L</a>"
+      ],
+      "photo_reference": "ATKogpeiVheJ8y4755IJtx2POUj_mvw5zNG-646iuXYH_oJRNcDk_jug4_pgPNPB_NUUkzo74cv5RN7fzqFRijB8RnU63QgxsX7kccYo4NMq3bpG-CvOHSkonySQH3KvjC4zELQKagu55c5Q6_uM5XS8SjTL4nfuBHll8rPDjWK_ItI_yKZ08hI8sLTZkUZ6-JLN_TQ6eeLO4RTHD3_6hgknzst3LNPenRttDJk4tw2GTstSNdMdVWb9GpeO8fSjbXG5WFnA455MjB6fs13j3pJx3aW-pW3WeHHG_7l32h41jmuQrWMB0c1ZphbMlozbykbY8A-rh0axYxAi4R14rrwBIYV7o9CM3rdmkg1_DGMOG4LDW8Trlhr6mTIqw5eUb2joXHhwTmc_NmzJxmOfKweC9c_mT9r7mV_45io9vRcp0m5ZP6-pjKmd3m89keIqULSB",
+      "width": 1291
+    },
+    {
+      "height": 891,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111704429459037783496\">Gai Kitchen</a>"
+      ],
+      "photo_reference": "ATKogpdNSdcHSU48wn_fh2eZvLrluuhnDPXOrMKCauQloEcEe4Spy3hTbIhZVTnFjt2zsK4-s7OMoCzUamp88IrXDZUM5UgSEQl8-xMmew3eWO3vIlxOqf8S-U_lvvfLDunwATKoXMAmzOD2aW4k-e4CQoORk01fnWSShhQAp4RkCCJOpXqCuzJBWbdLT8d3LngMa3CtevdZzhTdRRMCDn-3GXDjpUwWXU5zXF2q0u4o7UrHNY4PdXm1WkcjO3DOvx0kouP8FcTJiIAANzoSRnaS4301VBMA6PWFARJhA6OABmpZoA",
+      "width": 1335
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115095695647677579516\">Yat Sang Yan</a>"
+      ],
+      "photo_reference": "ATKogpem1OKCHunaoVUwuhJUziqp3TfZ8J2FUVZ5HzQMcaYPDhfS4FKe3N2kODDARMsny8_ILWuuoOrBGSSx4FSszI-GOiYiyZRHIDrj2L5rELu-TJCqC4siAdyehyRPr1Indc7WlGWwxItWqt69EYxvZhILD9SqUZLsx6MG_wphEFubK3QUGTbh0OjqeOXAxhZ6j47LOyYT8U1q_2i-bUnBQf0eHBQ5qLn6QgX_uX6H8zuElhlL-OjVs2VMRiwbdGkND8A6woHoYQ3FkIh_eDTb1rmt8TzBaeyCS1XPUIN25WnpPsyopmJXSaw_qJoQoSMneJ_Iq7yJD4pVI-_iQB4_2PUX3IHovuzpuVcw75SvM3F5BDiS__lOWKrIk53govTttursZcYYjxtCiqJuHiLfRL7JC9QcjppmsARb1dT3cuK-EMXQ",
+      "width": 4080
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115095695647677579516\">Yat Sang Yan</a>"
+      ],
+      "photo_reference": "ATKogpcL1cZi0d4IKlq5kCTvP_FCPe1jJfuUocBQPw2BbCFjt1vuv9R8JkxI9AciAASjcf797XvBHtGrLZgPUQgg8QDofaZPU6Tl2nVtZ6vdmwd8RkWnyxEOKcOnbJGk6pnp-s_-PSfqy2e_5M6oVVxHuaUYniwdBjDnEyQTMyNLXBOvXfIOgio24zQzdh5tqRx3kva_L-P_3kn91LzotOmNChOzCuQFnsC32Fa4ISqAFF0_5e8wQA4f4uoW9uhQJRZF56KdwrkV-3m3k8OJDOZ9se8Xt-4_ldjttJo0u7MMZqX4SBI2rAnOA40s_AKqp0LwsU3N1M4rM94MenNorrdQ04cjEik2x729lVMNAnCGzXnm3Bl3mrkS0EiImjp_KjmCFvZSMJ4ZDanj4ivrHv0XLHTkBTUenWchHJD1JilBc4H5eA",
+      "width": 4080
+    },
+    {
+      "height": 891,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111704429459037783496\">Gai Kitchen</a>"
+      ],
+      "photo_reference": "ATKogpeODrH22TSfQP97HP2277QUcNqZ3bI9Sj1iG9DssZiScte80ykTDVEWRYUd3P_N7uGdKeRnDd0ysmCDsc2rm5H9aqdZP5YSWVBavSaWjF4DSsgO05QbeiI54ou_BhczOy9rWi-yiG87xRoCBX9tHwlsbaiXApL-a_3CM7p8nVjm-NYMgSWU2fotOuWzaCCqoeKpdeSW69GQM9ppr7UrpVLfhV5zk9vmbeqrA4beW7imj7apxnkJVX67_woLCxfTi8eU9axLDfWEw9XY5eiczOGq-p5eJdhOyy8imNMhpmr-WA",
+      "width": 1335
+    },
+    {
+      "height": 1443,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107469491904511421056\">Yeeman Sin</a>"
+      ],
+      "photo_reference": "ATKogpegkeG5aNtghOtVCOtJlVRt5gEeLS27DC8FCvb8XBA7Fna3Jk7qcKKsS7tnXgX9gY_OsYG6W1Xw0ndhUPS8ZHpwWVg-mgTEQ8_5JFI2jogq3wFM7nccUx20WUUZAAM1BEqVJ9aj9FZPBWSazg3gbv49KFHbv11xfuFVQpdzGB_WxLs4XqLM7idGUfUPpmRjjSKB7D6JNBp8zA6wWUflADdkqipoDOsyyrnTLSzT7ccJPmJTiaIhRJyGw8i-tqLHcfTER4gkxgRu0K6ZSockUyg7i6F38P1nt2fYRv-uxw01xQJBq3P7B7C3UWpxmyQG0rbRyOWlKwHYKJNU_2NikHFYl_6pXiGINer2pFfZvqKMytGb-VCTdagz87JzSG_YvR4TntrS3L5xxIpBA99LfDyFrsnTLqMNlhCBAbvLfNZqOe4l",
+      "width": 1676
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106501701449158397450\">Long Neck</a>"
+      ],
+      "photo_reference": "ATKogpeLdOX0Kxyi8nl5ajTWUCqHzhY99wMzSWm1BZdHuSi5Wueq1XEQvGt3WjRJiZnf4kbj1tnbikO9ki218z8aR95Sl-HDh01GK8uWt40sW5aemtXuPNpQYBWBVUx2PnVxAtawwa8stnzEFnlC4IWFYJC42SBrKWG-uk-FPdJ5J7TYaSukYZgeNPcmEssHFCi-1gFJ32VbkWK9s-ZjM-GVhdKwpMspiozBP3LUafkQZEMjNTDsIpxbBMIVlJSYHzBnylKQqEIGIPidX7Ob_Oiixh8HisJhb_8xXlr6vKBonEQcb_ZE-piLsFdwq9_Pt3_3GmQIpKjA3UcXeckSEMwP7cb9E2dxO9WTEfSWQ20JW3l0Ki0Pm-rW2yoQ3cLqkjOPNXaMbkXHMZJgS7tQAcwDx8Lw-bGJ82RfGd7BkulfOVKy8A",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111704429459037783496\">Gai Kitchen</a>"
+      ],
+      "photo_reference": "ATKogpfnTk6YVIZ4Jl0gWXK9BMIXYfXdlymI_96GX4ffFxpa4PS1uiIrMrGOCPhE0UMFiyjfY7M0_6fdkZE17RSIiCyfu34KLZ9xNnz8PeC_-_o-Hhe4XROcudhOThUcSZAYsO2GE87Lce3Q-O9bCaTpvbISFr-1uY79Ujra_looqyRpcWZ4wvZDgXnSBy-9uN0TJAP3FyP55YIWLTRs5bN58j5klioLS5KwLHhj99AaUp6pfFH2E0fqcP8-L6EN4pr2ExZtrXTNZmkw595JCbO338sg0ce8nmMni_rEkgs_qOzT8Q",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJT_0oqlpbwokR6wjYsXzMWL8",
+  "plus_code": {
+    "compound_code": "P282+5F New York, NY, USA",
+    "global_code": "87G8P282+5F"
+  },
+  "price_level": 1,
+  "rating": 4.6,
+  "reference": "ChIJT_0oqlpbwokR6wjYsXzMWL8",
+  "reviews": [
+    {
+      "author_name": "Kerry Guo",
+      "author_url": "https://www.google.com/maps/contrib/110713962896547720342/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKc6ZR61DuJWWw-LthoUv7BR7J4pIefDYjyUQtTI_N22-9_Rg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 1,
+      "relative_time_description": "a week ago",
+      "text": "After we placed the order on the machine #128. We waited for almost 30 minutes. Everyone behind our order already got the food, up to #138. We went to follow up with our order, the lady looked at my husband like he\u2019s crazy. No apologize at all. Definitely not coming back and not recommending it to my friends.",
+      "time": 1750462182,
+      "translated": false
+    },
+    {
+      "author_name": "Brennan Walker",
+      "author_url": "https://www.google.com/maps/contrib/107847556918914436435/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLXSzs8XDqpuZ4vrImfCNrkf7kEB-DdGJGmr4Ul9aK0BAkS-A=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "The Crispy fried chicken meals was mind blowing. It's crunchy and savory whilst also only giving out clean pieces of chicken. No nasty fatty bits. The rice and red curry worked together like prime Kobe and Shaq. Just a slam dunk meal. The surprise winner was the pink milk (which I believe to be bubblegum flavored) it worked really well to quench the sweet heat that you get from the chicken and curry. The little table and chairs were cute and supplied lots of space for other hungry shoppers.",
+      "time": 1750770440,
+      "translated": false
+    },
+    {
+      "author_name": "Ryan Watts",
+      "author_url": "https://www.google.com/maps/contrib/106209370568862817217/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcvWf21LvVXT493OKlsLjHOcvQvlE_6qOfSWv-6zBWKA7hMcz7=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "Tried Gai Chicken for the first time and was seriously impressed. The $6.50 roasted chicken meal is an absolute steal \u2014 juicy, flavorful, and comes with a generous portion of rice and pickled veggies. Their fried chicken wings are a must: super crispy, spicy, and packed with that zesty punch that makes you keep going back for more. Also loved the scallion pancake cubes \u2014 crispy on the outside, soft inside, and perfect for dipping. Great value and big flavor. Will definitely be back.",
+      "time": 1750815208,
+      "translated": false
+    },
+    {
+      "author_name": "Andy Ly",
+      "author_url": "https://www.google.com/maps/contrib/102833460348959681745/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPSWnUOMk8FSdsbAM42mNB31QiMdGORQmOp8yl_ZF6EoYrQqz6=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "Cheap, fast and tasty meal. Got the Haianese chicken with ginger rice. Meal just tastes very hearty, simple but delicious. The pink milk also caught our eye, tasted like medicine BUT in a good way?? Really refreshing.",
+      "time": 1741891047,
+      "translated": false
+    },
+    {
+      "author_name": "Ruby Chan",
+      "author_url": "https://www.google.com/maps/contrib/115245662646465670811/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3LrrVwi-mDW5WQKHXOamURBu-eEORn8gD4ZzWQ3IMFrFb_ts=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "CHEAP EATS ALERT!! You can get a hearty bowl of delicious hainanese chicken rice starting at $6.5 in Chinatown. Gai Kitchen offers thai style hainanese chicken rice and appetizers with most items under $10.\n\nMy boyfriend is a self-proclaimed hainanese chicken expert. He approved their chicken rice and said we should visit more often. Given how affordable and tasty the food was, we\u2019ll definitely come back.\n\n\uff0aRoasted Chicken Ginger Rice (L) $9.5*\n\uff0aHainanese Chicken Ginger Rice (L) $9.5*\nSmall starts at $6.5 while large is only $9.5. They don\u2019t skimp out on the amount of rice and chicken while keeping it affordable. Their chicken was tender and the sauce on the side further enhanced the flavor. The ginger rice was fragrant and delicious.\n\nWe added Red Curry ($3.75) to pour on our rice. It wasn\u2019t spicy and had a rich coconut milk taste.\n\n\uff0aChive & Scallion Pancake $4.5*\nThe pancakes came in 6 pieces, served in mini cubes. We didn\u2019t know what to expect but it turned out to be our favorite appetizer! It had a crispy and charred outer, while the center was as chewy as mochi.\n\n\uff0aSpicy Wings $10\nI am obsessed with thai zabb seasoning so I was excited to try their wings. It was spicy with a hint of citrusy note. The chicken skin was perfectly crispy while the inside was still juicy.\n\n\uff0aThai Iced Tea $3.95\n\uff0aPink Milk (Nom Yen) $3.95\nThai iced tea was great here. Made of sala syrup and cold milk, thai pink milk was described to taste like strawberry milk. We thought it looked and tasted like Pepto lol.",
+      "time": 1734391774,
+      "translated": false
+    }
+  ],
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "establishment",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=13787995095126509803",
+  "user_ratings_total": 419,
+  "utc_offset": -240,
+  "vicinity": "51 Mott St, New York",
+  "website": "https://www.grubhub.com/restaurant/gai-kitchen-51-mott-street-new-york/4611272"
+}

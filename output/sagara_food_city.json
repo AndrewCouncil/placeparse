@@ -1,0 +1,634 @@
+{
+  "address_components": [
+    {
+      "long_name": "98",
+      "short_name": "98",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Victory Boulevard",
+      "short_name": "Victory Blvd",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Mid Island",
+      "short_name": "Mid Island",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Staten Island",
+      "short_name": "Staten Island",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Richmond County",
+      "short_name": "Richmond County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10301",
+      "short_name": "10301",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">98 Victory Blvd</span>, <span class=\"locality\">Staten Island</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10301</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1700"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "98 Victory Blvd, Staten Island, NY 10301, USA",
+  "formatted_phone_number": "(718) 285-4556",
+  "geometry": {
+    "location": {
+      "lat": 40.6376504,
+      "lng": -74.0797205
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.6390536802915,
+        "lng": -74.07841541970849
+      },
+      "southwest": {
+        "lat": 40.6363557197085,
+        "lng": -74.0811133802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-285-4556",
+  "name": "Sagara food city",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1700"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 9:00\u202fAM\u2009\u2013\u20095:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 699,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103249553457576176431\">Sagara food city</a>"
+      ],
+      "photo_reference": "ATKogpfG148n5YXciycoN3sVMxTFW1rnu3IVWnNBPJIUhFom0KV06G2kpZ44yxDtaRspMBPzo3z4ybSViOn5LSjO9PrMOLEeIDYk10KRV0a5EtFFxGoo6V3Ih5NpH70g3C4n_e3S1mbAtydydDEj-AJ5swxdEJfFJAon-ltksIU1Fwh7Cc-Re68trfVuw7WLtH_FFyPdt8TYqurfpoAcQ_tTlxPXwyVfhbeENsd464K8-dhLmVPRZe8scleVpt4beJ4woTmTwQV8UHezFwLTM9rmpSWeqEUXxcS4zSkzjVABLsbiyw",
+      "width": 1242
+    },
+    {
+      "height": 3007,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103249553457576176431\">Sagara food city</a>"
+      ],
+      "photo_reference": "ATKogpfK2ZauWM1neJi7zfBinexcYVNK_2UJc5Lq-KEqno3PxQ3oftEtS3AWWD_uOACzj2yKpS3y573xhnppeQSOCC1xpkk5rnVtMgPhZ266_21hzkLDdqbnp_tCpWSk8nOy_tc1vhr3FzaOnEl5AcU7fet3qi1R0bjo-bqeZumDVlLh9O4yyq4kMjphtycVFQ_O_G8h4JEBkLT9yjO2_F_7vqFEq2xl-xNrpAtvDZsfpQChuuXqCMo30Gh7rOtcRgQ6wkMtNPRvD5aXiJVbnUo6TqEFbHGO5JMrA_4qJu-4N8tOqw",
+      "width": 3598
+    },
+    {
+      "height": 1440,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103249553457576176431\">Sagara food city</a>"
+      ],
+      "photo_reference": "ATKogpdjjy_YI4OFpMvlmCo5uwVreT1WNCA6Tqohz3FkRD_D5vQadc4ftiulFChHonTEmmHR9Uxq9gWtSHtmqbwLBN5FAiijzs4NzeePzOa8a2HBEgxdzn5wKrCiPt-WVRQi9a3QfVSq_ZRQZkkpoIOP9f6_z26e-pTtX2IB_AP0by4fUN_lpVOAKnhdVuROV-Px7nG7O3xecmH7QsS_gPemOA_ubaWscJhphxiG2-_ZUdb_w_l33SCdlHIFFv61fx_7b35WEyVWxjnOHdB9DJom5iGOvfb_YFMiWc5toyMRs8Ijdw",
+      "width": 1080
+    },
+    {
+      "height": 500,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101523293730959956425\">Dave Cook</a>"
+      ],
+      "photo_reference": "ATKogpc9e1d87fvG30F24pZyy_zI7CXmDadztyF-FuwW-zL4RNkpiKk4O2w9lKUGIbqWYrOfLLNyGzvdv_6dkcmEBWHBqxUr9KEvbGZG1cJkyiyqZYjFatoXZKVlQ1u5ULJR1t0gLdu56K2puLALT-5k4SIDlB5-qnc7A-RRHv-5q-IKM3YgPMBHYLopgj2yA38b_wEXjQ1JSPdP2jqJT7-AR_vhkqGI_Ht7hl4xZwBKCd2w5NclALsYPUZ02B7i0eq1YCYUXnLKoRZvlRBMxKB5jNf0RBkPK-ymG3QThA8xyc9UNfOkLEX87ojcWlT63TXUQIgzTbScRrvNqtCgr_xrg4QA6bjQgFslBDUR4_hWizYGVrN-yB_ZpesUleBAiGUHFc3euc64ES7X9sWggj6EmaSGGTTs3BDfHeFZVs_scStOFEHB",
+      "width": 750
+    },
+    {
+      "height": 2016,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103249553457576176431\">Sagara food city</a>"
+      ],
+      "photo_reference": "ATKogpd_D4YZf74x6v7PhScS0LDbPNQfGDQHF5DhlYCd6m1YbXaV3-tssq4CaeBNXRkKIjtG8JSCgXILSfqds3rAl78OAGFHdhnoNLnbcVLBm4CnHUK6C07KHySmuRMHZUqqNrsdqwVVrK_CqGSRu9FYYHTIg7s-3C67qe8zvyrCW6z1ghjGGUJYWLeWbgfpth3kCgHL7BPdqiRLEeEETQpgg_bSwn_e7WPkvtgj_Akig4V9z9X9Cj1hng8XUGlcIc6MFeAOL8TZKqnSPFDgDiGiWuzMRPVD6wpPA3JmSbbnIRKe5Q",
+      "width": 1512
+    },
+    {
+      "height": 1424,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103249553457576176431\">Sagara food city</a>"
+      ],
+      "photo_reference": "ATKogpd-2scsaHUknr5WSMbWH8h04e3P9MN4L2uj6X1Tfby1UFv1BHQAxRoJbUM5pcaIo2kThOclUGy5mpHwUYO4gYz6ZIDgKo80735vPZT1DWDobaao9StIWws1cN6ws6bp56hZJUl507uVRULtlHGZU5cnGeharzAzC7i4tGVsk6Kl3cbsP5IsERHWakCcsBuA7A8qcpC0AzckSQXptYKEIcOAvJFeKjrgSY-vLvrz3RT_KwL9hG7QlICEqcMJ9xcOapxvmp-3YjpepRYWLm9B-IOYoaLUhT9p2Xxnd23nivdOgw",
+      "width": 1284
+    },
+    {
+      "height": 3347,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103249553457576176431\">Sagara food city</a>"
+      ],
+      "photo_reference": "ATKogpfAi_RWlDDJ40z3si1EOwX0Otl_P6JiGYthW3GIB8bxLL2I4GMbrYG7wcT7OlCSBgn9eCZ1WJqRaJJPaldTQctB_pjI3qDTg3tnNEgNaPAERG6Md-De0hs5XkNy8orCMAt9K1lFABUCDb_aOjkxeEkPj3ptBzrA-oWKktZAENDVUTZ6ZOu3skQuZ1SgZolhEdfUt4plT4mTuAWB78JetzClykc91Z4M3ycRhrUYSCSsPANxTkY6q3sFLsiYehhyRMTLi0APx12EIbBShPkqPrhufXoo3BLCFxqx8SFLYUmNFQ",
+      "width": 2170
+    },
+    {
+      "height": 1550,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103249553457576176431\">Sagara food city</a>"
+      ],
+      "photo_reference": "ATKogpdrMp_jg21tkcfdh-NmvfVM-cPCtmdidnOcsI-N9_Z4zPtVMCZTFBjKuhlUP3_pT0s-QpwFo4OpC909f-ZcJ7T3UGPtXuQizx99DYv86k8Bxei9WSAPEv0lw88ygxO41kPx3RLpq-AirSkywyaiAQQbbUOgxQwQPFT_z8FhBNg2az5paUkbzSqS4bgev6pIMgfj7QyfowoMPql47UBU_dMpmm6IMRdLnjYYipdTrlF0FPEko3TYWodSD3x0q8mbwQveepS-xi337C0IKPBnyvNgYQrxG5mT34fu8bejFtydow",
+      "width": 1284
+    },
+    {
+      "height": 2683,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103249553457576176431\">Sagara food city</a>"
+      ],
+      "photo_reference": "ATKogpfnH-cha2QOxJCcgROANQqss6bvVOmFKQOEJz-g9zk9TEk78NtJON0wFTUcEkN1s5ZabyiiGMpaAQfcmgmlqe69RKgEkWlZ2WDwcz9iU16i5ku2RE95Qj6hb_g-qdQJTTyE_-qc1-tLtwryOuD5WjzobXcZRFRcWGr3PgjpSBx7CF9HbU72EMgi90thDhmNFw8e7-No23jWthBT_fquPZkVVcdPw9zkG78gxukkMSkZoBN_vhbgFuEtdgouE1U3V1BZ54AFPq3kGNTGoqsLf8VIn5gj_i0iyeuXl1pCk4eiUA",
+      "width": 2916
+    },
+    {
+      "height": 1509,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103249553457576176431\">Sagara food city</a>"
+      ],
+      "photo_reference": "ATKogpdHL1uKFhODyqWrwXlB8AdTHyBJEir4SKlISieTrEgvYo-gsl9gBB3DKPQvAZ__A_f3XXjjzNyDQWANUOXLOxmr8lX8zWM7kCwO7eoFLoErrpzRNuQZqKN6xbm2JQqASiKQxxfOiFO7bgVcvLqvoGq-Rjf95vh5bd86EilrV0-TpHLJWIm-67aCmUSH8QVTOR56g6Hvl8z6HNyiCYv-MHrCkYP0VL1C92UibIsjMk0-XEv5Vu1PWW6y4SZXARU-_5XwtirNi9Y8hS60qVweptH-nh5e-YGc9KO8ebHFc9Mofw",
+      "width": 1284
+    }
+  ],
+  "place_id": "ChIJ5bAvx6hPwokRbVB2BPRGZFI",
+  "plus_code": {
+    "compound_code": "JWQC+34 Staten Island, NY, USA",
+    "global_code": "87G7JWQC+34"
+  },
+  "price_level": 1,
+  "rating": 4.5,
+  "reference": "ChIJ5bAvx6hPwokRbVB2BPRGZFI",
+  "reviews": [
+    {
+      "author_name": "Therese",
+      "author_url": "https://www.google.com/maps/contrib/112139970272996230609/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIfrygbdrLTc0hTMOyp5L2Plo1YDVOHtSyBKHsTIzGhuJTypn8=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "This restaurant is the most highly quality friendliness value place to go eat or take out food. I recommend to anyone. Excellent place food is excellent. The owner is very friendly. Very helpful. Excellent customer service. Feel like eating In Srilanka they provide the food exactly Sri Lankan style Anyone go there try this place he will enjoy the food please go and try if you wanna do a special order makes you call it before putting in order to take out thank you",
+      "time": 1745009101,
+      "translated": false
+    },
+    {
+      "author_name": "David T",
+      "author_url": "https://www.google.com/maps/contrib/100578457473854420055/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLxw9RqWXluNgp9kA456pvkgtU1cg43m2IhOJDb8X9ctdkQLQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "Amazing place to eat!\n\nWe got the devilled chicken and coconut roti, and the taste was sensational. The host/owner was so kind and hospitable. Even though it took us a ferry to get to this location from Manhattan, would take that again just to eat here.\n\nWish I could rate it more than 5 stars.",
+      "time": 1731241315,
+      "translated": false
+    },
+    {
+      "author_name": "Celine Nguyen",
+      "author_url": "https://www.google.com/maps/contrib/107114843108849617772/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUx-PKV7bhy7ZLvLmP5_WeZS5YsuJgCxQhQlMtYFi7zvdmEfGVbAw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "Came here off the Ferry and would make this trip here again any time just for the food, it was amazing, we had the deviled chicken with roti and fried rice. What a feast! Spicy, sweet deliciousness  of the sauce, the tender glazed meat off the bone *chefs kiss*",
+      "time": 1729125830,
+      "translated": false
+    },
+    {
+      "author_name": "Courtney .Kasturiarachi",
+      "author_url": "https://www.google.com/maps/contrib/115239433145757653334/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcZaaQARhT6IcVmi-vygYpmeR1_zBE8geLdCMmOdq0tRKl0g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "The food was amazing! I get homesick pretty often and this hit the spot. Tasted just like my parents and aunty makes everything fresh every day.",
+      "time": 1734529100,
+      "translated": false
+    },
+    {
+      "author_name": "Gary Yan",
+      "author_url": "https://www.google.com/maps/contrib/104669260680120493470/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXEn17-RQ7DqpQnrdl44rvDcRoAJ6i4jLB-XjeQq3XQg4m8-ryP=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "I was visiting from out of town and decided to drop in while I was in the neighborhood. Worth pointing out that as of Sep 2024 they have a small dine-in area (there are a handful of Sri Lankan grocers in the area but fewer sit down options). The owner was super welcoming and recommended a lamprais, which I had with mutton. Portion sizes are huge - lamprais was the size of my face - and the mutton really juicy. I thought the fried eggplant (?) also complemented the dish really well with some added sweetness.\n\nAlso chatted with the owner a little bit about the Sri Lankan community here on SI which numbers about 7,000. Will have to drop in again next time I\u2019m in NY!",
+      "time": 1726592914,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1930"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1930"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1030"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1930"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1930"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "type": "TAKEOUT",
+      "weekday_text": [
+        "Monday: 10:30\u202fAM\u2009\u2013\u20097:30\u202fPM",
+        "Tuesday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Wednesday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Thursday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+        "Friday: 11:30\u202fAM\u2009\u2013\u20097:30\u202fPM",
+        "Saturday: 11:00\u202fAM\u2009\u2013\u20097:30\u202fPM",
+        "Sunday: 11:30\u202fAM\u2009\u2013\u20097:30\u202fPM"
+      ]
+    },
+    {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1830"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "0900"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1930"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1930"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1930"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1930"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1130"
+          }
+        }
+      ],
+      "type": "ONLINE_SERVICE_HOURS",
+      "weekday_text": [
+        "Monday: 11:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+        "Tuesday: 11:30\u202fAM\u2009\u2013\u20097:30\u202fPM",
+        "Wednesday: 11:30\u202fAM\u2009\u2013\u20097:30\u202fPM",
+        "Thursday: 11:30\u202fAM\u2009\u2013\u20097:30\u202fPM",
+        "Friday: 11:30\u202fAM\u2009\u2013\u20097:30\u202fPM",
+        "Saturday: Closed",
+        "Sunday: 9:00\u202fAM\u2009\u2013\u20096:30\u202fPM"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "restaurant",
+    "food",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=5936948222641983597",
+  "user_ratings_total": 153,
+  "utc_offset": -240,
+  "vicinity": "98 Victory Blvd, Staten Island"
+}

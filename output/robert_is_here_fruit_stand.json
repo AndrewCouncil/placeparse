@@ -1,0 +1,440 @@
+{
+  "address_components": [
+    {
+      "long_name": "19200",
+      "short_name": "19200",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Southwest 344th Street",
+      "short_name": "SW 344th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Homestead",
+      "short_name": "Homestead",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "Miami-Dade County",
+      "short_name": "Miami-Dade County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "Florida",
+      "short_name": "FL",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "33034",
+      "short_name": "33034",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "2800",
+      "short_name": "2800",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">19200 SW 344th St</span>, <span class=\"locality\">Homestead</span>, <span class=\"region\">FL</span> <span class=\"postal-code\">33034-2800</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tuesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wednesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thursday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Friday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Saturday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sunday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+    ]
+  },
+  "delivery": false,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Family-owned market featuring local & exotic fruits, veggies & groceries,  plus a milkshake counter."
+  },
+  "formatted_address": "19200 SW 344th St, Homestead, FL 33034, USA",
+  "formatted_phone_number": "(305) 246-1592",
+  "geometry": {
+    "location": {
+      "lat": 25.4474238,
+      "lng": -80.5018612
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 25.4487930802915,
+        "lng": -80.50037776970849
+      },
+      "southwest": {
+        "lat": 25.4460951197085,
+        "lng": -80.5030757302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+  "icon_background_color": "#4B96F3",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shoppingcart_pinlet",
+  "international_phone_number": "+1 305-246-1592",
+  "name": "Robert Is Here Fruit Stand",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1800"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1800"
+        },
+        "open": {
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1800"
+        },
+        "open": {
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1800"
+        },
+        "open": {
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1800"
+        },
+        "open": {
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1800"
+        },
+        "open": {
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1800"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tuesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wednesday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thursday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Friday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Saturday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sunday: 9:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102320270528903142157\">Edee-Jo Egts</a>"
+      ],
+      "photo_reference": "ATKogpd6GehRUI25eD7xo8k6NFv3Powfdvh_sllisOt8RO5C4pge84b8dWYtH0nJjuyZx3DGII64meQU4shw_DftgY8oUcJ02z4gx97R85stW9784gLwCad2lzk7T0YOapRsMfh346PoWm9XB7v85RPIfHM1a7UEp0dvTdjjySYj8NNMQlCSmODNRYNsnWoae5SHnR8UKYZrg-2onqZ0Taa5uG385dIEeEQl6Hl8bch8zoap1DV_MFcWF6v1kigmCBN53NWvt86aJx5FBMJMSzgVFQFPCc254CEppczt3MONNYMyjbnUqHvL0hJzPP1oK85dkO_RfbPuiCIo0yevnf01U9rvAGCSJdnmNkeBl3bcbVL5pZuHcGe41dEuYR-rnk0hrMk8lJXKzDpHJmZ2BfEUD5HyO11KAPSoJs1kWBfxQP0KkDDR",
+      "width": 4800
+    },
+    {
+      "height": 1361,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106576477766202372928\">Robert Is Here Fruit Stand</a>"
+      ],
+      "photo_reference": "ATKogpcxP-IRl0hCtgu3mSg4XaCGWYZ1J_nRBZglehxMuxH1bE8n7OmK5L7zCqLv_5QrzgGBxX7WDiy0X0XiEBHoKgEvWhTj-QX4qEOZ3oWmM-zjuxLegkgX8r2k8YVt32zLLUpMgg3fKIJ1jfnfiY7lIP_s_PFKVYIhja_IUWEfFO8NLPs8csMfVdujJ5NzvwmhxyYmlitQ910XNWpcsGBKAPY3i19czCJowPBLFijuZFIKwx9gNZl4qRx-bU-HXe7TM5dkfBGn-cHQiI9Ur7HYM1JjQn-Omq4a1iCl078bllOH-w",
+      "width": 2048
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116888210642340189863\">Julia Diaz</a>"
+      ],
+      "photo_reference": "ATKogpfkV_dOkZNuQA1F-faADfTrQY_7Vd4O7P4iVJrmeTxvoQQneKslOkBTHXbaHcJSdL1vbzBw4OanYDIi6EHQDUlaGsMSVseab8bV7zvzaMeL7u-ne8-Plzj4P8q4ow1QLpC9tLL1SbaDjYfucAEEmgpkIvH8yViM2o-oTJwhM4ycquu9oRa-iwEeVgA_p5yZsGnthDSQDO6ewH30K_DO2V7YNeZgZbQ4ahwqz23hPHNoKda7V6Jj9veGOjPhPFimiI3QP594pCFgyOowbp0KsRgiXFWdcOEXg-dpEMBK8u9atwBLMudJptOzHo12Ca7PYS2BtYGTA0QL4CHsaC5eKsCWDspBu8pH4TXk_YS6s2q-1eL5kDCPLNbBlW96hNl_jo60xRH6fBmfPJwyvPYwdm2fGolxkpARR1RFMEbsOCLMc5o",
+      "width": 3024
+    },
+    {
+      "height": 2448,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109332882949505439855\">Bside</a>"
+      ],
+      "photo_reference": "ATKogpdYg_BaAPkg07Iylo71BUowegM_H4-zkJSqbig5Bb0jpM7g6Nn5P9frlY2yVXX71ad8Lhn6X0VIHYdq3Ku43Mzc5zGUYkdc_iXCIPD_OeECkTEQHb4KFVlLT-dGTzUeuMywzDJEE6Lm7E-ao03J8obrBKEE0PdAKufWV_wsUQVVyK-gabIhtECHA7pIwJ2gI6l_VUTiaxr77tz6pM6lXrEY3LWjBYNJ2SOf0BxAQo9w_z8EeHMjE0UhPVy0dswr_jx_4gRaMJPrcV0nK04-e8OWe6cqvkHvCPzVJKmfv5sLuOga7FfgCLsmEJGo2scbEtGAUoWB-CM7XCPMC64ayVX53j9bsqy8tfwKSQMTdmkZJtFq1Re-XGbpHETGvmXqM-KBsDwinbx7Nx2cNZxf0wDo25JayRJHBmgd5Uj-QeeA7YuN",
+      "width": 3264
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108324344363903819052\">James Martin</a>"
+      ],
+      "photo_reference": "ATKogpcd4WrgXul3jJwTu8QUVG1japHvbREnfFIUF7nGizYq9OeinlNCgJgXVSK-KqAGsqMfds1D7ciz_sWPLT4oLA7rqEJWNCu8aS9ll3g1CL70lKaIw1kChGagGkk7wv9-sXoEYA7JR3eDdxbx3mIjshXnHtMavEyEzeETfhnCGQoRbhrGNdQ0aRLJ5dG2gJYJGDwrCRdUBwUaqfLG-e36hn-VlTCjiGeoDejCs7wY8QSXc6d-jVkrHiYsS5DBe6Wdfzej8d8Sfssg0sKO6mcF2GOxk7-NuKWQ44-jmW7-FnHTVNhdAXa0ESD_7wgAlN3Ke0BoTRmem0CivAUPltjhERl_CY4UEDy9ESvs4ELulF6kM7jvOnTbW5rb_FTpuC50vi4DA6G6xwdeN4o4Lgqg7s34DkuLj6pfhQCbB9o4c3nl9VZX",
+      "width": 2700
+    },
+    {
+      "height": 371,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116113162209081426293\">Jodi Robison</a>"
+      ],
+      "photo_reference": "ATKogpdOIgVabII-TwbK07odR_xeZSshRL1oWKICGV8KrYb0eYzoNqWzrcxpnF1co25-xuPkXrujBYFfu1vkJCeCFtyQgjqD6_TPo9tNMhgvhyz8L_SV6t7ZfyjUzQVFe185Fpg5Kjgi35QwUK_TkONF747KONRISoGI3Xd9SJNzbvFHQr1MaLV_ouWqalEPt_pmMEnh9Kv5tqJ8AaHxShiaXy0bLFs5lxeVkgm4vXUD6ZpzCyZ8jrgd2llIkz6XKNBM8UEkAgaQh7ELx1asGscfjlt7B_770K33KMdPFKdTpnwqEeID9hO4Uw34le11v96mJD8vmOtJFBg1LK_e6HaqVRGDKrSMtaPIdvO8KKgXAouTSag1H3yTJtCq5YL-4z0S4EDh83OrGPpM9C07bMS-fC45mZRMm-ABySwpRp8B3TwMUC79",
+      "width": 710
+    },
+    {
+      "height": 2560,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109734566087250197338\">Niovys Martinez</a>"
+      ],
+      "photo_reference": "ATKogpdD6LnQrFf7UpPoI--oaPjT7SU_BZ4LgRxTB4AfFHFVh3H91Wg8YqObtqO9HR9KQtr3aBHbyOey2hW_q17UeEC2G3kppW0FYaPNh6u7rpAPIgHtR16sjTTLVyej3TaDvUSAwkAfbtQyCgeXkthh9yXKNUNBU-kTVCQUkQuehK2A33jHLD2oFI5tAbifnXljVKOcwz0RaGYMyAIVqHTh2ZNSotVtO7ir-jJeiDTZPR-yeBcvuYd5ka8EiCONhbzwenHUp0xh45QBEijzgVJPFwSIPy4fjYx60hT3EZJH3NLEMQwH4BWev4H-dm6MmIUc4j6GD3tcvn44ZvBzRcwiq0V7ewySyH2P76qCzHWoBXYQyjT9DMYAsNuH34AryfUGgO6bfgLeLV6RGC5-lYeqxjIuI0bXB1LHIhd5sO6bZvUsUpxs",
+      "width": 1920
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112807204345174713109\">Carol Austin</a>"
+      ],
+      "photo_reference": "ATKogpc6JXfEAPUBFDzldsKMH1WdbE-nN0hroA4_DaS6DvQjQeaJacqjwe1fkUhJD3ZOtYN8xURGyucvYpBE9hdzL1uTSMIBg63AKmMK1TwAMVxzvZ7trliX6aSjKpw01PXgH8H_9wv_o39YuUVCveVjAcv8JqDGyMxLgQY-Q5Qe8j0VgyEybN2BEh_5lFfh8iGHqUUbQ80q5ubi6NamhfwcLTSLF8ckcBScRG_qAufUqRZrfld2PapQCUQhZiHn8Smb4sw5CHRVjn66eCS6m-6NZ-MtEN-XauzilIXlukdlV3Sr5GWbC8dzSk6AVyCEQgt0E9TuNxBiZdPaG8VXKK7aSKzYm0GyfGyStdF10ALVlP382EFw4R4jZ7F7Y5ne6QXsMKy3mucBv-dGQSD8xYfTYWbD-j7Wq4k7h3UnAs_nsCjYIQ",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104474512035589485236\">Stefan W</a>"
+      ],
+      "photo_reference": "ATKogpdlae5ZTHzcnJcpw6wgJ8nYeRjG03hMtxy6tGNC2ipH7otkuP2mounlUrAleiy9A8qJ1a_02WfUjTril69xD0lK1a-Smqxo_sFobXolV0xlDKX1NRXXaJaSUNzyXhF_yL3JVQZxyIy8HzeJ23e2tPUXVrL4VdCp-KDTqOLxohTB8p9uGsmxjRyOD4ywni5LKa6gfV9wNYSVVL1P2PQqc4skzHSdUT7fnFttzvgsWmSH-WcgPWKKNA_mw8eJmm5ozRZO3GJgPWNODZJBwfvK3IcNtdB23lF2QD08m5W89GMshMfFhYf9_RCGHYZsgiJVdV7PZy7Ow0RgPFTYmHCSAu-2eRKP3uYQ_OrH9aQguPL3-oiwq8We16JSvWpkqA5PjuOwpkJW0BIms5VWarY3ApqkALokhxzMNvEwgnf7Cy2ssA",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115897455499198531496\">Martha Lucia Gonz\u00e1lez</a>"
+      ],
+      "photo_reference": "ATKogpcKPehN79JNcDAKnpAn-HIzvwqHiTOwk0sh73Kt-f1C0yd51iM6zuaODYxgCKe5Reey1SLlGSCAeG2FKSj-HwICbtoPutGqlG3BKzTmWLilSErrKrBQZoNyyg6o_Owc5K6IvzLno8JfzpTXRjU9YXYNd6ODmMNQPCAUvyJi5X3-qRbsG8kuNjUSHoiDMj6xHIjKhm5gsbFWKGMZSqh6Ws29jrdjRKzeOQMNDKKBegJqm151uspDNEDAp_Bicp3ZLbJ9_MUctyAJ5015iQHoUsk5BJo5Dy3UAaWL--M4HrP8MrfmOYMF-w85CfVJFJThPzNi70zgbEY_bRgvEf6rFiNOP9EocG8Gn3JtdXx6tnm59POWpqPJxA0qHVZKnQ-1GmHHLq2OM3SyID_O2-CJhGsnFTWr2kvOkKYDfYmKyq_Z1w",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJfRsZUyrh2YgRGW3Q2YUNHiE",
+  "plus_code": {
+    "compound_code": "CFWX+X7 Homestead, FL, USA",
+    "global_code": "76QXCFWX+X7"
+  },
+  "rating": 4.6,
+  "reference": "ChIJfRsZUyrh2YgRGW3Q2YUNHiE",
+  "reviews": [
+    {
+      "author_name": "Love to Smile",
+      "author_url": "https://www.google.com/maps/contrib/113173034915745016698/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVsY4UTlQXuOSovaEup1L8iWWd_Kq57ACgYKRc8ux2CLo-Vcl28=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "We stopped here twice on our trip to The Keys.  The atmosphere is vibrant and busy.  We purchased sapote, papaya, mango, thai bananas, a watermelon, fresh salsa and some canned goods.  The Thai bananas were my favorite followed by the watermelon.  All of the fruits were very good though.  The salsa was very delicious too.  We loved all of the animals in the petting zoo area.  We will definitely stop here again!",
+      "time": 1747348364,
+      "translated": false
+    },
+    {
+      "author_name": "Kanika Misra",
+      "author_url": "https://www.google.com/maps/contrib/109701003092575485080/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVBf-65DiiACCFRP8bbrYupuVbWilRSv5uYWtyBQ-ovNhEiEyxZhw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "Had read about this place, so we decided to take a quick put stop on our way back from Everglades. As tropical child, I totally went nuts! They had the best collection of fruits and veggies. They also have a wide variety of sauces and condiments. Their milkshakes are perfect. I tried a basic mango one (it's not on the menu) and they aced it. Their was live music that afternoon which added to the video and so many animals that we spent a lot of time looking at.",
+      "time": 1748884061,
+      "translated": false
+    },
+    {
+      "author_name": "Hal B",
+      "author_url": "https://www.google.com/maps/contrib/103269875702613306252/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIXGO61DZ-uJPCFfUUdrZ8DkjSRtMCiNpTAcTimDj4fmlu4Y6s=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "I visit this place twice a year. This is one of the best produce market in south Florida. Wide variety of the freshest fruits and vegetables. Also, a fenced petting zoo, where you can hand feed most of the animals. As an additional bonus, one of the best homemade milkshakes are made here.",
+      "time": 1750703069,
+      "translated": false
+    },
+    {
+      "author_name": "Francesca",
+      "author_url": "https://www.google.com/maps/contrib/105210397195916958960/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0YHJ_iq6GCrQrafVHlZJvqRkkhHz5tmEI7v0kQfcQ55w4O8t_=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Great Stop at Robert Is Here!\n\nWe stopped by Robert Is Here to grab some fruit, and it was totally worth it! You can choose what you want, and they cut it fresh for you \u2013 perfect for snacking. We tried some fruits we had never tasted before, and they were really delicious, even though a bit pricey.\n\nUnfortunately, the line for milkshakes was too long, so we skipped it \u2013 but they looked amazing. The backyard area is also super fun with food stands and animals like turtles, goats, parrots, and other birds. It really feels like a little farm \u2013 probably because it is one! Overall, a very cool and unique place to explore. Definitely worth a visit!",
+      "time": 1743110204,
+      "translated": false
+    },
+    {
+      "author_name": "Vanessa",
+      "author_url": "https://www.google.com/maps/contrib/106159772896690228697/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWkiGLre_6glizzpgMJHAq2E-5gjxS8RRzuJUb4w0wzaPWx9Zj6=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Went on a Sunday with the family and we had a great time. This place is beautiful. They have all different animals that you can hand feed. You can sit and enjoy food that's available, also their fresh fruit and vegetables and sauces. You MUST try their famous milk shakes!!! I had a strawberry banana milk shake, and it was so delicious!! We also had the pleasure to meet Robert the owner\ud83d\ude03",
+      "time": 1744717352,
+      "translated": false
+    }
+  ],
+  "types": [
+    "store",
+    "grocery_or_supermarket",
+    "food",
+    "establishment",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=2386359721089068313",
+  "user_ratings_total": 9085,
+  "utc_offset": -240,
+  "vicinity": "19200 SW 344th St, Homestead",
+  "website": "http://www.robertishere.com/",
+  "wheelchair_accessible_entrance": true
+}

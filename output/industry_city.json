@@ -1,0 +1,440 @@
+{
+  "address_components": [
+    {
+      "long_name": "220",
+      "short_name": "220",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "36th Street",
+      "short_name": "36th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Sunset Park",
+      "short_name": "Sunset Park",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11232",
+      "short_name": "11232",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">220 36th St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11232</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Vibrant venue in industrial buildings offering hip eateries, shops, art galleries & outdoor events."
+  },
+  "formatted_address": "220 36th St, Brooklyn, NY 11232, USA",
+  "formatted_phone_number": "(718) 865-3740",
+  "geometry": {
+    "location": {
+      "lat": 40.6564675,
+      "lng": -74.00676059999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.6609124,
+        "lng": -74.0025014
+      },
+      "southwest": {
+        "lat": 40.6539654,
+        "lng": -74.0139128
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+  "icon_background_color": "#7B9EB0",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+  "international_phone_number": "+1 718-865-3740",
+  "name": "Industry City",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "day": 5,
+          "time": "0900"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "day": 6,
+          "time": "0900"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 9:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104422629810329444168\">Industry City</a>"
+      ],
+      "photo_reference": "ATKogpdX0M08QV_p-YNfl7Py8XsEF4smfJfbxjDlR6xszUHj29zf9FDJG_C82RE0_uCey0avVyHXG4LyvcNEK53-olvWaEwy2ZbG6n479e4ctS6yDBkWFhmWJmr9GRlLAfBjkNdRn5MCA5d21akU4cErmE_BV6l3BBalTcdCacbqPHscAVIGutKxHXK5U4EGtnq9tnpmd7FJxCwzQ4DH8TN4SSmgfMJQ8qHmercRm2_MA0LXq3236MLGuepvagdDNFudBR9WXxdaQ_mEdRSQSlGgVu9f7xpyIGEUjeXLswiyh_JeYw",
+      "width": 4800
+    },
+    {
+      "height": 2400,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106641584648179359484\">Hungry Bear</a>"
+      ],
+      "photo_reference": "ATKogpfTxZKpw5CUgXgDDfzm9ExCjxMC3rMNjSskoMoAe05-JePkcA4GcZRfWNnPFn72o0VP1gpVoG-oXN0fMsdlNZmJhrZtuKgRyB2nelfZ66d_hntq0yQjFaO39vJoKrG-XjChwvCbdu0REYgucGA0bmtiH089bSlezSNugSCUnhUc7Z5iSpDDkE1l0NteEqcAwWp-feMY7oc7BmP_9OTLVnSdZHKoLS-USgOOJgdhlqVGNUsgG2dPEnM8uRF8o7eg0lrRIhS0yh11auCyWy09M1uU8nTPdbVwyuE9up_K8jbO27_d3uGOW8kBb-Wzbi9lC63LyI1Eh3t7s77IQy2vKNfvkVoas_nZVRbkpMjvnh6uOClKX9Ac1cWYVijJDXS2HtzSHT9WCIJyVgXpIvUR88hCFylh8xKYNIdjHGwk118",
+      "width": 3600
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102380632612941871237\">Andrew Tsai</a>"
+      ],
+      "photo_reference": "ATKogpdxiQc-3pr6ZSRpLFEzmG7-MdM_zGQ1MDmOjL43Gs96JsWmMPizDTg0Pz_zgS3zK8lWU4FerphQLx9cqpjaI-D0feWwUYM_AFH1xORdrdBoeiy-8nrSf2uw57lCFhLVQEu8-Y6wws_VyypZ8CYYBMBs8XPcxktCIe4A_4HpR_Ic6ULckQKpe4SKs4utJBMwaj8hM03xFkdCoTe-f50GO7BACwpck4a7RLXohyv9i9ePvU_GFh9iQMmh2lgcwn4nhmY0XnUCfbsI5UeUtgFpWohGRHwP0Z8IfAfqUJaYdgFlw9CrhV6XX4tXdAlXKHG4MrlIOXNUHGZDYrbt-sRkUDD558Tjm6vHNIWSY3KKfHE-3_VnrOlltC5FPwOhS4uU2XxFr1-_53Gx57Qmy7Y1CMfoJu9if5z8FUWY-_LFPxx5kwOr",
+      "width": 4032
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116132349467197188601\">James McGarry</a>"
+      ],
+      "photo_reference": "ATKogpfPCjE9-gXQP_hB8FD7zYTs41sjpHgo_YuHzr2cXLbGVcFKtSeYzqncweP__hiZe--MQCNe4h9JyO_NXuIcKX7N_8ZRAFVfW2q5FifUVXl645GABUGwcOiVo0FL8OIBN_6qYV4geFxosZApF65GFgsZk6DuvNVgacSg4o-bjngAA-QjTOi0G7mOk9V4dhQy1sepKGXRl45p6r2GNIgA32G2PEKs4iGuSFfZbExNmrVSrGromnracd0VxoeyNbpLApZF3JQYQMu0P7vsccxW43b5cuxRIXgXasPbI3SzttSiOl-QWVenco5S1vr39sPiIGkFSPRwn8h5y3VJIWUKrI6g4GE8Uc2RNe7HpffB7WUOLZ5LGZMe7eL-cXDubSZ2YRYA5_fWmu7wr8KYpsIS393pcoNdqp3OZ9yQlV9_uWGXHg",
+      "width": 4080
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115072863311798964593\">Shaya B.</a>"
+      ],
+      "photo_reference": "ATKogpditsegdHdcgVaYJe5XmYcHgDtgLNe-dp0w-8C-LaLVbn2VTAF0-tGFzZu5tCKsa7nJVdDPF6dgS-J1zQAnFMfluTIvWYVA7cF-D5TTAN12Z4DEzsxoUUIKZ0-Qbx5Xk8CRMkS1eAeq2wSSK8PHJy-DEDkykNsaaR6FOMSsSQQTp5hA-ZzeRUahoW2huz3E-019raqZAikjX08Fauxffzi8jhY0lvvuAV7yYTY4R5Q_jaDnnDU5xJkeYvHsMQr-Vd1xz7KRrhQpix6pQ5HBPbBhPVcGVLLlKUGOgR_eoX3EIPire5eTHXKV7JL0ViS4a77OHuWEWNhsDdgQGaKZNWjilpDjN3jjUrVaj3O_00aRN3eoBBH5TmhaeyNkgmKrdZCHX7IpGXv2D2GBdWhCXRvV5zXQ_RNo04-zpfmdPVUakA",
+      "width": 3024
+    },
+    {
+      "height": 3543,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100200324162124798103\">Crystal Rector</a>"
+      ],
+      "photo_reference": "ATKogpedJlHsXpB10gFAdeBHNBYKeSwsZ1StdVndo4NWx_aH_r6kcGXAkw8qI6lXm13SMv90at2zUIX9oVFiUbQNiLSTTAqE5reev2I3vgztlRkVXscMNpHbVFCLxMFrH6FmQeC1CaZizZWFq4dUKeIyjbrRNLMzogPa9UfaafAAa4dKr5J7k0KHQ5COalR-6l2JKiReU7PeleI1M6IZrN82hcl0MxB5NlT-TeIgGc7m3WyoqgT3YWZ8EXy2-Fqf6HqRcI9yhrIpHvolqoPdbPndVD5dVkj2lyCPNUjuS9f_gChgyEUIwDpWNHZ3waTP4iEZ9RA2Ktv_CT10fJGD0THuTpK93r0_X9xa4LZvcaHwy0lFy1gIcdwRkKZPLvDPjmbY9i1SnTOaaXGO0sm0yws50xpbdwKmlzrc6AIMcQ6ximqO-r8",
+      "width": 2089
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109373821599370183838\">Adrian Alonso</a>"
+      ],
+      "photo_reference": "ATKogpfH4cHKZ3VcLaLevyaUD9Ya3ikmeANz5wMar4TAIeu4oXbdDobZiNOTu_BmJLCqN8r_akvaILWux3an5tjrK4dxlfba1CZ2IXUkTmmO_dfhOse8peOeZKToP6snR3pQFcMNSkNtaV4Svm8zpfcyNbiLqQiEYkkNLodutqEG1CjlSD73vqvUfORRjf3KTg4DbUyJAT2VoxoH6BzWxOFQCDB_Ub5G9efQEC_Wr1Uca7Yg1O56mFqXaTLFKFStK9nVWSH74EujmQFD1a42o5Ves9dy8cyk_oq0VD-BUG5NcYEq-ND_ofslpfOxiDBkFOj0QZwwawiKa4uQFG5h27KKCL0TZNehCMWIxCqh-O8b4_Mf2ea9FEvm4h0b1Kpbh9FVmVGdFV7sQik897lEkI3zLVHMu1eaYozXam3v__WdvcTSqnrV",
+      "width": 4032
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112200016888746915713\">Carel VDL</a>"
+      ],
+      "photo_reference": "ATKogpecYZsXFovjUnwNfFhHJBmD0AleybY-t_yvbAxrOS8yqH1J4Ic8V5jITqQdVbgf4_QN4IzoRhWEKNx9r9QwXxyVMEpoZndVOe7d8Xp92wBxOuFUn1zP4W60E9X3kOlmrI2YwAfwSQV6HC0K95rk1eNsnaw-TzVx6Bli_3z93XYSa4BkcTrmrtBTmeXC_w5j_ANLlrx05hBAfl6rkShHlRor14g2vsPezvjhyL4UpfyidXLz_cGN_nw3tikhc0dOLiFwdx-OYjGNG0FZGxu9zzbJtIFoTFVfaJ44YUjv1XjiYdHK7zKRGFMbB7Hy942bw4bGWQha2kyHgaM4rc2TSP8Dax2yPgXXLWgu7Ymox41TtvBz1KyDb3ixReGjiGiy8lGGC3olAnLw1YkYgzHeXBFXchgZHiXYl2fqSc-mY-ffDA",
+      "width": 3072
+    },
+    {
+      "height": 3456,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108916171927692449618\">Laska Nenova</a>"
+      ],
+      "photo_reference": "ATKogpcsG_wx9NC2VEqnpwyCOVZKezOVOHMir5Uwk4tHz7zShDONEG8vWjUsrJU8KfdnwSbwSNruRYV5JuZxUSyqvziK0XdmsGH88iHPv8quiWu1iWXWoKZnn-trSxQgHGrMVPrVI92c8hII5Nvd8m--o0j0vGzL7dNKPCPjCvKZgZV1Fw52NxAl_3CqAb2yNFVBDAjIv94iglnPnVkdFXmGqFpSLVGObiFPxK-6F9yjpJ37J2J05qUGniJ-Yw-40gLs0QiQ-vQ18AMRa-IFIZKYnU_Sleg2IpjDsSRyf8UGVOFAuTZQRrI5SMXXZLEAawOJ1Zk6hjbcTMIFX2ooS6oLnkccXffFpF110hD6TP4RI-hlfj-eT8blSn9j5i3hHuSt8Yk84IIJmgT8WdEKfflwXOWPUW8-Y0ooaGiXG70ea1aNXw",
+      "width": 4608
+    },
+    {
+      "height": 3270,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104596856248078658268\">Rouslan Valonen (LibertyToursLLC)</a>"
+      ],
+      "photo_reference": "ATKogpc6OkHyu2tkXzZ6AGLL_ItHAHzK9oEDKm90F8QC5fR0vlHRC2bFWICHiwn7_PFrrvUTlJUtQflbPKg70XPPacRKHwUrIFsV825DS6La3Hy5A39wWqv-7xtD7NiRz5EXa1xkmiGYCjG0ytRcnRRQVwbXxtR3dU8QZ2xbZ_TE2PdEm06FH6rK3W860KYj9jpXRTPlMYWFWfmZgYMV451NOLNnocv0fkOEP3VLajV-nspkH9lJ-DY2rnp96au6xZRUHAbDVvOpGgu_Po0xrg3G4kZKMYd_3jTQx54Gnp5asghJr9og0ONLMiQi3tsANpOt1RjJidM2SUYt9OArMbyVJl10VLW5we0eothugjMOYhrz-tse8ITXLtkwdJb5cIS5ILTErDPnyton2x0y2kddlkbOAZyz9nRsHMq82Jc32kKoSIPU",
+      "width": 4800
+    }
+  ],
+  "place_id": "ChIJBzJseMBawokRVfGOLobHpJc",
+  "plus_code": {
+    "compound_code": "MX4V+H7 Brooklyn, NY, USA",
+    "global_code": "87G7MX4V+H7"
+  },
+  "rating": 4.6,
+  "reference": "ChIJBzJseMBawokRVfGOLobHpJc",
+  "reviews": [
+    {
+      "author_name": "Q K",
+      "author_url": "https://www.google.com/maps/contrib/105408439478623554987/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXaOB5dVDtYEDYLB5DjSnMXQiHf4gwvf2hLMfwBXRce4TBkGV_j=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Industry City in Brooklyn is hands-down one of the coolest and most dynamic places to explore in NYC. Whether you\u2019re looking for great food, unique shopping, art, or just a fun place to walk around and hang out, this place has it all. The mix of industrial architecture and modern design gives it such a creative and energetic vibe.\n\nThere\u2019s an amazing variety of food options, from authentic Asian noodles and tacos to gourmet ice cream and coffee. You can easily spend hours here just eating your way through the different vendors. I loved how spacious and clean everything was, and there\u2019s plenty of seating both indoors and outdoors, which makes it great for all seasons.\n\nWhat really stood out to me was the sense of community. There are local artists, pop-up shops, cultural events, and live music happening regularly. Every time I visit, there\u2019s something new to discover. It feels like a perfect blend of innovation, culture, and comfort.\n\nAlso, it\u2019s super family-friendly and dog-friendly, which is a huge plus. You can shop, eat, relax, and enjoy some fresh air all in one place. Whether you\u2019re a local or visiting from out of town, Industry City is absolutely worth the trip. A true hidden gem in Brooklyn that keeps getting better!",
+      "time": 1746397088,
+      "translated": false
+    },
+    {
+      "author_name": "Enzo Tan",
+      "author_url": "https://www.google.com/maps/contrib/117403603187685978167/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJS-rpLbayzPcSM9PajhvauEeEcxP4Q79Cr2XZHLTRPTMqjtpp=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Just experienced Industry City for the first time, and wow! The concept of converting those five warehouses into a vibrant hub of shops and restaurants is fantastic. Even on a busy Saturday, the energy was infectious, with people happily eating, drinking, and enjoying the outdoor spaces with their kids. You could easily spend an entire day here exploring all the food, shopping, and activities. I especially loved the little Japanese village area and store \u2013 the ramen looked incredible, though I was too full to try it this time. Definitely deserves another visit, and I'll be sure to bring friends and family next time. There really is something for everyone here!",
+      "time": 1745184101,
+      "translated": false
+    },
+    {
+      "author_name": "Eli Brown",
+      "author_url": "https://www.google.com/maps/contrib/111831811267564565836/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5UbulBJq27o__J2nqRFIfmiG5vW9a2CxUQjFq_0xTdqBcx67uIA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 weeks ago",
+      "text": "\u200fA Hidden Gem in Brooklyn: Industry City is an Absolute Must-See!\n\u200fWords truly can't capture the magic of Industry City \u2013 it's a five-star experience through and through! I was absolutely floored to discover this vibrant, multifaceted wonderland right here in my Brooklyn \"backyard.\" It's so much more than just a complex of buildings; it's a destination that truly transports you.\n\u200fThe description of a \"wonderful Japanese village\" is spot on, but that's just the beginning. The grounds are incredibly family-friendly, with so much open space to explore and plenty of intriguing nooks and crannies to discover. Every corner seems to hold a new surprise, from incredible art installations to unique boutiques.\n\u200fAnd the food! Oh, the food! From diverse culinary delights to charming cafes, there are endless options to eat and enjoy. We spent hours wandering, Browse, and, of course, indulging in some truly delicious treats.\n\u200fWhether you're looking for unique shopping, fantastic food, a beautiful place to stroll with the family, or just an unexpected escape, Industry City delivers in spades. It's truly a place where you can spend an entire day and still feel like you've only scratched the surface. I cannot recommend it highly enough \u2013 do yourself a favor and experience Industry City!",
+      "time": 1748726461,
+      "translated": false
+    },
+    {
+      "author_name": "Liz Socci",
+      "author_url": "https://www.google.com/maps/contrib/115301760524481745968/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV4dT5-RKY54HvrmPxDX7XPcOWb5KNzLdcrImXz9J-GSKKG9z8ngg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Fun day trip to Industry City April 28/2025\nBeautiful weather can be enjoyed in the courtyards with seating for dining and relaxing. There\u2019s a kids play area and even a fire pit. Great shopping. Today hit the West Elm Outlet where mark down prices have additional savings between 20 to 60% off. Some products are new in box.\nDefinitely worth the trip. Weekdays are quieter than the weekends. Table 87 pizza is one of the best slices in Brooklyn and you can get it here. Lots of restaurants to choose from and a food hall and cocktail and beer stops.\nLots more check out their website.",
+      "time": 1745880563,
+      "translated": false
+    },
+    {
+      "author_name": "Richard Burgos",
+      "author_url": "https://www.google.com/maps/contrib/108476266976845646424/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXHkC8-cOYgYZQp4_k-VjA_Pn2LgCdx6uUI8X4L-J1xB9W4j5k=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "2 weeks ago",
+      "text": "Great place to go and enjoy the music and dance. To eat was a different experience. Not pleasant nor accommodating. Customer service basically stops at your seat. Waited for food over half an hour regardless of whether there was staff everywhere. Food was overcooked and not that good. Prices were pricey, but what you expect when you're trying to have Manhattan vibes in Brooklyn. Again, I am not bashing the esthetics of the place. Just don't come to eat here if you're a food critic.",
+      "time": 1749741840,
+      "translated": false
+    }
+  ],
+  "types": [
+    "real_estate_agency",
+    "establishment",
+    "tourist_attraction",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=10927077975028330837",
+  "user_ratings_total": 8541,
+  "utc_offset": -240,
+  "vicinity": "220 36th St, Brooklyn",
+  "website": "https://industrycity.com/",
+  "wheelchair_accessible_entrance": true
+}

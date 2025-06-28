@@ -1,0 +1,440 @@
+{
+  "address_components": [
+    {
+      "long_name": "1",
+      "short_name": "1",
+      "types": [
+        "subpremise"
+      ]
+    },
+    {
+      "long_name": "182",
+      "short_name": "182",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Avenue B",
+      "short_name": "Avenue B",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10009",
+      "short_name": "10009",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "3626",
+      "short_name": "3626",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">182 Avenue B #1</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10009-3626</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 5:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Family-run Ethiopian outpost offering traditional dishes plus music & decor that evoke Africa."
+  },
+  "formatted_address": "182 Avenue B #1, New York, NY 10009, USA",
+  "formatted_phone_number": "(212) 673-8949",
+  "geometry": {
+    "location": {
+      "lat": 40.7277979,
+      "lng": -73.9794471
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7291205802915,
+        "lng": -73.97801001970849
+      },
+      "southwest": {
+        "lat": 40.7264226197085,
+        "lng": -73.98070798029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-673-8949",
+  "name": "Haile",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 5:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 705,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112243261729619631344\">Gans Krown</a>"
+      ],
+      "photo_reference": "ATKogpeOoCX-_kPd3pNl5ye-c0ZQ3aeDWkv9XuY3pLrkVEOq7cozosIxV-6P6nCrSkBII05wWfj9O4RjjraiIb08MGkc9T7DECw5JxdTt33j6tOFgrzNIDg7yCrAghERo8r5I-mZfcgR3WEZ-RDreB34bcTH-hKj5TG9vv_rZNWPOkWVgCTK7QneVMLJNOT0NdBiUMRo8zCh9gOUlXoJpP9GkKUF1HixHccFbuBu24GfgHhT24J80hSaKpQ9Quk3ZY5ehI2ryghCwd1b6J4Sod-PV0xEnBs7Q_htvc9ndjY9VGE8WAmu8uS5frVkpSCe3ocHVLSSD5odLkCSX9z6tv9t0Iy4LO_dlD6L8QjozQUAHFfU4-uPIKsxI-9srDQZYN5xBZqVKeRhl1lo_P9LnHbFjlwS0KZEae98epEii03lEd9Dd1f7",
+      "width": 980
+    },
+    {
+      "height": 1365,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104111246635874032234\">ZAGAT</a>"
+      ],
+      "photo_reference": "ATKogpdGGwTxaIon-rxLsvMpwH3hOXecQLmYF8BAFt61Pe0aNZg1r1elLT-hKDPdOxJE6TY_Kq47ScT36sewkCya7NdffDP_xIOGQlkmBLL-1iy9XwWZHA0TOFXqsy_7UdZ6wCfrKd1z303hOtVCe_nJq77URnT0n02NlCC6jXpa5U7M4vc4lCwGJ9ApUGVqtoz3Bvd_Ekw26l4gt64vVszPwhHpbziNvE0dUo1dbkNWE9QAmyUknRwpT9j9bxXpffmgSj2XQvwh7gS9OQcguGlrEcwNkROgwRmw0Dvzue_97WN_1iNqw4A2U45bXtWOk-MK5sndhc5ozXug1FZFhUo7OFDZs1XhWs7tiMw-0c3NfGCYM5hsZMFJZzAPcq-c_7jBzODxKi1a32uEGlLMaG5scKxBsxaFluuAYQ3Zliiij0O7_dds",
+      "width": 2048
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106711984989775009277\">Linda D.</a>"
+      ],
+      "photo_reference": "ATKogpeTLPtWHM5sMd50qC1uKN0hJsIu7oIXBmGSTo7ihgTX_jda9z-98Ob2sgK2O64Fdhfrchu4PaPg3bjdd9zl_p5ISup7hA2rJQf-64Pw_zvaxL51gtUtUgLdUB9JiiA6hbkPDa4FRhmr7RTZZdkMlLniDvcywuqIXOv9BFjcXST6fbz-0k3Sc5rRHPNLfBcjfk-q_ECoLlBKhUirRoKkZjKHs1LwqaGVCc2CTi414oImK4B70Vv2Cg2-dxMlqA4FaHMXVOHQRfURudRxOyZ1gB1Wn21NgbQrDFzhZDxAjcsoHX07b65_GTAN52W0QsCTZ39u95ql6laG7BZHPOI7I4SIEIr9OsdLzViC_J_T_2w-wXO-Teh7rMgkf_q7vTUbep_ZddUujj_fhJRIrjLTdOJg-Y6CuYXWNh5UGJyIZHJ1",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106670592592683178537\">Laura Yee</a>"
+      ],
+      "photo_reference": "ATKogpdnLt-iEo0dxFncuvIO9wbwIs0JFzet1A2hMW8g5xMnzapdqkJhv9BRt2A2jRo2F3IGt6RUURTYOrtSdcJZ2JAL6Jl-f2Lay81tJDEVuiQaz8A8IJbNMdaTzNzd9et7uovmM1YBw71w9e9TL28Rl2yNwOcM7VzWQdsdA8XCBeaitFo6n81tfdpjYnXnI5NllxDk9QQlzEP6kCjl69ZGqXSY_ZhKcK4vdJYjUKViMXfOC-2wZ3roapqqpFD1QGE24r5ksJFTDkIz8Kbg3l69O3onTigywjDluy9lq80s3pfvodFw8YEB2ZsELoPpSG_qttc6kMiZvGzI-PDiBrr93dZBZFnDS47Hi6fBY4cVN1RuZLSDHkj2GOvmLMSsOgvPhJO35mdDwAA-1EVDG9_nybKX_GeyII43x2bWFRcqVsgAefE",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111105516392498600016\">Eva Delawalla</a>"
+      ],
+      "photo_reference": "ATKogpegfiZxH7ffxb-AZ520xnWBxJBDU6N-wKec1SByG9sRn5wH3v7KFiHHz5zMepJvSFlOeDJ2QDLnKNd6uu38axFPfSjwDXGSLJQgzlhFp9PalaOV0T6qcZfE3K0pWmYUAnaCX5r2svNTtVXfH8HWYgCsMOF37NSUrP6kfibntnYQ-BmZex6mrwWOlDF6j3oejO7DPP2UBo3UJFqcBnFYUOuZT9my-m09BxU0PA-p6w-YEvLTvYnsJeS5HES9pIFZvaStoV8it5TNMlMdnIMnZK3WXk4Rjz1YxvkY-S5ErTTn812nUJLsjkTBtL1qw9T0KJ8pKJWPApWBJl1Mwf3hSEZDJ9BVzjVSnOVFrhwvjilj5voHde6l-jYG1KcGLic250WRxBc5KuKZRgV3uevavQviqAgIfalJEGGeoYfUfSTs2jI",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100330441817737024255\">Carly Pisarri</a>"
+      ],
+      "photo_reference": "ATKogpf-SB1mfCZWlkB67o4xMjNLDFVniwjt_hLOu5Fn6gyh5d4DF07CtdtJ-1p7mBpVbypOqKc0Ne7NvKm1sDjbcgbvwR365gKumxKzk8vn-4B460xN2kvun1P5OI5BNCmYdvUSGaypSNKBHJjwME2OKt5BXkCQspXk0lZnEqrZVjXmt2lWREEGbPHKa0V767E0JCcSYOyH85iDRR4tKHPzOW70G15F1sBM-YPgcrDPNPP39d2Bfj9tarES3KpRGaRncdSgIoLz-UEAMzvle4IoxS228hGriltP1wyshux0NUfwc01eVk3_wsyWoiFX_OAGKpSV--ZL9y-gozQqCMyXWA0VIfzUuI5jjrR0RDMC_p2QGvrWQbHqv5LA5CaZg9q8YThT62pnT7rE5mhEuvmivUL1vwti-jTITt8SDmqoMzshiK3K",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108866035650244580925\">\uc96c\uc288\ud738</a>"
+      ],
+      "photo_reference": "ATKogpfTThpbzGBQt0F8RhcmD1do9NcCvw1a1_KLAQAdiF173kh-8rFKIBDnqMnHujQ6F2SYr895D2SlEmbcSPBSA-odUJsyVpefUvR-JmBhRq5addRZOySo6mUouBYL2HqhAEwGUTO_up0-VXeXfcUwVMg4ZGQJpdtQP7gssYZhnZLDLbr87-bQWAqny2RSbTTdg3XmbKq3MjZ4azHe_aEIwiuO_TGhkVS2AE1iUxQorY-rJe69Q-TDa7EQ_cPyuBA6cWiZ_tcEfGu155o9avkLTkovbWIReh-cO-Px4BR3SDilfzmDLEM1BEREGuJsrOSmdakUnn6JiIqb91nPtWf-SQMUQbA8nOWbXbRb4LLglFO1IAXyIMNjcFit6ftZAOlU2FCGIrzpJCN1_ZLBbkE9rV99pZFTNNQAo9MB6U9MpAU8gR3v",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105637913706276139020\">Kristian Laursen</a>"
+      ],
+      "photo_reference": "ATKogpc4pmQMCjRotIjPdTzJChOV33s9sUdvE0mtLxM-3PnaFDZc0gLZvqe_MEGwAOEKcwszOiKTXXYGI4oNqZZly2vhDnd1U4zKD-cGCDz8qr_RiOj4qUBAs_HE_48We3J9nD7xJTGgnWnV3czHLtZmCsWVl6qJgU_TYkzKeF3xFxd4MbuhImpohqTS4lHq9hiv_bEs8KCYcyP-Rn4Z_Stl0xKKjjuiBvQp3zNULt5V114xyjMAweYc6cZ9LliCxWR-fSssirXGGNZAO61t2uvJE7Rb3qInmxlx9EZQ294XR_FTYSHj1HlFqLiqL77Mk8GLU_kmyGk2y3_SLITyU31sXLW4xXiWNz9e1Bngj_jM6c837_gA_5N-Vtj7_NOdnH6HV1rhH1txNzokwCZXXepL9d7yWqPVAfhsqNZ71JnXsXL-Bw",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106711984989775009277\">Linda D.</a>"
+      ],
+      "photo_reference": "ATKogpeFQyirRZbx6jXXMU_SpSK3mQvsE4TAU-5dKJkpBcrwreLNMYs3lDB9RkBwBnJci5Eq2FbfaGfMCmnFEtuqipK-YfvHfIpVFoXsQc2bNOEJOcmsf8PSYPruwQLrrBjLWjxD2M2cPb4-3FdTcRGvm9-Qi-ZZ83DOqa6jKP9SgNoSHxj31NbhE9NuMOhuJcZYPwUnXGf-SETjq-DvaHk_m1szHgXNDuO1FmV1zd1ZYXMwgJ_uL3yWWj5J-lzVAESHNW9ilVYFehu6TLq4JJ5lLTAzV1CZ8IQwzLckwf2Kkdnd3Bqci95vB9noOfKb8XP8N03PVzolAP4jtDrgEPRZyRnZDWqbmqe3sPBsloGrWbXEvX5MVWrcYuoB0gnMrAXHuMKpH2fYMf1NhhZS7myXT6VVy7Zh-q8qkwBJG9EkyN8JTg",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116775425678962193609\">Dani H</a>"
+      ],
+      "photo_reference": "ATKogpdm9aXjjcwNFrGx7aR0oLt5WDa8y2dimEfEJBS1Kzgz2jYf9llPhzh1kOSexDoX4W5ATeVrvOyPlw5x8lYchUZxF8umzmqhI2SBXYZmf_2OOuDYCSzZUfxLUiVIe_PE1GISIBOAIZ-_k2qxgQVp8E7smaSqJzuzzYV7Cv-0etL-Vz-e0-T8qVbeo7qFRMzo8fWgw5WRIWL7ap24bKNlq2zine31THL1TM6ze0Xhbe5WoO9ZpD7fe_nwZmZHgWgmCcT-5xuDX4y7fTv1ce7W-UK7u6Yw7h4CUomp6vqi_1MpnXRQNgCitG39giVlitYsdp_gJIiixUQFWLjTO4Au2mZPSdqbeyCDFSBezQLpifD3YTP7ntSmk-mwQJsUg_upQNDf1cocE5kXfbJ6LdoTWOXgHEjQnvp1YJVXMdUp6Nw",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJ6V1F-3ZZwokRzgGGwicZh88",
+  "plus_code": {
+    "compound_code": "P2HC+46 New York, NY, USA",
+    "global_code": "87G8P2HC+46"
+  },
+  "price_level": 2,
+  "rating": 4.6,
+  "reference": "ChIJ6V1F-3ZZwokRzgGGwicZh88",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Daniel Kimmick",
+      "author_url": "https://www.google.com/maps/contrib/100820704196760204119/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWQuw84H7lO2m-kZzhRKJLrFK329syoAIz2QM6jgqiqgToPpDO7=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "The food and service were both excellent.\n\nWe had a fantastic time. This is the best Ethiopian food I\u2019ve had so far in New York after trying a few places.\n\nA good portion of injera was included with the dishes we ordered, and our server brought out more fresh without extra charge when we had eaten about half (we did not need to ask for it). I ate every bite I could physically fit in my stomach. The vegetables were all especially delicious. We had the meat and vegetable combo for two, but I would definitely be happy with any of the combo plates, and the vegetables are a highlight.\n\nDefinitely going back soon!",
+      "time": 1748233844,
+      "translated": false
+    },
+    {
+      "author_name": "Linda D.",
+      "author_url": "https://www.google.com/maps/contrib/106711984989775009277/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1rP8fTwfZEgcNccv1c023EX0-6LfR2UqupninFd_6S6b1UMfW=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Love this little gem serving authentic Ethiopian food. The food was amazing full of spices and the owner is super friendly, offering great customer service.",
+      "time": 1739327807,
+      "translated": false
+    },
+    {
+      "author_name": "Ketandu Chiedu",
+      "author_url": "https://www.google.com/maps/contrib/102782847185698817452/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUzahicKwvctNmLYxtUmlYz9lqlj5bTaIFXZIPNEwxe6ynukTks=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "absolutely love this place; my favorite restaurant in east village! such a cozy atmosphere, the ladies here are so kind, and the food is absolutely deliciousssss. very generous portion sizes as well.",
+      "time": 1738721620,
+      "translated": false
+    },
+    {
+      "author_name": "Carly Pisarri",
+      "author_url": "https://www.google.com/maps/contrib/100330441817737024255/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXCKs4w-3P_nqNd6sKITEqDxg_txDHE8wyCGyUUoFhydCrWCcoU=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "This place is super cozy! It\u2019s run by women that make you feel at home. They clearly work so hard and the place has such positive vibes. The food was so authentic and layered with flavors. The service is attentive and warming.\n\nIt was my first time trying Ethiopian food and I don\u2019t know why I was nervous! I really wanted a delicious meal and I definitely got one here. Highly recommend this place!",
+      "time": 1705849994,
+      "translated": false
+    },
+    {
+      "author_name": "Nancy Verma",
+      "author_url": "https://www.google.com/maps/contrib/100917166338682853409/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyKv18Z-qeY3YMqvVAwRXHpjIj1NOs2ArB6vb7lskZG_kKgg7xnA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Its run by 2 women, seems like they cook the food themselves. Food was amazing, almost like home-made food by mom. The ladies were very warm, attentive and nice in serving. Definitely coming again for the cozy feel and great food.",
+      "time": 1750505336,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_dinner": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "restaurant",
+    "point_of_interest",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=14953948746265002446",
+  "user_ratings_total": 508,
+  "utc_offset": -240,
+  "vicinity": "182 Avenue B #1, New York",
+  "website": "http://hailecuisine.com/"
+}

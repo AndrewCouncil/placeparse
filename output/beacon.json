@@ -1,0 +1,165 @@
+{
+  "address_components": [
+    {
+      "long_name": "Beacon",
+      "short_name": "Beacon",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Fishkill",
+      "short_name": "Fishkill",
+      "types": [
+        "administrative_area_level_3",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Dutchess County",
+      "short_name": "Dutchess County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "12508",
+      "short_name": "12508",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"locality\">Beacon</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">12508</span>, <span class=\"country-name\">USA</span>",
+  "formatted_address": "Beacon, NY 12508, USA",
+  "geometry": {
+    "location": {
+      "lat": 41.5048158,
+      "lng": -73.9695832
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 41.52494698333152,
+        "lng": -73.93517709099129
+      },
+      "southwest": {
+        "lat": 41.47992300626503,
+        "lng": -73.9893179537124
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+  "icon_background_color": "#7B9EB0",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+  "name": "Beacon",
+  "photos": [
+    {
+      "height": 3592,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110714699499736210311\">Olena Sidlovych</a>"
+      ],
+      "photo_reference": "ATKogpcwMsn2MpdEHNUx8xs0BBak1jas8zAHYJd8slBrnwvYPO8VABRVEuU_50RlfNj3RaDsrWOWGt1G3XkJdRIZ5MkPRKml_wWV1tFeEKqkjRSTkVaRo760EVK_XX5LGs3hvK5GYuWjkPhtgzTD_f8eUysPatYJL8Q31czwakPmICVHPnEtBBNgsvXvTKrSqP4zf0OWeiGN1LrQ7QpVYmRJKVexyKqjEt9zb1WETIXP3nZQ7542kGPS50mY6sGp7tOoz0lyGl5yaNfxpwPUrfJQ_n3QtC299wqM2svGW2lp8mCG2oXp6egCRjpFE67wKAlz0Vq_Tcb-Z1Xyy9al3MVsgCwJXJHJSPEZDuOiPb2jYKLWtayw3mtTOjDcX76h4JYYR5OL_5mPZ7o6xr3ENIh8rB4VNFY5D2wdwotWMiJRBOtgDSv_",
+      "width": 4800
+    },
+    {
+      "height": 2448,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110714699499736210311\">Olena Sidlovych</a>"
+      ],
+      "photo_reference": "ATKogpcOyZSyVcbCVFEkeA7CQAP3tP1h8gSR0iX8HKbJ2k0lrVUiaOwitYNjwqsbDoOoIB_YG-7RKPVexajMyE-9GIr-0QPebE2oLK4LmmHRX7pqPdmhmD2BjcnEC8_dizV8WOAoLmA45byq6kTXMkU4vsFm6DJHv5BEs4tcLZG9e7I8DvD-3xG3bGYIqU6wmC37l14RsKLLyqMVdFW2KMlqXYJiXxuQy0ekCpBoTWRQ1BbKIeVtHoSLTonEXvGbcHxUDjUXO4-ZCQCyQ9NuyVMb2TFh8Rut9hL8DNB1eMFAVp-cs74EgXZXkQPvKYEkhwiKZn_trlV5btGTAQ7WFaN20dSRD5gmbAL4L990d3PBe_jfNc0ULL21DLTTraXw1D1zjwmUWxrVZayqnO-of5UGHvXPCsJmo0cruqjxnUMVYTFsLg",
+      "width": 3264
+    },
+    {
+      "height": 3881,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102169021195287746448\">alla bevzenko</a>"
+      ],
+      "photo_reference": "ATKogpeqQ0-QM2VEb_TBqxOAnJB02VkS-35iRBo_Lw8XApcAqn78TY6MvACAVnt0pA1pA3Pb8mJ8YdV_lWLBf-6O3t_uripF-5l2hWw79IESSI3eEWCEoztTUUEt0ooocyANBLLpsGlq4YDd6nTD4YSoF9C6sMkuUUD_rRd5Rcavidbet3-yAM2WLIgG-IX8N5m1SbXtlMKRO-012enP2BaHBsDTU9HvRlh3WCeuIml-oKHwFB9Gz7S7IEma9B5W64MTaBjfGAt006_O_mtlI4SojSQruuCw-bCMd78aCGl8vzSO4Gf9fzpoHXLoP9Peo3iVI5UAhYj_klfNL5iM0L7cs_EWwYyVMSNrrvop-kyv6o6wwKjziF3c0Qpm2aGcJMUm1yq17VNInN8CDN1xFsvDbQwfmdO8d-PK4jpEZgBibMY",
+      "width": 2790
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102169021195287746448\">alla bevzenko</a>"
+      ],
+      "photo_reference": "ATKogpeQ4L6NeSdlhH2Sxg3G9156nxZrJZVaOTOHg8GwqsmzOe2y4d_Q7R-zjkoxD4bhhc1A8rYOuybLTizNH6vwB-gW84VDy0guOrlCCfL-3PI31ZNbM4AeZNb0A4q-8ts4Lg11ZR5_URIxtBUClZwI2Il_L7yAzpr9SzQmf6up0-1Gz7x7gczgXOY4XYyLYhYpgfOmCOMa9ybvLkzPFKOf1OEf34G69AZsSBL7hpk9-bg7rFEWOmu9CX1Liqz99Mtl1yL7zvdM_9bspALnRJ5WyEDHLIPfWqUvzUniacaXTGwfraDUWbUKxeeL8jtP99Ko5bYVTvLLDEtJIjsgj_fRl5AZ-9TNzOvWj7aqUpGKXycxUlwRvFZC5P5qtV9GB4ZwdpVjkKfNWKM8Pa3XAbB4uyKCYamk0Wt13uckYErhQ1u0wA",
+      "width": 4032
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110714699499736210311\">Olena Sidlovych</a>"
+      ],
+      "photo_reference": "ATKogpem84fgzm54hSYHkPsj4kK88e0QnrN60N1qn1LdkOXFcq7CR__xPCZ_izigMFFjkyciZ0fp_2AjklFLQYZghxVKnF3AwJecy2zEUp4gWbur6Uym8auplMFCujBG3_QXx9NTYVx9dYT4-22kH25QvFBbVUSr78INZyTpPSV2fhl_qWKDPnbXc9oxJk4qHPQn5-Lr-O0QYNYxLO-luMiRKdCtDewL9S5IeDP_MGtdZfMD3HFwQQvaKsmNdu-4dStzUUUwrM_Jx1Gi5MqB9_iB9xAWjD9oyjjkuRAeiJXMq4-y4VUos_K2oNu8zDEYbY88fx88tTn6kBw8TtyB2HSTX681wwmMFUydR90nPhMvSTnNrqAwKWMEiKzHTYTu0JsOAtxkU-of9FGT6F_DZF3xhPs8-LtkHshz5HM8sGz_SxC69g",
+      "width": 3592
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102169021195287746448\">alla bevzenko</a>"
+      ],
+      "photo_reference": "ATKogpfKByjI9L4NfzmHTQRNGoDGZUDPOEmeSnQSuoFA43kSQoTkMfa4fgPjx9EarY7Tp1y1vw_WFdTp1frapUHGSFEYlchZv-mcVfMAte369iGfsAtKWz03nibdz-6BUkfYPuPc_McVoopGfgkSALkVbVVfbymyHYqyjGeax-YKzOI_RU-dSnt65whrZV-HYtLybcl_bU1kMBltLhMFCz1i0iZEbYXCulUSl2vCKvndi8rle2wN0dbZdzS46XzuRlMCTXYMl-QWFtixi4sHCCG6tYT0f2f_29zhuGVgMy16YVQLQip7cxBeWAV0ppZk_JX7Z7Izg8jykWgLDnkNUKVA5ABl_c-A0Am17sxoNPqltJUVFmLPjpFtS4mkp6JrqRf4Fb0F3VSZQ3twaRMiTr7magqyY4qtwNEuL3-bhi-IQqNR1w",
+      "width": 4032
+    },
+    {
+      "height": 1960,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105160089495600001294\">Stefan Ivanov</a>"
+      ],
+      "photo_reference": "ATKogpcoU90R8y9IFcYpWb8uFIDgEKCUauHAdxV4N9_BIov8np0pwN2LeAxw-eWNjUyHrEH1LCF2dnIcfsivYDJp64N22NiI1gzjXiBe1HJKJphPtHFsyNj2I0Sh6t21XBKGF9ElqnD7sLkW5wgovaLZNtKU_OkeEVLhVwwruqpiVlFmGMk2-tdX7rBVoFsA1yeCy0YblGT3Rrgn8bp6qtVtcAsWDt1I92JXq7vqzyQZeC9j_kJiSEiLRZjJU-8QFhfHrigIE7nj155nV8jQB_Lu-YJ8jZp8vkKltjRMkWV0fOB4eiIXqoSbOepDcD1fv71d_36XoJzT3ET8gC2fNTZiDL6e6pJ10hoxSnd-mcVkaFgbo5g2XpujVi_715UcE2aMZv0oiZJ4PxOUkbjjNzXQRHDsPN-n70URqo1PhDcErQL7hA",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109276201944452906170\">Sunandan Pandya</a>"
+      ],
+      "photo_reference": "ATKogpdtWD9CtRfRpu_xe2xtevGTXVLpnu05InUBBlN_w2MFmqIrvFjkYxzZXcC2qftQUbsc2VhLfrDiv4CQ-98eGY-8ZSF5U6tPgyB_BzdKlCBoXEazGrt3IECdXsOHP8fqZNBJmhhCPHRFMlJgrxeX2kuyFAOhVtFUGXU8gmBrFmLiPhzfhc2qVCL6gAwQSvvT7i1mj5HXNjRwYCTjjuZGoK2w72EgIARbpV5QVT553nbmgmlt6pnF2leuYRjN97FDYUo7EJdZG7oo_N2WDkWZ_1uGoZbxnl54QMoxceDOWFiJkFABTE8c62dF8tywd3mEvS7DwKocnu_qOq5ta0WnmE5DqZZKTTJdHV5qArZTBCqhqmrwh6TVXVa5GW0Ipmfgz9jCZAorfO_7LaGPfM4JfaiGJL4Jth6js4I6ioToF2MBcA",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108585025234485852384\">David Herszenson</a>"
+      ],
+      "photo_reference": "ATKogpcJ2EsDxFUaUW__W7KiHknkL-Xwehi1bna5AP1b0wB97Amu3Gw4ipm_eJjsOXqfH7Czqv5OrNyLHMsxNFyH_ZUZ9Zb9JkIopdSrNabEEKuGtZyqdzqt3jn2s3j0aXSoqIJ4yKQneenxthPD-jKo5uvgiHXAfJeq_GV27Xv8plJ90yzTX2P3USDE5dBLVrjb3vzGC9j61r6K_LqjpLR8ezid6GW2BycZYZLjgNOd-Xi63ZQTckL9gT1IadqY2kqCT5z7lcaTSeEbHNc_2N1k_XqXRvQU_XrBnYMWtHX18IdMgqM740iuRSYBYtaAKr7XUAe2I4Z4cQRatFRxks-uExz_4xtHZiQH7UEfJ2lpGPbz1OGwKBn-w1Jr4qKn0j2nEh_0YjImt2D3U8U0w1yAVw-wRz4qYo5fO6nzWifBZPSsYw",
+      "width": 4032
+    },
+    {
+      "height": 1960,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105160089495600001294\">Stefan Ivanov</a>"
+      ],
+      "photo_reference": "ATKogpf66MI4rPdN9GEEbvKmeH2wLUY9d1LR3apDhD_oiCPX4muwk56i4s0MY-VdgxrN3srsAJxShOG3YCZ8o_WpPx7jm5HbZqjLZ2_-chFLpniC7AsYdHzeCaex5JGoPuesU5MMpxR0fFatS19UQDyd3GZS2MMl7fuy5IHvZkad8y4-IGdyr6Rsp1d6_0H2VdRz-vlFurAOH6AoECgZ4xHuKMisSQAtR3dFuYKxOFbvysqWiEdDCgywPpV0wwjSdmppo0hBOQg6arZNwEYTs5SgBwo3JSK9EgaA9QTWradOoFOJ70qSGAr16sHzRDl52ps_iwYnQvuCWgxPDUAI-KVFoNRXrkAA7EHsrGY1A9vM8H6llwo2JXfZth5cgtB8cYGi1VLSekiBbu91yqHmRxV7KoLuL70ORqulrd8yTTmOc5E3yPd6",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJcV1uwFQz3YkRW1hFAG6ib7I",
+  "reference": "ChIJcV1uwFQz3YkRW1hFAG6ib7I",
+  "types": [
+    "locality",
+    "political"
+  ],
+  "url": "https://maps.google.com/?cid=12857674054500702299",
+  "utc_offset": -240,
+  "vicinity": "Beacon",
+  "website": "http://www.cityofbeacon.org/"
+}

@@ -1,0 +1,561 @@
+{
+  "address_components": [
+    {
+      "long_name": "55",
+      "short_name": "55",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "3rd Avenue",
+      "short_name": "3rd Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10003",
+      "short_name": "10003",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">55 3rd Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10003</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0000",
+          "truncated": true
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Tuesday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Wednesday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Thursday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Friday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20091:00\u202fAM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u200912:00\u202fAM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "55 3rd Ave, New York, NY 10003, USA",
+  "formatted_phone_number": "(646) 590-0034",
+  "geometry": {
+    "location": {
+      "lat": 40.7310965,
+      "lng": -73.98850790000002
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7324917802915,
+        "lng": -73.98704951970852
+      },
+      "southwest": {
+        "lat": 40.7297938197085,
+        "lng": -73.98974748029153
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 646-590-0034",
+  "name": "The Dolar Shop Hot Pot Manhattan",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0000"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Tuesday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Wednesday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Thursday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Friday: 12:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20091:00\u202fAM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u200912:00\u202fAM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113515501994036029577\">The Dolar Shop Hot Pot Manhattan</a>"
+      ],
+      "photo_reference": "ATKogpcmxlbvsTwVZDg_M15og8OFr-mi1hVz2NDR2qUkoP1o5UOClf8HOHr34Fy5ryFmRuEUKRg8ouPq-3kiv6bDH_42Q7_flEeAIQq3OebofzC-Csk4PKpMuVvoVwiiIvYj1SLAC5JSWi57GeBFwOOfY_WFc0iLyDZRqWBv4rm95__W9ahdblO26gACcLw3R2PWmph_gqmxJtlfrtLjQIKe8YWVkk7WAf8qqcMK_3_cjWt7gMCf2LjouyHUBsWHa0tdcaqulvarpAn7miSQqf_YyTkCewFSpK-0cdioKBpktUxy8A",
+      "width": 1440
+    },
+    {
+      "height": 812,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113515501994036029577\">The Dolar Shop Hot Pot Manhattan</a>"
+      ],
+      "photo_reference": "ATKogpf9R4ENNyBrVEUasSwcD_eW9K1WvySpQuy_sqJQaFmZOIqi6X0mz4uYJOlcsOSF1VFAch_JbTwL8LLhOTek2UerYp0ELsh_gcjrlACv40g6meczPJgjh_ZCQd-f4_VlFCaJ3kcTNptpJbHoeYdvZSpoVs3BMgpaEsbajzAYWfH6Slt8drDO7HLmnu1XLSaWI4qvlXhdzqKivld8mLb0xt_lukHdwYKePHt41iZxAZhj9ugb2wKb16q1LRQgD3cqATjig1zZutFmpdwZm7CsUBys7ho_spaLQXvwilX6mghp2g",
+      "width": 1458
+    },
+    {
+      "height": 3199,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110295011805227695938\">p q</a>"
+      ],
+      "photo_reference": "ATKogpdnv8Qt5dZ_Ipjv6Ymns-15s2u4wji9weR4TUy5DHF3MhZVxHrkZr4391dERu8e23paKUn5RJ9EMLn2QimWA-pi9jNZI4KIsxlLmdiHPGoSUXf53loVSKRGoj8Musvv_ol3LC1O4bkxCEo4OiQLD5aO6wqL87mxTnsgh9e9SjVK7wLDP4XsHIn70MWYI2fM8PQn3U26-WK_rdRgetYN5zHeiYpojJZTYWJN8TJwd5IRaGBoXl3psO-zpat-3zwoGY4s4FekPNUInKI7oGzAzBKrI73fs6EvlSHhqp2qYS0gAwuZ6QBZvF45FD1_s1h-IktREDEqKxL-Yw16smxJQcp7DuLe5mgM0wS7yvmnx88H0Vyw-4aW4Cyrxbzyw6y2i8RyZ6Qz39tVRk7tl0kRT4R3d8-E8WrGM8-zuiA37Mo",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107302682122944777246\">Yiyi Zhang</a>"
+      ],
+      "photo_reference": "ATKogpfDCqaxHfDLrdA2wSN74DqmpoJfmABVD7CjYfhvpPklwOUfidAbNCT_1S_b8AY9nuQfo2E8xHRwbc0lBIzlqWhNof69tYoOgO4RkdTIXhQadnGmfclV79Az6o9jD-5nUp3Ja65g6Kggc763aebMgs89dfWL6MH9025MPvCqQ-RjMwp7LULvPajzV8_NBhyX5PlVtrg1c8THOxDBhekUi5z2DkWQh0c7P7sIKVLpBxS1JuzHcgaGDeUT1hgRheeJR8alskGIzPCPGYcNHFKnaNZmqaP03wOLuVNWp-r5TovfgBEdCTbJ3xQoR8eupLxTGuCPfesPHR9wE-MFSURkrc1f9hLOj-azjzF_znaiklIw0H6hLUHpXDVuNho5m1KNz3B2JeJ1bajQERtOjDBi52uxJhH9K3ltyiggfyS6aj2gJg",
+      "width": 2268
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111527803881904251285\">Anya TH NYC</a>"
+      ],
+      "photo_reference": "ATKogpd5iITHFUtY6ASs37ABtOiLey5mELNC2A43gNEFxmu-d3yzqZrc1KExiLRal6j1mOTAQheYMXIBCa4p1ZmNvN0ym8De10Jk3KxBEgm-MaLOieOWArji4qY2X9FU_Vx8ISjIU426F0-kWvOSxT0qarbHbLZCkKuuTmTVSDpykbAM91FIVGyUnUwanHUhrH1y60OcJp01_eXSf8XQZm7vsCSQ5nyGYzNho3z8VplSlB2zLw60zpz98JGmDv9MdHEEt2I_pYWS0GnkAYWDvMHzEYord2lOSHFmBk_srL-fOrkk6upq4lXKKkQKTL7wnnNmTuQs1puj0SaSnQ2gkhiCRjRu27WlgQgkQ1qBNV2pIpRITHRlhrkbB7FBipsPmzmA2wf9QOQCuq6y1a5kZPQuP7r4HMfvj4xuUZh0FOYm9s4kHIM",
+      "width": 2268
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102367982438639936393\">\uc870\uc544JJ</a>"
+      ],
+      "photo_reference": "ATKogpdz4jk9cpp6ifELCKXpdiff2jQugf3pH1SrwpA1ChY969XfgDp2aFh-oBy4CK6jkAWa4XEBJr0SbMUANHJspMt7JzH7tu23VKFwE13b6XbVaKF-UL0yS-dm_SDGvLHoGxNIGCdK0IMo3B0wNTe7mmpD90vGG77JJTly8mD2mVMXh48At8NkIeAR8ogTe5t5tgb_0rkmHVGuHHesu_2pkImpTP4dpomU6FlirgLzfsGkP0YTbqJWOy55PK0Sg4dJm0_2Jw-CptM-HOE__QI7paJ8-VFVimMvv1L0AeFyu8-LAqMJVGMXA1X2BtOOWOEhslAWVlkynHmPn3phErSTRYRx_K4tl7ArtZXr7kWNiaTxrXyjxW8I1xvAviRcY13WyKMIZxExBBNYsQif9tsylV8MYirFPAecunKUd3BEfVozcErK",
+      "width": 3000
+    },
+    {
+      "height": 1706,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113515501994036029577\">The Dolar Shop Hot Pot Manhattan</a>"
+      ],
+      "photo_reference": "ATKogpcqDjbOjNUj4IEhnnopEpmBhLBBxSHVHzJIwam8kJU64n-QuFY0ZNtA4JTX90LnUkDjVDUn5e6SijGsoXpN4mxcnHkAtew3jPuzDPcKUWWQK7q92_XJhLCXu4qKfB7-w4nsnvPJBJbu6RRPafRxDIpiThsD5CkMyIKzyUBFR4U_-TP7HIaLCTxU0nYOl4xZ_ziJ8go9ksTJ22Gw0ekcghYusnHs9RkC9sy-XSNw0EX2lLwtCcRqU6skoZLSim1y5DG5fegCts_1-nO8tFy0jkMnOgDD6GKtFVx-QmkxGVNcpw",
+      "width": 2560
+    },
+    {
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117808460219123378764\">Ruwan J.</a>"
+      ],
+      "photo_reference": "ATKogpfJop6wGW1sRhIPMiwsZyawiiM6-4THGhOazEGfresXNuahlsZyefSjAQKUhtZGMyqPxTcBN_epIj8S6VKr1T3nY_9WZ6-coYJF6PrYF1I5tD7ZrL7SWJ1EzF22PLHRliZHJRvQKMWS6bs8333p133aqq13EA091OUPAKwg6p5FVOc3FiF8ti1aJR5fjk0ctNdYJselhNcNCVMQ70yI2d9V-wozpndWar1lw-l9gI2aBTvnyV2Oeo_hNqTsj_HPBNg3E1JB_sOcWbT14kgOHdwGrkjzAC1QdcPWLvqUAQ5VDY2z3YvKmP6rhuK1s4NDFZLy9Y090sskcJLkV_AbiC1IqQ_XM0fgssv_PNShgbHJRgWsiGS8U5htRaift3STxHuAkmuYgZDnFWS7M4aAwX3tuGYcgpK2LHBvKoP57K2uiRi3",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109302935570778502908\">Shih-chi Chen (Alen)</a>"
+      ],
+      "photo_reference": "ATKogpepEOvLKSurmvSkCNDb88WxR9253SiqLPjUfIzIxjF7h2G9cHCTlh2RvNzPl1TFhGwfMMuIaKzfjHtY6X15LmKm-ciAlgrgvzIIt7M8rdWmvYFW_RatI4IHYDYqo0OXVMXP4vpTi_tiGY0DuboOQNVWwM7JhWue6OOpbV24untwnVe0IeesXILmnRPwgO_kAsLnwePboWBN776XNfBmoKoYvq2Q1PUyoPVLFm_boivzZ_N93U93YBupCtFiOznY9cT_j0bWIjhBmMlYq9Ld9j0j_GH85x-LcsU1r2FvtCriqkM-jqmczcLNkbwZ60BoBhFQFnM6DXOlc73GSKQJcWXN5cBFQZdTKXZRY6mAe60YJMdo8gpmySFTLYRQDnCx3XSDbJhRxWOFg1aBKfZJKKnHJ31Gcf6wXc7W4Et-vMfUsstL",
+      "width": 3024
+    },
+    {
+      "height": 1048,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110033063546639750402\">showhow zhang</a>"
+      ],
+      "photo_reference": "ATKogpcv3YGaGxS3YqQXOTSkVauyDMu1SmHbx-V4euJbN94KJMb35vtmttakEKykb5ka7rHHwGIsc7RZya1xc3xpDXLHEybcsXjin0ZanNan09g1vAkNjo5Trf8elXgOu8C75h3ntcBfuVrvUrQe0kbndtZmRZn22DQNnsWo4dr9aTM-LDW6srJTwSwCbn_V1FrDVWb4J45_J9d4xa-EICNEm0pM1iZKnxF42Ii0OUN36wiD5FRNCh0iWPEyEh5wI0SBXP1ya9pAtdl-XmJave3_LLfyhWtYPp1tU5Ax0MN28etrcp6keLO0QnP3nf3jo8tR3O1EUcUScLvy5ECC6ZFlRjyK3TD81MN8EApbNeZ5NENBobuAqeGtYuomMf0UcQESZ8ue-NHjxBT3E5VdbdPVQQvDyOZkzrQMIZlJL0lpE-PPvOBJ",
+      "width": 786
+    }
+  ],
+  "place_id": "ChIJaVSb2EBZwokRJMIsBasdHpg",
+  "plus_code": {
+    "compound_code": "P2J6+CH New York, NY, USA",
+    "global_code": "87G8P2J6+CH"
+  },
+  "price_level": 1,
+  "rating": 4.4,
+  "reference": "ChIJaVSb2EBZwokRJMIsBasdHpg",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Yiyi Zhang",
+      "author_url": "https://www.google.com/maps/contrib/107302682122944777246/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUgpkh4YUKVs7KbdQ_bvFZ5B51KlHxV5sdQgb7CWTniPlK2lPc64Q=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "I've been to Dolar Hot Pot near Astor Place a couple times recently and was really impressed. First off, the place is super clean and modern. Everything feels fresh and well-kept, from the tables to the ingredient bar. I liked that everyone gets their own individual hot pot, which made the whole experience feel more relaxed and personal, especially if you\u2019re with people who have different tastes.\n\nI tried the creamy pork broth, expecting something rich and mild, but it actually had a decent amount of spice. Not a dealbreaker, but just something to know ahead of time if you\u2019re looking for something completely non-spicy...esp for kids.\n\nAll the ingredients were really fresh - especially the vegetables and sliced meats. The fruit and dessert bar is super nice and nostalgic as well (a lot of authentic Asian flavors and options), and at the end they brought over free ice cream, which was a great way to finish the meal.\n\nThe staff was lovely. Super attentive, checked in at just the right times, and made sure everything was going smoothly.\n\nThe only thing I felt was missing was crab. They\u2019ve got a strong seafood selection overall, but adding crab would really round it out.\n\nOverall, I had a great time. The food was fresh, the space was nice, and the service was great. I\u2019d definitely go back.",
+      "time": 1748752932,
+      "translated": false
+    },
+    {
+      "author_name": "Jiao Zhang",
+      "author_url": "https://www.google.com/maps/contrib/107428776093363914806/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWWZgXKgY9rTF-k4cpXNOSYH-6BPvbB7sGe4T2t9i1lWrgweym6=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "The hotpot here is one of the best quality in the city. It is a bit pricey but totally worth it. The dessert is amazing with various selections and even soft serve. The meat, the broths and the sauces all have very good quality. The atmosphere is also comfortable and welcoming. They also open until very late and with plenty of seatings. Definitely will make it a frequent visit hotpot spot.",
+      "time": 1749611495,
+      "translated": false
+    },
+    {
+      "author_name": "Patrick Zajac",
+      "author_url": "https://www.google.com/maps/contrib/107583403171538620082/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvvMWZZugnr2rGpPS4iqLIg8HnjMeZtqq9FqHXjIXIVq8TPcz_=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "This place was a BLAST!!! The vibe inside was so nice and the tables were great. They accommodate larger groups which was perfect!! They had a bunch of \u201csets\u201d which you could get that was pretty perfect. Comes with an app, a platter of your meat of choice, various veggies, noodles, and UNLIMITED SOFT SERVE!!!\n\nThe hot pot was great, I loved that everyone gets their own personal small pot! As opposed to other places where the table has one large pot and you have to have a designated cooker and you lose track of whats going in lol. Here everyone got to choose their own items and their own broth flavors. I got the smooth pork broth which was very well flavored and creamy, as well as the spicy broth which had a nice amount of heat to it.\n\nStarting with the app, I chose the cucumber salad and it was pretty tasty! Sweet, salty, refreshing, fun to eat.\n\nFor the meat I chose the flat iron beef, idk why this one was calling to me but it was really good. It cooked so quick like about 10-15 seconds in the broth.\n\nI chose the deluxe veggie platter for my sides and I\u2019m so glad I did because it came with PUMPKIN and POTATOES!!! I put the potatoes in right at the start so that theyd cook about halfway into my meal. The pumpkin was amazinggggg so genius to have that in hot pot. The rest of the veggies were standard but really nice to have.\n\nFor the noodles I chose the hand pulled noodles and they were really nice too. Very very long so I recommend ripping them in half before you put them in to cook because fishing them out was so difficult, but well worth it because they soak up the broth really well.\n\nThey also had a sauce bar to make your own sauces. They premade us one that was pretty good but i\u2019m all about that sesame and garlic sauce so I went and made that and it was so good.\n\nThe sauce bar also had a bunch of other goodies like candies and little panda marshmallows which was perfect for\u2026 THE UNLIMITED SOFT SERVE!!!  And it was my FAVORITE kind of soft serve like the one that is a bit watery and icey but still vanilla and delish. Wowww i could eat gallons of that.\n\nWhat a GREAT place I had so much fun here!!! I love it I love it I love it I love it I love it I love it I looooove ittttt",
+      "time": 1742531120,
+      "translated": false
+    },
+    {
+      "author_name": "Jocelyn Lee",
+      "author_url": "https://www.google.com/maps/contrib/117980597988889096936/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVLQeNQ-TexSlLMOcXPlECXO5UswY9rQSnqhi5GxYxS0oVCM4fj5A=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "First time at a hot pot that wasn't all you can eat but honestly, this place was amazing. It was on the pricer side but good quality ingredients and they did have unlimited noodles (my fave was udon), dessert and apps for you to choose from. It ended up being more than enough food by itself. I really enjoyed the wagyu and the lamb. The staff was attentive and helpful, everything was fresh and the broth was so flavorful. I would recommend waiting for the $46 AYCE starting at 9:30pm. I also recommend you make reservations for this place. It was packed when we got there at 7pm. You can avoid the 3% credit card fee if you bring cash or use debit.",
+      "time": 1743220044,
+      "translated": false
+    },
+    {
+      "author_name": "Elena Ho",
+      "author_url": "https://www.google.com/maps/contrib/102237938568373637601/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVXygtHpmDZGzwngrV_VXqDhPQU7SnmbqlTyQO46095TQ944V8-=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "If you're craving premium hot pot with top-tier service, The Dolar Shop in East Village is the place to be. Their limited-time Lunch and Dinner Spring Set Menu is a steal, offering a full feast of appetizer, protein, broth, farm-fresh platter, starch, and dessert. Pair your choice of protein with different flavor broths. The Dolar Shop\u2019s sauce bar is packed with endless options to customize every bite. Beyond the food, the spotless, modern space and super-friendly staff make dining here an absolute joy. Whether you're a hot pot pro or a first-timer, The Dolar Shop delivers.",
+      "time": 1741491421,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1130"
+          }
+        }
+      ],
+      "type": "HAPPY_HOUR",
+      "weekday_text": [
+        "Monday: 12:00\u2009\u2013\u20095:00\u202fPM",
+        "Tuesday: 12:00\u2009\u2013\u20095:00\u202fPM",
+        "Wednesday: 12:00\u2009\u2013\u20095:00\u202fPM",
+        "Thursday: 12:00\u2009\u2013\u20095:00\u202fPM",
+        "Friday: 12:00\u2009\u2013\u20095:00\u202fPM",
+        "Saturday: 11:30\u202fAM\u2009\u2013\u20095:00\u202fPM",
+        "Sunday: 11:30\u202fAM\u2009\u2013\u20095:00\u202fPM"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "food",
+    "restaurant",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10961231163429798436",
+  "user_ratings_total": 488,
+  "utc_offset": -240,
+  "vicinity": "55 3rd Ave, New York",
+  "website": "https://www.dolarshop.com/location/manhattan-location"
+}

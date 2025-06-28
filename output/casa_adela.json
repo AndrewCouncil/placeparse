@@ -1,0 +1,450 @@
+{
+  "address_components": [
+    {
+      "long_name": "66",
+      "short_name": "66",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Loisaida Avenue",
+      "short_name": "Loisaida Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10009",
+      "short_name": "10009",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">66 Loisaida Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10009</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Rotisserie chicken & cafe con leche in a pint-size, cash-only place, open since 1973."
+  },
+  "formatted_address": "66 Loisaida Ave, New York, NY 10009, USA",
+  "formatted_phone_number": "(212) 473-1882",
+  "geometry": {
+    "location": {
+      "lat": 40.72261,
+      "lng": -73.9796495
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7240117302915,
+        "lng": -73.97840456970849
+      },
+      "southwest": {
+        "lat": 40.7213137697085,
+        "lng": -73.9811025302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-473-1882",
+  "name": "Casa Adela",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1267,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106105506136948662885\">Casa Adela</a>"
+      ],
+      "photo_reference": "ATKogpdEZ1F34ylfeFPQXL459yaS1F0uHSPN8IhXEp0f0kR-sGxbILOdvuPGx1G-kE8Q-07cE9r5NJux4606DdAVR_3EdyGuckMmI9rJCYo8N3mbyJPSNAfNc_iOzQrOByCYYH47C73bQWtN6_x-1agBJAGBmqv5EgJCZ_Ia31EAclPDlo4b-G6s49BhUAQIwzhr_auR8CVHddEbctwkF2BWEUF-eu2-x14BF59TbA1L9WdtYZ5rCWvtveBBTWC0XtaRVhsY6S0o4QSXurpZPnW0oBaMF8-ghTvCUsnqrOkCUF_8BQ",
+      "width": 1600
+    },
+    {
+      "height": 3441,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106105506136948662885\">Casa Adela</a>"
+      ],
+      "photo_reference": "ATKogpeoG_9jL27qYXYHBZHw1hj9_uPrPMDCLRY-bt8DnaRnqZ0FdMixssQ6BJlzkgS0WKqZNJDHRIfOC8Um6HTjY5-pB3SBUFbxViN40LOsPIVzOISxWhLDBf1tjLmSMoTrtTiikm7Q-LCtq1g0sXiur6sifsGATx2r_vCiUKakjxYpnbS7142TQkF6hIWg-0qXWf_Thzcs-a_afYM76mAQL4AAhwikMyaSCMwF7ABQTRUbCmoOfm6rqWMaGrX_aygbRrpkSBXKi-QocSEvmErVdK6gkx2mCJQpdmZHKFq2Txm06w",
+      "width": 2985
+    },
+    {
+      "height": 1868,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114279234506834421652\">Carmelita</a>"
+      ],
+      "photo_reference": "ATKogpe89xbgXkFBb8_G-DuQIge65FDAIOtBlAXWvme7qYn57pAXCypdXviyqb8UyIHVl40q58uB5d7UIzKtw08HHlFFxkqEdtnkkvHIjosSizSHJgPed0ObMy2s4CxeqQgBLnvUo8SwAK4SyMSBULLRw0oV5FM6zElc4rM7Uwzo-HHYa4D71jWaXL7OsCaKLlfYyF0f5WzpenzJNy2bA7X8NtAsnqvB7cq-8JzF5vOS1P34ydeo_OgNsl1QTqXWz6aASCXkaXzA6SK02a6JTwBCObLBn2bQLw_MSNcUoXUVpSSy3Fq7RZeXgm0JFJ9KuW6rOcmKOuKUvvnVMjuRzrW9m9N-dMYrAbYygEJFr47OpU3Q3y4FbdLtrZHKd-DzEGAIL-3J6pCMSM-LGNJNXSimdBfkN64Xt_dIlWf4UmKJPfl4DeNgbvrz3jdt9N4cBD4a",
+      "width": 4000
+    },
+    {
+      "height": 3306,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106105506136948662885\">Casa Adela</a>"
+      ],
+      "photo_reference": "ATKogpcyfmdjgO2rqcisHhxhhxV2xXHWXvOs5UIkiGc8u-sj0ezXwuBdeX6fh__Cgz1qRoEMqP3QC9X-kKeFgLODG7haDAWJc9O-QPL7DDPTLgR9FA-CXcSwaB5c42X44UFZGSxyMD8qhKhNezNfr9dC3GSa713mVYjrV6FWpITx9H0DSCrmCYO0FcMYlIyljjscQk-WZWHzsCGm8jhRD6tjHIzkC31GE_2WLYjupaD_9GdZl_FKIuV9j-FOaGJFD5omI2x537j1mGD-yhrqGTuTDGvjBu23wMAS83zmPD0mSWYtDQ",
+      "width": 3870
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115327731934835347734\">Jovan Buezo</a>"
+      ],
+      "photo_reference": "ATKogpfhGZSy9zSc94k-7OQ1GWOCzk0giWtox4L1I9NrjUPWP2h6hjrm62orLWpdurSrjwhXDK-oZWQuTQp8E6bcMKrOK05ZJ7teIYJnA3H2OicFroa6jADbO2ck3cdF2XEvScmESkw6GcquNrowUizLWKKtV-EhE96xFdWLSSvciagB07zrp-rbiWiQ_EngdVeDu3gu9nkpfQC7PmFrtxMjK4k7w-V6I4r49G3NbBUIigNyLiwNR8BYQLgTbw5Mh5Md_rWDh-xMqQO4saGcBA_DKZYgKrVXucWqLOfQOyh660jtLwU9cs_sZ2dwb-JXSAeY_pyLci0JcoLVFC98aBcOkCEAvuJDp2JIcQWWHtOXDMuJEgWAfFc_nxxz9KCEFb3EDc8UIb_suwnZSpe8dAP904idw2fNiN_-XRlofi_-_1WpTFh93u_Z3-1_tuTZHt5b",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108331887232008024433\">D S</a>"
+      ],
+      "photo_reference": "ATKogpegLqkRPHujeyTXBv1pbWXw1ddE6_ynkcohWcXCx82a7nnpVPa36NDYIud0LB2hKKS4lrxpCqHJJJbxAqz71hNoUc652eBVfxjphfvZUdliymx4nYC_G3rd0guuU_GEwVGJeJwj3U4es24ip0k123KDfMOlECHi7NunPJTI94V969rQdLqW_Taf-8ACZPuR6Mw4cMUiHDW11S7L4zSCbXO2anw9nAa88CSHXIWUSkUA5ZRs4RC5hiU-zSaz1Ark2WlJwgwnB5M4p6zEKvnYGU_EG8RJ6ymYIFIQW5kirTiUbRYjS7TnbVOQobjnCWuV-fOJL7G1BuIT3Mx3H3vgSwcdzbCncWwq1BUFlY1FUMAmS9oPDt0y7DGIOh2gpivWnMVsVpahG_n7kSagkAmHFZ-u70di7_6XGkXNZseU8NBPRQ",
+      "width": 3614
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108908906986727182337\">Diamond</a>"
+      ],
+      "photo_reference": "ATKogpfard89w8afxVTOLXKcAfhlFtjyHICvdH9FBYyWkcDYTH4okUnvrEaoKRbzGIpQA6KuzmpcMrVvxVUR3p9sMwzYQmozCCgf3gsuS5gPZ46sewulti5znTcdJwm5ekiMcckRibZstnPk0SX5qklBAhRpHCjdlRpsXPuoL2y8Vyl61Mo6O8XjfXS4dLBVEHswXNIPbtas8gEe5xNh_igEiN4CCRnLQH2EscWrcKmjD_0KO6MFQfEKaeMks2mYU4bbKjOD-DuhZSMCKLkRzGJZUMXjG9wGoFddiG1Rn1vOMGv6Fvz5artjkQvt4MHX6nh40UO46NhSB-orRPh47A5Tz6dC4jKjKeHHJc_aB0p2FO4GIIjwWlWPGtfzWPqzBTwBs22-CLC2LbwKYoDW8ICaMQ4Ad2WE1YzVzZukab-4ArE98Ig76guwuxkyY002icTM",
+      "width": 3024
+    },
+    {
+      "height": 2182,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106105506136948662885\">Casa Adela</a>"
+      ],
+      "photo_reference": "ATKogpcZJL7cx-nwExsTeNUMpk6CLhxNbsXRqLUmBNdC1_kfr7FdgjxxVFuYFj1UVxx6nDUlipSWNTHqXeHGExdGQstsfbrUCkypE0tNCclavWeAOtHZtE1wsb-WKS8gKJHam7c5oj3c5ERmO_Iqg1hbTOJPzt5WAbhXfHtYI5TiuQN9C5AQsINMJ88wtbsdiqfAxKrOt3RA5gHCcYR9g0wUNlUIEs7Z-e0lmdI4-Lc9y3s_G1gJadgqdBt3rDcsIX2lVQbrAVvDm6emot_aeKBHhY9X7-PjYP7r718FEbDwTbh9Qg",
+      "width": 2909
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108866035650244580925\">\uc96c\uc288\ud738</a>"
+      ],
+      "photo_reference": "ATKogpfDggf8Ob0MmYfbs7057f64yya7Cqy9PSOhS7Y5CdN4lcT2hf981qF_3adhi0Wl6YBCDmR-9crFXqVnf9BeV0YoiVgHysf9VWGsfXYJ6Spy97Us4FyyyCNMWb9XhSZRZNd0Bm10LHz7mqN6089rygl5L22nRsUouCw2Puehv9DqtomRQIc4Ik2b0XJxoKoCAJMFL3fedSUOvcX6iTGWAjWext2TG5SQHFIPi3unaTaZAhZZE6LwIvTsjD95Y3MMH-VMefZdxMNA1OaU3CS-WYjivL5W_ZFWR5pGnGXYvI_zKOqRIaCOohMsjLWa1JeJ6iG8N6EJP59g727vlgAIZ-xmvUivC3Uj7cHatDY_MBT009mtlAR3Kh55kmSe6zBbiG64vo_LlnCcd6jMV9-MExt1xi7vtTk5_R15bCvTlC4-XA",
+      "width": 3600
+    },
+    {
+      "height": 2048,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109106594126080335492\">Gabriella Monteiro</a>"
+      ],
+      "photo_reference": "ATKogpcNNvHaIzh4guIxHoiBeTDUfuIBxbs323fxq5YNSywKxMDVXxXrJbDdaKZv8Bw12Ux5JKyvMpaC5GfpCRGHGvBrySoaNPPf7Yf95kiTpq26QJWPwXbyMZXo-_Cv1io3dpGHd9q-es4Gq0Vbre2QLokur-wRfugsWOKSSvGNa7JphId_ThDz_y7h61LiCOQUjDS0UEUYQ7lxDItBcP7wClmyGgpBddxg7d9K8qHrZzgGhcrZA3cdZmigKGolZe9Nhc6EnPYi_bLprZdcd6HOr1XmquHw8Y4sBalrFHtwyVwVl_yiOL8NGo23_Q4w-SubsooVIW8laziopwPxsZ5ypq7rG3gYgp3OPG6Lej8W4yDeyv5CwltS8OOSO-CEBbfHuTBjhDKDdZhrlIIdmJOY5bscck02pz-wRj1KU3JeEtz40d4C",
+      "width": 1536
+    }
+  ],
+  "place_id": "ChIJ5xneO3FZwokRyyN-P0ch-Wo",
+  "plus_code": {
+    "compound_code": "P2FC+24 New York, NY, USA",
+    "global_code": "87G8P2FC+24"
+  },
+  "price_level": 1,
+  "rating": 4.5,
+  "reference": "ChIJ5xneO3FZwokRyyN-P0ch-Wo",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Jovan Buezo",
+      "author_url": "https://www.google.com/maps/contrib/115327731934835347734/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWP6X0kME1ujf-QhZHeS-NwmgOHYOX2_weqeTiYXsGCespA_evh=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a week ago",
+      "text": "I went here 6/21 to eat lunch and i got the Roast pork with rice and beans the lady serving us was nice\u2026 it\u2019s a small family owned restaurant\u2026 the food took about 20 minutes and it was good\u2026 after we finished we were waiting for our check then there was almost a fight outside the store with a lady and one of the workers!\u2026 but other than that the food was very good and I would recommend anyone to come and eat here!!!",
+      "time": 1750529347,
+      "translated": false
+    },
+    {
+      "author_name": "Isabella Grandic",
+      "author_url": "https://www.google.com/maps/contrib/113254269368100587039/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfM4WFzncCUNgqi2gQAdP-30tGf4x3B_1ZD86hmGVN9vTxVEPCmw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Local Puerto Rican cash only spot. Simple diner vibes. Very delish. Can\u2019t go wrong!\n\nWould recommend 1 main plate to share and then a side. The avocado salad was really nice to balance all the hearty flavours.\n\nThe chicken was well seasoned and super yummy!",
+      "time": 1738818129,
+      "translated": false
+    },
+    {
+      "author_name": "Matt Torres",
+      "author_url": "https://www.google.com/maps/contrib/106596402595495205899/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKitut6i1sSgBfXtaf8Cz4Lv6pzokfcdEjkZW0MVqpxYfSyqQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "Omg you gotta try this place out if you love Puerto Rican food, it's delicious and comforting the shrimp monfongo was covered in this garlic sauce I nearly ate the plate. Definitely a must try and I'm definitely returning for more.",
+      "time": 1744306097,
+      "translated": false
+    },
+    {
+      "author_name": "Nilima Shet",
+      "author_url": "https://www.google.com/maps/contrib/102002484985955619308/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXGAQSrxqwllEfhfOxCjpKKRVmdqXWdQGZ8JCIHTM96I_xoNUx3=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "8 months ago",
+      "text": "First came to this place for brunch/lunch and it was so good! The food is delish - we shared tostones, maduros, and yuca for the table as well as the fried chicken cracklings and it was all excellent though I will say super filling so plan accordingly. I also got the chicken sandwich which was SO good and perfectly breaded and seasoned. Just a note that fried orders will take a little longer so make sure you get them in first. Also certain things, like the pernil, aren't available until later in the afternoon (maybe past 1pm) because of the cook time required. Also note that this place is cash only! All in all, a super affordable and filling meal with great service and the best hole-in-the-wall atmosphere you could want.",
+      "time": 1728858368,
+      "translated": false
+    },
+    {
+      "author_name": "Arielle Merlos",
+      "author_url": "https://www.google.com/maps/contrib/101382066617754160992/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8lOgfHjFtcnvGTP6jH7ZY3S9ymY0u_GrvE8rI34AslLXOcrcy=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Best Puerto Rican food I\u2019ve ever had. Food is consistent across the board! The chicken is juicy af, the pernil falls apart, and the pork chops are the perfect balance of crispy and tender. The tostones are a must with any meal. The pastelitos go hard EVERY TIME! But my absolute favorite menu item is the habichuelas, comfort never tasted so good!",
+      "time": 1740492311,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7708228827112940491",
+  "user_ratings_total": 2112,
+  "utc_offset": -240,
+  "vicinity": "66 Loisaida Ave, New York",
+  "website": "https://casa-adela.shop/",
+  "wheelchair_accessible_entrance": true
+}

@@ -1,0 +1,644 @@
+{
+  "address_components": [
+    {
+      "long_name": "15",
+      "short_name": "15",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "West 18th Street",
+      "short_name": "W 18th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10011",
+      "short_name": "10011",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">15 W 18th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10011</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Greek restaurant from Long Island with traditional cuisine and prix fixe lunch menu in a contemporary setting."
+  },
+  "formatted_address": "15 W 18th St, New York, NY 10011, USA",
+  "formatted_phone_number": "(212) 268-5555",
+  "geometry": {
+    "location": {
+      "lat": 40.7391382,
+      "lng": -73.9928051
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7404064802915,
+        "lng": -73.9915151197085
+      },
+      "southwest": {
+        "lat": 40.7377085197085,
+        "lng": -73.9942130802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-268-5555",
+  "name": "Kyma",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u200912:00\u202fAM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 374,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112450437916913665759\">Kyma</a>"
+      ],
+      "photo_reference": "ATKogpf19cTBgzMeIHI3EjQ1lwSh2lfGV51CVttmtHzRaQTf2UKmzA_Iuks4aB2vBaDe4R__5HCmtRUHYaJnxU_feWcfKSecB3YfdINQxoHg_JgcnPFDrffkk-UtrmwydS2piIHozlK0TXidSdADuf5muTV1xmgHjBcK0GgDm956c5bEfGISIBfYcLTMgHRg3a5v-qKxwsnoIPPbFgw-Nf825gZMunBAwgao4AvIRp3mOzKvUKHCcmsItBqX22FKd5wN_7UkT68ZZoefIMRIZ1w3BcDdyA7FtRDa-_nNtvCeRc874g",
+      "width": 561
+    },
+    {
+      "height": 1366,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112450437916913665759\">Kyma</a>"
+      ],
+      "photo_reference": "ATKogpcJEWBNCrlt_gz_pRknqhyDCLwZ3-o6qVrmnaGQ3cj0h7vjpqO3xbva1JwFdeGDcip_fB-ycBVVLrRaTn2wciES6-ugNURmwMaylJYSWeKHG4KjXq9sgO-7QIlP3f4sGRNz5XkmU6KU3cMoLbc2jPMEfYlMfNF6TXTxf15ceqpF29-JrjnWsgr2T1khUE1AcKbBUyX2b5eekdqCGTN3bqcKmg85MdZr8Ab73X_932V3ZkLBSql4CFi2GVHE128tl2mxeigFtFzNu9bLYpy67emQNUAfiDIB6cO0wFO186Kdjw",
+      "width": 2048
+    },
+    {
+      "height": 1158,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112450437916913665759\">Kyma</a>"
+      ],
+      "photo_reference": "ATKogpdN-KMFhEMb4xKJxT4sHl4JqHkWVmmDMzEQO8IjZ3TP8WdS1m9mxlbs2LrwQ2rvTpEBFQEx31blTMvLLeIPAZM19VpSWPTohUiPaeqsMMdEdcF5eNlFmRDjYiq7HLJz6B1AmzX2CoLOGh3deZLAZVnw1YvdrBoH6VMJ_6Mo5K2nEJhi1spdoJGVGfcldmWzNbRq602isTFm7qWSaJWdeJsRfjOWaQN_Xr9PJIO26UpciHf2kqLG6oCKYtKg7DYgs3yGOx_z0cd2LRaU5RouVZTv_kP4BqYlJNq0RC7qyOLxHA",
+      "width": 956
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116481844845729614973\">Nehal Ahmed</a>"
+      ],
+      "photo_reference": "ATKogpdg9ZScLEL0bjic9MaRln0WBAXVbFYHPPr_d2OSODAUnKPKsLGGOpZdO9NjcAFJlUfsXU4_AaUqaHjfztVOdVPpqKEn9uh1sQOQI_nk7pEybxPqjpL6Y9rdhqAGLZhJ7jra67-L0NuqmSJZSo3YCftE_ESt-ewLLZOtOXp9Ki16lNRJfcfhlC3XLEQsiP3GOoLXr_3Q3Ri9DecF6ghhlht0E7JQAgkZMbfRBwLrQUSjKG5oSPjTrvp1BwlY2YLzCcNvPQHGhjOkVW-HdpSKRnI-rNdAVbe5eGvNYeqMoa50G0YxeBlBYtL0tXeqPYyuC7WvHpem56iyh2lQWKlYHz2oMLt9cMneELWVb2-c0Vx5vaukFx93mTza0ZpjIPF__fCGw4Pop19cWKsX_iKhPikjvGSHjdtWsGH7_EIiO123DGsP",
+      "width": 3024
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102796416731743221298\">Jaye Aster Broder</a>"
+      ],
+      "photo_reference": "ATKogpf9P6brmHFsyqIiSsLwywyPLFgpQy9QprA7-ECRwrGGsYkNVF9iphHniCcjOVm7hzn541Cf9OEqgqlkIADkwTlnIMqrwZgYcZOFJueJ3dJa9NkdTnrKAOeAg5qx48aNRtqZqsCTzSEtdFCOJaTdxvE08fUgtJsvPH4RgL1b29Z0i_0d8J6gj989IN3OEWIrHk3saX0rm-F7y0asi7x_-XvwJ1bySz1s4pLrnFL6VZ5lxJ0tiD1ep6Wxgldee8nj3A6hFfe0xK34odwDbxIofITQtlpQ_XVKGVR8guIiemrnR9AvM70jI0wJvErDzvJ231vd7zDniaEBR4L55tTfsm5UhChOEwdGraPoIR-sARF_BYJertaQ8OY8EhqyJhPeEJ5W41oN7MMY7V-70uhg1PS9BzurYvHF3FveFty_nv5ndA",
+      "width": 4800
+    },
+    {
+      "height": 2080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111427217969365049538\">Jessica Rios</a>"
+      ],
+      "photo_reference": "ATKogpettFbbFt6_E321fdt2WRnSB-SxWGrX6uEm_YHxvzy658j8bZbbobnUi6OXATYyY0Y5JZEHPkA7SFpYzctqBtrBUcYLVlTo4AQo_nUlchvDgivkSegct55fjGgYH3qj4gS6zTqTiaRSMAP_I2d83Wh0RgScv-l2XRJ7Xo_crWnPccQyXejOSAqhiHHUaLx42LqsC_gY6s_4LPlMDWLJp0I8817Wx1XP5E3tngPKkPc_GiLCsVVyrylA1UbAfmJBiqSEPLBC-zjksRLEgswCGWIUlPQGpKAk22KIFcDlU8H0Exa_nP_RYZ_M1ro3cG8sj5e5y7DJPd254PWu9XluQCzZFkh_YFsvAAuvUZ177mhFY8KwKFQ01S6P93Zbf-YTrkYq5tNmqA9OBLbGJukezf_1SjWm7MkgWYZTHRFh2DA",
+      "width": 3198
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106452546700900645874\">maciek macak</a>"
+      ],
+      "photo_reference": "ATKogpcaw0H9AXvdE2-IwA2mqj46M4L7mCXMRg46MFB2KLkC1P1ILbCA-U8EvjN8WNloEEM-f4p4urWVUAQH9oX34MTW706Tf5Dreo2S04tICsTYjk3dGG7DagXBllAFfzBtQgRvRPDyqE23J6wXM6MzWP1ljLb4Vd23wsEOySZk04hrWKcs0qeOUBGGCV7y-EVM-PSjYg3jFhOaCVib7TVy-pJVgZz9jSO0VqCq_FY_OB5538EO-03dYKR4Lkc5xogUJyTaBzd7glgKp2QCn0VgGU4fxO4yTJ903CWaj2aqX5q6ecAZ1xdBxd7BWKTyIg7UKPyrByJrinG5QNYT8NKO4_upTAfiOcWBU6KKUKL6nsb8gyxI3oWI2MOhY4vDn-CslQSK9xMaJYFEuqSrriVppoUvlHAKxFO0PjkevfMwvLETEg",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106452546700900645874\">maciek macak</a>"
+      ],
+      "photo_reference": "ATKogpcEE6m_uIXSOjXJbAT1kIOhalVt2B9c7sgNXC-F6aKberxZtdxxtk7eBezvaNpdwMTBmZl9WJ6Adk12HGghkZkyIS-OjJSUhiHMo3P53ILze24gqDA9EXMEZrW_dvaS9LJLTKc2MRTHeFo7OfMCWHFHQ-f2TBNotP9IYuqIF1q5_jKobMW0pRxYwKeIzK8mJ1KV1RmqSVDnjICSOlojJKL6DpCdPwK2Idn7kogMtkOlljL3Vakjjds_UD1zeC_MCkMm99OTKbvk7W7u8Zhh11d8VPz5TaDLiPZcb8rr1NwocYKSkTKQ_qURqLPR8SYZu5zUBRxG1S3jvBkr5yjEsrPIatOp5AcYujc9wtFaczE_AKAD8FBBW1xGCQIxHWvm6IwHPSecG6jfIj4Nyq1Pifh7fm0CqYlRkyBq1A5A57cn6A",
+      "width": 4032
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116481844845729614973\">Nehal Ahmed</a>"
+      ],
+      "photo_reference": "ATKogpeYf8a7o_XN3nUdltu1KDq4m-pDH9r0v8hdMxkxpnwSDBRcIK-2lM2Icxaoz87tPp4nX9MeajS3HlXjUG1VGGPL1-UMu0kb07MdJvffpnCpxVGb1I7qxYa6covu5pIXtpfBFBGZs5BfC-M5WC-fF_ek4ANg6VnPuvk0htuGkRePnVSFSfwqu5YlamRNqwzJN5IjYeYi40lgcAHMmWOW3H-WKgAtrGoS8OJ4hxeEc9n2zx2cEVIRetlEM6Ssfq_c-3Y5xnOeINv9dUVq4Njv-kRuuT7bLDuAco21uIoJL3Ku7fEvLRc6xpCbQ_ko8w65NGxxSU_oLzzosP3S5H974kaSieFNa0MsbgTNsaealGFcTILaRX8WRAQFnXLuGLE-yYG2Lrm2lIRZuRwjko94TUOXJsDulM7t9g814wTBhkY",
+      "width": 3600
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113142909402643447113\">Daniel Velez</a>"
+      ],
+      "photo_reference": "ATKogpd3PkWcuofaDnU1bLS8vL6WZ-JiWc6sCzPEYPCNTzFjTk-ImD9n8I-o6iqGfHZcNGTUBKaIMn2SFFH3IA9YY0eU9iNCy-fnfIEE86RUPK7uGgJcKsXIJR5v6CMQIuYq2VxyhbWwFKKJumOe6GTZc7ERuZpDPSG_jecrMErYgj0OQoR4oBwe-A-vRVXqcTK5IwBSTu83Z0nfqZf4gb0Ug87CgalAladuP04FzRdoRrKFjmMrpi-DCR8dzHNKEOVhoMLv5Ls6WxIrpEZvL6SaDOFXsEDCPS0WL9Sbmur06xpJ_hXGi7wFAYiingwpocLMwfpv00u33ZJho9ZjaF119v6hwAmslut7rmpTVsdI6XojoKGEXgBqF0SutMVod9FTuCzvMEsDCOTZ-wKG33dPsw7EgFKIqX2gCHch8CZ6eyaEGg",
+      "width": 4080
+    }
+  ],
+  "place_id": "ChIJq6pu4qJZwokRARFMcQsmd6Y",
+  "plus_code": {
+    "compound_code": "P2Q4+MV New York, NY, USA",
+    "global_code": "87G8P2Q4+MV"
+  },
+  "price_level": 3,
+  "rating": 4.4,
+  "reference": "ChIJq6pu4qJZwokRARFMcQsmd6Y",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "maciek macak",
+      "author_url": "https://www.google.com/maps/contrib/106452546700900645874/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVY4_kvFy2Lvws-A1OsccbUm5QenkzvnsgdeLYC6nR-5g5yMQ0CCg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 2,
+      "relative_time_description": "5 months ago",
+      "text": "Our recent visit to Kyma Flatiron was a mix of delightful highs and a few unexpected lows. Overall, the experience was enjoyable, thanks in no small part to the wonderful company of my wife - who has the remarkable ability to enhance any and every experience.\n\nThe Good:\nAmbiance & Service:\nKyma\u2019s ambiance is undeniably charming, with a beautifully curated d\u00e9cor that exudes Mediterranean elegance. The lighting creates a warm and inviting atmosphere, perfect for a celebratory evening. The service was impeccable, with the staff going the extra mile by remembering our anniversary and surprising us with a complimentary glass of wine - a thoughtful touch that elevated our night.\n\nThe Not-So-Good:\nWhile the atmosphere was generally pleasant, the gigantic TV screen felt out of place, better suited to a sports bar than a refined Greek taverna. Additionally, the noise level was on the higher side, which somewhat diminished the otherwise intimate setting.\n\nThe Food:\nHits:\n\u2022\u00a0\u00a0\u00a0\u00a0Grilled Octopus \u2013 Tender, perfectly seasoned, and accompanied by a well-balanced medley of roasted peppers, onions, capers, and fava beans. A standout dish that set a promising tone for the evening.\n\u2022\u00a0\u00a0\u00a0\u00a0Shrimp Orzotto \u2013 Rich and flavorful with a nice depth from the tomato sauce and feta, though it leaned a bit on the greasy side.\n\u2022\u00a0\u00a0\u00a0\u00a0Baklava \u2013 Perhaps the star of the meal. The delicate layers of phyllo, mixed nuts, and fragrant orange syrup paired beautifully with delicious pistachio ice cream, making for a memorable finish.\n\nMisses:\n\u2022\u00a0\u00a0\u00a0\u00a0Soutzoukakia \u2013 The Mediterranean spiced meatballs, baked in tomato sauce and topped with Mizithra cheese, were dry and crumbly for my taste, lacking the expected seasoning. My wife, however, enjoyed this dish more than I did.\n\u2022\u00a0\u00a0\u00a0\u00a0Pan-Seared Royal Dorade \u2013 This dish was a real disappointment. The fish was bland and unseasoned, accompanied by uninspiring mashed potatoes that tasted as if they were simply boiled and mashed with salt\u2014no trace of the promised olive oil. The asparagus garnish? Just one stalk, cut in half.\n\nSimply Bad:\n\u2022\u00a0\u00a0\u00a0\u00a0Fruit \"Salad\" \u2013 A letdown in every sense. Wilted blueberries, underripe papaya, and a few uninspiring slices of other fruits, plated in a way that would be more fitting in an airport cafeteria than a restaurant of Kyma\u2019s caliber. A true afterthought.\n\nFinal Thoughts:\nWhile Kyma excels in ambiance, service, and select dishes, inconsistencies in food quality and an overwhelming noise level detracted from the experience. Would I return? Perhaps - for the ambiance and a few standout dishes, but with a more selective approach to the menu.",
+      "time": 1738068899,
+      "translated": false
+    },
+    {
+      "author_name": "jay ram Chowdary",
+      "author_url": "https://www.google.com/maps/contrib/110806918587204780885/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBSTXV6JLodZ6csEp6XhbhNX0E9FgTgCd7B3IBjDn6ZFDlTwIZ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Food was great. Service was good. The dinner place turns into party place after 11:00 pm. Music was good. Drinks and food was great.",
+      "time": 1746906636,
+      "translated": false
+    },
+    {
+      "author_name": "Jaye Aster Broder",
+      "author_url": "https://www.google.com/maps/contrib/102796416731743221298/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIX6vCj_Y_b5NeqXGw8LHJ867WqiJLsygL2_HsjqVoDhUltww=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "One of my favorite restaurants in New York. I\u2019ve eaten here a few times over the years and it never disappoints. I particularly recommend the hamachi crudo, Greek salad, and broccolini. The cheesecake is also very good. The octopus is quite rich and better for sharing. The olives on the tuna crudo are ever so slightly too strong. The high ceilings give a nice airy quality.",
+      "time": 1740010351,
+      "translated": false
+    },
+    {
+      "author_name": "Nehal Ahmed",
+      "author_url": "https://www.google.com/maps/contrib/116481844845729614973/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-YG9-F7AXcQjts1kLsdnRZAA_RRStaTvEWalKTSHzEpKH5aB_XA=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "We chose Kyma for a team lunch on a weekday. When we arrived at noon, the restaurant was surprisingly empty. However, I was immediately captivated by its stunning interior, which exuded a sense of elegance and beauty.\n\nFor lunch, they offered a pre-fix menu priced at $30. Each of us received an appetizer and entree from this menu. We were astounded by the generous size of the appetizers. The grilled octopus was a delightful dish, bursting with flavor.\n\nFor my entree, I opted for the branzino filet, another special dish that was prepared with exceptional herbs and a harmonious blend of flavors. It was accompanied by a medley of fresh vegetables.\n\nThe service at Kyma was impeccable. Our food arrived promptly, ensuring that we could savor each dish without any delays. Overall, we had an extraordinary lunch experience at Kyma.",
+      "time": 1739632545,
+      "translated": false
+    },
+    {
+      "author_name": "Marllory Perez",
+      "author_url": "https://www.google.com/maps/contrib/107380056646038804093/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW1eOyAZTS5BNhb07qRpkuDLwv4SHUwnE0831UgNusWWF47WGeq=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "5 months ago",
+      "text": "The food was great and the drinks were tasty. But I have 3 concerns. 1. In my drink, the ice took up most of the cup. 2. They only have 3 bathroom stalls for everyone in the restaurant, so the line was super long. My friend waited in line for 18 minutes before we decided to leave. 3. Someone brought their dog inside. This was supposed to be a fancy restaurant, I did not expect to see a dog while eating my lamb chops",
+      "time": 1735883341,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1700"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1500"
+          }
+        }
+      ],
+      "type": "HAPPY_HOUR",
+      "weekday_text": [
+        "Monday: 3:00\u2009\u2013\u20095:00\u202fPM",
+        "Tuesday: 3:00\u2009\u2013\u20095:00\u202fPM",
+        "Wednesday: 3:00\u2009\u2013\u20095:00\u202fPM",
+        "Thursday: 3:00\u2009\u2013\u20095:00\u202fPM",
+        "Friday: 3:00\u2009\u2013\u20095:00\u202fPM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    },
+    {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1530"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1530"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1130"
+          }
+        }
+      ],
+      "type": "BRUNCH",
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: Closed",
+        "Thursday: Closed",
+        "Friday: Closed",
+        "Saturday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
+        "Sunday: 11:30\u202fAM\u2009\u2013\u20093:30\u202fPM"
+      ]
+    },
+    {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1500"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1130"
+          }
+        }
+      ],
+      "type": "LUNCH",
+      "weekday_text": [
+        "Monday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM",
+        "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM",
+        "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM",
+        "Thursday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM",
+        "Friday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "establishment",
+    "restaurant",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=11995097963111911681",
+  "user_ratings_total": 971,
+  "utc_offset": -240,
+  "vicinity": "15 W 18th St, New York",
+  "website": "https://kymarestaurants.com/",
+  "wheelchair_accessible_entrance": true
+}

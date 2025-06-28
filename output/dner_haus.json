@@ -1,0 +1,461 @@
+{
+  "address_components": [
+    {
+      "long_name": "240",
+      "short_name": "240",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "East 14th Street",
+      "short_name": "E 14th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10003",
+      "short_name": "10003",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">240 E 14th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10003</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0000",
+          "truncated": true
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "formatted_address": "240 E 14th St, New York, NY 10003, USA",
+  "formatted_phone_number": "(914) 275-0840",
+  "geometry": {
+    "location": {
+      "lat": 40.7325797,
+      "lng": -73.98565789999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7339568302915,
+        "lng": -73.9842879197085
+      },
+      "southwest": {
+        "lat": 40.7312588697085,
+        "lng": -73.98698588029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 914-275-0840",
+  "name": "D\u00f6ner Haus",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1096,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117067008598441687112\">D\u00f6ner Haus</a>"
+      ],
+      "photo_reference": "ATKogpes5YibEJ9Vizb-StsohzULEnzM5Td-iZQ8rDydUjOgrF0-wH08AgPJTFQ-NspopokeBBzmcXZAgdq7uNfqHuCzsdLCmRA93J6epzOzUHXVfaB7h1l5v8fgNHOsCF2AlqxHvSRVsvd6B17djSgXg8ngfxqpWZEUbZ6uzTClWMTCCA4PAMR9OoZut4mpJ30dne4t34MxxC7t34PMBv8wRVsQ0ltfF3YfivGiwws34jpVHA55TLRVhdnyauEtfbT8VhPjgN8_yfuzfg_VqpSWppkMdE0VyIB1DKJx68xnDNokXg",
+      "width": 1552
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117067008598441687112\">D\u00f6ner Haus</a>"
+      ],
+      "photo_reference": "ATKogpdLnZOcgTz_XnP3pgl-V2aTt9ywK0tVHc78n5zazZLyd68BYg-_cxkpAaAe3hQ13fMtttvHgnCrpUVqRxFsFmCsoxPxWfXi4hLzryjEbd_H_IMOfbtZuD3yYsFv-ZoZ8NpGRws_3c-wEhCierLOFeNsOwCy3CsCdIQex99Kn_3VPfcSJLnZAGSV4nnPCbBV3uDI5SU4FdqJxWIifDuC25weMiTPVUdO38k59Q2DJDBjB7gNNjIALW9EfYp4fwo55ozM1mgPtPLB8rSYV6-JLhkS25BzEjs_36KF_1buQaZZJw",
+      "width": 4800
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114750639232398836075\">Diamond C</a>"
+      ],
+      "photo_reference": "ATKogpcD0PbbG3NLpHoh5jGvZSNbDAHHOXH_2z4Mh1DIPaqfBnqKz5MthuhZt8Fkrr2wrtFqU1SjCSAoeJbcJa9DeA2RQvwXz_5FOtbpEsIqNSu2M5bKQp1RGS--QWPDj6kQh-RulyEcUnLxBDkITvLSkAlWYGJdHfHnIubv_JdHk5hflaS5_RGGZO9XiLevZ2jQpXO9u7dZi-wlTeNSITMh6-DfhmjGkc04G2M912wYjN-EJQfYPORJgGBG2sR2M4Bf0OcHXXvIQIn41okBp41cjx1T9o9jg7iWQoW65OEQoOAbvWhrwbNXNgkRD7jE8YN3VkbvRmYVVPOohutvqKruPcf31o4PARgV5yAdC6idOo7I-xBLun3dsC-YxZ8Znwr9n7avnrQxiS9KTh8hwpaSQ0Rrw8XbBn05dLXD2cLjKYScY8NI",
+      "width": 3600
+    },
+    {
+      "height": 2787,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110546455727871705360\">Shane S.</a>"
+      ],
+      "photo_reference": "ATKogpe2JQc0Z99gzslOHJRHGFRNJOHtyG6A8tyYgrOxGgdRpmBTa0woDFRVz4wORayV9b7tbvkOzV_5lwyNYYRrZ7ESi1TkzHECa1yahRIEYNC_EXAU__3svEYmQtH621BS90Vsc_Qmwqi5uQpyD2_iFf6zwNqsmnsK8PvdxAyOBO9ZMZXuYr3zdeLqEtktlJdDckL2xK-MUrO2PW3G6tICAFNZxGWLbgt0iWAugPemg7s3mHrKpwjbWGFNj0yJrkmyr8gwKf2BwTJeugHYpiOCmgPIyegiCmdA3A2K4ncSdkCjGxamQeETp4LZgYjlzbnXeNW1SdZYVmTMOGtpds-OD2CHqz7wSUDWIjR_ieyB1W-R1eDsaeyLfP8l_9lDZyKSQjCB387EvHs8v7fixfzShgkVsnCaBlyOIJFUbGA9CxA2xg",
+      "width": 3000
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102655300947773880637\">Flora</a>"
+      ],
+      "photo_reference": "ATKogpevB4FpgO1367ETo-BOmpIjdxAkNEssqm0umErC3E6UqmvjCIRO1T2gkoXJ1DTVW6SpsUD-ojWZIyMzNASuna9wZX7fckh4IarCJe4iLbe4T5wpl8WmwUQJ_fV6QMDeNZnT0gjbkOnceuAxHPM1dZIebOt1ueOsYiQI23xM33BsUSsx-C_lsC0sYnhjqOz0CI0wHCaraTssu_Rr-iosnNjE9ZH4cdPfLR17v0QQF3iqUm64bu-c_qXhYKUyTd3ZFCNj80KmiJX9eyVrYbHqy4105jNt_Vn2BhQBmNCfkH1pT2bmH9UlMxwj2-bvrm7p-ARt00ARp9_KFYY4KtWtzQnMjYWBYZJH3lrGcnzdOQ41sd306Hr0TBz2BR0akjQy8P9SUHjICWrR3bI30sHE2_FM7kyAa2hKc4YcsOqhMLVeOg",
+      "width": 3600
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116782705304591519567\">Matthias Akolck</a>"
+      ],
+      "photo_reference": "ATKogpc_2qkK_7P6QRPytSMi4LDPj2gYcHHAkL9ITBwzZ4rm53r6LSkHvcKa9WTVEGk0w3LxZCxKe6hQxFJqOAXDEzxjPbUEWZRf64yVuQp1RZgOtWr7WBuItad2JnRhoLpDL_KOANiH4pPkQDU5PIPqudjzmQQyxMNlxEAg0qONuhEgJSi3A9eJfPCoexlyUU_s36qEy7zFRRilQ5pKIFRKlOfZ2XPfhY64fpKQDKfGepO_xAIVR_EbLJOmjt2kzRx8FKKscKkFGoz3MFGmkzSYWd44wNo2VoUhWXr5jZWcASCvDMWHA-f78Pu7AJBgLMapHn57LKB9C6nVSs4JUpL9v5ludzqybuVAfYY3n8z7yWZT9CbUg6fxS802u2Tb0IdicTwVKEt1manZTqkjNMKLPRrgMI1jQT9fdaEzMoogcRO98fJ_",
+      "width": 4800
+    },
+    {
+      "height": 955,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117067008598441687112\">D\u00f6ner Haus</a>"
+      ],
+      "photo_reference": "ATKogpe3opA0hEFjZ8f8uzJqWhUct-B1TVQ_FcYtRwUZMJc9t0a1LzVN0qx3_otLkKhwnlzQmYB-YpUn4oZyld0pj2d6W-hzsoBtnPDHEPy03sxO89pbUD8cfO84FhSqIRTyKX0WgWOmw7Vq3XfH2uCL8osITToRoOxo9wLfMSevIJI5pepfghNRO0l7OxSv6klw7Tz00xVvD7b-8gIrfOL7mxHFfAfnbRvJTyq8jKqKc6e8SkmHlM07cpuYdRQxdJyNgmZOG1q3chwnlrPBwvjU008HuEs2Zca8nOskF-aY2YHDvA",
+      "width": 751
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102655300947773880637\">Flora</a>"
+      ],
+      "photo_reference": "ATKogpepCLSuPLVxfAsy519Zgv4Zp3aXmJD5ubDFCr5zjaOesP1Do8cmtYrDMXLddP7q8WGdnMT1EhCVW7_oAvbyvKjCKRWDUkEYSsz7_PSDFjmhTwkWJiFYyfjPhYDvc_HpYHmVj8N1i7ZD2yDKHn9WE_umLIpoQRugVOZMMe6yLXyGiLrhLUOsVwpFOZUK7KaNs3CAZWy82A15LFKfcKacv1wtLtY1tSw9dw_jdYhZ_yOtgnc4AYuzOdvbw18ve03XwaP_ZbfVWlGgj8MaCputltDIUwkfah2oXbuFDUrmu07hAMzVcy5rkCluYZExbzUsRCYEaoa7VhqzMKr56QpMoEAX41-QY3nJkw_4FYy66qya2HgO_S0MZPSyUmcTk-7t24BF5JyTr2p5-vG6V1sxGRz-zzV5WesrjNpLz1xhmP2mPVfE",
+      "width": 3600
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106967832512048824252\">Shareen H</a>"
+      ],
+      "photo_reference": "ATKogpev1ZLCCegiuaSeqc-U29i8ojYMqIduHYfVpAA0vQDb6E_b9Zi8rjhgW9n_8ZjlUH6weBU-jZzUviyxm_3HDXaetiwFf1xpbRpi7ZAqQ8o6LQrKV7mjvic9Dms0XeVN20wEp2BgyncPokRjlJdyj0g8giyhNkp_qImlBT19l2_aWuJRIEHkp78x2aWjOPJ1OfWFFA7QCBEf5P9mRe5rLM0BDrmCFg4-OlXvlSxyDZ2pO96tWhR5KmjSwUDhHBvo4ndqcBYi41eZOpOyZ5jH9wIOIK7RVaoVwaeiGgFC8hdCf8dOdRnwpPv_CJ9VGmoJ17ACkQlYbBprMMtyrwBkAdrhEHjrV6KkWvmZZzZM4q08W_OTfqbOzQgelz4PKPHPn5P_nyDH3_YKNdn3DZTH21Dv9P6Meg_6sfplt93izKS7Oa0",
+      "width": 3024
+    },
+    {
+      "height": 3839,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117067008598441687112\">D\u00f6ner Haus</a>"
+      ],
+      "photo_reference": "ATKogpcKL10JhihrnOS49pikHZfDlJllqQ_OhBo9E0NxtQalBDtmRh44npojKPnb9aAp6rbfg69I1qTDzkSlOozC1SnJwFYXLs1dXlgIFif6uLEd7Icj6VyqbpyxG2ppzARg2hCAynIT33wAGRWBPUYFPWawo8tx7h4fDfxoUdNLEbUwTtvJcl1NtyP5QCv9d2fw09ja0SOYeVrR3wokNhHa-bP73gfjspciwRByJWkHg6A35I-hkoBloKQrms99H9ReBaAePVyg3t2xJHRF7YNlnvw60emxSgDb3AlCieTpwCiNIA",
+      "width": 4800
+    }
+  ],
+  "place_id": "ChIJRRfRarNZwokRIEr7WGDqMq0",
+  "plus_code": {
+    "compound_code": "P2M7+2P New York, NY, USA",
+    "global_code": "87G8P2M7+2P"
+  },
+  "price_level": 1,
+  "rating": 4.3,
+  "reference": "ChIJRRfRarNZwokRIEr7WGDqMq0",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Paul Ampunun",
+      "author_url": "https://www.google.com/maps/contrib/110377770150558895658/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzvUNDe2jC5ruEo6SQJAqH_84t30ujyy6JPpXMzy4F_uSvNLFfrw=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "D\u00f6ner Haus offers tasty, Berlin-inspired d\u00f6ner kebabs with juicy meat, fresh veggies, and crispy bread. The portions are generous, service is quick, and the modern setting adds to the experience. Great spot for a satisfying, casual meal with authentic flavors and good value.",
+      "time": 1746728096,
+      "translated": false
+    },
+    {
+      "author_name": "Diamond C",
+      "author_url": "https://www.google.com/maps/contrib/114750639232398836075/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXuSezUJ2GsIVS82NIeK5jXYOfgwhOG2mokAOoFU1u9Amynavrb=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "Because we lived in Germany for 3years, I've been wanting a doner box since I came back to America (3years ago). This place def scratched my itch! Could've used more seasoning/flavors and they didn't have lamb only chicken and beef, I got both mixed. We were greeted when we walked up. They took our order relatively fast but it T ook a minute to get the food. We were able to get parking right in front. Not a sit down restaurant. Would recommend!\n\nThey offer military discount as well.",
+      "time": 1747914036,
+      "translated": false
+    },
+    {
+      "author_name": "Alice C",
+      "author_url": "https://www.google.com/maps/contrib/103879909140281684963/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUlj4i0KCzNBBRY6VU8nGYFi9kGBcXdblpzXCMnTc6rSDqon3betw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "4 months ago",
+      "text": "We usually love Doner Haus. Great sandwiches with great flavor.\n\nToday, after picking up my order and opening it up at home to enjoy my sandwich in privacy I took a bite to find something I could not chew. It was a burnt piece of PLASTIC INSIDE my sandwich. I called doner haus and an automated machine answered instead. I tried to complain on their website but they have not replied and you cannot upload photos on to their website. I\u2019m posting this on everywhere I can review because this is unacceptable!!! The least doner haus can do is issue a public apology and a refund.\nDo not eat from this place unless you want to die from a serious choking hazard! I can only imagine the deplorable kitchen conditions if this huge piece of plastic made it into the sandwich.",
+      "time": 1739217734,
+      "translated": false
+    },
+    {
+      "author_name": "Mina Waleed",
+      "author_url": "https://www.google.com/maps/contrib/111835320030931455293/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUMtpnZwPg3chlTtsMSo7cLIb8A6H2HVm2h_PNpa_K53x7Jgp2A=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "I LOVED this place!! The sandwich and the loaded fries were to die for, I\u2019m so sad we don\u2019t have a location in my city. This is definitely going to be a go-to for me every time I\u2019m in New York.",
+      "time": 1741659933,
+      "translated": false
+    },
+    {
+      "author_name": "Erkan Ocak",
+      "author_url": "https://www.google.com/maps/contrib/107357292872260428641/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyyXz4-OZo7iSR697p1s-bxbote5VJN86knA32i3iZFyAhRn1X=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "I live in the suburbs of Philly and originally come from Turkey, so I know a good d\u00f6ner when I taste one\u2014and D\u00f6ner Haus nails it! Their Berlin-style d\u00f6ner is absolutely delicious and reminds me of the ones I\u2019ve had back home and in Germany. The meat is flavorful, the bread is perfect, and the sauces take it to the next level. Every time I\u2019m in New York, I make sure to stop by\u2014it\u2019s a must! Highly recommend for anyone craving authentic d\u00f6ner.",
+      "time": 1748207944,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_breakfast": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "food",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=12480295216927689248",
+  "user_ratings_total": 888,
+  "utc_offset": -240,
+  "vicinity": "240 E 14th St, New York",
+  "website": "https://www.doner.haus/",
+  "wheelchair_accessible_entrance": true
+}

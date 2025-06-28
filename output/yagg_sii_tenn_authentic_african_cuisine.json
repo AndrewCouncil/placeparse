@@ -1,0 +1,408 @@
+{
+  "address_components": [
+    {
+      "long_name": "ste 170",
+      "short_name": "ste 170",
+      "types": [
+        "subpremise"
+      ]
+    },
+    {
+      "long_name": "1440",
+      "short_name": "1440",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Chapel Ridge Road",
+      "short_name": "Chapel Ridge Rd",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Chapel Ridge",
+      "short_name": "Chapel Ridge",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Apex",
+      "short_name": "Apex",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "Wake County",
+      "short_name": "Wake County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "North Carolina",
+      "short_name": "NC",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "27502",
+      "short_name": "27502",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">1440 Chapel Ridge Rd ste 170</span>, <span class=\"locality\">Apex</span>, <span class=\"region\">NC</span> <span class=\"postal-code\">27502</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1300"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1500"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 3:00\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 1:00\u2009\u2013\u20097:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "1440 Chapel Ridge Rd ste 170, Apex, NC 27502, USA",
+  "formatted_phone_number": "(919) 629-4047",
+  "geometry": {
+    "location": {
+      "lat": 35.7382353,
+      "lng": -78.8885085
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 35.73961823029151,
+        "lng": -78.88731661970849
+      },
+      "southwest": {
+        "lat": 35.73692026970851,
+        "lng": -78.89001458029149
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 919-629-4047",
+  "name": "Yagg Sii Tenn Authentic African Cuisine",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1900"
+        },
+        "open": {
+          "day": 0,
+          "time": "1300"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2030"
+        },
+        "open": {
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2030"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1500"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 3:00\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 1:00\u2009\u2013\u20097:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 2384,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110485120354136232247\">Yagg Sii Tenn Authentic African Cuisine</a>"
+      ],
+      "photo_reference": "ATKogpeUYlOeedlJ62rldjo__cPIvc-r7B0cmk7N6FCVHGlBjqC8qzqbhf4NIq98JB8NGr5xu6rvR6rkSnMHKg-juci-_rCa5Q5ZrgRteVC4jqA5rjjPJfCyZU-N2mEg7WM7PRuxjqRK7F55EbQpiRRl1UplsiAkVhfnjvpHi4eb_VxIiUTREFWloud9FVsveEMDVcV9yXnfwRsuBW91PZ0EGDiOK2kYIJbCGlHYyeIy738GCHN5_9ak-XrYQgQiJ8ADgb5gAIrU_mAhKtwG1lM_do5R2CWm1EpYyVxY_q1cGqp10A",
+      "width": 4032
+    },
+    {
+      "height": 810,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110485120354136232247\">Yagg Sii Tenn Authentic African Cuisine</a>"
+      ],
+      "photo_reference": "ATKogpcmRECydjEQMgKB9F9L7QMcXApX5mHJ3FwbNkAatQffwXPVnTzun-NdDfVEgzSsKenRgsGZ2F2DXBMmCrR3-9Cx5gdqQHbIu1FoehCYmXNVzI3uTWxn3Bar18QreLW37feK5fKcncM0Ctz3pDB8x10IKjSAtdjzcXU0wP1n8XA-xe6H2lVqOnH5OrSCdMpME_XgoUcxAgwK2ic2vX1nLKhLcgmDTKNlEflS6ZObzjdpYIjVAGanlPj2bR8HeohMuzfKIGRGSZ6nror90K7GE0GANlSv-qzu3vbl1tQ8kauZhQ",
+      "width": 1440
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114629957967082718984\">Rachelle Vollers</a>"
+      ],
+      "photo_reference": "ATKogpdFV2CEDJJ4AVkgDoxjtugxv8wSuGc8mrmAJKFDAuzaMt68Xjg4zah5HJaxITl6OYVGQAy4HW0yuqVgheJA1hnIFCZ-X32rxzYmx4Lwgp4RwB0KGgoQTNMAYJQ2E0i4mOs1H9KKgEnkB8g5gGZfZ9IlTkU8T9co5mHDMEqWVSBDh26WbbhJqv6aa8lr1zZyGWynfD8Coxju44HZUR760brRm_mbs8pfbbUfh_mzD-a-Fnvalqk__eK6rdJOPL764WBjektEaU075a2A5iA2g9eajrb8Uf_p45gyVzEFRfGpUoE6iKUS9dPSKyWL5K_qY_f7wdcPbkWKdreiHaFw9eS-jXZCcuXYnDhdyTiXFy8OfwjtMNhZrq6ls9A78WzLUKrRCJeSgTF0PXN9aZIi4dGQ7uc0IMqfttwW-IZYFtPq8g",
+      "width": 3600
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118182333536822180397\">Sol Truehill</a>"
+      ],
+      "photo_reference": "ATKogpfjfDHe_cNnZlSigytF5M2WI70haxTvZ8NlvtNWgHLKjHLwhmv2IIVdCYxNmIVlsz4KSOUJ8iEoZG_9yw_5Yw8eCrtS0PhxJsk8O85sHqtrx7b8lETlUHJ059_rloXtwcrgX8xRzSbENncgRhKNgAyFQ759W6rob_WpZr6FOL1W9BSvVUsyRlT-dOxwD6qEkTf_Q808zYE_MduSNz2mJF4U9iK675cGfLbFTXXfgE6d8jDcZ3ysWHTQGIyKFDmrYoDJlKccc2Rf1NjDF2S_7tX8J-UGum2LWb6g0Bod7NbHLdyELQQatYEC_I8rkyRpCbZq6yFCwIc0aJ2tq-O0i2wxa5SyOu6EIw8RHO3CaRC9idRXsgtjcM0GajSIT1tkYuPEQGVj14ROtI9bB4vtVG8QPRlf0Za-hAbQAfGPLf_guA",
+      "width": 3000
+    },
+    {
+      "height": 4284,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104399998552214040944\">Renee \u201cSosanna\u201d Olson</a>"
+      ],
+      "photo_reference": "ATKogpc2_gUv23v66-WD-pLUE1bEs--661yYVdhloGZ5j6ul6g6Xsw9FSMA36y7QOV-0DFSjErtGWt3PuD0hQ_nD56_OcAww8BGXzXB6npzVMzc5RvI1ITaZQ3ucQev4-8Kg_PGtxbxbfQ0vh92pCXP8FAcUzYnoU-usVy6mS_yEYyDn7Qdq28NoEfe_vD4_u718KuIh7gmYhpTjLZU8ya_JuvL2dLpVK28kiQGszuUEkeGAQ5aHPVX1_3-Omodgrz7KnHiGpvBqdTBJHKHqBDUpS7uchFnXtaF1G2cCHR6Wz8eTBQ_NfwJgaIxTie5O4Su5bmFdqpognJJG_k5TnaqB5SQgi8HEnTU7oE0iQGhaRWtCeFktlQmk-xuz4nkuRrnBlLZ8bDwBn6mltr1KbqlAp54lxi7ZiH4izcWX0rA8HAplHiYYTo-Qsr-BEKjZPQ",
+      "width": 4284
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101661474134733112104\">Bob T</a>"
+      ],
+      "photo_reference": "ATKogpesbd8Bp9PzmuYXyq1oWvAl5TcziSiBCq3btXc8GusxIkMkgKEjRxYZxB8dbawe2PP2uJzhb3CMTXwLKSBkOIQgjGundny5UYCap-cLLcC8cUEKcZRD9UsyXfXlAoCZ6-fHEH_yD2zyT83VCoY8uO96C7my2jTP6wxLQ3_E5DaFeSQC3rka0zfX6W1zVmYJaUCQA5BNmvBcrOF93aumxkODWbGj6lBnoJ9T3qysPPW8h4830bi_cXda8TxXTMhxNIPryqj47-Zx-yg3J1bf5z1PN3l5t8e_0hMkTP98tJ70mUN3I_atKPTWUg6vn7PYQtEyv5znQSRWw16bDwFRTG2BsXZ8Ehmn8lYh3WZ8whLfdeuWZgAvpJbN7BoYIiOiWHmSlWO_gvPXIuOVIVUcMD9rexmCWNyxBJ4TJcGf5A1Jpw",
+      "width": 3024
+    },
+    {
+      "height": 1717,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110485120354136232247\">Yagg Sii Tenn Authentic African Cuisine</a>"
+      ],
+      "photo_reference": "ATKogpeovu2OoLRv-b1IEKgcvPxAdk7VrcEtax-qBqHYTyBM-qGuVtJ-mXEIRM4c0soPpDXIZpi8BFSmhBbj4uKesD0ZLtq_VzKKhfK6Pl7enkTJ5UwQ29SlUVndqk67yBhr7FicS-9yajhA3GKYMENMflmRxDAkMWZdWkWLD2TEOIemPHty6l61O49lbiMw0sGJVcPbrsuNmsah5Fy2ay86v2BcM_KQOFb8Y_5z_a-ZWceZrVhbiCpF8VMycbxrDwgnjzKnFUosB1RBxRg2Q1S4p48yFOFHKgqe_mWugGnIaKQ6Iw",
+      "width": 2619
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104653982777930424322\">Tara Olhoft</a>"
+      ],
+      "photo_reference": "ATKogpdZ4wsD-DbAn_7o6HFanSOGHa3Q8VcQDugAm4gX1j6LaU15vnXrBKgodJ4HqG61Xk4jTgcSAqY0VThep0VpYebH6ata2pdxPk64djD-FZ5-kHGDmUZr21uQ9CZmrvGoUe5TJ-Bv7m_49KpD29nuLPPpqAcfUyghwAizlP0fagbTfBWITmIFh8J_2ShkHraR2IMrknqPXg63HBMdAy2DDc8JJQuJXpUCutOWueOqPpM_kgH50wKVRRBZ66f5zRupTDprp16ZCQNepe1dSbB6tv9koHJxpBISETFQb-MXtv9qkeO2ZA_TeC3MNPo1YaBaHSujALMXdfAxjvUC6w7y3ajRk9sClJDbNmxElaaDq1W8zvlIiIiGD5giYA68v36xO8dJXpa5R5GtN6emdFx950CbeKHpDMrjC3eMdzNO3CZ69bzE",
+      "width": 4080
+    },
+    {
+      "height": 2054,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110485120354136232247\">Yagg Sii Tenn Authentic African Cuisine</a>"
+      ],
+      "photo_reference": "ATKogpfLnhLIwLaTg4T_IYzp3lHhTg4BiQTtJQHFTH48vxTW9AoSogW5ZOpKngZjMHK2I-_4jGcU2_iBqxpB7lwRpcLThjXDuxcPEwJ48-j0PMlCnaUFe9_uG7ttt0ynP6HzwM3LrF3EK1T9aTIUlNDDnESAZXddfNMpb8fiE4vrDdMtItbFGO6KOyF8-CavfDPKq1iEP-b31XbaMkA3kliUkdhncx9BWsiCQjjiSEC4Dp11eN6WF5bK815Mab3p5l-u1g3po7TL2_i279e25IHtEKsZQeaxXnoG5TcpJ61PZdEeEQ",
+      "width": 1762
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107092648093634553637\">Irma Santana Trantham</a>"
+      ],
+      "photo_reference": "ATKogpe-E9txgovK7EQizFwa_nE-pc9dgOYRWRCKEr-7nbNOoVG_dpQiBuXMCvf9sIpt72FfeJilZ9LNpTKlfYg6ubh6slv_1jINJr9WnfJM1AwpKaXenvEOTMaA2IU37KhiXPQ_KxwYXzc4LV_NvOTdXftFM31XjPESia7KP7NCepncaSuSnecnSX7HySkql9rCWjz7VUNCVHUC_oKjidm2hTbQ2WJGNEqlXF4TasZTANIg0n2BlGAFtjRD7c6_To2U9RI8SJnIVT_ojDV_dPp-LjyIZPzglSsuo9wWvF66ouoZBbm_vh4Hw9cKfT9gpBiRngr2I-z_tVTMN1svACu12tBNXFFrfzOuYQAOUmTMUt26SficaGJjHNPTXpqHyZ2xrELawNT3msLC_EtW4Nos5DbHn8f0cEZz54FvU1Jst6s",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJAQAka_TtrIkRI-EfWl8iBuE",
+  "plus_code": {
+    "compound_code": "P4Q6+7H Apex, NC, USA",
+    "global_code": "8773P4Q6+7H"
+  },
+  "price_level": 2,
+  "rating": 4.9,
+  "reference": "ChIJAQAka_TtrIkRI-EfWl8iBuE",
+  "reviews": [
+    {
+      "author_name": "Geo Araque",
+      "author_url": "https://www.google.com/maps/contrib/101948711283455935700/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVL5fhdl0J46MMZaFPU6imsE4qYxjz_Jo9KnEQcLp4Fp24tbPuK=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "By far this is the best restaurant I been to in Apex. I have brought my family from PA, NY and my Apex family. They love the food and come back for seconds and thirds. The food is amazing, the service superb, suggestions of food never fail and drinks to die for. When in Apex or want to try new amazing delicious food. Come to Yagg Sii Tenn, I promise you won't be disappointed.. PS, fufu tastes best when eating with fingers.",
+      "time": 1745103527,
+      "translated": false
+    },
+    {
+      "author_name": "Irma Santana Trantham",
+      "author_url": "https://www.google.com/maps/contrib/107092648093634553637/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXcqs8md5fLzVJF_FCMBOE9b1G7XRVSzWuaiuyQLtPqziOo9kgtaw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Everything we ate was delicious!   They can make your dish, mild or spicy, but if you order spicy, you better be prepared for spicy as they use habanero peppers to spice things up! We will definitely be returning. It was so so good.!! This is a hidden gem! You better get out here if you want authentic African food!",
+      "time": 1745018804,
+      "translated": false
+    },
+    {
+      "author_name": "Rachelle Vollers",
+      "author_url": "https://www.google.com/maps/contrib/114629957967082718984/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLH0Td3KgZUDMzmNpsfF7VARN-0pdj1ZNU4xFX6Y2hZlm_fvw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "This place is fantastic!  The staff are so patient and helpful answering questions and helping everyone find a dish they\u2019ll enjoy. (There was a group there during one visit with soooo many questions and the lady at the counter was eternally patient with them.)\nMy husband and I love African cuisine and this place easily beat the African restaurants we\u2019ve visited in D.C. or anywhere else. They have a very wide menu, and everything we\u2019ve had has been incredibly flavorful and perfectly balanced! (I love SPICY and my dish did not disappoint, but they have plenty of non-spicy dishes as well.)",
+      "time": 1749062838,
+      "translated": false
+    },
+    {
+      "author_name": "Daniel Sang",
+      "author_url": "https://www.google.com/maps/contrib/114184744502130100284/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIRVXjercGW0IjPnkn4wTN0y4GP8Ia31rNKDqta98wkWubD4hc=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "They need more restaurants like this in the Triangle. Being able to have both injera and jollof rice in one place for one meal is impressive enough, and it tastes scrumptious. Meat and rice are both seasoned properly and the spice levels are perfect. They cooked here \ud83d\udd25\ud83d\udd25\ud83d\udd25",
+      "time": 1748459802,
+      "translated": false
+    },
+    {
+      "author_name": "Midhun",
+      "author_url": "https://www.google.com/maps/contrib/111856341103889144128/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIj1ppVvWkPDROeqcf83nb4ra5sle_ILuXi_sEdewsTGZLZpA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Truly a hidden gem! I never really tried any African cuisine outside of Ethiopian food, but oh boy this place is in its own league. Some items like hummus, tabouli etc beats any other greek restaurants. We tried the chicken pyramid and jolof rice, pyramid was our favorite. My only word of advice is if you\u2019re ordering hot spicy, better be prepared for the heat!",
+      "time": 1747172178,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_breakfast": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "restaurant",
+    "establishment",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=16214685301323325731",
+  "user_ratings_total": 221,
+  "utc_offset": -240,
+  "vicinity": "1440 Chapel Ridge Rd ste 170, Apex",
+  "website": "http://www.yaggsitenn.com/",
+  "wheelchair_accessible_entrance": true
+}

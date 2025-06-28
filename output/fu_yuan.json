@@ -1,0 +1,444 @@
+{
+  "address_components": [
+    {
+      "long_name": "135-43",
+      "short_name": "135-43",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Roosevelt Avenue",
+      "short_name": "Roosevelt Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Flushing",
+      "short_name": "Flushing",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11354",
+      "short_name": "11354",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">135-43 Roosevelt Ave</span>, <span class=\"locality\">Flushing</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11354</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tuesday: 7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wednesday: 7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thursday: 7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Friday: 7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "135-43 Roosevelt Ave, Flushing, NY 11354, USA",
+  "formatted_phone_number": "(347) 732-9882",
+  "geometry": {
+    "location": {
+      "lat": 40.7595448,
+      "lng": -73.83060689999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7608541802915,
+        "lng": -73.82919796970849
+      },
+      "southwest": {
+        "lat": 40.75815621970851,
+        "lng": -73.8318959302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 347-732-9882",
+  "name": "Fu Yuan",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1800"
+        },
+        "open": {
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1800"
+        },
+        "open": {
+          "day": 1,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1800"
+        },
+        "open": {
+          "day": 2,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1800"
+        },
+        "open": {
+          "day": 3,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1800"
+        },
+        "open": {
+          "day": 4,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1800"
+        },
+        "open": {
+          "day": 5,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1800"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Tuesday: 7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Wednesday: 7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Thursday: 7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Friday: 7:30\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u20096:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3015,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117884686065814794681\">Supremetime</a>"
+      ],
+      "photo_reference": "ATKogpe8UBn_eSBIum0UU6X6mJGFSqj4Eic_ZOruZAZlkbnHt0_oBXwfkBu5aj2UkeR_L4Ta_yzFihAN5vACaX6pocBFvZQXF8QYLWeuuvIc-ofu7BakHUUAmipW4Iqj2BeyBCNCAOZpeLjXH-1Cw_aVSghxpvwAOtmQdXQDQbODaA9nXAbJBkVGH3Z9vxG6pYNTTTcYgdpr4oqVdyswsbedOaXmApHIMCeZDJieMm2DIn14Xh5oGQTcOjTt5ROLkM_23j6wF7zFMO-PajiSEnaTN_yGW5vTaGeu9njf6TGvxFlKXFI5yQt0Xl-Ghr8HeQa_BVA8CyjtMdQkig7JTl1ccQVYQ1UOKkSK5UbUSlkKT8R3sUjS1I6-9MTNxNag83_UENjdrzzeOcbWQlDNr7rmXf8lqsbOrs6Pr9xsWT3r4KvR1Po",
+      "width": 4021
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117705513754883528486\">Hiroshi Kosaka</a>"
+      ],
+      "photo_reference": "ATKogpep02s_inOcmTmdRfk9jd72gg1lD99JzQCdtsRwURZl3umOOpU562Ya9pOF2GTCDxama6LA4YOBbqccmUj2dq6yUTXKOHutMzA3z3s4wQpFzjAgUHR2GXr5CPqcgF5l11Izfw2dpx4GOVRpuD2UkIqWCHrF7_pJFnlliiFZST3ELMBSvyyBLXT8zoLyTXPKUHzMm98JlW-w1GLQQpccr-19h2DHJDVPRj2KVlRjEmaYleql-72j5OTk7bPRzNuxBNVbAQOUTi82KkYx0bePevfCQyQCJrjcLz2MkCwJzErVMF6DUry8zSIrsZByKImOMLOtftOicIKo1hpeo4ZFrbJMLKvWXwlJ7F6PjwwuYGfuHbt6hOL9K8sbtXVoXI5dQO1MHHTCZOKtw3W2pOdnfoO9HpTcaUeHKrt0fJPMZ3Gaa4YFLwDkI0uIWwVMiB3E",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100399478095130811694\">Meidan</a>"
+      ],
+      "photo_reference": "ATKogpcWVdbckhGsJq3Q2p3BvZUdfn_H1TCeUSPIeJwmF9i2d5BKAlyB3addz2M_WyAyC9GyTDatMJ5XXgBXimvrJMlMdl0akHXNZHR-FZvPS4LIonauwPblmD1zuTylTY9ad-wrIa406VJUJA5H1BSSWtyoMutbfqcib890lmsky6Fz0E1Y7A4nCiq65Ueel94zaD0jYUf-i-uXn2N9ekCa5h4F5ImUGOBPMHdin6kfhKkWQFRRRVFmAjFHMQIdPpBP3pp1NSxGgi6YUAn5uxRMklK_XY5mnxAcF5N7F9MxwmkjgaX1AQcEeYzj3ZaYFcnA7gxvgJk50Xm0ezeACbyZLx406-2XbcZ_tsZ3reF02D9y7mF1f1U-H3VdPwit_gZR7NU4uZG11IHHFjJqRenF3BrtyPhzVp5C8tPYnfG23kE",
+      "width": 4032
+    },
+    {
+      "height": 1816,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115669779561965803211\">Kin Tsui</a>"
+      ],
+      "photo_reference": "ATKogpdp3rP4nYg0kPKdjfwmoMGOcc2h2ZlZyNlQQ31YUHZYmOkhRYsCu5sqLMZj8JtYWtH2uD5QSyKuLBAnpCsEFxy-q61lYUX-ZZRd9HWjVNfzG54u2vA4gUpx6SwMBnGWdDb2LNkMW_Pxbmdh4QKx_fVn0ufjHDMZpGYXS9Rs1RprQOXxL7y1TGisIu2s4nJfRZbO0DDLZi8r0A8E8jA-HL7P0xTrQ2SNtF1mOYjE5i8K5k-9Q6ieYEW1H2tljmNSTOxAR8Y6mlxqUfZa6q69sDFNgxeSVtDrdrClyZCfkwgmENcU91lj39OriJddTjJPwHhfaMExk3PLjKzmfHDu6N4YwbWARnf2mHUllojFQ6O63KRMV_p2Z_LCxE3vxyYCgDiEwAbkNd_yuI3LVqTVKlRFM5aLoKccT0teJ_aCwtPGyaUHRPGeZPE32RUIj7HH",
+      "width": 2961
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102641595252695497963\">Melody Chen</a>"
+      ],
+      "photo_reference": "ATKogpdhu45TZYhRJE0_DP4glPgj8I1p3jJFIfHBZjX3p6l46N0Ih9hRjBPJzorIp8ra01EtXMdcjEkQvUO9GwOYWBgeOU_1UC4ziU6SQ_mPeyNlEfcDwep5YCZdtF9yLv47GOMU8KnUgzk8uqlxZgzrf_OGSqRCExZpqzkUYK1x4QYGTmDGYU_Ql4ADV4OO17lGE9nCLSdFE6Ey1Pk1QxHmD5eUY1rIBdk-yTBTRm8lO-VYitfiXNNAJYmiAWayt-uLGsi_Ft2sqB0cqOdqZJng9uKc9i3JxVjO5rXEIEflQqZaM8dvGloxsJYwjr9EHX9tYFMXeELM3bGhrAP7gYTpAsc_cjplr1XloblwHEC2PmyzWpqWEUbtcAM3yV6YPDRRxa1t74Vc5C5Jmkg3gnr0djDYaVExLolTl1xFdDR7PJo",
+      "width": 3600
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117705513754883528486\">Hiroshi Kosaka</a>"
+      ],
+      "photo_reference": "ATKogpfxHVf4Cgrvi4j9lWlyNZ-IlsdqOKK4kNlIxxwA5ngkD8JbAWr6gpF9WymzdVANeX3jzEoemC9f7sMEXGhMXSMHzekHsTu49JaRSj7COSiVZfJYOeT0TEqKAgvSL3xOoyrFQUS8gc64xykGB8tEB-iEX-bmvTKxyIi4N9HFN_xIpMA9IvnGkF3ztKzJHNP8aeX-Ibv6Pd8Li-tlt0Szd2-hAa4fCbQmhamh_29EMRPgEaLUct3a-OHnlnqFPwBHbw3_XP7bmHCceJyK-mKUCyHRavD5D4lAhHb9lWJw5GgK0Oaw-PPwZImnA9CCuQLd6SJOD0i1TvFlutK1MRixMC4BMTsjQsN7yi3ITmhn6Y0taydMJoZi36_ThlXrlxMv0CTx6ISvtRKXB8cgVtfmOvVRnN1cmv0nFb4yUbR8bvdifEhZBdSd2KwGpYKvrA",
+      "width": 3600
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118091899590908182275\">Jason C</a>"
+      ],
+      "photo_reference": "ATKogpeQH5VbAK5-WdzdbqL3H422FdQ-SAxg5kBfh9nuUc3twySOhXPVJ2-hUrJ7e1k-BGkZpXGPwBqn8Ab62gH3ntWoT6p5NmqZAi_UnccI5wzp21h2qU9MDTMkrizpwpxEdpWzjrOKj2RyYficOHzW8rdhc1bQc4TmdBPy7jqIWJ2IfL_M5oxwDY9Wnhu-aCeGBcaKXOCjGEdWFfJvX5VGw9qNB11ja_NIrtoValdVEMk1lYmxNTPWZZmMdF7jdHxY_PcsqIglWholQ9fxygqiIrHUTzibDl4nvKCQsywGaHNyQ0SQNZsBg5AtSaS9s8lj3OYpOZkIv6nBg0eUUtxulK7kqYtX542AFjs3SOTShXGlJnir2klEH6OOn_QOJqzE5AjOCnMeuUNw5oEnUuI8XbFpvvLwt2-_sjENDPjTp8bRU4-s",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102908008305195700077\">Christine Kim</a>"
+      ],
+      "photo_reference": "ATKogpcjRNxCaGk-I8YI5atwSWvF5Ld1wQFAdaZEhrUgNABEr83OSf1HYPkOu1suFuybe0Ly3HQVblXsOZ5PD6o299HL5ick6iU3xOfoaK38r__V2F612vucUrzX-KxFKp_pQJcPT3BSka41BFOI8ehFl6dHjc-jTIxGU3V8ItPS1-Jz5PccoCfmTLesX7Y6tj_0vmPuGo4n8WiaZIlz1qUGsmCHFpaUPKdLAGydzvoD3kpQG4giwAs8gExB63Qe31l0pvtEt7jnhiEGf8Pkv4vKrL-z_wu5V2exBxpXnNDWdpvnM6jZ3TsjeyF7lzyGGHMmrnl_V987SA7Vu6rEpBVS7Eq5D2HRGQjmE18ljnbJrxcutfkXiQbSFSq0Q0W9aFe4yFTGb6pvALhb3YBFJJrCjhMMsCzLSDaIUF4P82i4AGZWk3DH",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108488815114738382789\">Haochen Yuan</a>"
+      ],
+      "photo_reference": "ATKogpfF32cyQqNR0LLCh8kwY-mUKylYIp_E5HsniU4Nqn97or3iaV6oLtxf1skVRkIyem79hh7yo3VA8Wi7r3yu7WUq84y2D4S-DOiHtGIR9KJBA4Piz2wlfWkuImXHt3Ncn9QHI8Bmfp0sQLMNmI3_bhOikuYM7YEdeJ1Fg0JC7S5OPVjMkYyF5KJmPcUChWm-f2PHwya_UGkjenNy-dtoaqx0ZvPKUEe1VCBo_2by0Mxk_EYssxCo2Nxb-g7CUYHQHt4zkqOgbvxXfkJ1cBV9soc8qwGbIqjKnk7M-0FletmxoZNSYfJLfdv4IzVbXhz7bGuviNQQ59ED_fPqT3ZQvOgnO8RrmkbCWe2QoIL7EjiMXk4roxcgybltvNhLSfII1sKg7OCHAojSOscJ0wmVkly687-mvDruGBs_Ic2uLSo",
+      "width": 3024
+    },
+    {
+      "height": 1295,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110969829192883999185\">Kimberly Lim Legaspi</a>"
+      ],
+      "photo_reference": "ATKogpeAnl2kCYRXBR68eIBRww9pj5afSiUIrUV7RH8GJ82_DFRfChLrH4nFpYFI4q8WkBoi5AdNZK755wwNFto8Xe_Pk9czRhcNbKeUhUrSfxrPEnR0XkbI_GPp63_os6YFi4y0YlTlFyTd6S6tr_hFChwv0S6udv-EhMnUJujXhQnuQNHyhKi3USuxs9PCMQ7br745UVwnm12RABVP-EAPCOdtfsdyrdLIkzg9eWKu4i1zfZZ779PdI7zeaJWzujUsfKShx1CXnPSWnXGukpz03h_ns0X9Ejmmoy6ifDbYpvjoqggDu4w68iDKML24ldfMIRQPKbqfKAYZe5KaFMaO7uNPzueK1bqDEaEjQwACbdH4vSJYEKBtJ4aZcK3d9mzmvFYTWgWEePQL7s8IFSpOTpx28QFPgbqB3Ji2aEQUWezPLJKG",
+      "width": 1170
+    }
+  ],
+  "place_id": "ChIJfQvyIw5gwokRYrRfuRZrDCQ",
+  "plus_code": {
+    "compound_code": "Q559+RQ Flushing, Queens, NY, USA",
+    "global_code": "87G8Q559+RQ"
+  },
+  "price_level": 1,
+  "rating": 4.4,
+  "reference": "ChIJfQvyIw5gwokRYrRfuRZrDCQ",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "E. L (Ny Foodie)",
+      "author_url": "https://www.google.com/maps/contrib/104269471727164162930/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWAx31QLO_t4Uevb8r8RByzcdOEj4myDryoXWdDJxGryOfwO8VOog=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "This is a spot that you can miss but is a great find and has the best Congee for Breakfast and small bites, the rice Rolls are amazing and the minced Beef congee and preserved eggs Congee are our go to Breakfast special. The soy milk has great flavor and texture and the Fried Bread Crueler have perfect flavors. The spinach Rice Rolls are great.",
+      "time": 1746928505,
+      "translated": false
+    },
+    {
+      "author_name": "Christine Kim",
+      "author_url": "https://www.google.com/maps/contrib/102908008305195700077/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWHzdr4c72VO4d9TzAB-PXnmPXMj_L5DyIUWB1iCYrUxP35nm49JQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "we ordered the shrimp rice roll and the curry fish ball rice roll! the shrimp were perfectly tender and bouncy and the rice rolls were very soft and soaked up the sauce well. the curry fish ball portion was pretty small which was a bit disappointing but the rolled and sliced rice rolls had a nice texture to them as well! what they mean when they ask if you want it spicy is if you want a drizzle of sriracha. id recommend this if you're getting the peanut sauce with the curry fish balls. no seating and cash only afaik.",
+      "time": 1735534011,
+      "translated": false
+    },
+    {
+      "author_name": "M Lee",
+      "author_url": "https://www.google.com/maps/contrib/117496781737962116533/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXjWnoku1vcyDCQNA7nU90dy4q4OmbxEfhGFQdlm2Dhwwzt_izy=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "5 months ago",
+      "text": "Tiny window service HK style takeout on Roosevelt, between Main and Prince.  Very short line of 1 person ahead of us on the order line on this cold, blustery Sunday afternoon. There were already about a dozen people mulling about waiting for their orders. The order taker spoke Cantonese (actually quite rare in Flushing) and was professional and efficient. To sample the quintessential HK archetype, we ordered a basic wonton noodle and added the stewed beef for $3 more. Soup was clear and packed separately from the wonton noodles and stewed beef. Wontons were acceptable, no shrimp were present in mine. Noodles were crispy, not soggy and the stewed beef was well flavored. Not greasy, not oily, but cut into very small, almost dainty 1/2\" x 1/2\" pieces, not the traditional large chunks usually served. 3 small stalks of yu choy were also included. $11.50 total for stewed beef, wonton noodle, cash only. Fair for 2025 prices.\nThis seems like another example of the latest and greatest FOMO where \"if there's a super long line and bunches of folks are all willing to wait, then this must be great\". Good, but not worth a 20-30+ minute wait. Noodletown NY on the Bowery, Wu's Wonton King LES are packed with Tiktok gen hipsters, but still have the right combination of biohazard bathroom + old skool HK, hanging duck greasy spoon we drool over. If there's no line here, thumbs up, otherwise go to Shun Won.",
+      "time": 1736192539,
+      "translated": false
+    },
+    {
+      "author_name": "Jocelyn Lee",
+      "author_url": "https://www.google.com/maps/contrib/117980597988889096936/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVLQeNQ-TexSlLMOcXPlECXO5UswY9rQSnqhi5GxYxS0oVCM4fj5A=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "8 months ago",
+      "text": "A little window on a busy street known for its curry fish balls and rice roll. I personally liked the fish balls the best as there are much better spots to get rice rolls. There was a short line and it did take some time for my order to come out but it is worth the wait and it's fairly inexpensive.",
+      "time": 1728908933,
+      "translated": false
+    },
+    {
+      "author_name": "Melissa P",
+      "author_url": "https://www.google.com/maps/contrib/114951207674527308243/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVpcjMRDCDvP2j8BC7DJnoiIU8zQyy11BHT2XsJKjnIFllEWK3F=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "a month ago",
+      "text": "The food was okay.  I decided to go with the cilantro rice rolls.  They added extra sesame sauce and soy sauce for me when I asked.  I can appreciate that the rolls are of a thin and soft texture.  The flavor just wasn't enough for me.  I prefer the rice rolls I get in Brooklyn and Manhattan.",
+      "time": 1748271961,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_breakfast": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "food",
+    "point_of_interest",
+    "establishment",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=2597568830429443170",
+  "user_ratings_total": 161,
+  "utc_offset": -240,
+  "vicinity": "135-43 Roosevelt Ave, Flushing"
+}

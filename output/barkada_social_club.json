@@ -1,0 +1,459 @@
+{
+  "address_components": [
+    {
+      "long_name": "3305",
+      "short_name": "3305",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Broadway",
+      "short_name": "Broadway",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Astoria",
+      "short_name": "Astoria",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11106",
+      "short_name": "11106",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">3305 Broadway</span>, <span class=\"locality\">Astoria</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11106</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0000",
+          "truncated": true
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 3:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Tuesday: 3:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Wednesday: 3:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Thursday: 3:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Friday: 2:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "3305 Broadway, Astoria, NY 11106, USA",
+  "formatted_phone_number": "(718) 255-6222",
+  "geometry": {
+    "location": {
+      "lat": 40.7612592,
+      "lng": -73.92341189999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.76253778029151,
+        "lng": -73.9221307697085
+      },
+      "southwest": {
+        "lat": 40.75983981970851,
+        "lng": -73.92482873029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-255-6222",
+  "name": "Barkada Social Club",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0000"
+        },
+        "open": {
+          "day": 1,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1500"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1400"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 3:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Tuesday: 3:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Wednesday: 3:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Thursday: 3:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Friday: 2:00\u202fPM\u2009\u2013\u20091:00\u202fAM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20091:00\u202fAM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u200912:00\u202fAM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 2868,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113756566709329327752\">Ruth Aragones</a>"
+      ],
+      "photo_reference": "ATKogpettkogNWjTLZFWjO4oszy88cXPKXucsT8HEU4yOrIwR97ZTDQZATABnmkHbYTVIvTaRJw0mcWr5Co5RlmimCbQPg2GsVIYCQVbdbzYmV1ht5L_EL6Ebn7vBuxZQtgNq0wTHae8EcDdqDCv1k9BxTmq8k4PFyINhmQhKi-iKZhEjLTrwKPSXHss5kiKDKLXaju6vnh_AF9ROehwpbW2y3c7oESwvjQT_fpfyE4KhhpFtaKs4NrCK6CnUfSh6nhM7fb4rV7LQvthSqBj6bXUYa4ArheP5DeEWYisM4b6zyfbWoN8l6NRFugY0kdqniY6RXVVVqf5qryaQdVz5Q5T2uR9_mHvhPhSZduiXd6U4wfpuJWjQ9xS4x_q0B7IqQA7vn7JQnjLudd7n-Vh1aKOqQB5CbH2S376UJVKGdn_cGLfFBTx5X1yvwOUb13x-NTg",
+      "width": 3013
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107170140545345883003\">Barkada Social Club</a>"
+      ],
+      "photo_reference": "ATKogpc88b8-WYUFLqWZ707lEndANF9Q8WG_638Mgd0bTxDwPhsvuK75AkcGUSp-maE10peSSyvIIOMPo8wE7hpPo0La5waF49EQR8TBSFMJKYe5KUhvevmqNU_AoHrCfu9fqYlMv06DZ8i5VvIKoxK078Xrg-EPCs72TfS2uBubG4KK1MjKpx9bMk7ztiqpG-TQWYqMa9141gOBvjVF6r-JjAPu-4qKOUZnnPHD4QvQ8J4iQn0z9BjL-j9UGGWYVviHtv_a-z4KCTi_s_qokxxt6sikf47L3-b7G0b9prPKoQdOhg",
+      "width": 3200
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107170140545345883003\">Barkada Social Club</a>"
+      ],
+      "photo_reference": "ATKogpdICVuC74alqJrmhvgyi4xl0SPfHHPmtMZyJAKqF2E89R1uQgwltaujUFDVmzCfJVZZljhkmVbSN5qnQ_69JEY357tNzzaFHCRtqx52Ux4D3febcaRemUIUj6ssz4VMtQHgrjNaSMxijmtzxvUp8Om9GT4g1lrjBByiMVXfoh4gg7S-xuf4JnkdO7GmOvFA1Y-nTPErZoU990oUO0c6wm5nPz5TRyP-DF_x9mvVTWmgC6v_bSpS_O5qgng9DDR70HiXjiTIipyzNIT61r_3_PA1GWzsPWkLBbvEiI-NuD_EFg",
+      "width": 3199
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103632816412883103470\">Stephanie LoTempio</a>"
+      ],
+      "photo_reference": "ATKogpe-DVYIBPvcu89hnI9n2lN0BSdw4o38dPSJNiQYWImYMiL2UWsvektC-ddJNl7ifin4LQyLyzseEjnhMfxMLDoKNq3htkAke3MLj_8w9NQECL55Y_NaexsILb-StToyIOR7-SHrtQ69T9eBp6HDTOGwWflMLfMKcrdA8hj-_LTc2-hw9U-89wniv5hkNfhQRk5I7EuHSkCJXSMPziSPUk4pxiymBmPTAhtP9NzHJ4WrHQLIbA2x6Dl2zomIsK1bR61lJlbPKlnqiEmTgqeWmUP69NIcI9E14m-UrkGGir91teYCaIWop5MnWOsQpB1TBECIOyFz58P_bNhNL_TtwWie7RnqHwO9lo5uQOZpI7VL_NNBtnzgB2Q24lgHrt55BHBEEUscRe1ijX0GvT-xxzKTBiNeLDrjq57FEg6zTP3hpg",
+      "width": 3600
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117972315810303818289\">Alex Sun Liu</a>"
+      ],
+      "photo_reference": "ATKogpd3c7stJClAkMBSQhvdL6lR0LGiZ9V_TBjw7FmcEWf6g0Lm4YdPMoeXprBjNyAdZtb1l8G31ZUtc_gjxLsIFPb08fhOKcpNVSOivyqSgwM3EtVmSpx2oaDkbMqaVbu0myX9ckrS6n4FkcFCdrB9lYsLsUJVmq2S3-1n4M6p3FWKMWdoW_pHaaSMG5RigDlZg8Jy6YOmclWV4Qo-NiSTZNPmzQABZNV1EaB7UsDCeM1OpFrAhFMhwEkcpvfYulGJMq-x00lbfswTKTDxEjawi03IhxxHjreJLd4rc4sGv2VKknz0plE7K4C1ue6rv3K6-Tkh6af5RF9nGENe0PAzxo5qA0S5odTIEu3VTki6UGmEAyuxPSVjYno5lYa2wcAQScy_SDuT5cCMcKDVJPVgw659nPHWefEhX2Pgb4CC72SQaudP",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110496166905317972754\">Zuleima Franco</a>"
+      ],
+      "photo_reference": "ATKogpfWNeYaEqLYL9VcTqL4C0ESZg5QGJYXA8BnSXix9lt74dxsC7T7Y2j_lQs-2yWhHsr6IdRP9OWbmUUOlIbSrehbl0lKl0xK3pEbN-KIUm1JOazCGMpIjeOO4tbENrcHgHN8A2oefeE7EfDl9l9gSFmG0EDTO10I5uZRKUtuSe93ViIUQpowT2iXFdqD1QcM2PzN5SOqRad-nyPFdYEjwKpk_govA7vgw_tiTeABOxsKtRnYjXLrCmTcAiAUw1zGvtp4Cw_6RqZi8qnd_kNXakgIKatehHp5AifyYGgE-ooO5MC_whXNsOe9BhwCMoOW2IFjWII6qLOWChtR9kcMu0AR0L1qseLtEBhi09x9AcAllc2ObZseqy7k8RhoYveL8AZRAYU6kuqP_J72DU_o1MbKmnUv1ygLmIGNAI_HAigB2w",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107170140545345883003\">Barkada Social Club</a>"
+      ],
+      "photo_reference": "ATKogpew4GOzuX2hV4pdoqP01tOzgpTR8a3QjeQgsr-HIxmULRba0va_VzJdNexOcODJ3iNdSD-Z14TWwSrjleS6Vu3E0W87KIjBs5_PasCp-fqGDu4CGY0yB5jM1g2p-CI6P0kMIxi5KqWi13F5sYvrDBOPukpveEMLZy6sQ86XF8L6PiNalgWGyZUXavDZwPYrfVIU3ppCaOcrqRJRg6Cdj98qX3qo8iVqxcL4NPFNrBL74pI4RctsqvI5XbGVagoxz0fVYZWSGJcr2xwGVPJdXiA2YPKsB7WLtEKFwh7u4OiTyg",
+      "width": 3200
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107170140545345883003\">Barkada Social Club</a>"
+      ],
+      "photo_reference": "ATKogpf8VDT2Ct5ueJgq55FpFOZVBPo6vwDcrIp_TUe6W9cVdQhKTqEWnwM-J8Hl7naK-Pj003giB3A_hoYNcGt22uqaSMQVLFIDo815af98V4ewExiz2LI_cx9q8njTd_fB4eLjduNa0pOw2N44zXkj-RfbLDIDz-1CSfpV_afLUQHkiY9xtzqP06A81p6XwgRejG-hS2QYfNnxYoa6oi_5PR0bGMqQHvxRqAKeKQvxjd0PAZcYw4P9whqUrrcGP6nbU6f18nhWVv8W6IM3Qsx-r3nc9RBpWKZG2EhCanvMP7J1IQ",
+      "width": 3200
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105218975215458587294\">Sayeda Alvee</a>"
+      ],
+      "photo_reference": "ATKogpeeMDVhtz43TL_Wpqz1bmE98gETaP5eeX8j01ZfS978aG8xjk37a_j9Pox0DS2qsxW--0Jp3ro0yW5qkwLLzduzVLF_uEGNzV9MoGtRk0JuKTgqNZCWFFCmghkEV3W_i7zgzOs5NSAqIFypPO2-pJn2xfp5uGD657GqLqn_Sy3RYIckuYlqO3vKxrfebToKCBhCUMQ7dJsUZVGF93_iS0WnaWzWk8H_Mwf0s2fQqIkh2MQcBHAq1qbod-RwMePhfupjwO500u04jLEAPAf9OT2fNOCPgGzcjemfN8sQvrSk56XnCv1s-rSH-CkcfUZQbNC0vxz9FMcx2gPxGYsJx5p0wP_jJO2X_PbHmCd5lGe7fW3i3FtjdIZdbTnkZPwFgrMW6jB5r7MtKWdmVx-kPEc8tluQ0uO9bL3jUCu4C60opeL_tfDnLINf8c-xtw",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103632816412883103470\">Stephanie LoTempio</a>"
+      ],
+      "photo_reference": "ATKogpeRJ6vUgM6vlUSDfVFUfhtbinJ8gPGqZ31THSRspCEO2h7a1anz6fvuJnNdJJFB66y84v4qouSOo7zlQ7VHa-3xdjpYz7hHLSPi747kzn9pHV3XyXXHk-aQU-Crl6-xHtf7UZpCmLLBf8vODuNVt6sL0lLqfG8ja4sBHJSficlVJ99tyhfpndjmyWRR2Um_nexWQbvfhoy_UBAOxNJOdVBcYgtRD0tZBSVslYQPKzxSunDJw2a1Wn7yqzIZnp74XvAom0ta4CApfH1r_YhMWbrCF8_Ioh0f3EOvqas0mxpWSQYbMc7pzboXHl6ItCLvhPyMeWg7zfRQkk56LmAcj0cxN8T-SF7tD4_48gOkEkm3mlzEyf24QeVtY632d--ubugnlol6eYRLGwLqUEMdC5jA1ec7ud6iyesGJA",
+      "width": 3600
+    }
+  ],
+  "place_id": "ChIJT1BhMQpfwokRi3rOsB0QErg",
+  "plus_code": {
+    "compound_code": "Q36G+GJ Astoria, Queens, NY, USA",
+    "global_code": "87G8Q36G+GJ"
+  },
+  "rating": 5,
+  "reference": "ChIJT1BhMQpfwokRi3rOsB0QErg",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "YF",
+      "author_url": "https://www.google.com/maps/contrib/116765713628462753457/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjULDK9l_dzQMLIxppogqPKZUixeZ1SxeUPemT_R14R2O58vv9ur=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Been wanting to check this place for a while now. It\u2019s a mix of Filipino and American food, which is such a unique thing to have here in Astoria. Food was delicious, drinks were great and service was attentive! It\u2019s a very cute cozy spot to grab a bite and have some drinks with friends or even go on a date.",
+      "time": 1742611157,
+      "translated": false
+    },
+    {
+      "author_name": "Razia",
+      "author_url": "https://www.google.com/maps/contrib/117714394367553186264/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJk1_Ev8mQtLI9axgYg1FmAQdrJ9-XdPxGel12Kwu-ZbVoySA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "I\u2019ve been here about 10 times since they have opened and I feel like I found a new spot to end my day. The hospitality amongst the staff, the ambience, and the way I feel leaving satisfied and always wanting to come back, is what brings me here.\nI have been frequenting neighborhood spots all throughout Queens for the past decade, Barkada knows what they are doing, who they are doing it for, and why they are doing it.\n\nPlease take some time to visit this restaurant, chat with the lovely bartenders, enjoy many of the delicious plates they have to offer. You won\u2019t regret it. I know I definitely didn\u2019t after the first time, after the first ten, and going forward.\n\nThank you, Barkada, for creating such a wonderful place to have a great bite, great drinks, accompanied with wonderful company.",
+      "time": 1745115857,
+      "translated": false
+    },
+    {
+      "author_name": "Natalie Lifson",
+      "author_url": "https://www.google.com/maps/contrib/111696801603962706367/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLa4GdyJ43HzFlXA8hVlFJQWvlnGDbU1vPVObOxSfKhbJBvJQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "I just went and I LOVE this place. I had a couple drinks that were amazing - the smoked old fashioned (4 different options for type of smoke and great presentation!) and one that had blackberry jam in it. The fried chicken was great but not particularly special, but that wasn\u2019t the main attraction anyway. Highly recommend this place if you want amazing drinks, a great atmosphere where you can talk and chill, and great food to supplement the experience.\n\n$15 per drink and $12 for wings. Not cheap but not overwhelmingly expensive and definitely worth it.\n\nGreat service. Waiter was attentive (shoutout to Jay!) and had great, detailed recommendations that ended up being accurate.",
+      "time": 1742863603,
+      "translated": false
+    },
+    {
+      "author_name": "Umar Ishmael",
+      "author_url": "https://www.google.com/maps/contrib/102814507811047422033/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUW4Q7u9XSBt0wG4M31zm63IgltMq8DL8hak1YGuelQDdDzH0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Barkada is a Game Changer in Astoria!\n\nJust checked out Barkada, and I\u2019m already hooked! The vibe is incredible\u2014warm, inviting, and perfect for a night out with friends. The menu is packed with unique flavors, and everything we tried was absolutely delicious.\n\nOne standout was the Dynamite Crispy\u2014a deliciously stuffed and fried pepper filled with ground meat and cheese. It had the perfect crunch and paired amazingly with their green sauce. Absolute 11/10!\n\nFor drinks, the Weng Weng is a fantastic Filipino cocktail that goes down smooth, and their Manila Mule, a tropical twist on a Moscow Mule, was my personal favorite.\n\nMust-Have Orders:\nTruffle Fries \u2013 10/10, perfectly crispy just how I like them.\nCalamari Heart of Palm \u2013 8/10, great texture and flavor.\nDynamite Crispy \u2013 11/10, insanely good with the green sauce.\nKilawin (Ceviche) \u2013 9/10, way better than I expected!\nGarlic Chili Bok Choy \u2013 8/10, super spicy and I love it!\nAdobo Wings \u2013 9/10, solid stew-like flavor.\nSinigang Wings \u2013 10/10, absolutely amazing, getting that sour/savoury taste of the Filipino soup that shares that name.\nFilipino Pork BBQ \u2013 Really good, tastes better then some of the pork bbq served by my filipino friends mothers.\n\nThe service was top-notch\u2014friendly, attentive, and you can tell they put a lot of love into both the food and the experience. If you're looking for a fresh new spot in Astoria with amazing food, creative drinks, and great energy, Barkada is a must-visit.\n\nAlready looking forward to my next meal here! \ud83c\udf7d\ufe0f\ud83c\udf79\ud83d\udd25",
+      "time": 1743335700,
+      "translated": false
+    },
+    {
+      "author_name": "Alex Sun Liu",
+      "author_url": "https://www.google.com/maps/contrib/117972315810303818289/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWZI82A9TTHKz65VAtFEsLKCDc3FVmk-bInu6aMqOkCif09CtnW=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "As an Astoria resident of 4 years, I was thrilled to hear that a Filipino restaurant had opened up within walking distance. This is a great place to get cocktails and a bunch of dishes to share. The service was really kind and attentive, and the food and drinks were excellent. Highlights: lumpia shanghai, beef kaldereta, pancit, and chicken inasal skewer. Try the calamansi flavored cocktails. There\u2019s no wrong choice here (other than not coming in)!",
+      "time": 1749699741,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "food",
+    "restaurant",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=13263681572265949835",
+  "user_ratings_total": 36,
+  "utc_offset": -240,
+  "vicinity": "3305 Broadway, Astoria",
+  "website": "https://barkadasocialclub.com/",
+  "wheelchair_accessible_entrance": true
+}

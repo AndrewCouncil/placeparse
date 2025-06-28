@@ -1,0 +1,276 @@
+{
+  "address_components": [
+    {
+      "long_name": "716",
+      "short_name": "716",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "9th Street",
+      "short_name": "9th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Old West Durham",
+      "short_name": "Old West Durham",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Durham",
+      "short_name": "Durham",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Durham County",
+      "short_name": "Durham County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "North Carolina",
+      "short_name": "NC",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "27705",
+      "short_name": "27705",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "4803",
+      "short_name": "4803",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">716 9th St</span>, <span class=\"locality\">Durham</span>, <span class=\"region\">NC</span> <span class=\"postal-code\">27705-4803</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "CLOSED_PERMANENTLY",
+  "curbside_pickup": false,
+  "delivery": false,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Latin-fusion entrees such as Cuban sandwiches & tacos plus margarita pitchers served in quaint digs."
+  },
+  "formatted_address": "716 9th St, Durham, NC 27705, USA",
+  "formatted_phone_number": "(919) 286-9600",
+  "geometry": {
+    "location": {
+      "lat": 36.0084406,
+      "lng": -78.92201829999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 36.0097590302915,
+        "lng": -78.9207369697085
+      },
+      "southwest": {
+        "lat": 36.00706106970851,
+        "lng": -78.9234349302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 919-286-9600",
+  "name": "Blue Corn Cafe",
+  "permanently_closed": true,
+  "photos": [
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116073309429759671127\">Leighann Breeze</a>"
+      ],
+      "photo_reference": "ATKogpcIAhUBNMZ362l1cgnf2iKtX44cbGxPOevmxAlEGo3MIkM8DpmFSpPhMf9qtiblMTxGvNGph_baBiNMTC7z9E0Ail2R3dyee_bqC5kCEx1cBfdkpbK9JnrVHn-uOBKT5U1h0oY95rGA96kuL0VWzy5ONQpe5GfwwD0vW9a-QgKz3Jjeq7rGvhnJT8mEahMn8HAY_1lRmiMWu11Tb1TvUUzy1D7RCyR0x_0ts4gaWwcZi1B_Iyc00jdkEULl9oItsTlH5T8cj1yVIhdozXsMyknix0iTD7yzjqUUxAMwr4ug650aUFk1Jt5G2AoojeJSkY54-qnka_NlELnhFYnAskJbFA_IUjLYZvMsoKxqQF4K4wDYE_BcRVIvjAj1X-vbDL3B_YPzWOQglgjW7m48TFVYf3-aUKRw90dkvXtNSm8",
+      "width": 3024
+    },
+    {
+      "height": 2295,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105401026926472528386\">Blue Corn Cafe</a>"
+      ],
+      "photo_reference": "ATKogpc2rOyw-lNxP7i70q0SjT4ue4n4wCMdFHCdD_8KtDMmy9-HNcKzxily4_7D9mjrKJwtA5DCWpuwyjvTmyk_LWeJFGv917L1jC-8Im794jMjJhAFrwr5wBS4s8YGXoVj8SGky870WasGeq23WeOp4Ar5e0U-50KnZeRA-xl1EU0xARE0t3-oB4MjkL0y0T3xr2lqPuE3HGtI_6PbLgl-Hz7PdKzriPznBJuWEzpM39DgBKK9wknimv4DQJVprBF4aSsK2c2WtJiRxyaZJ_M9sxn7VAuniqCxikHviFHOdDLjMw",
+      "width": 3060
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116914321622185412366\">Jules Perry</a>"
+      ],
+      "photo_reference": "ATKogpfkJ11KpRv_z1ctyi6RFv3_QzVxodfQyfrcLo0G5RPdZMcxegUkPIX_dPPIi2IvX4Og7HL20M07l3eKOK8AjeP54IpeL4VyKpYTCbI2yS7LwBDkfb_K7fOzDACRSCNZdyFfc8HKMxTd2P5xXSHcHWVlGovEOYc9uk7J4t-TcDK0P4wigUs7F2NX3_vaRvywCfpJ8mfnEX_KGgE0PGfZZ3QZR6qChQjrfygXn-TWwwFHsk868nvu-yEm9hoE3P5e2RhMI8iKqao_K7A9Ng77GFI8SavkEaNXXEQyNuck9YaPIcgdQxJXcvr1uuH-5y_uVQbJl1_uqqM0JwmkRqXkxdLT5IaIwBVCnCxeuLo_kg28wZb1EoBR4kR4q1CZiXL83NRxOQt14NxtVjrwzRXesrfslC9SgwerkQ014E9TN4--SV9u",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105416527649493065135\">D J</a>"
+      ],
+      "photo_reference": "ATKogpfXFHR9dOsPyUhhgbcK13KDMahYGtoBA2qC9lInimGOP3Mc0hV462UwwhpC5e_kJ-pRv-2NdvC95PDBT8kAA_yMRnRXEE-YIeEslRx90y8VQ8I3ZAuB8thHnwTM1gYz8-lQ5-VkqpFSEtBvxSurXpQOgq3yS7gthAlXBCIOJSAn_tODE0SnVaKaq43iNmgvQIoYT_gVox4lHDE6noRmH53nEfywt1NEd0xRzBz4_yAnfOzeX7MQgeV_hYZuCGWLgCD-BWfFlGX0tyDuCxg3QDKA4dZNPGk2voTarnp9_FYigwrh1tCfzeRUcL6nMw4gOMX8K1u-TW1KN5vpLfpZtIkVNhd5u5xhFTA-aKqvwpXMD7zsdCEVULmHxxE10OwXud_owL3_UWLyVo0ZAyIUNRVEqKGAbghbSfa2RcMR8kH-Fag",
+      "width": 3024
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103114804148114616257\">Shawn Williams</a>"
+      ],
+      "photo_reference": "ATKogpfc2FcZPZFc-hCi_XLiKtd2BlHnlwCTpz-_LSrx4UIJ_ihlY3j_XuqFapiqNO87dOSuCtf7wvsaW_VV_uKlipdGnQ9b7FGs0qHY3loZOB3AUskJYBYBzaMi0Qj3lZ-k2xwNSru1bu82LR3AkV9N37owETDSe3rhxQuCJsUE0XhWvACiWbt1Pz3U7MINeldm5ygW11ymx7q4QI-TS_nk-FWbznQ1Qu5Bd6Cn26yYBVkyVqthAJakCHdN_kbvtDuqP4zFf8rW3n1bZqMabjDm_sOJcTDWzSqzQVeqn-wAUsRuZws6Mi4Jbgl_Lsaqgtrkt9Ht0XohTdO1zjD27fmIYbnAOXPoKYcNxz0PTPcUt7ryH3srvJ2cKpWuL2EI4tyqBo2pOMIjqPhnKg-i_oC_41mcTjJZfUixX7naTRvYnD4",
+      "width": 3000
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107090692155639221668\">Alexis Askea</a>"
+      ],
+      "photo_reference": "ATKogpcgd0oYgaLZG8SyF9aZQs6F9lwxRV4RW_b5ehSYrhyQLyISQK_9fVwwjKoiDfQWi_AZzxBK0to91D0NzefimCXoEN1PsUqINokJMNC5iRLu0ukS0XmgxaaAzm3Ff1SHnnBE6lW8yhvKDEdq08-wUC7sTr2aDtKKOpJheZkOrSPSP9k5YnXowJHXg9vhWeGAFIzVn4eQGslMcWZqAVELDKxu6HNCYoCgnnc4x0TOs6rW9J96Ys4vOcg_LXVuRT-XCuHeuWc2aJZPcq_o2eJZN7eWiEL7sB3AtcjMYGkKagxRzeix9SRozy5AFTEHI71eLMd0x4ZS-Rs3O13RjBWd6tIsIIcpXizz91tkySXgSw1p3Qn5dBBxiZo6Hhza3rvo7B2aP95vBkzmOEoMIlZnmJuNE4T4Pnji6JufMng6FFg58Q4",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101396657637216579299\">Alivia Evans</a>"
+      ],
+      "photo_reference": "ATKogpeRP-HKua4HLCnHSCJMPlewPo2-7T6hULGtEJY4Y7qU4_XrJ92X_M5MVKEmyhBpFo8VlvhWgpxBmntV5zGfWimiW_0M9lo_z2fermESpPvWm18DHq6fJmKsD_5McgJFqRcb76dciV_dzPw0NrMyoODK16U4pNSMBT9CsCzrfPL6mAfp1565X0jycjMEpJ_4xbBdn3P69zNhYTMwmQyiPNVKRDCKZau4lHAc8xuNgj2PyygkKTtdbyoB9YVsn-AGM0nCle_2OJWjxpUTBXK6kAzRQBoQMNcBmxv-65fkBYTOlEg_m8NCMztMCyzW-mVmLzO7n_aTqC5okQ7-MeQq1Ukmdvj1gGn8xFS-hkE1kkAhwgCQ8WgVCQd-HcxR7a3dKwVnEHcQdKMKRke2SfiObdMiRoxGqQIHe6wSp-PFwAPY0w",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114294142668346943521\">Tracey DeShazo</a>"
+      ],
+      "photo_reference": "ATKogpdgVsg3eo7grTTKu1BpVNP5Z0cpQXAs1STn0JeA5dsc5CAvBn4eKAdEUf4SeXlnAlPTiAukq-HGHtXxtH4xbnBsxUP8tm27dI2riaIQ4UX8x9MZqSlsFW6L-u2sCAxXnV84lLkTJPurl3MaC0mnuVCC2ESnRkR4KAGUZuRwhiKlRmUir6-Ru0x5b546rVFIm02NUIll-TUtuXe2IPUWCO827dTcsiFAo7V2BTa2DM1oH94mmuxaiAOhP085x0hZ5Loq3mhloy_NwnDply8gZ7cZcWvt5XvtQuMtPf0movBxqzAg9XKkOlMQD3o6fjoKRkiEwNUwXkrQ0y8BgdvujMQYU7nEZnI5rusjmA-WyLxWhJUVyMdRy3VqV2vHMmTnqfZuK7LHfFLzwe_D7uLeOcBJKFcplhyhJXiO9G9Co8ZedUM",
+      "width": 1908
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116373117510237368863\">Aritra Dasgupta</a>"
+      ],
+      "photo_reference": "ATKogpcsyqZxnB8i_l8dwf_0RNCGsKJ7wtvbLUCKXEEeMoQCPTnm7_imfzIrQXqm_1lHLsMKcK1WnEc21SXbosGmo0D6gNk_PTBj5BUZlJFuGIZ841Ce0bog2XcjB9kxwVpjj5nFl0z-c_2hzYyEzCdYOMH-U88w9OP06rldvJzSNk8yRePSzGFw6LJRxSshVN3tUU072pjbBJhT5mqZTTVrHwIbdFm2RlTgpL9jeISE4LCpEl3h27fjfv31t7tz8iUWKapR_-nNRfr6xshryBzKvPQOowq4jKtzQ31ZCgV6tOkLi8lT2LR266ttD_6TWSBVVd6C188FNAm7ZNxpGY2XWmDKro4twyrl9bY-QeNs0fYF_0Rwcou-aEbHD-lWYMNwgP0N9Pp5Q0dohUIm77ZdHmtL9NsuG2H5tBaM6mt4y5Omtw",
+      "width": 4000
+    },
+    {
+      "height": 2026,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105401026926472528386\">Blue Corn Cafe</a>"
+      ],
+      "photo_reference": "ATKogpd35geUIvNN1wUv3NNmwWnMcBoml8u5jtYyTP58EIsVz3HWRusq9zSziVgxi2w25vy8hO3qwJ8bK5SGhKESJq5At-FZnwRjVGS_ZYLEzigOCcxrDrCga7ymgfBh-sxCtQhIZoVXF0xrpI55Pt_KTF3oMpBnxcsoWs4yGdR9aG4FbPNRHVLxjtAgdLNygWgkgVx7Mu-MUoS4CN_vMLXGixQc-QZmhus0zrHT0VsEUWzUXnXiNK9MdEAd2fl8rDCi--XEK4kdk9mkiyyLhUR4NcyBSsUe4IiE7Z5gAK0JkPaGUg",
+      "width": 1621
+    }
+  ],
+  "place_id": "ChIJNYLzXAfkrIkRtSkOteSdkek",
+  "plus_code": {
+    "compound_code": "235H+95 Durham, NC, USA",
+    "global_code": "8783235H+95"
+  },
+  "price_level": 2,
+  "rating": 4.4,
+  "reference": "ChIJNYLzXAfkrIkRtSkOteSdkek",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Tracey DeShazo",
+      "author_url": "https://www.google.com/maps/contrib/114294142668346943521/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1NPIRI1Y6j1iK8sVAluXCASw6hSIGXWTThGPLkGcxNmagDOEVmw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 years ago",
+      "text": "First-time diners and the experience did not disappoint! The restaurant was spacious and clean, and the staff was extremely friendly. Our server, Tessa, was very knowledgeable of the food selections and provided us with exceptional service. We ordered guacamole for an appetizer, and it was delicious. The steak fajitas were tasty, and the black beans were out of this world. I highly recommend giving this hidden gem a try.",
+      "time": 1643484878,
+      "translated": false
+    },
+    {
+      "author_name": "Jenette Arreola",
+      "author_url": "https://www.google.com/maps/contrib/113369103693585396654/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUUreoGQGrYsHXWSCEDg1ggnavys0h3NbKXAfizk8kZTRZQIrK-=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 years ago",
+      "text": "Not many restaurants actually have a tantalizing aroma (unless you validate that which is naturally being produced as a result of chemistry occurring in the kitchen). However, a wonderful scent drifts within the confined walls of Blue Corn Caf\u00e9! The pleasant smell isn\u2019t intense; you only get a whiff upon entering. Anyway, the caf\u00e9 is well kept, clean, comfortable and nicely decorated. For an appetizer, my daughter and I had guacamole and cheese dip with multicolored chips. Appetizing indeed! For our main dishes, she selected a steak quesadilla and I had steak fajitas. I highly recommend both! Very delicious meals (she gave me a bite)! I did notice, unlike other restaurants offering Hispanic foods, the black beans had a distinct, sweet taste. I personally enjoyed them! Our server was a young man, Sebastian. He was raised with great manners. Not only did he served us well, but he even held the door for us when exiting the lobby. We shall return! \ud83d\ude04",
+      "time": 1619625915,
+      "translated": false
+    },
+    {
+      "author_name": "Zoots",
+      "author_url": "https://www.google.com/maps/contrib/105071778033788959532/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-B5KBkQvRY7BrcYNFzqGt6HvN6DUXuEBIeSkMFuaVbSOrm-Wz=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Wonderful Latin/Caribbean flavors. The tostones are some of the best we have had anywhere and the mole sauce is incredible. Other dishes are an excellent twist on traditional Latino dishes. The atmosphere is inviting and the service is helpful and friendly. P.S. also a short but outstanding wine list.",
+      "time": 1674586536,
+      "translated": false
+    },
+    {
+      "author_name": "Jules Perry",
+      "author_url": "https://www.google.com/maps/contrib/116914321622185412366/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhPCs1zaXRydqaU22lcN-uWhyWo_nilw7HEYzbG5GQvaj67jvq=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Very tasty food in a feminine atmosphere. We had spinach enchiladas and chicken Avocado salad.",
+      "time": 1708219715,
+      "translated": false
+    },
+    {
+      "author_name": "Shawn Williams",
+      "author_url": "https://www.google.com/maps/contrib/103114804148114616257/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJeEaUBU8FA-k-Cv7Ii_SpBfBWZHzfh8X9Nd8Mf2Ab7jbXElw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Food was very good and reasonably priced. The Cuban sandwich was not what I am used too. It was not pressed and there was no mustard. That being said, it was still very good.",
+      "time": 1706633789,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "establishment",
+    "food",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=16830406888075962805",
+  "user_ratings_total": 402,
+  "utc_offset": -240,
+  "vicinity": "716 9th St, Durham",
+  "website": "http://www.bluecorncafedurham.com/",
+  "wheelchair_accessible_entrance": true
+}

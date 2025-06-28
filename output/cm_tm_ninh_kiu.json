@@ -1,0 +1,562 @@
+{
+  "address_components": [
+    {
+      "long_name": "2641",
+      "short_name": "2641",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Jerome Avenue",
+      "short_name": "Jerome Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Fordham Manor",
+      "short_name": "Fordham Manor",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "The Bronx",
+      "short_name": "Bronx",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Bronx County",
+      "short_name": "Bronx County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10468",
+      "short_name": "10468",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">2641 Jerome Ave</span>, <span class=\"locality\">Bronx</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10468</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1600"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:00\u2009\u2013\u20098:30\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:00\u2009\u2013\u20098:30\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:00\u2009\u2013\u20098:30\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:00\u2009\u2013\u20098:30\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:00\u2009\u2013\u20098:30\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:00\u2009\u2013\u20098:30\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Pared-down kitchen for traditional Vietnamese fare, including banh mi, pho & rice noodle dishes."
+  },
+  "formatted_address": "2641 Jerome Ave, Bronx, NY 10468, USA",
+  "formatted_phone_number": "(718) 450-3833",
+  "geometry": {
+    "location": {
+      "lat": 40.8669815,
+      "lng": -73.89812529999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.86828308029149,
+        "lng": -73.8966683197085
+      },
+      "southwest": {
+        "lat": 40.8655851197085,
+        "lng": -73.8993662802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-450-3833",
+  "name": "C\u01a1m T\u1ea5m Ninh Ki\u1ec1u",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1500"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "2030"
+        },
+        "open": {
+          "day": 0,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2030"
+        },
+        "open": {
+          "day": 2,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2030"
+        },
+        "open": {
+          "day": 3,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2030"
+        },
+        "open": {
+          "day": 4,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2030"
+        },
+        "open": {
+          "day": 5,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1500"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2030"
+        },
+        "open": {
+          "day": 6,
+          "time": "1600"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:00\u2009\u2013\u20098:30\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:00\u2009\u2013\u20098:30\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:00\u2009\u2013\u20098:30\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:00\u2009\u2013\u20098:30\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:00\u2009\u2013\u20098:30\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 4:00\u2009\u2013\u20098:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 2269,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116747334423237357061\">C\u01a1m T\u1ea5m Ninh Ki\u1ec1u</a>"
+      ],
+      "photo_reference": "ATKogpeLizN4YV7cJdL2KLLVDvLuIeMq6IDZSk6WYbXf6Zh1oatC_XyFsac2gnmL6ia3m_UhVc9xAixbaYTpm2wN8nXUcCQo2iTxtOlBdIbCSDt_IEVcZTkm8YesZZiS6J_V6Lbd9_bonRCDSJG8Fs6l8huPD-fie5k_PX2ZFoEh2EbU7VlkZih2scyGXBnx2MLQqXfiN_f5mTxWvryFBeD_gzhqeslAVUv87ic5NL7GSoyQg0Lr5FftCQaUwiFGLKUWI2XBZyHva7NdpewlDpTWm8g_mKLm-AV9bjDoHALQB1c5sA",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116084251097996227979\">Kirsten M</a>"
+      ],
+      "photo_reference": "ATKogpejfdDKI792nS3aSkLorw7-zWu5rrSwrVJGlbbQKqF9iAJ8yUEgN3k5caKZzBk842jTETOADlFftUmtrWXg5fiBtzBPs3pL0LdNg41bF5uQ1KjxHO3ERmyCED6Bf5KCRmZ4O0v4roc8Y6A8xMn2k2jRVV5kjLOn9eFJWdbfGOvCVPfK8DowMNV1z8kzFM6fEGVoJbJWVZ_7iRlkGgBzWf51kT4jlc35swjbuepZmJAQf1EXWmSRTZEEpqMq-y9yEw3IkIuO8y0clgbh_LKyXks41Qm64xjJaPiDZY6FFkQVwE6XIK0yucio0_ZM-QGUqSVtN2CdoMvjmwEUYVUzS7bAcquFPml2pOgWcdqntTZCf7r12io7mbxSRsJcATvzX7Vw49ZnSBbdPVty_PR0R8gXGQHqnTu4jSMkCQir5n4zYA",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112317608843136600146\">Jailyssa Torres</a>"
+      ],
+      "photo_reference": "ATKogpcm2e5q2x2-Ukg7nEaXsLv7gL5Ka3xoXCyqnhfJ62f7kwVKxRxLp3TUfbPDGXd9rMMYAdPzyYRM_e7OpJwLVJM9UqFjxfvQ-6GQ62IdfTXhz_bp6gwCxoS5e6TS5b430Ft_tAOGAQFJO_1QhE25g4phz_BB_25hjNKjwLGBA7HioaWE9zLsrKubJVNiXqNFl-wlJZwd_UPqEGfDX6HjMt9iFm_i2YUDw47PzznkicbcnFpxK4RF8Nc-iJ2PwRqRod7ElNMuIfNrI0nzPuxgnK0iDuQXEhLts_HRCAMx5PSshxCrB3aMoWOmbL4Hbmq9Gk_4W375-75rYo__mcPtx85d6ND72dxng6lBCW7BDVsWaJBSpmmOe4bZgLyCw_CZaEElilEB_4Cvz6BW46yfs8a-LYCqmjnMDX3Hs3LNiw-nHjBG",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100859589964103922204\">Nat T.</a>"
+      ],
+      "photo_reference": "ATKogpeRVvREXNgNegz3J-ETUve164JRfQzK0n_tld3LklD6saCVVAoJPtkdTnqlqDagczH3Q08DutMIrKIXiRGH9QpQzttmwxDhXWwTdELoa1rScaV5cTcxLRp5JmuNu9izhu_O88ZmeP-QgjxumiwduynWhx0T6VlnyBH_kG-Ga1nZtjcf2z2jO2GUBMHiE_WCBoDURF0-KV8EcbWm_wsGFpXF1q6kupaMJ2Pzh6ghPGzAjJAfDaXNaNdrFNWaw9FfChzykxA1MjR9SFkrRHmyS332BwSJKPxfsuAdI0LFndHbshJw6x_3-pa2Inv1uP__rPeasLTJcYfoZVzO1HQfcVvSBI62ms8bCPfBlcYcrTFes_1KxaGmTS7BMJATc8g3J3L2nThXo-2QJEeQhQmDeVktWf-qdzwPuVk5Hd6uRr4yA6w",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116539779242401821717\">Khanhlinh Le Begin</a>"
+      ],
+      "photo_reference": "ATKogpfjFb_hwVq0Z8pOMWdOzyUzLr4TfP9Og4fJ2HWcT_lmvfhereQpGowmogrSquOQ6x3HsNA7j2umI8MNYtk9zGnk4LeBPv1qjpgzXueK9pY5UqPrWuu0DjHwDDedqEPhVvriEJ4DxKYpSInY0eDDke3UQtF3yEI5VX_w8LRjv4UfGk8shLyvZGt_LMgGwI9isX1cy_uWSLPSFyp_FkwBVTYtQxqPhADrLc-_iJNs5XKwt8PEDfis-sxOzYCMUsM8d3GObhFQUjetQLSXv1RC-tQSHsgdMOxEfxylpDowLP4eH5jVwlGwRUUdzaQVDCxQEDVvmMpgkTJ_xE47-12jWTE5Y8oRZKrBAoLCBMrbNVMMlGaKFVbbZgUeNCENNnZAlIvWfxm86S3N9i4WGncKxVKeTiw--tJANO1hzo7Gw-POiA",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100859589964103922204\">Nat T.</a>"
+      ],
+      "photo_reference": "ATKogpdd-xMT1DXnIt3HZpdwvHTxhlnMshxkgpFsQahGaRh0tsv3l-YjA4DnGMulZeZRrKid8pZzSSp3KJjOlugCvCR3YSpDQdXSPCnFp0amx2NsPh3RIB0vUVJOstMr5dJlnBj-c4t-rHTokM3uZ0gLtVf3nN6lUi7S1wnlWDF7HNZxhTXRUWv08nVOKpzVfk8mI1ghiJRFfErQXI_d0qYsP8JSCeZIqpaIhI-fQ-Qksxq_GAF18XN15hYzRkU3rgBdZKuo3_E3DQEcamtVjXAgydnFZUkv9tSxq3A8MdphfgROGgDa-m6gOXblJUQF6mWVb0KkjdxUyK3w948Epgj7V845SG8gaCyrLIrmqQVm-K42RhfurYtcSt75c0fbvHQ_d3hRnd_KrLYO7BBT37BIVwcJBW4o3WtFMTYdW9yiTwueGwBA",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112964350821882323255\">Denzi Yishey (Travel_with_Tenzin)</a>"
+      ],
+      "photo_reference": "ATKogpfl0apz6-KbBOrbCBWIK_BZEkvCyAsVDn4bSwNt0GOTdMAmvHmnfrm9XgvaCFVedGw8Q9pJc8V9Cs0Lw3SE1jGi3zMT4sTv2W_n_UITMK6i7CJALYnlEkleIaACosnw6XJmtcVM0KyC1n4v-JwHAGy2iFvJG-ALSeaOOGoHziwaTZRn2Nv75HaUBSmDp7gMDDcUD3a6ri3e_IfsSBJFOqqYiOmwRJHXCwWSgvPf70wZ5cSQEIPSWCqjyvGvUitmrvwOH_fN63lgwcObh4DEXmVF-AII-HNhl-oiPkhk3T_qUnlpqfiEeUabWl5lGzi8IFs4ENsileUQHwswESwR8NZgTmLTsMfPPVqjPQftujGEb7ecVfxzAvkQOnp0-dBN4WuOUaFuvojlDBEpnwhLiGnziH-R_Jx25rN0ni2WdKy-jJ8n",
+      "width": 3024
+    },
+    {
+      "height": 3060,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115496034158372526275\">Aubrey K. Slater</a>"
+      ],
+      "photo_reference": "ATKogpcw0V-pHz9sdqu6rPnXvdzRA1gbpHVRzxua8f2qLiB5hPlWAYKYuvN6qNINHki6Y5XUJnryMMCJP4byza6yeL3F4Bp8ayLsqatumBWCNLjCiC2WKEZmuX9_heBwl5j7jZEdQCkJgbXATMxDvhcqI8eiF662PQduDg8kKUP0AYNX58CMk41sgiS5ZZpVH1QvPm-39vMsYwe8j5R0QAonQ59u4PyyFSZhD7tTCFaT9pobrYhIfTmjFaEBnjh1R4WE0FOtIlMXmtm3L-yvWpPnf6v23x7U82bRxDDqAeojlf8JWOxQhhXF9I4JkWJxpl90gVFxDe0bKMAaNZ_tJ0q1NyM-aJlgbAX15emCacIfpN4uFshfXNQ5dkdDkIXIYla5SDfwiyJsMAb0l6i7JiPDdl-sUuEsaX8F7GuVO3_w0lFHSm4",
+      "width": 4080
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107372912487772157290\">Sumit Kumar</a>"
+      ],
+      "photo_reference": "ATKogpfB3_2GdZbIcbee7BmZGu1i0r4Jrn1ZoJASyJ6O0dSfEYlNfApH5AAaWMpwz23vAbzSbRT_06d_7whDW48ji0muV1YNolU27xe_HcN6G-o8jHPx_1wLTDrW_o5R2Ta5JEc1wm3LfEnXGzO_MFi23BoHRg63XMmKgPn6V6nHWKcvrJ31GjTmqVMIueJN2KAWNnOWxqaatqXhVmzTvJxl3liOwwAq4_BhARzPY7bRWiD7lutM0oe_N37FhTuHdGrNxoRw_7uIY7TMR3IIfyzHYfXEj5V9RZxsTaQ-1UVPz_bJnpQ47C-4AgkCAfw0acJUa8n24wUm1jzTTQu2_mrMEAqyODC2CgYIR1WSi7jPKEhzrTnOFZh1cXQ1VCnbBMmcnB4vbFB90Kssgqn5oP4p6QgZArgsq_6Edz4F2pSD5118g8j-",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101996317052777318855\">Kyra Czar</a>"
+      ],
+      "photo_reference": "ATKogpccI_mbfbC0TqjiZNtjFvc8A70UI49g3teZgscekQwrNdJipw-eThdwzlnWANakBWXiqIWZOnPs_FOPCdQCU9R1hru8m-UKltrvS0wEeIfV5nva9ORXNhnyg7vRMRzLIlA1vyVUvakxb7XAl7jP7Yao7do_NsW47Si467U4juKsMzUh_1asu1PHJnu2izcy6UoNqPA3n4ewDqACw33jr4bCsSg17yD6Xfe_QaLttng5FefzeTOYjie-i4j2NdbOmNAw5SaJTRaSeVqtTXMQEeY3TRYhgHj8JLGuuFrRNVQRvIVCXoluPbXl5UN1BHA3I3MUA3WZzbGKY2Obe-8tknvSa23zK7YkDmrnS6zdzNVQTZgFxl-7UReRWL8mmyM9y62SUVaFgnlmWWdfEfezzt4vE-FnJTgkuxNAoQb820dyqVYi",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJyVMezoXzwokR2PdSFyth8jU",
+  "plus_code": {
+    "compound_code": "V482+QP The Bronx, NY, USA",
+    "global_code": "87G8V482+QP"
+  },
+  "price_level": 1,
+  "rating": 4.5,
+  "reference": "ChIJyVMezoXzwokR2PdSFyth8jU",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Klein Visuals",
+      "author_url": "https://www.google.com/maps/contrib/106650206078679560143/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPu7vik0ama4YFIBo_PhOK38fLtc5qSXwVBY4mDm3MQ2lb2N1U=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "My friends and I went to visit a Vietnamese cuisine, and we entered a comfortable and calm restaurant with a home-like atmosphere, which is good for customers who want to relax. The waiter directed us to our seats upon our arrival. After we settled down for 15 minutes, the friendly waiter took our orders. We got our drinks first, which was a delicious Viet Iced Coffee. My friends notified me that the wait time was considerably long, and he counted about 35 minutes, and they said that four people who ordered after us were already served. My friends are used to being served quickly, so I just listened to their opinion. I didn\u2019t pay attention to my surroundings, and I was okay with the long wait, since I believed that the food was being prepared with great care. After 35 minutes, the Wings were served. They were delicious. I had to take pictures of the  noodles and soups. The beef was especially tasty and the seasoning was perfect. The bowls the waiter gave us were huge. I was filled with all the food. I was thinking of getting a second beef order with dessert, but the savory Beef Pho Soup already made me full and happy. I had a good time catching up with our daily lives.\n\nGoing to this Vietnamese restaurant really took me to a new ride in healthy Asian cuisine!",
+      "time": 1740082656,
+      "translated": false
+    },
+    {
+      "author_name": "Derek F",
+      "author_url": "https://www.google.com/maps/contrib/107376134199061663160/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGicIcSLuGaadgLC255wJKOTcQ0ahMc4mkmyDflwgkyLsacgU=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Local gem! The lemongrass chicken rice bowl are crispy spring rolls are so good! Portions are really big and prices are low comparatively. If you pay cash, you get a small discount. Service is always great, but seating can fill up, as it\u2019s such a popular spot. Get there early if you want to try the Banh Bao Thit Heo, as it can sell out by the afternoon. Atmosphere is modest\u2026you go there for the food, not the vibes.",
+      "time": 1738250413,
+      "translated": false
+    },
+    {
+      "author_name": "Nat T.",
+      "author_url": "https://www.google.com/maps/contrib/100859589964103922204/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJAIifV78Mx_D8Hdh1ZsOP5Wr-MSBWpmjZ78jJAmK56b4OjUic=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "A gem in the neighborhood! Huge portion for the price with friendly and attentive staffs. We got iced coffee, beef pho, spring roll, and lemongrass chicken over rice. While the iced coffee and beef pho was average, the crispy spring roll takes the cake - it was so good and love at first bite! Not sure what the sauce that came with it was, but it really complement each other. The lemongrass was second place with chicken soft and tender. Quite hard to find street parking but overall worth a visit especially in winter when you\u2019re looking for a hearty meal.",
+      "time": 1727460427,
+      "translated": false
+    },
+    {
+      "author_name": "Julio Goris",
+      "author_url": "https://www.google.com/maps/contrib/109295843936171613665/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZMaptmcr5AGcrtuVvmhWw6j7bLZE7yOlF-Y1kVu9_MaRMIWYc=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "So great finding quality Pho in the Bronx. Had lunch here with friends. This no frills, Michelin star rated Vietnamese is the real deal. The food is flavorful. The pho broth is rich. Would def recommend stopping by when you have the chance. Will be returning!!!",
+      "time": 1736623609,
+      "translated": false
+    },
+    {
+      "author_name": "momo540",
+      "author_url": "https://www.google.com/maps/contrib/103066831020776255067/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLoibXr3I76rD1rbRDrd6MoqIXGmhuqd4zx-GxHYf8zQbA0kuo=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "I am addicted!! I dream about these wings since having them, its insane!\n\nThe food is fresh, hot and tasty. I would recommend.",
+      "time": 1746058501,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "food",
+    "establishment",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=3887276266076960728",
+  "user_ratings_total": 1181,
+  "utc_offset": -240,
+  "vicinity": "2641 Jerome Ave, Bronx",
+  "website": "http://toasttab.com/com-tam-ninh-kieu-2641-jerome-ave",
+  "wheelchair_accessible_entrance": false
+}

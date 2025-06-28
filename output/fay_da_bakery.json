@@ -1,0 +1,452 @@
+{
+  "address_components": [
+    {
+      "long_name": "321",
+      "short_name": "321",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "6th Avenue",
+      "short_name": "6th Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10014",
+      "short_name": "10014",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "6926",
+      "short_name": "6926",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">321 6th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10014-6926</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1545"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1645"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1645"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1645"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1645"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1645"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1545"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 7:00\u202fAM\u2009\u2013\u20094:45\u202fPM",
+      "Tuesday: 7:00\u202fAM\u2009\u2013\u20094:45\u202fPM",
+      "Wednesday: 7:00\u202fAM\u2009\u2013\u20094:45\u202fPM",
+      "Thursday: 7:00\u202fAM\u2009\u2013\u20094:45\u202fPM",
+      "Friday: 7:00\u202fAM\u2009\u2013\u20094:45\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u20093:45\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u20093:45\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Chinese bakery for cakes, cookies & breads also offering hot & cold specialty drinks."
+  },
+  "formatted_address": "321 6th Ave, New York, NY 10014, USA",
+  "formatted_phone_number": "(212) 255-9888",
+  "geometry": {
+    "location": {
+      "lat": 40.7311027,
+      "lng": -74.0016084
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7324205802915,
+        "lng": -74.00017426970848
+      },
+      "southwest": {
+        "lat": 40.7297226197085,
+        "lng": -74.00287223029149
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-255-9888",
+  "name": "Fay Da Bakery",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1545"
+        },
+        "open": {
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1645"
+        },
+        "open": {
+          "day": 1,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1645"
+        },
+        "open": {
+          "day": 2,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1645"
+        },
+        "open": {
+          "day": 3,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1645"
+        },
+        "open": {
+          "day": 4,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1645"
+        },
+        "open": {
+          "day": 5,
+          "time": "0700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1545"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 7:00\u202fAM\u2009\u2013\u20094:45\u202fPM",
+      "Tuesday: 7:00\u202fAM\u2009\u2013\u20094:45\u202fPM",
+      "Wednesday: 7:00\u202fAM\u2009\u2013\u20094:45\u202fPM",
+      "Thursday: 7:00\u202fAM\u2009\u2013\u20094:45\u202fPM",
+      "Friday: 7:00\u202fAM\u2009\u2013\u20094:45\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u20093:45\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u20093:45\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103765778357847149139\">Nicholas Klein</a>"
+      ],
+      "photo_reference": "ATKogpdW2Hsqmdou2IdhWc8dfW3hJwo3_KgFFCMGV-k2GSID02MTegnt6gh5Rm4yKdyvoaXrBFTqs02bb2RBncOQxjAGDQwR02XSd-96NdUyDhGnYGS1iskP-FLpzZ9lxG2KuyPAfh7tBCjY8s5cJFEGjqdRB9q2Spf0qOYYhJfd91bsxR35hSBLDv_SCEQUXgxPfrVduPgFBGkXI0VvVcIuB9Ps-9IscPcs5V-ynhFvjrkJF1SqOLDj0AeZw8BLBrML0Ky5v1w_IIzn2L9Fs8u9mfKt6PSsp11f3OZHB37TmUxYgsJtWbhW1On48ptlD3aGf6JkL714tGC4pIcUITJ37uHH3qH20my4f0iAV2GVgF5kFlJttyBKl0flV9sgo3fIGOwzNeX9EQyPgzK9RVju44vpPPTkegHxvcP0dZvGd6iGEcfC",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109513779608196957851\">Jon Lim</a>"
+      ],
+      "photo_reference": "ATKogpeWq1tEelN7ocwHe8UpvW-fQwsQrVSB4oYNiYAkigsbt9mVCN5MYWgnVWr1jF-z8zMO63oHPLv-17jZYe7jQSgNd7YjhGs4KFLGSW0zDExaDH31ltl3V38zSWEWC0j3dd1-xzwji0CZFFNfxybq2tiA9KWGJPi_zLFaKAYFH-eX8xFKCXgPhsrAnE4zvPzE0jejUvvUqg70adjceF0gviwQBDcS3iC_oRdZfReU7vw1t7eJSk-PnuJExf9YhR4mgV0rmlpFlhmqrCteMl0BW4I17NLcOadcejFt3fYFty3QzUY2MMJNCSYHiLGLyVjUyAU-1T4HV-XzLzg9w07ve8xtUIi_FO3CxSBcLYxCSY5nmzd1KcDrmqasuhJ6QriS95poTIXKkVhSCQgqZjpHYKIRu8RvhSnBaeLCOpSz_Jr9ijQ",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100281625767956045510\">Richard W</a>"
+      ],
+      "photo_reference": "ATKogpc4pB1dvJr1s38hdZsHRq8kYmJNpZwuFI27a95xp1N4Jbosff9AHNZle0mSP5jdBxBz0DfcMJ7Wk4xxa2Fh-BD9SxzKRK25HBzjyx_hZSK6bjL5BWCXP4PtwtbKVWVMrWBLe7LuqpJQgzr6eCC6YGny3B6Hk3Re717mKdeUcZOmLdUso8v8psk-dyHJY-QwzZ9LY-XbaUvFiclsZjC28w00YLOhiR8QsyXGCDtCbr830QOqQ-GSe4vn8YAlJpe1FfXkPL4HnelfzVRvJ3iJ2jhN1gWrLkyu5XI2JekfpNAuHtmL4Gky7U_LaJWtm_BQR0RgoKSFM7sgW_PJuAaj4whp8TJsVc_hmoNi47-Zmae1Ebw-IriKfypQIQzW4hjz55xJ9KH_--IemXGpLc2OrcxKTABmolOD0mvg7Fk8rB7qTueB",
+      "width": 4032
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109714009508792173900\">Jeremy Horn</a>"
+      ],
+      "photo_reference": "ATKogpesXxAoQjDP-I1f5a6NBTmZxfB-GpXtJcsrxJKeg9NIOpn--YKG6MWyBWFVV34HTCzcKpZL_-Os_QJJDepDylPlsNYOoM9COV3EbAs3ZoBXr3Ndo3twqK1mjRiACCg7_VYbK8lX1hinWDwNKrhUIw4kUwGgHTlAsUOndoUyXkvhDHtHWmgkpYda6vC9Kgp4l3a75XImPYVAZIla3FNpWtMG0d193Rabw78D8i4J69zrr6-8LhrFK-T7JVDzyE7ybopLCUvWit2iSnn_ha_8NBlLFiPGdQa_JCYr9SY8ae9vI_3SGebBdYIo5_KpEGZ0RLDfIhLWpxeUz086DmIUcZsW7fFnNdTjk-WmdIuXfO1jMHTLqbZ2sf-LqR5eq2e0q8iWXJJdfaXV9bm8Uq_xDZvihXCuKLbMOVbeFc0xrS3rEzit",
+      "width": 3000
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117024707744357690207\">Albert K</a>"
+      ],
+      "photo_reference": "ATKogpcVtiBFWoUf2NnXjcw1pTB8-_5WQxgGpu3bo9MBkNt3P6RydO43vVovuMWJRUO1w5Cup2U3wt1l01NW0_28Z0DwiKeB_qR5FD7S4VdLin-jI8cgSZFPI8TM3LiSVJXpImpRDWN0Nd3szp6q2N3Ll1jcns8V0rCfM4lJmLo0iJcNnqof4IS9JeR_HliSBmdIXeZ5t9XGZkB3-GQr9U-qISdaC_f68sYy1F412S7iVmU9lamP5E-ZzcJa9SsA5wJedamQKNSswBAiTI3-Qb2l5rH6p8zoXTPmvz0V6PRtS0hF77_1Y2MGs4puO-o8qlUTWG00Ggx9oyTwtLBFKTgdyx5A2lMs3ruOzu_E6XhaFYeqBxS-nl-fQWAWANnOqdScaK8xztUETbqP-xtvDzKJJesPh_P9G2xeotPlSpnteq56jw",
+      "width": 4032
+    },
+    {
+      "height": 1024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115390845969327349793\">Thy Pham</a>"
+      ],
+      "photo_reference": "ATKogpf_tvohHwXN14TfKhM7H_B6UBblPz7LLcj-8BLs8DLzMIYYqb35LrnRQOVMT4ALSjN1oXV54SEw7gwcLMo1JProqJKcxc9Q-4MbBbdxOySlKiyhqd6vHrlq2nTiuw8FEY4L1cWJ7tDl0kjS_H3XS9kwInCz-LKa0cSSrTI9gWVnUVtMhaejh-00Dl2XKtdFRkzMx1dmi8CVc-9wgXT3Zb7l6EoHX4ZOnh3kHf4027wkS9-rmx0QTTR7ovtkIqbZ-A51_js3ipRSUyDeGfcgIeWw8-71YrWIXuMdSsg-tP2VgzozQn2CpeBgZu977WAX4CYGTs4uba0erIIyJSPzidvBsNnsiww_kSvpPoUmAcrF87Y-fCBuHMFSesm_g07Anp5NYMz2WNgmKDh8oX7skeHj6BLMa0RR4nrUOsK6_ludxQ",
+      "width": 768
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111096052014736653622\">James Finley</a>"
+      ],
+      "photo_reference": "ATKogpePGWxfBpkzjiO0On7qTTc4iCWtW_cQuNC4HjC6XWP9JyaykKyS8WdhKh2ziBYKgHGfvUtOXmbx-iAc5Op5LNVdYWH72B4bwnI9r_qt1T9EiGJ654veGjMwHOuXADIH2huAkhPf7tSON9c4GOMUCbje9RC-DO5rnaaX1LwGlu0XZ57AnhkAUGXYnHfDcM6ZCtpR49CibMEKQe-pqyoVjSIRkfmmQOzbUvB2h2Hb8utB6_0APH939k22OekQvrREtVYZjjEgHpGLEZ0ss4VMdf6AIIA1v_zxZNZqoGlN7tx-dL5ZDK77GPGuQ4yLzos2sqacJh-lnd_GtKTXbiYa7C-tnO_NSTV7lduc-807CRzfl89ad7m9TAKtJXOWwOoVhHhiqY5VtI6HG15f8apjlVR4m6n0AyuYRpbgJvWjZ7uARgo",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108472613319547324951\">Jonathan Ahrens</a>"
+      ],
+      "photo_reference": "ATKogpdySajOO9wmZQe4vdQqrpwtt5PBk9J8R7uPvSA5Jy2i6B35NLGiVv9yVU6RTmeU6Ru24w7qUSe7W4jSJXDzLJVSTI3zUn0AWyJ9KxNyeCrNtsezeR_1dYpwPXvOkAylH-4ZQWV2FnEjCEUDPW0X49boaYooFQGoWCRzgZ9IVIR6b9OIIQ1bo3HxynicSv6ZsviDzBqv_9bJ7j66I82JqF8tlq51ddAAC0pveqztWd7nX6pPrZPwyM8_dsIhZmIdCck5emX2lSO-0PPBjNNLwURP1V0Uc9_BJuqVt0T0LHSUHkcn2bMt0OoBSOr_XOqCNzafiYXBLKa_Sl-R3M4VJAMewKAz2sxKiuPqoypMCoCJ6KfT2_UWsZOmktno6cAORTnZpj-WafoHbGkkX5JUj5EacUITzM6jT-SCaFvJriZb0oXp",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100551059910603857865\">Hannah Sontag</a>"
+      ],
+      "photo_reference": "ATKogpc-BRlCRk021ulOrlshH8V-XtuluJEVK4kkGkaLpAJbHIP5wW92Fq7c7wbXE8trhSvzo_Qk_gMJxPOLslrfreogX1DqYeKdzOeL_prEcu3PrtoKjpQkQ1vBwvtlVE6qLIeVaeIflLu-k-0D7Ql-WIn4syIPYpXCOEYO4xt2ezfSgxxyO1IUf5WoELhmu8e5SM_M9xekWUyifHkIW67qztG-l_AZiJu4jM9BTf3jGorCaN5kvHZl-VABmrzJYnzUP2QZ3zERRrIN8taT_eVyYVMfJoCerLbEH0DGWlbzaaei9PL8ND2I6FPfh0fSapsuNJVmDn3-xe1G6Z8uvu8TVSzbW8GhdncBJW47jQu7C6zzepekFAa7JAGNlEOoPBcerlqccBUOrFuEXX0PhzCQ87ZmHCGlC-cu0Iz8lhLLWKc0xg",
+      "width": 3024
+    },
+    {
+      "height": 2448,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101539367569200753504\">Jessica C</a>"
+      ],
+      "photo_reference": "ATKogpfSxtPcXFfZGd0yNqq2BlcpDDQ6IXl_HBHWdPc_WedvUmx4-APceIXelOivFCMb8FgGQzZubWWYDKruhnR6cPNPXs7_ryj_QyA1jnmoRUfgLzyET56lpiydF4VR5RQbLKT77byOaHn8nZ8qR_tq0pk_CDRJWowN6ByNPrWIpS-P7tPjtRhNvyJSAiIVHQVbSEfLmIYDo3PIE1qShrV7v_Bs3hz1SFr52JCfFJFzbNk6Yuk23lVgn1fW5bftW5t4zyCn2waVkb_v3QPNii2xVkLAnzwSex9vatTLulRDasA5peEjFrxjK0iLAoBjFDIBHkOLtRj0KTNgI3UwuHZYyTZ3KMQDLSlsoKxzNmv7wI2NRpA8DLDUXD5j4WM26hlZymzpxBbTPgbfM0OcY-wfdirIN3AOfGU8n5ROb0EVNfmvPQxG",
+      "width": 3264
+    }
+  ],
+  "place_id": "ChIJcZSxyJNZwokRE_3Snje_so4",
+  "plus_code": {
+    "compound_code": "PXJX+C9 New York, NY, USA",
+    "global_code": "87G7PXJX+C9"
+  },
+  "price_level": 1,
+  "rating": 4.5,
+  "reference": "ChIJcZSxyJNZwokRE_3Snje_so4",
+  "reviews": [
+    {
+      "author_name": "Drew Bear",
+      "author_url": "https://www.google.com/maps/contrib/108878446580262806788/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU48fLqvi0LSCxpwzdp3e8tbA4uMR9I4oveVhIdPMKtSXDZ6ptF=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Staff moves with efficiency and very nice, everything I had was delish and the price is great for bakery items, I hope it never changes \ud83e\udd79. I really wanted to go back in for more.  Next time!\ud83d\udc98\nThere is a $10 minimum for cards. Cash is better if you don't want too much but you can get a satisfying snack or meal for that minimum.  The chicken bun  I had was \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d coffee milk tea was warming and you can adjust Sweetness.. I wanna try the Harlick and tofu flower drink as well as the soy milk.",
+      "time": 1713271232,
+      "translated": false
+    },
+    {
+      "author_name": "Terri Arabie",
+      "author_url": "https://www.google.com/maps/contrib/101952226361031998180/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJsRF_6a7ErO4tSgeWhjmywg5titodh3uaqxQwLBLYK1-iQ1Q=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "Amazing bakery!  I travel from Westchester to enjoy the coffee and desserts.  The service is quick and the patrons are polite.  It is the best bakery!",
+      "time": 1750810472,
+      "translated": false
+    },
+    {
+      "author_name": "Julia Li",
+      "author_url": "https://www.google.com/maps/contrib/102160056046975740457/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW48FniAypn6ONDkQXXS_bHtIS3ms7qRewyUmKq_oqi0NTuwolN=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "PHENOMENAL! Such an authentic Chinese bakery and everything\u2019s so cheap!! Highly recommend their soy milk (only $2.75 for 20 oz) and pork floss bun!!\nThe bun is so soft and fluffy and the soy milk is super fresh\ud83d\udd7a egg tart was ok, feel like it was slightly under baked",
+      "time": 1666278551,
+      "translated": false
+    },
+    {
+      "author_name": "Anna Trecker",
+      "author_url": "https://www.google.com/maps/contrib/111252759883023959428/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLWBNU8cCEtbpo6yZ4iheMLxAFqqdv16ugRfncBvDyrUe9dkw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Most delicious Taiwanese desserts at very affordable prices. I\u2019ve gotten multiple catering orders and the staff always help carry it out. Thank you Fay Da!",
+      "time": 1746201480,
+      "translated": false
+    },
+    {
+      "author_name": "James Finley",
+      "author_url": "https://www.google.com/maps/contrib/111096052014736653622/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLq1a_Xap2_5oy3vENZq_7GpKyE1wMH3u_Ibu0PSxnHHwg-Xw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "They are so nice here! I ordered incorrectly and she redid it for no charge. Been a fan for a long time. That just made me want to jump in and leave my thanks!",
+      "time": 1722699450,
+      "translated": false
+    }
+  ],
+  "serves_breakfast": true,
+  "takeout": true,
+  "types": [
+    "store",
+    "food",
+    "bakery",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=10282491144848997651",
+  "user_ratings_total": 274,
+  "utc_offset": -240,
+  "vicinity": "321 6th Ave, New York",
+  "website": "http://www.fayda.com/"
+}

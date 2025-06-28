@@ -1,0 +1,465 @@
+{
+  "address_components": [
+    {
+      "long_name": "136-76",
+      "short_name": "136-76",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "39th Avenue",
+      "short_name": "39th Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Flushing",
+      "short_name": "Flushing",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11354",
+      "short_name": "11354",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">136-76 39th Ave</span>, <span class=\"locality\">Flushing</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11354</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0130"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0130"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0130"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0130"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0130"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0130"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0000",
+          "truncated": true
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0130"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Casual Asian BBQ joint offering traditional skewers & more in a contemporary space."
+  },
+  "formatted_address": "136-76 39th Ave, Flushing, NY 11354, USA",
+  "formatted_phone_number": "(347) 542-3909",
+  "geometry": {
+    "location": {
+      "lat": 40.7607682,
+      "lng": -73.8276729
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7621815802915,
+        "lng": -73.82631226970851
+      },
+      "southwest": {
+        "lat": 40.7594836197085,
+        "lng": -73.82901023029152
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 347-542-3909",
+  "name": "Friendship BBQ",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0130"
+        },
+        "open": {
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0130"
+        },
+        "open": {
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0130"
+        },
+        "open": {
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0130"
+        },
+        "open": {
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0130"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0130"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0130"
+        },
+        "open": {
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20091:30\u202fAM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1536,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110868603367525416287\">Hsin Yi Wei</a>"
+      ],
+      "photo_reference": "ATKogpe4s-6RJ5O8AuRSZXv9LI90ppgwOx3EQdqt5aY5c1KplEU6Qm0WWMDm9VP96kIjrHyHZPXPnbjJAVSuqSJNYRDjtaYfX-whevKtSSHlk4sHNOdAneg7u4gV8tQ_Sb0uJYMapD5QJtU7iqbdXxe2PXmgcuuwLLpD1sQrjgplFvnhAB1LMvJW5K86JbZD4n8YXePee2aXBTveYND22sPXScVMaslelBDh012yJXjb2R6Ti8FXqhA5uzqwdzgU2_H72-ooyPPZVdmz79uUucJaA3EosAJAqPF2G3qgGJizxeQn5RoVlxqQ9D09Mepc0DA2Dp2y5F-eXaXcatat0KD933PlZqFRhScXD1eljw2xGxsqyOnuCovWyAQ590E0JC5XBKnTWMBEw9CX7AgjBk5a5EQSoNy7xXYFnAY283tKrsPGNZA",
+      "width": 2048
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102696385954735918557\">Friendship BBQ</a>"
+      ],
+      "photo_reference": "ATKogpejEuj6uqg2oV1ghnBLFsMRO5OGifxrYO38ETu4XIAAl133aV6BjSknRp9iyZWXEw6mkKn2EwWe6gwjnbUVrRCjQ0TgTVrY8TM3v4s4dZCiZ0UxShpKG5WJ1nqgzWZXiC6V2k01bGMJ8O-svUhTKltB1aQPO_Rj77OenAjtJyGk81K_xTZtGlHtuTVTSqTxDgBkGw3WaO4xwrhiG9cRWu0cHYzPA04W8lL6vT1XPjSwuEJYatV_1uLWyQXRjIv38bo12-PreswkO2p4bkrE0f0I87lxckxEbgfZEd5yg_OBOQ",
+      "width": 4800
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102696385954735918557\">Friendship BBQ</a>"
+      ],
+      "photo_reference": "ATKogpe8hyBLI0ig-oAQMpKt966WjeH097IRSDPuHXDnzgzYIMAK2dvbSxaI9ga0tFOaKEs7Qhkfx8v4Jnp2k6znKYqzNgVqtJlsUVGTMUkLRenWATUDhbxn91MnpmtySyZV2iTx3TJoIyj4KKJLvRVnqJHQUKkXBrsLEC-3E2JK0fSiY87n5JFS3gqCtWRRmrudy0vSH9TUdtdUZjXR1b2IBwcSFzENwCuw7e2AYkzCVJRs7HgGZmJ58Ew6XUjvBgKOw9YBoZDWFBb_711cWbgxZTLE7sRrrVEsbVS5cfE9-Nlw0Q",
+      "width": 3199
+    },
+    {
+      "height": 2560,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102696385954735918557\">Friendship BBQ</a>"
+      ],
+      "photo_reference": "ATKogpdEBtUUmIdVIvtEbg3XBc69O7jxh2MIxwKusM-8RZuNg-zmgA3Xnr_FLVkfcj2q0mZdE0Ugh4R-lGbhKQxaryZuIHFsfTzo-bFf_D8DMD42vrWbXKVDncVNVfMjzNAS1APbSDWMbNF7n6JCojw_tC6_tGGvaqseyLx1WmjkVqJmVw-7lWSa7TevhxAMZNtzKF4kidVBKYvAgQjnvgphUKiWjhk8XZRnEdILIYkU8VEfb-kmiYw7JfYMRSslgDNCMlZDKy7kox2Ihj7COAKhkNhlF-kF_kWWoLppiX86OwEwAQ",
+      "width": 3840
+    },
+    {
+      "height": 2560,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102696385954735918557\">Friendship BBQ</a>"
+      ],
+      "photo_reference": "ATKogpe_lxFQB0Ju_5C-EPWnb5sXYbcdBbl47dwtHNuVuOHSC9S4eCqHdnDmC9JFLv4DEH-5fhyWW-V8usaR874sTPoDpo33mCC7wJeF_0_3qcKINo8QF9NEWVAN0KhSxdh8f0jdeZ9_2C6YBPzDUJE0eXH7q4dCyBAMbN4i3M7ViLgPP79cOc8w7kUeKNfBCqkFiqfrkBHjqqWKHKz5eBJXPuTYFEr6KHFtEy6nOjejlrmy2z233zLT-nCimoGo-LJCUwaM8e-3x5agnsIc9YaDkD0g3X-ZPzq_fB-g2Sfil5eLFw",
+      "width": 3840
+    },
+    {
+      "height": 2560,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102696385954735918557\">Friendship BBQ</a>"
+      ],
+      "photo_reference": "ATKogpc0H2drrRBX_UT-_BMmQxvIoGoLBJjlhw8jhaKxdr61rsardvaDHayTPlwDkuRN7awxVWFBDpNG-AIKo0MF_0H4e9w9sRtksGgUDWKfL_B3nwIyQjUPN9ev1N5wrHht-Y3kziU0WM6eiSGVnRg-bFiNXHuVlvAxonCqHOlYQ3W-TyqTw08CbAlCQM034P7Xe0xebbwJuCyxzs3A4QiN7SG5DYntsbRymTugmG5nlJ-ImGogylsQUE7LJAyrHqVOwNv4ZS_XkiTDE6ZqZ2dOvZ_aNZGT2hPBiMcbMN0rKEmZkA",
+      "width": 3840
+    },
+    {
+      "height": 3275,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102696385954735918557\">Friendship BBQ</a>"
+      ],
+      "photo_reference": "ATKogpe-yqxNjRN4dLGFbd9t7CfTbiUeMlC3XHyJ4KdSzfewJTUxLv1sqmcLBem_Uh6uUOZ18Z0jHF7yB1gYaDt6PeGgl12JzGIIi1XTPCrpya_aIdSMc1MNIqcEINgHpPii4Tz6WQM0f1e_SJGYQvpv3gsPKgaI7rov2Mfi25goW2DY4wiyVkdCGHoNGl0iq-cpAP3WJHzphnQyUICljhooANdT6YpgL0P_OHbi1yrRC9djzfo0E9D6yaAq7cc9smQoXGQyjGgMLPsDeKWcte9yr0AHts9pm-HW5rHnAP5W_PDu9w",
+      "width": 2184
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106563139630936121371\">N D</a>"
+      ],
+      "photo_reference": "ATKogpdZ8VI57x0m8d2ARBCStp0qMws8vWxCx9beqCM_aVoFigmi50rlWUGQ-mJffV_sKKFlsz6BfU2tzx5-gXugYnFefawIXPnGD9NmAQ4gqw1mzhTG0ANCBYFfwZWNaa_EX-dGefGanzENYL5KBWFalVQXeL-gmfFnGc6oujfbyryr6pgrJCk9RZ_awXt_JPKrq6pMA5-uLwmrcUlCmQmRg-tBJ0BnVt0pCnbcJePe8x_giwldISgSrkI70SpqvBQrZ1Eq4drc1ynXhWy-ZKGHqUfr4MLUHpBv92IpFVKT6RBayGyYKKHkjsKlnbKiGAKVKRUt9GIkJoD1o04jO2DeS4jG98lLkw3PyQSKAl1T8Glrh-8rTHScdy2NuyEKN2fnf0OIDOI8nBE6rWnWA3OKd-4aEKk0JpDvW5hGRcsZw8f4sWYtAnXqT6MTX5crvA",
+      "width": 3024
+    },
+    {
+      "height": 4096,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106069918958889011305\">\u9577\u6fa4Masami</a>"
+      ],
+      "photo_reference": "ATKogpcsBUtjRMLEg2YOlIQ28VUv4wC5DLxoiygIgbTqUuXJDQyjc74CzgYjuS8Aa5dFDlifKy0QG_PcL3lH-c3f94-2ZN6VpVbW-ci-G6yrjbD_jR2hOc0cskhWr9wQq056NpP0rXbaLW4Npb4VgdCIuvScIrE8LV48IQ5GwG2oEUUCBtjgEKJjeiIljyPswG8RMxX4ZCHpTmqOHEIykVPXA-pOlosqzrlHtXYI6k9cCPcKshVuZEPJgs4KJDYslzOVfWvX_H4Fyj4Ph9qn3Djbxa-x_1aPZz728f5Na4B6gYUHAPe_yXmcX6KPJ53CWlGL1YEOkAExzGNEwu_BgfqNGeGv1C9e-cIRNzwTVKNFvFr02BPEv3HQ3p9pponDkittzpCbI4o8OLDf63s_U-HSfAoj_-jem4SZ_3I9SBreTMdDSw",
+      "width": 3072
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112374534346172213156\">Tom S</a>"
+      ],
+      "photo_reference": "ATKogpeiYySAL9rLhGB6BVCfDQM3ATqvygBxCpqmuoLYYu1fRSWpSkU2eH22YI67EgROtAbrADKyHsgikmVoCl3ClHlq5II6NhmE4Er7gJJjVPBGXZQki6IwkPNluDSfl-H8NXoo56T9GoKxKqTTKN8pIjLAGjpZCR8bTGyww2zHT5X_asEz3Q446DX9_qwuq0JPvg4Xl6fyfhUQUyZNd5XNO3z9uXWEJFoDefkl-qkaU3oZpO4DAETfxHgjIukoGIqaCsOYcR18_T5pgTXY3eXXHNV8XgQLgY9mglVTJz3rVAwsIKzMgcTsmbSINdKpmc6z-B5JKxbqIxw7NmLaPJnOHc-CJViITA4p1SFm1a0M4TJt2DrdXvAWUyah3SzGLsi00jC91H8cIB-0MLzOoEdJpVvJC1u0YNMcPhJHF50d9fBgiw",
+      "width": 3599
+    }
+  ],
+  "place_id": "ChIJtwnTmxpgwokRdQokoSPg5Lk",
+  "plus_code": {
+    "compound_code": "Q56C+8W Flushing, Queens, NY, USA",
+    "global_code": "87G8Q56C+8W"
+  },
+  "price_level": 2,
+  "rating": 4,
+  "reference": "ChIJtwnTmxpgwokRdQokoSPg5Lk",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Zenipho Zhang",
+      "author_url": "https://www.google.com/maps/contrib/103007944934227880442/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVDqCjIkiiWaIvoikLEozS80P_mQ0VNNHMnQj7Z7Kd23glh1AtP=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "4 months ago",
+      "text": "Got fried noodles, chicken gizzards, chicken hearts, beef, tendon skewers, and chilled rice.\n\nPackaged very well for delivery. Everything is well priced, good portions, and they were all delicious especially the noodles and chilled rice. The meat is well seasoned but there's a slightly odd taste to the meat that the seasoning doesn't cover completely. Still love all the food and will want more in the future.",
+      "time": 1740277504,
+      "translated": false
+    },
+    {
+      "author_name": "Jacky Lin",
+      "author_url": "https://www.google.com/maps/contrib/101384680284062334471/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWkL0jJEXjRSuyTRF9RPNwTMoSbvOQ4-y5oBEyVnrDL0UAcUnZM=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "This barbecue restaurant is absolutely amazing! The ingredients are fresh, and everything is grilled to perfection, with every bite full of rich, smoky flavors. The service is attentive, and the atmosphere is relaxed yet lively, making it the perfect spot for gatherings!",
+      "time": 1737837708,
+      "translated": false
+    },
+    {
+      "author_name": "\u6797\u6c85\u8d24",
+      "author_url": "https://www.google.com/maps/contrib/110697540765223813017/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKdaEmOYNgg4spovs16HL20-XK8EA8lCo0E68fo6A6dIK1VSw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "The barbecue here is very delicious and the quantity is very large. Everyone in the store is very friendly. It is a more satisfactory barbecue restaurant I have ever eaten, but I ordered too much and didn't finish it, so I packed it up in the end.",
+      "time": 1730779848,
+      "translated": false
+    },
+    {
+      "author_name": "Raiden Latt",
+      "author_url": "https://www.google.com/maps/contrib/100970690035935316111/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJyyE1yjxMieKBJKhFua5LrzRQw8tkSCk3ChSUa2UpJrYmTQg=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "2 weeks ago",
+      "text": "The food is delicious, especially squid leg.The pork brain soup is superb for me.",
+      "time": 1749758559,
+      "translated": false
+    },
+    {
+      "author_name": "jumman akash",
+      "author_url": "https://www.google.com/maps/contrib/104495797879354221984/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL1IxXwgdGv7x_yQeTc4su2lPKhs0EzdG8TtXOguoISbHVhww=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "I love this place the shrimp sticks & lamb or bred pineapple sticks  are delicious. Each person may spend 40-60 depending on how much you eat. Fast service. If you order too much all together it will get cold . So order a bit then before u finish order the next round",
+      "time": 1749895301,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "bar",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13395077635338668661",
+  "user_ratings_total": 1114,
+  "utc_offset": -240,
+  "vicinity": "136-76 39th Ave, Flushing",
+  "website": "https://www.friendshipbbq.com/",
+  "wheelchair_accessible_entrance": true
+}

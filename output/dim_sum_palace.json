@@ -1,0 +1,462 @@
+{
+  "address_components": [
+    {
+      "long_name": "27",
+      "short_name": "27",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Division Street",
+      "short_name": "Division St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10002",
+      "short_name": "10002",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">27 Division St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0300"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0300"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0300"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0300"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0300"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0000",
+          "truncated": true
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
+      "Tuesday: 10:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
+      "Wednesday: 10:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u20093:00\u202fAM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "27 Division St, New York, NY 10002, USA",
+  "formatted_phone_number": "(212) 587-4277",
+  "geometry": {
+    "location": {
+      "lat": 40.7139743,
+      "lng": -73.996116
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.71540923029149,
+        "lng": -73.9947990197085
+      },
+      "southwest": {
+        "lat": 40.71271126970849,
+        "lng": -73.9974969802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-587-4277",
+  "name": "Dim Sum Palace",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0300"
+        },
+        "open": {
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
+      "Tuesday: 10:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
+      "Wednesday: 10:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u20093:00\u202fAM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104774150266954424430\">Dim Sum Palace \u91d1\u6ee1\u5ead\u7ca4\u83dc\u9910\u5385\uff0dbest;hong kong;chinese;cantonese;asian;style;food;cuisine;dishes;dim sum;fast food;restaurant</a>"
+      ],
+      "photo_reference": "ATKogpcUNn2B_XGLVfro3AfDdTsBgbtTXT_b_FY75BA3tUirBJ9hl5DdgBGDZtxFVY-DgUKcLip51rTd1OoGA9J27g8zX5eqPqsu_HBzc_hVqqnZfPnlthf1KKoa9f8jxhfCzRd81L322Xb8PLtj1sSbiPsOYExZ8y-Zy91hnzecJBrkIrRjNwaTgnmQoBzcVQErCbTyUwChHt4SgMV3ALEZVIXfs6bCUV8y3mpKt0XDczzhF6nB7PF-Z94XH7EVqtJ5S7tPjm2ZfS9j72eKbsLuXuxAllSHZ52SXaZJbZoaKxRBVQ",
+      "width": 4032
+    },
+    {
+      "height": 1276,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104774150266954424430\">Dim Sum Palace \u91d1\u6ee1\u5ead\u7ca4\u83dc\u9910\u5385\uff0dbest;hong kong;chinese;cantonese;asian;style;food;cuisine;dishes;dim sum;fast food;restaurant</a>"
+      ],
+      "photo_reference": "ATKogpd1sdFi-dv479dpswEDMtkrHahEo0g2_v2NLxLxjw-pNQg1UXdYLvcD7_HIIGFvMRYEeb6yTlOpTo_s_daPIoWFuz4CnGmGjkGcOvaMusNJ6cw88UzjG8ubvI0biXehCO9NTEDm72k7oVyDAHCDLEPyZoVe_fnnDz9JtbqyQdpxDElFVv4CmakEkDoprfenGw1QqUCe9RUdJXer20oNFhrOayqt35BpStlKWjDBpQbDlETit5UKAskOiSpW7ZVxFt9JfwOHDnEKVxMnUjd5Hr2QcPRJOuGtYQyXkQ7B807baw",
+      "width": 1702
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118135089915597929935\">C Wu</a>"
+      ],
+      "photo_reference": "ATKogpfPLkehU0uW-CeQrcjneVCrF1DRcJjBRFTkEyrBr_6Dyl6kYEISyiVeERoAXOLXZS1Q7w_Kv4cBcouh9PW5AP6Q6W3zUevPEohgHgOz_P3--vHTyDObUBStlF5hYxN3kvDvvwOgPpr4RqGaLBbMpja6JuOGslt9b3fcKG6W9zJGn5ubLEqPBT71tG5uzr2McWw16725vkvHGMlzMGIGOWIyNtFyfGU522ylWzozmwCEf7PtqnJ4jEIVHalLy-nOReo3jPjiR1X8PFSMLHdKnDq4F9V7B5RFbYGIe0MOQPS_yTCFar015e9GYOJu47zIutTMpLbYBoYRhIfJUjV9CmAjxU-RrZm_Nf0FSrVfPVZPksapSR6fY4DQjD3D5y3t3gexCDWFe765qEsX2uaxD89lIOSnx724VlS29Y3aQAWayogx",
+      "width": 4000
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114530887339343452785\">Mai Vang</a>"
+      ],
+      "photo_reference": "ATKogpfeBOMpI6wkoykKkjtYTZBGXtiNQJpGptKOpKtXjJ18EExYMZmo4tMnVzknbwxR0Lnz-KgPZZwfG5nPsBPzKxpqBOD1EbYkGzH7uDt5al9JlvPNIcCyTB5l5R0DVw_ngb1dweoVUklliUqDvx_mBEGmpRvWJhGA4yGVIMrSmJoJmv5_Wq5Ua3suTA2iUTRQlzLd247R653v_G9Ioc4aX6r9Ygw02x1nPypBKpRIW6QVbvR9-Oy9_nqY4cd1FRDwwkqew_J3DfO5wNyO2tZXeT8tsncLJv1NfKeOBB8K73pp_k5fZXaRvGnMKKYzybur_ZZ-JRNUYFeZkbcMdeywkbQNdNEw-6z1FGkrcjS4d9K-Q2XBJNM9BnWW46i_AwSYfBhoSiXikmWiCN5N639FJmetXZN55YmV4Zoj_ShIPcyC_xtJ",
+      "width": 4032
+    },
+    {
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110913436516106649613\">Tom Melohn</a>"
+      ],
+      "photo_reference": "ATKogpdg8of5f-5WsHhP9Mq0wRUG81njqUwSao6FnwhB0MMSqz7VUkrfVnOmUvc9CFIvLONrJDHh0w-oLg6MyBloMV9So56dlM7hdLAo2tjRh05fBTlN0XICnS5mhqWybBhVMfgYZQw-rALBDGHL9z50IeLaEgpeMqV1xZQuX7Z6fUGzUFRMeLe9WUuWZLA_8SuPJoh0IVc9XBnfgd6Ts5epqvEtaWQ6zcKLxuI4WRUTA8Vtklwkcp3bPKHGTkudz7x4pIfin_RsqrIKrjem4RD48RUxlGk8RY9FcWX6wgV-vzBEgk_UNxcA96BagO155BMJbrpl00GGdzJSLxfWjbIAMdAAjlLFhJuascxv_SHs9qkmRKknaYdYo6AhXUfazgq8zexH27xcKaTz6itgpdFT4qex6w0DSdUl9EAzc9b3uYeCtccg",
+      "width": 4800
+    },
+    {
+      "height": 3852,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110687669271345651978\">Stuart L</a>"
+      ],
+      "photo_reference": "ATKogpeg45Nn_HeP2esUc_CzrCL4iTZuLUl50dvtAHyyC0dqeIz9JZSOHu99u2WQj-99D_l4SLahbaHLRyfqW6cmlx8Rh2Mb1BvIUECQvuBRmZE-8WlIJI1eM8xkN-GMU869QMYWaA-_ulJVvQzjBLTIf0Yo-BNm3vH04wr6-AVzsq_chKnDKbN3F2yYVIHPaNrBQoiXVDDC41i9IeA-56vubinyAhGV9ITAF7wrt1-DZwY8SOIj1ElNqcRCKCYSHU9EyMH5Xr7MWb6zTGCCOStbP8J90sV3uOrG8er3xfs7_x1qwsxrbIH1FxbYcfpVX16mxokv5I6fNgHok-6wKuH1143yflSEeSFPmxB-yFCYRva-if2fd1xCHzUtWgjjVfilblNhiCUWFUabQTqWoLUIc4qAWXAaNR16sb4jXalmAgss5Bi7ln2MExpsykJFCQ",
+      "width": 3072
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104610209559171320010\">Linda Billings</a>"
+      ],
+      "photo_reference": "ATKogpfQLzNslHD8QPYGIUI9aUMG0QQOeyYcce7hemuSgwsamk3-Du66UeAozsuK4KiO_MIaZ9f-nJPMqhG2gS1lyuwp60-JrHGdApV0mMDcck__ZMzKY8RVes8cw9xU1q9GVsXkoTLn8IxM5QfGcMqD4CDiseDkw8q2dFMJFaD4TUMX-OtjC7NQiqa2vpn3xOIh2VFKOdV8cS_4oZELnCrB2xFK10mT1k4LQvdvPhNuyVZHTk_d29xGYiWeSYrxCTLXnE-nQcMsuUdsGUMntqL1_MsvzMXbCXGbVGRslhPFgmuq0jz2P-4r0rU6hqrJc7QdoqyaMG4kO7vQ-Lw2hN9B7YUjklRAyDw3M-qeuQB1ss3cZe9wkQwdbm9j5gk2EeIUHsuEKacIe8cGyfe4bs1PkO_irmfGJr448LRYLxcr5n78oA",
+      "width": 4000
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106023778038714321419\">SOONJU PARK</a>"
+      ],
+      "photo_reference": "ATKogpdorFHcmwxJy6zYuj__1ydEoguBLPndZ6i4xumK0Sb4Ct6FbIDaXlEz3ci4Ndc00UmrFhLWtJHM5IHlw7m34PerDtTcDfospV0AVZ_Dw485WcxqMAcm6ScpRHGc-SI5JHOAaMkNB3layLkYg6J3l8zscmRRtt4OXO_3nINjkivQ9teg4YpYcLOjin7DLEgT7StfAsYGp-3eiDf2_Wgqs0znQExOaoFS3pnyryinSqFex6lx3qSzVKpym5JHekK-ZNw9covuuob2638w98JnNafWIIuQHF4KH_hpG6W2_aMYgbhqXqECp2JQd-BA8gaoglhq420PBmxOYuYNRwFMRnZz_aPxv0t9VKWpGFKRCa-YwNEFasn-HVUCO-Bagmvw0cJwXGgJV-BIwY5svA-G1dt7gAgkyZ0JpyMQat02FzIG1Ntl",
+      "width": 4032
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117690145330446984255\">Valanka Fernandes</a>"
+      ],
+      "photo_reference": "ATKogpfd4ZTrNzeowuxuUC5uCZC9YsiydTHQ8w8pc_oDBD74zw-uwiyVvNw78rt3s1PvBWDJssNB6uroYX1qic4TlDAA8UftaxZGGC-dyw9GaCndkRHypC0UPMzQROwlX3uJZhpeFd4qzFb2clHEKZ5WKHRa6NcmlcXg5IsnGLUuWrUznZ8zpR1-ENtVxQXIcge_ii2cH7rudKeGO1EGZd85KYjjaKVTrOKOF-UEffH1lY5FxCTg_iGz3YwpPEBQx6LSUEsn9WYrLfbwvuntx7DbUSn-8tv9EYUbrnQ6_77LYf_GQvRoB8qcX3IcQpvHO9tKhX0doc1lByYVEWEAfnTgw7T78hvdh_k31YAorP3tZc4pGsaFrxdhkOxupKGgiEawsuLi97alq5gr76mkTZrhtZdenUlwRrF9eHybm28_5P_-Kk8",
+      "width": 4800
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115095695647677579516\">Yat Sang Yan</a>"
+      ],
+      "photo_reference": "ATKogpeIrzJOzB8VsI2rw7V_HENxAgV-p6z3g0XVXwigRJ3FyZ042SSETITQQVo_C8IAWfJ3PR1DCxK0-cia2bnqloooK_HbKgm2FNQLNOIE1K44bktBih0b0AVbuHhVYjEGP4D3vZnsKtL0zeU1G0cNZ_OfWT4btRmqmJgYMv4vUUgJ0ClazN_NaByecL3lB6EQQCYxj66JFfqAbxe3TVFDIUP5whfoGw5WyFfrCsw4rzIzfN058mNoWJRbLtsoVYKIyVUCZII_UHaAciDsnVcty02ZCU5ya02-k6ej7b0Dfn9toXizrboWrsZIpbqIUECxkc46aCyVqyffO0ACPuK4MN5nbTGi4WbPLtbbNPfQXN5-TSfs1YQee596OpJCXISNlRSOybn8PkKcA6gVmrppo8HzoLR8PieFpC1z4PWz5hKMqw",
+      "width": 4080
+    }
+  ],
+  "place_id": "ChIJm6U7h4VbwokRGhi7qBdh2Yg",
+  "plus_code": {
+    "compound_code": "P273+HH New York, NY, USA",
+    "global_code": "87G8P273+HH"
+  },
+  "price_level": 2,
+  "rating": 4.4,
+  "reference": "ChIJm6U7h4VbwokRGhi7qBdh2Yg",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Andrew Dabydeen",
+      "author_url": "https://www.google.com/maps/contrib/104506729358657811917/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVtoOOiw-eV-8B9d0SQyFmJQ2hXJ3yv1KbJZknvO8SBVPAM3XcMeA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "Dim Sum Palace nails the experience you\u2019re looking for when going to a Dim Sum restaurant. The interior is classic, it\u2019s loud and vibrant inside (but not too loud), and there\u2019s a large number of options to choose from. We had a rather large party so we had the opportunity to try over 25 dishes - some were a huge hit while others were just okay. It really depends on your preferences because not every dish is going to be something you\u2019re going to want. I thought the duck was great though I wish there was a bit more. I also really enjoyed the shmai and shrimp dumplings - both were packed with meat and decent quality. The staff were friendly and packed the majority of the food up since we ordered a bit too much (they even warned us)! I thought my time here was great and I would come back in the future if I had a large group that wanted Dim Sum - it\u2019s a no frills place that nails the basics pretty well. I\u2019d say make a reservation beforehand because every table was filled by the time we left which was peak dinner time on a weekday.",
+      "time": 1748309316,
+      "translated": false
+    },
+    {
+      "author_name": "Matteo Ruggiu",
+      "author_url": "https://www.google.com/maps/contrib/111143370856483078960/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKDI9R1yrG0pm2NdpOJA06xgRRcgjJWNA9rSs2SSe8G2qJi7Q=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "Tucked away on Division Street in the less touristic part of Chinatown east of Bowery, Dim Sum Palace is offers an authentic dim sum experience worth seeking out. The restaurant strikes a good balance between traditional charm and modern comfort in an upscale ambiance. Great option for both dim sum aficionados and newcomers alike.\n\nUnlike most dim sum places, Dim Sum palace does not have carts working the space. Instead, you place your order by writing how many dishes you want using the menu[1], and dishes are brought to your table directly. While the cart battles are part of the fun of having dim sum, this is certainly more efficient, and will allow you to have any dish you want.\n\nAll the dishes we tried were good: from the shrimp dumplings ($5.95 for 4) to the shredded roast duck dumplings ($5.95 for 3) and the taro, cilantro, and pork dumplings ($4.95 for 3); from the shrimp rice noodle roll to the shrimp stuffed with egg plant ($5.95 for 3) and the shrimp dumplings with mayo and corn ($5.95 for 3). My favorite dish were the seafood peashoot dumplings ($5.95 for 3).\n\nPrices are slightly higher that other more casual dim sum places in Chinatown.\n\nThe place is very popular; expect a wait. Alongside the main dining hall, there are also rooms below street level that, although not particularly fancy and window-less, will get the job done if all you care about is food.\n\nOpen late at night (10am - 3:30am).\n----------------------------------\n[1] The menu has a picture for every dish, making it easier for less experienced dim sum goers to pick what they want.",
+      "time": 1742736108,
+      "translated": false
+    },
+    {
+      "author_name": "Ana",
+      "author_url": "https://www.google.com/maps/contrib/109462241074833804494/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2D-DDydwpopyNFMB4svVSLbtRDNwiGeSUJYdjphAkQTQx55doXQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "a month ago",
+      "text": "The best thing we got was the orange chicken and fried rice. otherwise, all of the dim sum appetizers we ordered were not that great. The meat tasted off to me like old fishy meat if that makes sense. The service was very slow we had to flag down our waiter for every thing.",
+      "time": 1747715001,
+      "translated": false
+    },
+    {
+      "author_name": "Juan Lima",
+      "author_url": "https://www.google.com/maps/contrib/105662480087228726221/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIH1p901gRahD3FqXZDEabaG5FS_GWJ9iuNyHak1hn63IZ_EA=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "Came here for dinner. This is one of several chain restaurants that serves dim sum all day so you can eat breakfast goodies at any time of day.  Everything we had was great except for the quail, which was pretty skinny and didn't have a lot of meat to it. The fried intestines, twin lobsters cooked with ginger and scallion were great. The beef chow fun was a decent size, and we had some much food we had it for takeout.",
+      "time": 1736723329,
+      "translated": false
+    },
+    {
+      "author_name": "C Wu",
+      "author_url": "https://www.google.com/maps/contrib/118135089915597929935/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI3kd-0KhlsbB2xZM67XpEkiJpSFn3to2t2mXl9teDg8e7R9w=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "Love coming here with our family for dinner.  Can be busy, so you should make a reservation. Out of town family looks forward to returning for their Peking duck and fried flounder. Loved it so much, we went back twice in a week.",
+      "time": 1748960832,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9861019613347387418",
+  "user_ratings_total": 677,
+  "utc_offset": -240,
+  "vicinity": "27 Division St, New York",
+  "website": "http://www.dimsumpalace.com/",
+  "wheelchair_accessible_entrance": true
+}

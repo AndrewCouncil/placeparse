@@ -1,0 +1,439 @@
+{
+  "address_components": [
+    {
+      "long_name": "135",
+      "short_name": "135",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "India Street",
+      "short_name": "India St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Greenpoint",
+      "short_name": "Greenpoint",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11222",
+      "short_name": "11222",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">135 India St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11222</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1530"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1530"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1530"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1530"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1530"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1530"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1530"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0730"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 7:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
+      "Tuesday: 7:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
+      "Wednesday: 7:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
+      "Thursday: 7:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
+      "Friday: 7:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
+      "Saturday: 7:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
+      "Sunday: 7:30\u202fAM\u2009\u2013\u20093:30\u202fPM"
+    ]
+  },
+  "delivery": false,
+  "formatted_address": "135 India St, Brooklyn, NY 11222, USA",
+  "geometry": {
+    "location": {
+      "lat": 40.7323915,
+      "lng": -73.9550678
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7336882802915,
+        "lng": -73.95369581970849
+      },
+      "southwest": {
+        "lat": 40.7309903197085,
+        "lng": -73.9563937802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "name": "Radio Bakery",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1530"
+        },
+        "open": {
+          "day": 0,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1530"
+        },
+        "open": {
+          "day": 1,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1530"
+        },
+        "open": {
+          "day": 2,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1530"
+        },
+        "open": {
+          "day": 3,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1530"
+        },
+        "open": {
+          "day": 4,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1530"
+        },
+        "open": {
+          "day": 5,
+          "time": "0730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1530"
+        },
+        "open": {
+          "day": 6,
+          "time": "0730"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 7:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
+      "Tuesday: 7:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
+      "Wednesday: 7:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
+      "Thursday: 7:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
+      "Friday: 7:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
+      "Saturday: 7:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
+      "Sunday: 7:30\u202fAM\u2009\u2013\u20093:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107267812722684706449\">Radio Bakery</a>"
+      ],
+      "photo_reference": "ATKogpcZZri1GxOz4E6Rbeixj0WY_k2vLr8ELmU7Xti781EgCpgM8JiMt68S0nXe3CINORSdfipmGPu-tlPz0CVpCs-PQfmWTEC-wQJ3r0KOSWkrIxp4scQYx8KbbTFdqDkGnfKUSBOC5qr_Kfc1rCH6zcQjP8zdjfWoAkod-u3wpMj3MqAwWZxzwd9QD5j55w9HDkh0KIN5FZYBiF4doD7NMVDqXATtWeRu6l_7DhKKPO9DI58WYyGRvoJGjwkB9zAQrP5NdXkg9FGQz58B5Ja1_x5lue0Mi2kCD1DZzYMSi3oH4g",
+      "width": 4032
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110468092061647031838\">Yunong Shi</a>"
+      ],
+      "photo_reference": "ATKogpd12H8mJfqB2TwI_txmG7YDifIC6qhnNaYcazr_X7OzgeGQpSEB_ILxMqCKKFiAL8S1zUgxmuPGH8ZdCY5rrVm3cAsGHk3o8MzXTkG79HDMkYEvpiS3q7FVz0T-lRxypPY_nHSWQV03f-lQrEqOSHCyYbqTyqn36I3a-ca-d_oFk0wKPMxuCKe2Nk_vs-VMavVd7bosuIaEbC4mfh_Ir2yh9YT4ZS7gExdstrQTTPojBDX4wEsalipjcJ7ItQUpFLFDoTomgiThkiHvnGBWWJRA0xjlvJNUzRXLaK-V5n5imjusL8pI3tzJWA_BrVxmXdxcDl1uw07E0qMphl6592GWxkQsbWyl-qJMSjSEOHQlHaWAHAsKv28zKyYFMT4mSAbF3YTvB516No2pm3v1IL7CHfcDZYkcW8-HcG4J4bawgw",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107267812722684706449\">Radio Bakery</a>"
+      ],
+      "photo_reference": "ATKogpdxJXZKn9N08LtmGmDvbf8GV3Zr6pOVLKJEuZn4AGsddHQBsfCdPniEZ1x0ie01CbFl_XrQuq3g4ekjLgB4QW4eCKsGrUIwfBoUMQF91uOsWIxaw7D4OuOF7WxMLxA6QUqKUJtYoRf0wiEODqu5gsVItp4VDsUydpc59Pw3_dcFXZKO27J3eYig5JzEVcoCfBr746rDn5eHZ_R3UhLSg4wmg64zhesZmzUOkb4NV_3x88qQM78T9nrtDQ55K1Brpl9ps2E8CnDDjimeT9y4yuijuDfO0ZM9gVQD8JDMC2CebA",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111906078640318368167\">Vito Gallo</a>"
+      ],
+      "photo_reference": "ATKogpcYqxzD6M8qqpPYYuZN1qDVM9mcro2_89OiYchAXZchadcRyEmJbYVMAtobGTr2OvTqybdKbyXn2BQFMDw3C0GBlp353byaTjQjolcNcPvwf9rigGsSF1EH_eXkI9-MvU2xK-2ExmgDuvQ2TEfssz9ORH97CqZMWrr_73UKs01stJ0QBOXrt7GYgwAlWn9YfQREu4P-HuQM5qeVbZ6OxHCUtIdSBdTQWDhIxjZvTf4ZgZYvdPWt06s_ws5fI64KruiVuT4jJEuGl84_YWUgf6BiTvagBLhbca1IraJ87ojmV-0dxqAHk5vFDcz_Z6sAw855hLy6KZBRVswSLr6I7Cd29J1MetUIfK3VrxNIEMJgtufhmhv-6LAvJMK_OOad79eqNs1qwj9MzO3wA1LKF32lcNcCQkGkvhqJp82G5t0GfPGBFjOzbufsFvTzEg",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110468092061647031838\">Yunong Shi</a>"
+      ],
+      "photo_reference": "ATKogpfhTa9eLAoqSmL5nTVMurQMzOt0sGgqvVtADwZNy2b41Bj371ng0JaBhwCE3VamZnehl9Y1xZZ5QNdxbLKeaW9iduy1kbx2fl-Mp2lNH-eCYpvnYGAxJYJ6lVw4fybs4k5-dw7ZbqgdU5qzR8jiC31tqvcPFpylZUgXGD5fmyLuvyjTcNd47spA3Xeu8jFoCVZGeUZNxGbsq0wYVHBzm7Q9I4ZFOxL_JtGHn_8doTAlxo8cJow3OEu801jeJFIJf_Z7j0SoLtZ7YAVfcX8IJtMNT8wp2y_FflznmGm67BTFmCbqChSwtXrsgC3RH7U83W87dRAnFkQEolNe985KL446u6UVI1FOH-qqQ3CCMGySmZkKn6QpNaPjH8Y2yvq6T5TLSpGi0IYCvnL4UV73YMxHSjr4Rc7l-xKzs-2o5j4",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117033978993645613371\">Evan Hodges-LeClaire</a>"
+      ],
+      "photo_reference": "ATKogpc0-6GQuQmeOsXyoNFMxfpWi0jNbv9mmDUQ9shjCHK1yHRdpI0Zt9_ygnaq4CNN-Fph15ZnIxHYs0Aj8K2SgflvbHO8gPl8wEHnUUv5tV8pbS-nu_5Sh2KboZoiLXBjxDeUfJpue1LXfHZeg0JsI3QkuqJm2LvX4HxfCE-lrkASGAdwes2OpKlOxWNHkWsErJJ9Li7biLorqqI5vpEguwofhZx6Vl60rWL3UsaFZ8kT3uexYWxq6-KaHMZS5VSq-u_fngjR8pup3L-C_VxcjAtgBf-VjW2a3NWbECpZq6jbSej_5YEw_Yb_lrN6q5yOuE26EoVYQafVszj97KoT-dzuOTLJXlU1RhefV_x_USO-1K2BCz6BvPBXqln7k7UZj08_eIEidgb5z_QMZASGW9HKSVSo-R9-nGbIVpGEfDM",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104490960828362033230\">T. A. Tuho</a>"
+      ],
+      "photo_reference": "ATKogpeNBNwRIw52BsCtHLx1cyRAzRcqSvW-PIWUxIT04oL8RtRVLP_ysmf9jSSA_DPuK2M4oDERIUFy75JjD0pDpVXLs1mZBWEBMCS1wHyt7U74Hw6CrN_QdPy4nMI0alPHtXAPxHY6PV41Tn6_7OlOrSehIt6XGBpfWuPyzTDnuQRNdUYzBw732QCSryPXpG_8D7QrpJUws2PqYh2mNFLdPyEWb_erSOBI5Axtee3Lej7aabYZN1ocGfZPNwZtaGksH5oYfNXBYJR-_8n_E62l_zG1FvNDYG3_Aw7x3oCIgSXtMbTIjNYU1M_EVkWieuZA85WJIPLeNJecGTxCsZwV4MFthfSdzGQWU4WVeWD5IEJL-fgIWNPSvt8o1pAtxaMNgtRSzfqFeeXCfX1AbL2Nfn3tW3D0jD7uPhaPp6wjm9jdjQ",
+      "width": 4032
+    },
+    {
+      "height": 4120,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114522633824702259712\">Chen Zikri</a>"
+      ],
+      "photo_reference": "ATKogpetfLUvqKTkAymMi2G35uRUztJQzezhAWEGULONWWGsm7Ft4bx4wWIZTns_k6-VEzf64_vpQiJFw9SgK-6cj2T3O0qHLLAP5vS8jCuxo2qLhNDdA3viuOMZRZPc-7zJzeoxOrZvo2t6wIwWV10xmuw9zmhFBtY5gXKmpnRPr_CJgXCGNgCjmSyO6kCQPxfg5rmCqo_01lp5uoMiZRxZomZ1EPwM70ZfU853WfJlB_YFnGPLNVokvvhufBO7kdLfhUfoRRZ6EJuxNaO0l4_v1Ms3xmofYTjLq-75sJrYvAGScfocleVo1ghejUbDcVaixNSHw-dwrl44gldS2UKWfWwNc70SGAUu2m2grkvTUe_YHCa_XIS1UcfN50JpN1z4yEoNDOEtW7wbGvL59UtT1jv1z4SKtSpPPjn8H4JjbM0Hwn3h",
+      "width": 3472
+    },
+    {
+      "height": 3452,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100963315188557723385\">Jade T</a>"
+      ],
+      "photo_reference": "ATKogpcY_PBU3AcGwg5xcw84FPI_KKV_9Yze1AGt5-5LFTy2qe_W0YERhnSjP7vq439s3Xt6TZoav10bcdhN19JFcx00yYGYlYpzeG2NBUfxGWxNMtaA-1JajAyY5dHpPU1gzag4Tp84Wqiiy9N-QXNqCr6bWzx3NMzJaKC2BFEFYlBPlwiH1-1dFa1aPQg0aBkRnHCDfQr-1Uomtjq_CNyJuTRl2ze9EFnk_cM_xhX6SnTzc-kdUs6yDdXTxrM-9fyiHXGGeSXNk0-locDfmVdQle6Il7JjYYpwbR0--g-kaSH-pEMngAIJZP9IqiEJQGkaA8a9YbD7xCw31xQxAUJMAuniAb2oBaPq4HFRxIgukp8jhTCSLyu_rdh0aR6q_Qdyha5ubqoQN3-oJ72gEDN3Sn67eJf53mys-kZ-0T7V4_8IiQ",
+      "width": 4800
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117730837401207768949\">Jea Kim</a>"
+      ],
+      "photo_reference": "ATKogpdEpr8VnHbcxFn4kAqh2v4XTGnKA6lAaj7W8QAFpuSfD_3rrXxyHAuJV6wLh-XZ8ovcQ4NmQFeKhMgQIGKhQUxkCRvgd3Kw0EW3U_QAVxgD2tkkCeENViE3_tmwbDBf4Ryc5XZwwx4P0W27lkzEAJFi8YwRQMgMMYDPqx7Pcmlb4epNwbmRrMM-QNQ0bvSrrWSzLyGfa6hPZmqIPIonCSa23azrN54zWa8mNoucDeFZM7C93LfpRLDDHKnnTuWbOzLof2aQTMerNdkApIRLdXbzgAmFjCWR6PcFK0VJOQ4joQ5m6_XemwYH33rn_V6XoljnNFxkqlAWbMwI3x3N8jhl6ZTSJXGN9w4t7buSkeCSrbhC8HvpZj9mBS3Oz1nkpsKX42wppuW1pVNbGscuXSMAXIRZy7e-9ZRYaLMBHQ5qXvfS",
+      "width": 4000
+    }
+  ],
+  "place_id": "ChIJidmaBvdZwokRpeaRMeb_rX4",
+  "plus_code": {
+    "compound_code": "P2JV+XX Brooklyn, NY, USA",
+    "global_code": "87G8P2JV+XX"
+  },
+  "rating": 4.5,
+  "reference": "ChIJidmaBvdZwokRpeaRMeb_rX4",
+  "reviews": [
+    {
+      "author_name": "Steffanie Godoy",
+      "author_url": "https://www.google.com/maps/contrib/114695959390313672184/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ53SPUTmZ8IwB_recDpjah5JMCHdA5maGvi5nZiTvQeMMcnA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "I love this place! We tried the cheese and prosciutto sandwich, and it was absolutely delicious!!!perfectly balanced and full of flavor. We\u2019ve had both breakfast and lunch here, and everything has been consistently amazing. The pastries are super creative and the vibe is always welcoming. The line can get long, but it moves fairly quickly and it\u2019s totally worth it. Definitely one of my favorite spots in the city now!",
+      "time": 1749400020,
+      "translated": false
+    },
+    {
+      "author_name": "Yunong Shi",
+      "author_url": "https://www.google.com/maps/contrib/110468092061647031838/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVIJva94Qinr81rQR3QLdrkI59u9J_yhFW3Bq5duN8a9Vf8bqo=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "3 weeks ago",
+      "text": "This place always has a line\u2014and I finally understand why, though I wouldn\u2019t say it fully lives up to the hype (for me).\n\nThe tofu sandwich was excellent: cold, refreshing, and packed with flavor. The sweet and spicy sauce, plus the creamy tofu and crunchy slaw, made it perfect for a hot day. I\u2019d go back for this alone.\n\nThe triple chocolate croissant, however, didn\u2019t impress. Not as crispy or layered as what you\u2019d get at Nick + Sons, though it was rich and buttery.\n\nSurprisingly, the iced peach tea had no added sugar\u2014light, clean, and a great pairing with the sandwich.\n\nYou can\u2019t count on specific items being in stock, so what you get depends on timing and luck. Overall: worth trying, especially if you\u2019re curious about the sandwich\u2014but I wouldn\u2019t wait in a long line for the pastries.",
+      "time": 1748735825,
+      "translated": false
+    },
+    {
+      "author_name": "Felicity Ziri",
+      "author_url": "https://www.google.com/maps/contrib/108116511757882508812/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVN2oyRbI3q4WhUUMYkdmOe-qHiglrPk5-Gk-zzSqs3CovT_Byb=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "The hype surrounding this place might ruin your experience about this bakery. People running to join the line before the store opened was a bit extra and odd as well. Anywho, be prepared to wait as there will be a line at this bakery. I arrived 10 mins before it opened on a Sunday morning and waited about 25 mins before I was able to place an order.  The BEC focaccia was delicious, but very heavy.  The pistachio croissant was tasty and had the perfect amount of sweetness. I think this bakery is a bit overhyped. The pastries look very appetizing, but the flavors seem a bit flat. I would like to try other pastries to confirm my feelings but most likely won't. The inside of the bakery is rather small and the customer line winds around a small island. The bakery has a few outdoor seating available for customer use.",
+      "time": 1745944061,
+      "translated": false
+    },
+    {
+      "author_name": "Jun Simons",
+      "author_url": "https://www.google.com/maps/contrib/107947961546991519655/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWH21OfLJ6DCzEB0M35rwW0DXYHRIAZujHFHPAfWKDNp6kZhaDh=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "BEST bakery I\u2019ve ever been to!  Worth the hype, and the wait is not too bad if you get there early.  If the line is wrapped well around the block it could take an hour.\n\nThe sandwiches are great, and the focaccia they make is incredible. The turkey pesto sandwich is filled with pine nuts, refreshing kale, and perfect pesto\u2014 its is a must-try.\n\nThe pastries are fantastic, for me croissants are my favorite and the rhubarb croissant was the best!  It had a light custard filling, almost like an egg tart, and fresh tart rhubarb layered on flaky pastry.\n\nNice staff, cute interior- overall I think its deserving of the No. 1 nyc bakery title",
+      "time": 1745162997,
+      "translated": false
+    },
+    {
+      "author_name": "Pooja Chaudhary",
+      "author_url": "https://www.google.com/maps/contrib/110764725808953705481/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVikZvhBSYSeJHyC2iVE3uoSeiUL7_8Q-E6SrAo6CM8YBBQWbE=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "TLDR; get the shakshuka focaccia\n\nWe got here 30 minutes after they opened and there was already a long line out the door. It took us about 30ish minutes to get to the front and order.\n\nWe got a plain croissant, a shakshuka focaccia and a blueberry danish - they were all wonderful buy I especially want to call out the shakshuka focaccia, it has SO MUCH flavour, the texture was perfect, the spice level was amazing and it felt so hearty and warm. So many regrets not getting a second piece but I couldn\u2019t bring myself to stand in line again that has become even longer.\n\nThe iced mocha was pretty good too.",
+      "time": 1750029837,
+      "translated": false
+    }
+  ],
+  "serves_breakfast": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment",
+    "bakery"
+  ],
+  "url": "https://maps.google.com/?cid=9128233383889069733",
+  "user_ratings_total": 759,
+  "utc_offset": -240,
+  "vicinity": "135 India St, Brooklyn",
+  "website": "http://radiobakery.nyc/",
+  "wheelchair_accessible_entrance": true
+}

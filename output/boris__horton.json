@@ -1,0 +1,516 @@
+{
+  "address_components": [
+    {
+      "long_name": "195",
+      "short_name": "195",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Avenue A",
+      "short_name": "Avenue A",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10009",
+      "short_name": "10009",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">195 Avenue A</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10009</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+    ]
+  },
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Coffee drinks, beer & wine with baked goods & cafe fare in hip digs, plus dog adoption events."
+  },
+  "formatted_address": "195 Avenue A, New York, NY 10009, USA",
+  "formatted_phone_number": "(212) 510-8986",
+  "geometry": {
+    "location": {
+      "lat": 40.7292874,
+      "lng": -73.98145629999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7305655802915,
+        "lng": -73.97998576970849
+      },
+      "southwest": {
+        "lat": 40.7278676197085,
+        "lng": -73.9826837302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+  "international_phone_number": "+1 212-510-8986",
+  "name": "Boris & Horton",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118129559408373781633\">Nicole Kim</a>"
+      ],
+      "photo_reference": "ATKogpfbH5Txt6jBL861BNTbQuwxb7bCfvV93X60drY6PZvNBlrzR80ZbQnEQYgof2c2aStMyGRSByB7JliN0_ql5HJO1loGiTgwlJUkEZQCP1uOwM6Ko97ss1NCG8kBCexj2piIJocVbHXSc6sQrIq3Ri67j9SJyU46P9j6qzlMYbZvbhf6bwMATuc_DHvL45fh-e6T0jEryacvgcQOPjna8QcRfu_epCrmE7dEyxmvQ-6Be9fHlaZdGQbgLOxe2DQP9-zBRXrCYOVKN8tJOCbUsn3ASb7TcC47FOfI4zzYhFabQQPssbtKJVvCCVdYiMsl-KjdAieD74FlfRzipfIKtAaeffMstRFNwPuUBJOMbQfgxVDMnyuEHdntnq7rDNev0aNYN-S35v4GaGnk5MJ6qeX0fnzSlmXXF0be6puQafqSaVVs",
+      "width": 3600
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101274185637064386679\">Boris &amp; Horton</a>"
+      ],
+      "photo_reference": "ATKogpejj_-oB8ZpOt_HiGOyNiCKlVxVuLJFkFpOrQ2-oaWFQ2brpc3jH5rbB9MBo0m7p8pqL69E_bURFWCAxWwjAT6LlUX5KpTJWDElpl7a_BT8MvMaFjMiIngpBF8lS8Ph9srWPUwnatMpaxjX8_dJ_mAd6hSHsH2R0OYlyg3EdBKEecDFQW5A8LCG_PdH-aIRahXEQk3t3uzTXPCb2eDgUCo2ZCrOipeFJwdTeket4E0sxX8AAEYDqakSwA3Jm00wYygEkJvnI4yGwUGT2fY05oasOMlAHG8X8bPpHgFsYVABmg",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100373012928894265267\">Eileen</a>"
+      ],
+      "photo_reference": "ATKogpdLL2StDniJtmjdGPHKcU1e3mxUIx305v9Qfls1tgI2fcCpeBHXRPG4f0sIXs2GYVTpToc3U57G3ZNWJW2v0m_btQXDWKMxa_-j2_xGf6Hj4HFGFRWK2qKCFFj4CjD2dADR1CX8i_nhoXcEasrihqF3rd2KjL9T0kUCJu6uCGyfJL_XZlAPtnm127IfpD2aeSMYJMqbWsyNI4WX4xqjt-DTTaitPpyuTzE7GC946G99OdFi5khwlPA_bqZrWJZKZAbZva0iGlS8mqpFOuL0bAjy8oudRAqZK9BiSfTxefdYuEUUOrwc02oKdMqR29WMiUsyQxgJ2_vXL_0V3zQ4XNE0R7V_w4CMzZ1dURtmPCYWOVWN3hMyUW6FIiZP2yfIQ2dzFhUflk0pdn0WMpPob9xZBNz-WQX0zf2-ov2xWoQwjkXg",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113254269368100587039\">Isabella Grandic</a>"
+      ],
+      "photo_reference": "ATKogpeQtcGJwuyyNPlK1GqvZbsPtJB_MRlTjIcyTS3hPtejcqvIR2JulWEtwPYB0pKrAyOCl711mYRnxsIEeS4En1tWuf6HajqiyhIU-rOqL3rk8RAaHy0uA-dmnNS0RRq8r6M4GcbnOHcF6iIvkzUg_bvzbF-jqQlUlw4lC-ZfpkZVqTz8YF3KdEFa-fKOWWqQdsBESPon8Bu1p_p9Vp2RbmezWrevyv6e4Ms6b0v_i3nH7QG_lGT4Ir88KOjk9eeFUSloJPxN0OKFtLvWTBoIik8Hf22_Lp8G3K7Po1CkaNLUjeveFBHHXO_RyUNSdOVle1dWq78Cddsu4f5isvWvC1CW04W-LEi_ASPSjB1TiZSdS2Xr5aYvytdcUFNxIFMP7oWdG-ptLIOeuSl6ywaOFTgI2H_ohqsXai1j09-nu7nHOg",
+      "width": 3600
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113254269368100587039\">Isabella Grandic</a>"
+      ],
+      "photo_reference": "ATKogpfwvD8oVYYmWy8HV6NgWiXFQ7nCnzy_KdPyKMMqhQ9dxJdLBLylOH0J6dZsxjF0MCtsqHVdWOinV4mvTtrspm4yttqmW3O4XtqUOJonNCAiTbzJ-oLDzSoYRef30_HXrolFvcwI23DHUSq_2JXV4TBOa7KEdP1v4H1wOvX8fBIVe316HhV2pxlaO7B53VbMtorPAe9Uw3W9Zvgwlh1yr6xAHVXprtN-bXZ7pxDbsbVlDHXHdNIvLczIDD-UB2EUcn1M8Wt_CeabSk2s-nh_3SzDPjHEMWZWYzCncifGREedij37un9_VOFIZh-yjOHduiQXruOdM7uD_o9Pcw7OQMpQCpcWdNhJmBuGHokluPK3D2wBmjaIZyaq3oKralzgluxM9PHobZgotfGRoHdlm9QGazUrTdv0GjZXl0AwUQuyy_Mj",
+      "width": 3600
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118129559408373781633\">Nicole Kim</a>"
+      ],
+      "photo_reference": "ATKogpeoldygBODewalPQw0jrIu3Xw8VBaOzmMVsPsFKgovQu7-QdvYC5Xf7gYm0km-d5iCvYtutQ_7vNF0cn0ewqmMEGz2Aj3O8poZiXDQWqLkH-Fca03WqxewEoXmSHWIfcjdEwa-Nnu-sq5VKBr27I_BQCKXlZRMj8xadb4cw7X7FUIaw3sftr4OuiBm1Jrd2Pl-_9uWdQQoIawGsR9y942ITTw1inGcwSWhuNgGFFafJUcWr66ymlm7Mh4TcE60txtoX079_gdxHAUP6HnuMr3p3NzRFS4iRivS1ULLox3l2w8jTnWo84pVWZDjI_exehKRigUgOHGJHBG2G83IRWkD57daolf1Vc2VCNtG2xKl84Mu9i84nrlEhf_pvR8_Pqpt77Ann-FeaEp4EKAVo6Z6CirlcdYli-yZj26DaQ-qMfg",
+      "width": 3600
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102584875072436456503\">Nim Ja</a>"
+      ],
+      "photo_reference": "ATKogpeFHjJeNRJ1DUcb9WzA3RNnPad5FmEZkMdRVboBmVASZOANQUoHQ22DPs9bZ86VcmvChlmT6__Bq6ERvrBk6ehcq5mFpuFbRG7ZraSkwe7xFxCpmKjatwU_LlLwlZ48EzXGbjVpMSFuf3LVh8pchGxfpoTwLgfqpd3HCijEFwgmNq1yRNpoCDMDoePVvpN7MVfczVrWwtqlRSX8dOEF1qwaDCAbwW70a8osjnwMXdS0kUlK-KwIiieSXtzQ8Aj41GCrNbqT-QVTIamYWLL0HWSY-XrVrjNajk6rDWLyLyukKCsvExSvCvZGSpT5ByyaFuJBsxZra5OHHFXeaklpFmgD-BXIYwcX8RX3LT-ArA_3VDLpeDkadcRjyjM9FccCAqP7JZlPDNnAdQeR8kPKgTPyBWnt7mtjyrp8WwykLqgNqg",
+      "width": 3072
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100772530237934642313\">Michelle L</a>"
+      ],
+      "photo_reference": "ATKogpeL_H_hODUhU0RvxYe828whJxZKaBi5rBdWEcTyucYeqZCHAfb97EeRf7Q69AcTkc1ryeXqIRpnDI2GeFidWN3rPK1LkCStaJd189PfkFGsO25w5T631JHiUipFCJ0y6qp5-SsjvaOx1hp2nppIVgIOXBE_ZDAotKYqT1gN14F8UCuD8BzvzHHOOdCAtZsgeTpAe2GCBn0slhxeItKGfqfggqzsM2chhwx3MoHTx6uwBJ24F8ArlbT05otZZ7Zb0YDkd4SW6awdG25ldQKYUu1yDJe2irAD2kUV4I96D6VFEfvPNaRnx2uZbu-jKX3RR3t-gSHeRygnAc9sJynXKEKpMq1jf5TKQU9uXSSflL4B-EpDfJTY8FRH4ChFbRHxo2Ck8WB4NKrDMhiBFbj8qpGGTMbxcTjPKQ4ZeqO0E_JFOg",
+      "width": 4800
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101274185637064386679\">Boris &amp; Horton</a>"
+      ],
+      "photo_reference": "ATKogpcfPnzvWmA8stHtlvSv-au2JUF5CtavcoKtefjQU639my7AlQWVGpG7Iyyne_Ad16O0rAHmnFoAwjPvLNlDXiMbD8YwjLYoIPCgencjcWLC6yWNq1OCCeXW_7aqGx0shUEDyKZL6QUstcmPj-H4veX5vogrIKr61mK7il3cGvHFHdkGRC_OrlaXgx0UQFs6ANu2CFivHzU1HCcbKDSdK9Tmo1d8cd3vzW9vhEU9OezYgW_ioCSHgEv5qbWsBA_iAViMpwLgjrcu9TGVrSNyKL4qw2AU0OlD50r5RnwKYN9Qvw",
+      "width": 4800
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118129559408373781633\">Nicole Kim</a>"
+      ],
+      "photo_reference": "ATKogpeWjr_anu4hPYZPhvlKGF6yRdfrU4asddQkOl763uD30N8HESr6bXjIfmD_ph3AOoAvZzkuQDej9gSo-yj7KLiOBV0-2lz2BgRcj3K6jVbwHIfaGcEU7ztmcak6gv6LGoqju_RfmqEQfdvYS4x6Fr8NTirTHunU7Tk4AVo3wBHuvJVAmBsCfC8iOm_8C9UsE_WTCPdTjaiAoePzyZ6oMSxWh-R-2YoadedM7mHzA3PicbDwWZAK0P138_K6pc1nWv-rw2G2hjjzUq-s-TnOK6jt2w7xmnpYa-CBJsQn5CFVUXySHmLRptyygoQCo30hmGKpajolTn2XAZ20FKhA1cziVYlId-fD-FXjFFkc28Dem5rrYLzfYduxt9gA5lmvFxZvohri0326M7PNCMv07gsFFdxi5900RGGDo6dqs6EM--k",
+      "width": 3600
+    }
+  ],
+  "place_id": "ChIJG6_BbHZZwokRS6lKU3rCUtk",
+  "plus_code": {
+    "compound_code": "P2H9+PC New York, NY, USA",
+    "global_code": "87G8P2H9+PC"
+  },
+  "price_level": 2,
+  "rating": 4.6,
+  "reference": "ChIJG6_BbHZZwokRS6lKU3rCUtk",
+  "reviews": [
+    {
+      "author_name": "J M",
+      "author_url": "https://www.google.com/maps/contrib/115586378019359384192/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVpOllKdYr-nIN8RyTwQD6D-COZhvJQNCYl4aco1I2OlXkBGdlunA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "Boris & Horton \u2013 A Dog-Friendly Caf\u00e9 Experience in NYC\n\nI recently visited Boris & Horton in the East Village with my daughter and our Yorkiepoo, Missy. I love the idea of a caf\u00e9 where you can bring your dog and enjoy a meal in a fun, pet-friendly atmosphere\u2014it\u2019s such a unique experience in the city.\n\nI had the chicken patty with black rice and lamb with vegetables, along with a refreshing apple juice. My daughter ordered a bowl with chicken, and she really liked it. We also treated Missy to a dog-friendly cupcake, which was a sweet touch. The space was clean and had a relaxed, community feel. You can tell it's a place made for dog lovers.\n\nNow, while I appreciated the freedom for dogs to roam, that part came with some challenges. A few larger dogs walked up to our table while we were eating and tried to get at our food. Unfortunately, not all owners were mindful of their pets, which made things a bit uncomfortable. Missy, who isn\u2019t used to being around a lot of dogs, stayed quietly in her bag next to me the whole time.\n\nOverall, I\u2019d definitely visit again\u2014just maybe during a quieter time of day. If you have a social dog and want a chill place to grab a bite, Boris & Horton is a great option. I just wish more dog owners would keep an eye on their pups so everyone can enjoy their meals in peace.",
+      "time": 1748231699,
+      "translated": false
+    },
+    {
+      "author_name": "Nicole Marmolejos",
+      "author_url": "https://www.google.com/maps/contrib/105858088292668233321/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUmKIdPLBTtKJZTpn7RUWExUONoUCIa3bgxNGOH_LipX-iEnGi9nQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Great service. Went to a Lady & the tramp event and was well taken care of with my pup. The setup was lovely. Along with the pup menu, dog menu and table setups. My pup loved the squash and meatballs. Tiramisu was great as well. Loved the photo op. Always liked coming here. They've always been good to my pup and very accommodating.",
+      "time": 1750473925,
+      "translated": false
+    },
+    {
+      "author_name": "Nicole Kim",
+      "author_url": "https://www.google.com/maps/contrib/118129559408373781633/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZQ5Yo4hAmaHriQARrQsXV_iajY6m1FuLFfCO7w2_hwyozvaz7tg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "We finally checked out the reopening of Boris & Horton. There\u2019s two separate rooms and entrances, one for humans and one for dogs. I liked how they have a controlled door where you can enter one at a time for the safety of dogs. When we entered, tbh, it was a bit chaotic. It was filled with both people and dogs, but more people than dogs. It was super loud in there and not a lot of space for dogs to roam around. There were a couple of people without dogs dining and felt a bit uncomfortable because my pup likes to jump up on the table and smell/eat the food, so I felt a bit uneasy because I didn\u2019t want my pup to disturb them. There was also a big group that was celebrating a birthday, which was not the dog\u2019s birthday but the owner\u2019s (I just don\u2019t think it\u2019s the right place to have one, tbh). However, I did really enjoy the cold brew and cheese danish, but dogs aren\u2019t allowed in the other room where you have to pick up the order. I felt uncomfortable leaving my pup alone in the other room, so you\u2019ll want to have someone else with you at the time to watch your dog. My pup loved eating the pup cake, which they had a variety of along with pupper cups. On the other hand, it was cool to see my pup\u2019s picture being selected to be hung on the bathroom wall. We\u2019ll definitely be back, but at a time when it\u2019s not too busy.",
+      "time": 1745702838,
+      "translated": false
+    },
+    {
+      "author_name": "Isabella Grandic",
+      "author_url": "https://www.google.com/maps/contrib/113254269368100587039/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXfM4WFzncCUNgqi2gQAdP-30tGf4x3B_1ZD86hmGVN9vTxVEPCmw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Heaven on earth! Devocion coffee, extensive food menu, and pups all around. It\u2019s a $5 experience fee for \u201cgroups\u201d - so solo, pair, party of 6 will all pay the same.\n\nService is slightly slow, but the dogs make up for it.\n\nCoffee was a bit watery (needed less milk, more coffee), but the dogs make up for it.\n\nWifi was good. Plenty of seating. Great place to work!!\n\nWill say, the food was pretty greesy / oily. Makes me nervous to fully explore the food menu\u2026 (we ordered chicken farro bowl)",
+      "time": 1745802240,
+      "translated": false
+    },
+    {
+      "author_name": "Shako Liu",
+      "author_url": "https://www.google.com/maps/contrib/106763204251571207713/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXry5wUg-IJoYYBKX2Nr6GgtU5tq9Qqaj3erndOzDJh0W4RCUpx=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "This cafe is suuuuper cute! The owner is so nice! She has great energy and says hi to every guest! I like that there is a dog only area where dogs can roam freely and you can hang out with them just for $5 extra! But if you just want to be on your own, there\u2019s a nice quiet spot for that as well. I love the music is subtle in the background, not too loud but enough for the vibe while you can still read or get in your zone.",
+      "time": 1745615097,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "0800"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "2000"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "0800"
+          }
+        }
+      ],
+      "type": "TAKEOUT",
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Wednesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Thursday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Friday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Saturday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+        "Sunday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "cafe",
+    "food",
+    "restaurant",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=15659792684959836491",
+  "user_ratings_total": 802,
+  "utc_offset": -240,
+  "vicinity": "195 Avenue A, New York",
+  "website": "http://www.borisandhorton.com/",
+  "wheelchair_accessible_entrance": true
+}

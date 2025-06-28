@@ -1,0 +1,456 @@
+{
+  "address_components": [
+    {
+      "long_name": "219-02",
+      "short_name": "219-02",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Northern Boulevard",
+      "short_name": "Northern Blvd",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Bayside",
+      "short_name": "Bayside",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality_level_1",
+        "political",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11361",
+      "short_name": "11361",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "3582",
+      "short_name": "3582",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">219-02 Northern Blvd</span>, <span class=\"locality\">Bayside</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11361-3582</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "dine_in": true,
+  "formatted_address": "219-02 Northern Blvd, Bayside, NY 11361, USA",
+  "formatted_phone_number": "(718) 734-2740",
+  "geometry": {
+    "location": {
+      "lat": 40.7610342,
+      "lng": -73.76257609999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7624901302915,
+        "lng": -73.76124721970848
+      },
+      "southwest": {
+        "lat": 40.7597921697085,
+        "lng": -73.76394518029149
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+  "international_phone_number": "+1 718-734-2740",
+  "name": "Lulu and Dino Cafe Bakery",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 2269,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113743797015113993017\">Lulu and Dino Cafe Bakery</a>"
+      ],
+      "photo_reference": "ATKogpehjeWYDJg_yTkjXro7oQHgiGPn5M8NIdlun7IHCr-Fs6XND-UgGmpLOe01BPjvrCkk8HITo0lqA_iSBHO_N9QTGsDijrkHW7YjGDVtzgdv92kr8v7_C_2cM_goMwTZ4nHh5EZCo3PmkMV8hdBuraapCbqMY2l4hdWR0HI1Dd8Acka30RVMp7_BTB8kfLwPIayITvxSCoGwjooiw-bK6sJbnHokKm5d863yadimJ_tWeqGbSPiJF4kPWUrY-0_jecgdCArym4TH3kiGhQlLsQ5egkXzACjdUUZQXInr7z5HCA",
+      "width": 4032
+    },
+    {
+      "height": 1277,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113743797015113993017\">Lulu and Dino Cafe Bakery</a>"
+      ],
+      "photo_reference": "ATKogpciv7tQEBDi46PXyI9tIWC7CU-dm6Nn0M1NIarkzXSno8up65cMDBOvecbe-E4ayGqoKUsofM5i7JhYJiTdT2mM_MO_uYOV9BkzizO33I_H07IBqEFPMJ2GdK52QBA6qKLTAPYaPalMfUVTeZgl2Dnbb95GuKgiRszCZpDaKCBN47NGSzda2ViLcMDlUKlTSk38nPIS3zKjzMcc11xOYR-GfemCvMeTrB_OXIj1b2wMMFj0aXv19n9vehqo3sIfdVm7baBypzfxcBJkXiJjzmuchI1HIR9rxMDnLBPLveFp3w",
+      "width": 1920
+    },
+    {
+      "height": 3468,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102719535924349800308\">Danny Hyun</a>"
+      ],
+      "photo_reference": "ATKogpex_4bNVcm-M_0WBGesldU2qFxtRHrXiic3ZdKliY79IW-bKXYIxfFU7wnx5uL-YU-i962ouCMbJLPDz1o2MUab2hmyxOEMF2JVsvNH35w0nbzvI_V1PFQ7p5V1-Y3IbAmlfwvqFMS0M4Xm1ps8fF0QCNwNwKwGaf-bDU43HBLUNl_BkaAOGbgSL2bgiIrWDiDp-AcjW-vtVwxi-k13JV0KJpk9L-akpX_ADYkIvnEJO3Nrep-rfKJh78s3b8AVO4U03QODrO0sNosgc7NZbhY4k4I5W9jHet5vl0ZXekFuil3VDLisJeZTWKEzJIdNV7xSJNcMG_q1zKn5svmKatQ_Z_xgSBRGgF1kMozZ3jqYWy2zW25wJYqLRpelKEZYDO_qih1hC7QDpQW650N0rwR8xHQUB82jvAIYjCB1_aFdgg",
+      "width": 4624
+    },
+    {
+      "height": 3468,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102719535924349800308\">Danny Hyun</a>"
+      ],
+      "photo_reference": "ATKogpfF8R-DlvApEbAxzCFmIbes897nRcY43h43M3HzJ5B7_6xMMGDNcMqPYb2uyHZN5tnTm5r7_8DgiZgdVjd8jlo--geXVgV2I8mfvQNim4nfHs-BqJvMHc_N5ztqNlKhXtAeJAT2muZRL8JMYkz88Tpj5JfKh5nAE45gRWtlS_4L56KsHXAJ25CihIBLpJYfO2sddj9KpaFaCnu-lwmBd8v0vGjQoS-qu470MXkqHiHO_6WqXzuXG7g8V0VopMlhBarYZa_uJetrGOh8i-CndWNDZCiqhPYgASqd9vLDnrpiOwK5ATFm5mPFAAyxuTQlqQv5SDI6P6ItoL28BS90PBDBCpxfhqn-FvZVSM97irSPt3d1e9gcwoIcScuV7VvEZHWoXKxv9oVyKVrfZ24RP6GNI06yU7OG8Lqc7AzpATmNsTMH",
+      "width": 4624
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115500464099475501460\">Tulika</a>"
+      ],
+      "photo_reference": "ATKogpcP9cxi_kUF_G-xcl-KJ6vJef_FSdmz5ej9HFgJT1ZRjyn33bux2mqsaixbgEIUUWdKrw8KqfKmweScXa3UHr1sC7CY9XHvMlqr2T-ykJa4FKtQEHoQT8iA2KX__bniuomrIP4l0osUwq0gVYMMovMskZl7B2EPN-hhL9KNmflDKqSVpxpfVQUmUIpB10xPaWURag7y1iKnlqG24t3mOzdH_W6Asern_40R7tAcVKqEwAwYDTGVRl2jexlp1YJfZswmDDivaWl9On9E4W09LsSFSs7Ovi3FKfijxqG4jqTGfvDWonjWiUn_c4smBHm_sGJBqZowKzR4RZdgEy0ts5hdKtdO1ndA487L032CjPCdjrmHx9PiFu6q3KaOERSGVH-iZ2lOFXylO9U_cFNscECWnrPyoF4Xh1tX1_kbyVm6nA",
+      "width": 3000
+    },
+    {
+      "height": 3468,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102719535924349800308\">Danny Hyun</a>"
+      ],
+      "photo_reference": "ATKogpec6iHPcMZZ8ZRjNWRNIyQD6CBBlaJTXjygE6-VEQQ74I9032jpSEWYc5q5mHyc82BTLkwzZSiuv-Yg0J0KcnngrkLuyoVNcN4d_jIxzK2REgKHKNoSu2Plv1w-2Qh4BITY5c9wXvfvNt2pEfg59vYWj0i72uSplY1M3WBsEmPrqadgTh35OFCG9Ne8OP3nnRf2Q97hAnZkSqEfkwZIYQLHV35na2y57-5ip8U-giZUQVql6NrLVio7V1fCSbr8HQ3G8AaQ8snfpFvUXDGp7eSZU2G66w2Or_bFVTW4zg1nWrR1_QK0QmJEYWP1A1K7RaiunwfwxoYhWedLM5yCXgDmrKoRHTB0iOhGU_mhsoPhYzOyycI4WVxln4oX-kM4XX7gGqJLYbxQDvdWC06UHvDYy7RIlrM9VMYYy3HH4iydfw",
+      "width": 4624
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100827524335733433396\">Benny Guillermo</a>"
+      ],
+      "photo_reference": "ATKogpcR5_K9-GEdK2Ck9z50TV_euZSjdQC69RW1zJ9Jc7OvLpYhUsnU70PbWcJqFDdVopjJ_P1oJK8F-TGtYIzKcwBER0fDihbITl0NuW6JM_7fuIvU3OGPHb9zXSe78L9UBIyg7sJrM4NIv88v_-GJPjpxiZh_9hcbFRm1USKDY3AZXfvoFULl1YnZX6E3MLfzthb3S3F-PkJoCpwO96-AeGIsK6P-BBg2w_OofIBBImIGahLf3bEu1nkM-T8l9i8iUkwFR4IyE8C4U1cvHwB7h8U6mWJBWBSpQ8BOHb9qbtN7zIS3X8USeYHXTm1bIUgl4dcxM4KmVLEvYmq3naTNIgmq390NAsj5yVcDG5LEvSg_EaonyF-dT7L4YSud4iQmLeuUT2YiLfuEqr8HHXctwJhA20KR8Xjgvbcp12Hz8sg2vA",
+      "width": 4800
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114564891360739930125\">Monica Therese</a>"
+      ],
+      "photo_reference": "ATKogpflFoyz8OzjZuQGAa2tCOqEVX2Mz0mvroNoduv2rrVKf06CdfGuLdINy-HdOqHSge7_p0xY3uMUTwRS-WpMDbEBdBXIIDUC3cWCE2pAeOmW4mKne0nmPlvgtcnbJaICGzImBuPdjJjySammCp-WDjjgz_5qIuh-Ru8e3_AwN_EJvssxR2H3LZuy46Q0zR4QufUfIeUw6_6ymkt04Dc18dD2GHuJvc-VPgcbo4sg72Q5vOPZ4uKkYEkaAhiy3hkCE5jS_ECKZaoOR4YzjCgt-HCxFkH2dGUAyv5Qy0jqxTDLcXC1y_2svqNHv_ct32-wZ-sunDN-lZfIkdlk5f3Btmcd7ql7GgGx8l0L856tXdL1bK97tNklooTTr6-YmjO5Xkxg7i-meZ16Bn1pjlkjpjTTG2OsSt4V4ZEJbMdsMRA",
+      "width": 3024
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100319514582098587184\">Whom AmI</a>"
+      ],
+      "photo_reference": "ATKogpcD7SS21fOoyj0OC0dDMq02KHqn058f67wKTTG3LMdYYO4vdiiRbYM_P1wUh7odAyHEpQmW_w5j6AM3aBktI6kJ8pKhY2wcY1ghS9uAWOmdk88kIZlB6mQjUqUZaMfxPLo2FbiEjm_8lShtmfysVcvv0O5-OWi9eIZt3dlIg8-MU7kn_wAn3oHk35Ftu_RvF-MZTlVml8rM7QIVAUeYo_ut3QmS91Jn2nQnGVBmw3qHG-9LvS7Mii3i3m2g-PoFRQoomc46BCzdlgHapDP8WtnBHQIhr_9_xPzhY8RlMjqevNNVp7FL68MpnDVDzbn1y3cUrzbNxXxh6Q2LrhXH5YMMptaLJqDJc-SvFt7Ty_lFMNGl5NEdQntrAJiD_KNL5OeRmm-L-szupFhkC7cFF6iGbMUOx2gvnCGx9EQg5D8Jajua",
+      "width": 4000
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115500464099475501460\">Tulika</a>"
+      ],
+      "photo_reference": "ATKogpeU2oSmJsCeaTlMaKq89qNfslWKiFZP8UUOEHo9UAxusOGeFEcxnsiCCPD2CNAgsZzbFq8PT54u1QGx__WCm8wYTKKNHjMGcIlM5uyy4ySNXstIRbMqlpzEyRpIX0vQzxwPA-uzAMEgwZDBQtfOsbGDbW0JoHIHnglr8VXzlyzEO3jlkx2GxdOSqnT0ot7apPXVDzA8AdFSXFnxYxGpa4wxutK4EWnDajVW8DxLFfE9sNW9zVHHK6aE6HKZ6EY_bDv0e5ld8inzcq-hYAO7lZOl7lKmfYixu6sDYlOTgN6mHiuxFAh0HA6oILXdRKHvVWJdsbFUFt7pQv87ENVulDmM7g1Aupl7d9YdnGB7lAI-SB5wMfSB8UX-CTG__RB1mFVnZHIKolk-36cfWyq2F33MTjtox_-d0zcXztz1c9tlYg",
+      "width": 3600
+    }
+  ],
+  "place_id": "ChIJD0Nq6y5hwokRvcc2c-GhBjM",
+  "plus_code": {
+    "compound_code": "Q66P+CX Bayside, Queens, NY, USA",
+    "global_code": "87G8Q66P+CX"
+  },
+  "price_level": 2,
+  "rating": 4.4,
+  "reference": "ChIJD0Nq6y5hwokRvcc2c-GhBjM",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "patrick c",
+      "author_url": "https://www.google.com/maps/contrib/115998190718050177026/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIqa0Zj_k5JkfGJsoHnUg4hUrnHzOLVduyu3KiVYsgkjDZnJQE=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Had the pleasure of visiting Lulu and Dino\u2019s and it was such a delightful experience! From the moment I walked in, the cozy atmosphere and friendly staff made me feel right at home.\n\nThe highlight of my visit was definitely their yogurt lemonade refresher \u2014 a perfect balance of tangy and creamy, with a refreshing citrus twist. It was both light and satisfying, making it the ideal drink for a warm day.\n\nBut the real star of the show was the mango mousse. It was incredibly smooth and airy, with a vibrant mango flavor that was just the right amount of sweet. Every bite was like a little burst of tropical sunshine! Paired with a cup of coffee or tea, it\u2019s a treat I\u2019d come back for in a heartbeat.\n\nIf you\u2019re in the area and looking for a cozy spot with delicious pastries and refreshing drinks, lulus and Dino\u2019s is a must-visit. I can\u2019t wait to try more of their menu next time!",
+      "time": 1742952691,
+      "translated": false
+    },
+    {
+      "author_name": "Fancy Lala",
+      "author_url": "https://www.google.com/maps/contrib/117952490413074346961/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX8yJBWko8rXN7e-DJkEBH_0dgbdziAGajRF9H4h7gOkA9IXI8=s128-c0x00000000-cc-rp-mo",
+      "rating": 1,
+      "relative_time_description": "a month ago",
+      "text": "I\u2019ve bought tiramisu from this location several times in the past and have generally been satisfied with the quality, so what happened yesterday was both surprising and disappointing.\nAt first glance, the cake looked fine, well-presented which gave no indication of the issues inside. But the moment I cut into it, the entire structure fell apart. The cake was soggy to the point of collapse, and yet the ladyfingers were hard as a rock. This suggests a serious inconsistency in preparation, perhaps they were over-soaked or improperly stored.\nWhat\u2019s worse, everyone in my family who ate a slice experienced diarrhea the next day. While I can\u2019t say for certain whether the dessert was expired or improperly handled, the outcome raises real concerns about food safety. It makes me wonder if something went wrong with this particular batch.\nGiven my prior positive experiences, I hope this was an isolated incident.",
+      "time": 1748146460,
+      "translated": false
+    },
+    {
+      "author_name": "Tulika",
+      "author_url": "https://www.google.com/maps/contrib/115500464099475501460/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUgTHOuGCFLPq8bRBISnzCgEDF72XvB8KfXP2nwN06nz_TdOjT7mQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "Beautiful cafe and lovely vibe. Loved the Pistachio Mousse. Caramel Machiato and cappuccino was amazing too.. The staff are very kind and helpful.",
+      "time": 1746402512,
+      "translated": false
+    },
+    {
+      "author_name": "Hanna Baek",
+      "author_url": "https://www.google.com/maps/contrib/115514591837746563682/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKx2VShrEVFH6M4T1MXKs1ONOGHawgKbdYNZ91Iaw_jez5y-9Y=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Love Lulu&Dino:)\nLove the way they decorated the space, amazing and delicious pastries, drinks, bingsoo!! Personally my favorites and must tries are the pecan bread, walnut bread, fruit bingsoo and iced matcha latte!! The bingsoo has such delicious and fresh fruit top tier!! Always a fan favorite and must visit when in the area:)) Best bakery in town can\u2019t recommend it enough\ud83d\ude04\ud83d\ude04",
+      "time": 1745694715,
+      "translated": false
+    },
+    {
+      "author_name": "Danny Hyun",
+      "author_url": "https://www.google.com/maps/contrib/102719535924349800308/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWG3Ddi3z_0xPHXInjlK_jwUKTtjmFiUBNa5MoQYxdOa7RQ4axZbA=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 4,
+      "relative_time_description": "5 months ago",
+      "text": "It's a nice cafe to relax and have a cup of coffee. The breads and cakes on display are delicious. I especially liked the Korean-style breads.",
+      "time": 1736109516,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": false,
+  "serves_lunch": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "food",
+    "establishment",
+    "point_of_interest",
+    "store",
+    "bakery",
+    "cafe"
+  ],
+  "url": "https://maps.google.com/?cid=3676804135467272125",
+  "user_ratings_total": 288,
+  "utc_offset": -240,
+  "vicinity": "219-02 Northern Blvd, Bayside",
+  "website": "http://luludinocafe.com/",
+  "wheelchair_accessible_entrance": true
+}

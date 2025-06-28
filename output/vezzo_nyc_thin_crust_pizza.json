@@ -1,0 +1,558 @@
+{
+  "address_components": [
+    {
+      "long_name": "178",
+      "short_name": "178",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Lexington Avenue",
+      "short_name": "Lexington Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10016",
+      "short_name": "10016",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">178 Lexington Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10016</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Gourmet thin-crust pizzas with special house toppings, plus a wine bar, brunch & delivery."
+  },
+  "formatted_address": "178 Lexington Ave, New York, NY 10016, USA",
+  "formatted_phone_number": "(212) 839-8300",
+  "geometry": {
+    "location": {
+      "lat": 40.7445147,
+      "lng": -73.98142469999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7458788302915,
+        "lng": -73.9799449697085
+      },
+      "southwest": {
+        "lat": 40.7431808697085,
+        "lng": -73.98264293029152
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-839-8300",
+  "name": "Vezzo NYC Thin Crust Pizza",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2130"
+        },
+        "open": {
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 2354,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100647361569491182151\">hannssy</a>"
+      ],
+      "photo_reference": "ATKogped3TPyH2tsNh5M5z2zFhqG7x4QVpQaRfxGKCKDTYGSbvMEdGuvA8WaevBYNwTiEDQ937BG8KHp1a_N2aEWnZPY8NavdDk2mSkMjbLAq9f-HelVgMcNnVkd4LhIBAEmginNC4jU1w4fiLOfs0Nej8CaDNwObQmngT_xA4clWaWfnhwSYcjsLIDKY-7FS6vcprzRYXcHl-cmKGZgc2WAtjhUnYRJBcQhVFtrEMazqQct1l7J5HQfSJ-MTNZFzPzFVxLyc9EZJc2WtFQiIdaKUJGHLfdkzfniCaomn-QxHriLqoSbPp0eQuJWolAUnDWv6SZIFfAAT0RqZH7ss-uYPhF8A-sITA0vAWjx3_y114Q7GCVDuXU5ZpbpVIBlTYBjjbup6dm98BnMCUK02ohM9Jbl9eCDWHN61IjDx33ON5Owirl6yLf8IxW1lQE_TVh3",
+      "width": 2943
+    },
+    {
+      "height": 1726,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100535215480043150126\">Vezzo NYC Thin Crust Pizza</a>"
+      ],
+      "photo_reference": "ATKogpeVbjgj0kzjfyV4jYfF-qNITbncJFTzPPcmbBnIijziC9l98wofI8Ow38N7eaxLl1SIOV2fVzzAN1uvl0hH1jgx8ImW7qAYVEYXGTbxijk52F2I2xjrzruacCILO3yGgpgxQa15lyzTJc7r4nouFsYVJjRn_UyyXL3O1XTEx_dqg8YlmaKuDwOxAubpaiGIQWTmY1gj6zDMx4EJVtSrqWJ_v11O7AP-UAcU5hW84zLNXwRfJYcF6X3zqJ22anGZmq6tNHvx5YrhHY1-erDWbKT5lZhzHF6H-wm9uKeVCJT2yg",
+      "width": 2504
+    },
+    {
+      "height": 2695,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101163110798803727030\">Jocelin Martinez</a>"
+      ],
+      "photo_reference": "ATKogpf2p8bwT3tizrTgYv5YFNSXYNOUaHJRdCyXV6nqga4dhv4TtP5SZFsSb8VDnHMGkpBEo3pNxDxeKy8sxx_EHSJc5xPd2aHIpPnliHXh-TB4PDZDbKeTjdme2rZ5vMxM8Byp_pOe7hLrg9STwmtXk_q_rI0_JJaojNhlI0F5HnV8TydYhLDxRXJHTNkuU8WaXU3VfRGFEq_OG_Bd0NIYCvhF0XnPpz0EmGUjso7GzQkxl7hgspUiSUJqPOTTBkgPe6vbkJJPxD4wlBcHoZomqgfy9ryk6jB4t1YJU0l19uzNCT6KkXHkvtlghWLLrBdi6lmqcPRwoGguN1wG50AA1D_-iHfjnA4ALinW60Qyzs-vq5HwSkJQDkjJrgpfE3tykFEyy8fzgei5AuG3YBiR8aXJNnFFk-El91actwPhN1Q4IA",
+      "width": 4800
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100535215480043150126\">Vezzo NYC Thin Crust Pizza</a>"
+      ],
+      "photo_reference": "ATKogpf6fBI6h84XhetisWL9pq_mC5cMqMNLPcEil1mS8nO60iZp_h6R2Ex80aJ0kYs6YGCW8SO48uTovc7ekuaZlXMBZOJL7VaV18I11GO_FKAkzEDHPaqS5H4v1l2yO_WEJ4b4_YSKJD9OvT-mFwI8jVYTnb4eYhUe0GkwwTcpRVxYJQSpC0qqvm8rxA-2N4k4P8ZmU6-gX4cYFUywvBbf1QWQ_HA54xW68Zyb66rXC8l0VKU70hT2EuRwcAlKnE61jDVaWpETxk1YrJraS4aKvw7y8nzUXSlGQm07mjE1lPhSzg",
+      "width": 3024
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110939350429937236769\">Mary Dailey</a>"
+      ],
+      "photo_reference": "ATKogpfzpWsgbCxs5rPJhsVXYJAmJdzhMI4Vn6ydqwmulqXekho2sCz3Tl1A5p05Mmr-Y39zqcldcDsZjxFlP0hx7ouGQMh5Ir57ITPkU2yzcOdCoZGPN0xQOJdPFODyycw_NbfzIWWBA2W9urKfw-9SzCXmyaIB7OAUuf72knrU23M8__ao0K7tizgZq1o6OugRVcyHtBvCqrBz6PM631v8mJQpGRtXSdWXuKljWXmPhVWVA1-FZm60iptu6GCqDUtPeXg581oi0SlLPA1Cr7g2Ju8LCEvxmBy-BxfLOElfNr_M2CEGNijI-bMfaLX51DYhs6l5SS2KS7Cho0xs_8OYj0baEmT3m9ESg4GmvRIOLAq352yLtPNQ94pWQzX-vPi332EbTledeF8kPNgQULWNjD7u8nYWdvvyKVBLrj-2oygK-g",
+      "width": 4000
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118106109091794811403\">Patricia Moon</a>"
+      ],
+      "photo_reference": "ATKogpeUF6GrtQ3YO_8UkWM2Qr_qxKeIJdm4papPx_2N0aYT-IQ6JGvL4UDhS66AkdbW_dLRz3fjpuFT1mmz2FQrkLcyAuRpHkf96MLzN4qncsZwLZozZc-ZAlaYz5dwaM8ChT2zGj3-ly3OOIK0hZHQNrJGXkzOCInBMlmv5e3nemO3QbIVkKo4D1EHtgGexKqh8fIKD7K09UMQMyLH8bcNOmJd3cjYIv28fqLmGGAEwnyyHab8M75Ptg0Ik8rd7sPfIcus-fiI1Mwe80o2ai-ZN2pjJvIET3IPtWScnMi7HA9lQWEM6q8c5IxzsPtqeWIGrwA4nqEXbrd5gdXV60k5e3dSGzWQJ13hNUQJWRuBPbtaliR4ULDwmz4vyMpXFiAPBkRf_Pcz0hSHCAx7l9cm57Q-xmX1npskSp2wDW-5-ITj7w",
+      "width": 3600
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112174541159008580087\">D.J. Shea</a>"
+      ],
+      "photo_reference": "ATKogpf0hqNWnpBG2F4xtnEdrGIPaxKm9lrmx9Y49KuzakG_aLZlDrz5OGBVaHXlLJeDN-xGoTh54xgr5lv66im_V5OMj5tf8VhzrpwQtSGKWrB_KrouHe5obHMdhR8jTgEZ4iISE4K1SxsSygsC7NuGt3Rbxrf6OtdfUDIRWHcGHXeInvcRpKP3KDsZuSMY_AygEk3oz-KCrTJFMJPd0PReA3fz10rDeGIgv_HXthzIxrw8ZCwhANiTQudwLoZUenxfA3diTLkfzFW7B-lc1HYCdVlkvEmGd8jZgx8JRFWgMCtGn8eBTM2Wr1b5PyE600iLukqlha_L-6mccG2NmvbFjaNZSYoFGNvhX508dSKY7QQf537p4iO1kXtNq52CJrHgqAwbV0l6E4XYZOmvK0j6trG1IUBTGVOH-fxLPrbkH3Jsse_FcF0wqwHkrAJBjtbv",
+      "width": 4080
+    },
+    {
+      "height": 2882,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100535215480043150126\">Vezzo NYC Thin Crust Pizza</a>"
+      ],
+      "photo_reference": "ATKogpdkyaEQBn70n69CfyDoqJ_3BN2eHwVH1B3k0eEhbMDpX2n-XePT18KT-0dlcHNeI9u6YqGn9oL1R9w3RIHI_3qn9mdjlIjSkyA95fdmdvZMZE8FshkAPl7EoDBay9m1C1XEKfid_2P5LUDVeY9hU3EDdEVDGHD9jvmLGWle5NxjZUne-zpm8lOG4msGpsaZagoSYZDLpWyy452Yxw44TicAih3QfmVuQWgHPfPm8YZSQBk1SE9BJTEs1QsSrD0ulDZmZsKJHKtJ53kMMdLHz_kUgGtXdqNiatyBfbqr8axBHQ",
+      "width": 3842
+    },
+    {
+      "height": 1921,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100535215480043150126\">Vezzo NYC Thin Crust Pizza</a>"
+      ],
+      "photo_reference": "ATKogpfqpnLWh9tItNWW0XU4Fi1x-CwEtJvGIAkYagjNku3tqwcOf9sWrSNvycQ6GWuRd2oybdIcxF-Qxrmo2OPMFJJuebHysWsLvQQgqli9_m2lbFR2H1mNdNv3ZVQ8Od5D-8SZakaLh_zVfUQsLbDCiRqM1YbfkIljCe3FHK5HyMa1RsOG5hIcb-Y45ErluGB6a7YiBoDX7B0TN8ycVRmMnp-4moaj4L1OktrM-PlSFlTNkqrGpIxO-GQm8TiHgwufOisz2ESJlyLWnnXDkBNm3qxmOd3txPU-pHMBq8hVEB0bHQ",
+      "width": 2562
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111650999223738743232\">Nicole Petker</a>"
+      ],
+      "photo_reference": "ATKogpcc2mN3Tj85cnbTL1iACdUjJZxa8VApxpGZCwJrLfqTn1AfQIJTmiFVdvn4Yi2hKKNY0WsaevGDnfbJEArq17Uo_T_gXSzrK0M49ia-V9ndkuhm3CKh-uibkpBX0-qpj1l9pHDLRGvmDPQMs43u3M7HyLeqntX4PgFQglSsQ5uBBQIBjQ2OA_PIephPWpd1t_zRQ4qnKwNxPwSeZmQOVS9GIgjewdrn8EVK5zXetSXkYMl6iQqIyOiuIdezvnVhLhwS9q_w2-rux6ISktDIvUa7PY3TxtHfiMqNi5RPQAeaBSabf0h6affQAsOLZ-2zSMIO6TYUytb-UQo7OMlfjW_tFJUIgpRJ7uP40jVVIkfgIrbkk1nl2nTMkwfa_ZLB11Pgv0zG9sWuHyQ7kHk5pQY0l5F45pBjV6dbRmLQ0xs",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJzUb4cghZwokRHMDVYRngGeI",
+  "plus_code": {
+    "compound_code": "P2V9+RC New York, NY, USA",
+    "global_code": "87G8P2V9+RC"
+  },
+  "price_level": 2,
+  "rating": 4.5,
+  "reference": "ChIJzUb4cghZwokRHMDVYRngGeI",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Johnson Yu",
+      "author_url": "https://www.google.com/maps/contrib/116493442053328815452/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVoO82LOPxrvcEcJ-CJJAVvkPU-_TCQIete0Rq-j5bsBFO__U8=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "Pizza was good, give it about a 7.8/10. Nice thin crust pizza. I ordered the Thin crust 9\u2019 personal pizza with sweet Italian sausage. Wish there was a little more sausage spread throughout though.",
+      "time": 1746925894,
+      "translated": false
+    },
+    {
+      "author_name": "Kyle Style",
+      "author_url": "https://www.google.com/maps/contrib/118181002800234088485/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKK1IARpjpdxcBfvy4T1cQ9AHRYeMfY2PN_WWUQCXVlnETaWw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "a month ago",
+      "text": "We were dinning at a diagonally adjacent restaurant, Leonetta. Thought it would be a great opportunity to compare this fare, thin crust pizza, with Rubirosa on Mulberry Street. We got a classica Margherita & a meat lover. The former was made with sliced up cherry tomatoes rather than a well-balanced amount of tomato sauce. Its mozzarella cheese is kind of thick for a thin crust. The proportion is not balanced here, too. Even though this is a take-out, we reheated the slices at home, which didn't give me the crunchy crust we expected. We tried the meat lover. This can be fairly compared to Rubirosa's supreme. The pizza is made with tomato sauce with finely grounded meat laced with some sort of cured sliced meat. The sauce tasted better, but the pizza is not as complex as the Supreme. We don't believe the Margherita should cost over $30. $25 would be already too much",
+      "time": 1746932354,
+      "translated": false
+    },
+    {
+      "author_name": "Dora Calva",
+      "author_url": "https://www.google.com/maps/contrib/116004161711068001417/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWyLD9dGHClHI03PfBtbLSPJ-c-rlDa8iSJ1XZFSNbaO5d7vuG2=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "The people here are so nice. Joshua is super attentive. They do their best to accommodate. I had a great pizza, nice vibe for a brunch or get together!",
+      "time": 1748296717,
+      "translated": false
+    },
+    {
+      "author_name": "Amol Patadia",
+      "author_url": "https://www.google.com/maps/contrib/113920329163632667861/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWEFNVUa9t6YfGYLv4X6AowC1nzRE_e8_Qw7PJij9IC91OTpvyLKg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "4 months ago",
+      "text": "I came here for lunch. I had the penne Al vodka off the lunch menu. It was ok in taste since it felt almost like canned tomato sauce to me. However it was also a more reasonable price than other Italian places I\u2019ve been.",
+      "time": 1738211323,
+      "translated": false
+    },
+    {
+      "author_name": "Nicole Petker",
+      "author_url": "https://www.google.com/maps/contrib/111650999223738743232/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYFsfS9JtRb-32WZf6ZWDuxYoJXd_hx4N3FXlyPiA-Ujq9LAnS=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Thank you for saving our NYC trip \ud83e\ude77 we had some back to back bad dining experiences and wish we would have discovered this restaurant on day one of our trip. SOOOO DELICIOUS - AND CLEAN \ud83e\ude77 great service \ud83d\ude4c\ud83d\ude4c\ud83d\ude4c and very affordable",
+      "time": 1743526264,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1500"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1800"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1500"
+          }
+        }
+      ],
+      "type": "HAPPY_HOUR",
+      "weekday_text": [
+        "Monday: 3:00\u2009\u2013\u20096:00\u202fPM",
+        "Tuesday: 3:00\u2009\u2013\u20096:00\u202fPM",
+        "Wednesday: 3:00\u2009\u2013\u20096:00\u202fPM",
+        "Thursday: 3:00\u2009\u2013\u20096:00\u202fPM",
+        "Friday: 3:00\u2009\u2013\u20096:00\u202fPM",
+        "Saturday: 3:00\u2009\u2013\u20096:00\u202fPM",
+        "Sunday: 3:00\u2009\u2013\u20096:00\u202fPM"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "food",
+    "cafe",
+    "restaurant",
+    "establishment",
+    "bar",
+    "meal_delivery",
+    "meal_takeaway"
+  ],
+  "url": "https://maps.google.com/?cid=16292299526609682460",
+  "user_ratings_total": 1780,
+  "utc_offset": -240,
+  "vicinity": "178 Lexington Ave, New York",
+  "website": "https://www.nycthincrust.com/location/vezzo-thin-crust/",
+  "wheelchair_accessible_entrance": true
+}

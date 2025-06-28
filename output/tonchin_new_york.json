@@ -1,0 +1,454 @@
+{
+  "address_components": [
+    {
+      "long_name": "13",
+      "short_name": "13",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "West 36th Street",
+      "short_name": "W 36th St.",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10018",
+      "short_name": "10018",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">13 W 36th St.</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10018</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Branch of a Tokyo-based chain specializing in tonkotsu ramen, griddled dishes, and fried chicken."
+  },
+  "formatted_address": "13 W 36th St., New York, NY 10018, USA",
+  "formatted_phone_number": "(646) 692-9912",
+  "geometry": {
+    "location": {
+      "lat": 40.7502712,
+      "lng": -73.9845225
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.75154433029149,
+        "lng": -73.9832254197085
+      },
+      "southwest": {
+        "lat": 40.7488463697085,
+        "lng": -73.98592338029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 646-692-9912",
+  "name": "TONCHIN NEW YORK",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1067,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114489039450445439272\">TONCHIN NEW YORK</a>"
+      ],
+      "photo_reference": "ATKogpcl5n3ZE4dW72-e7uzzUiwTLqGDGkdgAQCWnQ-lAbQlbmEBf4ZP3gywzp1et7w-uIxJOJYgtDb5PzRpDwEYEqr_yza7AKN3w33qGkKGWs6O4y7E-tasY70VtYYRdGGTuYyaPJy1XxdqTwOkdKHSVUTT6m0S9KGh7W05OyWFdvP7GRx9RdbLuId2vJGls5xq26IhWGdm6spJrZXMZbGOrQWYWzVa9ecnUiIeRROsbqz73RV5nggYVIYNMWuCxw-5qXG6ZNRhTU-GeFlgn7KLemxIwNxLyan244HTkR7j7iw",
+      "width": 1600
+    },
+    {
+      "height": 1067,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114489039450445439272\">TONCHIN NEW YORK</a>"
+      ],
+      "photo_reference": "ATKogpegDNAX_JQA2HI-HzTYW4-z9ZTT5xIkHBr-f0wDsmR8kMgXyQ7vWB87gih6sUCJsWkIkn-ghoVBx6RSoo39D-hzwEozKNnVhpu0rEzN8DrdvhMJffg3KU-6H9qJbmbQGUEQMfLrIDOVehdq629UDvNoY0UjfgzgDSn4pLm1fWJpt2J1PdSCm1LWAyF9UAcS-6O1U8E48UlpdWeor5pAaey3eemBAnxmkecqufVsd4JI8AUbyOkDvEcS7zMtipaTSB0ql4RxruyoowuejZeG10F_KeNbJWOIAd-4hzDIK8A",
+      "width": 1600
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104466908513258599771\">Kristina Lu</a>"
+      ],
+      "photo_reference": "ATKogpcJiOIDBFZIGQJ1sNx-1t-bJbScduncGD8qGC4gq1pJiJMQEed_Q42U97gpB93y4ZAREU0-Yw-ZKLjLXESBbhy153qRLy494kDIR1nTZKVu8DU3p2Bffcxim63AeL4jGlYEXLbsXRcHBQZ2Op8NCoQz1AGk1qWgEUJLnyr_UdrtwjZID4CEFwQUQY3g1wccg7TRrVhWKpthlb4mL1DsoaLXkpdY3-sWP0B5q5FKWocnwFOE_Uf_jSg0LzQkHfnZrLvxPU3Mw_02Ckshckxpjiyvaqdw_oYsFai25s4V8NTEAt0rpfw_zGTOItZIv6NFoKaOk1HkngUG0GVbILIZ8WwTRvSPsBbl8qDGvAhxnJXPbRZyOx8I24t-R9HPZ5RtXpogieSCJ96GsiiMjaHEVGeRQBhQ3PNnMRMnXux2BSCYZZpgDKjNondbXr77qyCB",
+      "width": 4032
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111955058763821697923\">CJL - G</a>"
+      ],
+      "photo_reference": "ATKogpfr0HP2GVvM-TndtpGQTgT8Lab7osul7NOPQWCaCHYeedWkKlNUy10l5V5PfQ2cNAHe7rekjCTNkdeIsOm6UeR38DR5NWe-yGRvDYPsVTNaLDqyrAGDOA-0219HZ-tfpRNOVSvg-AzQhFhS8ApZR9UK0Ydf0cl-K9qj5F-9nm1MVk15OcC_Cf1hZZF4bCSzAW1j1DXe-e8o8_NLa2f8sxTZxvhgzhNl9j-gDsCKg5f7vNqXzPLPqB7IB9y5OWHaqcjDpce2tRENijUi_IGVPg703wLi119DiaBSxjLnM925Az8f-voKRaljAVK4AFjYwzGD3F_9MZn3hQBuXmC2F-sbkQpBttbDI-xuGWiF2-9ML-JUcBjyZXpuNrLnUy3LoN4wa9yP8J_z0-HQMVgrccyToHei4ht6QHj09wAaNHnFdkp7",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114382585249371223434\">Ankit Chainani</a>"
+      ],
+      "photo_reference": "ATKogpe_hBMWI6cXdhPqcUVZ0cgDJ47uidNDCy-Z-dpokJ7Kmrp-vOQGBLOnLsLzbu9EvvWNDKD_hk-8k66iEPY-Njlhps7aFK8OlsuwueVJhG37b0c1GEfixzd77JoEw91XSf3k87t0C2l8e1vWdquKXyoQbzHIRHv0nLDHfK-64KQXwAudX2Lvwny_LITCoATKDmkQOTNvuzqqzEI_p5BOXKnhAWXwYMANC2rSX9-B_wMX1CRw1uwf7_iUq1pX4T5QahfaWhvDf48VYw-6ANfVJqSaSJDYFy07hrBK_8KIgkXiD2qvfsnLFMKvWYNDm_MLvNTSO6q-ksWaSi5JbhA2yI08pvmvNfgFBAQFzSNA19CIR4GoLRBabOFmQKgrC0MrnWPTNjMdsAeKVkJiqrAhTa-KIw8ndBGgDP_xYdBarWQsi9M",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110428435376842133340\">Grace</a>"
+      ],
+      "photo_reference": "ATKogpdGrdCN1azF8ALQ1GsDyHQrdXsP1Tf-hK0S5aoPYq3E717j4Iiyi92J0G3jTkgkSFkBaRpzSABPHid8loDAGg7IeB7i0ih2jzdvxH1jRCmpGY3W9bapWuZoMd_s1IhUCJ4zDNOPpUARGZR_z07wtkDbrvENFOg5CiUldnpyVCrpolwVuK6fyaWCc2tnzyPUHTnrVcR89iuetJPfHPOW5EfyggtyHX0ehO5AmAr-ynMyxPt1LelkRKa4XLmD_Rd-fie8Jr0p_orekLcgiWgfuGtfsE1yZTLDLg8QpOiPizYB8KCOWrdhiJsyLbb9hggIDPjbpsTHkgspVyIsTCnFSChJJJh42mO7zr6tPpeJaToI3CGEsXmyzCuYX0UPX-da_TxPoUrQgwHzldiaKlObG_73W2Zrsjk5GdTaN3s69Oj6kxsG",
+      "width": 4032
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112383010243719952179\">\u80d6\u6a3a</a>"
+      ],
+      "photo_reference": "ATKogpdN05QthF_aM3VMVthVtSVwiHly9X0YZ-j0jrEKsXRX5GsuYvImoffRLp46lm5_MyDa0dkwwNDP4kSf-5Ll180Q2lk3xoSFjp503YLAAy2rQKjPRVApX-58nUD0gKiZUa4VRMns2Q1JuaUyL22hh4wQLWn5X3IeqvuHI9ZP6p0WUbzzt8OUddTkSSHuUkhAIWFtAZ-qD3Zel-1p39DsWZT_bGLJJX-ScIN9n1VhgU4CpmFgkqGtQ16t0HNxZ2lYKaq5cxbvYBq33YiaxwgBBVIm8ClqRhzcQ9PcRW6M7d5IfTrtzGVtSQP8Zy28WsMSFiNCdOqpqWlgOytA7ROrJ0mZTTUBlF68iGT7HM8WjV7qwZoWNRODJw7nmTxl0TdsB10UKtPaB6hw05aHBtWh3JOFEQfmDLOok2OpNzXvTE_exNDL",
+      "width": 4000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110715240948252744713\">Mingi Chung</a>"
+      ],
+      "photo_reference": "ATKogpcD0RvauSTDbtEKqwOW1wBxym2L0qV-X7zDQd8Ngk5VlUXggQoatXY6nF7HzaNlXSYzafgoOJ6RyeGDjGP1o9SQGGuUhgAvPBsyCadmr5in2elo1ph7iuVMQBKzFV7i_ThXJ6BqLr-ZHjSzk1ouZkVvLtx5kPEV_iV1DcTfazvMc12z3Yand7ZuaxoX4Yo-NhLkdhWwFXmRsfP4KIQeFGgrdIN-GUEQCodBmC1OWPPQJbfqYLhmcE25BPOQ0NqUtVN2bKMO3RZl_-_CEyhjK2fyCNHegNg_LhpUABckMimOE3VcSDCUH_74YSpOkK0Seb4_FgQLYTiT90X5YZALR9-MkGHjluIbc_aNvW6FfQR976wXAIdHifn-1s3BxHHmzSnctvlbGwgqc9gDiW5LoH6h_srQYZpx8lbz9izsIOZK5Fk",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107015181035078316434\">Martin</a>"
+      ],
+      "photo_reference": "ATKogpfRGVvb8Pj9iW7_bdsqqk1zzeo7EuikMTmlCXo9ufKf--gj0475cQ9Tro8oWjwAfgTSZKybs-YfSEjt_4_ljY8M53B5lj56F3_soKFdU0-kmqli1fBaWHrCzlkp7gEmFULjpuCE2OTN_WY3ozDoM7o48_53ymtkmyEYcOORrybOgAJxc32GDXRI2nKn778zuPB1W1BMtBdFZH3JnkluX8i9Edq0_KWRHm2ZIOAlWV6_4jfWhDAEIOj6My_ZqDsOnNPxEAvoh7ih7-Zv0DDlFZfGFPHKpzXpEeV5ZFjTwT9f_KLuY7E9X-R3EbBdZDQF6kbqsp61Ti6Y8uhMQi7r81exMo1jSxcVtCgtN4dS3QnuvtTd49xEZc7mrBpjaty6Zhel3ZPAqXeJSicpkfpRh9mYpVvUm0sq1bgsOv27Dyiw7e7l",
+      "width": 3600
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108099880188670662341\">Ken Chiang</a>"
+      ],
+      "photo_reference": "ATKogpfrWDwKpSjQq_Cd4j47BUG_BGb8E7xna4i4J6qf9sbE2IIE6m6fDWLTfbgrUMWOmGz1mzdubENH-E79Lzzxswh8k7oNSzLJeb7TM8y0SGAeCyOVl9DPvgllKbV3cI4SDRwqtwrkwmRndDgrATxxihA-InhRfPmtI3VNUH9VyM_GTi-YBXTmrG8sSXNj6A5s4872cf5WfbL4dGwH0Z1UgRBec3k2m-Ou75zFGnRjegnjzjqIARMgEiQlLmj34TZijIQyVNeEg5SXg2IdyIuia7kvAPfWjd4vvLNvE3TOvFaB2a2FEQHIPSSZl-FXu56pqNDNiJdbsre-Ehbr8RYgm-vEpm0I8jR3Ti9eJBGGdJ2POtlKRa86W4y65JjqdZME8tsKArfiRW7S5WMeMQE73iMdAh2XPzkzoNty2R8QU8G6Pg2V",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJBwGziqlZwokRb3MTH3xUt0Y",
+  "plus_code": {
+    "compound_code": "Q228+45 New York, NY, USA",
+    "global_code": "87G8Q228+45"
+  },
+  "price_level": 2,
+  "rating": 4.6,
+  "reference": "ChIJBwGziqlZwokRb3MTH3xUt0Y",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Ramon Sa",
+      "author_url": "https://www.google.com/maps/contrib/104281739271222043551/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7hofD_Addq_Iss-l0iYvWYcGny6Nyn0LokoE_AL3qxvx1D3MQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "a week ago",
+      "text": "The food was flavorful and unique \u2013 especially the ramen, which had a rich and well-balanced taste. Unfortunately, the noodles were only lukewarm when served, and the portion size felt quite small for the price. Seating was also very cramped \u2013 tables were so close together that it felt uncomfortable. As soon as we finished eating, the bill was brought to our table without asking, which felt a bit rushed. Most uncomfortable, though, was the pressure to leave a higher tip \u2013 the staff insisted on it in a way that felt pushy and inappropriate. While the flavors were memorable, the overall experience left a bad impression.",
+      "time": 1750104287,
+      "translated": false
+    },
+    {
+      "author_name": "Kristina Lu",
+      "author_url": "https://www.google.com/maps/contrib/104466908513258599771/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUUD-3WZkZtkhtook7-VsKV_q8o-8c4VDNzm-1UGSDWiEDvMUxA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "I got the pork tonkatsu ramen, cucumber appetizer, and the Yuzu Margarita. Everything was 10/10! The ramen was flavorful but not heavy and the noodles were superb. The cucumbers were a perfect compliment to the hot broth. Service was unbelievably fast! I wanted to get the mango shaved ice, but have to come back with a group as that thing is MASSIVE!",
+      "time": 1749688388,
+      "translated": false
+    },
+    {
+      "author_name": "W B",
+      "author_url": "https://www.google.com/maps/contrib/113687777454770641090/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocL1E4vYYEdxAMAxZqimnNIjGaxltXa0SkZD_oG1xZwkRAFoyg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "3 weeks ago",
+      "text": "I had the tonkotsu ramen. The taste was not bad but 3 of us agreed it was way too salty, to the point that it was difficult to eat towards the end. Also didn\u2019t really like the noodles. The one who had the spicy ramen said even packaged instant ramen is better. It\u2019s not terrible but I\u2019m not sure how this place is Michelin.",
+      "time": 1749007123,
+      "translated": false
+    },
+    {
+      "author_name": "Grace",
+      "author_url": "https://www.google.com/maps/contrib/110428435376842133340/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJNRoc_Skv7D2Cb81XsUbEIsThwtxKbyJDrK27IYq5rIvIUDw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "One of my fav ramen spot in NYC!\nThe ramen broth is rich and flavorful. They use thick bamboo shoots, most places use thing ones. The pork was just okay. But overall a solid bowl of ramen.\nI had to try the shaved ice in freezing winter because the photos looked irresistible. It is HUGE! I froze to the core for this massive shaved ice, and it delivered: balanced sweetness and earthy matcha flavor. Can't wait to have it in summer.\nThe chicken wings are just okay.\nThe place was busy, but I snagged a bar seat without waiting. Highly recommend and I'll definitely come again!",
+      "time": 1742685313,
+      "translated": false
+    },
+    {
+      "author_name": "Joseph Rapp",
+      "author_url": "https://www.google.com/maps/contrib/104828814155623187244/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVS6wZEg9Kw-8VpFFbayWCGWZ0oV0CtkMvQ9EWQtecSk-QsrlPX=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "One of my new favorite ramen spots in NYC! I was craving some ramen for lunch and made a reservation same day. I was surprised that there were only a few openings left for lunchtime on a weekday. Party of 1 only allows you to reserve bar seating which made sense when I got there since it was packed.\n\nI made a reservation for 2:00 but arrived at 1:30. The hostess was extremely friendly and was able to seat me right away. The menu is by QR code but I already knew what I wanted. Had my order taken the food came out rather quick.\n\nI had the Lunch Set Special for $27, which was an Ume Rice Ball and the Ginger Miso Ramen, which are both vegan menu options. I am not vegan but felt like doing my cholesterol a favor today.\n\nThe Rice Ball was amazing, the pickled plum was top notch and tasted just right. I liked having the ginger to add in too.\n\nThe Ginger Miso Ramen piqued my interest because it\u2019s not a flavor I\u2019d seen before in the realms of Miso or Vegan so I wanted to try it out. It had a very deep flavor with the right amount of spice, not overpowering. All of the toppings/mix ins worked perfectly.\n\nThe service was excellent and my water was constantly being refilled by any employee who noticed it getting low.\n\nI recommend and will definitely be back!",
+      "time": 1740524030,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "bar",
+    "establishment",
+    "restaurant",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=5095634395467051887",
+  "user_ratings_total": 2975,
+  "utc_offset": -240,
+  "vicinity": "13 W 36th St., New York",
+  "website": "https://tonchinus.com/",
+  "wheelchair_accessible_entrance": true
+}

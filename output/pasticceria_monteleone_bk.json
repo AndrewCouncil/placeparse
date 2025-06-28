@@ -1,0 +1,450 @@
+{
+  "address_components": [
+    {
+      "long_name": "355",
+      "short_name": "355",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Court Street",
+      "short_name": "Court St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Carroll Gardens",
+      "short_name": "Carroll Gardens",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "sublocality",
+        "political",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11231",
+      "short_name": "11231",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "4332",
+      "short_name": "4332",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">355 Court St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11231-4332</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Local institution with a wide variety of traditional Italian cookies, pastries, cakes & gelato."
+  },
+  "formatted_address": "355 Court St, Brooklyn, NY 11231, USA",
+  "formatted_phone_number": "(718) 852-5600",
+  "geometry": {
+    "location": {
+      "lat": 40.6819944,
+      "lng": -73.9959485
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.68335998029148,
+        "lng": -73.99466031970849
+      },
+      "southwest": {
+        "lat": 40.68066201970849,
+        "lng": -73.9973582802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-852-5600",
+  "name": "Pasticceria Monteleone BK",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107533536906854597999\">Zev Gross</a>"
+      ],
+      "photo_reference": "ATKogpd61oPZboXb5_yeXlQxqvCixjTL76LY10N8OCtfn83_Bu0MSRXp2d_J34wkPWjlkCLrNVY7pl4L_P_A7JJmLiqgoOAg0jfJRa3q90DzkzUUsesMoikCxLGEutjOX4PWkygx8Itxl5ECpO8p5armfeH4pxPCKwmHFeoFSF_gqHX78cO6SIP5S3iA_gXDlvAwe6_D3UVSuV1ps9uwfN45F0vyar7gYxIer2KmO40M-prkegM6O4Lc2ufvgPvhofDSFiakDjLknt9jeIxhl2_UI5HjOMm88bFmPJ4T-GqdXSXsJ-QJx1KC7KXHwzNa9moAXbX3xEMRFKmrxtO8qfloUxPtS_FcFlUfbRfbfGHqosHmV-LS2_jBXIoaWpfFkQf58Fgj9nDHeWStmjKtDXJUOqDwa_-F53p-RUPQLvgrPq9m3U4",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105229872591470007995\">Abdullah</a>"
+      ],
+      "photo_reference": "ATKogpdPgreTo4NIOd7E3klNIOXi51XXWSJqcOKKWzECt0tGOdDVgHRDzhM7d-2tKI5zzD14hsuVXeIkpTl9Bbt0MiZPNn-BMwKCTDB4LgfEBXXVwO_U_jGMzkHRsJriMZsrIMkScpWsAwC8IPncQ_nM49U2uoik7IYO6e1xH-7nnxSnkztC03nEcMGNhIrOJWxqet3MKS-P3-aJvJzLz7LBX_P58BZBRNxlsCwSYUrc-SCCN3GrEo4JQ7weLnBeEwViz45pfl6qDxsdAk5BVczahP5X80wic4VShpBpl205GJnyA_Mt6DoCxc2jrploku7ChvG-gC5OK89219k_F9e-xj1iNzxyTYoRz6zHzSBoQFLsfYxKKvsyyw5LHD0POMG1uyLQjN2heVWoABZdoUbOLWrSf-q3RmjlvpNbNjHOYPBcAQ",
+      "width": 4163
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117653432247898115838\">John Sotiriadis</a>"
+      ],
+      "photo_reference": "ATKogpcJEAnc_UoiVGQO__dNWt_TQZBimUnlDeWdRRnw9Yejw6ziBx69kY2trUZ37eWxa_EMGEnxYdn-0c7ENzDpj6lLOOCYiEWRXJ4-8m59233H26c40s2aVn56jjjASgOD862FzAcUUvBvvGiT8q_Lnx_ejrcPsh-RcdEg5oKT6hxszWGqd-ae8UzcivWXLTX5XYAGFmvuFuQ2eNht1EQRhCl3_Tw6i4bZvfehOgu8CH0RlSvIBv-5BUoUBYEOkpRnR3jFL_TfD26_BmtTfCHEKXRXq_sJpqBzew__TukHMZJCpfiLvDD2z-WqE-Io2GfEoUJytGH1E1P17CfJIy2_fheKkpPABfnHNvFCJrOzJVrc4SPsGRzdjXpF8XEH-x6dJACzMbhetEXYEHOVJ9f-lI1Ehtw8abs37z1WmqX4m8Rbog",
+      "width": 4000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102428465695433347610\">LIEM</a>"
+      ],
+      "photo_reference": "ATKogpcTgDjKKEiZKDuXcEwKEtjEYFRCDQl5t4NM7hAHnKvhTiVphscvCvAO2a2ulgR6k2MWbeVIRwLC-8sc2sWf7R8GMg11beT2lZyezurqdKToKpY90qXSEU064k244zuvbB08_yBxIyBtNfJ3ZJ3yyC6ap_tdR0HYXsLNuJ9SiJ6sVP3mM-a1MJ88y5KG7UCe8DFgSLZQoQ_7SbQULhlIdg-8oJr6MxpHUVXXmYoHQdBNJ-cPktLqhxp4wAKyCbPbbWobGJYMToiPW7GIVOYWiIBogdwyrF6nAc6IlLLKqIrddfNVD3RsAfUG_kl78han6WD-7LD2DnCTXrkE1kXSh-W3UIrmOjweVqOw5T9iQ1oQ82sby32ss8QRarJJ2jOmTmRh-pZsMNdloc60nijlpAEyAyRFA5tEIU38v2elz4tumybA",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105229872591470007995\">Abdullah</a>"
+      ],
+      "photo_reference": "ATKogpfSfOqt6spgQKi5RuCKw81uoyfA30DGomE-EM4gb9YKfq3XyQicDEadbDAYPCgn3356gC0haw_Xbvmda3sw_0YBKEjpROW_kp5r1zLxCHq5sKwFYmk5R01dh1MIC_xwC6gZw6uX66WY_0GAUK8xZxPH88VpWfpuM6DwMOknTCqdyNSPevB77rK-5dMx7-AUwdQz5APtETlIjlYTeA5dc5J97rvNYeJ-HOLSRXAlaEU_UL3aWxLf6fw_kWEwIwkbWBRWZmfRrvuK2Kk8PO8qk9jzevIHtKF-HpW9DpEqHf6YpUlLexRT0xVcXwsNqxkF-_B3hnEvxEEyw4mEHpwsw5K8A3RvDkmbQbxHMxfBBeDSY7NjRfZiCg_wPix3KkeA9rLhIflj1r0Cwu4Mo_n7v7qMN3CtiF0xtfqMakxULoQA2g",
+      "width": 4134
+    },
+    {
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108355018410652883108\">Edward Yoo</a>"
+      ],
+      "photo_reference": "ATKogpcA8LiAzx0nsQ7CXmTA8ylAndkqUMUXgJ2BuaSU6HNGaAsKnM8ohpiCs_jwm80270J2ZuaU5Lwls7Cs_d59zBQH4_Z4zFOfd7r-mmJDsvMHDVzinhgClp2GTh_IZ0ooJ4CVR-ukobZ_eksP_heqfapm8cp2KXILNs9fC23N2eHSsivlQQHGSocJFGqWXOIE_YBD-YNWckynRy9oBlCnh3UQoB4oPkB5cZ3aKWmyAnitFpaa6Sw7zeFOeFp9Nv6jvgaZqB7JgHs_Voe-d56wrQZdr9iygVw6jfim0NnWgivgX6u1FmvGjktiZN5sOpyINiqC48Vw9O7UVoUWe8uPjXGEeaFPSsPA3rdeUsVEJivxjzWEH4Na7RuQryFR0oCwOfsPzf12ByEv2XQPL8lP-2EC9vL9nrOtLw76nBmE13SqoA",
+      "width": 4000
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110479865214021203808\">Viriam Mudrahel</a>"
+      ],
+      "photo_reference": "ATKogpd3OEpMecABgMrSzm2RmAvS1uR9r4TxHCge2xZIGxoHoaoAO19dZOYjHPzx16gix1SbP_dCE97bXWJFpgqPo8sYkmqByrIm8ARsm4KwfR0G0pnN22VMfF2VcryBVlfQJlZWZvjYwaKtdQ2CWgOJAolehU5tqAbPdD_n2vTC1bBik9tFOP7lxYSg3UvxAmy_NSQoFK9bCQV8MKC0uyR0IP3mJJUgdCVeMHNMrqZybvsTJwnNYKDSsLSrBT1joEmdD4GhpKlmKOS7vIjQD_2tCQpCJ3OpEhIWog3f4jhB5RQc95exsJfg-g-lCcNL1_lkzxO13PSBcS_lJN_tWCv_Tj2xa82ScQRJZTYA-xJsttoecDfBF8dFtQczBzxwyNd-RB0sb2mPZ2u-pep9R2W1cQQfLUR4ekvxexeit8B7sOQ39vw",
+      "width": 3000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118401351258218762920\">Vanessa Ling</a>"
+      ],
+      "photo_reference": "ATKogpfYlmmo74zazHdRvlGu5VZHuVw_FnqNTwANyASkcPPZw5bNSWI76vH85cgFoFHp1a9NKz6sTab7Wjvv57gsLgUoAgbDP17WjL2eawmmQUVuxeM1PhK3AdpGCT4TTY2KlYg5RS52H9qSZvbampquAg_Ts7eXwMZeJzC2-RucMlm7U_8MAfsvn2wen7UzTEhdK2gXN29iYfophWvSNz2AGnldq7ylJu-MFcqlzSPHkvXndtg38uciqjXm9vKS_t5EA0BG_UKER-dbEtuuTxYH6ShI6MIyhfM9ZeNdn_UioKGuYJhYJ-9M-Vovb3IgmRY0K7jXip9BR5H_Z6Fv_l9GBLqGTYQoqwuVq5V52itUn4fBAotj_owAI_-sCSeZ2ttgK9rUCqEUGHgx-EXhd9e9bGX7dLKa51qMER-MBPmC_lOjqA",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105229872591470007995\">Abdullah</a>"
+      ],
+      "photo_reference": "ATKogpfcnPqECCNyunN-PQz98FWig5_Hnbd0LMkGo50atk-Sx3KG7bLg3E-v3aY7NkitZ1B1NibKmBeSLQ_ydPN53D8aywbIACZTBUd90hT94HU2opie122lAVR3DF3x3aHwW1inAFlyUq8xjNvTOUZoroqV2KPq6WVYeUMtIE_t9C5shc0ZcldbgX8Nqqry0YwnsxrwS93xNodNf4K-TlP-rervsl5NROSWkPYeQea_zzKXxmEHCAGqMmSxk47rE856wddqgpnFmALWZKi-L_hpAwomPvwZ4ArIQCpzHuR1lp6nrbCSDbPehcIjjGG9lpQX3gVpkD6fcGdAXqxS7yfWUn7lVCWZQpqHlZJBsPJ43K2vOiXmM05WIM1wnkCwGem8W2Bz4I69gclOvUOTAf8T7arEvPEUhGuJuPGG318Y2XJhu0IT",
+      "width": 3600
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117653432247898115838\">John Sotiriadis</a>"
+      ],
+      "photo_reference": "ATKogpeP2XNyIe6qglsNwmg05u8dHclWCv-qO5xPH6Py1zbKJeR3F6wUBhgEGP2kgZeEt8TR_7c8ZgzeqsbasyMxll1wbbxgOwKk3DDwcMntMZF4LYf6nD6lLBcE6e5otSAGNzYaeEFok1GGX7QcamBIp7IPr-87K-bR98yWZbmnZOOKkDG2DEkOmLkGgZ0UqpkC1ISceM5MYNFYDjq57UEKff8xDOX_-NCFnpvyjFkshCPXlGknzYJNU61OO6h30dEczJxOYUphqP0oz6so-HMnz647xY2EvEweF_oy8xrXlt_z1y2HWpJQ3G3EYMysv7_8q9TMwO0hTHAFtENB3toixw-_qbSn1XJLs5C4FkgZn1ZgqZP-B4518Az8lvXH3QACk0F_dnbdU-dQDA_rX84LIDvE9oN7xlxOfPch16a7lBZOStI",
+      "width": 4000
+    }
+  ],
+  "place_id": "ChIJOzk67FlawokRFg5yFwWBBHw",
+  "plus_code": {
+    "compound_code": "M2J3+QJ Brooklyn, NY, USA",
+    "global_code": "87G8M2J3+QJ"
+  },
+  "price_level": 2,
+  "rating": 4.7,
+  "reference": "ChIJOzk67FlawokRFg5yFwWBBHw",
+  "reviews": [
+    {
+      "author_name": "Caroline VOS",
+      "author_url": "https://www.google.com/maps/contrib/108427298223833968971/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUdmiNZRHwBo7k2YKwdNgYC2Z8p_MkWVrPqsTXb1dpgbnwv7IjcfA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "If you\u2019re on the hunt for authentic Italian pastries in Brooklyn, Pasticceria Monteleone is a must-visit. This family-owned bakery offers an impressive selection of traditional treats that are sure to satisfy any sweet tooth.\n\nDuring our visit, we couldn\u2019t resist trying their lobster tails, cannelloni, and a delightful small pastry reminiscent of the lobster tail. Each item was freshly made, bursting with flavor, and clearly crafted with care.\n\nThe bakery\u2019s extensive variety makes choosing just a few items a delightful challenge. Whether you\u2019re a longtime fan of Italian pastries or new to these delights, Pasticceria Monteleone offers an experience worth savoring.",
+      "time": 1742608691,
+      "translated": false
+    },
+    {
+      "author_name": "Aleli T. Butler",
+      "author_url": "https://www.google.com/maps/contrib/116667823399579517847/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXzWONfaB4Gi38066d2eREVnlPotaGnDmu0RVDOLnCSJw6dWoJ0=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Simply great Italian Bakery. Highly recommend the cheesecakes and Italian cookies. Its also affordable and not too crazy expensive as everything in Carroll Gardens. Staff is super welcoming and friendly",
+      "time": 1739630688,
+      "translated": false
+    },
+    {
+      "author_name": "Abdullah",
+      "author_url": "https://www.google.com/maps/contrib/105229872591470007995/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUp7XPOYmYajMgsnmnm5A9EC4Sx3fYIxmtfH0wiRxIJfnV6JJMC=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "If there\u2019s a pastry you\u2019re looking for, this bakery will have it! They had so many different varieties of pastries and desserts, each one more intricate and detailed than the last. The vibes are so positive and wholesome all around",
+      "time": 1730327719,
+      "translated": false
+    },
+    {
+      "author_name": "Lukas Simon Loers",
+      "author_url": "https://www.google.com/maps/contrib/104592821716402591792/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocISj71USwPLFzJhFQoA2jxxiN-3KWjOpCwhs0ECjSqOik19DQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Very nice authentic and well priced Italian cake shop. We ordered a custom Pok\u00e9mon cake for our son\u2019s birthday! Got it on time, the staff was super kind and friendly. The cake was awesome! Thank you very much",
+      "time": 1740949017,
+      "translated": false
+    },
+    {
+      "author_name": "Sara Peyser",
+      "author_url": "https://www.google.com/maps/contrib/100392493594869849220/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNpubS-NNjS6A2LREPTZzjeTUxaKh2sPFIpgsDjuCgvyZ2MG5X=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "The best spot in all of NYC to get Italian cookies and pastries. Also my favorite seven layer rainbow cookie. They have the most beautiful marzipan and cakes too. The coffee is great and during the summer months they have two small tables out front to sit and eat. Cannot recommend this spot enough.",
+      "time": 1717966983,
+      "translated": false
+    }
+  ],
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "bakery",
+    "food",
+    "store",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8936409419478076950",
+  "user_ratings_total": 443,
+  "utc_offset": -240,
+  "vicinity": "355 Court St, Brooklyn",
+  "wheelchair_accessible_entrance": true
+}

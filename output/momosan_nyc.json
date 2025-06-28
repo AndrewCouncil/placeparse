@@ -1,0 +1,773 @@
+{
+  "address_components": [
+    {
+      "long_name": "342",
+      "short_name": "342",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Lexington Avenue",
+      "short_name": "Lexington Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10016",
+      "short_name": "10016",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">342 Lexington Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10016</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "special_days": [
+      {
+        "date": "2025-07-04",
+        "exceptional_hours": true
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Friday: Closed",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Ramen spot by Masaharu Morimoto with communal tables for Japanese noodles, appetizers, and sakes."
+  },
+  "formatted_address": "342 Lexington Ave, New York, NY 10016, USA",
+  "formatted_phone_number": "(646) 201-5529",
+  "geometry": {
+    "location": {
+      "lat": 40.7499261,
+      "lng": -73.9774455
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7512303802915,
+        "lng": -73.9759842697085
+      },
+      "southwest": {
+        "lat": 40.7485324197085,
+        "lng": -73.97868223029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 646-201-5529",
+  "name": "Momosan Ramen & Sake",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1500"
+        },
+        "open": {
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1500"
+        },
+        "open": {
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1500"
+        },
+        "open": {
+          "day": 6,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 449,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101506770050690023632\">Momosan Ramen &amp; Sake</a>"
+      ],
+      "photo_reference": "ATKogpd0nySgYulUWY77NbNnH1TLPutsT3eP5MW_MrZZHT2n2gbE8I210cX5IwCscfC_KCjSUEoA18obipPRaNpz-q-lSUOaOFatemAFN3XNalUMJB-4FcS-c8AXbFf-1-H6wmuVPHpa7W_FN2WfuifYunxO0_VzlatV9RD7YZL_LON2jSjvSOcjxdeM-VAW4VSAvIELD53hVk1iqtURGSF8-KVD-BnPZwQEQtN2wRyGSwHXuNl3KjE8lHLOxIA6JH0nWdayjX2RqAlzRBAguIujpntqkKAVk5YKlGHW8quorQ3Vyg",
+      "width": 449
+    },
+    {
+      "height": 427,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101506770050690023632\">Momosan Ramen &amp; Sake</a>"
+      ],
+      "photo_reference": "ATKogpd8qSlu3x6SSUo3XvEh1f8C96f4BnjVtwGFwMk13GBJIk8WtR5IbebQgENznnt3_oJzCvGtLRN4F2pnRU9GcB-WU2nJ6T3wxcHcj9Y2UmgMnzZ8vqAlc2Mg34Bg1ncEXMpjGh8P9NU1egk3lJNlYOw4vF1keHVvKqjo_mGS0QIFMJ9vPaRJEAjWTn5xsHKH3M0uqwUSQIfQglyp6GAURawiaFGCJs6sVHs9SSGFMEG57g9D1WM7CuM5qAoXUAyhqrCCoOQP1tKl1OUZT45UeFOXwsZYnnUn2JYl1frK4CV7Xg",
+      "width": 427
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117510264787139677504\">Oleg Mantel</a>"
+      ],
+      "photo_reference": "ATKogpdvnhJOsxym7eoC0fkX0rpT5y2XK8DL7ias3mt_rMvIhU1utwLcr70DzECp8mfoBP0v1dY4ECyCUbkPbrMkxDbry4Lq1BpdQlvdN3Sgj2mEiB0XNpY5gKN2NO3vVKtMKfIMLnjYeJuhe7pvJnkpP0PCbH764sqsmJLjeY-TDoyGm4DjJSY6ZbyF_iwXqqopKEWZBH5vfTDUqCW55GFcNAQZ87YahVK95fbXWQV6DtXGWFUK_kLtLoQSyu_X8cBH5rVXirC5SY2fLilW7agGVxVOYlr44h46H7NkyU6-ilh8myRTkGrZ80haP3pTnSXGSa4vbQahRQahd-WDP9-wIdG-k9dg5QGMKJjFO5Fg2eyEJh-t4qBCZhIYGic_Kv55VM8RXTGCa8GvyqkpDryP80Jcwo_4XCkDS_geWawr7avHsWf3HM6YYY985HgH6A_P",
+      "width": 4800
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105496664564047858626\">Saim Salman</a>"
+      ],
+      "photo_reference": "ATKogpdqWudL2iAQ7sctAUL20T0udNQXJO_Td7sckeE2EIUWLrkTZiFPSSVhT5ctbGanJQdRhyR_Hz8KLPbk75Gjfu_1SqHXIGlJIc0oweznYWFI8vj080Iq3ml9iWyLOrr6-RovAFYTHi9N6S1iixxvDyYfOddQV_QLke2yagQP7gTCRCjEMwt_gCcctndarc2OAdYk5ugaJ0DNJeHA4jV1SCHJKMdSbiilLn7l5YdeqQHYGZpUkEqOngZTSAnjZMDXpIvVaDPQ-0kABqwZSi6gqNix8Afd5qZsxYPCHTOuq1lT3vJGWdKw4__-zXJBQiF1RQompE_oeMN6szASlQQL4XcjY_NKH_kLofYNtKxKXAtghqi5ZcgnADJtR5c2vaCy32jYavrYrgBOsuWvwCu5S_WwSD86-qIj-718sOcXq0y3g3N9",
+      "width": 4080
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103490553587150473585\">Holly Grenfell</a>"
+      ],
+      "photo_reference": "ATKogpdQbywuTZskatTJeFxF6mUlfd7VC0FcIsh8UspWgLVAPWh0oG2mRUDctbrXDpRKpaEgRIXxhJzyDzyiVJ7AiNCZlUEidZji1k3lsaw1_7w-07lBWtqncDgpE6q66vPPsRdBRdR3oTS_YtCENa6QYwhTc7M2EWBhC1lGoOQW-o2BAR6jt8fl1tEEjkTnciGiZL05o9uDdW-dx0VOQ0Tj8GKT4fhZ7LWb5TFDJ03Sr6N0C8n38deJghl15z9M15xNd8pIB4VW75hzA37kjiLURJw1CfhusJX2jDaECbuv1x0_hfGZ4mH37zmeZePGPXFqxL552KCrxW1aQK05bAYgNke1KybvT0hNMMqiJD6Hw8FIkjojMv4yAzW1xA2lFFHO4EojeVa8dsBwYZ9NhkpvCYGqyDhW6AaTC-5cPsXIEtyOgQ",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116431320125359493647\">Vasil Kimayev</a>"
+      ],
+      "photo_reference": "ATKogpcXYwnUiQ6WQg_eWnPZAkNtxKiL2b1NryD3LHs-FdC0-HXqlD78nDf7TN-Zmu8wcVXSBCbY2r5ehT5_B_ZkV7B9zenEi1fV1_yOzO1VHfiOVT-oO5tLsejdBNpfDPElDNeSwiwDk0GAbVQdWyVKmnueornxtYw8dkInW9Qz3sM2Lmqa7FrJrzLODcpYdXv3NyTeiObACT6le06uiUomt4_KVXg7i2LywVnvKZB2a6nKN7Wf4wikMcDX4-fp3IM1MqojqcVaCEL3Ia9MQKFKMzby4PuDn1MAfEceebakTMVFDxxFsmfgP2Z6IWcbM0-bWco-kvM9hH4c36ewC5IegyIqku43NBjqezHL8x3bBO8M1veyKaoOQHwCo6zVX2Rklkj3bItSt4_E9C7KBIAga1NHef-ppsgAjSXAKjBeCTeM0ACy",
+      "width": 3024
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112985182920881421705\">Mark E</a>"
+      ],
+      "photo_reference": "ATKogpdo0ChdgUdut2enWp8cQI4X7oKbEoc05sGXsdNi6ImAC1D_UStKbStbourbi-vgEm4YPKUP-i9l5NZ3y9GZ-K1s8s2EMfsQ3uk0epJ09bCxxbfR-G-eNThhzcxfuhR5Z54nX0skft2m47lGODa-kpSclIUcpeUeUeqsENQDCHMEPBrXsylPNnLeeP2auvteYuYTBSf-TVBg66rLGzviI3WPnTZXQ_f3Zy7XsRkXPvSwNRrwKVxfXli6Tzr67b2A3SsdwS12YxgQLv0EsjZsTLMpY4CxVyoSEJsvVC8Pd2ZSRHmIYGFbKb9L0k_OQRNVPu41EBuTxVK_H3qh27h26Pj2wy1RWEl3TjnUbgzPCRNm1MgdMP-t3r47WbdXC0Y0VPwzzFNimovPUGeN6mBJEpgBlZmcs5fx1w3Yhq0g5cK-_ieUlQ8jsbEv0lZ0OA",
+      "width": 3060
+    },
+    {
+      "height": 2898,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117810121613198800291\">Ashleigh McNew</a>"
+      ],
+      "photo_reference": "ATKogpfUt1tvIICfb_nZ7564HYDmnymTJdBWq1OlyvnQs_koWLu2RNh3ATCiahTKj0UKUvsBsRkISFZDURAPv08dpWvSKfAItW3QC6XUkaO2oxN7RJ0kB9ufT0LoXUjaRAB-OHnc_bFQM9tmjiVS772tnqCjZQpUKLMSFdmbb0DzqvkhwGImR1iF0bfo2DgMQjndWd-ONRClTNwPNzOqNJV0tCF_GtDeC5KBWr4TRf03MiZHNeNTiFbpYZMjBI9n17CehXSn0k7gwDhEKhps4rcSZWwTtNwxwVqaY5rOrUSWGLQcGRI_v2g8yAy3mtrSYij1MiQfXol9KrWP54Ys0KBq04X8cTkCjkFCNkmd93okWcRDIZ6QiWrfbZuOQZA_HclkKyjJrQEF0iihn0ZlJMKJCpudsVHAv3ExJ3bOimFAoEgMPhNm",
+      "width": 3866
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105701339373487826210\">William Lee</a>"
+      ],
+      "photo_reference": "ATKogpfvJQx-axXFPpaakTr_DX9Cay9FNF1LgsXdnDxUa-W7m4X5JxIRQuhz7OfrWTPUvf4AmU0U0RAcxYJQ2tVipsqb_NoY6Nne6nTpycf6ngzlCMHRskURFRGkt4qB5rMfPkt5eB4U55N6mAtqf2hRF150FpFbJIkEgdU5DNF_RfKBKMJTDCGVOwBgtWocds6yNwq0RBVbsj94ClfpnMsCXOl_UGrfTQOr-sRZwEwXy3xhSgXUp2P1D1vucTkdkwZW0dOCA93LnlOtZ0feL1s8mNE5-DHz99F3TbXI8dYvoUAyNKUWrVX9LKxB5RgEeDmbGbv8MC9LuZgdLUf8h86YzSTjbSOR6Li5IHmOKN5auxQx9N7op9NQCEtx_b1ibd0X9f8vBsCrjEUgdR-jmxax_SKCISdQbYcXswo5CrJ2wmRnKg",
+      "width": 3600
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102521118190087887169\">Shray Chandra</a>"
+      ],
+      "photo_reference": "ATKogpe162cK_U-facIPT7CfVF8yarJEP33ezxEohLbXkJ0yPX9E4Cfs5--uut9jdc9gIK5SbZy37LrJZ04ieXPQ2VETtj3LSOlj_Jl3nz5AjCG90HHfAZQegZYI--qfj5EuXUxGSPID0q2rvTcfAOCa9VxnZRPsQc71ZE-Y9ovgUY28v4hLpG-nuUy9krvyJuyz0ffudrNuV3txV5VjuVW1U2PWW6ewNNFnZUb-mNibRhHYp44qhBJ8-u7V-aEAiI7Jvj8UiYCDsPnBKZfSOzMX34t1oMdY0DXXWxr5jPIO_vZNHZs3icN3uyJIbgNhekgQcKBTrXs3c8KOzFgN7MfuLOPzhtW_BJQOn70dyfGROtUVKW-VTSWu-4CC9smNU-jyECEM2qg5WAh0M9hkH3w3B3i4-tDBVXU7_V25zGK9gBPrjw",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJucFsVwFZwokRDgJNUSyXpQE",
+  "plus_code": {
+    "compound_code": "P2XF+X2 New York, NY, USA",
+    "global_code": "87G8P2XF+X2"
+  },
+  "price_level": 2,
+  "rating": 4.5,
+  "reference": "ChIJucFsVwFZwokRDgJNUSyXpQE",
+  "reviews": [
+    {
+      "author_name": "Jason Eng",
+      "author_url": "https://www.google.com/maps/contrib/113995634178175550574/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXYdGBNS71e_R1My96yHwRDnSLd5nbLOa6IdLhSJ1Z1NBi8pV8t=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "I come here for lunch often and always get the combo. It never disappoints - always delicious and flavorful!  One of my favorite places in the area. Would come here more often if it were more affordable for lunch - you pay for quality!\n\nRecommended.",
+      "time": 1749943831,
+      "translated": false
+    },
+    {
+      "author_name": "Hansen Loke",
+      "author_url": "https://www.google.com/maps/contrib/101103465663961343844/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXYHZpWH8gRKFDiYH33jg8L7zVJhAXRqkKau9FGsLX3-2PM6jJjqQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Fantastic ramen shop. Great service. We were greeted and well taken care of throughout the meal. The ramen was tasty and flavoursome, though a slight too salty for my London tongue. Margarita drinks have a nice balance of sweet and sour. Will return next time I'm in the area.",
+      "time": 1743643965,
+      "translated": false
+    },
+    {
+      "author_name": "Roshan Reji",
+      "author_url": "https://www.google.com/maps/contrib/105362683247888598348/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXlcDbC3mziDZugfxQam6YX7Lp_CwV27Llbkd3WhEL4huRd2-1r=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "I had a great experience at this ramen spot. From the moment I walked in, I was greeted warmly by Johan, who provided excellent service throughout my visit. He recommended a seasonal cocktail called The Last Petal, a refreshing sake-based drink that was a perfect start to the meal.\n\nFor lunch, I ordered the Spicy Kakuni Tonkotsu from the menu, and it didn\u2019t disappoint. The broth was rich and flavorful, with just the right amount of heat, and the braised pork was tender and satisfying. Definitely a bowl of ramen I\u2019d recommend.\n\nOverall, great service and solid food\u2014I\u2019ll be back.",
+      "time": 1746033897,
+      "translated": false
+    },
+    {
+      "author_name": "Leandro Tavares",
+      "author_url": "https://www.google.com/maps/contrib/103898961355244457962/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIWyDta9u7DliWwXTwD6QR-7cY4pqzuTMmK-wbTeV1G-pIyWgF=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Amazing expierience! The food is delicious and the team is super kind! I went 2 days in a row, both times I sat on the counter and was served by Johan! Great guy! If you are in NY, you should give it a try",
+      "time": 1747702452,
+      "translated": false
+    },
+    {
+      "author_name": "Micco D",
+      "author_url": "https://www.google.com/maps/contrib/106121702114535575432/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIaw9pdf_STzpRNczd9Rkpt_T0sLhMtXhw-jkK0aNPfedU3Ew=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Delicious sushi rolls, edamame and seaweed salad. Spicy ramen was really spicy; chashu bop was served in a stone bowl! Johan was wonderful in serving. Would totally recommend.",
+      "time": 1742510530,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1430"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1430"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1430"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1430"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1430"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2030"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1430"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1430"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1130"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1700"
+          }
+        }
+      ],
+      "type": "TAKEOUT",
+      "weekday_text": [
+        "Monday: 11:30\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u20098:30\u202fPM",
+        "Tuesday: 11:30\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u20098:30\u202fPM",
+        "Wednesday: 11:30\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u20098:30\u202fPM",
+        "Thursday: 11:30\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u20098:30\u202fPM",
+        "Friday: 11:30\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM",
+        "Saturday: 11:30\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM",
+        "Sunday: 11:30\u202fAM\u2009\u2013\u20092:30\u202fPM, 5:00\u2009\u2013\u20098:30\u202fPM"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "establishment",
+    "point_of_interest",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=118667181793542670",
+  "user_ratings_total": 3018,
+  "utc_offset": -240,
+  "vicinity": "342 Lexington Ave, New York",
+  "website": "http://momosanramen.com/",
+  "wheelchair_accessible_entrance": true
+}

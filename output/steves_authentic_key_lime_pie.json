@@ -1,0 +1,442 @@
+{
+  "address_components": [
+    {
+      "long_name": "185",
+      "short_name": "185",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Van Dyke Street",
+      "short_name": "Van Dyke St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Red Hook",
+      "short_name": "Red Hook",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11231",
+      "short_name": "11231",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">185 Van Dyke St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11231</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u20097:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u20097:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u20097:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u20097:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": false,
+  "formatted_address": "185 Van Dyke St, Brooklyn, NY 11231, USA",
+  "formatted_phone_number": "(718) 858-5333",
+  "geometry": {
+    "location": {
+      "lat": 40.677781,
+      "lng": -74.0181757
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.6790838802915,
+        "lng": -74.0168105697085
+      },
+      "southwest": {
+        "lat": 40.67638591970851,
+        "lng": -74.0195085302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-858-5333",
+  "name": "Steve's Authentic Key Lime Pie",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1900"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1900"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1900"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1900"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u20097:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u20097:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u20097:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u20097:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 270,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106892287511521349311\">Steve&#39;s Authentic Key Lime Pie</a>"
+      ],
+      "photo_reference": "ATKogpf5NbHvaSX42Qx-RymKP6d_NkV3PM2K0RLn8A6RsL3YqXtsSqsX2nNfAq8qidy0CvsvZPsvufjqiG7cwWfgY3LRKF2yUiNKvm3wqiPRvFLdl_OtZy-sGYkZ5l9Lwz1vWJCJBjVNPfoR-HwjNiSzEDrNawlYD-NEcLHPe7WNLKGZP6r9PDmy9805OdB9HQ7PFByxQYvP9-lVkzjA7o8IGUnkTTM_vHpNZPqlqIauhfzgXilFPjGoqKSo64TW4rkwBkTgHj_F2MBxX4AsWDFaXBthCWS4f3pEWNT1ictDguvXUA",
+      "width": 565
+    },
+    {
+      "height": 863,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106892287511521349311\">Steve&#39;s Authentic Key Lime Pie</a>"
+      ],
+      "photo_reference": "ATKogpfcR6xMwMZnTB9EOz0J9r4Mlr4fFcgkWphbJmD1NAzYIiUmsMsDc6MlGk4oSr74TXoMnoe6_-EhIt9fDptQrvYvhPPf9wAk7udolS2F7HhMV0Ez52nMVUTZB5CIYSHR6JPNg9jyovpB4Fd4B5RAUfq9ZVO1DWy7vuvAkgI6F7ndw3kJT6YVgIMMBn3g7gAIX1Ik5_xiKB4KJBH80UE2wQV2KHqplezfm09aic4SxZuz-YIBLLUtulW3a8hcaGxKPCx77EKZ7lBUTOPeOg7jfRzY3CaCDEkhC8uxbHk7KcQBWQ",
+      "width": 1152
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106635755735579879150\">Mi Z</a>"
+      ],
+      "photo_reference": "ATKogpfAaAoYdtuSBB0OkhWY31DKiKZvo4EsfG1Kc7JWhE88xGBd8fkFJ6CJhW9oJulk9eeGanIt9V1zXKrAQSKxwscISngqVi0BnQjZc9Jnkg_IdKkDCZnQ-z2nqut0UlZHsKxIqXH8fc6K5Cov2lLEMIqWgFFgGibztY_uMZgZSlwi1rinYudDfUNdGEkd2nOhcLwetyCi8I8hNlN8a8HbiE8ydt9IRlEnMIJtS0_h1gZ9fRLcj2XIogNPSBoJlYqfwSO793T9SmajXXjYvFs-FwaCWsLTnMDuEicOVTPazboW39XRFMTrzsFmaFGaZjWFYrzrbbDK-QFG4UqcjwLwjTatI2v7bhSKJbRmJmUQCuQrEkYiLuDWyElCXMkm6XXGQ245PmRQkbl2eYuVq6v2GBtSQYs65G5iPbmCpyAYKEBDUtZR",
+      "width": 4800
+    },
+    {
+      "height": 2235,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117653432247898115838\">John Sotiriadis</a>"
+      ],
+      "photo_reference": "ATKogpeRj4A0AFywGQD7sYym_6kmNyyPNs6JxyB8PrqCLc3-fDzaulPzeqIdAxU7oOXJvOjbluVQtVrR2gpN2AlenxVk8Yma5EWrQHwI3bI5gEAk7tfeKA3kUNCzVjJmLSHhVW04IT31OHRvrTnqTDkc887dTvRJhLwleS5oehfNbIOJRY5LUdmBwhPyPDkK4BO4d22nvnOF4N5EtQpQZhMILjI-9VdXfZfrq9xR8Nnvv7ef3EZ1I_ef6SGBKYMy1L5BBA-WPjYHuLt-vT_uD6_j8YaTt948yqo9XCaiU4xLyflTm6zYZFdNJ8V1L_iGPehsTB50o34YIynqGvHBckNYgSnsnovHonmA_89ftzOAy5WXZOqcnPpxjDGdU6FmO4dKGU1LVOYy6PUnR6ZKt7p18oiRk4fidssk_SXfI32JDL0RhlaY",
+      "width": 2706
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112684742454001929874\">Fernando Galhego</a>"
+      ],
+      "photo_reference": "ATKogpe97U0O0qMsRPv_X0h-48U_G2pN_FpvvtBBpemsfBGU8mZRdoVrX-x_X4Sds_8f6N_7KLWNs6poatU5p7WS7ZB8sG_RKUs53RZTkBeuGIGAUWAVrFv7HcDKVpJTrpjMKfpgiRJlNP6BZl70aK8V6Vhx-nEihBTliWtKSWntI4jav7O2WOyIfNxdMaEDcnBFhUwsvH50VTEJ18xbtJBvCBCkR-AWlhg0ilC4CzEqo_tE39S7Md-SvcwtvUm3w769UO0Heozo5ApdYjUybSYzTjXwvJswSaYXpUA81L8UQAW8QkbWZrPam1rV9GVD0JaE036adp-BVicQc0jVIf0jnTbuC6lHo7pOmJvEfGXhFLmADVv7vkPaoKX6IYzmyPz0sz8QesjYqzt4kOc481ZybPu4lxAJkUtHg8VErdFgt6C3ig",
+      "width": 4032
+    },
+    {
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105610173382842325500\">Amy Ng</a>"
+      ],
+      "photo_reference": "ATKogpe_hVC2VJQRvJ1UOl_wbKuXbFcCrmLLk1PnRxpYCffJSkl36QRdTEnGKMJI-yr508BRdp0LaNyCrU2KBpOQs8uMsTObTXpjOxUgoPHV4f6FJKsiT1Lgr6XB5Y0oAI78_kK3YHOzpTdsOyFX1ljuQtTIZ-Ryi0-Uxj995KoPUAUZN8MEt241CrsiwQQ4lVG07fR3mn-6K7spkNSIsSWVv_qo8_hdZtZeOn8s_H9xKr2TkG4YbM_NMRjUUEe-51RfDu-K-UR1JLSg3ZkpwntTlxxsGnnDNmMpS2-N4kJuwOfSrFf2YWFQJqgrz5DxiAPkqKuQ6_fZXwuFEEBsX-uuLryIcslxCcsXQ88EEQ1G9iRddNZxwRGVC6NE5TIXGauE6598d6y-pnsGdxvnVqGonY_tojgMok9I00xyYPLmAsnBxWD3",
+      "width": 4000
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106635755735579879150\">Mi Z</a>"
+      ],
+      "photo_reference": "ATKogpds42suLpoI26ZlZ-etb_0kZXGeSL8wZIcz9BFBCJmLTKwt9a0i6lk2zZBMogsWOWAgpqVEpr10cZ9PZJb03wmcbnVJGGjMERdoXaNzubxD6qJTv4MPxznkuHQRdxBzyJtYafpm4pm9-SE-uNaWO_LmHDaKZEFGjYRKdDmw3obFVk7siepWcWKpgQhIkc87oAD1Q-QQ3zLsjGIAdv606ZBoxoNLLKEHDqhVsVCeexZ4R4uNp1ybRCT_d-e7aiDoNB3LP5seU5ZI0EfdOS1vAz5_3qOPgbwlFccKsqJW3tz6NnAJxqQ9_S_rAlqlsr25Mh6J1hzEcoVH5fJ5Z51CggsBznYRYvfqLuSafr7TklAbDGEInov9AxKuarAooEnUylJnKUD_wJPik3Pfiryh2ml_1wPyPj5de2iIyaRkSOcnLA",
+      "width": 3600
+    },
+    {
+      "height": 3222,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108768661647721874415\">Briana Fahey</a>"
+      ],
+      "photo_reference": "ATKogpfMerJir3AwZJzyCjTgOAab4XERUueA1Nysq4dy1Qk_STD22UFvMf-8xAA0rmoqeBefVd7B2qEzgYnLDFvfgllZXETOD5OZ8yDOOLo1QW4mFJzVYOdM6AUIlybn6rRxQFFDGBrldexGQDeoZfjbz4MRI87qlbbA5QrN_X5PZmRFFtS2hayhkj4782OrMIxfcZNW7gdWHLpnwa3Im0k0g1YkHZxzZe96nTlteK-VMhDzB7KIZ1I42mlLaJQ-NTr2_ezeRluWe0iNXZIqqPjXIonaPU9sZ7UPyyYOB3yC87M4WwEgzxdMnkRVzQvCStmtsRm1RxdZbJf4X5Nut41GDoTVMqSD8JzNIWGd4sCAEpJOaKkOiemFHJSVPgf4jFAN1LfEwobGjBNJrgiMLnLI7QPViAkDrb3ZGQk_Lh6yncFMt2iu",
+      "width": 2416
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105813237895843384860\">Dan Wyman</a>"
+      ],
+      "photo_reference": "ATKogpfWLzA389rzLSppGX-kHSRMlIAAspQAj1nr9VnBn3Idp6aiqgFkUDA_QkB0L_cDxgOp6o9c7Z1-KbGmzz4AAwWJjcUws0Eg1F1rH1Ecn9qw7QorX67jfKMvMhwroHuJAffWZP0CThS09j5nNYysGeXWvpFpwI-w6YIwYIETuvCInW0EvmGz1q1FNRnXSj9ypATcGmeEKMJxtCCZ9Dm_sioukhrymGUy3CrhrckKnZN2ibItBL-9F6Ez3KUqRmmpowo9cmbaBfvxoJe4C_DLMxVECCeNdGAYv4OgEc9Ix-93JHYT85_4s2wG2P3ZNnsEkn1PkFVzIfnVcMh3ilhlWyyLIwFqFyEOV5GPXUarPNInI6FeDySzbGrK0hponsnSVmrggcOMcB-fd8Kfyyp0JbdrKa6yH9izj0Fg4Ymdu1s",
+      "width": 4800
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110268469564861261955\">Benjamin Joffe-Walt</a>"
+      ],
+      "photo_reference": "ATKogpfPPUcidr5E_jnl4vY2Q4FBvy31J-ir493WlFQj-ROnwbFRes6uLRj39RGP_F6CNy7nsw0oy0wsnKj22Wlvnd1-UtPfEo7o23bOSmPAEAmPkIZrIzmamohZ5wrbyqP0jTyEIacpMujAOSQlCqfTlm_pDl1qi9z6QHz0Rmw3W9MNJi5jgM1ttpKQE-IblAe9vNibi41zLaKDWKcwzN7MdlePPeTXEH5hGtRnnNDQ34rDOK-LBH1r6XSiBf5wzA8XqyZfe39NISFFyzgyPkka8KzJMYW0PFhEX0PUKi2ADf_ckVHpj9s08bQuKFTG2ywZhPs44NRGByWsj69fyGS_eRLhIaEW--Wfc9PtKeTPqsb3lUTZbq_f4y_CfSANmU5RAkCrQ4hdK1sfYsmhxA2zDkCusW2thvY1d1Z2Q8Yhtuo",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJ8x57qIhawokRMX-QQ7JtIUc",
+  "plus_code": {
+    "compound_code": "MXHJ+4P Brooklyn, NY, USA",
+    "global_code": "87G7MXHJ+4P"
+  },
+  "price_level": 2,
+  "rating": 4.7,
+  "reference": "ChIJ8x57qIhawokRMX-QQ7JtIUc",
+  "reviews": [
+    {
+      "author_name": "Joseph Mathias",
+      "author_url": "https://www.google.com/maps/contrib/113110503309059943315/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKwYfe-A_eM5wvrY3LxmqOUwdFV2TdBD1il-A85ZuKOkJQcT-8=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Wanted to try this place for the longest time, finally got to! It was pretty good and delicious! The person taking our order was sweet and lovely (young Latinx man with glasses). We got the single serve pies and the limeade. There\u2019s picnic benches outside so you can eat with beautiful views of NY harbor nearby (perfect for warm weather days). Expect a line (but it moves fairly quickly).",
+      "time": 1748211809,
+      "translated": false
+    },
+    {
+      "author_name": "Cliff Jones",
+      "author_url": "https://www.google.com/maps/contrib/101910277887280904513/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWM7ku1OQgZceTKuUHaAVpymB-V1vlJw6-Xuz1MHCxTysV8xkMT=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "This key lime pie is pretty good. Nice and tart. I tried the swingle and was pleasantly surprised at how refreshing it was and great it tasted. I lived in Miami for several years and tried many key lime pies over the years. Steve's Authentic Key Lime Pie definitely compares to the best I've had in Miami. Steve's offers pies in bite size 3 inch, personal size 4 inch, and 10 inch pies for family and friends. I bought a few of the 4 inch pies for my girlfriend and her friends, while they were shopping in IKEA nearby. Shortly after I picked them up, we were on our drive back to Williamsburg and I asked if I could have a little bit (I wanted more after my swingle) but they each had already devoured their pies.",
+      "time": 1747144720,
+      "translated": false
+    },
+    {
+      "author_name": "Mi Z",
+      "author_url": "https://www.google.com/maps/contrib/106635755735579879150/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKJBCdhwsGB-8ygFBKJb-2ha19fXNKO7wd2h9_JLJURkBxbUA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "Steve's Authentic Key Lime Pie is a true gem for those who appreciate a balanced dessert. As someone without a sweet tooth, I found their key lime pie to be absolutely perfect. The tartness of the key lime filling is refreshing and well-balanced, offering just the right amount of sweetness without being overwhelming. The crust is perfectly crisp and buttery, complementing the creamy texture of the filling. It's a delightful treat that leaves you satisfied without the sugar overload. If you're looking for a dessert that's flavorful and perfectly balanced, Steve's Authentic  CLASSIC Key Lime Pie is a must-try",
+      "time": 1720571064,
+      "translated": false
+    },
+    {
+      "author_name": "Bianca",
+      "author_url": "https://www.google.com/maps/contrib/100508290672216230952/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUHPR7PO6WwnAbFvxOcrah8PCIqgywn89vuwUxaJNa7g59VPqc=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "The key lime pie is phenomenal, but the swingle is out of this world. I traveled to Key West last year and had key lime pie there for the first time. When I came back to NY, I kept trying to find one that could meet my expectations. Recently, I found Steve\u2019s Key Lime Pie. I came by 2 days ago for the first time and had to come back today and grab pies for the entire family. The swingle is an absolute game changer. As someone who is obsessed with chocolate and key lime pie, this is THE best dessert. Absolutely obsessed\u2026P.S. I\u2019d love some vanilla bean whipped cream to go along with it!",
+      "time": 1738535379,
+      "translated": false
+    },
+    {
+      "author_name": "Kam Chong",
+      "author_url": "https://www.google.com/maps/contrib/105565463236441517827/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUMY1_p_woyoOGLJki0OeGHeSivR6K1Yc_SA2-t_hSX034gaqRv=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Their small sized Keylime pie definitely hit the spot, and was priced fairly.\n\nNot too sweet, perfect lime flavoring that was not overly citrusy. Perfect to share!",
+      "time": 1740865691,
+      "translated": false
+    }
+  ],
+  "takeout": true,
+  "types": [
+    "establishment",
+    "food",
+    "bakery",
+    "point_of_interest",
+    "store"
+  ],
+  "url": "https://maps.google.com/?cid=5125498463329484593",
+  "user_ratings_total": 760,
+  "utc_offset": -240,
+  "vicinity": "185 Van Dyke St, Brooklyn",
+  "website": "https://keylime.com/",
+  "wheelchair_accessible_entrance": true
+}

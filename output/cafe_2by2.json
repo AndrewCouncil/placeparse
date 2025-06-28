@@ -1,0 +1,454 @@
+{
+  "address_components": [
+    {
+      "long_name": "2nd FL",
+      "short_name": "2nd FL",
+      "types": [
+        "subpremise"
+      ]
+    },
+    {
+      "long_name": "84",
+      "short_name": "84",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "East 10th Street",
+      "short_name": "E 10th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10003",
+      "short_name": "10003",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "5400",
+      "short_name": "5400",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">84 E 10th St 2nd FL</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10003-5400</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "84 E 10th St 2nd FL, New York, NY 10003, USA",
+  "formatted_phone_number": "(646) 565-1355",
+  "geometry": {
+    "location": {
+      "lat": 40.7308664,
+      "lng": -73.9899472
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7323171302915,
+        "lng": -73.98853986970849
+      },
+      "southwest": {
+        "lat": 40.7296191697085,
+        "lng": -73.99123783029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+  "icon_background_color": "#4B96F3",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+  "international_phone_number": "+1 646-565-1355",
+  "name": "CAFE 2BY2",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117041662526852624219\">Steven Hoang</a>"
+      ],
+      "photo_reference": "ATKogpf855c9It-GrHikxNQiCmByWYcbzg23U3oqk1-hfNVCnucRGWJBeUxL010r2WN6BQNshJsbtA4U3Gbx7tkLmn80VY3ew_uzKIschnBWpQurjXdG64ZR5Sz-mLZsdLzPU3A5VPWnBlBK8hnzesroTb-FKS3j6DfOhPQDtWtWb16F_2-sQ6xX2AhjcOnxp2P2_y44rkYVtDBV0s80lW3tCQKwqMpy1lWHSOT32vCahanVpqL54CikydDTs9SaNqQsbah7CniCB4Qg2Cty6xip5ELqFEfP_K9Ou8RD1tc0pOKcfXugzf5IUJB4Sso-Q0jDUsn01qCIkIYX30_mIohvvMdyC-AZ9M7icjfeT459ob-3O3ymkA-3yOwKIcvSNdV_3zwP3Hf0BapRzPmgylRihvRUztaZrUQ95JAzK2CwOYdF",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109944309096907120608\">Matthew Ho</a>"
+      ],
+      "photo_reference": "ATKogpcTCEJb9D4vp-qFgKUAImQB4weId9U_-bIl13R37cJPPuV7nCE6h_B0XKzuT0smHzU5o86otd9ZIRaGgaVNAzKDWNaykZvQq8DI7Yqe_ueLgTp3l439iELyQci0o3bL2GcHcNah_NfE2F0x5xPnTIRaetkUaTp9CMpVW2b_VTf7ewJEidURZ_3TNRt2UCIKsOucjEPD8CyNnpXYnCAwV7sRVGjNacZkzgoaqNmMZfNIIcn5HEDtkKkR5A40GgSoKfAEiw7drJX5h6U33TRbKeYrEFDiqSWJ3dQ6CTOzX8U2XcfE0TAh2J5085oAOAgTm7wdhFFYgPAQVUjEvDGjJ7ReE3W7zBO5_ks_blV7h--nvnHX5jOzGkFicHkHa_5ovEzZq-TrxNHDlSem6cDi1WprE7GsH3yZ0AthJ5OMdPA33Igmuie4XjmcUilDCfzv",
+      "width": 4032
+    },
+    {
+      "height": 2970,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102903155084391902364\">CAFE 2BY2</a>"
+      ],
+      "photo_reference": "ATKogpf6XKDs91jbn_j_AmlQSclDnkAiT1ixLlrrhPsbuLHwUeJPRsmDqHsdrfg5N98lfXWOnOfNBtXAMngvgei5fo2pYBFjReNP-LKXVUFdXIDO1wOwKVjqEiRJmCdKxe_x_CgSPZUz6uH67mGqniRc0fJfEpxOGMxPm-tr5sr471Tu6zqac6-Twx5XwxA5hQSg9-r1r9rIMPJXCWXSAXL3wE9qEFpfNzRRxn-Ao5JMv6M5tu8THsSE7VcEPTHz2JMI4ojVzWbOSpUUpfM38Git_oIcC9Wkg23WrD_dlNXMNH0d7Q",
+      "width": 1980
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106692808245038415311\">Nadie Lennon</a>"
+      ],
+      "photo_reference": "ATKogpdR-ycSZ4gxYAWzKsFxgqDRaTW-vd9GgaYQIBEBOZYL3vS-sB_YPnFc_IPc6RW83GbxcXxLMMSLWHXhU2HLZ2UvmgbSI6OBPMV_pHX2L732dgBPSoV2gaK-3phioqBGzc-YX4nRiOsYHt-PBzpmNdSIVY-uRKy_CUMsL0sS_vWWVWszMke2ohUD2du-93OsA3vfTID4CAh5ltvejoSyGDRtfAmaDGsdN1jvflzUKd1wTNxHto_5_Gt5BgwKE8p_CoLeocSZPbj4G8iiT2NZuFj90dKHSsNpj2mqLi5NuhqdX9P1_ij40-OWu-3oFvvwuXP9XxVJAhnJRzRSVQGFKpBczmxtkCscBi9HlOTosNfsCeLEEUql1mlxBszodQ8p_CZGi-2VDdmfO54fEPtjASvhpFk-W9jqVD9Aq8x1O5hBjw",
+      "width": 4800
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109944309096907120608\">Matthew Ho</a>"
+      ],
+      "photo_reference": "ATKogpcbfofjZicYcbUzVJJG9r9Fm25iM45aadsyEoBXIIAcaaJL66VJl6nwaJK83sORBkklFb19BuUlCsKa8DIOJJ2w_TGhui_lphZY7PH5aE1N3mQo6HOf7FiZ0944smixYJ4D4PdF2jRbSxndinovwbsagjZCMSW8g9lt4VFq0kQHlgnEDjRgOEaBMuirmTHmJLN115pai2_Np-JEwtLeTxmJIjcj6GXVwKnQJwJJ42_7hfwvm0BEE04O6FeUlW5etU8KttradH741iysf2GJsHoO9duJgFd4OGA1Tclmq-6yGbagChEoe_AjmqxExk_EI5P4O2s20Je-iECXOkCWiUrjTJiGgyasNzvtTtGacA3Nwuo31Km5WLSl8a553XHXQTcb_WvXqzxwEG9Df6mvb2XHmk2s1GY8uhjP4JICdiMHK0xmnoesGJvQ4W3SwrUs",
+      "width": 4032
+    },
+    {
+      "height": 1706,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102903155084391902364\">CAFE 2BY2</a>"
+      ],
+      "photo_reference": "ATKogpdgUxkJFoZRqBSw5yR2kdMtpoO5FqnHUIp5QA1Iv_i4VT2obLihaM7_dnKJgVwS4_8D1pdlKuip4C7rUERJAWt5CSPnUpWtqvf_Q0HnMLWA8XAd8vn9m6mWwaZ2UL9PIMsUlJxLss745Z_47poFZ_nQ6kl7qcbigkqEtS4dhy8naVU-KMMPJn0INUQFKG9uHlhcnLj5lKPb6D7-WMwCpcbk7x1NV5UnbIiYuqsRdQU2lNKqxbM04z6rHLv3CLYm9uxR-SsqUVbAVp6nDoYMWcPpaAme5GCUm8ni9mgWv_bafg",
+      "width": 1280
+    },
+    {
+      "height": 2970,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102903155084391902364\">CAFE 2BY2</a>"
+      ],
+      "photo_reference": "ATKogpfQcMuTysb2BdRu3Jl5jNPj6Wtlkjqvgg1xsQtdQOhjfa5rvngmdU3_OaOAm5sDwvvzeRMeZqW97f8P2_bVKVW0evPNv5l6O9nxG_pXIHQpVkmQqa_oIehzHxu7n9NR60CMS_LRP9PnCLDkgf0-DdwwgsIox2iTTXTwRsFlFgRedyOAnl3I8h3XlLrf21zrHe9YfZyt3UcFP076Nu5PgSAGO1NvGzUeoGcW8JC60imXBRgId4u_9hQedvgi6EXWQ7IRoGS2zJcqKAjOY69JDKr6nYBoc8etJKeT7y6HD7cZNQ",
+      "width": 1980
+    },
+    {
+      "height": 1980,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102903155084391902364\">CAFE 2BY2</a>"
+      ],
+      "photo_reference": "ATKogpeFR6lLQ0tCGqptYk4IqfU9A8gUtvSwEL2MJchaJ5wAKUGualGl7rl6qwY1D-j3IWdDIvlMCK26jyGbRCwCbdj895BLMzxQSfM-eVlPDDIwEGHWp4zJ4z1VcwksYBmrVTZV-KzbWy9rr2QAQvvRcWlVutqEUXJeejI8JBjjHabNriAp8ocEFD0BOrIuLx1xVTd9SJzcT2qiBk-5xniF9KIvrYUgqLPSkiDB09pT9xAmxniAKsB6dwZdRApQ6I6_Jw5nB0x56xUhqvcNQ2SmV7RUzBFBO2U1Jedu83G06T93ww",
+      "width": 2970
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100493690661652707074\">Jenn Back</a>"
+      ],
+      "photo_reference": "ATKogpdkDMkPmqqO3ndqv9xaMhD07_qyAunOohob9gLag3YGh8wNjRmQv7NTWQ0B9H9cEBMREiF68MUN0CiuWmMmqb0PSsAUO-vlEmy3uANjLcuUmetYCcaQomVFBp8FY5Fstm63w1La1RoDlr4tG0qyQRgslk3dBfCkPcQoJ7XNrb5UZBjp2TMipeXRLy4OJQo9pVK4BZB-BHLUt-KeCQZaP_ly8VsLVQbEh-rp9Zc09Hv1SqRxbayK7HKvG_SkrioZPIsod6bQMdtSjP1Mj5syd_pBM6W6IEzoTRig6G9GnosZ4nnxqVEmKSb6Xh6rIGIeTq4DopaJAhB5aJQcw5ODYcjFmYcjSf1FtmsOeDCeSC3P2Ha5OoQT3BQJq2vu20zkpIj6lSqBm4WBHY9KXZb-ndBWZL7qN6p-KdAKeVS0mkbwgywr",
+      "width": 3600
+    },
+    {
+      "height": 2970,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102903155084391902364\">CAFE 2BY2</a>"
+      ],
+      "photo_reference": "ATKogpfKxBwixKMEvqsHehbEiu2GjPfAqKsGT84YZGYVIW74vhxtQMO7rP8S-vier5Ad-AAdOAfzA3ibjVshA475g8QddGmkBypo3sb7zwDL4RWt3PmaAUMCvziRGHyiGsOImDR68vVw-O30Iu9mkpxN-bUqI3SshOD5z6VFqhj-dMx3EBbCEIzm146V0mUmRhFxg7ZEzkbCNsFQc5RvNeCYzAQpEH0Cf-3MMPsS9TF8PAi3Guh8IciyDflN62AYna4Bpmd6o0Fs4S1Q-XEIJGgcI1fSwkUlVDFbUZdO5-swYs1I5w",
+      "width": 1980
+    }
+  ],
+  "place_id": "ChIJsQRP-h5ZwokRDlo_A3pfjCg",
+  "plus_code": {
+    "compound_code": "P2J6+82 New York, NY, USA",
+    "global_code": "87G8P2J6+82"
+  },
+  "price_level": 2,
+  "rating": 4.3,
+  "reference": "ChIJsQRP-h5ZwokRDlo_A3pfjCg",
+  "reviews": [
+    {
+      "author_name": "Christine L",
+      "author_url": "https://www.google.com/maps/contrib/106022290391959656407/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXVKvX7LlsjMqBRdnNW0s24q0E_Wyql353l49GQFDMZglJ3-Mi6=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Cute little cafe with a variety of menu items. The indoor seating is super cute and seems like a relaxing place to chill. Absolutely loved the iced strawberry matcha. We tried a bunch of tiramisu as well. The pistachio berry one was probably our favorite. The Oreo mochi and chocolate crunch were also light and fluffy.\n\nNow for my standard comments. Location is clean and well kept. Unsure if there\u2019s another entrance but not wheelchair friendly in the front.",
+      "time": 1746837662,
+      "translated": false
+    },
+    {
+      "author_name": "Ray Low",
+      "author_url": "https://www.google.com/maps/contrib/113340731424931872946/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXyTuLPVKslenli-FV9XDpOlIlU01bh2xaPkGIt9Af8nyZ0ZLo=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "a month ago",
+      "text": "Been here a couple times now and really wanted to be blown away by the unique and bold tiramisu flavors. I would say that, having tried a few, it\u2019s not as much of a wow factor as I had hoped. I think they try to do a bit too much with too many flavors - the earl grey, for example, is already a strong enough taste on its own, but the chestnut adds a bit of nuttiness to it that didn\u2019t really complement the earl grey. The mango sticky rice had the tase of pandan in it, which was once again a bit strange (especially given that they didn\u2019t really advertise it that way). I think they should try to stick to one flavor and really excel in the recipe before trying to throw too much else on there.",
+      "time": 1746804490,
+      "translated": false
+    },
+    {
+      "author_name": "Melody",
+      "author_url": "https://www.google.com/maps/contrib/117534917303178877809/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWPH9QHN2H_nk47udW3kJLpznqbY_KU_L0Mg93N2kPtaeCZHGJ1=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Atmosphere: 4.5/5\nGood place to study in and chat with friends. A bit spacious not too cramped. They have a QR code if you dine in, it is a bit pricey for 1 Tiramisu but it\u2019s honestly pretty good. I loved the strawberry one, the Oreo was good but not my favorite. They offer pasta too, I will try that next time to see. I briefly got to taste the blueberry yogurt and it was pretty good as well.",
+      "time": 1740537208,
+      "translated": false
+    },
+    {
+      "author_name": "Matthew Ho",
+      "author_url": "https://www.google.com/maps/contrib/109944309096907120608/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKuhZR4zIlUmumum1nbqMtve-QySmrlIBqCMh3eVCzyj0mRfg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "in the last week",
+      "text": "I've come by a few times for a sweet treat after eating nearby! I like the bright and clean interior -- always feels like a cosy place to spend time chatting and eating yummy tiramisu.\n\nMy favourite tiramisu here is the oreo mochi tiramisu. I love how well the\u00a0cookies-and-cream flavour of the oreo mixes with the original coffee/mascarpone flavours of the tiramisu. The layer of mochi, while not very prominent, does add an interesting chewiness to the cake, which is nice. Overall\u00a0really delicious and not too sweet.\n\nI've also had the magnum crispy chocolate tiramisu, which was less well-received. The flavour seemed pretty uninteresting, and execution was a bit strange -- it's really hard to eat/break the hard chocolate shell when it's on top of a soft dessert.\n\nPrice point is definitely on the high side (around $15 a slice), but probably worth an\u00a0occasional splurge (esp if you get the oreo one hehe).",
+      "time": 1750727748,
+      "translated": false
+    },
+    {
+      "author_name": "Jie Zou",
+      "author_url": "https://www.google.com/maps/contrib/111270327729699403606/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI92agKP8rJ3hFP_hTuvbjFDKqBi80DOYSFoUw3nR5W7ClgdA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Update review:\nThe owner personally reached out to apologize and offered a full refund along with a complimentary cake made exactly how I originally requested. I accepted the complimentary cake but declined the refund. I picked up the cake today and brought it home \u2014 we absolutely loved it, especially my wife! It was delicious and beautifully made \u2014 a solid 10/10. I really appreciate the effort they made to make things right. I would definitely recommend ordering cake from this place and will be ordering again in the future.\n\n____________________________________________\n\nMy wife and I have visited this place many times and tried almost all of their tiramisu variations. She's only a fan of their original tiramisu, so for her birthday, I decided to order a custom cake a month in advance\u2014original tiramisu with yuzu cream. Yes, it\u2019s an unusual combo, but it\u2019s something she loves.\n\nWhen I placed the order, they said it was no problem. However, when I went to pick up the cake on the day of her birthday, I was shocked to find they had made a matcha/pandan tiramisu with yuzu cream instead. I told them this wasn't what I ordered, but they said they believed original tiramisu with yuzu \"wouldn\u2019t taste good,\" so they made the switch without informing me.\n\nIf I had known they would change the flavor, I would\u2019ve gone elsewhere\u2014my wife doesn\u2019t like matcha or pandan at all. She took one bite and couldn\u2019t eat the rest. I was really disappointed, especially since it was meant to be a surprise for her. This was a special occasion, and I trusted them with something important. Unfortunately, they let me down.",
+      "time": 1746341888,
+      "translated": false
+    }
+  ],
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "meal_takeaway",
+    "food",
+    "establishment",
+    "store"
+  ],
+  "url": "https://maps.google.com/?cid=2921815235901741582",
+  "user_ratings_total": 170,
+  "utc_offset": -240,
+  "vicinity": "84 E 10th St 2nd FL, New York"
+}

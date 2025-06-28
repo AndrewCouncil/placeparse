@@ -1,0 +1,311 @@
+{
+  "address_components": [
+    {
+      "long_name": "113",
+      "short_name": "113",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Avenue A",
+      "short_name": "Avenue A",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10009",
+      "short_name": "10009",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">113 Avenue A</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10009</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0000",
+          "truncated": true
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ]
+  },
+  "delivery": true,
+  "dine_in": false,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Funky, colorful ice cream destination since 1974 also boasts egg creams, fries & hot dogs."
+  },
+  "formatted_address": "113 Avenue A, New York, NY 10009, USA",
+  "geometry": {
+    "location": {
+      "lat": 40.726249,
+      "lng": -73.983575
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7275498302915,
+        "lng": -73.9821722197085
+      },
+      "southwest": {
+        "lat": 40.7248518697085,
+        "lng": -73.98487018029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+  "icon_background_color": "#4B96F3",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+  "name": "Ray's Candy Store",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "open": {
+          "day": 0,
+          "time": "0000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Open 24 hours",
+      "Tuesday: Open 24 hours",
+      "Wednesday: Open 24 hours",
+      "Thursday: Open 24 hours",
+      "Friday: Open 24 hours",
+      "Saturday: Open 24 hours",
+      "Sunday: Open 24 hours"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1701,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109585710104382232793\">Ray&#39;s Candy Store</a>"
+      ],
+      "photo_reference": "ATKogpcALQUITneZNKMysnjDtGCFcKW51FIWLIiWbcbBfTm6BJXJS3fH-FzdC-33sBOlA3bOFG_ST0UqJz_eUmlbCqVD1SrVFCL9-ES7WhrX-tro87MalII8ciz0xiF88ygX5scmQy6F3IgOn2BFU22scuc-LL9xTuHqkJCFlxajvNezhB6s-p4gT1-VbMoPEkhGkKFABN2Vj-BkoIvfaqywPTIYv1pIqIQyxcEOjN4kL_MK0TNyZx4UBJqdDXp23jsrORHzUKt3SH_KKVPd5ncx0SpD5B4_IAZpfxJodp14h6ucGw",
+      "width": 3022
+    },
+    {
+      "height": 3201,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109585710104382232793\">Ray&#39;s Candy Store</a>"
+      ],
+      "photo_reference": "ATKogpdhTb7MxH2UAmLlhpbaj-lWwZudlGvUAOw70L69spT8jZ2Yps7zWqyoFbeaBEwhiGLkUFPQIKyYuZKT8_v6pueHKkNQCxlq3j8bJ5GwsVd5c_WV6qCaTBEfprD9Jy8iv87McKXS5dTrPBbXE-anqGeCPTVb74Qeogs1-lxswe-bapjYMS7Ugcm45eNldeMXxSfEOhp9NOqALCPPvDnzhbXCB5fMIXT5Nuyc29vHPyf0Ho8PTFuxdb-OONMSgXg7yTXY-9cSN4MnRJ2-24eN_WD1Z17uJxIuc0JtXZb4xwRqjA",
+      "width": 4800
+    },
+    {
+      "height": 2048,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113437131487727582412\">N Thayer</a>"
+      ],
+      "photo_reference": "ATKogpeT4uZA57T09n4jKApZjlOgzQ7pVez3vm_0fOujSghSJRTFDtBs-lmn2_hU3a5ysg6e-UrCMaIo5LxiE0hyc2b9_uUIYhKNmFUfy6EFB391v9lcMiUmQkbGWbAL6KBab03AMQVgb7rpffsJFQEUd8bUCcQqge0vWh9G-TUcgUXNPp8_3wsPzG-ersoV7eumh307LMKUyo8rH3yU8yM0ncM_dc6IUW5VxQa7GhJR3tRPKKFey6aTohEs3c58a41DLoVdB7K8wVgvzIsfzQx5PByd3xY0LNzi2g-8cXvvAtbnsPV6QztI4uqQDxVdX6C9C0obqLmv1QNDjhJxCsuTm_pttvpf_fKKQhi1diK1WegkRThubn48pa5WR1Cbmu1HfAQoJqQItQ3h2ES2orn2sy5IbJnarA5Fdd1IiXIwggGiiKrk3YeKdGj7s5M3Gw",
+      "width": 1536
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105601992699102170460\">Nic Garcia</a>"
+      ],
+      "photo_reference": "ATKogpcjM3Vig7o0SL5S7mtfMZBwvgXa7vk-rx1C7YeYz2uWiyTsFp_iwtbsIDtCBoBwzijjmTumTABgkz8gfcbVmcgUQdlTUqKEqmC3hX8BuUnBd5rX4aTD50I_JW0Q7q-B3G7N3YCnsN1o2RV1uwrCM8xlCkq3qwNpYtF7f4qwZx3qOdK9Ma5K2JwPPVnfa4-xOf_p3RjC4DcWnX-YnDdEiZhGWtjrGTeLKuIZ0uhlaPQ0ke-fSE1s3OzPpbhuIy3ykHj8IVk1CwdFGDxeK34tFLLI-iks4Kln-HQ79niU_DUyTuGgIlajFZNN3wQ-laTFU9TJzp_h6DxlKm5ZUArmwU0aXKBH-fBZlZ-5kFHLAO2TLnSwgjG4Ps7RZMcJK3tXcN1QV_cMuuueitvRMTcaj0YVKwJPpa-AsrwAVMWpTto",
+      "width": 4800
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102327688462678556443\">Najeeb Abdullah</a>"
+      ],
+      "photo_reference": "ATKogpcnVoBt2lh5aIk3j6adICqKVBJEol73UF_trWtc1WSZZfakSrKwYsreuE67ECllsKJ0bkZ4JJv5Ch6ugcQgNIvUFVY34uUW6xtDNeUKSNVO0St04aJMmKHl9jc1D3cYjBypXU-fxnPbtJZtU_Hd6bShpTrQDJoK_PE2KefR9vSFhFqHWYxjnpG258a8iXjuebiaCZbQdX0_J1tCysJQEJQnRrX5U9QMlTB_KWsRLHl4Rgxekk5yMgdeIAA-i4oTJv0gxARgeIo4GbhiCLhQeakLRzx1x0VLOtt-nFT-8TOFczRTm9kdHOiKKi43lzVuzS-lkvpkrPRwSvnH6m24J2h0ZCWldcpXdJGBNJ6msSLUhQWIk3qvv8G4yGbw9pPlqsXgR2pQUORbCnWxRgZ2zwg5eI1ObppPQjS6mQshA55LhM98",
+      "width": 4000
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103191023204011125068\">Chanwook Lee</a>"
+      ],
+      "photo_reference": "ATKogpdEMZiMIfXuZx7aAZXJnlqvIi4Fc_foHT9z2Igm3Q6YNvWC3jQ7O0Y2H8JAfsD6uGYaC-x13Pl0OSkOn-jD1h1a6MXpdwi__i1TeMWZli4kFGp3IK_DrxnU8_X092J0h5WIM8adZsHxgKILtXshUzR9mWubFQm0Y7ecg7r4Fvyfo-LEGnll7ZjGsSv_H2znJ8QT2msMSpxL91e8oRnVB6JF-3s3j2DZLKCj_OdhazGeDOAiXBpyhr7YzISaCP4wPN0wjRDrl61tmHZofAdPAeq25DWIzBc-yzn5UVaeYBA9NYOfEMMl5uAjPBmUxlIOaYyT-jejrpYdRQ-zVmiRK0XcbZMQTH8wONPTlWQHfgeOZMVXp1npM6OAxprRu3MVs-YUXQEEAmrBzsZurjgclvkgzf2TeUk4y2xctFk2cyBhx_wn",
+      "width": 4032
+    },
+    {
+      "height": 719,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104018822935741511189\">Jaded Lilly</a>"
+      ],
+      "photo_reference": "ATKogpe-1mEfn7nCzS88kte6OI7uamqnbH2ksr8MxW-o86Bwd8iTOw2yu_gwLGYsjmcusauMrkoyO6OO5W_exE4YLVx5WrVbJQC103q6zndU2fYB19miYymgYErZgpTXoqtVZ0bNroWqL2xvYcxosv7UbWQpAaZuZhHMJ-d6D-wTQBcCL38T53eHfFAfkPr7SyLo3CFTk56xj_YWlL1CPVEnQQRVC5NHdy0BkC7S2HHox491L1oUikJCVEaE3hl5UDKS2-Ga46WP0LhYzvVz4lNBoAzyG3UX5ZE1IjyZ1Y4WQzMkZC76Itp_RAheC4ZBGxMteb4FCSnamjLUdMNc3Ji7LyQu8nhxEpnTdOs9BRMIoauBvHwUbeQO1QIUUzGUL2Vs4Bl67RPy-guCcEgxTCzQxXYITTHJ3Zq5YD5On9SVEjndRzq-",
+      "width": 1080
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117554028698238751184\">Ciar\u00e1n Gaffney</a>"
+      ],
+      "photo_reference": "ATKogpeQq1eLFGv0re3RY9aBy4usR3knJlFpkAe7a1on_KtC-0Q8v1Bpm5hSIhyyrpo4pssuFIUFGtpNCI2sJill6fHXgfbR-kEa9wnEfPDZyJnQqDZX_veoSbvwGxRKdAntm9sJwdRbgpXX31TB0GNhJrvv9JjH_4zieKSLaRyhUvgXIWYCM2N5KNDFXMiBOSBPvupOpyX-4Urq9pYBEpa-ozXXcdxSg-WTU70n7pKegbrDx8h0uVlyT4L7VT6HaMS8MZ-z4clRkpR1ZrWFQhq_dgYMNHc3MNufV0MHvZdlK6_aLkGg9oCuhg5E6j1mO0uRvdYKkUnZ711WN2ezheuY9P1wVOJlWakqIv6_7n-l5saTklOIq5zVfVmE5KGdCo7o1uxBhSO0R6eqmjOAa5lbrhmgXMYMHhJYHLHV3tOhoo5ofPg",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103191023204011125068\">Chanwook Lee</a>"
+      ],
+      "photo_reference": "ATKogpd2VhNGjOq50SZzl6Kw_4TjrJiVdZ3es-2s4zCtyfsrU9tTfxr2uPIXCqdolt4H60BO2AsL74XfkJ3bVfVdZBIkTMhvRFtY6iFk7JP7EJCLr5AYkQjttgMDIN5SR0zcMNmneulQ_9Xe8nlu3Hfrvi5zHX7mq_pxkaHGkNY7pN3fQCEGxgv48EQxsHjpNI3CyWGiZrCkoRSJUUl3_EJr6VS4DJokHlLnxJuqW3_E886u3NZQ4FAlLbpuGGiAhUhxjroGgw9fjzYERCJ5VqAwkxCJSixJxN1SoZixS1kYIkxTTrNBVZk0NXxNHsDMsbYhhNkz0SpjVFCbVvKsZixf82HqacY13YZqfREgXzIVYLfBSNOcj7RzflJn1bd_otJjLqZv0EcrGJfMzXwntTQ7g5hXQGXsW-sTimkC4Ikbkewdug",
+      "width": 4032
+    },
+    {
+      "height": 1350,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109585710104382232793\">Ray&#39;s Candy Store</a>"
+      ],
+      "photo_reference": "ATKogpdPzKt6imZzEMYKb9z5ZtNwluD8TMrRJ7Nq_yruT-mnHvpvT9xIlI8k0pLqJpWV-5Dk8TXiZSZXlO-I174_Vvk08mMNS5HuMwHcEOziazFeuIGHSDEVcybEgzvq2GjOw7sUnLMfp68uWiiuk0MoNngosWkgPTF6UPFWav-EZqN0QXj2LVpq_wBMTeAt2dvF-zWztcIMHUlb-FyrevfMfVQhnOVHAiFcwmCHmHY3XXK6VSNT88RPmvHi5peAoELVH4bj6TWCmq5bO_IxkeuuAAsYfOPim3QTW6DKN8vLvAKaiw",
+      "width": 1080
+    }
+  ],
+  "place_id": "ChIJzWP0UJ1ZwokR99xSXUOZZ08",
+  "plus_code": {
+    "compound_code": "P2G8+FH New York, NY, USA",
+    "global_code": "87G8P2G8+FH"
+  },
+  "price_level": 1,
+  "rating": 4.6,
+  "reference": "ChIJzWP0UJ1ZwokR99xSXUOZZ08",
+  "reviews": [
+    {
+      "author_name": "Elena Marina",
+      "author_url": "https://www.google.com/maps/contrib/117339961962859062352/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXuiQtGkf89U0834isNL2DcF1Xqysk1QpvrIjuiGCpQBZzfjN5MMg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "i first saw this place years ago in a nyc food review on youtube and immediately saved it to my list, hoping that one day i\u2019d visit my dream city. that day finally came, so of course, i had to stop by.\n\nthere were so many things i wanted to try, and later i found out they\u2019re known for their egg creams, so now i have to go back for that. this time, i went for a classic: fried oreos, something i knew i had to try in the usa. i got the combo with oreos and beignets so i could have a bit more variety.\n\nmy order took a while, but i didn\u2019t mind, there was only one older lady making everything fresh from scratch, and that takes time. and honestly? worth the wait. the fried oreos were delicious, and the beignets were hot, fluffy, and perfectly sugary. definitely not an everyday treat, but absolutely worth trying.",
+      "time": 1743325525,
+      "translated": false
+    },
+    {
+      "author_name": "Najeeb Abdullah",
+      "author_url": "https://www.google.com/maps/contrib/102327688462678556443/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtAOFdTR-tC94LpdY8uqtJTvjLxf8RWfNtUO6CXksx4-1qezEiiQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "This doesn't look like much from the outside to be honest but it has such a cool old school vibe to it. They have a wide selection of sweet treats but also some more savory options as well. It can get overwhelming with all the pictures and signs everywhere. It can also get a little crowded since there isn't much space inside. We had some fired Oreos and they were delicious!!",
+      "time": 1739727033,
+      "translated": false
+    },
+    {
+      "author_name": "TFT",
+      "author_url": "https://www.google.com/maps/contrib/103558342244162087422/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV8qjgncf2wiN6HdwSaVBAb2g4bnHCzMqR1OpJVL16oP3dQQCue=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "We visited here for an Egg Cream (contains neither egg nor cream). Curiously, it\u2019s a frothy milk/fizzy water/syrup drink. Happy we tried it!\n\nI was served with a smile by Ray. There\u2019s a lot of history to the place- it\u2019s got its own Wikipedia page.",
+      "time": 1747957182,
+      "translated": false
+    },
+    {
+      "author_name": "Rovik Robert",
+      "author_url": "https://www.google.com/maps/contrib/103521079678024458298/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVvdIKY2FJUlc9BTk9ZWNw8YCCznXGxmE-ncjOBIdgcjAxzqgCy=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "Egg cream was delicious and sinfully good. Beignets tastes a bit overdone and weren\u2019t my favorite. Spot is an overall old school vibe.",
+      "time": 1746740051,
+      "translated": false
+    },
+    {
+      "author_name": "Alejandra Hamel",
+      "author_url": "https://www.google.com/maps/contrib/115843158427873134727/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXhYalK2KtA2CBQqEW-oEEVWkwlKj7vWRcwRgdQJMCILPJ-PUhY=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Honestly a legendary place. Fried Oreos are amazing, and a ton come in one order. \ud83d\ude0b great to grab some treats and head to the park \ud83c\udf32",
+      "time": 1748194727,
+      "translated": false
+    }
+  ],
+  "takeout": true,
+  "types": [
+    "store",
+    "establishment",
+    "food",
+    "restaurant",
+    "cafe",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=5721710366205074679",
+  "user_ratings_total": 1259,
+  "utc_offset": -240,
+  "vicinity": "113 Avenue A, New York",
+  "website": "http://www.rayscandystore.com/",
+  "wheelchair_accessible_entrance": true
+}

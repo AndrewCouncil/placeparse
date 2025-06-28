@@ -1,0 +1,449 @@
+{
+  "address_components": [
+    {
+      "long_name": "57-24",
+      "short_name": "57-24",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Roosevelt Avenue",
+      "short_name": "Roosevelt Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Woodside",
+      "short_name": "Woodside",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11377",
+      "short_name": "11377",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">57-24 Roosevelt Ave</span>, <span class=\"locality\">Woodside</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11377</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Longtime neighborhood hangout dishing up burgers & Irish-leaning pub fare like shepherd's pie."
+  },
+  "formatted_address": "57-24 Roosevelt Ave, Woodside, NY 11377, USA",
+  "formatted_phone_number": "(718) 429-9339",
+  "geometry": {
+    "location": {
+      "lat": 40.7452203,
+      "lng": -73.90681800000002
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7465933302915,
+        "lng": -73.90538976970852
+      },
+      "southwest": {
+        "lat": 40.7438953697085,
+        "lng": -73.90808773029153
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+  "international_phone_number": "+1 718-429-9339",
+  "name": "Donovan's Pub",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2300"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200911:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 315,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117472322121224279620\">Donovan&#39;s Pub</a>"
+      ],
+      "photo_reference": "ATKogpfq9jhfelMpUJml-5gdynj5kFABnQbLAJD5kEzjWKyBjfUV4TirjLR0YPhbWfPhFp5G8Qrj6oA4uWYF70Ch-ZQBHSRX9ZrrM3lMjd1A-3aY2hzkrd9HhVXHSOt4ChlzAZikpnp5nXcBdLOpRbfGthp5UVSXiFTfa3pZhW9qDBZlz0ZRJkzf7t-bXiOK-n3BH6IZVtL4RRGHryQcjA88uNUpEnOvsv5qOCauWqd7wvvrEkOAK-xqurQ8cb0YqQmjaZLhMKjYqjwdKPTaBAosEn90kqGGaIuq5E54cDAJYxEwew",
+      "width": 851
+    },
+    {
+      "height": 527,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117472322121224279620\">Donovan&#39;s Pub</a>"
+      ],
+      "photo_reference": "ATKogpfaJ_SiVzUuKrKFi0MP09kBjnfSQgo869uqU2x5w7bv1Ohoq4LGiYh4EOlqkgWzJa3nAi4pS60UIV4Y_De0MW5g4RBW2vTf8k5Iz23pLkVchflWJQeasitrAgTHCJxnhwowU67Ghsadp4WzBWopPVnUoLH4PrdnrSacQ5dr3QR6TxMjRtSeqr423T4sVciequrruE7IGfzTZiazUh1kvYxIexXdZjRUJNSwj-fMnxN8uEnZzm5sU9vmn6-dbvZr7uMxcIxrEem5p0EU4a1tKmxrKS71U2lzlW02-pSbb2a6ag",
+      "width": 900
+    },
+    {
+      "height": 2992,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109958406960573116198\">Doh Kim</a>"
+      ],
+      "photo_reference": "ATKogpdRhJB5XfJwRNNUpCx6FE6ZNJb2GA25HPbEW9aXvEutYHgqIfxndHBnxMN5CkHN_NjOYT_eY6ouGI9ItDtR_Mp-Gh-4f65Pp28NQlcbmrKq8HiNiqENU2lbgeooJ4YnRKxoP2qK25wesUBjHjKKkUOSsZ-EEA-RCjvrW8bydAl78dPnoHON_A4bM-D6WFuirRs7tec7eflZHcNay0fmGwSBw4mkYujwsCeZtV6Lxu-18XM2utPBI17Rg8r3T-VO-7mMC0cnZIpbLN_Nt-dDzlxtRPdDrzyaudxogexVlD-hOncli7mQ0vKisPRWoJDLerlbdWABAHMHSMR50pvtGR5AB5hC1ZtlPZWQWSPhDQidZwirv_4ipaiCHzj1-T57aFfNXcyC-z6oh75zWNKoCv78MtBLx9JyxpoRuIiQ5N9aBOlP",
+      "width": 2992
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101399824486469708792\">Craig Schofield</a>"
+      ],
+      "photo_reference": "ATKogpekSjmPKD6_z2WU39OO6TZJBWpMPyov5Inwd_6hSEZJ_3rYsV_etU7HUVVyJxvrbaiB8n46gNBy6BtAe8pFtLZgutPmcfQmcvWd-g3GXVmDt9391-1a-kPw6TrzZcK27PxfOmWr94swOZROQHCnOjEtt9ikZiqVkFWMxX9QY28LkmAtJMbKqhmb7h_753g6o-v8_Hoxeht1V7Em1CehAzPnZBbmkhLCpod1ZEpPoebsPTabcEW-PmiM4RERU5WDLjptgh7qRhY-aKyDYcZNd_48JY_NQH_qjM7FlDrM-E4bhej84FfGhwOmk2nkzmLjefI27t7z3lUPNF-BCOvew9h-s-Ru7SnyAKE2jTEKsW8q4M3ivUPOPDMv4EbX-yeohoH2HRrr4Bm60EJKFHvO8MgsBOF-rzrdcLjmpzn5p_a7dGWF",
+      "width": 3072
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109169632956558759596\">Andy Mcadam</a>"
+      ],
+      "photo_reference": "ATKogpflvdmzeAECTf9d5BscjlV64o0v6xxErD3a-9eXuMVs5YVm0Y-ETW45NQC69J4SfEQ97LMIT1JcLThvEmdaeApxtm-p8bHyjpLvjIR5DPgdOQAl_YZMsPzR92v1FTlqbxwYF-DdsUA0bk-hFhL0hZE1G2BFereSSvx4xL3QsOajV1SlktJrPGUskkSY4-yCgvbP-wvpWxcojSYktwlBbxzG-B3P6oIV-rLtpmP8UnR7qYCU03z8BaN_HOOSj0PmVlBcsA3y9DQt8i4yvsMxUxyMmvyDPdc7Z65rANYX1ahxB5qaoYNkkuwWrNjrfNjRtwAyVS9u4UJJArPt73s-pd3x1GhxKhunw4DynKyrzxB2XSUhpSQ810JRkZuB1HFzWHWMy0z-IaqPk8h-o1s8XGytc1uTnw0FhJAkxiHPhzhnZF7-CRU-gWJjwzHds9ll",
+      "width": 1908
+    },
+    {
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104524825235197757416\">Gary Z</a>"
+      ],
+      "photo_reference": "ATKogpdnHdFLX-6YA4Zshi1Bz7_R0zbVWd-d9I_K3WNudwbnta4y4doUzKHI7f1JrXUtCspLGh10ijVP4jSkfr17oHrrFt61FaUnmQIaVSBWQxZdGyU3MFJDcrv3RT4926a96DYtb8ZU-3VwZkORvcWDh1HJLbO_2c8zvfAZNI4RgxymmBLuXg4Ih90hsAJs1otRTt30-DKyBqBRZtmgC4MA6ShUQfq3VW_yImJqUq3ao_Lvt4dDEpMb5EMoEffDpcFq7w1j6Xphgzxq0CerOGAQa8OOuHuXWgn1WfgpnQdsbmznSEkSnjygWKCr-nccJ3DOdddKKWisPSmIfuCDiE9R1LukSGv4Oe7h2_WsfEu4mBTNmWmo97qlQvxtGMCLMSgRxNTFsMFxzndJD6MCtHJ6qzP6Cnvfb1azfgzGFoglMelwesCi",
+      "width": 4800
+    },
+    {
+      "height": 1536,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111483788926970272541\">Bill Young</a>"
+      ],
+      "photo_reference": "ATKogpeIlZ8MYhOLQHAIeIKK05gb54GAN6exaXeh-4F9xnQ0u0nzYljd8EVVpDAgzpm_n2QXUtPn4coL_X-_HiLDNJF8pvDaLHKv098Jlw6ukTHV9Xbt8po6ogBorcmeQWKb2rQ8HeP9pGdkbYd0D1aQqa6mTp5dQq8uHzSjpRitRwRsAB0TM1ngbd_1WCUf1QgDcgiwRFNoEz5H3SnmhL6Mkkj6fAuSro8kMIje4_3Git1nGAurmoYinDhkFSp-I_Urr19QGlVaoLX3WNca3591W5gBVYrLlJmLVSZl4v_Rt8bo8Tamiddvb0BNU16FC43xn9hrzt0bnLpA1eZifdblhR97GHyssfSI2FIq1Q5RQd4nDli21-glSFCbqDii_9ViqOkCh6oTUONjCobPKWYjbkTH8xmvav8s8KKaWb31VDztMQ",
+      "width": 2560
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111206718654677993905\">Raul Avila</a>"
+      ],
+      "photo_reference": "ATKogpfFdBJhL7v_VvoIDHe1bDz1WUs2eTXZch1NVAIZuminSRGOh6viJ5M8csCPsU7xRQybkxJGQEgHFT3Yxz8yvBXnRWBsDu4gpxvhIMEFMIIOeDf4ke48RfNwpbQuDGzwW5kPOghkxvi0rnhPk6nSa5HBFqe5qpkrj0Em1A_f93whoSa7vsgpaE9ATtgYgiLWqMxvvT4rcbD__LR8eSkxa7ZtC_ty_oVfz20cCV9nY6htwNQwE0Ttx0p1-ZXvJNW_5riXQ4pa20YwVztZRvWhjWyvc096PktrFlIPVcBdtB_VWDYv1ijp02WdMqr1_qtJWW66IiURW2fWJmGEnlTR-iQ4T2EGV4qpN1iUkfF_9kmfNDkX-T_8XTSxy8QyZWGpKDti3-HXS6-qpFNyhGWgtAPuV-acrCnT6kZJuzhqXnY",
+      "width": 3000
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112924311757606934120\">Shaun Liu</a>"
+      ],
+      "photo_reference": "ATKogpdpsa2Pj4RSJnzwMaKd0mbdb0i5wgn5dAZ52Lg3IM9JYoIOxzTSiSizAn7F8qC0g6MA8iOsHH_6EAPEG1dY9YSn8QTwq06EpijI5MhXv4dQcmDo_zBFAqJHVxPV19geSYNbAEKFb-GztQNxqGLafTztoGjxlbt0pxcRr_j_aLBcgQrmqdeQMY5l7zl71Y10GAboR0Pd7V1qpOAGU3cnl4qysjFZrrDUCHJNve8RfWygtJtHmYYeviS9Xyfifp6SEy27nviEG6ORzVh0VZhMqv7tQl4EPDk9uVsqhI_vapYBUUaLDAjfR5VrLVngnAFtmrvpAaSP2IAw3dj4c1Dt2Mo_tb-G1MgtKBGWkYHx4fE8BPhij3iQLwdZB61kjN0rxcuKGjQo8KXMowkZbmkIvxwGX-nKOqaZ7vhJmejL2nglDkspdLOXakpcfuusag",
+      "width": 4000
+    },
+    {
+      "height": 2144,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116509738435697885040\">Wilson Feliciano</a>"
+      ],
+      "photo_reference": "ATKogpe_5fhyKVVm6eON5aNCtSfEr-CApPIwN6UQe7LitRE9a4MPW34ffI7Z4PA6r-pxsihrFlGFVirEEJ3vHNY-0tle2rIFlA3_DHQYZH-kpRnVdwi5h-v4hrq5WdPJoa1cyiuOLpzS5ARTAG9yOc8N9Eg7raO9pFcf_nSa7HmRorlnpdJ8LBbeCDgnWkv0mtNI_WvdRbhIjdlj6NeHfXa70eG524AnikP1QHuiCediloI9YdLlYX7LP5Os3kexPJ5NfKeyKEoUtrAvR1CaAsZfiv5jc3prIrCQ-SikK48TilZjICZaEDPyPJXLmZLOMvKaII89foceoTj5a7vsXeSnA58X1irmixdQ1xlwKGtTMQpIgQeNQMEsSuLNgkyrWV-t68h9z_-TvPqWUgzAWoppzbix60Dq04f3HF3G7GPxlU4",
+      "width": 1206
+    }
+  ],
+  "place_id": "ChIJa5DECx5fwokRnuzeOoYBvbQ",
+  "plus_code": {
+    "compound_code": "P3WV+37 Woodside, Queens, NY, USA",
+    "global_code": "87G8P3WV+37"
+  },
+  "price_level": 2,
+  "rating": 4.6,
+  "reference": "ChIJa5DECx5fwokRnuzeOoYBvbQ",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Chris Castle",
+      "author_url": "https://www.google.com/maps/contrib/117240271066180577306/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKrEEHrFXsPHotmFWanJC7TvFqwHQOYvKjszVAeP0yK09n2=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "The owners are amazing very conscientious very relaxed, vibe amazing fried chicken fingers and even better grilled chicken Caesar salad. Beverages are always ice cold lots of cool events throughout the week a great place. Fish and chips are the real deal",
+      "time": 1747674685,
+      "translated": false
+    },
+    {
+      "author_name": "Amy Ngo",
+      "author_url": "https://www.google.com/maps/contrib/103385791736943872632/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUesCUl31U9sh6u0Tq4qfpjtlkTS1XRwyxDdq_eYumb6KLXEBT8QQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "HIGHLY RECOMMEND, we went on a Monday for Lunch. They had a fireplace going on in the dining area which cozied up the place, it was quiet. Mary Anne is really sweet, the food was fantastic.\nWe ordered the French onion soup, bacon cheese burger and onion rings. The burger was tender and had such a bite. The onion rings were really crunchy and had a sizable onion. And the French onion soup was a staple to warm you right up in the winter. Everything plus two soft drinks cost us $45 not including tip.",
+      "time": 1736873821,
+      "translated": false
+    },
+    {
+      "author_name": "Clint",
+      "author_url": "https://www.google.com/maps/contrib/107173833477741409891/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKhj5ZwdQRiqFhbBUl2GI-O6KfBi-YQMdoPwZjnBtz8Zf4FA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "Top spot for diner style burgers in Queens. We usually dine in or order to go every other month. The Jack Burger is my go-to, and I highly recommend it. The sheppard pie  is also great as well. Two burgers or one burger and a main are enough for two people.",
+      "time": 1748880079,
+      "translated": false
+    },
+    {
+      "author_name": "Jonathon Rubin",
+      "author_url": "https://www.google.com/maps/contrib/107069615755536542537/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJmmekfTEiDFUspW51Hzrt2SzKLiIGxbNE2KtJWubVDU-vWQg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "I only had drinks during my visit but it\u2019s an amazing pub. Their black and tan is so well balanced. Great draft selection, can\u2019t wait to come back and try what looked like some delicious food. They have live music which was a great compliment to and amazing evening",
+      "time": 1742156513,
+      "translated": false
+    },
+    {
+      "author_name": "Wilson Feliciano",
+      "author_url": "https://www.google.com/maps/contrib/116509738435697885040/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXifW6tjE4JhVn5IQSRRnKdSkIX1GtIR_-Ox3nfaC1JUifkcCI-rw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Really nice atmosphere, the staff are amazing and super friendly. The food looked super good and good portions! Definitely place to take your family and friends to for a nice evening out.",
+      "time": 1749557282,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "bar"
+  ],
+  "url": "https://maps.google.com/?cid=13023567373450275998",
+  "user_ratings_total": 1645,
+  "utc_offset": -240,
+  "vicinity": "57-24 Roosevelt Ave, Woodside",
+  "website": "http://donovansny.com/",
+  "wheelchair_accessible_entrance": true
+}

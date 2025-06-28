@@ -1,0 +1,442 @@
+{
+  "address_components": [
+    {
+      "long_name": "42-17",
+      "short_name": "42-17",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Crescent Street",
+      "short_name": "Crescent St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Long Island City",
+      "short_name": "LIC",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality_level_1",
+        "political",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11101",
+      "short_name": "11101",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">42-17 Crescent St</span>, <span class=\"locality\">Long Island City</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11101</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1600"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Tuesday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Wednesday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Thursday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Friday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Saturday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Sunday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "42-17 Crescent St, Long Island City, NY 11101, USA",
+  "formatted_phone_number": "(917) 397-7779",
+  "geometry": {
+    "location": {
+      "lat": 40.7499985,
+      "lng": -73.9410101
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7513676802915,
+        "lng": -73.9396972697085
+      },
+      "southwest": {
+        "lat": 40.7486697197085,
+        "lng": -73.94239523029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 917-397-7779",
+  "name": "Seven Scents \u4e03\u53f7\u5c0f\u4e32 | Skewers \u00b7 Beer \u00b7 Chinese BBQ",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "day": 0,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0000"
+        },
+        "open": {
+          "day": 1,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1600"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Tuesday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Wednesday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Thursday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Friday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Saturday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Sunday: 4:00\u202fPM\u2009\u2013\u200912:00\u202fAM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1382,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105260517467016926596\">Seven Scents \u4e03\u53f7\u5c0f\u4e32 | Skewers \u00b7 Beer \u00b7 Chinese BBQ</a>"
+      ],
+      "photo_reference": "ATKogpe-mumwu5CHIHfOZsuE5EAjHh08p511xrkxskq988XqdZoIq54A39b3nvx-wjDB1lqy9ksLaRPZNT3HNnIaw4wXGRLQHqTvHFPIRj78jZNDuGpZTob8IR61-grV8dRYQzHjU48pW83luGQQSqUEg6yPpiBKaqOv8ImD_NOTHZ7Cz-S4eWepDNioUrEkNtU7TzAZXKAAPtJsZFi9jSCkgsfUd1rubnJxbQb2-7X9ZhFpM0mRDuqb1sdEaM1KH4MD3WNsJ75sz1QMP3qtOX0RaGXfIivoq6JC0TQZpLKeWROvzA",
+      "width": 2090
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108523708625674010860\">Ziyue Zhang</a>"
+      ],
+      "photo_reference": "ATKogpfV1_bpFtRf1Rj4gR_kUveKgRZdWu1Y9HNvyFzeptD52TeJifI_iU70NcD2BxPG31pot9YY-Q50eeBmpebmxKuEvpEpXYcAzbD1q_rwXIwq7Cv56-0CeNXX2sgAIHKxSHITOf4R-JlzhvMvKsXX8CuSVCTVHXblox57juRvDEUJNk4NN4XJBulGr_EhVOR54yF2HFRU32PP4eS1J3TBUWz1Hf7HakPGxx6_d9CUa3lcuf1vnzFyf9fcjuoU1DzPJjJSWGEkprOoiWUZt4oy2YfiD_9EnfZiTk4yc2AHX5P1nW35PWkEAB6hrlmJHtqgChap9B3D1-A0dAS9XaGghE5t2QcMGzxrT5WSigEtXaybkXlr2nrgKaboFPZufS2OwCUfvsI1VT_HJjadJFssJp6s6Eeog7d5lfE7jpjZqgHsQtKI",
+      "width": 4800
+    },
+    {
+      "height": 948,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105260517467016926596\">Seven Scents \u4e03\u53f7\u5c0f\u4e32 | Skewers \u00b7 Beer \u00b7 Chinese BBQ</a>"
+      ],
+      "photo_reference": "ATKogpfIcz0_xBolzQMnc-vjg3IDDnQWiEgKS6GKSmn-2iHEwxxu89EEwjYcS9UeXjjVKgV8PbNB2PuOIf1vEOdfjxlEXOYuygvlqvwpj4dh7_ioRjAPr7TaNvsyrDO5IZ2IIdjJkBW4w_7bmc0THaSGaNf_qaNoUrn34_tkGY5q1DLcmoJDSLMAxZuycCFDDbzN69KZmucXoIPgADe0xPkDHnNLT4OitUJ2GePpWjpR3_o8iTfoJZ2Kk_wKQ1x2ZbgEEpUQ2Uavv7bXZ-GIDydmR5jjZQzayehGMmcjYa7qDeYhmQ",
+      "width": 1288
+    },
+    {
+      "height": 950,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105260517467016926596\">Seven Scents \u4e03\u53f7\u5c0f\u4e32 | Skewers \u00b7 Beer \u00b7 Chinese BBQ</a>"
+      ],
+      "photo_reference": "ATKogpcjEoN6S35gP8Zxd07AmIxrQhd55Z-9YQZXYCuivMu3enJDtETiUK9jjPavChnKg0xula710jdpWK-kaQZ-THzuO2f5rk3S1Nf-r6W7CFWOi0EYiIVt6cqtzCmuzafxhALHgd9IZ6RDufO9jmt19wjTapNE_nRkPDkawycXyhmD99sDz6s9id4rw06hPuEn0aF0UEBmR2UU4TVG1bIUD3BmKMxsegm60bM82aV4phZbGGrAZGDQ59XjStHi0VfHDPAMmtIn8IWLeNcxCV4eB9_vQCoGi2UJpeaHcbRGafLqtQ",
+      "width": 1308
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108523708625674010860\">Ziyue Zhang</a>"
+      ],
+      "photo_reference": "ATKogpdXNUnQOMaDBjzA5Zm1JDGp6n9vMbekgr5t6eE1Er9Z26Q0wqmL43ADst7Lqgs_wz3RLrWAZpRcA3vTraQJgZfCknMAtVibMbPTdYqBueOs_LZDeF2rJ2xzapzmwKr40qczdYOcbJQtiHfQQu8n9Ij4JkgKthsbeOHPBsAB7isyBNmelpxazs16_0oLPG0udn1Xy6RuQtQQ2SrUKeLZrC9nrcwN3WseIvjtu-74XW6MzzQALj9eeZUbAy-fG26cRVWTcCdj4Nm6Vs50ucYlWRWBdz0GvLLZSHhZZzTCsyb_9dau8jOBgwQYZ7-7-x7YRs3arVg_KYipni_e_kWo8eTy5oLPu2gJTkOYP2J6ivq7dMQ_YIw7AkpOTW0c6b3dLGIC1P2quCI8ChDirr1nHUL0CoLcgZO-t5bJDTOeg4I",
+      "width": 4800
+    },
+    {
+      "height": 1276,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104994799752198764298\">Jeffery Zhang</a>"
+      ],
+      "photo_reference": "ATKogpeHDFspzuW2WsNisbFhiD2poDK8Sjm3FI96Y1JbLmYvhEeBY7wOqHTMNIutaiHyJoOxz71YlyVNk_KnIUpnNNIF7hqtoPU7lG5LfJTWPCrkWYWJJU3R_L6b5AyF791WBk8kI08pMCGaB4RKuyaRDP2QpOnrZ0XVr_xJb3bQyN75bBk79gC1my23TeWU-GvQ1xsuObyDuiNl81cEDb8WFl8zI5f10i4l_7isFwbGHhB6h1TeCMeRNpX6SjLqmYwXam3agq1sCPhEpNPFiIjumY1-FuSDQ785GY1uYVShWUJRqFdDt8ta1OMI2EP7NV9w8akG8iNGxRjIppKwHaSMUkwtE2XHFdVjdZ8gagZN0GSC2Vy6ZdQv69k8w7mcv3XJlPewbKvOpcNZIKEKAqxh0cWHkmQr0whdDaHkc93nhZ9L5z0Q",
+      "width": 1276
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117830893913159099429\">Y L</a>"
+      ],
+      "photo_reference": "ATKogperJ6JjjOTbniQtTjyC_Qnp3NsIUqY3KYRhZC0E1It-0H1zkm84oVPyopZjo1-dh757BTS2V8FWsSb7mn8uCrzDF1wuseKAJ9yrv6x3rGhuk93j7Imf5NfTIC6-KRFUHmfkH5E4t36DhXVCnHQTSeg95cKByTpmwPOldJmXvK6T8LRu4w2znV34Fa_hj8o4JUVJJY0zacaDJecA53E4fnyd82UHiwML7J2vHX8wDuvPQqxG7xSP3Qvs8I1VNjQk8O87Dc5uKhW2ybo9oT75HVoRVxUVSqLIct_SGdCewe7_vofJFFHq6dtq1uDfUpH1nS31QWV0rcirHYH0GzPCLzpwU4NxioIenK7TgN7b6jhTw1_oLvOakYFVoaAVPbEFW_GjOTj7Y9ifBsX6u3HagXOEZerWeMMUYJMwGkguH80R9oHx",
+      "width": 3024
+    },
+    {
+      "height": 1276,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104994799752198764298\">Jeffery Zhang</a>"
+      ],
+      "photo_reference": "ATKogpdEuWjus_2-sJD6TsTl7AlnjO3m4fWfBp9ClGvkiCaWPLE82qkfshfTEMRipJJuq9k_Gbt5PFXBhL0ugxAu-SOmvSzhQ0DzQd819buGID4itd8BLcEJ_5JstbvbFDxGc3fu1fCEPnVNWYs0kDRd79Mkoii17gWNWkN30qBefP4zkqOgs8ywVaJ6i-HDKG8gF-2qOXeT3RnpvXNSjAup-icQFn90j4ubK6CE2m4oWsEYFYsmiCb0uGUdwy4PiBskpcqLh4oSrvfCid2GGwWT4NWqJwSbsP3pUGigL-eZF3DPBrDzS9CsODD5PQADyWUB4RQO9kwuSX_q4hzP6PuOV_0owCGAUWWewQcZA3651vQIvsdozuDNssgokhqjs1HTGzbEhLTlMNHRjWeFcYFnx5MicC0OrXdESVfGea-82mx-gA",
+      "width": 1276
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100923043884430714860\">William Xu</a>"
+      ],
+      "photo_reference": "ATKogpfEpeqyCqTvSUNt8twzYoO3A-YaHjoZDP8QlqgxeazCNZw7fUeX71i1SABGxBg0JrfSbjeij4Hurw7miFkM0fjRfFWIMSGY8odEpRHVBHQ6QgWkLsvuZ4-4ZNAbUlrlIJrriuIM-2XwCX1lPZF8dk8ftXqImu5lOofhX_a2TQnDKuicYT2p0I9Nib2aY_nkDgF0T38tMdOM26H9iuRRi4jgqV2rM5ndTyNcPzENgVp4IJHxmdhjtsU1uk9KM-7X59HRBPdhc6Nzce5CUv9479nJjkU9t-ZQrA37paHNM8iA9p5dJr_8bEinBSN7Ic1qsiZISNYIZLlOmfQwqc5UghLg4ADeQMb_b0ayFkF7Wb6dd8UbFmz-S-fHZYgiskGTWO__ftPhXAqXfmA78CLFoatnN4AvgnKTn--oj5MroKZ6JaY",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108973857613919846704\">Clare Zhou</a>"
+      ],
+      "photo_reference": "ATKogpezlrknnZyztC8Hw3-tk0eSMo9mXW2VY0-CKRMLz5a9IEsVs0CwnV1JUNH7S1BM_sPMmmimivUyNUevHrPdzXsCiH-_woyBEPLqErWcE4jzDUOad2JBxH0cM3mQKlKHMjt0_xiyvUwcGPpOvFqtzkrKC1TXTmuLnkmS4TlkEBy1Y9R0R7LqT6mmvcjaD6jsHB4yXoiArpHE8nEBT32UV4ubaMf2XhuZEhPgrvULHgDT2rYxEnz9bYobmzwet5HCKrca-9WZ4ZK1mKfEz2oDPps8Vyon3JXJKj7F6ZbnA0bASvDj6IqEnQbTyLYz1UBz2wwCVYSC-RdLwvrsws92aDaXL6yD2_o2JbgsG7Qii1eluf8zQvMmArfsP7Vx7XAveuEoHcA1ql4kfXRkX5jFVIBW_i62PUE7OwmNymaZr-9EmlNW",
+      "width": 3600
+    }
+  ],
+  "place_id": "ChIJf2cZcgBZwokRpB2AdSkpwjM",
+  "plus_code": {
+    "compound_code": "P3X5+XH Long Island City, Queens, NY, USA",
+    "global_code": "87G8P3X5+XH"
+  },
+  "rating": 4.5,
+  "reference": "ChIJf2cZcgBZwokRpB2AdSkpwjM",
+  "reviews": [
+    {
+      "author_name": "Matthew Ho",
+      "author_url": "https://www.google.com/maps/contrib/109944309096907120608/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKuhZR4zIlUmumum1nbqMtve-QySmrlIBqCMh3eVCzyj0mRfg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "in the last week",
+      "text": "I came by with 3 friends recently to this newly-opened restaurant that specializes in skewers. We came on a Saturday evening around 6:30, and there were still a handful of tables available, but filled up while we were eating. (When we got there they asked us if we had reservations, but I don't see anywhere to make reservations online; so you might have to call to make one?)\n\nThey have a pretty big menu of various spicy dishes (many of which did seem yummy!), but we decided to only try the skewers :) Price point is a tad high - around $2 per skewer on average (before tax/tip), but overall they were quite yummy. Our favourites were the grilled beef (fat & lean) \u725b\u8089\u5c0f\u4e32(\u80a5\u7626) and the grilled black pepper beef skewers \u9ed1\u6912\u725b\u8089\u4e32. Both were quite nicely seasoned with cumin, pepper, etc. and the beef was well cooked to a tender softness.\n\nWe also tried a few other options - beef tendons were fine but tended to taste a bit too oily, and the chicken cartilage had a nice flavour but texture was hard to chew. When we ordered, we were told that they didn't have any of the pork options available that evening (maybe growing pains with supply chain and what not).\n\nIt's pretty interesting that they bring the skewers to you without a plate or anything (once you have a tray/plate on your table).\n\nAlso, I think the ventilation in the restaurant\u00a0is pretty lacking. Especially further away from the exit, you could smell and even see there was a lot of smokiness in the air (from the skewer grills).\n\nAll in all, a pretty decent meal at a good price. I'm keen to come back to try some of their non-skewer dishes in the future !",
+      "time": 1750564321,
+      "translated": false
+    },
+    {
+      "author_name": "Dustin Irwin",
+      "author_url": "https://www.google.com/maps/contrib/112240270314164905877/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKmKCToty6dQYlZdUJHHRyny2xUbwUarfVkD5Txo4kE_iuffQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "in the last week",
+      "text": "Food was incredible - so much better than I expected based on my first impression of the space and atmosphere. And the food is most important! I was put off by the plastic table and thin, disposable, plastic plates/bowls, the loud pop music, and the echo-y, austere interior. So I expected the worst but was pleasantly surprised when the food arrived.\n\nWe had the dry fried green beans, chilled lettuce tips, and a selection of skewers, and thoroughly enjoyed it. The skewers are loaded with the smokiness and flavor of real charcoal and seasoned perfectly. Overall very reminiscent of what you\u2019ll get in China.\n\nThe chicken wings were very well done, which I prefer, though my wife did not and insisted is not the standard for Chinese BBQ.\n\nWith a shared side of rice and a beer. It came to about $90 with tax and tip. Not cheap but also not outrageous.\n\nThis is not a place to spend time. Service is responsive and to the point, no frills. Efficiency is the game. Sit, eat, get out. We\u2019ll likely order take out in the future.",
+      "time": 1750596314,
+      "translated": false
+    },
+    {
+      "author_name": "Jeffery Zhang",
+      "author_url": "https://www.google.com/maps/contrib/104994799752198764298/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUL_aW6PIqLln_hEkpsYDBmWH7EpXJ1CoxRHpHsJ5pUB84qUICS=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "This place is so good! Seven Scents has everything I love \u2014 juicy, flavorful skewers, ice-cold beer, and that unbeatable Chinese BBQ vibe. The grilled meats were perfectly seasoned and tender, and the side dishes? Super tasty and comforting \u2014 just like a late-night meal back home.\nAlso, don\u2019t miss the spicy crawfish \u2014 messy, spicy, and totally worth it. Everything was fresh and full of flavor.\nThe vibe is chill, the service is friendly, and it\u2019s a great place to hang out with friends. Prices are fair for the quality and portion size. Definitely adding this to my regular rotation!",
+      "time": 1748518415,
+      "translated": false
+    },
+    {
+      "author_name": "Y L",
+      "author_url": "https://www.google.com/maps/contrib/117830893913159099429/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJRvT5pAcDnxnYNN0FS5qbxWz60AuQ-TWJNTAa5NQZQAgblA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "My friends and I had dinner here last night, and we were seriously impressed! We ordered the grilled beef skewers with peppers \u2014 perfectly grilled, juicy, and packed with flavor. Everything we tried was fantastic and full of flavor. We will definitely come back.",
+      "time": 1749475828,
+      "translated": false
+    },
+    {
+      "author_name": "fair zack",
+      "author_url": "https://www.google.com/maps/contrib/115954402421282100271/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJwjsSQHInlgXLb6SPdSMGEpKk818NBuru2r0amhWUix5cR2g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Tried this new skewer spot during their soft opening and really enjoyed it! The atmosphere is simple but clean and comfortable. Love the beef/lamb skewers, and chicken wings were great too. The eggplant is a must try if you are a garlic lover. They also have a lot of beer options, which go great with the skewers. If you are not into beer like me, grabbing a kale boost tea from Heytea makes a perfect combo!",
+      "time": 1747617278,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_dinner": true,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3729588699457920420",
+  "user_ratings_total": 106,
+  "utc_offset": -240,
+  "vicinity": "42-17 Crescent St, Long Island City",
+  "website": "https://www.sevenscentsny.com/"
+}

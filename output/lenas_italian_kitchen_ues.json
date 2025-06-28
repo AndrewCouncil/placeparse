@@ -1,0 +1,428 @@
+{
+  "address_components": [
+    {
+      "long_name": "1167",
+      "short_name": "1167",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "2nd Avenue",
+      "short_name": "2nd Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10065",
+      "short_name": "10065",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "8242",
+      "short_name": "8242",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">1167 2nd Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10065-8242</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: Closed",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "1167 2nd Ave, New York, NY 10065, USA",
+  "formatted_phone_number": "(212) 725-5362",
+  "geometry": {
+    "location": {
+      "lat": 40.7622682,
+      "lng": -73.9635187
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7635596802915,
+        "lng": -73.9620199197085
+      },
+      "southwest": {
+        "lat": 40.7608617197085,
+        "lng": -73.9647178802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-725-5362",
+  "name": "Lena's Italian Kitchen (UES)",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: Closed",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1491,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115876692235386178329\">Mr. Luis</a>"
+      ],
+      "photo_reference": "ATKogpdy3DKwI5fCmj-Li1RszvToWMWyeRusI2ASviM_TrRwFjMKjk0ln0N1vh9HDWnPiqJoCcdSYNDLA0U2J60GIe2iNLDspMV-SqTwVzKT1K9gPpUgpL1sGdMmy_L3AcDqDty1G1hsQPmFZM6dV_20FsZ8ctMylnp9SZ9mkTTNfnh2cwshG_utyqxiH3wofuTVdyLi7lSwlRNywYICesI8RU28J9oHmak_mYDwFDeaX-lNqlH-oG827OdSJMCJRHu4b8Qh2wYZymEZ4bSW146sPISHPOdAsaRRl7NpQAEbzggrs41qNnF9-62WNtIn6HcPwC1dT41-9F-BcUCL3IbuDNY6_t6i_LRSQD7nEAaVy76v2dh2qBqDZffE2naT-j2zAarVQeJMWsBYjdPV7P2wDqL-YiGPywHc-ztkdQ0AY1538g",
+      "width": 1170
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115102307186632409206\">Torben Mauch</a>"
+      ],
+      "photo_reference": "ATKogpeLquv3yL5skhMpSuMtKqZ0GLP38Ibi0ztZ898hN992N65Hyb02OhuqDocTIWoRKMztODCuOzXo8OFQMwIE1Ajcl9K9uI08GGUa4iD244sLEYMEQhSS3Qtup6IpDxWCyzgrexBpcUzuhA5McWzJk-FyOmlbtbhtXYvGJ8fLLHWupcZ4ydWcUHnhv6-PuCbIckKG04iL7fry1P7uxdIOVBtNN0spwB0CRbTGaTnF3QMCzCBo_RxdjZCfTckjRomwyZqkH-cMqjPToyof1zHqHUHxEe2oLNziSM2nU9xUeoNtrqcT24HEBngRI9f2kdcd1e9X10T7dH0u1qfk9kmhyEFUmiLUYFKopw4PJDgsL63WSb7Gv75_oszmRekSCVoQER21dxTxOGd-8z_jFWQ8oe_gDW18G3rqNDuZRrkGvy3HOAexRekIhFL4OjyGiOs6",
+      "width": 3024
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100812837031968659155\">Rique L</a>"
+      ],
+      "photo_reference": "ATKogpdhhPaxiVNrlJQjzgPUFgmRIR0oJXdsQDv2rz1NeYGBHDuI74oa17XJx03Vw0GizBwAbKbJDhWgdA7ndeKec6wWglXsqMbCG9TdO-TdRq5QTQmpLcnmQerUOW3ib1LwP-YZ3ZkPo3CD4Up-BmSQsrHY9jfZIO-li7rJML74bBRJVTi-Lx72pdxLaa81MPTokqNM4q3LvO5R8i8DFHrcPUorwGtCseONC8LQXd8L2f1vGnlA0r09R7r2pJAYTaWFvV7jTN_KBP0BYJeWwjIbgY00g_8WEgTK0JGS0_gbu5tZSg4n-yEUMmMmD9SxtKMnDp70Kt02oJgbInl4lhZw-lwJIDteT4rkqHWBxUUVuQP7ciKrTxPdHhse_NQEYgysomX-RaZvqqv_PqYKs49huw5xteadV5IpAVt6363ksyEsdA",
+      "width": 3707
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115586087480935326568\">Lena P</a>"
+      ],
+      "photo_reference": "ATKogpfvd4ZUeDZ3kE6secIgGu_7LsCAylMnCnQrmFSMLiC2rzdie8HGDB2Xq6-gMsJ43W-ftTQj1Yj1ZMeg2_XlqNPMAHofm84t9THfkMcB0Ig4MgJp6XJs8ZYHb96GBAd6Q3WqHq7e-E2xHt9gjIbgfm8oofNB1wOn1MvjNA-HYLrbIviBzxuWKNTMoD6AC111nr5_l03HyBw_E9wLUjTA6vybRqvTwVdilpo5oACp_Q-4vvi5JodHSFbpqCEh03CUf29jx_F15gH36p2HIJKTMO-WZMvn2DQdq3ORDuz4AyJ1eK_T9YgQYPUrGKJVpBMTD-y8ww5ycP_PvV9GAv1VLUMp3FGng5RhCg6Rig_jVtGEfNPYeswzczolZcKyrK8zo8Ykfr5Y3VHGTINM7hKhQoy_oxDyBUCyDFyKBAlyuU4WJYI",
+      "width": 4032
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110401389518134487066\">PUMPA DOUR</a>"
+      ],
+      "photo_reference": "ATKogpc0ABqUjLdFvYCq8tcKIT6Xjwke1bZpcWXLdSNB_37fJsufO7R8LoriUnzSnArjVuXNFihlQ8LTmCnxPBd0lioD_LvDh-TOdItukSAUFJ9LDb6VDwWfEpvCZzoYAQ24ecFoGvRQhyH1xJmPtOoTRlsf__pHA2RE5NRo8feVbNbD6aNmngZ8CVhzEMKdqpXA2U9g0z4LigrVz548amWxXU6rao7HU_DEMaclQpMRKt6jcF88HoQyoFqaR2S_w_SfOFxsfObxlmjqFO0_tQqOkFshv1Z4YS8WIsz3jSF6Zew8snfhvqW9I2w722FM0fGYgF4eE39ETScSDFm33Gc5FEDEnl-qxeJTB_Tpke_Ox6O5HwkbmUMCh3W4Q4Kx1sRGMbGesCrrgrWUTosha0kge1iI10BcOIZsUp3xOtDqOUYo6rHwByOwQpX60n52fQ",
+      "width": 3252
+    },
+    {
+      "height": 2943,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114101821025756345097\">Jonathan Cung</a>"
+      ],
+      "photo_reference": "ATKogpcK1fXSAq6ypz3FhYlxs-M28W1RTZu9FF1TyakLaQHLmNTR-zuz7svp4a66IHBcdfwGGHHNsUGAbyrWbtOdVV3k-6p-FBqk4NGgaUhZBZJuuXrTtpWh7qcJXadracDm6JT7iUCacYy7pUG2VyqQwx0rjWazyRkdk0QzC-Onjv6S9uVqGQy7CCpRkWMkas6j6usxIZWQObZ5Z-_KoNE_GXxNsfrnUVpuT-1zQjG3mimY2rxoecCwoyZpeAfznW18pItgvU0_d1ZCgPXBj65p4YPghZ2KUSLvK5MscckIOFdjg0Cp64qUwtFIuVgkIk3f2kL39I-zJQbCWagCrKsDnV6wnoeVDH8zp2LDKWEK9SdQ3yE-aTQRCsfrs1omTtCBxqJq2pSzRzl6Jw-EyUXWleshjolGcaUJz-lcG0UzTuy9NO-9",
+      "width": 2779
+    },
+    {
+      "height": 1460,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115876692235386178329\">Mr. Luis</a>"
+      ],
+      "photo_reference": "ATKogpcAhxDvYEeFHZLY-_CzQXwkmcQq4gtziX2jYtWEg8c8t8TE4LTKRqqR-_TtT0Pkrm1o97B-yx4tT9rEgQ7LRbuwBZNp2bY_kq67rSYdTsmyrlxrsFL7M57cyExsHzYS1emgB8bmkgoowD0UuuZkp-rKFZ3zPJSBVPG98Coj2YunXLoLv1sAUDqeFKcbThilbIZJMgGwosjRftjQdzB2u9pD0LwW1Xc5kyu38eMHHzLqpklFo_M-nWfObi07w5-qkpDFSHPGBw1X_Nij55soSW4RoA5k2MQZvDrkZJzpZUJ79-q-kKxjopxjbRp0VfIAda93nD5PzO8LJ_fTIwF3BgLGuIxz_fEbZyNSrj7pv6s_0hf8eTsv0gjAAAoWoOnfDCKDsbUBRU6HuOlL5WmT3l53stJk62qNhhvJqjE5y4AGJzI",
+      "width": 1170
+    },
+    {
+      "height": 1455,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115876692235386178329\">Mr. Luis</a>"
+      ],
+      "photo_reference": "ATKogpfWBNIPbi5h-MiGt4mHlbL3g7We4f6qvEr1yMbV-J0bMo1wGPiIgvm05hzeXPjD_CmPCZyKsuxkTFEGX7leg2NZQPfCZ4EasG4nfyw1EbJJida_WO8gPfsz7GxCyd2oKpQPzqr-FzhcT94AVaO8dKjl1RV-gGqQ_mED4X_ShmGTRpfidE5bLVNi_CKdwR2H8aUWjELAdVJ9vtO2GiGUrdYotQBqqEYGLs-2jwannLHgN9pvUq9rXCDfEutmkJe0v78VO38tIfgZlzR4HFMDqM0TA5E70Dg3JTntGCXaLCbsgCxK_AB90TBqiZX5d_6gcyR7UYtfqxZPQ4ZiYHeH_Hn60gW3VAevj095XqcYVp04Q6Tx5MvvxrqdZPdXwFfDPSuyJ3BvAOB7kIlMGkVl3uJ8-nQnirsmBHJYBM8d4444XtE",
+      "width": 1170
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116567074490173189908\">Pho</a>"
+      ],
+      "photo_reference": "ATKogpcfC8ZDuvSic-JS8qrl_e7E8o6BbTp9Q_0jqFtQ8JR0vIs2UqJ91jF1YavR5pMx1Jnz98Xy9kcmyXoZAqsUIeHjq6zYgD339NF9MTjYb1ozBMjhOs_jPYlqG_un0yUCJtEWj4dQE5XK2_4c04tMU4njjZQ6uUKmxgviIhon8Onn0YM2MQwqwYqPBou22IKRr2cWCd3N8wtlw6ASLC1YGN5zDdu1msETrv1xZgO3KfKophDd6oxSPLcjk2m9yQcYyvqPWdAcd9yVOECYTuUCulUuY1TR7vPC-c24ZRLMBt0vSWtIb75H8qDwkpN6mRKotCG0I2YtAHXDFtc7rjslAEjmJJXJthjJmyOidnGwvddtC6KcCcZ-gs01XGpfc6_yoKCfctHleUpI58U5R5qpw70eOP4bdMCkNyvwjfd_Kbd4xQ",
+      "width": 3024
+    },
+    {
+      "height": 1465,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115876692235386178329\">Mr. Luis</a>"
+      ],
+      "photo_reference": "ATKogpcwXzcM9BoXE1_j2xSTedt_fgKZWjcNxx5YFeD9r_Qz3aB5AEAIRLJPiAkO1N-btqx1OWU7769FVBccUik6LHTemGFr1Nlbf-79PkCVfxy3QvRSsiX4htN4vZU0C2M7lXpIyqxsTH3APzBFt_0WsO06z1u6ZWmfZcuqNUkMLwK60gRi6hcN5bB8zqDiq7nJFpnJUJxGsllmZOG2OILvkDZsq8mq_ecJLmg3SOtO-D0gmwI27iA6-9nc2-dbavywqVW6YGwiCIlT2aU_j9avvqonFIcTjhaKZ76-c-jQkaOrJBloYsVVNNZoXlD76MqBfaP9idtdGCsL4xXQpTxXmYAAGI6EN1ntfKEnhYzlYUUMjqwkv1Bax0Zh9M12RM60XDneqBW4svpoEsG2CxISuv9UkLArVJoDxZjp20tk60Y",
+      "width": 1170
+    }
+  ],
+  "place_id": "ChIJBTSGOAdZwokRQriZNbOP4u4",
+  "plus_code": {
+    "compound_code": "Q26P+WH New York, NY, USA",
+    "global_code": "87G8Q26P+WH"
+  },
+  "price_level": 2,
+  "rating": 4.4,
+  "reference": "ChIJBTSGOAdZwokRQriZNbOP4u4",
+  "reviews": [
+    {
+      "author_name": "Pho",
+      "author_url": "https://www.google.com/maps/contrib/116567074490173189908/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIE-vBEC0v0MXvtP_lRw0nvsp9NbwvZk_6V5qY8h-jyk8YFEQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Very delicious pasta. Large portions and decently priced. The pasta is always perfectly cooked and creamy; have been here multiple times. There is no seating or dining in, you must order to-go. Would recommend ordering from here.",
+      "time": 1747747280,
+      "translated": false
+    },
+    {
+      "author_name": "Mr. Luis",
+      "author_url": "https://www.google.com/maps/contrib/115876692235386178329/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjHaW6kP_uSCK2x6lr0stG6hH_6fuJFquZquCSbSfJyitrgLYZVQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "One of the best pastas I\u2019ve ever tasted! And I\u2019ve been to Italy!\n\nSo Friendly and so great that you don\u2019t have to go to a pretentious Italian restaurant to get quality food.\n\nLove you guys",
+      "time": 1686314907,
+      "translated": false
+    },
+    {
+      "author_name": "Bee G",
+      "author_url": "https://www.google.com/maps/contrib/100228155513626594349/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXj_x7ARt5fy8FQURzkmezHRf4v6oEqx360yoTyzKzk2YqRAFBq=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "Great solid food. Most importantly, it\u2019s consistent. You won\u2019t get a bad meal one day and a good one another day. They have their sauces down, perfectly seasoned and cooked to achieve that velvety texture. I love how the dishes are customizable. For example, I was able to remove prosciutto from my sauce in the options. I don\u2019t eat pork so this was huge for me! Lena has great people working in the kitchen, and I\u2019ve never physically been here (I order out), but I can tell it\u2019s made with love. If I\u2019m ever in the mood for pasta, I know I can get it from here and it\u2019ll be good, so thank you!!",
+      "time": 1730538270,
+      "translated": false
+    },
+    {
+      "author_name": "Queeny Qiu",
+      "author_url": "https://www.google.com/maps/contrib/104343149372906207690/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVuIrG96PYZmmMOL6eolayz2BJ6jmzxO6T1TyVxHDfCE7rtTotQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Delicious Italian food that\u2019s casual and quick service. The menu provided a good number of options and portions were very generous (for reference, we couldn\u2019t finish one pasta dish each). Prices were higher than we thought but very worth it at the end. Highly recommend anyone looking for a quick dinner or lunch!",
+      "time": 1693368828,
+      "translated": false
+    },
+    {
+      "author_name": "Lena P",
+      "author_url": "https://www.google.com/maps/contrib/115586087480935326568/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUKeylTDfKWYfLSx4aeVziEYCy7fQEKilfWUo_9Q3IpV0Y0zbRz=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "I decided to try this restaurant because I love Italian food and it's named after \"me\" haha \ud83d\ude04 jk. It was delicious, I will order again and I do recommend. The only thing that I don't really like is that in order to place a direct order through their website you must create an account and provide all your information. Check out as guest should be an option.",
+      "time": 1677390375,
+      "translated": false
+    }
+  ],
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "meal_delivery",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17213478725624641602",
+  "user_ratings_total": 107,
+  "utc_offset": -240,
+  "vicinity": "1167 2nd Ave, New York",
+  "website": "https://www.lenasitaliankitchen.com/",
+  "wheelchair_accessible_entrance": true
+}

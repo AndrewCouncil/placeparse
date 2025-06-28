@@ -1,0 +1,441 @@
+{
+  "address_components": [
+    {
+      "long_name": "1073",
+      "short_name": "1073",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "6th Avenue",
+      "short_name": "6th Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality_level_1",
+        "political",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10018",
+      "short_name": "10018",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">1073 6th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10018</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1930"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20097:30\u202fPM"
+    ]
+  },
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Japan-based global retailer offering a wide assortment of titles in Japanese & local languages."
+  },
+  "formatted_address": "1073 6th Ave, New York, NY 10018, USA",
+  "formatted_phone_number": "(212) 869-1700",
+  "geometry": {
+    "location": {
+      "lat": 40.754107,
+      "lng": -73.9849938
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7553985302915,
+        "lng": -73.98350501970849
+      },
+      "southwest": {
+        "lat": 40.7527005697085,
+        "lng": -73.98620298029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+  "icon_background_color": "#4B96F3",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+  "international_phone_number": "+1 212-869-1700",
+  "name": "Kinokuniya New York",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1930"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20097:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4160,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115894055166888103990\">Hank 03</a>"
+      ],
+      "photo_reference": "ATKogpezlfGL0rQGaBb7gfOYqbTeqwyHd4KT8eMKiVyaG-ZQeVY-NI9S1aS8vuv0i-OP7soCaKQeXjllNz4jNf6mHTlBsndm1PwbWmWMcycv57q99ahzZIVvrqMYvOuSGRWHW7OqD0u86uY75sMZ_moan7nr6tdhRcDN_EMcUSu1QNS49oTha_OKibdpLv-FZz6X3__wzsAV7lYF3HYupXkiI-A3fp1Uod5c6X4U41PeBgmrXiXnce4uAMkBzY_8CXBkQ0RYwZTEE7jLpXfBkzZTTJvTfHbpittthqEZbjMIbC28fNZB5H0pezsuFXRZm-GmsrGB2YNZCnYjq7xRg3HCUvT3ZYlh_q_Szgtb9NfT0jFjQ2c8nVNvi5BufzPAUxLmxuhk2m31uI3-zhU-tXT7GpLpwtEr4tuMktJFVCboSEfJLTWu",
+      "width": 3120
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117900867913871679486\">Ricciardo Mino</a>"
+      ],
+      "photo_reference": "ATKogpcaa0v7H1IgxmnMSw3ama8Lhmw7oFBELZkk6HYJ9RV8yzu5vuTKKlYegdKUCU_nF3FVjt_SMZyvLYFlq-7I0ECQNhlWQPE_qjMe2F2YEJeKsQ_jU6SIthnUCbODUurswfrGohbbPeyLq4lRZfCL5kH5mVPhXBLlrodf0ydJS065ooR4NPTy9Dlq9IlC0oXSSyVO9PrhhgsZjuy98gmykIadvGHIcO4uHaQIDfwhCT5j1fjjwZE1vg92anJSlQTRZkBkjck_sMLjBB8fDaHW4iRcAOWG4_yFeDAahYUDGJNbpdw1hbc4_HZ2nDLqDjLGW-OtltvewI5JJQeNExEN6xAXe8_cnCCLG-WuTfKuXYbjnHKh0Pqah9oDh4QVLPT1jss5sx0E5hdOWNnY4dD8B3Sr9eFicJXMuF8j2X9uqg0",
+      "width": 4032
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107821815236197059478\">sinan erel</a>"
+      ],
+      "photo_reference": "ATKogpeTo65XeILatrRTnW0C8Axj235RrhXGHwRpPWH_XjFOk79Au5yA9Cul65-keYTMyNzC9fus6YwS7YIOM1m_tcT5j0Io-p72CSZnVt2iU9R8eX5EfWeMutG_VVQm_VuKaiaYkk8ULbbBpjmqDz12ylq1TNkdYMR4DOdsSgwj175cyYF9CawAqsbpvHyR3jhb-8y9w21nTsvEM0PtX1X4JsA0l0zfbsRgAylh76bfoyWjpRVOWSdldw5sCnpfVQPeimEmNslcmLMm8CJagmAjcafpC2b2Uk2_cJ9I9_cVFip3hO9VCIiuTZWj0Ou4IPDf3OIPKuGHeQvPedPxKRgLCbMEAm6ATFGahSytZJeJ9Ta_oh-HevUi1ySBzVwiyfZmRER_QP0KTWnGx96NB1nxgL-_ZFZPYs13-shtyarGB3VpH3yC",
+      "width": 4000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103350370081814552287\">K</a>"
+      ],
+      "photo_reference": "ATKogpfLFQfOkXNgN90MNxbQ2wNns5eyD8G49LMf4LN_LETqMWmz-Y17eWB6JEErmFQUASiYnpwdc3c_rn55WvdVw_rlY3vSUZhOIU4XBPmKJPz46wCfhjkHJQ8ugFp4uK_d26RYvtGaKe0QyuRuRyVJa8OZyBwpfJAfK6hGw3Smun3k64XjjJ91ljkb1o14AkS_PSrPo2P_EBAdx-ALKexFBJqkrGBEoL8bPTTNuFjE7SM7ZfjE5L2mYGVatjrvgZmF57X60fNjZGg_LMv7oIx2ziLKGEqBBp1U0dC2VKddz1YPCSPv4DRpl0dfl6MwBrfsKR2ZPgyrWmneShdxs4c86Za4Mbo5QUyplcIuMrP9n2K-zvOHHs6Thk8zvbS0ziXU8s0lgldJVm8VeiZTCy_KXHP9V5Y8AMJ3_V44NbBdnRRU_hDU",
+      "width": 3024
+    },
+    {
+      "height": 2592,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111073023813680220503\">Max V</a>"
+      ],
+      "photo_reference": "ATKogpfK3W-hS1u88dekskYyQ-q4PmSGmG0rbevD_u3jOJBHVpf_zlcCDlOFUmLhFezRIMh0D61DLyvnT2JR9G5elaGsHRlLerNOjaNQT5uGdYE5k1dNHi623MKQNRIq1npb9dfs1wXc6Z_ddgiGBPPvKGeVK07EkJudiRLMVt6cnG2RImFuseh7T6-sGMY0i7Fyx2Q4pPY69DVfbgZvN4os4alJUF26nWouOLzRzy-veg5a2L74u6NNPW5ftuaLVded2az4qVP9K2RCePch2enEuMtJtzJVnojLsgCUkyuujPiDUzZUqvpmDzHTm_EgzT4_0_Bc2Ne8tNfg3G5fg81aHnpYQVa2sJSRpDt9z5zeugBzCjhfHp5-v-aedz2kEM79RkGdh1jFIt2uLJ38w5OaW5MnqZNe4yRsGfMgsBGCREj9XnOg",
+      "width": 4608
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107821815236197059478\">sinan erel</a>"
+      ],
+      "photo_reference": "ATKogpdWAMT8V2ML2vEPTQbDElHkUQCwGrlTozoH6PoCeMw3lcD8SUPyyDFN0m22TzimN3AFnSLhfRONg2Ff9oSCttDwmpR2QjMS0T2y8W12Ukm22FZK6LSulApcG4CtGCHgrdfD1UWbl9YUwyevRM55lazxbUTw0VStZyiZFZe9W_wQEknbxRV4evQih-OfDS0OkbU6WqZnQP0kwPB3mzXkwanKW5qShMtjVEJzhHHcEGt-GaOtNWEFGSCqGjWytotNBDd0A9t0okL30istfaPXJPz0MlhScLwJQVJeAtjTwRN3Cn0jZxsVhSHV796XlLMhgozy55bEFrQv5UIMU4NmsIHAJ865UgCe1OPHfZq71j7K5t1WSo6O_x9YpsJ4C4t5DctWP6MKWTVZ44R_J8XXCn-xs0nd8hLi-xwFK-zacbgkRro",
+      "width": 4000
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117900867913871679486\">Ricciardo Mino</a>"
+      ],
+      "photo_reference": "ATKogpeRpK9VNFwVCNU27L2nr-y6eGJ8Tug_-bsUua2le3UOcPjugJz0aFoz95oLYPZFEcv68krH7o-uLCdehMWjlDs8NwZpSiMq2nTwnypksKunwRomg6rpjA10p7x1ctyLsNkhgTtA_XXYgTvWdNbCbe7hOZiDnwT_jMJdiQYdEVZZMMi4GAgQWl3w0ibdq6I1EFPcfk-oxP9neAAss50vFRdz-Yr391mwutkxfFjEOBX_G8VrRrsbni3X_QED4NBtxrBqpUfUNHIwCqt7ao-pxs0F8mHDAGZY8NVhx8p3IYVVrwVZWFfh3ahec3k2ZvQ9k6D1wxaA_uK-xGsmujsH52LYmZgvPT_Y8l-OLLCozcx9tpH7ke913s20XBNLoFRg5srqC422xqQczncw19pdspLgwtMyz-n5d-JsPo5HtSYNuxk",
+      "width": 4032
+    },
+    {
+      "height": 4624,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112951617891984648738\">Yong H. Wu</a>"
+      ],
+      "photo_reference": "ATKogpfJYIXRUE1SAVr8TAQym_qxyVkXlHbgvnrvcD-fWAK2MQPGAb1BzqOqvB6oq-gsVyk-mdoKRYBpC_d35zD7MNobort73T5EfLvLm0vgv6OkDyOoPepvRuu2gGhv4LEYtjKo-5a6phx7DfyLtZg26E6WkOASjl2ybyJiCPeI6Nev_VxSWSMH5WlQBb2vv684l5p8ZsunbWyclEXumOTNLu0BENbGE1S_sGWGyD4mjFmE9Mvam6iXFoFFXs0P3IKdE5d2ZBi5bWenodUSgiybzHeJg0RMHr-b99Mw5u50Pd69OIUBZN0ASEWbsA9y4Cb3YivG27Aw_i6RGAQHXYWJeEwsPk1bjXt0U7YIh85QVt6atsgdMoBMVDcRnc1JOs-Ar9lQ5w-8UFcGMlMbPawxbxrw2gNqWAOR_bCuq6MfxwePz1Dg",
+      "width": 3472
+    },
+    {
+      "height": 2992,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113908929146461863344\">Fred Alluso</a>"
+      ],
+      "photo_reference": "ATKogpda168cFp8WspfqPsemeYwicnspcK4OaB56BYgvSlFF887fOHzLYMoW4Ejwt7rXzES9xR4iO5GQU6THVX-5p5XaVBQNijOyxq-yZnvhkO6FisCI8wilEDGQjokYanvWxnmQBuCmi5nMGrDpdMFEHGAw_UDhtFVeWM8IN2g_-LpBY6OGRbZV5P_0a8uZ3UqLf0UTvZM073X5RtF9fSl8tE434U5ESBV6r-QPGbxJyM1DnSaS1TtpztpoEz228VfIceU27dESpKGS943lQFf7r3h4fsFquCQWdCdQM0MOUC4iA0NXflOj4gHInj6F_vVBqXhLrHE9hAZPjrMaVAeksshMUqxZxml_rJGi81qomPylpNLU0XeF2GX1uVCwsDyT2KeN4CWo43FzIsA1EIYpykDWsPr0IN0Lrqxk7zzK-1Dd3bY8",
+      "width": 2992
+    },
+    {
+      "height": 2250,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104117852618581422748\">Adrian GARIS</a>"
+      ],
+      "photo_reference": "ATKogpc4mYfi8TB5DkfR-Zt5Y3pZBsbD_cCvMUvQxicyeUfqTdIzLFPnxousfor5pSrLCa_4yKlu6KJCJGKwC6bzAjfEt56u_FYWgRnv6huFYtbXrp-WuNUT0OQQiQ7CfSe4JdagswHSwG70kD3fZ5rIJuN3jwXALU90Srn4dOAqVwRgbGmFpB2xvrZL81yr3G5QSqnqYNDRJKciQL0UncWBupgvBGiOKxEgRTPV2WaWidXauM2whgTPFq3zkPXKR-80OpWpjdd9UrbGGzcHAZBFbFwf3TVpmA87PN-QV4kHTl5z8sA-UI3Ony3rP3AfLKpyJb6UAnLQXa9mddukCbif5pj26RPsbHQCNG7Eb3PZf0hIizqWehSDbutu7RfKTUZ9TesQ6sNQ8oLteV9PsF0qiJKjQYn47X-0SjMzPcL7qfe9PMmv",
+      "width": 4000
+    }
+  ],
+  "place_id": "ChIJn0BhwP5YwokRTZw5De7Ti20",
+  "plus_code": {
+    "compound_code": "Q238+J2 New York, NY, USA",
+    "global_code": "87G8Q238+J2"
+  },
+  "rating": 4.7,
+  "reference": "ChIJn0BhwP5YwokRTZw5De7Ti20",
+  "reviews": [
+    {
+      "author_name": "Chanti Entertainments",
+      "author_url": "https://www.google.com/maps/contrib/113215413304441175429/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUrfd5ltXwmSbwyU_L8qArmFUYFzuofkmVxByDAym3OMTax67Ds=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Kinokuniya New York is a book lover\u2019s dream and a haven for fans of Japanese culture in the heart of Midtown! Located across from Bryant Park, this multi-level bookstore spans 24,000 square feet, offering an extensive collection of English and Japanese books, manga, and graphic novels. The second floor is a paradise for anime fans, with thousands of manga titles, Studio Ghibli merchandise (think Totoro plushies!), and collectibles like art books and figurines. The first floor focuses on English-language fiction, non-fiction, and magazines, while the basement houses stationery, from washi tape to elegant pens, and unique gifts. Caf\u00e9 Zaiya on the second floor serves delicious Japanese treats like onigiri, bento boxes, and matcha lattes, perfect for a quick break. Open daily (10 a.m.\u20138 p.m.), the store is ADA-accessible with elevators, and the staff is friendly, often helping navigate the vast selection. Prices are reasonable, though manga can add up for collectors! The store hosts events like author signings and manga workshops, adding to its vibrant community feel. Easily reached via the B/D/F/M subway (42nd St-Bryant Park), it\u2019s a short walk from Times Square. Whether you\u2019re a manga enthusiast, a stationery nerd, or just browsing, Kinokuniya\u2019s unique offerings and welcoming atmosphere make it a spot you\u2019ll want to revisit! \ud83d\udcda\ud83c\udf59",
+      "time": 1748146608,
+      "translated": false
+    },
+    {
+      "author_name": "Noor Al Ghafri",
+      "author_url": "https://www.google.com/maps/contrib/115520559554852033498/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUfZCYU1YrGWYhZ1BWcIPbJaPKn_0Wipy-T1_I2I1-VTBHhzpq1=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "Manga and Anime figures and merchandise are in the basement. The place was really cool with so much stuff I\u2019m interested in however I barely found Vocaloid and Project Sekai related stuff, there were some stuff related to Miku but that\u2019s it. I bought 5 mangas though and a Smiski. Really cool place.",
+      "time": 1745226251,
+      "translated": false
+    },
+    {
+      "author_name": "Howard Hamilton",
+      "author_url": "https://www.google.com/maps/contrib/109093948654629181715/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUBQQi7VuQE4AVYRX-b54QmDJVHJNP42HL7Iafw_dRCiS-5fUc=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "I have to be honest, I don't know much about anime. My son is the one that really enjoys it. This place is enormous. He said it has so much that he has never seen before. If you are looking for anime, start here. You've got three levels. Don't ask me who the drawing is on the wall. I don't have a clue but my son sure did.",
+      "time": 1749909115,
+      "translated": false
+    },
+    {
+      "author_name": "Kerry-Ann",
+      "author_url": "https://www.google.com/maps/contrib/102598090168380224663/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqU8DqRsaCruTq7wTJ1baort97UzmJoEqzIm5YC1qnDJS6IHqF=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "I love going here!\nI get all my notebooks, refill paper, and folders here. The quality of the paper is excellent.\nEasy to get to on my commute. It\u2019s around the corner from the subway stop.\nThey have a great selection of other stationary\u2026",
+      "time": 1747261943,
+      "translated": false
+    },
+    {
+      "author_name": "Carolina R. Fuenmayor",
+      "author_url": "https://www.google.com/maps/contrib/103715245843290012991/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVEytocSL18iHezTkOZuY9nH6Z8p_F56WvGa173JCazuWE2tRWZ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Amazing bookstore, there\u2019s also a lot of very interesting things and curious gifts. In the second floor is all manga and anime related, awesome figures and pretty much every new manga release! There\u2019s a coffee shop also in the second floor, but it opens at 11 am lol",
+      "time": 1746709379,
+      "translated": false
+    }
+  ],
+  "types": [
+    "establishment",
+    "store",
+    "book_store",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=7893635791274482765",
+  "user_ratings_total": 8724,
+  "utc_offset": -240,
+  "vicinity": "1073 6th Ave, New York",
+  "website": "https://usa.kinokuniya.com/",
+  "wheelchair_accessible_entrance": true
+}

@@ -1,0 +1,396 @@
+{
+  "address_components": [
+    {
+      "long_name": "22-25",
+      "short_name": "22-25",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Jackson Avenue",
+      "short_name": "Jackson Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Long Island City",
+      "short_name": "LIC",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11101",
+      "short_name": "11101",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">22-25 Jackson Ave</span>, <span class=\"locality\">Queens</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11101</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1800"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u20096:00\u202fPM",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: 12:00\u2009\u2013\u20096:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u20096:00\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20096:00\u202fPM"
+    ]
+  },
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Museum of Modern Art-run venue for experimental & contemporary art & events, set in an old school."
+  },
+  "formatted_address": "22-25 Jackson Ave, Queens, NY 11101, USA",
+  "formatted_phone_number": "(718) 784-2086",
+  "geometry": {
+    "location": {
+      "lat": 40.7456014,
+      "lng": -73.947097
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7469075802915,
+        "lng": -73.94558621970849
+      },
+      "southwest": {
+        "lat": 40.7442096197085,
+        "lng": -73.9482841802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+  "icon_background_color": "#13B5C7",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+  "international_phone_number": "+1 718-784-2086",
+  "name": "MoMA PS1",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1800"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1800"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1800"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1800"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1800"
+        },
+        "open": {
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u20096:00\u202fPM",
+      "Tuesday: Closed",
+      "Wednesday: Closed",
+      "Thursday: 12:00\u2009\u2013\u20096:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u20096:00\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20096:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20096:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 630,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112346715141440937089\">iczz Sahatsapas</a>"
+      ],
+      "photo_reference": "ATKogpcOL0sogIggMdvnR9wViUgHsCqx3Ai4EuUCfUA949N6rjknweD7SsRK4WNdz1yarH0sD1gVvmEdqWodCQSER38jdXoowZ-MTbQ6vi_E9D3FRwcgpPRNX_15WOof9xedAVk_3jRTgaP7gb_DA1MdYRNhSmPG-jKQvCeH3EbrAKfkYffpeRFMnAqAAdM2FxmFYvBNsSbZHNcjdYr4QaJIKZYe7XIta1bql9h9XVpRS8sexq_tOH6qV0oa_-g7WNYCk_-QBOtBlOATsR-I50YUXC6cX-t90XsZc_msNOk8rCbMTr6fG_5Gne54oUCg4XywB3N38mvkMMOFrqj9DEiKqeGunQhGjoKCi_DFeeO-VvVC7OJphboWN7KZ_fehhNvaWK9cvnUJdQxddeoX8oEKSAaXQ5B4Cp2SZs3MKQLaSOg",
+      "width": 960
+    },
+    {
+      "height": 3202,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114473082725839262685\">Cherry C</a>"
+      ],
+      "photo_reference": "ATKogpcfEk9ue9jQps6WcfeG0f2vd9HHeNEz4xCaTxG17NKbcpSr55OWW_wAxHHI8wN_uVcH9XOYIBxhzj0TE4xUUIxxsGsFXduzPQf9L2AvDz2ysT4ph6iVhkc3vMJGoDoIwiD1pPpEyydyGhrUCKNn0DSd-7tW6EDR_4iiIlWVObOYoWw1wLnltm6Nhnwvs_1h6MMgOb_T2dSzuCK6-gWt9Oz8m27FcMNiwM1U4tKq9_hTZ8LmTVzlBbfzzHhCJFEWAkVT0zJWseRwgUDtHFcScbuAYM74Wb0Jtp9MyUIkZJpNl0tyB62ePF1TGUy_vjiBXNAkrHrg1jUi2x1s30p-2gXUl6KNp2OHL9qBO-n5BLhC37gRmQ6-JCOE3LNS0GL7CJtep9yN4v4szCG6DXdlT6aetmZPS3EniMZbvLq-67eURKDR",
+      "width": 4800
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107290960774984113305\">Jason Yip</a>"
+      ],
+      "photo_reference": "ATKogpe5fWw0hN4uznfnzTbpuFvau2GqFwf8WoiqRasUgXJlMsN00tSi2i6zKhw1AicssZ6Qyac5fYSv2sILBmuREefNyJUpR9VL1K9gspJy-MW4BXNMue1-cZUVx4ia82JMQs1eoSD1baJojAapiOS9Qd19Ub2avsrvmQxsYHwyr0WBXhJ4i1810eL_sFsEQqF-vFS45qpK0Z3BXTQwZ7xn9A-0hsj-DddM8nVluYIJp36trZQRvu1V_BR7tXk0rgfZRqjR8t99ONSnDyQHyh6lDWNgcMqsvpTqSHA30geTwl6ud1IEFD3R0da_gEfW8tKPujm4wc1tgNH74LjwPHD1oSO-1HMoxloNgqqIEBaQMiE0JazTEoMJKJr-Rqv-L6gwTopvxAW8ZZiUKGQqxCcBjQ6iAw2VnBv0rpBxKhYggVM2W7T8bEHk8u4Xx48u5g",
+      "width": 4032
+    },
+    {
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110825862252408901042\">Alex blain-cruz</a>"
+      ],
+      "photo_reference": "ATKogpcG3LMd8F28bHqTTnlgA_8w-p5xcZFSgM1gn7kqkVJRVMbNJ3o3DHqJfRu6I42ugVITWHy1gDyGHB_v_ge5NbMFqrryQ4UluLDf_99QorEi-aarANRm0-eWJiSdFxexrIvwoMw3CZ7AYG__cYyzDSV1y3E6O7y50aL1dfheH_wPzG5zdG_rk9phmoYR0lD6E9eH9QYsh54e1inyOVo0uogNb9k2fDlsutc-_rQssLnQyK-xzlYsU-6IjLwY14za2jBs0yNBMPsNfzzdInm14W0S1kFRUWdWxxRC8UhYpMpHLyaXtpopjF4-JsAUTvdT2Kd8XNnQk0XaYpHiwJJbMWqpcktVT0I6KGcUPvsaRlALnSH4RyX-5LyD7-xzPnBL2AhqnYHocTEO3frSgiwaHzl8t4AHJXXFpu3kDZd42CoXyQ",
+      "width": 4000
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "Photos are copyrighted by their owners"
+      ],
+      "photo_reference": "ATKogpf_LEQgoR4w4RPRcQ68Heh7n-WONKNZ783DCPZodBhOCBTuAL5gi1_puRi1xRZJ_FBmsDqDXh1YB_EzNQh4P1TkpICvFwAXoysYfahtD5ZjwDQeT72X2YGtkF0kbA7pIwKoQq6ixjf6RwkzawVMqRus6jO1DC3xLfg6uCyZ5NmbdOduDrJiZUYCY9u2HVCDaj0Phou13jylu5TBnzCk4G02V84CJeaF5UdkpOe3ItwifFNTsZHP7diqBnPt9LTJtZGQkEGf85SSFZ7pl0als4tfR3fDUXMXan-8lgd2pbv-m8P7f0htqcoeSFWRYW6mK7RVkNwqk9qP4zHtFFw3oD0AZzl29HRTJSE8OnDsyU7a0nCXe2jgSaDcTCEzY6qCyG8I7T4jL8JC1ZZLAaPJg62JciU3B3s1YBk3_jUjw3dPf78",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102578436208508260264\">J G</a>"
+      ],
+      "photo_reference": "ATKogpc5npkb0g3B5UxF7ZutoYgyV6Gt24voy1K6z4nOIRepLOGQapHdcAyzFoGcgbIlEbn0En2kEEdUK5AvkAoe3wg6pHC6AoYvUa7x9g4ZQg3D0Vll_6SNsUIWE_A9pOrhHh4baW857i8Gh3x1L-pX0J0omRrZPkYxReML5aJZHkF0Om-WmmyrAIprWbqjHhqcZZoSozMfmqdfc5C1pA1ulxBnD_qVpmWlkNNtOrUktaD4f9pEX6EpX29QenoM1Qv8ZpPdTIi4tDoh95SBfyHPyUxYPLJ1KB_j1bYzswJNvxF2z_pMBrIkVZsXjgYwM9K4wfsBTs3eHbeRU1AE6PcxkzYclzKr-t2yu9e22Ab7tUfDl6QV6V-_N35jNl5GwM31bpisamkdyLBBAFO_pWOzn_hFJgJicmasM0AC04v1iojycyk",
+      "width": 4032
+    },
+    {
+      "height": 3096,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109430807411173314397\">Raymond Ellis</a>"
+      ],
+      "photo_reference": "ATKogpdid9Y9TB-gjX1xQHy1ztBnBPNvBBou9O6YlgycxdPITNVw2b5pcF_CiZ2WXuYz1HguvUj4sgTLPwWVGk1XV4HMtg8Iiw62dWADEYXXo9QUeZ80JVCjuSDKLY9e2gwGTpDtsrUKJD4aMGzUs5idv6iXVsXHQmM68Ne8Nf7lgoH12rBx-InCmywWhnH9N3dToWDW23bvP7bT9iQ-t1u6r8UzftrvV6xNExOl0a_tzynn3gkl57xM4X4Qoz39ZgXf7SgGkLpyI1AV61fDxUJsRkloH--tj5Be3AG93TaCNDl0Qb_ZFlkviCvKQgEq1UEyxtwi99thAFlpgjafSa9_MoqrbXbcOBw20Q9OmlkktndetGbAalnsJDn5UGvJjDUbwAzlwGeeh3f5ptbfQSSvreASf4-fUeEYa4J_EILFTR6E6F8Q",
+      "width": 4128
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108585025234485852384\">David Herszenson</a>"
+      ],
+      "photo_reference": "ATKogpf1xac-I1xDp793m6AglXDmmGgNAno_svRrPxrwZTg3yk86GLjPUbLCGUAD9FXMoAZ_-sHEOkFRc4xZuespdFMfzpt4RXYkL_X96AJHQ0CZQBIn7qL9eQB4folAtHkcOiFbuFFa9nLfWP_hOcWzfzAk_4S-ntKVEBx2Ib-fPnEPUpQrXoCMtQyXE8yTMZoZqrtpXAPp4Y9Sn-2Ru-eHtv7wq4BxzdewJFym27AwWVGyIMaxAxEw7j8BuE2l2cUQjHHOVsG5Jf9sE6WLUdqwUuBR9bzFfhgsaDGSiwABL5sONjuVBXliTM9KmZ8m9Fpn9rjC1SIldw5dZkuDjO5B2xE55nPKzLqT0SyBupk8sxp3pKN2BiJ6Df32pBYTwyU8zKCMQ8S5K2fqw7WykRCulfFKD3fvjfhhSPP2QmkPuLaA9rc",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117939073875147775394\">Alexander Davis</a>"
+      ],
+      "photo_reference": "ATKogpdcBlpB-ikVvJP1bRysGlcAasQycgkfNxlPFpDv-1DNs0Y2seCmiOhBBTBcvM7uO3yjQScZRtP7BvTH3cmNVbmsshYlcabm39Naq-E3h4xrCaZUtdTCe_lsQb9G3WnPPyIt2sVfnWxx8bb_woBdNmTdvC5raWiXY5n2oPgnLFacrGmK-uAlJIs-8Y1AkOXu_aOLBIDGlH9EFBQ38_VUGJbPSFPneUw0LgM_SYYjXm7KzCH8njpOLqIW24eoPppAtU0eVJ6Fb65WQjAZcngkEZk08H_XoQ7K4ihzZuysnN635hZp0j1wL2bSK_roQ5WWxACG9puS7Pw-yk-DJ0SwduNLHmBCYaVOo62JJXxT1QiZVHXKvOdfL5KPIiIEUE5iZLj7ck5ZAGbFqxDXFHlgtmTCOYgtnFc_zuBa58Cpwm8h6Qc",
+      "width": 4032
+    },
+    {
+      "height": 3599,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104903097121761548339\">Peter Kuang</a>"
+      ],
+      "photo_reference": "ATKogpcFEIvCRAJn1NKSzGr964YvENGAr4FPGlto8ZPEUQ1Bfdbm_MURL-peP593zqLdLetEc5nYYi9EYBhbIX3G8qJOtd7eQr5t3--HL6yOze24GdVLAdnbBXPTOlJo2W-uAktPafXpip8e5t7GQm0n76nJszvkwRxUUzbsmSJOqJU4V_7NaeI8cCKcNy4HRCFk1mgWzUev5Bbb7n0rHl6YpHGJfWq5ZREfI_aJX-KsCilUmSus2RXbrqGXcoi8V6qxI9CDmI60IqQMeEJwjxLpTskG1w_-3MIy_Ph9mvieh8okU1X2srqy9n_yfyCKLvPj6BSL2HljLS_wBq0mVOUYo3ZoGtn_tPixgHtvo3kxWV_IeIjm-O7KZ1Sspt_hhZzYFCpbo-wMefwgOAW3NhYtK8nUDP3yqSTDAK3Gir8AUh6L9cMh",
+      "width": 4800
+    }
+  ],
+  "place_id": "ChIJwfbFiiNZwokRN8hnF940DbY",
+  "plus_code": {
+    "compound_code": "P3W3+65 New York, NY, USA",
+    "global_code": "87G8P3W3+65"
+  },
+  "rating": 4.4,
+  "reference": "ChIJwfbFiiNZwokRN8hnF940DbY",
+  "reviews": [
+    {
+      "author_name": "Craig Mussman",
+      "author_url": "https://www.google.com/maps/contrib/100876205882354887548/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXA0JKFMenmO89El_oM1JQNymljbX0t2C7_wqpm-fWT1UfBKrNU=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "I\u2019ve been visiting MoMA PS1 for years and appreciate their commitment to showcasing a wide range of artists and perspectives. That said, there is usually at least one exhibit that feels justified with academic art speak. Still, I always find something that resonates with me. The building, a rustic old public school, is a gem among the surrounding luxury skyscrapers. I especially enjoy sitting in the room with the open ceiling, part of Meeting by James Turrell. The subjective nature of the work is part of the experience, and I always enjoy visiting. It is also free for New Yorkers and accessible with a stroller.",
+      "time": 1745602312,
+      "translated": false
+    },
+    {
+      "author_name": "Jan Ezer Dominguez",
+      "author_url": "https://www.google.com/maps/contrib/115997875488480712013/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW47lhabgysuy5noMT174B8xdQbdghoT3LtalYrl2qiJTi7pmTWSg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "I truly am inspired to pursue my passions as an artist after every time I visit MOMA PS1!\n\nThe exhibits are always interesting, intimate, and so well crafted. Walking through the exhibits definitely give a great experience to the guest without overwhelming with too many articles to look at.\n\nHighly recommend this museum for casual museum dates!",
+      "time": 1742787059,
+      "translated": false
+    },
+    {
+      "author_name": "Pauu!",
+      "author_url": "https://www.google.com/maps/contrib/117550619938880951404/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUyPmFacCK3EOCoWWjg9fBUW1UMe_T6WrI6csPmeVufSO539yZP=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "4 weeks ago",
+      "text": "We arrived a bit late so everything was kind of closing we tried and see some exhibitions and I found the short films truly beautiful, I think they gave a really strong message and made me feel a lot of emotions. We could completely see much more because a lot of the exhibitions were close but overall it was very nice.",
+      "time": 1748570628,
+      "translated": false
+    },
+    {
+      "author_name": "Mich\u00e8le Saint Michel",
+      "author_url": "https://www.google.com/maps/contrib/118151863118631366077/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVVLO6NGkSdfEOMR6Mcwh3HS2mC7mSCNHZxCGNo4sbnzxhzQF_c=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "At MoMA PS1, I saw Love is the Drug by fellow filmmaker Liz Roberts. A film that moves like memory\u2014urgent, dissolving, held together by breath and beat. It played in a room that seemed to have been waiting for it, light flickering across concrete like the past trying to speak.\n\nThe gallery spaces were vast and strange\u2014corridors folding into themselves, monitors half-hidden like secrets, projectors humming softly in the dark. You had to go looking. And in the act of looking, something in you opened. That felt right.\n\nThe library was a kind of pause. Stillness among the screens. Shelves filled with titles I didn\u2019t know I\u2019d been missing. I stayed longer than I meant to, touching spines, reading fragments. It felt like being offered a new kind of silence.\n\nYou don\u2019t often see moving image work honored this way\u2014in space, in scale, in trust. But here, it was given room. And I left with that room inside me.",
+      "time": 1746589708,
+      "translated": false
+    },
+    {
+      "author_name": "Ellen Levitt",
+      "author_url": "https://www.google.com/maps/contrib/117259460848282822655/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXDZxL53ZHWJBzAc_OP2GX2UJ2PgCfq-rQLdxuxACPKhJu0-MchcQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Although the exhibitions vary from amazing to okay, I always enjoy visiting here. It's special partly because it's hiuawd in an old public school. The staff are pleasant and the layout is good. My family and I have come here many times over the years, all the way from southern Brooklyn.",
+      "time": 1746726832,
+      "translated": false
+    }
+  ],
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "museum",
+    "tourist_attraction"
+  ],
+  "url": "https://maps.google.com/?cid=13118199418080184375",
+  "user_ratings_total": 3088,
+  "utc_offset": -240,
+  "vicinity": "22-25 Jackson Ave, Queens",
+  "website": "https://www.momaps1.org/",
+  "wheelchair_accessible_entrance": true
+}

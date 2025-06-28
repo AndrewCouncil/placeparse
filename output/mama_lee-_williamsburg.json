@@ -1,0 +1,261 @@
+{
+  "address_components": [
+    {
+      "long_name": "66",
+      "short_name": "66",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Grand Street",
+      "short_name": "Grand St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Williamsburg",
+      "short_name": "Williamsburg",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11249",
+      "short_name": "11249",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">66 Grand St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11249</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "CLOSED_TEMPORARILY",
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "66 Grand St, Brooklyn, NY 11249, USA",
+  "formatted_phone_number": "(718) 683-9820",
+  "geometry": {
+    "location": {
+      "lat": 40.715611,
+      "lng": -73.9649431
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7170759302915,
+        "lng": -73.96353516970849
+      },
+      "southwest": {
+        "lat": 40.7143779697085,
+        "lng": -73.9662331302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-683-9820",
+  "name": "Mama Lee - Williamsburg",
+  "permanently_closed": true,
+  "photos": [
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103926882455406314974\">Mimi El Alam</a>"
+      ],
+      "photo_reference": "ATKogpd7WztWQGBIUZbaW5C6Y7--yHrdn_N5r5ZNFfN3UOChZPBnoP7THWAlnNJrG8gj8tDXQWr9H0edeWIKijHbsmTaOGZYb4BQpqxT6KxUJ8nDSZWvHVa3dr7x-kcYw3iWXU6WeB139DcV3LRirmu5tecxBLJopGius-PKVz-tpJ6Ruiq-igmJNG-kZ6afxOCgeMY_DeM3NjLQX0bbkBM4ZMPMce26Ym8pwdv4gcb62_VGojpT-l_fim6CopQXI8GwluDbdxPwizopGIhFek07YAHZ1PgCw8IOijXbaj5xbueD8Lj3jVRq8osBGx_vkANUuWdJHprMI9tQT5ooH5vtTKMLy1Vo9E9pwzUVw1JA3g0vHsfA8QSNGcurkVMICmF_faF3mjcWTwhKA-p4A5nXfdNBf3lZkBGGnoeSjMkx8yLwSA",
+      "width": 3600
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102797636503975145227\">Chun Lee</a>"
+      ],
+      "photo_reference": "ATKogpcp13tt5fVXnNQAm08h0YGaju25M-v3IxfEpQSM2VCCjbskNzSt73UADY9TrCsFssE3jYi0CCzg1STyC8RD9xhUH-xVVGwbikAb-TSiUvvFbsjfSE7ih-H7t1LgoKBxzHW5rlIhfgHSrrpKKIARxWqPmjJfL62I4bARqchWiGIxxqbHbMx_l2KT8XwGeiSwo5B9l2oVp7dhUZiM0tA-aj6QZhV-bNGs-Fg1CVu0wKteaMV4Fkwitac8zvA7ayLl0Yl7LuIZ0B2cdK4NKdosGhglLYM5DsKjifA-caqpX9bkwN2US_rdxPc_lQ-ETdvmX4wPBUonuUPPGasibpEKtEycK0LhQXgBbH-DdMlCZSDSzDbLxghRh4AQOjbCW1WtTYstwSHACEOpQvMOuUOdTUh5F_6flJh1UauS5JCp9xZExh8x",
+      "width": 4032
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113645317679734594554\">Candace Kao</a>"
+      ],
+      "photo_reference": "ATKogpd0yIaaQnBTJu6TFXOk-szb-M5Lf0RJIS_wnYRUUbbIxMbP15QeeIf_daIU3Hiuy1-iEn98_0EMxDEa5lSaLUzg599MFRmNLqQd5jYWPNGWB9FMIZPahn8zAFymgcbnm8UqdDoYx_KFF6qXsOoqjXtBXf3lp_5MUkMZzNsd-PS3tUnDjFcLHmhSTd7VqAUt-EO7U-kHIIIFdBy7w_6T2kIJ-GmFXhoyRfcEVk_ZFnYwxkg0mnc56hf76JnUe_t6AcXsAyLlhyJrO6SzcliZhSdK6xFAMzvWOWWLrRhF8glGuRobmuWXQ8OrtykY34HatyEC1EAijcc4bGEp2yIja_CKKTympznMMkzLl1JB-TrXxt6jwAsDRHYg9jhpPaUHYB7W8wv1RhpwLOcMf6QedniUujglIJolD-0MOmxPU-Gw6mDX",
+      "width": 3600
+    },
+    {
+      "height": 1536,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109548507404318298700\">Earl Lee</a>"
+      ],
+      "photo_reference": "ATKogpcJ_3_RbQ0YE32RrVy7bAoTG5-EuHKmmc55xJNAk2oVqtDCxgbaIclRHBQZ1i7x4pnAOT1tFs0JH3HIUaVzSjyyaGfm4kVqlUJiV4b6W4RB1XqJNumUX6j3ijiE5HuR8ilKxRI4-cy50qnNCmTDgHSu-bawZ8ZA083_zjs5Wlwte-4KW5mPJaDxAgxrq0URLcrHGyuZbB0wlrAunMG6J30vQ4m4-HSJlVmpkN8pyaEk1HVXdayyJftV-XeJfh3uyJ0y5MMbLJYUwveO78YM9qZcQG0Bf3BD6ekLUjZLLhwoJZGss2F1zB0-YRSi9XHQbU4h0hd-bgxa3y5xG06_5Jd7_NG7HfoA0Ol1E2rpILiojsK6j_uchIm6ajLne5Bz_kg_pY1Rc1tyZuDv7M49sAqMIVZacaX7EUs6Z6TE8qF2-w",
+      "width": 2048
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103926882455406314974\">Mimi El Alam</a>"
+      ],
+      "photo_reference": "ATKogpeLut_2yTQ6sKX8_KUiew9AMkgCkdd-VnzwMXYdNfcApNKiRKW9eleekOAV-kG-pwc_fG9GD9jaDaUqY54594iP8ChVmSjKUpcGc92IbtJy77k5G1w4Mrhh73PmHSq9iaSNqQuZmAX7_DVxPh1gjW4zOAtwmaKMDeTXuwjSEqrlPj0G2ahtd1aditWQyZnkdGteZX-Ig-ot7RUKP2HAGL-vRqeP_vY2UTjywFVs1pbXXX0_HX8ThQ55ZyJHXJ3JM32fzxFAurfXyhIiFnpaHE3TUB24ko7UPZCZ65dJM1KgemgfZC3H-DX_zJeXRzy_66XA12JrIpXsU1PzsEkSz2IFWbAgD_ftg7qwSmMsRE45b_K63UH8XPCq3-z0GXRviE3vkhoLTZaUfF0yz7QeqaAalrk45z_45rDOr4mcsP3WVPJ4",
+      "width": 3600
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113342321305073076463\">Valerie Wong</a>"
+      ],
+      "photo_reference": "ATKogpfhPChn7l_9jkLe6ftCjLpXbXfUEx5dsQpTx4Hq1Y10EOXyo8qS4aY10rSvcub7VgzyIfUBh_fZ1ZkIhuzGuKYfaq7QHOpuCYW-iRKWClYPJNAtZ-WbZroEFPYvdxlbklWxHN6ofcbY9AN0uLHQAmaAf-04cwGqg2VmclNJmeNTccG3Zg4xPpt-DOqscHByXWhBiJ3nk1FTPT-MNz9IrU-9HK43sylJXAHcbeRyQfmC3RA2V9ZRbIf9CT5yKWoFmFmUkqgYuHDOPKx8u_5WgNYi6wiWhtosc2lO6JczLlL3vGeQ59dp23pfo2beBoBV8_znIf5K4HQiiEym3BPzKI4XLEGQnp9KOGs1PMaG0PVLmtaoBy2fj-9WnZakpdVFhnhRKy4UzS_bxJeCXWLvZldviNbJsD_Q5ZVQFZz_xwN25g",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106332854276042470515\">Natalie Zheng</a>"
+      ],
+      "photo_reference": "ATKogpcZUhZr5U87grPup1IA7GasDv0kFP0XdYA5tGNQ4sYXnYT_R2ORH3iLk9YqtkRKPC39yvJ6H8kojy1Uhj1OUT2HtrM0n9h51bcJyVwVLQ-ZoFLT1e-UuyGDBSUag_AG6-kA9UXbw4FKeY-Ljctplvf2FX3apj6sznTgZ161zZtbKBm9T3dqiSTjMs3ViRsJrZW8taYmtCeTsdEbRL4kLWiS9nLaUu-1yqS_y1dg93-h3wkKd-u1VDwnhHfxEXwnQbjhOdOnoMvywIV-UL8BY3U6llw_HsWte2CSsuD0ePTIWrtHKw-xaEoK5A-oJb4aOHLVkmSBxeEsohtau-1ssAh0kRa_UxTKBBaQ5bG1GaFyyUUxC2T_qkLLRIRc5dSxnASRRaZ-GIyF-0SeLPk643za1CkkPVbKwqR04piSgdI",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116144881538665185587\">Jade Li</a>"
+      ],
+      "photo_reference": "ATKogpd_aJJCJ_Qoxwo9ZE2Ig5J7iRMsapp2VwSVsZrBxlZivst3ObwhviQckxYCtaLVyT-3r141FS86J_nHu1nycWJjE4ntAVfFXHDIvNWb4l6ZvUJslTQu1U1w775bu0LkKd6m50sFsdM2jiwfrFp8-5wNPYh8iGNWU4sRUqs4xUcE0ZHXCu17BGfbpxLTYID0X-CrK86Mt8vPSgYeW32IDPxaWQrMTbK_l6O_kTgOxEdjA_H8pGSP7pgoU-cd0CdZPhlaFQcqgPxqInzt_JY46-UYwATd7a517Yp2HPut4FGRnKpuDhJfi4RFz5EhqcKWizvarqKTY97xhg1PLgwY1IPG-1Wtt2_iXqAyGK30JcNVBJdoGneSEkqc2jdVfaJkDGbUvxaDRosm0WewB4Wc4ZEa4AGNmwhXyItThWLfM0qPts4J",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113645317679734594554\">Candace Kao</a>"
+      ],
+      "photo_reference": "ATKogpf2QE9z3pXtoWqXIyYuLokZTdbytJi3HTd9zzrrTfwgI85kZ2b4RmiLnym-R8nVHHrMQhBhdPlt-D1J-cBdpJa_cJaKkGZCLpgVkXGBhhLbvBuxr_WTqBodf-Z92HFtTPnmcdwuTqOdYGO8YEdwaoS7tJczVDPoDEmWfkZCaHsoJx1iZM3ncXKEiN_HgtJ8JYwR1Zb4fmv0chf3tB43HMbGkJ5j6d0vNUhexNBG8CdrD2x3iVYvVQNkT_H42c4MZP4xnuELD0aSWVIaDwMr7VvDxUqMH95C-6qDZN2LWdRZgyT7K0046w1Tt78_HgPclmRTcRIGHAPrirtphw73koufCxP2NaHFqxxvjyFwx20VmIbwZZFRz7NPofzhLRMMEn7pyr7ZTHC8PkSX1E9p7lF9UVigd6psLsnUAQ6PahD7-g",
+      "width": 3600
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102509511290759569890\">Edouard Dinichert</a>"
+      ],
+      "photo_reference": "ATKogpf2HSCza8BcVVUxGEUU8rQIW4INXg5swxDBpIUx3NNvOKysA_BC29-HKgm3EScK2cjf5g4qcGdroHtbvdLmHk1qLfzxCrTYGiutG2zODhq6E_rSod59qmRBFhnDiazpi3YIamvOWgCwQwLMD0tMPELsFhbPiUrU-ooV4BlTIFwsqZj_KSs3TNpejgb2QMbxtS9dSJ9Ipjr00NQnNu9gMr-L9oOvCPSF3HU8XA4s5XpeNfcxm4PkrMzd9wDGqVFgHYZEquIUgR4Eldk52woO3Js1aPGd2yAicZkPAOGh7PLhQdv1Rt0m5zp6SL3ethzGpPyayL7pK0kQlpiNxpcmaK2px2xJRgNiSOfLs5Ucd_QceCEkY-J69kR2CsPkrcxFyzRiSMh3vrhPWNvGiHO3bXqCAWbm4OZhVeOocv99D8_f9WVE",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJHxdF7gZZwokRJmO1s8MZOzc",
+  "plus_code": {
+    "compound_code": "P28P+62 Brooklyn, NY, USA",
+    "global_code": "87G8P28P+62"
+  },
+  "price_level": 2,
+  "rating": 4.8,
+  "reference": "ChIJHxdF7gZZwokRJmO1s8MZOzc",
+  "reviews": [
+    {
+      "author_name": "Avila Zhou",
+      "author_url": "https://www.google.com/maps/contrib/104543246597149520190/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIJef1b5E7ATm-B5_raVnax9AnfUTluck-iMT5IJDh6nBYNuXQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "The service and food were impeccable. I believe it was owner, Mrs. Lee who served us herself. We ordered the Beef Noodle Soup, which was fantastic and the Lou Rou Fan, which was also out of this world.\n\nAs someone who\u2019s lived in NYC for 4+ years, the customer service went above and beyond. Toward the end of our service, our server gave us extra beef broth for our soup, tea, and the BEST egg tarts I\u2019ve ever had \u2014 free of charge. Definitely, hands down the place to for the best all-around experience for Taiwanese food.",
+      "time": 1732379886,
+      "translated": false
+    },
+    {
+      "author_name": "Hyunjin Park",
+      "author_url": "https://www.google.com/maps/contrib/105439828392167581030/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXp1r68zuKwr81QYxkRXfPHlOWsZv41w6zGBKTvQcK5LmWOVMJU8g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "A neighborhood gem! Tried the salt and pepper chicken, dumplings, cucumber, Lu rou fan, and bamboo shoots with shredded pork.\n\nEverything tasted fresh, and not too heavy or salty. Will definitely be back to try the rest of the menu! Mama Lee is the sweetest and it felt like a home-cooked meal, especially her soup, which she gave to us as complimentary! \u2763\ufe0f",
+      "time": 1722565693,
+      "translated": false
+    },
+    {
+      "author_name": "Fanny Chung Davidson",
+      "author_url": "https://www.google.com/maps/contrib/111910287353468521517/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU8kV8uweFnZT7WxQVUM3Z-GhW9qvMxdNjviaRJ-DtL8dOdOL2N=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Sweet chill place for Taiwanese food. Loved everything, especially our waiter. Service crew was young but nice. We ordered a lot and the food came surprisingly fast. The portions were unexpectedly big. More generous than usual NYC restaurants. Great values! We\u2019ll surely come again.",
+      "time": 1694997939,
+      "translated": false
+    },
+    {
+      "author_name": "Jade Li",
+      "author_url": "https://www.google.com/maps/contrib/116144881538665185587/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXWnbiA0FjbxZpDbcTfk3_y8bJYJ00FIh9aASO8EVH-Dt5z8Asx=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "7 months ago",
+      "text": "Yummy Taiwanese food! Ordered the cucumber salad, the fried dumplings, the beef noodle soup, and the fried rice. All of the dishes were excellent!",
+      "time": 1732394091,
+      "translated": false
+    },
+    {
+      "author_name": "Vicki",
+      "author_url": "https://www.google.com/maps/contrib/102524958063200299256/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3LP-0KHOgeYOGmrXE5urSaq_YeJTFIbujDNZALRlolpKttdWu=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "At a higher price point but very nice space and superb friendly service, @mamaleeofficialrestaurant in Williamsburg serves you home cooking style Taiwanese food! Still heavier and more oily than at home, but the way they were prepped reminds you of a home cooked meal and warms your heart!",
+      "time": 1712290642,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "establishment",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=3979803024036291366",
+  "user_ratings_total": 377,
+  "utc_offset": -240,
+  "vicinity": "66 Grand St, Brooklyn",
+  "website": "https://www.mamaleerestaurant.com/"
+}

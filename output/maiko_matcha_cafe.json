@@ -1,0 +1,431 @@
+{
+  "address_components": [
+    {
+      "long_name": "Flushing",
+      "short_name": "Flushing",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11354",
+      "short_name": "11354",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "133-33 39th Ave, fh21, <span class=\"locality\">Flushing</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11354</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1030"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "133-33 39th Ave, fh21, Flushing, NY 11354, USA",
+  "formatted_phone_number": "(718) 219-0011",
+  "geometry": {
+    "location": {
+      "lat": 40.7598781,
+      "lng": -73.8342332
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7611936802915,
+        "lng": -73.8331245697085
+      },
+      "southwest": {
+        "lat": 40.7584957197085,
+        "lng": -73.83582253029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+  "international_phone_number": "+1 718-219-0011",
+  "name": "Maiko Matcha Cafe",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1030"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 10:30\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102653961602658432488\">Maiko Matcha Cafe</a>"
+      ],
+      "photo_reference": "ATKogpeUgGoLK7hEhdmtfiIUCg23JrZzC-ytHT9O-m1e1Lnk5zgERvoOpHae0udR_Vm6Us57ZW1BdxrrIJ3XZjRBvuboJg97_CyyegCs7XAkerRNEDwIeOZUY-vGatDcJWAj_7t2eE4-NHL--xe9HGJk9yZf5T3cImmYCei7-_QeeoogO-WWnYPOo-Y5JTJx540nboH7fvyD3DAtI2QiahhAgw2HVFLzQQN2kSZg8ragX6JK4Gvh_j2H2E3_RB_t8HcQ6N0kCvvEYIybzm6bQclFVu6oWOLM-YkqqiOLszi-QK3cwQ",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103145016558798510385\">MingYing Zhou</a>"
+      ],
+      "photo_reference": "ATKogpfRyEFM2-ohPnw3qxSX34je2hbQ7O4kgNVVfgbjLtad4VnAG-9GmUaZVxh_vE4pTPS7y4XmQsYCiK7RWOu3vz3zU-qYtIZikwCs0rNGE5wa-t6WdPkJoOVTAN1iOwSiJE_A3Tq05T-w5azhCJ4rVQrPq4q0SLoghJKK3KXNG8IoSpm-vpGeVfnaDYQBmS9epXZ8wjxH58cHNkpqb9CE9dq0JqJ9m061qbkCdeVQiSA9zsKlOyAjqPF_ezqBVBL2ik41HGpswDqGLLWieW6yUU1cOfR6uT8DcSGWfwqUBO9Xj5ZQ0eYCzU11FmXIAnhVFwXE6PIm-UY0_QZocwM0pZy6BwDwOvJUlifVQIzT3GaYoC45sdwcUh84Ndx70041AkftuW0JTiWgvgQCjARDuSlifn5ZunrootkdgUYC19QXEh6NdF9-GkWawEQw39x6",
+      "width": 3600
+    },
+    {
+      "height": 3290,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107552401532472305047\">cancanqueen</a>"
+      ],
+      "photo_reference": "ATKogpe8G7GDTT1E3MTmqKLPMcLq6q_lwfmWgekJ21dM6eF6d0PfrqzKiHiFHsaX4G5cdaUe-PcnEBnKS-V-kZqzXuYcz5fpe1ikCUUUxeCo8qggikedbFeu7oxvs0SFaEG8GsCYgChLDz3Eg5mTrTCvOYlqSOmkSXcNDbU2VupBWI6HI_sMgCeWJHv7bilW5Z9uBC-iq-RPtFj2cKIwm37ZY8lDox90UuqYX8aXOn8nUIXXAG0mxOiwPe5jrR0j8aoHlw2Wu9kQ9ApGTl-5cnLpXk946C5FOCamk9RmVewGihuiFEDqU7SPssDazK0LeodRRd0EDQ1sX3HOA6HEeKiUMfosnMa0cUrabl-IHxxZVFLM1LiMGN8VB_stCAOAI4VO1IAHqssLbpXG8xoZFtoczKVKPSYdJ1OSDRLV60RGfgLgTw",
+      "width": 3024
+    },
+    {
+      "height": 1619,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111545576342450910918\">Rita L</a>"
+      ],
+      "photo_reference": "ATKogpc6Ex6caH8b3nnTsI5_srDaB5aO6f9cvzelFcrHm8yiykhHoFU9-nfNHYl7QZFYZW84QAOH1dRLxRjGvWXYSTPL0cHgFTT_7eFV5wxb4zwmp4SmHjTK2d3797YXYxDIdR29Fd4-Dq_ycsaLOzPvWmLw8fw1P5S8wYOFOOY__Echzptjz5J9hDmtzv8gKEO3lV5wYWI_40FaHZDLVPEKTP604D8lFGcYcsXF9w-kALBgM5JSdDmkhr_yHPv5M5uXXYFqMGSBSM5Ln7LtW1OMogcVsnuGFnFg86LPaN0wo_1XotH8JTlBK8kMOlz9ma7-p8gPmJDWQ318lnDKFR-bHoMEEQRcYbEUYAWPAujZ9DVGalexHvATrMDBEtWx5zscZdQYuBi6lwZUBxweNfjzqUUYCOmW13BefXN-dFwhhGqSPGk",
+      "width": 1619
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111181240185004119748\">Jacqueline Urgiles</a>"
+      ],
+      "photo_reference": "ATKogpdv1TthzgJ3FvCgId0WVbtavDwWE1EIU4mzj-D8NIKBm_zyjDNfTIb4OmQmGeVVmnU04ClmUJmiBDbjxuYoESautsN3B_i8BLv6r5XNp4fW0AKlu30oDpXJRBSnD4AwMk2t0TsI2VFizMtLFPMnrqm8hWyUIEa6B-z1-gaIaA-zj5N3trwpv5pOHjf3Jk9xnVino7WNWEjEcXbMB-AHcMZVoaDuOnWALWgOI2x0nvp0oxYD0iEofQel7it_NNLkdrl097gIhs0IA9eRBpffXqFfNjMDz3k-k7QZHY9O6VApBiutfxU5MqHnq4fH3LE4RYK5dZVoSrRdYfpZjNWYTGeThS32rRJAIJK5IHC96EtRyiaMw4vT8fCRyKCndWn5huxlA5Q7OdA2GR_e83dt7CnyMQH9k7Ewi0STkDVZPAaQPZQA9qW9QK5XCvTCMevm",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113148947611018822952\">Frugal Cyclist</a>"
+      ],
+      "photo_reference": "ATKogpfxx51pBqH3XeWHzUHLhfoBabarYj9BXIGBhVcvmF7A08cQGK1RArPSsBi92lQFzeskfAio1nJEsEcLDgOSD9r5eFDauPVrVgfzVvVPf7DIe0lcz3KvAH54YsPzCoLX7DaLB8kQbYqQSQyK3Vd-fAvzzGFX0ixzE9a9pPPFExntpGeoyHIbpLxTyLxuVPbRCzRZg20BZiDAMDNnCw7NfVpcSpLUg-JZkrgD3684HEQUnzfe6_C2N_FkonOaVrw-wgnT6hJuf5syqq3YOaknsrkFkw7M4laE6PWp1v2UaVMxp-XqTy5verwyhB021e-hH5c5vSk3LaYwXdGZqjk-20hJ1HS_UV44XK2WCV_kcLKl9bUMWxfvTRX0JvtMawW-hCRvwirQwPmuBhJRCro6p3SoaSGticxZKJPq9szmRsI",
+      "width": 4032
+    },
+    {
+      "height": 2919,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114937408561519368736\">Jr Casa</a>"
+      ],
+      "photo_reference": "ATKogpdErInIL5-TcvWNQHsHAwBVj1p7l16kKmjKV0ZuX_IViFEnt9g0hKpspLBcFGTVLnTvrSerRGgPKn9-UCww_P65H1Fn6rWqVtfj9EASdk0mKA___9o7TH-7fKmSHpUriibkx-Xzq7bys62ekWzoufkE6NUvzisKQKMGnNTqDfvusLoav3J8-N7OzMK7dDm1_5Xvl5lfX61x8kUuu778YjNfz8Gicvzvk4BtGNqEJjvXqbRffi8Idyx2nz2G8heKactcLwYUkALXnqBEVuq6wZZxwzYj8CjhT5sCSHwCG_rieO7b_BFvYBqmM9lqt5GqLjQNJxZwoa7OwyfCRLLYENbaCkDKd1cIinru0XGN6d9cYLk0eb2Zduz-d8XNaqxUAslBwSgaBkIXA5uYcgYbD7dZHdqqYko2Z1UMKTXiFFptKEdJ",
+      "width": 2540
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113343587830858549911\">Beatrice Evans</a>"
+      ],
+      "photo_reference": "ATKogpcIW-jkO9spsPVX5dcQpjuIMVPtRQ0oSY_XIDr4KQQB95inDuTPMEmTemCLyBhB8oqEbsoHOMTWsSLOv-fKlVJw8Nm52l1rrBRcJ1tauuSrOF8gwGmvUB1-Xlpi-ieiji7rph7IWOwleyuSoUGQL__1jhIxBVvc2xw15zkV_b3MaOv_Hq-dgKRdQuwzdyMHbm0XTKOdIbLqPcxyGtt2aJkh-jQPVQ-12I0YR7r6DY5TRFQc_Imvkhei6arTgzbXwwUyfgz8zgsr09Y_BycY9ryxf0gUHESyPwfyycv0HOCvohksGSlzZawCXOIQykDO-6exQeW_X6z3B43sDsFVDQZwwtKwyRE9p_810Pzl3FAK-T_y9MD2rqoVzviIZFf3KNZeOnxHlmfdScRNWZq3IBADBbJ1eaj9iUJ5O9vdMTWXeG8",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117557073075994360431\">gammeelovemusic</a>"
+      ],
+      "photo_reference": "ATKogpdSNqZ3mVSNrPSQ1ZdFI1UPdwiXBBoFgAE353vahhMCX1PynOKwBDPZ8DT600FRjPrespKeNQxEFqlyJ2_yTdo7uxvqGyO0tAHCUeofMjBcNzABIpB1CT2pVSvvFHhHN1Grnc3WtRr7TAtr4wMRamHVYac00UxToQZyY6aRJxzC9jBGNWne9fG-MeRY9PH8_oU5JHefbiOwiqWGUpgnWfY6L9zkWILnIAMMrWtXh7DujNo0ajdCz2fmox0GCasLabCResLGL6k8McbWjdDf2wU0XB2bvlfPlHYAzHmEOkhCBlS_EhBumX9As76Rn7QuyGU6pEPh8nHsOc6dWiGfk2bFGY8l3ktuG4HRVQQw89jzWvDF890K8TAJitBBYyf2ses-Ota7orh-73iFNbXBk-CjsVdlk2-QaFa8VRS_iPq78zGD",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113774339358758819050\">Mary Juarez</a>"
+      ],
+      "photo_reference": "ATKogpf7ce4I-Rw7nvfhcd9j4Z482Jnkri8qNF71h2A1XVjfoqvcIPmCaCb4-_j-G5vyEiARvOG2ETnb2LE3fLa2vNDFbddQXDSNGZg6Q1JnaggDImSc4iSpmAxk21YmghOrszEnUOVcN2jGgIVN5D0Mv35HpTXPlwERXhFegMZB-Q5nMQliT0mcoL547xkigHyCZMr55t-CerSjFaaR9wyx9V75WFecwhgT3Zn8dUKF0d9SBZvm2Qaf6A3_eptzCalJl5_0lrIoFsd9QHun_pwKBYzWACzegciEO4KqWQh_pXD4dGZ9MOxtVhEH5WPFQyKguX_2m1HaFPp245Q--CbWiYZG2ZrMvtVq2I5hbqnz48P8JgLJND-NNP_msv91zegiS-fHHHMlYg_dFoawy3mQHtTYTeZSxsLjDLSdsBO3wSMyr9qRgx1nSnoysUMcxU50",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJA6bMzWxhwokRTqfgaCZfK_4",
+  "plus_code": {
+    "compound_code": "Q558+X8 Flushing, Queens, NY, USA",
+    "global_code": "87G8Q558+X8"
+  },
+  "price_level": 1,
+  "rating": 4.7,
+  "reference": "ChIJA6bMzWxhwokRTqfgaCZfK_4",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Lonnie Ko",
+      "author_url": "https://www.google.com/maps/contrib/106690235593847347994/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXBlGphIs5l7OzqBvzjywo2MF8Ds7ZO1_vuK0jC0ige4fvtdqY=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Clean and bright, staff is pleasant and patient. Their soft serve is very creamy and not too sweet. A delightful sweet treat in the summer and all year round.",
+      "time": 1750110790,
+      "translated": false
+    },
+    {
+      "author_name": "Stanlu Zhang",
+      "author_url": "https://www.google.com/maps/contrib/117163707699971465701/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJbQvgor_5kmTcQfVN0cKS5yB2ZK5MiYAI4GITNdJxL_253wg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Tried the Jasmine Butterfly Pea Latte with Matcha Cr\u00e8me at Caf\u00e9 Maiko \u2014 pleasantly surprised by how well-balanced it is. The floral jasmine notes and the subtle earthiness from the butterfly pea layer blend beautifully with the rich, smooth matcha cream on top.\n\nTexture is silky, flavor is light but satisfying \u2014 not overly sweet, which I really appreciate. Definitely a refreshing choice if you\u2019re looking for something unique but not overwhelming.\n\nChill space, friendly service. Will come back for this one again.\n\nAfter all Perfect drink for a warm afternoon\ud83d\ude01",
+      "time": 1749509146,
+      "translated": false
+    },
+    {
+      "author_name": "Yunong Shi",
+      "author_url": "https://www.google.com/maps/contrib/110468092061647031838/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVIJva94Qinr81rQR3QLdrkI59u9J_yhFW3Bq5duN8a9Vf8bqo=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Soft serve matcha is pretty much whatever flavor you would expect with great texture. It\u2019s hard to tell what grade the matcha is. The custard taiyaki is also nothing special.",
+      "time": 1739745875,
+      "translated": false
+    },
+    {
+      "author_name": "Qi Lin",
+      "author_url": "https://www.google.com/maps/contrib/115302715005477913928/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtJT12i62aS_E3y8WEyCEGEKb8NMEDKFbiOq_XaYmva9Oo9XR-=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "The matcha is super rich and the ube taste so good with matcha! Definitely recommend this to anyone who love matcha and ube!",
+      "time": 1750635078,
+      "translated": false
+    },
+    {
+      "author_name": "Rhys R.",
+      "author_url": "https://www.google.com/maps/contrib/102018071595339560217/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW03sDHeb8UA0h7tGYwgtSyZ3Cro9eluTNWbdivKcOd3mq0Eq5l=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Gorgeous presentation. Got the limited cherry blossom x peach swirl. Ice cream itself is not too sweet but that parfait is 72 g of sugar all together.\n\nSecond visit: matcha and Ube ice cream on a waffle cone with sprinkled hojicha powder (available at the pickup counter). The cone is actually a lot of ice cream at once.",
+      "time": 1749576023,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_dinner": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "store",
+    "food",
+    "establishment",
+    "cafe",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=18314836928205203278",
+  "user_ratings_total": 508,
+  "utc_offset": -240,
+  "vicinity": "133-33 39th Ave, fh21, Flushing",
+  "website": "https://www.matchacafe-maiko.com/eng/",
+  "wheelchair_accessible_entrance": true
+}

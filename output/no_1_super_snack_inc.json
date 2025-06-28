@@ -1,0 +1,441 @@
+{
+  "address_components": [
+    {
+      "long_name": "4128",
+      "short_name": "4128",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Main Street",
+      "short_name": "Main St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Flushing",
+      "short_name": "Flushing",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11355",
+      "short_name": "11355",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">4128 Main St</span>, <span class=\"locality\">Flushing</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11355</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0500"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0500"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0500"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0500"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0500"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0500"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0500"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Tuesday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Wednesday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Thursday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Friday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Saturday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Sunday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM"
+    ]
+  },
+  "dine_in": true,
+  "formatted_address": "4128 Main St, Flushing, NY 11355, USA",
+  "formatted_phone_number": "(646) 546-2353",
+  "geometry": {
+    "location": {
+      "lat": 40.7572713,
+      "lng": -73.8294296
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.75865478029151,
+        "lng": -73.82810831970849
+      },
+      "southwest": {
+        "lat": 40.75595681970851,
+        "lng": -73.8308062802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 646-546-2353",
+  "name": "\u8d85\u529b\u798f\u5dde\u7f8e\u98df No.1 Super Snack Inc. - Fuzhou Snacks",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "day": 0,
+          "time": "0500"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2130"
+        },
+        "open": {
+          "day": 1,
+          "time": "0500"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2130"
+        },
+        "open": {
+          "day": 2,
+          "time": "0500"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2130"
+        },
+        "open": {
+          "day": 3,
+          "time": "0500"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2130"
+        },
+        "open": {
+          "day": 4,
+          "time": "0500"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2130"
+        },
+        "open": {
+          "day": 5,
+          "time": "0500"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2130"
+        },
+        "open": {
+          "day": 6,
+          "time": "0500"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Tuesday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Wednesday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Thursday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Friday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Saturday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM",
+      "Sunday: 5:00\u202fAM\u2009\u2013\u20099:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117705513754883528486\">Hiroshi Kosaka</a>"
+      ],
+      "photo_reference": "ATKogpfoZ47eFdvkd4erjf0ESrx73JRjab-eVbJbpVf-S9i1VTh8oYtrNO5Ak60Z-aoGbLWeuImr9l6Qo-6QZ3SQ106vLj63APg43q7fDIEAiNSIiWJQeBauWcm8FrfaxR8uBAmR2ywkvBpEe5sFQOEM3ZN1dVnH8mV9kFLQQM9R5kuWBRy3pEYWD3eJyqcn5fjPq5X8noz2ZLLf1dDviXtfXFPcJmGkUykU1iBhXlMyvMHOiyFShnXPr9roSTX3qMV3TgjXHCsXXWrRAMo8Ne_hjaGN2lBj0P5mo-jHw8U7FtIRIu7FCatDKZC-ENbAeReXq1ZJT7hB2STgBR77wkVdfQklDOVrvYTqRAWFw04GCP0z1mXsMIa7Ehck0UBCsPklRhGgDknamqiYprI7IpYZ6NwsknN8f1T872nHL_0p_1YIXwVs",
+      "width": 3600
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109673609811779688970\">Hubert Globe\u4f11\u4f2f\u7279\u4eba\u751f\u5e38\u6001</a>"
+      ],
+      "photo_reference": "ATKogpd7nU_bi2YJBk9h6QziLQtuZuWZPMkveMNEsux_RyLei8usZhvYnAF1PTGar2NzsdpOAbQv2AwVTrU4xRanPIBnnQXWPejm5tw7OHM5rYzFgTuGpP7OYiy9LvE59PmIfgJlyf3grJPOSBlBX38SEQqz3rPsJbzN4g3E1ByfOBbepWd8ApNIyfRz9kRW3sYyfG9POIdXa_t6QjHVGg8BztAy8HUzWdz4s9Y0a5hUTO4QVJ-J12IlPwRvYuFlTjh6UwI0KR7KM0v89lIlyVX5AiQhkDAiSTGHNSgSyWTp816rvcPThshLUJdhmzoaiuXajjX3Lm5Sq8BkkMqQeBuZCsmHCwDqjZANeCeZ3O3CRFsxwhjacJQ4DWGmkQGJwsHDXEMiPYytoPN6kQyN7E7q--D5DyDP-QoD6hulfobOqVE",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101725388066405758950\">yuan chen</a>"
+      ],
+      "photo_reference": "ATKogpfw4qrEd8eIGMLgkYjtzBZ4MLBW6_OB_n4C77LGeY-MO8QUm1S2lnQ5yTnz4dWlveMatF4r2llLDsEuUbzfBGVbdjTZ5LnkA4EKU4RVMjV3bj32sc9TKXLgb5Z_ZgZh0JBuxzdofw4jG766CS-uFspiifrtBY4dp7u4LmLcfgx59mEdHu3ooNAwIt4F4hcdOKjO2sfAf4ghLqH7f1PIczQaTeDuFpoSqD4hE7bJYPn_OXBqxorvYUjR3Tfv_6F0ykKtO18a1i5q0TUgKO8tn4vYY6Pb5ehXGkf1q7JEsFzJwg0E37C8PZxiqjd0guat8iJdcaKsIBjqYCykYLjqxSO1mQWH_y1aNoR8HBrpkMAm4nIfkdlHlmknBQOrAOAirmi8CuK_TI0L0BqBij9rqGuhEF16Bp5umLBjxoHM-9c",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104666402995762108295\">Jo Jo</a>"
+      ],
+      "photo_reference": "ATKogpdqMFOCymCs_jFaL7cD-13m4lRS8DdQQop_wdCeu5F8K-Tl9XESD9ov021H0__jlViaz9AttvB8eeMzSQ6ivOrPgJNhewu-zBKSMkuz-1AThsxG6cUMOAi1n98SIooRlIygLaL6DiYP1xJpJ26aVo3BS37y5Fmkv5o77lum_KuiHTttfozMP5MbJzGrJ6uSp8iGUc1FRkHOd4Vekjv_qyfCNc2bBdSUjUnmFkWKJqMcwsjO0LEsGieD59NpsWfdf25uLccACghPbetwp-3AwG3ZgU3ogobvDs6trL8bfPQS_OBRyuKsSxDNQEjWnOlhuN9oMukAWxa18LYFm-EC7pUWn1jl3ExJRDeUMd1EucbtZzXTIwmz16r0fFrDxqUp6gh-vs-KZwRbMRO5MLi-ap1KOLvfFPJWA0Ggxeqzy4jcFw",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117239661906885657948\">Victoria Chen</a>"
+      ],
+      "photo_reference": "ATKogpdF0Feb1GMF2P1QHQKhu2-ZvSEWbltpMeACI2WlmHPe__lmIete_fiTc2oS1NrXunmK8j8T3-iJZ-IMrru2N34aLWm0aK-k0LR8_QtDwfh9Ykd7q3uZYLAj5Brck34kwhoGE4ZcgnEENAsbJ1N59GoKiw3sO8vy5JweVoTS1wqAYilibWNMUXGBBClvwmc5gH5l7aluXPQrGtDAUY6VZiJSbCsYJLg44dOxpvNfR9HBM49l0AWgXelid_-3WCs78XOD0gLCkGSMIG769-aVbia2japo0kIGpq2WIiXWW1LFTfQg1AhrUD6DMdMzyozE0EAwO-6P01WWy-E9x6M1sx34EzJnTbzisVRmzPpOhHpnc-8pfh1PQZwdVNO4lftpHkntNMQtTd1dNdaP7arHdIDgvRnqkZxccSUStAnctFRGUtdJ",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110182176032859016465\">LAPSI GUNDRUK</a>"
+      ],
+      "photo_reference": "ATKogpe4oXohLmmBqyu0NMNAhWOmjQqxqp3_OB0X-crkGUQ7kdG7NghNumycC9o5j2utu6XZIB3HkSnSF68_bWO_xhp9LQq5Nlx-zUB-6SFhqKuSPVEiNwRd1evLbMPJV_mgzWEfz-kjsjNYQixsnrgAh4HAGoI4EFRjO0Qeu-fXb_dWj0vZRailo-4ptzMtWyNXN2tdWveW6_4Ek1HSdeNT-XgFBmxGg_J2Dm3iy_sGcW_XawcfwLwPupT8JG4BzHS8XCrfYoPGLGN7CLdT6wKM-b09ikpeBDvpVd8rFu95Dy65pmtk83r3yuLrhibnDlS53gwb-uhmgg_oGMZvlol1oa_EBx1mZ0jrj0r9gEGIICAGjM57PdOu2e67tpySsXgOkFsobLf-v7qjR_nb5nBjMpZd7y6NvLnBvsERdZEEdYUJKOIs",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109673609811779688970\">Hubert Globe\u4f11\u4f2f\u7279\u4eba\u751f\u5e38\u6001</a>"
+      ],
+      "photo_reference": "ATKogpcprsJ4jbsEvCr_d8cm3ASpLmMgsSxLh-CPmLuQkxrmpzRmJQc7O6QBUdnFrI6mNV0fb7NQG5B6eWHeUA4mimYHUwh9xPJyUz_1toMAkYtOXqLRxI00MxGriq4RRVRXCwqR5yUXUr9Wh00FxI_9qEOvTu0hY4wWiqu2zj1Pxp7DsU2MQFrVMTZtZbAVL3iw6L26Uh9XtX2YwHuZCMZRj02x_uw-yciby_crk11hkHryihy77UxBDloKN2W9M9SS11ILqBog4jRdQQYWBZGYpmSKMfn9tFV7ywRibw6r8-ZZ5cbLfT3ULpRX0LOx_aRpuXYeI4ipIkLm8y0rDY8jI8n4MUHl8LNFIFPSZ9EOl6EPse4uV4sIgTomJUHDsyxdmTX2LaML9QKI1xPxUelUPm-Cf9XeJ8jtTmRmTVrwy-OtqUwL",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117705513754883528486\">Hiroshi Kosaka</a>"
+      ],
+      "photo_reference": "ATKogpfs6czvxzIBZiT53VujJu5YjRoo5GFBonMyU-e5x0_062BlXosgXGx-HD1g4FN-MeKUSUYX3j4W99mPw4WhuhEkb1DXR48nfNNg5U-1F14ZMM2iIFkfhQih016-_9SrYhJSLC6uuiBWIFhdXPfc2n1jhYl6zRcsyMrgP6PDZDgbo6v7oBFIbwT3_WdkAbawpMwrSEeDFeqd708O5gl6ghzEPTE_pe2pXsF58Q2_c8i2fOCAC73XS_eV6pfafVhYkR8bAuRRhP4atwqoDrLJybCqvVyQdoYICt7zq3MGjT5PvliSADi7A8y4wJDHKH_H2SEYTKYSTHGCbFco99j07IQyX1ggiCuq9XeuvpB_Di2YrayI6xOognG5zA673HUbEXHMTHDsh2a2vAjb-x0mJ2cgOnKMHXoaz4KQ7Txw5F9PNw",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115490214154525232162\">Issei Kohama</a>"
+      ],
+      "photo_reference": "ATKogpfqnBZLxbE_3GT7ef3A89f58Vprf7-ipaNgbNiNrbyXB0c68U1qH5uVoB3HAI9KCIAjCG04LMx8bAfivCQzgYRO7yQuzn_-u1b_a9vVFqhLq4AfYXrdK9tsD1INKa0OpjmDq1IsjkwF8kDGwmdsYAa6atu2aQxC7N9ue5FHytnKLN65p-2AxnoTBb3577GGR_S2YIQIBL95vgqaayRKX5MNXiw95g4EDqn1M0bunhlExoz8KWP6DMO4yf9IIy9X9bm8IlNikQ_eDf20ZzciVNHjmgsiEogbIPqFyiFYrt6QV3t_syrl4OhI0aYpLGXtrFo5cyLCW7YVrsqqacy13jMKYJhLRHGe_CblEhIFYugnBunDfPtnKVpRBsQh0TWcrGfKQbn0qT5AsxTJ0-v0fNlYoFULrcA34yWjGGIuAXFGuMwH",
+      "width": 3024
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103953798914619685448\">Cris J</a>"
+      ],
+      "photo_reference": "ATKogpdvlJ4HM2FZhizY1oYsuUlAORwYqx6ZZ8DG8vlPP86VrMJUxXsBHsTS33m32vlQMJqchnfaHSMGCDETYXxXlgf4E61zU1voSh3gnpNQjscCtmkJzWMnTQ19OjmpQ08iMjm1eYBxWw3mmLrbdAfJ80yFxPcESGVwriPITSlflvqi443W0VFsAsKEFMGcEvdWIopTx1rzBrAmAZWbDtn4oXuwD9F8JMMbKxsSbup8g2QQrEPHqztgLkhqDtnw8vl0467I9sa_QoYekvQYnFEpeFKmQ6grl35vLEXhtUgWm0efIxnT0l8oQI-Z9ji5bKan7KDEnUtS2wNbzd8Q-HJIMWwdHbxTTiRwWbgPfZNOThFLPWuoCwl3PYZKw8W-qIFse08uir4umFHHV_XGDIl5oSyVrKk4rU6ZQwL6_F8-pgEseETn",
+      "width": 3000
+    }
+  ],
+  "place_id": "ChIJDQ2UyahhwokRKY6G2WCjlTQ",
+  "plus_code": {
+    "compound_code": "Q54C+W6 Flushing, Queens, NY, USA",
+    "global_code": "87G8Q54C+W6"
+  },
+  "price_level": 2,
+  "rating": 4,
+  "reference": "ChIJDQ2UyahhwokRKY6G2WCjlTQ",
+  "reviews": [
+    {
+      "author_name": "Jo Jo",
+      "author_url": "https://www.google.com/maps/contrib/104666402995762108295/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK6LulnHLlmH_7vc5ADNSxE5hHdQT38JQUsKs52DOH7dwwPlw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "Yummy quick fast prepared food just point and pay. Amazing prices and very tasty snacks, love their deep fried taro cake (it\u2019s savory). Very crunchy and tasty. Accepts cash, have fun!",
+      "time": 1730924555,
+      "translated": false
+    },
+    {
+      "author_name": "Victoria Chen",
+      "author_url": "https://www.google.com/maps/contrib/117239661906885657948/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUZ7S7BTHVhE8CWX1dkCa_WILODFz7j9jaxo4Tc_Ao_qeF2ahs=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a year ago",
+      "text": "The plain buns are too sweet. The fish balls are just so so, but it\u2019s still a good choice for hotpot.",
+      "time": 1706042450,
+      "translated": false
+    },
+    {
+      "author_name": "Issei Kohama",
+      "author_url": "https://www.google.com/maps/contrib/115490214154525232162/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXugsEj446QhxzAz8WfXSxD3izbGUDPFGQuHu9ht4qLSPBfC0I=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Excellent quick eat! The OG super snack use to have chow mein which was amazing as well. Highly recommend for quick bite!",
+      "time": 1674441483,
+      "translated": false
+    },
+    {
+      "author_name": "Sam",
+      "author_url": "https://www.google.com/maps/contrib/105822450217811338799/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUIEkcgZ48oBn08MxnxyJtrwZkxnB_uRMFv678JH6PdkdVo-cvG=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "They sell already made hot food and frozen items. Mainly things to snack on or you can get more to make it into a whole meal. Things are pretty cheap and affordable. It\u2019s right front of the bus stop so it\u2019s pretty obvious. Service is good.",
+      "time": 1659991863,
+      "translated": false
+    },
+    {
+      "author_name": "Grazeradinfinitum",
+      "author_url": "https://www.google.com/maps/contrib/117727486586105721755/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVls4s_TRfLcNlLeuL0rSFKSkruuTTqj6sEAqbqtm4yhotqHD8C=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 2,
+      "relative_time_description": "a year ago",
+      "text": "Extensive menu offering many Fujian small eats. In Flushing, there are several of these shops. I had the taro cake which actually tasted and in appearance looked like a radish cake, the donut-shaped fried vegetable bites, and chicken skewers. Everything was fried and on the oily side. I\u2019ve had better taro cakes and chicken skewers at other establishments. The oiliness was a bit excessive. The vegetable bites were ok and it was my first time trying them so I have no basis to compare. What this place has going for it is its menu size. There\u2019s quite a bit on offer and drinks as well. I\u2019ll return and try their other less oily dishes and update this review. Prices were very reasonable.\n\nI returned to try some other options. The sweet tofu pudding is not tasty. I also tried their fried rice. It\u2019s actually stick rice even though it was sold as fried rice to me. They also overcharged me $1.",
+      "time": 1689608873,
+      "translated": false
+    }
+  ],
+  "serves_breakfast": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "restaurant",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=3789114297863802409",
+  "user_ratings_total": 25,
+  "utc_offset": -240,
+  "vicinity": "4128 Main St, Flushing"
+}

@@ -1,0 +1,444 @@
+{
+  "address_components": [
+    {
+      "long_name": "34",
+      "short_name": "34",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Pell Street",
+      "short_name": "Pell St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10013",
+      "short_name": "10013",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">34 Pell St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10013</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "34 Pell St, New York, NY 10013, USA",
+  "formatted_phone_number": "(212) 267-8885",
+  "geometry": {
+    "location": {
+      "lat": 40.7150914,
+      "lng": -73.99858979999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.71637528029151,
+        "lng": -73.99728296970848
+      },
+      "southwest": {
+        "lat": 40.71367731970851,
+        "lng": -73.9999809302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-267-8885",
+  "name": "Mrs. Fish",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106339263904098001758\">Mrs. Fish</a>"
+      ],
+      "photo_reference": "ATKogpcFpBDV6q-B0Vl5dO5WA61jYFm_NhMCioI3wGa4CiF2XCa3O7A7sA9y9Fylm-6GW_Ay90tkyERBdPxH83cIaM1_D7QNjEnNFBw6zMH43Bslg2QPxxg60E11bFlFrkGvCxWh4AqojICt_usveyJNG3kw6wUr9LSyXcGphC1-RPsvoSYYSGVbiB-qnc0AygZFavIYuZ3eQhp6G0UTCwRCfmjkJ707sYOMrmJs680zLkiOPjGLvb8uy-5b7V59wx7wF1iYOLN3oRiPAHrnhnSAz7ASN-jU2Uipmq-cCoSTbb9FsA",
+      "width": 4800
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106339263904098001758\">Mrs. Fish</a>"
+      ],
+      "photo_reference": "ATKogpfFTRbF_42PnQJEDnbOcfbFHwHTpUDsOyaiwgmWLU9DEr29hOeSL0RzbraFtA2BZhB2qbqerg8Gj8jyRlEVL7uPiI4CtNH6LWxwH6RXwUQl6AJsHaXPWzUNuvy8o5rAqZJhoD1ER-jTFUkUSDtF-rcwDJ4Uvz9v3g0R1NGnoet7b7Wws9lLrM-8TMc9-edEplORrnR9vFu4pMUh_YOq5YJ7rOeUv2ZXw9r1f1CdzgqCAPnlyCosTXqnb8iVNQuGAf9SdgYuQ5Gjg6D9JG7x8M_E3izB5ETwuhuIJ6WnwBMk3g",
+      "width": 4800
+    },
+    {
+      "height": 3120,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105016007181250194741\">Luz Amparo Viracacha Monroy</a>"
+      ],
+      "photo_reference": "ATKogpf8XwZyJoaUtcMvDi0Gl3xnuQa_DFFk3C8MBi-uoQFZBQ8GW0sHNAr6z7fXQBD5o101rZG2vMLCTGL3PRI8ODEyjBugknBXHFu2ZciSAd3MS6-v6pRe08QZD00evXGKkkDi6DiT_ALd9edRgcqEU_Edr_TrRjFpGWfCaTQ4TGD0xlzoCMziN3tlvc_A2OVV0Mfr3ASMiA3MRYeptBneQOpuahgEJyrnl8kC4E6pSCOGQY98WMc6kJkkvAwGmL1XlboN16KqFu3iM9DmukCnkESDSJxoJW22ciixJSmUfKENLJR742jG3-PUibsKKyP19pg129Gg8GGD1CPkW8lDfNS5wxW8wyqToDRvVl9db_Euu79DiFXAXcrRVJGtXNSen-XWDSvhS6oVxprOos0ibv1thAHlvI-2ptE-vOXKoroXqAZm",
+      "width": 4160
+    },
+    {
+      "height": 2693,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106339263904098001758\">Mrs. Fish</a>"
+      ],
+      "photo_reference": "ATKogpcURXK0kEWeMAHqjRo04LlStE3aF8piVLUQcecBEQeJKl19IKuzW4d2bJ0E12qekqWleiMx7pnVMZM16MLmpzl8ThM-Kb7loLU3hYF_sSMCLYrqWV2WV_kE2lxJLH3Nd69o4vtKu7f6gPSVyWfITQDTu5K83xVxLNucfxQvEA40Q_UpWHSub9jREbuflE2i-RLekpqVkmFB4uqvgNM3_mD-8hs4wvFDipEG_z97xN-4D5muOZS_4iqyS8XJBUQrg1OYoxVJmQYVuIJ8Cc-4hOU6qOgczZfkdvbs0yo8ooRIHA",
+      "width": 4040
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106339263904098001758\">Mrs. Fish</a>"
+      ],
+      "photo_reference": "ATKogpcjq1tspWUnOCDvvqsisHNtUwpFiNckquKjfUtu1SSWpBpMhu01GXxA3UEpnWcvuHLpV8iOaTAfo4NRzuMdNT310Gb_x1e3ZQarznKjWmsXZgOLIjda4fRIBqL0MuRyb70KBhwVeh8KSP7Oh0jazEnSBn7DVR5Ee5XaKV8FxaDetm7BKNLJMAT_jfRBeiPHzymFVMjWcCAjdrH2QtV2bd781yJvyOXNOFsCka_YEjgSe7ofuvgMu4_2EugXdTPQKMY3rI1Lhl0GsuY_PfcA8dAo-QhSAbbOkpdHOckvcjOqoA",
+      "width": 4800
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106339263904098001758\">Mrs. Fish</a>"
+      ],
+      "photo_reference": "ATKogpdLFxh22NVFI8iPrUkM4gZ43jqlAmpxmeS3XNRFFbc-LWv2M8fDrHMuRPrh-QPHVvL6Zs02imTOgG6rPtRMk09tf55vi_fQpX9cPC5r6dM47BrErW9zvYk-rGKMShidMVApnRfW_tbugo3IER4qkdRvhc-tJbSVQuHnB1OUqsGIZ_apTuxGBe4E2eMEjqaDjuq_wF_RsR2Qks_scYUqJT5v4AfzZJHukkm4MeP4EdaNrndAuDOoUcMcH6Gm6TX9NM21gdZwZzy3OVQW-QEosPwsL8qEdmuTduchwxJdc08azw",
+      "width": 4800
+    },
+    {
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110106081485518769728\">Patrick K</a>"
+      ],
+      "photo_reference": "ATKogpdvUGuQd0ke9sY0W18SNjfEW7m3kmgxP65zuFTPoek4jdQ4c-bCovAoee4P3yM_TmxOolTGWpDsvToHU0fpP7Yro0uFyJBosI5J2CV9DStTnsRwRc8-SnsZCcsZXYWdf8GckuMejFDho8ufRC7LTUWCnWbVKIXH4au6utpnR_14C2628nLQGTDp_0RePkdh5d8LpfxTJ3Ff0zpW7_Unns2S0V1fI_6s-5XpRjO-7VJlM8e_rNQjdIkEYuj5KSVOD6tHpFdxnjGiNz4DDSVWYzsG_hzH8WJCsVD2Rp0tP6D_b4Gjh3uV-RvqyNhSg140cuNi1BJkCgzgOG6HSieWzRON6Q4WOx6Gsjld9oqY9W_LGx7nrVy8vgTw-lbgNA47mXK0iWHmPJas8gH6k05D3TtXC2FigNz3uXIfyuw0WmnHVtSf",
+      "width": 4800
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106339263904098001758\">Mrs. Fish</a>"
+      ],
+      "photo_reference": "ATKogpcSdE0ZbBb6IhtwdKZGj-Lb_q7Jjm23LEKWpQxmG3O2TOjw3984iR-fE4xXWWUM2FHfWoUJvHsZWCOtulDv0qLva0by_qJYhKBvTmtWR253PtdBVE67lbi0F8e_ME_eJNCWcmvn2P4UJDg_w3mbAcrCqL9Qd25uqzI6V_DqP-yEA_T2r_Ps6gOeG038jlnVmtoegsOO7UGMQAtSy9luOrQxCSPhsQUk96odv0rGMLvo2P__nkv6X0lvOgaL_TxR8CsqdIXEPd7C8rW3hucRmJwLoE3s6Cvmqzk7wXabRf9pPA",
+      "width": 4800
+    },
+    {
+      "height": 4096,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116203859927048837939\">David Garcia</a>"
+      ],
+      "photo_reference": "ATKogpdFahkTnDhhWqSVcPGzO_O-kAQaLznqIqGqmV0iE7o_oldByBhS-2gExn7bqN-6sYSliSbn8b2OqXb7Y8nbrZ8xBK_NjvutZgfcEfaa6LUb1CAMCLv-lynsMjq_OXDBst1wqsTCYeIy6gzhYdAneUQs_tgIh0enUXdDwc8iPdKC2h0zPByUrnTw9f6v5JKTpnut1HuwWh2UeUmDzC-pLmNPKCs7_GYiCAUIDABsGRKM6K4OX6FUg69NZtFeDb0k71Pdx0QaCkK6qSY-zrj0ODebvfUxw9OHd3mjfBC4_-x52Qg1c36QzYEPDluGr2XcnS9cOwKWYBHSYG2IVfujETtm-yW_sknB8iA-t8nlIPdwif1_Tb0ynZYsG81QU_FfYzTaHIOiWay8JVYOCDXfArwY1OIvVSFZ4zv3EthQgL0",
+      "width": 3072
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106339263904098001758\">Mrs. Fish</a>"
+      ],
+      "photo_reference": "ATKogpdyWtucRIRtO8WBJ_C97O9v0VxJYxeIJ2S_K13X3XCqRqsBHF7nBb8QMXMLIaIVXZQZWukFjWs2keQsPavplotFZ39SsnlqPAWi6nr8SYBkaiaQEmBeD2tYlUIby7mYFr8Pu8rxkoDczch6qIDoN0CxkncVz6yVfMVszsDGpgeUOGJscv2Vt0dOcpIc-W7GxWKmuJOi_VOuzT1wFHmmQcg_xlU0px7OSkBKuNvbb08790Y6kSgDEK35qm2DhwNNABfVT7zdDIqWjvxeZJPLEKtkQ0AbeOvexKgAwD7Tm1NRYQ",
+      "width": 4800
+    }
+  ],
+  "place_id": "ChIJLUVoTmBbwokRC1-4BFSNJ5s",
+  "plus_code": {
+    "compound_code": "P282+2H New York, NY, USA",
+    "global_code": "87G8P282+2H"
+  },
+  "price_level": 2,
+  "rating": 3.5,
+  "reference": "ChIJLUVoTmBbwokRC1-4BFSNJ5s",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "P S",
+      "author_url": "https://www.google.com/maps/contrib/109610192256782219601/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIFNmfI5LT8svVn52YkCxyROE3B43MbJTucXMkvH9B_Lid-WA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "My favorite restaurant in Chinatown and I have been to a lot!! The fish broth is consistently high quality at a counter-inflation price. It's a shame that not many tourists have found out about this place and this dish. But they will, like how they have found out about soup dumplings. Let the message cross.",
+      "time": 1728436694,
+      "translated": false
+    },
+    {
+      "author_name": "Lynsey Thomas-Twyman",
+      "author_url": "https://www.google.com/maps/contrib/107635247321774526252/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWX34SF0H0rzwO57rMMQ38uv7tb6b7NkiUZmFBDaswDr7HcwsbZ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "8 months ago",
+      "text": "Mrs. Fish is one of our favorite places to eat when visiting NYC. The ambiance is very family friendly and the food is amazing. It is served family style so make sure you have a big appetite or family members with you. It's located on a side street in Chinatown and you can easily miss it but trust me, you'll want to go in and grab a seat. The Jasmine tea tastes better than any other jasmine tea I've had before. All of the good tastes like it is cooked to order and it is reasonably priced for the servings you get.",
+      "time": 1729636751,
+      "translated": false
+    },
+    {
+      "author_name": "William Chung",
+      "author_url": "https://www.google.com/maps/contrib/112943721531080558829/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXOdB_cmgwVK3fR_8C0iAqMut_ShMjlkVpthNxmNoXbjDrqFvhbyw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Our family had our dinner in Mrs fish on Saturday in February 2024.  Despite the restaurant name that resemble a Sichuan restaurant, this  restaurant could serve authentic Cantonese cuisine.\n\nWe met the chef that evening who has culinary experience in several famous restaurants in Guangdong China before migrating to New York.  We asked the chef to do Omaske for us using fresh seafood.\n\nOur family was happily surprised by the elegant plated and delicious dishes in this 'chef special'.  The chicken with ginger and scallion, deep fried orange peel spare ribs, baked fresh eel in garlic , tofu with stuffed pork and pepper with stuffed shrimp, fresh giant oyster in XO sauce ......what a fantastic feast that we found in Chinatown!\n\nThe waiters were friendlyy and attentive while the place was clean and tastefully decorated with Chinese calligraphy frames.\n\nWe highly recommended visitors to try this restaurant, a hidden gem in New York Chinatown !",
+      "time": 1708875295,
+      "translated": false
+    },
+    {
+      "author_name": "Zara Khakpour",
+      "author_url": "https://www.google.com/maps/contrib/115693307433111637109/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXLh_zG9-0eC72Iw0hJ3lhHnJ-RQzeFCzx_nsZvV8XkSUJ97r6m=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "2 years ago",
+      "text": "We had a good experience at this place.\nThe food was amazing but the service was slow and not great.\nThe staff were nice and friendly but got confused with our order and the other one\u2019s order.\nMake sure to try \u201cDumpling in Chili Oil\u201d and \u201cSoup Dumplings\u201d. Both tasted super delicious and fresh! The chili oil was not that much spicy. I would come back for this dish!\nThey have both inside and outside settings, but the outside is close to the corner of the street and not a good place to sit and eat.\nHighly recommended!",
+      "time": 1660518638,
+      "translated": false
+    },
+    {
+      "author_name": "Elana Hinton",
+      "author_url": "https://www.google.com/maps/contrib/109810052506468804336/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocISWziHBZL7K16cJKl8kDCbEF9OsQS0fESS0tr54xTJrz97rRMz=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "3 years ago",
+      "text": "The food was aighttt \u2014 it got the job done. It wasn\u2019t great\u2026 it could use a a bit more flavor. Specifically the lomein, which is typically an easily flavorful dish. The green beans also lacked some flavor, or salt, rather. I did however think the pineapple fried rice was good, I enjoyed the presentation of it in the pineapple and all. The service was attentive, until it was time to pay. But that could just be my impatience :) The street has complete outdoor seating and the area felt what I believe to be authentic. I think I would come back to try the Beef Udon noodle and show friends and family this cute little private street. Perhaps we just didn\u2019t get the right things. Also the lobster dishes looked good, but I didn\u2019t feel like discovering what the market price was going to be. And speaking of price, I think the food was a wee but overpriced for what it was. Ok, that\u2019s all",
+      "time": 1633791182,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "restaurant",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11180059991966506763",
+  "user_ratings_total": 313,
+  "utc_offset": -240,
+  "vicinity": "34 Pell St, New York",
+  "wheelchair_accessible_entrance": true
+}

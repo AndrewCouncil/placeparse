@@ -1,0 +1,457 @@
+{
+  "address_components": [
+    {
+      "long_name": "Foot Court #6",
+      "short_name": "Foot Court #6",
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "long_name": "133-35",
+      "short_name": "133-35",
+      "types": [
+        "premise"
+      ]
+    },
+    {
+      "long_name": "Roosevelt Avenue",
+      "short_name": "Roosevelt Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Flushing",
+      "short_name": "Flushing",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11354",
+      "short_name": "11354",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "5254",
+      "short_name": "5254",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"extended-address\">Foot Court #6, 133-35</span>, <span class=\"street-address\">Roosevelt Ave</span>, <span class=\"locality\">Flushing</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11354-5254</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "Foot Court #6, 133-35, Roosevelt Ave, Flushing, NY 11354, USA",
+  "formatted_phone_number": "(929) 758-8666",
+  "geometry": {
+    "location": {
+      "lat": 40.7588367,
+      "lng": -73.8331334
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7600667802915,
+        "lng": -73.83171261970848
+      },
+      "southwest": {
+        "lat": 40.7573688197085,
+        "lng": -73.8344105802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 929-758-8666",
+  "name": "Fat Cat Flatbread",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2030"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2030"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2030"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2030"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2030"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2030"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2030"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20098:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109230038350736154535\">Jay</a>"
+      ],
+      "photo_reference": "ATKogpc3nbynyX-vVXrS5I2ZdR5euuDeeExbXS2C3dLQE-_eDv5sdfIwNEAJiEvbC60TFvIeptxlETXVGNQWl2EElUMxpFSl_xcx0zW6Xk6APEYXMhAG3O1azGEeEf6Bb-IFI7Hop4hJgVU1ImE-drrPoMUBlXKEqfrcGVPuDFoeJA_uXZGdKko1ZxhYOzaZhG-KZHZbFgxtDGSTIpEXMDjy6i-ORdM8bDDR2Iu6jsvJ-frvoDp4NVgWO15--XD_QoR3pKQzLlGiZ-k-o4f4m6qUrL3C601JCuozUOyB72f5MOsHDaaKJU1QNPpetr3Q1co_gJr2xYb2DKA80kPDEA0avmTmSn4b8mjBL4GlQH---P9ekQUapIAXyLM4nqGtAy8jj0oJ9kyJ6JTMlTZtxr4bIFA8i7nYn0G2f1RYFSHpOw52QQ",
+      "width": 3024
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116244520038688184480\">Krystal Liu</a>"
+      ],
+      "photo_reference": "ATKogpdHDwHfjeF7yaExx93p691VyL63DQ5W2iOAzDDqpAtAp-cYr4-jQ3A3XXbCuYgXthTeHRUTKA-Mh060R5EadETi8tXlcpHBj1ggN9kO3Wv2i864VSlYNLl3CezRsmRtog-rf27Zoanr-ahcNumAxxHwBQ462v_ISqIRSvCnV5E0lwSquK4mGZVRlYLhDDZQlRlADM3bH-EoiUy-Fn2YApxX62S5c0mRX74ZqlQFshrM839uN2ba4LfhygObOezBgyN5ng3UMfUm_dQP04tbv09mMF2apLkxMn2BSAKt1PXQYPYln04ATE_U7DYYJPhVGNbzl_xr36nOckrTxn0EqQI9RxypypUkUH5sRfZmD9DNCxmqXWpJWWUTMwmwcGFSB5YlJAU5K0pEw6qKT9huMiwidi4QBKHcVmSqe6QyBkCgbQQ",
+      "width": 4000
+    },
+    {
+      "height": 3472,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117477596645586486471\">Jason Lee</a>"
+      ],
+      "photo_reference": "ATKogpd397OUQ6JqOFfLATcycBoE2N6oWzGh9JK_3o4RJTeNK37830YdGE9bYv3-qfX1p-Ce5-ToghD9WVRs9EodVuMytnZLa3YvI90Ov3jq0ajhajATQMPpCDzxh7u9S1NIIrIlQzprljjoBYQIzPXs3ahIbcRqp-LQx-yhFkfssZYGfHCPCsTHkYTkicmBR1cSonl5Gy-dG2lAt1UMETLxb9tiJ3MhcyAvdm6TodubkunzUFD_EWSX9R10VjWC4TkCCXj2Sbu5fb1pBnQZhlpv8Qn4RDVJZsqqZG0SAA2nPBKmFOsC_Oam9hXhUG1u0RWw-AUW4629K83JxbSbdsjgpROt_Ss2lqPE0QjmdxmAENsbkGWVcZ-YHyJSvRdYtTL7Ls5rUlGB4RZHHKiqdKxgM3sp7fJIEIkILKb7XVa4MGKb5w",
+      "width": 4624
+    },
+    {
+      "height": 1559,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105768065498491652934\">Andrew Kanouse</a>"
+      ],
+      "photo_reference": "ATKogpfqAbQTiVdPdb1tJ5Z3g2c3ZUsLzPKODMZku0bpuTbhGArT-aPyl-DwV9kHvl4OQ7-sO9uNnIm9TgzM8LnwsoU0WLDnOhFaLHUUY5dYKWLr8ae9uapYBemlUgB0aC65CgLwuc3WkwSy6-mxiy3lAviGZopQuSS7qJVHya5nGT9jfOj63NSj4i4j55nI2iXRQPgcGsY803w-fbv-fzHc_GWJgIHZlRYJI3gyxQk3kcEGbT-r_i_K40J7jQlILHQkBehqqY1s8lFaQOSZpK1WR0rTNl4LzjtYQEbg4d7dop5xSiFbQS8H6_RZ-bdaWQBAKZOQbQHdXtXtu6Uah5boATwYjreYtsc7j9lKBcbrB7hsihDujlAAxk7cmPX4FOEDn6ttE3H-mzyyNbBzBnNdF-WrE_ZLKyq0dRw-N0_adcdYNA",
+      "width": 1179
+    },
+    {
+      "height": 2736,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110601374255020992428\">S. C.</a>"
+      ],
+      "photo_reference": "ATKogpePlIjqRCG9EFW_7zaSrZQIP02vT25MtFxm1RZ4_qm5tF1BcV6r9oCN2RKBS9BROsx428MfSvBPPvMuB0AC-KeD9gORzpVF884p7PDj2-wz-Fm9O9w9sFtUZ1RsFvZ0jstp_eiYDy8IRh876Z6NAH3I59rjJwwbf-hhVzDIsORtN7Mtg1KRXJvxnkElFh1nZicK80EdIHH2to5aLkMJjrSRSro2SPXhoaQF3B073kV52XMBQTdWI0IHYHUcYWt_lcGi8t8VZ4cJqXb2VuBZ2YCk6W9Pf3HomlwP5Sy5hi1Rutz2BRgduC07JtN1GmquvWXruazXBI24zTAJ7DN87udpTznjRAMykmzci1Ln6zVeQ3HnOOuUywFWoJ6MULoPxd_ULuGjqHi8L8L9fVDRSr0xoaWkn73-yRsxUOIjr3_hNBs",
+      "width": 3648
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103953798914619685448\">Cris J</a>"
+      ],
+      "photo_reference": "ATKogpfQ5fJFiIPWvM5alZICzxnyOKUPHjmYqQS2BW02Cr7xvbRKKbbmvFYAasJkBprMgHKYLYtV_Yle6BslWLrlDHEUrs2p6TYLy_c_yhTrSfJS79xa_FHqvQy2agZWr0bfTS4N0VeQNko6CrTc56MWYFWcrnPkVjiJQDS6fez-mpJCvHXj1e6OaKa4yQqILTIDqLPWabg7GnYX8-16N-VtJD1GmBTklIxnswi6jS4fT8CwEDRQtaV5Nk6hKvgd5GqpqzsaFToi1zxjAD5-oMLqHphzgAt-9oiK3Xv_cmSV6EHpr7aVHfqJaWOt_h-DIw9bI8f8_ZkMZUSvUDB-rfy4gaDG0-hebnb2CjEOUin16YAajlGk5ZQNMZ-0nT8RJ8U3UNaE3rc-oHk_wWCTBy-j3WrdlRA8-p56JTYkoFG52IA",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103953798914619685448\">Cris J</a>"
+      ],
+      "photo_reference": "ATKogpd7dpMowz_YFIPyXc9Aa-IAIuZtO8V7YHAsS7tsrL8W_66ZkLzK58CAkMpOdPBAbnzDkNS_fmgZATgJVzvpSLUFvwodvywP3U13JjXPaawKgnzk5Iatnf4S5EScu8oH84DJqsxMR-mDta1n33_tQetxfGag04wkpQTZYUxDw-hJh-aSzb-Ks1Xepw6h7GZuG-wAMvWT1TWPNz0qP-gnTkqwc5kInSr3XJTHwj_Ood5-LmqowYuLZPQHcky-1E5d_nypv09x76XZheNrl1OIule1l9-qYhJur0Be8z5qhcO1jQLkPOntvorDqw96uylJKfErwSdk7CitBAKIzrxW0BAf7OY_LuJeLY0Uh56SalFM5pjjQIEMS5GxVnTCz3iVeEhwE2Vqp4_YOWA1OB_Wyva8G8tRVZL7X_bthW-dUxemeKw",
+      "width": 3024
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103953798914619685448\">Cris J</a>"
+      ],
+      "photo_reference": "ATKogpd5_HlVGdDuksQHL8u2IHLxP3P5xF8k2Hb0x6IEcHTt7oqioKJeUPXlcbtH9PuCCJOeXC1lohJDC_o5KMRh8hBTsaiGUFKvVH4v1Z288sNbds9nr8DS_ulNd0TXCwzLhc84sfvNdoZR08ubtGxBUMA7Mv-fG0ZTFX4dJZFuUaugTSlkXbBN9xLT9Q-IlGzt58QHNky3vMmgiAC9ZTJQEyPFLBdi20zdv91XEEdNdSr9kGhjE2WtfbroJ0VYQ7PJS9x5OxEKTmlbabeklmb4VYsWNpvzJRKQ2BlEokZkzN6EiJ3_XAmor2GPWa8dNZ66dlbcfoVNDs2Xjvhh0JW3bKZsrrA95iyS-ZIP2H5EJD_pz67aTTcSWGaO9HGPBjzcTPkUHHQX2sRV7AsdKFSPHZmIiluYDbgHOY8vK1zi4DRHMbIO",
+      "width": 3000
+    },
+    {
+      "height": 3648,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110601374255020992428\">S. C.</a>"
+      ],
+      "photo_reference": "ATKogpcwquPrzbVm0Cj8hy1A5RxS5mlVzBdqbkZ4UdKAgYOtCaTRv5ULpgBSZowkrJ6S41kjnFY7ZMJS_5Hth2ekB9kNUiKhzlWO6Y1m6xQZpU4sEl8GPTzUpFTnUHnzovO3IuSklfB_WUzS9djKWtsRLCHf2DDbQ7KrI_Ul66PQFQvRJ-t36yTBwelbUeSPDYQ8oKDMmhcDLPkR4Tiy-v0BfhbJwJeuvTO8YW1h8mcGlHfcDwji93TNYvonCOwDqcFsxZMZzT3dM2xwGHF_4tlOFlcdl64ad7vzARf7pM4MPXTWXaBIXnLDfwhK509_Vqr1hBJ4qHPOqvXAAm6Dt1nanjTRTEt9Pzqs2x3YZZpfJuV-_8CbmuYfY7qGpCnnPUlIf0J2kpRJn4XhSOzPoQjy2umWvIogdcrhRd8iW4IhfpqsBQ",
+      "width": 2736
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115863208327875876327\">Aubrey Lu</a>"
+      ],
+      "photo_reference": "ATKogpcfr7WndaCu_7aKEqtMn0y_HzFFJnjGuZVlzmumAswXx7QRq3wZOu4Tk5zFenFJrekx8N0nVH_AsgPQ5cirAsJxq9wrgfynxM5wHfPV4A2i9kWb-DbLAH2YeabWh2VgE-Fi4QHoLuwROQMFNExQcjKJ-xzquc-Jq8hNB-dJjMO1vIJwCcGX4smE1eKehha2bcc2uwInERJPXgwo3M2GsRyo5BsvejrcSlQ8RRf2BLLJBxKlsshc8vsdw72Djr-Lbw6oj5m_10vguosNyEWWx6xZJlO_xq6mZ9GvAqGKOyj7Y3iDeA9YiLrGN8vmyv7dB0orfaXc9o95-mKs_KztZgj4qD-I6FoVI_74n2AZpvaAbmZJOdTBMyNhXK-_1QtB15jYPXi2-ygYx6krq7c4seg--9r7DZqaqG0xD1aLcc3xzQ",
+      "width": 3000
+    }
+  ],
+  "place_id": "ChIJ18yL0p9hwokRiyGHnhPBmAM",
+  "plus_code": {
+    "compound_code": "Q558+GP Flushing, Queens, NY, USA",
+    "global_code": "87G8Q558+GP"
+  },
+  "price_level": 1,
+  "rating": 4.3,
+  "reference": "ChIJ18yL0p9hwokRiyGHnhPBmAM",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Krystal Liu",
+      "author_url": "https://www.google.com/maps/contrib/116244520038688184480/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWkbis26c5CSe4DAhHAcWSONOrmdcW4oIK41VP2uM1ZscAvx_J_=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "The flat bread was really great! It\u2019s freshly made to order and very crispy and savory! We stayed in flushing for 5 days. With so many awesome food choices we went to have the flat bread twice! That was how good it was!",
+      "time": 1743130777,
+      "translated": false
+    },
+    {
+      "author_name": "Jay",
+      "author_url": "https://www.google.com/maps/contrib/109230038350736154535/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGnsnhIlAMxFezlAHArRYp9hMRfFldFFe2IP4A0VOgp3_ppw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "First time trying this type of flatbread and I loved it. The flatbread was thin and crispy (so crispy) and so flavorful. I got the original version and the meat pressed inside the flatbread was juicy and seasoned well. The flatbread is cooked to order so make sure to eat it fresh. A bit expensive but worth trying",
+      "time": 1707673894,
+      "translated": false
+    },
+    {
+      "author_name": "Abdullah",
+      "author_url": "https://www.google.com/maps/contrib/105229872591470007995/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUp7XPOYmYajMgsnmnm5A9EC4Sx3fYIxmtfH0wiRxIJfnV6JJMC=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Crispy, thin, and flavorful with a slightly sweet flavor. First time having them and it won\u2019t be the last time!",
+      "time": 1742908897,
+      "translated": false
+    },
+    {
+      "author_name": "Emily Liu",
+      "author_url": "https://www.google.com/maps/contrib/115984644933525367373/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKBSlfIuHS9o2poZE33Mbo3zu3R_UeFAgydhW5yitC3fRXUrZU=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "in the last week",
+      "text": "The bread was pretty crispy and there was a good amount of meat inside! Overall it was a good place to get flat bread to go.",
+      "time": 1750702029,
+      "translated": false
+    },
+    {
+      "author_name": "Charles Palting",
+      "author_url": "https://www.google.com/maps/contrib/102376329717931269698/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJNe-L0-Lwv650gglrHJ_d3Bgf8ErunpaIyV_nMZG0u2T2Peg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 years ago",
+      "text": "Food: 5/5\nService: 3.5/5\n\nFlatbreads were awesome! This is one of the stalls located in the food hall. Very good flavors and texture on the Flatbread. It was worth waiting 5-10 minutes for one to cook. Staff and service were average.\n\nRecommendations: spicy pork flavoring",
+      "time": 1678074108,
+      "translated": false
+    }
+  ],
+  "serves_lunch": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "point_of_interest",
+    "meal_takeaway",
+    "restaurant",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=259169268581998987",
+  "user_ratings_total": 48,
+  "utc_offset": -240,
+  "vicinity": "Foot Court #6, 133-35, Roosevelt Ave, Flushing",
+  "wheelchair_accessible_entrance": true
+}

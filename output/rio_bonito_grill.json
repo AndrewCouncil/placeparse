@@ -1,0 +1,399 @@
+{
+  "address_components": [
+    {
+      "long_name": "33-01",
+      "short_name": "33-01",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "36th Avenue",
+      "short_name": "36th Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Astoria",
+      "short_name": "Astoria",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality",
+        "political",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11106",
+      "short_name": "11106",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">33-01 36th Ave</span>, <span class=\"locality\">Astoria</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11106</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1300"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 1:00\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "33-01 36th Ave, Astoria, NY 11106, USA",
+  "formatted_phone_number": "(845) 314-2845",
+  "geometry": {
+    "location": {
+      "lat": 40.755863,
+      "lng": -73.9278801
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7571848802915,
+        "lng": -73.92661241970849
+      },
+      "southwest": {
+        "lat": 40.7544869197085,
+        "lng": -73.92931038029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 845-314-2845",
+  "name": "Rio Bonito Grill",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1300"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: Closed",
+      "Wednesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 1:00\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1868,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106041192087651622542\">Rio Bonito Grill</a>"
+      ],
+      "photo_reference": "ATKogpfbP_N5aFx6FsVsEHI1p7ouN-uxD11BERTVx_dp6ojHyjZKLxgFKHW1ibXypA-_xhGOOADBvm5bwtC2I2e66NyvsXWUYGnMW0D59mMNabaeEngCP1arU6skxBEXvyAFiaZWswliaSOqiR0JmuLI5t0I8q58yYIc61i_VlvR-Z25Pzo6GR_U380PYuYDU3aYSzSzzItBZt_DxY0wiie6dloJX7wWtcmZPhETgqNdWMOfbATwlluZzKWYtK1UZlBcCIWmasCkvZXUMSMHLA3cZOY0Kz1mPxDG6tSBG6ItARjkIg",
+      "width": 4000
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106041192087651622542\">Rio Bonito Grill</a>"
+      ],
+      "photo_reference": "ATKogpfHdu1TjTn_pxS_HLChKbY_87zhCw3BrxiTxZc0KejnRPnz8E46cQsKlrPqRa41eW7cTukwnDKBw8QoU2rsaOja87KGytO-4IqLeufzYlcS6OsCqqkS01m3kTQ7YGn4N3LilCCsGBzoXSNmRhxvuA0WUgPp1Ns5LouNWR3af9FQ3pe46iOUwAR4Mf7eHkEFjYRC7oE70qIXMcINKgDh6jO2pQuGUbY0SOhWn-FIHN-fW2wZ9UGRsWhLnhpfR4xWBCy0SDpKSQIQ9yoJPUYcFEmUL-hkrqUuGZ55NvT7ZiPFrQ",
+      "width": 1868
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114014739223277807544\">Angelica Priscilla Parag</a>"
+      ],
+      "photo_reference": "ATKogpdO0G8CyNyGD-tjW2jbASbVRBYmEP1HEhiByLOjwG8rtbIYtnwNPazM1LWlcnmsnu5sBh3g3ujgfXbrSArSdYyZXzOYcsqr1mJXqtlJzK29rHcxYgZZjKo5yxfYdX7tuQVIYBGXVc_iGMdbR2wsjtOTB9iTFavCQf_LragdVc1XnvUINKwtFAyCijXiS4mCioaHDh0YyFjjSX9u2JT6kHRy0BAFIHd4Ed0LU_KkOlauWQQc1_-sPvvcE4pJlaMKrWaQK1B-vJQodkNoFlKMx2-HJoDyZE1q_eroC2ZbzsLaH6ArjOfzqqtJi5ZiBP6DOq2LxPMEsj5URqmx0l0keVlwFQ1IZIyKW2Z1mSaeip2UiBtH15kKg899pAH7VRIMwtLOFTmynupto7Tj4DNOJAIcP6q2W0X8KXLe9PFBcOxsAXYv",
+      "width": 3600
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116438896241500870167\">Sayject</a>"
+      ],
+      "photo_reference": "ATKogpeH7SXQ9UvWmXehUvh5S8jkCpJBjGGd3B0tOoxM0SD42ZRYNUYBlFUEC5EevQazJJn3flGFevqHLSwL5V9LU60FQbmfvYLQlJUMyeFyTPaxM8efcRFS66OR0DUC0Inm4SlwfCu8gzRMdgpmEYN-aXKxp9zE1I_MOSC_K1FzeFXl9VECYJkMby_OyeOqdbP9zuysCtx0vd6dg5fzg0lXZZcLssxFD6VLK_ZwkC9Mmj8D31eEVs3kh9n8N-5FeYrZeUEDMsk_Bm-Ys9B2c-zdRBKlAmGxQGcz1AVYiOe3gg5s8bLeBA9EutIqk0Tj0mhb-LNFrEW8_XEgB9tWOBJqoL39l63zMX1ks6l-CbgUul9kspixtXG7xfLta6bvB381tquERP51kuMSPln-oR236FDsRAI5jdjIoks7c9_lEfWgTQ",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112855966527215063093\">Francisco Rose</a>"
+      ],
+      "photo_reference": "ATKogpdKXCgnxo5UjWDs1_45vydFe0K8XDHXqIoxeEfVTJo2Wc3EHQKTi3AupBNMqMCf0jlaOalBL80uFOEqF3NONjJk2zWFvX0-3r014fiHpT2odmXBLgY6BI_GL6uVLfebrckduIcE83ZFsfkFjMR9r9AYpaWdkW9rf6Gj1GUejGQHXUtdeGs2wfZ6Mwjp8yeWqL_LdXrECKzoziMCCmgL497Jiy6YcPdnvwLO89lE1y6Sc0Q2gldcn02_iPURtmTHH_6WcIbAIhwchc9bElNO8SISBAtalTh51Mz1XfqsQEMrU98uLTS4CiDmYDvQvLezLDZ_-5lD4VlxNf1Ewh2dSj_D3Ujnd4VOjD1WxYKLQu-F_s7SG-zRWvIodHlyiI7LxMJBWkoKrKhzjQoldcIk_VW3qIsh2nGvvBUpFdJkFSyLFcsAC1v-S5yxpIQQaI2l",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106041192087651622542\">Rio Bonito Grill</a>"
+      ],
+      "photo_reference": "ATKogpfq0F9iYHbnNiUdi3GTEgQ2VpiL01oTGnuXli60hzVJo4LQmTAnDoMm_-Rb1fmR0MuwMMGd7vkuAWG8Qt7BVklcLZ9wrzq9rTd8Jjr1AsPKaovM-jn_63wWCZi1HJGmtS_-sbvlc9xlzhC58_eMrxqnhMR2wQRuJpdV6P7ifgH9BBE8rEnSRg0qyWHbTT1QDkfSfhQsWtMijuMuZ1mry-SDA3u7MSnyQYMaUbvsVRCllN_913Ys8eLXRNn4-RvgnJR11XGRfrRRvCzE9DISSbf_6dSdqhBwyEfCX2cmcWfHSQ",
+      "width": 3026
+    },
+    {
+      "height": 2048,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114586816686454505520\">Eliane Paulino</a>"
+      ],
+      "photo_reference": "ATKogpedOkBgG_RqJkPFr-RF0qTtP4AyIwratk24zcIn5_kQiGa0P5oaxqgMqA5NLDROBUX7ZgS6IkmQLoFt98lB72fldU4Sq_4o1-HhCOo06jKokb0reaSlOUvfjJVjOYycWRQd_JFqkI6ZKqZ48JRgBK2tW-xs72OGQbdJO_9tWkqAb5YFuDwAkYCGfQYHOAt5guHY5KIwJmsfhbxB3YePU0yPuWOfAOAqf4gYTlhZZAxCYpq_bRV6NFOJh4RVfzYHO5bSsK3j6Jfauqs9gNjYPJwJyZqBx060rKQCjknE9wElmRTl4JnUQnWEgEdQ009pandBWK227BNH2H6r319nt2MpfepDsEtqwPc0OsvlzgWQ7FcY2_qXZ2OFURww02yBL5vXdYC5VRNU4obinPnq1UCZJB3hcHPwomg0Dul8LyCLkA",
+      "width": 1536
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105776193595921846286\">Lisa Cheng</a>"
+      ],
+      "photo_reference": "ATKogpcfUolUD2tg3xkumcPLYx3FTakaxuCFo25i6-jL2vCxfg2-g_BMSu1I6iOfrvlXVndqMcvRofSK2tQEZnx8GSo3uhAuXlb8_OzjhF2fhEcsCH9RsAbbVvUq3QRnusUyxJUL-EoSsrEeC2eIU-QMOkfWBYGvfhd7GB4FwTHf-Dv-vW_v4mbKnbfD-nSmZ5FPAZG_aW4IjXcm_HIT3-R9Ii0euabtu0Fl8rUc_Fu0y9xUl1093THCcEisup1yS59qzKHPISybEG8_B5DOUCjw5L-LnG-x2yOeIHCHi2bGStHni9FReEFDFTEjHBu-ntSSdoa3IrlLd2Hwh7QnG67zf1MwDTAeH_Tnt6MoiOkoTvrcEA1LBQbgaWrodB0RmVU7CaAyVfn8XvfWOHw1PZR-MSoCGHnER9gzbgZjO8QwYfkbKr61",
+      "width": 4000
+    },
+    {
+      "height": 2048,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109987883115142738681\">Rational Vidda</a>"
+      ],
+      "photo_reference": "ATKogpdNC_988ItZrz4gyqFpkbpzMTrGy66176qJa4i0Zzs4UMI0zjE-gP4ZsjTTsCQw788MBIViit-YEc90IZpNMnG2E9yATkLiQaptQgZqTxPDCLeSqtSWlcW3PmjVsgmFUP-H_1JCSOQXFD8Pgcagb0iKO8Obo3zH_W3mfYIZZv4A2YL77D6WNjWNMyh55wV295zsF077rSq8_IMxWE7IobSv8B57_rCdbbdVrIKCq2JyZw85QJC6QymU9A5M7APcsgrOKi-9R-iqUwPrkwkKdw_EESKUtee8fp40RkKvjzo76vSspsCUH2tJDeM7vkTLPvDKJertD-_3m_hI1WXISJUXorvVG10gl_em-hzgPGt5nEbLZiZsm0NeIcqyTFFSjFeHWRMv9KcB0WVUD3boqFrPv6TS6mZQAKTW7sNqk5crcT8",
+      "width": 1536
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100568797087029549825\">kevin molina</a>"
+      ],
+      "photo_reference": "ATKogpc9jhawergtDRM88jrsiTevg2DqQg8zlK1QwKFLCVqveMDhMk8TbfeN9SG2inDltAbMxLF_9v_uGwkLPF5lSwpqigCDK0exoD-5jSanggoJQlWTxN9oS_EohdyoMgDd-SMKdBRs1ye64CtojaGudYy7oW8w9FPLRWA9gZrLR-ZDgL1Du_NvrnbkR2oCxSG0TXXy0lMpuaVkYFoCL_lUZgGQJAXNPJ3_7wy5d8GuLAFylKDRPMbGEdvqORi5NnMPOk-zKsjJlhBrYlsoviBbkVQlkE_CXgxIgZ0VFrIKZKup2d6J0BLmTyNiPIPgZlHjBXd3zhHSAq0B6ZjX48VEUTnIcutiFvWyaBoHqIcW9vgrsTtMNKlvvvzrEkO-myW8KayW3QGlpNs1kO22wcEFZjUBYQLCLLqdJ0Eh4fXAfBBnx5Vv",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJ04fgjKxfwokRJhS7n4zAVBM",
+  "plus_code": {
+    "compound_code": "Q34C+8R Astoria, Queens, NY, USA",
+    "global_code": "87G8Q34C+8R"
+  },
+  "rating": 4.5,
+  "reference": "ChIJ04fgjKxfwokRJhS7n4zAVBM",
+  "reviews": [
+    {
+      "author_name": "Asad Rahmatullah",
+      "author_url": "https://www.google.com/maps/contrib/116403053440258145496/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJG4R3PS2gHqCVQ2xgoNZG7kx9usJwoi9vHevnoIodbf4yVXwo=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "2 weeks ago",
+      "text": "All you can eat Halal Brazilian steakhouse located in Astoria, Queens NY. For $35 per person, you have access to 4-5 cuts of grilled meat including steak, lamb and chicken along with a limited buffet bar that has salads, appetizers, and fried goods.\n\nPretty solid for the value, definitely not as extensive as some of the other traditional Brazilian steakhouses. Went on a Thursday evening and it was mostly empty. Service was fast and friendly.\n\nReally appreciate the fact that they have made their entire menu Halal and no longer have any cross contamination.",
+      "time": 1749831090,
+      "translated": false
+    },
+    {
+      "author_name": "Firaz Ashraf",
+      "author_url": "https://www.google.com/maps/contrib/112491713545009202954/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXG6DGc_pwf5IQpm_7PtQyy21ASrbNvBwEjjviLZ6yfWGh9yrUS=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "Firstly, the place opens after 5pm and there are no reservations so anyone coming with a group has to account for that. When we visited, the place was not overcrowded (Thursday) so its worked out. The food is generally good but very inconsistent, even to the extent that same meat cut but offered at different time could go between great and not great. The salad bar was decent but what really worked was the servers were very pleasant and the desert was great. Would I be back? Perhaps as its worth at a one-time visit for halal brazillian bbq\u2026",
+      "time": 1745864064,
+      "translated": false
+    },
+    {
+      "author_name": "Skeeb Khan",
+      "author_url": "https://www.google.com/maps/contrib/108394631865995070322/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVw2gDhcxT1MY-2-4ZCvfVUsGrubq6Ysmx97cXpXCuxNTM5BGhB=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Rio Bonita in Astoria is a must-visit for halal food lovers! Their $35 buffet menu is an absolute steal, offering a wide variety of delicious, high-quality meats, including chicken wings, picanha, sirloin steak, and more\u2014all cooked to perfection. There\u2019s a salad bar with pasta and other items. The flavors were rich, and everything was juicy and well-seasoned.\n\nThe ambiance is warm and inviting, and the service is excellent\u2014the staff is attentive and keeps the meats coming without long waits. They also have a Mocktail menu which was a fun touch and paired well with the meal.\n\nThough we didn\u2019t stay for dessert, the options looked tempting. Overall, it\u2019s a fantastic spot for a great meal, whether you\u2019re a steak lover or just looking for a unique dining experience. Will definitely be back!",
+      "time": 1740624768,
+      "translated": false
+    },
+    {
+      "author_name": "Sayject",
+      "author_url": "https://www.google.com/maps/contrib/116438896241500870167/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUDF__D1Pw6LHUy6FlUAmxkDeDRS4beqj9cUBFf-u5m86GEgh5P=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Expectations were blown away at this establishment, me and my family had a great time. Price in my opinion is fantastic, Finally getting Halal all you can eat Brazilian! Staff was super friendly, and the meat was super tender. Especially the top sirloin, lamb & chicken wings. They said they only have about 8 different meats, but we felt like we had more which was great! 100% recommend visiting and I\u2019ll be going again! Try to come an hour before your initial time because they don\u2019t do reservations, the place is not super big but it\u2019s a nice cozy environment!",
+      "time": 1742143123,
+      "translated": false
+    },
+    {
+      "author_name": "Johanna Villa",
+      "author_url": "https://www.google.com/maps/contrib/114853400454518857124/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVFKIRrC4yh-mibkzgpZC7Asqog7jU4ujt4jZ9d1fo9nhwOtxtM_A=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "2 months ago",
+      "text": "This place is SUPER BUSY. You\u2019re going to get what you pay for. Host was pretty unhelpful over the phone, when we got there she told us the wait time was 40 min and just left us to wait there literally covering the entrance. There is no place to wait but in front of all the people eating. I get that it\u2019s busy but being nice goes a long way, it didn\u2019t even seemed like she cared if we stayed or not.\n\nAnyways we got seated like 10 min later which was nice. Waitress was pretty nice. The meat was not good in my opinion, they don\u2019t really have too many options, a lot of it was VERY RARE which I get some people like but not everyone. The \u201cBuffet\u201d is tiny, only one rice option which was not very good.\n\nCleanliness: bathrooms we\u2019re disgusting. Women at bathroom had random cups on the floor, one with water. So gross, one of the male staff came out of the women\u2019s bathroom.\n\nWould I go back? Never - I can find better options to eat for $35 at a much more friendly and clean establishment",
+      "time": 1744930574,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "restaurant",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=1392949894972118054",
+  "user_ratings_total": 976,
+  "utc_offset": -240,
+  "vicinity": "33-01 36th Ave, Astoria",
+  "wheelchair_accessible_entrance": true
+}

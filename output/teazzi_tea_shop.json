@@ -1,0 +1,449 @@
+{
+  "address_components": [
+    {
+      "long_name": "#3",
+      "short_name": "#3",
+      "types": [
+        "subpremise"
+      ]
+    },
+    {
+      "long_name": "47",
+      "short_name": "47",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "West 14th Street",
+      "short_name": "W 14th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10011",
+      "short_name": "10011",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">47 W 14th St #3</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10011</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Intimate cafeteria with an informal ambiance offering classic infusions, milk tea & tapioca."
+  },
+  "formatted_address": "47 W 14th St #3, New York, NY 10011, USA",
+  "formatted_phone_number": "(917) 268-1999",
+  "geometry": {
+    "location": {
+      "lat": 40.7372546,
+      "lng": -73.99572049999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7384788802915,
+        "lng": -73.99450141970848
+      },
+      "southwest": {
+        "lat": 40.7357809197085,
+        "lng": -73.9971993802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+  "icon_background_color": "#7B9EB0",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+  "international_phone_number": "+1 917-268-1999",
+  "name": "Teazzi Tea Shop",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112551066684741222342\">Jackie Wang</a>"
+      ],
+      "photo_reference": "ATKogpfopnDXsZp57hETZMysbdm8jLgXLYsUnlOLdd_XnZ4zH-5puQg39sBr-8CKfx_3UfrVLnrpBCDhCI7ZouFKH6DADnmrnVwamSp9AQ5im4u8ePlwdVon_epEVKxp3TnO7MwGtbi1bDh3DZZr1HTnIlyYZemWOC5Y4ii3zjYiyFcSJRrnsgWK_BmngEJzNyZsUwpAy_DeOHYP7b7cMb9Ewp5dn2DWrX1w-hkgLLe9KHltDuCyecj2GSBJpUg2Y99QN_12HtK9e1g5f6EQ1I4dDljMEeH-BVtv7eE4msBpOntDYJTL9X8Xsf1Gr9ScfPHNbeTsdsnvEvudIaA69ZnYAIkXWt8my6S225rK4ZvadJJK7JVQ3s662Nio2HBeS7m7nE1yW-lpuYnEJPy0GTXM8vuHLLC39OYMz17zvFZ5qyIqOGI",
+      "width": 4032
+    },
+    {
+      "height": 769,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103086032777928208613\">Teazzi Tea Shop</a>"
+      ],
+      "photo_reference": "ATKogpcC317uoQIOXQikyYz0wh0Yb391VQ5TwyYGeoqP5hbJIJbrI1ijAiCigGnn6-DwVLt-2IsE8R8XpaGm5Q1ufIkc4NnHlR5-sbC1L1qtsYBA-t71ZObbbmoCZWwwt6089YnfG4DgjFA19EUn8ATW77jlxeH1H_8zhdjAj99xghLcykbOGuHTQc0NfIk004E_e4jP5322vxsjFX7I7PW2DFL8ymgmHlj5cxXObbxQOfe750THoRH7i1_kDCr0n_VkJ6IQAKzGBnJcZWOgb74-xbgz_gzOBbZ3jSzkNw0R9cvsjA",
+      "width": 1366
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102224514901479491878\">Ling Y Liu</a>"
+      ],
+      "photo_reference": "ATKogpdMSdUiHfQzFMiU8XLUEPqyCStxyteZ0LI0M_HeN_rvXt2Huf-3LtWg0vJw2QGQm2n9AHsniJ1NfhPnOoToUjIvBzCePdogHVBO-dON6JXkFFjH_FT3nUT-8LlU14FuWSIvELAX05MWfpYLDARiUd0yhgjOBhZmGQb3QjAL6W5Mhn3qAlWgEiVTuCtESRMRw7lLf2mc6SZMIFom7mTICLXOXNfChD96ZDy_UG6o2Op7V5dGBODTUxDN6TYQWE9A_sgOmbOlXyPnPWImol1MSj1GCYjkBwM5ioO9qg3TpaKYXWLRxGhUMgJIkoAt0WoY22V9GLsprnQaAR7caeVdbKdhHsXlZEOmmH_dwvWAlJ-Pp5cDAgKGO57Jx3VWf7K35PAJs0H_ABILg4GC4VVECW5uz15MsAqbuCdk9CqycJvV7w",
+      "width": 3024
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102327688462678556443\">Najeeb Abdullah</a>"
+      ],
+      "photo_reference": "ATKogpc9FFRCT0WvspUSl1qZ-D8CqIUqnn2g7qAR_MaCDQ0F0gJrIEIU2rsg8uusOm392csGWFzkYbh5BOYIwj3cmR3BWZXy6hh5pKYYEVbZarRIEMkficWoeclLYFES4TwCcalumuT0C7_RZbakkcAfM5VRcaV7sdfa7gvX3s3gwConrSKtnxu8Q2fffGy0Z0qTBmBn4u3OhZqXnzjEANjhXFAEzWwAUZixEEyaDRq2rSzdwzoURoSUYn6yphP9-PRQ5EqeWVoz_azv9cDstZRN_haZlQxsBvyVoU6YJWsU-BDN_BmCfLzc694hzkatKIeUdIFnueog89_gRXozVZ7Zq76oLzE-qoHKR7ZgEKA7U9QzSHhxxMEhfQLa3iRBVso8EkjrY-TlY9fJvfAdTsYzepjcAzRPOnaSS7eXDDEzmzVU_ws",
+      "width": 4000
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114907131653717847525\">Jess Z.</a>"
+      ],
+      "photo_reference": "ATKogpe44bGgnqg44h4P-wRmv2DobsSEBW5mMsKfSsv6ff2GeRvMsjxDBkx9HbluStjqMUahXnbza3LDGrmI8f0Cfy0mHEs9Q9LfvQMo1goQsaNdQyUI8Dd5gRsRGZDr2NcUwMpxVXiq8jycZ_ql9BcEcG4CryRr5kNGm3ejuKMIGm5uJpTk0thhPjB3PUCg0LPmlnUNzbiEPa-msHZH8sin8y8j10JnxMPvaNz5jrtAt2h2C8xO9dv4EEnc9sVDJqoTI_KjRkNeJlKNmjbfaF9Gdn554vEwpZ7wnScXelJFfT2bBhM_gEhoLCl8wUkFvoh_nM0bMb378LVtK7tFO3q9kuZSMkxChbbpX4e_P2yW1QQ7q9W2fN-wILGzmdETDcrWRIAVOh11ekzB8Exhf5qiW6a_btUOPm2o-gj7hDUFVbj2VwNvWfeN-z-WnjxUtg",
+      "width": 3000
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102327688462678556443\">Najeeb Abdullah</a>"
+      ],
+      "photo_reference": "ATKogpfk5LE7eB9YgssiKLZSsbaSAV7o8fJrB50NdqI4AlbBJMcEQseEf5kkkANczsuk8YiWW2PMO8F7nTplG8r4qyXzC2RZhJQgXFYdRp3HuEVxPCd9Abx6xF2IzjyXEiF4C_qr25UFc6y9qulj0B7zSmnKyK2whvDTKNogb6kcqwM5wt5UEmFfoSFxCjoc0sSE44BU2dfcMPcGl7kbsLW-VXa5jhKX92o-738O7Lkp-kYb7fiWEfr2AL5eVOJGxZDgduM0zx59cwJSqb5v2XwZnA9lKIK2k6WMq2PjunxlFujRUgFTPZiqAfcq_cXm8Mw_e0wrPlI12dWhhwk_UNPZhLUPkXL9YG4WxKb0G2QegvT1Qw6-EGlCX0fYVVT31SH2Xy-ryr0bKxqgKxhMsExH2YBVNvd0yzAEa0nYBPZmNjFMhw",
+      "width": 4000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109548643805833091264\">Ivanna Kaleniuk</a>"
+      ],
+      "photo_reference": "ATKogpdfsHfVeipox3iaitT7UMrT5TSjDZRYkxbM7tCughjtcEwU7XnVYAReJsSyWjau0qwat-5blojmMnHfjH2wABJvsw64KH44I1nQRxq4BKytHExewnp1AceNz64AeScjKKp9RDKOf-66uWg1IKfjf4aUTebWVzoAQrh0l8D07_Dx7fDFfuQWF_GyH2a_yELhkC1gQiOnmRE9r9nulUwh8SiuZWHRNV_FMO4mP76RY_BQ4giIpy4f_FbWvLoIQKE1Fyoxk_GzyS_Ij5oJuja264fZpwJLy_XJPDkSGMKmQtfqoE2M8xxufp6NNhaHBj9ejdrKE2dPgqZsx7l-6NGYjSaSVPXavNOPrcdk_iDg32gpctwuv7saQbjSGDL31dNEjruDWxENS2x8Hyib6x9wByL1xmDpt5Zp7QlcsmAJvf4",
+      "width": 3024
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101473695699737316077\">Cheng Zhi Sheng</a>"
+      ],
+      "photo_reference": "ATKogpdpHssnMfutE5Y84TB_qjKD5PgSQ9G1swXoUN5C13uvvn0v8x64NQTx5wCWD0Es8MQO5Pn8VHk8_jJ-ULcupScfStkvYrAdrtcDaf7Cys2a8QrQgsesV3Gs04M7TrWy2FnRoy4qnHjj6zXq7cvKaVqfNhS3f3fe_kA0OIQliTPUxp4VtqgrnVqU_10TfJ_h6WEtezv_1nObHjuP1HOEDGX5bC1EcbizbOaxGPajBc1X82I5GInurWQVLj4P5F9qOrU-bKZSAH-VeRIaE8SPB07Gk1VkQX8Jc4IkNHWSejqo_OHRJX-JP3PHBgeY4RmPmT1nIE7JfPhB20Wv0a0hIbc1Pojr-yEjc65PWkwVVe9LYfZbrZKdPxaZY1pdmYKifL8yoYcwabDN3uqnJ_NrDB04bDnGOjU4ku5gigCXtTH3GA",
+      "width": 3000
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102224514901479491878\">Ling Y Liu</a>"
+      ],
+      "photo_reference": "ATKogpduSTQoaVjNDq1v6qFxTGX96Mqf97k4dxfatPHSFmB7mb6Q5yj9ETR2dc6GeTaKjNda3IpYrb0tWKg0IS3iP8uYWW4LsaUyRBZbywlUFgb7XhWjSuvDR8kJ0BQG_6lhNUmNiXdcCEPjn8w-U7ShNhIayhUP-yCBPF7tkeZuL2OJtxzyw9LLNLIakux_Y3HCJF_c0TF6Pq1UmaZukjjpMBILnX0jA7PvbJrTxQNja_3Y7fj8EJKKfQEl_sJPfMd6I26U5xyGK1vx0v_ZuzAiTd_Sv0dGxX2i4Cv_smnziOd8mHg0dKZ_FgPA2DxV3f2oOcKA80ut4PwWNnoWmuXutPBZnN78xYU8i76JA4XPFOS-5TGh9GOLBtxX0THobHJv0l1WeDrgHmgYc5VxMcAjWwBXqVb8He0GPsoq61dlbWaP2g",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115831370021301095459\">Amanda Wang</a>"
+      ],
+      "photo_reference": "ATKogpcbrNV-lWMVPX82IiUpIURKL2cS-xWEgfEl6-fs9CW7O7K4hmkMj6hcLw1mUx-2fIYDeniz4XjkjP4Seq8wdEbEMYxnGPuowdyxu6S4xtfZFjF_j1j535vh85_k0khJbB_66hjx_qxurrdqyUCHBOcCnBGTw-FcE1Qzlbg_uVUG8CUybWufdHjBMf1rqsB3meyDwppKDkONlJWu_sCX7wA7GiZdmkZVP5GY53OZeU3t8vq1nIlVGRNUkZxDPYeughK2z0vrVBWJHzpsRVh8Obxqs3PbZ-7hCmzWclYx-6VRJPqEq_RtYDs87ygamOqLbM-x-viAZXiqW9TiHKIrTLs4N1k98LVA2R1G6gemtQ24e7WfKNcq-ybOIAaY5zHloUOMD5ONR2lGudZyKdVzzdGRyGbEq5_UNGDY3vPLVW0",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJoSDs21xZwokR38kGGaF_O8s",
+  "plus_code": {
+    "compound_code": "P2P3+WP New York, NY, USA",
+    "global_code": "87G8P2P3+WP"
+  },
+  "price_level": 1,
+  "rating": 4.3,
+  "reference": "ChIJoSDs21xZwokR38kGGaF_O8s",
+  "reviews": [
+    {
+      "author_name": "Son Ngo",
+      "author_url": "https://www.google.com/maps/contrib/110747478775598784044/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV0gphXSoYhDDZf3JxFTKv4kHYBxoqUPGCYKwOvgQ5xfrsUApWCbg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "The tea flavors were truly enjoyable, and the service was both fast and friendly. I also appreciated the straightforward ordering system and the fact that they don't overwhelm you with excessive menu options. While the black pearls had a firmer consistency than my personal preference, they were undeniably flavorful and cooked to a good standard. Will definitely come back here more!",
+      "time": 1746390705,
+      "translated": false
+    },
+    {
+      "author_name": "Najeeb Abdullah",
+      "author_url": "https://www.google.com/maps/contrib/102327688462678556443/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtAOFdTR-tC94LpdY8uqtJTvjLxf8RWfNtUO6CXksx4-1qezEiiQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "Very modern and cool looking bubble tea spot. They have many different unique flavor options and different types of trea options other than the usual black and green tea. The service was great and the drinks were very refreshing. I tried the winter melon tea with crystal boba and it was exactly what I needed. Light, sweet, and iced.",
+      "time": 1721685405,
+      "translated": false
+    },
+    {
+      "author_name": "Ivanna Kaleniuk",
+      "author_url": "https://www.google.com/maps/contrib/109548643805833091264/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-WLPg0fJJ46e_-5eO6lGn8JsIl0YnxbDQg2bNT9oDbXiJqB8D=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "They offer a great selection of teas. In the winter, I usually opt for the hot taro tea, and in the summer, I enjoy the iced mango green tea.\nOne highlight is that they use real taro in their bubble teas, which adds an authentic touch.\n\nOverall good tea spot, strong 4 stars",
+      "time": 1719081855,
+      "translated": false
+    },
+    {
+      "author_name": "Rebecca Wellons",
+      "author_url": "https://www.google.com/maps/contrib/104262785003333369332/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW26Kp79rA3-LfvAh9zQSA9g4NM54LqkfMcR7VVXSRwJKFmyPoW=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "11 months ago",
+      "text": "I love that you can really customize drinks here\u2014just tea and grass jelly? No sugar and a little bit of ice, no problem! They have options that aren\u2019t available at other places, brew the teas in house instead of using mixes, and have some dairy alternative (and lactose free) milk options. The staff were friendly and helpful. You also have the option to order from a kiosk or a person :) It\u2019s more of a grab and go place than a sit down and chill one, but that\u2019s exactly what I needed. The four seasons oolong is flavorful and not over brewed. Definitely coming back.",
+      "time": 1721583885,
+      "translated": false
+    },
+    {
+      "author_name": "Cheng Zhi Sheng",
+      "author_url": "https://www.google.com/maps/contrib/101473695699737316077/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUPPFkq_51LrzX7MNXKawSKFBcftBgf8336jSk87mK-7wBNKefWyg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 2,
+      "relative_time_description": "6 months ago",
+      "text": "Extremely average bubble tea with high price - about 8 USD after taxes. I would say it's about equivalent to Liho in Singapore but worse than Koi.",
+      "time": 1735440548,
+      "translated": false
+    }
+  ],
+  "takeout": true,
+  "types": [
+    "establishment",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=14644438943211637215",
+  "user_ratings_total": 302,
+  "utc_offset": -240,
+  "vicinity": "47 W 14th St #3, New York",
+  "website": "http://www.teazzi.com/",
+  "wheelchair_accessible_entrance": true
+}

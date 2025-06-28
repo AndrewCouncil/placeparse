@@ -1,0 +1,444 @@
+{
+  "address_components": [
+    {
+      "long_name": "31",
+      "short_name": "31",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "W 4th Street",
+      "short_name": "W 4th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "political",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10012",
+      "short_name": "10012",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">31 W 4th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10012</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2030"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "31 W 4th St, New York, NY 10012, USA",
+  "formatted_phone_number": "(917) 310-0313",
+  "geometry": {
+    "location": {
+      "lat": 40.7292976,
+      "lng": -73.9955598
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7307156802915,
+        "lng": -73.9942429697085
+      },
+      "southwest": {
+        "lat": 40.7280177197085,
+        "lng": -73.99694093029152
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 917-310-0313",
+  "name": "Sanuki Udon",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2030"
+        },
+        "open": {
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2030"
+        },
+        "open": {
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2030"
+        },
+        "open": {
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2030"
+        },
+        "open": {
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2030"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2030"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2030"
+        },
+        "open": {
+          "day": 6,
+          "time": "1130"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20098:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 576,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106077710234591308878\">Sanuki Udon</a>"
+      ],
+      "photo_reference": "ATKogpd0pqLt3rQDisRNHXAGks-Si0Xgf1T1SFgr732QMUcgR2uq94SUC1YCYQhSbh7zBDffQv2dM0kdWQ5wmgz04-AfbHSk7QhR-yK60e9EihxEtUjd1goUm9366aMfL3s48sm5sipjGzBEONwHb72wksfGkxG36TPVLdkVMGHAAgJi2dkmrpTCq1T1gmCttPn6LCgvyKhh0WCYNUCgysc_16ccYwyZeoP9jPg6RjiNi13IhfR1TZyhytnKApJyidWETIrZpAE9m7fTHtxPGBju25n6f7IQuZlNS3U98aQN2-YGiQ",
+      "width": 1024
+    },
+    {
+      "height": 3840,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106077710234591308878\">Sanuki Udon</a>"
+      ],
+      "photo_reference": "ATKogpdrjQ3oLs0sDNxD132Jch-JxYCVXTiCsl3dmYdP4C7lC2qZPQK7jLDI5wm2xLiSwy0TK1TuPY5rEUDt-1ueXjFdjq7BZvV4rFLwMSXy10oE0tEn2u70UA71evDuHY_UifO7oekKTk1-10WEzf5Yel7THBtnivY0gMIdW7DYjK3I_l0eS1-iOsjzBhAYwOLuLIPmPT1jKTYAS32LvPqPuNwBH-JGRsFKH9vwLISWEj0uAbjC3XSxadcjBDvoF9LQnBQ_nd19T8ZUmx2yr999UiRBOdg_t6pGWffsHHC9zVJWZQ",
+      "width": 4800
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110969829192883999185\">Kimberly Lim Legaspi</a>"
+      ],
+      "photo_reference": "ATKogpcM7RtsxwFgyonw3ujJS3EcKlTG8HcnMeHsRt_aO0szFyGPIBP1Sv_mbaRJFrZmHg6ILXeG5IEnbGHrHJ5CCKwm4biUBbVFjTznjbti46bmpkk7zRy_EIxtw0xYZ3WmKPjQ3Onm94uSuWGGQCDgoRQ-LjkVBkk4Yws3IgK5s5Xb9UkWJr6ATlY-V7iooC4xY0z_YpnQvgP2E7Wc5rVLbi2uY4JavuGY4x9I4j7swwa2O4wF3Hjbo25_ohTYU05o2LBbkhOQW0FdQoyJcCZ-N9ca6Qnf0YrN389HPwrFlyg_1J26qdzff1SMKlIPdCdXU5Z5414LTubPB5BWqOG09rKQ7fWo3XowY0tKnKxbA9HTWr1weziqH9fqsWgf3lL9_aUUbleQ6sA1LCvwA68a_9n8fuTLKSQAcUf6aCnEeBjiGA",
+      "width": 4800
+    },
+    {
+      "height": 3840,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106077710234591308878\">Sanuki Udon</a>"
+      ],
+      "photo_reference": "ATKogpddOqm7roMvPAh-xYZmcyF9XY7bMhpNDvuQVdXzmflraCNqvnF-W_TBlohgVsWE3nVlt-vW1AeLmvi1FAZ3XSQC2AIOdUSeMFF3pTgTUga0XfsusmIPKTu0qPVCt9ZKbsshWs3FBDFxuZDabocMNh3rPURcRQwLq6u-GDij8Vu-JIu_Uk5TkhR7CH5y76v8HEUcxrGjL0jxw0ZMlO8dZLGWyVfiiVCwrOenI3PNQE3Guuh9Eth-PgIYerJfHQwXwM4x3Qebi9qe7mQu0NCm6-eDWIvUA0gjrvky09J_qfmeOQ",
+      "width": 4800
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114170223679587592341\">Lucia Jingxuan Wang</a>"
+      ],
+      "photo_reference": "ATKogpeaJ4HluLbVUjmIbWuvz2yMszbl2WqaCqNR2MRD3lmdcp-QrOYRgdHPy1mfx2mKuGzEW0YCXRFzUW3hokIQf0xKdI-eQjBxHaTIro5qDTw3KEHEbmFqhbdc9ZuRkwlJ1kymNIqeOCpl66KfqHZ6-XkTTTi1DzaK2AEnGKlfxDwaeSOWTeOoR_sAarrg8VBsOKDja-BGq_UG6zkwtH_JmKrtl4REErV7nKSgYkxh4D2N3TGhfE4zcJnWLXAoV-XOZ37xJRvdCudtVYnayntnAcbkonl7qRY0mkf6mq7q7YUr53mQ7Vxzd5Pbp-wwbHaOXhg7Y9fnh7claEcpHvBOoybg5BZPbAJmq-IYaz7mWIv-QlTdHK88op9lTsGBxz_vAlL7aeFah-ubtLUe_8ausF7n4Cj3ri9m6oRotmlwsgYtjTzoP-l0irGnAI_zHA",
+      "width": 4800
+    },
+    {
+      "height": 773,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106077710234591308878\">Sanuki Udon</a>"
+      ],
+      "photo_reference": "ATKogpcK_0YkSQ7KW2nuj4YdjtzlfqhDaCyB3zJdf81RyQUyGT1K4oKge46vq5nPIVcVMj54BR_Gyzlp9uM-5MBg3Ja6DZFM32T8fL32z3tnZlZI22OxbosAO0pdsSYMH5X8CeoSC3yX47RJewm4RYUPOOfSOtkBillDtuHc9whcj_a7O8Vk4LOstwiu550ouLPobQElP2IIIZIm5ey92DNg3wiLs9kWDZiEtwime6WI7mKjC9TdUAGuO-Zs2Zumohy2Gd18T1008pwwf6NHTwaS_7JqIYv2fKbmpzoiCoM_F4H1NA",
+      "width": 945
+    },
+    {
+      "height": 4681,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117808460219123378764\">Ruwan J.</a>"
+      ],
+      "photo_reference": "ATKogpdZ1rQPAHUWG2x8sHUdUaFzikpXE696FYo-PoDfK-4JphyC5Eki9Tt3JX_IICQCx5IgxvL6lyuTz4V0VRURCigA0pXUDt5uq8Rhsa0_0N-JLBCzn79zdGeRI0ZrDfrmkQGdyak6WeUHjpWJG-sPnCc2oUrWvPqi0MxfUKX49DjUpyeMeW_TNclx1DCwKTAONcee-8fGgH02oCBFaP1BMLfm-ju-qkAgtUs05d9WypT_1T0-02eu7vttF681d5CYjF5dMXDIU_Ex4kXnWxv6gJ0cJ_HyQ8fIHZqstpCT-2NVQmEObJUH0eMP17TlaaBQd-4SGAkiLa8sAOHQv6hK4UmLUXV5YxDyKIPx3mU8tnNOYspXM4le66xjqwU3KTAFoaY6d2WwckRrUAFp6HaAJAGoT_DYaKk5iHL-62ELPEOB8Q",
+      "width": 4284
+    },
+    {
+      "height": 3840,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106077710234591308878\">Sanuki Udon</a>"
+      ],
+      "photo_reference": "ATKogpdhEkttY47ESPY499pl2dQMj093gKbcxcIKG3pN_Xm1VCuH5CA-1FrRz5jNM5Q5FNZ61OVC4aitoZJGSMHCRMW4xIoEUZqSrhEczfYlIPh0Ic-Ui7QI8XTyq55IjBb2xQ69Sb0Gu8ItZAuGSDu0DTq41ihrk6lR4mw-6iZaQifLF9XmtAcXpduX1kROpqLjXyf-OgKXaa1Ww-RKBb303apVeBbjXYzybsJBZNvuAal1yFw0uW3Cup-zS8e6GXfwzyDXl49JIBag-e1qakAM26yqmCnM1wKCcScPiXWGRiBd0A",
+      "width": 4800
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100706034082159261740\">Wallington Lin</a>"
+      ],
+      "photo_reference": "ATKogpcLXXEMPLPFlnWJB3jRUp_eZxrScbVijs_vRsu0YUt-p0klz-yIrAK8p-du94FB2kxzDlFmiBX-AUffqq6D3hZFJFzLvR__XMZayS6kj83ukL-82sPkLTBCFTjNeP4uNoaqBll8jZ-fYAaI0C28VSKqzZMFCDj3orWdQsrbMvVPZqCLBoiSiDPHuzK_Y6Ba--ah5bDQvbi94o_v7tDp5UJPNlE5kEfjhHTriByYKQOg2_0_VsKFy932dTI1qVknqhs3fMdhRMbTIjJQoJOm8qMJlK1Ss9-ty46siCSgZk4lg6cnhEs9AB36QxNCbZncLj670cxFZ04IhDr3tdLGz4O_NYNFKjy09Dh4XlYE6U7aHoGvnMRiJJq7ohAg5MLIo-mxXTI7wD60IhntzncFEG0goWNq89vk2nodvd99SX_o3Jfb",
+      "width": 4032
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100706034082159261740\">Wallington Lin</a>"
+      ],
+      "photo_reference": "ATKogpeyx9A_eKCBPMhtAT6R9qdgnB_Ev0t6DoxtoNMeVA8nO1_0Px0QjrIV5znZsYMvOzp5PR1GvCZh8FvqpSdfjifqDCpFZJH1AldhNSF5GIPXjJ6JEY7zxl7VVSt1og_fu4hsVldoPUxGn6RrODWcaFYqhyOLcFQINZV4PLjBNigdkCQm_CHmcoTb5tTMSMl3cW3XgH9EuAWHQFh3BoCRuk4oYggsNHt332mXf_ILUqVKgopQwpuvT3DkKzVsqphqEIG2KRe0iUx6dsuJpuP8ew0J46Sxg3C0SpBB9i8A4x7y-aUvDXUfSHr1tN2nEZmBA1bAhlPgIGLW5g7s7MMvF5WySXQ1ESwznOZejARovEo0JReMCP7Hvw47x2800ijyaOeAvcIqa8_FR7HleBOybqqRiibR5yvClD3GhxdwWk1E6Q",
+      "width": 4800
+    }
+  ],
+  "place_id": "ChIJNejimAdZwokRC3iuaLWUJXY",
+  "plus_code": {
+    "compound_code": "P2H3+PQ New York, NY, USA",
+    "global_code": "87G8P2H3+PQ"
+  },
+  "price_level": 2,
+  "rating": 4.6,
+  "reference": "ChIJNejimAdZwokRC3iuaLWUJXY",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "A",
+      "author_url": "https://www.google.com/maps/contrib/109107874001302534764/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK7y3ERMlh74HTWrpJ-Bfmc7CRKty2mQrCdQzZ5sr586BmsBQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "4 weeks ago",
+      "text": "Noodle shop with a Google review you get a free drink!\n\nBeef Udon was a bit bitter for my liking. I might just like my beef udon on the sweeter side. They were generous on the beef but it was mostly fat. The egg was an add on for either $2.75 or $2.95, I don\u2019t remember. But the egg flavor was great!",
+      "time": 1748665401,
+      "translated": false
+    },
+    {
+      "author_name": "Xinyi Xu",
+      "author_url": "https://www.google.com/maps/contrib/113625875924982582234/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKbr6lcrgs-rnc3CtAuE4CBYEashxti39w2tM6eDu3c5ACz5A=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Highly recommended to the students and faculty around NYU, who wants hearty food without wait! I had the beef udon and I like that the beef is thick and has very generous portion. The tempura crab stick and the soft boiled egg are also really delicious!",
+      "time": 1745275138,
+      "translated": false
+    },
+    {
+      "author_name": "Eva",
+      "author_url": "https://www.google.com/maps/contrib/100556235777158628185/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKTE8Hg7_1XF5Lo_J6R6ug9jJ3tPnzBVO5l6zBCpDqw7YMyDk9n=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "I love udon and efficiency. This is a good place for udon lovers with almost everything is self-serviced. Very filling with the side tempuras and with reasonable price. Very convenient location for students who want fast warm food. Didn't take a pic of the self serve station with utensils/ sauces/ condiments/ water/ tea/ take boxes with brown bags. Plenty of seatings with coat hangers on the wall and section by the window. There's also station where to put your dirty tray. Feels like a school cafeteria type of system. They take cards with a fee. And, the restroom with a code.",
+      "time": 1740877900,
+      "translated": false
+    },
+    {
+      "author_name": "Veronica Leong",
+      "author_url": "https://www.google.com/maps/contrib/106224111647418737820/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVL6-6ckNbPO7pb_Bisfjmo22YgNuPqnLehpCYgMPEweXiGjy-9=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "4 months ago",
+      "text": "Very reasonably priced Udon in a convenient NYU location. The ordering system is very efficient, where you request your choice of udon and move down the line to pick your tempura pieces.\nI ordered the Beef Udon, which came with THICC + tasty slices of beef, unlike other spots that may give the hotpot beef, so this was a pleasant surprise!\nTheir broth is very savory as well. The tempura was very fresh, where the staff are constantly frying veggies and other protein. Highly recommend the Chrysanthemum Tempura - it was surprisingly really nice + light! The Sweet Potato Tempura was also sliced + fried perfectly.\nThey have a separate counter of toppings, tea, and takeaway containers right behind the register, which is very convenient. The staff is prompt and there's ample seating. Overall, Sanuki Udon is a perfect spot for a quick bite, solo dining (or not), and most of all - reasonably priced!",
+      "time": 1738526840,
+      "translated": false
+    },
+    {
+      "author_name": "Rachel",
+      "author_url": "https://www.google.com/maps/contrib/117347647206224505836/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXJkXJu_Cg3nQ2IVHuwV_Haqta6c-rgLzfAZNuKooey_ASMsdh53Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "I got the mapo tofu udon with 2 shrimp temperas. The food was really filling and good! I would definitely recommend this udon shop if you are looking for a place to eat quietly and dine in. The staff was really nice and the dining area here is also great!",
+      "time": 1738439289,
+      "translated": false
+    }
+  ],
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "food",
+    "restaurant",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=8513374177480046603",
+  "user_ratings_total": 570,
+  "utc_offset": -240,
+  "vicinity": "31 W 4th St, New York",
+  "website": "https://www.sanukiudonusa.com/",
+  "wheelchair_accessible_entrance": true
+}

@@ -1,0 +1,613 @@
+{
+  "address_components": [
+    {
+      "long_name": "1st Floor",
+      "short_name": "1st Floor",
+      "types": [
+        "subpremise"
+      ]
+    },
+    {
+      "long_name": "876",
+      "short_name": "876",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "6th Avenue",
+      "short_name": "6th Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality_level_1",
+        "political",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10001",
+      "short_name": "10001",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "3516",
+      "short_name": "3516",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">876 6th Ave 1st Floor</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10001-3516</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": false,
+  "dine_in": true,
+  "formatted_address": "876 6th Ave 1st Floor, New York, NY 10001, USA",
+  "formatted_phone_number": "(646) 943-4548",
+  "geometry": {
+    "location": {
+      "lat": 40.7479626,
+      "lng": -73.9889288
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.74934348029151,
+        "lng": -73.98764481970849
+      },
+      "southwest": {
+        "lat": 40.74664551970851,
+        "lng": -73.9903427802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 646-943-4548",
+  "name": "sendo",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1500"
+        },
+        "open": {
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1500"
+        },
+        "open": {
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1500"
+        },
+        "open": {
+          "day": 6,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20093:00\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 726,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115185878823522030328\">sendo</a>"
+      ],
+      "photo_reference": "ATKogpcaBIRfQOG19NJvhnG87Y2zJ1CDg-y6em-x4700Mi-c8yzwwQBaq4jZeFRs2AoOYcNW0-rYOQTxR5i8ymJjkaK_hSGwVWhhQqCAAUIEcHOMp1omqLMS70gU3FOBzqChyy43K7RMlBqQ_wo0ehjPs0xkFbZtGhKJcwXf5mF0m4r_CYiXMQJhdQx1QP7bfyd5_ftXAaIuojoT32wE785XynK41KA3wS6gb-ON5HYct7wf7PopdXG0J-8uGnXCn_82iGfCb3UFPCUCasqQ2NPsO8S3PxsIIRUzEPd6gWyosziYqA",
+      "width": 1290
+    },
+    {
+      "height": 1667,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115185878823522030328\">sendo</a>"
+      ],
+      "photo_reference": "ATKogpe3u_9jXuQyWc6fMUdkNzQ9ZsGL8KcFIWV4nJpa0AXf7wNwABgg6G9MPL3qBq6ANeoTxmv9uDStHSs4uddsHCAgGklNWLzcZ1l1-ezaUzoy5aObrbK1WpIQaS0cK97SxmGJJCBrkGPQjuqycY7LSbQ3rqprAV53y0GGLmsHIJpfitI_aFf5-JAS3my50H2PveYz4Cne25fIvm2DJiqdZ1RDo2W6AHZomssQiwPHf18QfT-Klz7N9IPrpI711pqqCNTaoOBCl4puFz-mWY8i7zHsK35r-wEkcHUHrQb_n1CkTw",
+      "width": 2500
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106095353762041924645\">Barry Heyman</a>"
+      ],
+      "photo_reference": "ATKogpemiHenu6GSuvIrwdo9hyyciejPACDIk-sUTn1BWMzzTDORJBH0QkEps7ChCw38_CxMVuksdJmR1AoWqsma9LECIaRGxcExOlwwU6BydWCIuLdjWK8mkarZmI6TXIpjPhqHNnB8n11SjO4X1mxC6TzUSxZD-ApXs2bCTW-0aG-DXKm2tUYnkVNJiZSuZJlPbxdsHgOBbFLaXwVKr7Iw0hpanxVr5Vtjj1IY-ggIOz1ZfXOHLJGM53HEhsCznZjpi0fj1UOtRedMEyDJWZKTzO4GG1wMhw4Oe_io4DAD8tICovFRa5F7qXl8hXP6IPYv-5GsHkkdmcJ0fIIl0FvYV-TN2p4aqAsqdUkj4kxOJ1bsJMCBVUoJf9VmvJ_VS0emZqLuc0KhIXQAO2EBqkc8jO_IsjA8DQK1PicsEx9twB9pfbT6",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116490958530754176721\">Ariel Birnberg</a>"
+      ],
+      "photo_reference": "ATKogpdbgAzP-Iko_9MEtFEu04rZv52vV2lz62CazjyIckXvZuz56LkjIiCH9qApziR8R_nhvHUwx-63xQAQ4P7T3-aQi7CbUxCPsGoLZSjWwhTKOEjWVf79rtuoWxLxjpSgVov5JkGoMWsKRsjc0cwJNDVPxpn4PNoOPpmRVUox8v65wn8Cn9BNINMbTPa15q4aOilWH0IWF3_77m4DF2bkLxdgp1rA4yVYXqoCReTUX0vSnbG-yZgj5KAt34jgYvVkBQbIHtXJKXtuFRh_QOxSGxjwQ4LxMiM45yk_dSmTOBvA2IMBTT1HbxLRcZs-shHILYqfJ5DDG9qXo7CGMMXpksTPXL3mTIK_jwdK-lixeOGxmZponjmg0MMEGo_luynGeQswAmzTXIBGh2_SmvJv9FtfnVKHlpahyiK7-VBMLXoXSrs",
+      "width": 3024
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101757046993504862412\">Sara Holcomb</a>"
+      ],
+      "photo_reference": "ATKogpd0hsRnpfSf3AS94bh-45x9plq3X5ylbbO-F2I2JAXgtRW8U35UaMAallNN0dFW2-U7Zb0-JDuPFq5Qz6w75E6GGRxTineg4xrHjYbhNLOq_bL6PP8KNV63mjG6NYPHpTzcqxGuIWYxijKDy6n_AibGvgkerp59fCriWkiSTW_i-Q-8E6ioXliXC7Tt4-0IM0v-auXWBAaatMT84RnEn6BBI9eLD3zUBHZo_KHKVVWC-8-Zo-bOnU2R2KV2C4ZzutO28mL9vIBTF0roqguZbFpyi_yz16n4vkJfIe5aG4taEGTphC0OZeggxaQD7Dejnusv-4dw85n4YnMIqRN18BEhfDMuKBuxp5z0zR92MXapybhUOVB1TsjnP4gE35PsR0-uBbFckQ-44BeYiGwRpgg4rWKtVmrap3ebgqT34ONCMPqN",
+      "width": 4800
+    },
+    {
+      "height": 2927,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102606538539938570193\">Seulbi Ha</a>"
+      ],
+      "photo_reference": "ATKogpd7NEg5wJuOddTvOqKteMLikfp2TiJLjv9LMkqqAHjwVeFxTJTyH9ArGD1iYyU7CwFd4Cyanr44rkKcnJWCLRsqYRfjhVLBlPFm83t4WZ-yJsd1GgDoquwpzOHDkTouV5taDEbdP-0kpDwIVlCM5Kk0K_LN2ojCHFaist7-0lFRUO9cGk8-h2xYwzDhUgFzOdjxFyIxbygw7-qYvjooyqpuT756WfFAid3EEDqXtFl7VuBq4enYSAg4XBXZN7sI5Z6k8T3wRM5Xnk--LpZ_n-qydbhUTFbD7-Yc3HSoNASsB6XNC2B19h0CHfY8HCTZTFVwxCrwOO51SZAGofKnBBJzX-HwDE37XyWHi4xhPNrCF2Z2jAePaQa8KxHkQ3qJHJHuIVNCYPBY2krKBEnNnAhfaVtQWcjt-xqmtjzh54HP5w",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107360753146635819665\">Maikerly Reyes</a>"
+      ],
+      "photo_reference": "ATKogpddRW7bTgtEdi5cgNBESx1wfVHVbNrR3zWK6HL6f43LihpgaM4tQKdxxP3wF4MGLiOTclA5SZeudkpr9Gi5-bYLeJqolsBuAspMmeDtkeyo-JJSq1F5NCIDb8G5Ink_zPFiq36WE_IH1AAyXWgj1qR0Q6V6rFts59XRzikqG_L9-nHY33O8tzItzajoowyB6TLPsY6OUB0HePBPLGKx8uqpvYZBZ2ANB-nHZn5TO4Gq4OdFL0bzyhUpUgyvHkE2zW8M6hVJ4aT8vBNMyPs6lsg52gzm1atv1oUKgTdCyFMkDj7xKnePKcIRM_880IHP_Ih0kC1EUNJFM8N2SB89GYtU9Lf8nMVX25iPK3etwZ-3sTwGFWpfoBLQcuo4H2Yv4JKWLCwKFoMUDBaIuuzbMhmoKolyyzi7UnS4KOmExMk",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115210279375180051959\">Bill Yu</a>"
+      ],
+      "photo_reference": "ATKogpckNNaW9rOav5xfVMTsMla7IzF0mCwB5zcmlwFMNL0cfqvoUy8IjGwWg0Yh2izqNNDqfy7aUyTA_96BxtYXg-zFWsjB8aNT3pgqsVUFdO16hKfTZeSY8J7DPli5H9fMv0ejdwYZtjjdNrbn9zZdw_9HpfzlQzHg6FSNM3ffFv7Huy1ubLvPzB0uFWNJ013Q3e_AAaou5PVNmqBBJJw7nVL-pfEJpknPPMpZ4ylhWFR7v1oxHUF2CssQdsHg6MKVQgORPIGw5Uc9X3KGZyRKAAKShZCA1k8WiQsIgV6FyW-vnB9SIXgSMAVBqrL-VeAU0ZoJCcDVOW-mD-fvOb_yJDthX0vv2L2BUX5FfSngprjBA2Mu9Ynfj89jGtsso5l7YOuo2IkK3UKLCsXhHOyLHKg81j1sByjWfEsBZ526kck84Tc",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102306720041042742742\">Rolando Delacruz</a>"
+      ],
+      "photo_reference": "ATKogpeCthSdP2wtTVTf9867wp1eQF1gtdVFHsUfA8qYty1ZVZcqWJdhkgJJ9Ivemys_mPrJeQPgeWPt5UruQVc37v1smTslW5OxWqKotbID-Vdmxk1egSDQAReet__aEWnAUAS0YbAaYZDOkqJMh_NIsAwBrI-94m3nxb8r5LAuBSKVz6OX1UJldVZR08T488oSdOtmkK6rooacQB4syHvPDm_IB2pWNJ1zOLP5qNIXi42Xgls9y8p4eGM2iDhdds2upLNSZhDwxEzZlDIIokndU7iaXDEhI2f8kJA5nH0nTjv425IzbDWqjXAkJ-UBBTNLYYekL6TQE3JS1QuzvphQOBwN1WYOQYyJUnZoV-V1Xf9RO0VrmescceZEkvHAfRpYkAKapMHRLc-z07NJ-iNWTU0sRsA6LzBvEVxbSS0-yp2l8YKv",
+      "width": 3600
+    },
+    {
+      "height": 1667,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115185878823522030328\">sendo</a>"
+      ],
+      "photo_reference": "ATKogpcwOCB_8qgNWaW10CSW8M2d9tnr3_VgwxxAKjoxK3LpFHhUOX-yZAvJBnHnfLLfgBQlWofcjd5mg-td48PwEL_wTPbFeYWxIp6UR8_3O1_eEFj8EWwLW4XmiKqfYklFFYMsSCJZi4j7n68b82CdPiyz0Kfz_86aAlXyrD-GLN5Y9AtRZ5H0rqPomz0eFFIr5c816ZeH33OLyYxg_fj5aepXYRL4sKX2282m6HwDxWRPABixMA0g8g0qvD5MuffZcb7QGRAHFpHuC1zdDGj_FuXZqMukkay8kFhiX-wDENM9Cw",
+      "width": 2500
+    }
+  ],
+  "place_id": "ChIJ147VsupZwokRC6Jn6kFXQPU",
+  "plus_code": {
+    "compound_code": "P2X6+5C New York, NY, USA",
+    "global_code": "87G8P2X6+5C"
+  },
+  "rating": 4.6,
+  "reference": "ChIJ147VsupZwokRC6Jn6kFXQPU",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Matthew Edelstein",
+      "author_url": "https://www.google.com/maps/contrib/109492999219118113256/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNcwU018XCM2gBZSLRBZvAdyOQ4p2QJ4jy_S7GhlYikh72dJE=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Let\u2019s be real \u2014 if you\u2019re in NYC and haven\u2019t tried this sushi yet, you\u2019re seriously missing out! We had to wait a bit, but it was worth every minute. The presentation was beautiful, the food was incredibly tasty, and the staff was super friendly. The atmosphere is perfect for a foodie date \u2014 you get to watch the chef prepare everything right in front of you and explain each dish. I\u2019d absolutely go back. A solid 10/10 \u2014 they nailed it!",
+      "time": 1750047059,
+      "translated": false
+    },
+    {
+      "author_name": "Victor Chau",
+      "author_url": "https://www.google.com/maps/contrib/111445485973830844271/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLOyPz_K5Hbpu9HBrkpQrTQ9duIBBiHjUrF7KrNeZGaq5Hz6A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Great tasting sushi for a decent price (considering NYC prices). Paid $48 for 10 bites of nigiri, two hand rolls, and a mini kaisendon (Hokkaido set). The quality and flavor of the fish was amazing, you could really taste each piece of fish. The fat was literally glistening off each piece. Tasted very fresh.\n\nSpent about 5 minutes trying to find the entrance. The entrance is an unmarked door on the second floor, up a flight of stairs. There was a sign that says go back to the first floor, which we incorrectly assumed meant the ground floor (depends where you\u2019re from).\n\nAlso got a green tea each per person. The tea quality was amazing and reminded me of tea we had in Japan. Spent about $140 total for two people.",
+      "time": 1743180635,
+      "translated": false
+    },
+    {
+      "author_name": "Heather M.",
+      "author_url": "https://www.google.com/maps/contrib/108150296851230025915/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKzD8bf4f1RtrbqnpbYLCSHli3UugF1KKCY9SNew4ydGzFMg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "Tiny upstairs sushi restaurant that only seats about 10 people (bar only). Affordable omakase sets ($33-48), even for dinner, but portions are definitely on the smaller side.\n\nWould definitely need to get the Hokkaido set (or two of the Kyoto sets) to fill you up if you're particularly hungry.\n\nFriendly sushi chefs and great service too!\n\nMain entrance is easy to miss with the small sign, but walk up 1 flight of steep stairs, and it\u2019s a nondescript door on the right side.",
+      "time": 1746999183,
+      "translated": false
+    },
+    {
+      "author_name": "Janie Chavengvorakul",
+      "author_url": "https://www.google.com/maps/contrib/109508220884875789334/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK9oJ2SJav4oTcn034NGgICPxOPRSYJz81kiyliggzKXwNSGw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "10/10. The tiny space but nice ambience. The ingredients are super fresh. The rice was delicious. The chef & staffs are also very nice. Super affordable compared to what we get. Wish there is something like this in Boston. Will definitely come back when we visit nyc again!",
+      "time": 1748137580,
+      "translated": false
+    },
+    {
+      "author_name": "Shirley T",
+      "author_url": "https://www.google.com/maps/contrib/110568912076761942740/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWjA2ebSXVT96KdG8mummjZdwIeWqcSINbnus9YuzRzexlhCxc4oA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "2 months ago",
+      "text": "The restaurant is called Sendo \u9bae\u5ea6, which means \u201cfreshness\u201d in Japanese\u2014but ironically, that\u2019s exactly what the meal was lacking. The fish didn\u2019t taste particularly fresh, and the portion size left much to be desired.\n\nWe ordered the Hokkaido Omakase ($48), which included 10 pieces of sushi, 2 hand roll, and a tiny seafood bowl. The sushi pieces were noticeably smaller than typical sizes in Japan. Even after adding two extra pieces, I left feeling only about 60% full.\n\nI suppose it\u2019s a case of \u201cyou get what you pay for,\u201d so maybe the standard shouldn\u2019t be surprising. But for a similar price point, Sushi by Bou consistently exceeds expectations in both flavor and overall experience.",
+      "time": 1744991358,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": true,
+  "types": [
+    "point_of_interest",
+    "restaurant",
+    "food",
+    "establishment",
+    "meal_takeaway"
+  ],
+  "url": "https://maps.google.com/?cid=17672220878418977291",
+  "user_ratings_total": 413,
+  "utc_offset": -240,
+  "vicinity": "876 6th Ave 1st Floor, New York",
+  "website": "https://sendo.nyc/",
+  "wheelchair_accessible_entrance": true
+}

@@ -1,0 +1,424 @@
+{
+  "address_components": [
+    {
+      "long_name": "57",
+      "short_name": "57",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "West 84th Street",
+      "short_name": "W 84th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality_level_1",
+        "political",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10024",
+      "short_name": "10024",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">57 W 84th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10024</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1630"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1630"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1630"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1630"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1630"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1630"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 4:30\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 4:30\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 4:30\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 4:30\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 4:30\u2009\u2013\u200910:30\u202fPM",
+      "Saturday: 4:30\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: Closed"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "57 W 84th St, New York, NY 10024, USA",
+  "formatted_phone_number": "(212) 874-0008",
+  "geometry": {
+    "location": {
+      "lat": 40.7851546,
+      "lng": -73.97274589999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7864281302915,
+        "lng": -73.97135696970848
+      },
+      "southwest": {
+        "lat": 40.7837301697085,
+        "lng": -73.9740549302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-874-0008",
+  "name": "Spiga Restaurant",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1630"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1630"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1630"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1630"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1630"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1630"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 4:30\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 4:30\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 4:30\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 4:30\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 4:30\u2009\u2013\u200910:30\u202fPM",
+      "Saturday: 4:30\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: Closed"
+    ]
+  },
+  "photos": [
+    {
+      "height": 964,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110863876074362647771\">Spiga Restaurant</a>"
+      ],
+      "photo_reference": "ATKogpcrPJVD-RbIUc3vCbAMHNZB-jTnzdv4O-MEK4KkwVONjJ2LjE9hHutWsWBqUy62PBpLyX86RVvQYNWqEzeUp-P4tT_yM616ZoMQpIcmDJNNBnEdTIarRJjKfQIPNHFUAbAdp4biFTvQlE03HNh--5XEn8WEpc9GATLvGNLFyzOIfKw-bbN-5A-rqhljEONzA6dTRCmSnYudUP_7oopjVBBx_2WcWmM18d2QBTXe_rCE56L2KfG7ms2OVsxGqLZjegvyQSDJHqfQMT89JUs6EkQrE13HhYxST-vWtmuPyk99Dw",
+      "width": 1115
+    },
+    {
+      "height": 800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110863876074362647771\">Spiga Restaurant</a>"
+      ],
+      "photo_reference": "ATKogpfjOvyEK3EsTyNTE9B2LdihMpykzhVCkieGXl8zvP-wQ7lj_X9ZedisE50J2VdHES5HlDowwejrMWbnII0l13a2JPsFXx9GQFT-Gh7wdSv8zlgBAGKbUKIx-yFzibIZevhteXFuj_01yuMtlhD1WvFizfFxFSEpGdx2MMuprbbcgxkkGI97CMv2lk2YFAV9I4EFlrAPE2bjKeolHJSBKKwFNyzfbIiJYT_1QdSOYz09U8QQnWxU6Q1tRmbG4BuvEWgx2STCOFrqZasLjh5iDfjZPX2pGfzvHJIH5xhgpSTnOg",
+      "width": 800
+    },
+    {
+      "height": 800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110863876074362647771\">Spiga Restaurant</a>"
+      ],
+      "photo_reference": "ATKogpe4vuPWStqvRPwu1-YjU2XTeK4tgrU9wrVvpN3_W9X7x6zOnaYicR53SWU6nw2r1p_HqRiA8bPYrViJISkP68uQZocLHYKP-fEchk6rQBFL4vsvyGxq_QofqdnjX2xKb4eHOyDPxjaZzMQMJFmBGUCQPMJJqyrKl79fkj0MeYUXeEb9nFB95iyIKcEyQeUbOV-CvhwithwoKzT-sCnLOWBAjmqkQSOk2KEf0Kyp25xt6yMna3WioDxP3hEzRBtRoK34BeMFs4v-gAPTwGVwLuCd1KaBGJgEdYAWqdOgSdMNVw",
+      "width": 800
+    },
+    {
+      "height": 800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110863876074362647771\">Spiga Restaurant</a>"
+      ],
+      "photo_reference": "ATKogpc_4fbg60lrfCeGppnrt_c1aE2TWtngERHcDfCkKp1EHcCQDTHBd5Wa1rxHP4SlIaQvKgcCakZ5RTNycZWN2S9omVINUghxP92oey4lHTJLD-MLBNTGKa-iaPMqjQj_NQVgdyQEd9Ywc3kAdLoNGDTNU9DNS1hwz04wDqGaz1pq7C0o6UEJo5jzQ3LdUMuhxOTFK837XJW9-8FV_eV081RdcqfFCOOIpGdViv5bJkWyO2ZL80EPvjOJX2cifymWdcpd3JU-iMoQ7_sS2v4CgATcAHa-T_Zpf7zz3tvk76Zqfw",
+      "width": 800
+    },
+    {
+      "height": 800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110863876074362647771\">Spiga Restaurant</a>"
+      ],
+      "photo_reference": "ATKogpfvjTYA0PPhWa3CKXZCGozUQzuOzyHKsx6M3oMDCsNTz42uWln6NgFcilwC5itGGDlxar1SfIVnSS0MZfGIW2xhcLz-_SNh20j3f9xcX4gbrQolOHUTurUQCTBdBZw6F1ukU4vyPzaDq0P-KEcKA3ex5RQB67Vgx8F0tHXRGZXxI_5TBa7isAsJaG_3THWo1d5vnFZ7a1rxnGnA09-vZG9RQV_rpy1lnhzzoYZ8orbL2PXMSQvXT9JJEc6bfjSmisSqWkJSz1TJb2u6Z4bTfVzWLo_f6-kF-ACat_xoQUkevw",
+      "width": 800
+    },
+    {
+      "height": 800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110863876074362647771\">Spiga Restaurant</a>"
+      ],
+      "photo_reference": "ATKogpfL6zvFJA0LOCZqrKeRL4BKj6cRhjuPZYOJ-PAyVcLLSiaxWjPGIKeh0ohTMFoHRZCKAbiE97GXooNRGG32bwzZll-NFhFwPQlwOk5UO3Y3OVwEeHjzcGhMunTKuqpsTW1jmTkTCLUPXkeeqK1J7_YLa_kOzURdmuwbTUwWQUIh2qG2gTmE_gGfkkGJLK64ObQ_pKT_f0tudpuq2d0treNRRPzyqnlmI-5oBfA44LzjIH_QegfmvBIWnKwIIP3pgHX4TSi5q7OXUOn9kGyYxiSAMzUNISmXlESZkjQZv8k0bA",
+      "width": 800
+    },
+    {
+      "height": 800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110863876074362647771\">Spiga Restaurant</a>"
+      ],
+      "photo_reference": "ATKogpcXxpEKe7GxPXX9P23ceLwa5dqc99Hg0Fy5M3z4ozIASOpDQdVy1rtCnqUCSKNLrUEcGe0UaOmmoYXwk5I_29Pe8v9s1A_aPorXnN-0Q-Z6dYH-SWCtqe4uiMwENkXoHB-RrHzvjZVa55c8O1-YdsAYzLcEl2DTxrVHI0p5kBqieVHUbm97OHxuV8RWzMLEvTjKisouWpQuCFsuLgHV7kXm5XY7-rQ3MAYW-s6q4-RbBTPwbvryS4JwxpurT1aR__erlPbqDXvB_BD1VD21z1k32UPpa846EyaYR8gzcy29vg",
+      "width": 800
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114270738262887904873\">A.L. Harris</a>"
+      ],
+      "photo_reference": "ATKogpeDlPGB3MOL96g6UfAhhGAdVK4RUwHQDI-mRgVkCCvzSDpi8qwYTVjZV9fvmvZvSuaXM3M21LT_tvc1x68C3d9uH9zLlntWrmNhi7iMhs3pJ1ydoTigmsFoSvSqz-0MKNqp-FEhQZzVW5HmBMdFB1dASHtdG98PoHQCvc6BpeC8mf4KIv1gTMMtoP4Uzgr3OEF7TyTEfq2Y_oHsX6OfZ3XQQw8TIZz28vc48Mb9WFfN7NY_uVvNa2sE_BqximU6ClERDKwk8h83eJ3lRyCmFffGOZMOfe6-4bSM0KS7f0HbigodCuOSR-Xi4oJ21PhfUsYxDDepFMN4H_mv9yIbD4gEnIDKMlAKI8lEgAtG-c5t_7ozasYyxvVzg6TYKK6RXek5dRGrg_9QGVPyLqscmpCJdTmZ0FyrylsTSMIlH7Ml3K7M",
+      "width": 3600
+    },
+    {
+      "height": 800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110863876074362647771\">Spiga Restaurant</a>"
+      ],
+      "photo_reference": "ATKogpers8UjMLaYOXzWuMWU7rEgvoeKlEpf-3CYh9VKC2cJ0re8W4G2TXXc4-INYUWlBrC5dxZSChZ_09jLKaxfu4GFthOctGEYEgOxPgYzsW0UqAJ60QYMV3PEUeu0TluF-nVu0uZQPo7f08BEz4_rpywnpcttOgGYBEDrgEhn7QFs-I56DnjnrotGvzy7BSnxRlqs_LLafoPEVcaqg_2apTger5RWp3MSOF_GIDtseDLt58iprONvAjMpE4TT9k_WIX9W7a72I7QUvcMvTQYIbJXAk5K4tKVtkEmgMPZSLLD_pg",
+      "width": 800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100163826512565920038\">Anthony</a>"
+      ],
+      "photo_reference": "ATKogpdG43QYoQ18bK3eXfkmWa6m2S8-w9E00irgx7-UBr3QJnaIc0Do1bMIAFgP_j3CBJXjJ2rqvXbCAYIX36MfDzROAjJD0oT4XwkQ8gbpM_SteLSQLV3Qp5Aqqnrjokzso_-8tLO5bkGC7XofPnsl7m--OpRh1RhQ3tUWgez8vhEEvEghZX_Xp2J9DByiLtdbPCpRYxjtXy6qYAxfBc5-sFj8Hm66BJ38smE5E9FUqbbSNPziMsPjeyvBo7EdKK3Z6S1yFipy4pU0VwLLh7dKIL9TueEHiZfJBsZHapfRafXRCD87KL52jIUxBH50m_fJwO5ZcU0bcdmI3zqfEwEAX6XCyeEz6uiJiRnwy6r5NMbJ10dkbb83kV2ZF9AKeYwCeAhq1_u1-6zi12pflKwpuX_AovglAPui1OQHNjyByaBYHA",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJq5dFPYVYwokR7SJ1_3TWq1E",
+  "plus_code": {
+    "compound_code": "Q2PG+3W New York, NY, USA",
+    "global_code": "87G8Q2PG+3W"
+  },
+  "price_level": 2,
+  "rating": 4.6,
+  "reference": "ChIJq5dFPYVYwokR7SJ1_3TWq1E",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Rishan Girish",
+      "author_url": "https://www.google.com/maps/contrib/104906460515870134430/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV3o_S60c_HmE4E1eZr9DtzvTpqY7odejh8dmbT6JZ8I7RJYUDi=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Spiga has been a date-night staple for my partner and me since 2022 (back when it was called Spiga To-Go). The food is consistently excellent \u2014 we\u2019ve tried just about everything on the menu, from the pastas to the desserts, and you really can\u2019t go wrong. What truly sets this place apart is the incredible hospitality. The hosts are warm, welcoming, and always make you feel right at home. It\u2019s an intimate, cozy spot that\u2019s perfect for a special night out. I\u2019d highly recommend Spiga to anyone looking for a memorable Italian dining experience.",
+      "time": 1746845307,
+      "translated": false
+    },
+    {
+      "author_name": "Anthony",
+      "author_url": "https://www.google.com/maps/contrib/100163826512565920038/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5PUygwScJ65s1eu-ttPMJVJE1ePb0yM_JL8ZKecKhl_RDeXSlUw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Spiga \u2013 Cozy Vibes and a Killer Tiramisu\n\nFood:\nLet\u2019s start with the standout: the tiramisu. Absolutely nailed it. Creamy, not too sweet, with that perfect balance of espresso and cocoa. I\u2019d come back for that alone. The pasta was solid\u2014fresh and cooked just right\u2014but leaned a little heavy on the salt. Still tasty, just had me reaching for extra water.\n\nService:\nThe staff was warm and welcoming, the kind of place where they actually seem happy you\u2019re there. Attentive without hovering, and they gave good recommendations without over-selling anything. Just easygoing, friendly service that made the whole experience more relaxed.\n\nAmbiance:\nSpiga\u2019s tiny\u2014just seven tables\u2014but in a charming way. It felt intimate rather than cramped. Think cozy dinner party vibes with soft lighting and a relaxed, neighborhood feel. It\u2019s the kind of spot where you could easily linger over a glass of wine without feeling rushed.\n\nOverall:\nSpiga\u2019s a little gem. If you\u2019re into unfussy, well-made Italian in a cozy setting\u2014and you love tiramisu\u2014it\u2019s worth checking out.",
+      "time": 1743994977,
+      "translated": false
+    },
+    {
+      "author_name": "A.L. Harris",
+      "author_url": "https://www.google.com/maps/contrib/114270738262887904873/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLkZYy3B8cI_LIjcprUqLfo2w7dl_zufsBQYugxI7ey-LXS3A=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Small intimate Italian restaurant on the Upper West Side.  Less than 10 tables so reservations are a must. Service was extraordinary, so very attentive and welcoming.  Delicious food.  Everything ordered was excellent and cooked to order. I highly recommend this hidden gem. Perfect for a small family dinner or a nice date night.  You won\u2019t be sorry.",
+      "time": 1744924131,
+      "translated": false
+    },
+    {
+      "author_name": "mylene poncet",
+      "author_url": "https://www.google.com/maps/contrib/107043306008517954387/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW9cmHrdPC-Ybu4KrofjoSiBefHGplBOvOzvUoO5Fnw5Se3ms2CAQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "One of my favorite place in NYC. The food is amazingly delicious and the tiramisu is the best I ever had !!\nOn top, the service is super nice, especially Marco.",
+      "time": 1741307055,
+      "translated": false
+    },
+    {
+      "author_name": "Ellen Kim",
+      "author_url": "https://www.google.com/maps/contrib/102626332631034872270/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUVoMkmUYcI16wi0Rq4hn_3RIuSalJWlxamZd4neTTL4ee3rIE=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Best Italian restaurant in the upper west!  Omer was great and very attentive! Can\u2019t wait to come back, the food was amazing and authentic. Absolutely no complaints",
+      "time": 1746742873,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "food",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=5885033136080102125",
+  "user_ratings_total": 239,
+  "utc_offset": -240,
+  "vicinity": "57 W 84th St, New York",
+  "website": "http://spigarestaurantnyc.com/",
+  "wheelchair_accessible_entrance": true
+}

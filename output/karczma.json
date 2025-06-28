@@ -1,0 +1,459 @@
+{
+  "address_components": [
+    {
+      "long_name": "136",
+      "short_name": "136",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Greenpoint Avenue",
+      "short_name": "Greenpoint Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Greenpoint",
+      "short_name": "Greenpoint",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11222",
+      "short_name": "11222",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "2202",
+      "short_name": "2202",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">136 Greenpoint Ave</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11222-2202</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2330"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2330"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u200910:30\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u200910:30\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u200910:30\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u200910:30\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200911:30\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200911:30\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Waitresses in traditional dress serve Polish standards at this eatery with a rustic farmhouse feel."
+  },
+  "formatted_address": "136 Greenpoint Ave, Brooklyn, NY 11222, USA",
+  "formatted_phone_number": "(718) 349-1744",
+  "geometry": {
+    "location": {
+      "lat": 40.7299969,
+      "lng": -73.9551152
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7314073302915,
+        "lng": -73.95378296970848
+      },
+      "southwest": {
+        "lat": 40.7287093697085,
+        "lng": -73.9564809302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-349-1744",
+  "name": "Karczma",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2330"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2330"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u200910:30\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u200910:30\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u200910:30\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u200910:30\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200911:30\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200911:30\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1371,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109933326447207810636\">Karczma</a>"
+      ],
+      "photo_reference": "ATKogpcIdgZ4vPZty0_PfReyJmmL9m79sdDXCkh2SnpYYcQnFtYNAThv46lMiJVynYrXj3TVhwhmLRq_v2_xgbC4_qdyLikigDDp19VrZgV2O1mYO-_ZmrfDFlSCZOeygIDHWhHHD7DDm2hthCw782eP5MP2f3wXCPsKP_Zrr3psYWuSzWwaeaSKd5nA1YQBqLFAZm0nqaKpe5zn2BGHIGJ0Jp5AbdWpmDjgSIUj990IFYowzemBOPwg189Voxv4GFBbQ6fvGm-L0EVPeX2VhqlD8l2VFmZ5J3JkzVaApTZNl_xZTA",
+      "width": 2048
+    },
+    {
+      "height": 674,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109933326447207810636\">Karczma</a>"
+      ],
+      "photo_reference": "ATKogpdVUbJH8H4evOtXOo6diIOfCTgqj2a-Dn-0ggLMtHcbKeAPYjPmF0RQOLE35p8EOg2dLIRNcQ8gRq7ueXmfFU8W1ZegJGk0hToUG1jMTyKsTQOoYGpijD2umtHy4kuvNwwkikstR1CGtXtxaYbeoZyg3Sog3BcG-WQKcyGjb8m_8ostgPm2FN_H492GTpIUQsgvfLB9eDSbQAzZM10GyrHubQerdn3ek4GRzAjmuVLglPkoRtDBFdnHncrsAH16mmn0_GDK1tQRsPhqxX0d0DOk1CwmvHv672LDniPsFfxACg",
+      "width": 1024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107744667857678743206\">ShuZhen Chua</a>"
+      ],
+      "photo_reference": "ATKogpcek6KsNxzO6hlOUhwCF4FNLjz9zv2XveufcNbjikHvHF_sNKUzqQFkOCIPucD6uZ9RRSQ7ufPPfcoHkBZ6vsYE5ezFabT45wSwuIE4H4Y4ADDSQdhyRA68w9bfMOdzUIsSAuAw4asNuBIotZ9BJHQT-eDcEmLtZOM4L01r_RGY8vVqD7EfeBk1kNZVe5-8xJc-8nNi4RF0uy_DW83eZnqnPRMaHEZEKG9K4bAOjlHXlUdQ-f0c0nBZCs05zJ1097z8sMetC-0T3fapxTpVDi03s44dSdcBgatX0poA-dYTZLiWqDkRC7aJKTHPf0DtGj8hl6h78U0hfoEq8_Htfbif4tn8oHzXeup0NlJacMOZsokj9cUcnlBEoSw-iGtCK8F6wIto9JZLFxLtYGGVtjYQrSI13bIlpHRO8eUcHAHdnw",
+      "width": 4032
+    },
+    {
+      "height": 2160,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114694448284105662404\">Mariusz Rapacki</a>"
+      ],
+      "photo_reference": "ATKogpdl7GRBV3JUN06-LIqyii0R3u2lbuqirIl16LbdiGUdCXhopskTafj5sPeXAfX1Dul_JMdMuYkrfy9GV-L3TfAtC-ffFxFNoDHaQjPNJGBoL0N8xa-g2pqEAmJVi2fo4TfyEzATsSzhZ60MqFkvG6t5RlBjN7aT23DzQYjbCiLSr5GVxGN80odjKMVfvf_G1w98phaAPxQRd95XwuQDYdR4rurbHKK6-i0ivi6rAzCa4uUcmQj3EdRWxQymyxjsD4tLbIbUdvN9xBvx79Z59LFNZsZ_oCWXiL36g-ei0d8cxsDveO8Z4JwJOV6QI9ZXmpw_BNe_zpZetpqpLkNutGINkS3hFxWG8WRslYZyHSrLk01lu6He7eAUhOIQjpsnjHxQdaNfuT2qmay3wGnup5R6oVWwu7oVSvfJUTvH7j9W7Xgj",
+      "width": 2880
+    },
+    {
+      "height": 4284,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105601992699102170460\">Nic Garcia</a>"
+      ],
+      "photo_reference": "ATKogpcVobU2MIGm187wdOaqadFW3T_gUZKmDU2GAF_xmhoWTV5W1MfBOGYj8DPyvn867KSeTzYU0K6q1E0Hu2_kzuxSrboIJ-Sz60yV6eWj7UgXUOYPdyCW_RxDWLRhoY6WDhce7bqm0n-1TYShbo42UUFVvASxFwZF15a0pxB5POuTLS_Ybl-RKwNXo2a7cyy5B4ASDXtEC6M0KUgkLjQaLzKYH5EtEMgDFV5Oxf5VjqUC6AK4psfjEUHL5PpveRjH_ZNzbVfXK61m9tNVXxL6tqmcNEf1OmEBp-mriiWsed3CB_ar9zBqtCb6mez8b7mrsl6om82JwcmvUMpWBbtZ5sRcuFHzWnoO1mkQBE7zfaohEmBcJsSSOoxd6xzCPM807Sqgq5FdFvPZv7WQ_3hu_dtrFQt3JoWfcpNheJnFLKjY5YzK",
+      "width": 4284
+    },
+    {
+      "height": 3120,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102742956794448020016\">Vivianne Barretto</a>"
+      ],
+      "photo_reference": "ATKogpe6lGzq1SfhOQWr8yzZa9M3pCdut4crC7gQp5HmMOwdNh7QKQOYnBsP1EEFFJg_HLVWGzfR8CtHFWFxD3IVofIce0yfkNaZbRxYZH0Nj_mJNmGPzqUuc4HbmdT42ZZFT_gZWVA5_YkMRM6VWYeYvZzymiOjXggj56DMGCBoucdH1wMMb8NKVqQb1GfcLolYItcSHI7JRpcNWt2KbIfd9E6dJheKKK76_Mb9Crz1I7uat0PG7Z1u_2KBMCYo1B7PNlhmV1_u-pAhrYLaDacFbWTpAo_HbxuZoME0F7PgTKW9R1KO9H8IbfIImAGCrI-tQEsXbwBcioMOfrzS0E0BYdYqiVJdbNI7SpHDO6ZtjYjKubXhmp0s6PflRu0BWOcDVtN-h0ljCRgB4NSY-g9b7LmXY5wa0Y5u51BUvX0OuW5z8rUO",
+      "width": 4160
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107744667857678743206\">ShuZhen Chua</a>"
+      ],
+      "photo_reference": "ATKogpcrJ1F5T2z7XTyvQZLtgcAp6fAWtwC88dCSFkO7QgjhPJeKhxf546SwkhqLPtlAYev5cARN7pPCMi65CtRsYuZpwhrs-QiOSgMHbUmg4jtSLGmvwxqa-lTdmCWzKAF4kBKa3ZE2yhW_YLCE6mcVcYz31jgD_nQvAK0TLKx3uDHrfp4x4TvUhytecVgOVLC7bcbUMYtJ3-LKppEMC7d6BDI1_Q8CC2hZqJuFKfuJRzm7B7peWwXjGF7ldbqnnFLNroc8hjHLsVEJGDMrNjKmKEUFeHBTvJ9BJ-hADPOYnyTJ_GeBm9-WaKz92uqIcSWT4wZO_uHyERXo1AiYLJGWgcApYG-v-niYG6jut8vnMhaUJDWyLw-5-gWUEWQBcOy4SJq9MbeKG9D2Sx_OXs97N_Qpu1jkLjbHPHRKkaF35Ls",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109991423640652131985\">Richard Maldonado</a>"
+      ],
+      "photo_reference": "ATKogpc_vo6mPj3oOYA78dBtEuWpQLFmSVHup_m6NyC8EbKhHzTliVX_DyAmtXrFC23hFa-2BXx6qGzCIn8jlY6ksgbZreKdM5NfLFAGUXSsr-D8GHeHwFy-OJhHw0fk3yW_F3rv0NP4pJ_3cO-U_uVkUpf9OcikibIjKWmWzl2T30hbilBqFM1xmuIM0FNS5d6Op5_-N76TUbfqRnVO2-nmDJ248ostrIGYMV9ksG0Qyk-8vL-8soECKwiJ_RzfkK06J19SDFr-3qPRdTOQTec7Xx2B6po6Zx9OZf_zYqL7nety2JY3e7HIm_NOXryLjj-Wp3_ZAU02AOzOps4k0CBEz1EN2lXWeYDGYOBsMlv0KpQJI9sFut9pgNyVCiOUzp5gqyPA4O8bh3v82GeBhEenepTgffNumqToIK-3RLd9VDZc6g",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102347976990152184542\">Tymo Wirkus</a>"
+      ],
+      "photo_reference": "ATKogpdF9xRM_2SE30Npm-NG1fXwuQDMYoN4EwyVX7Ze5B_LKTnedb9OSAWAJ8ec7x1t3zRFEaHbrpqQY2ZYfcftq1BEgDM95O9LfER4RrH6nERw-YZQngjmGv8VYS1bl45V_B4zAfIJcKcrm6sHYgJGRZNFVq56p-DpCfIkPlANGsK3WEch0iWUBX3v_GkXWHMIm0BkZuAONCJp4TmeTJFXaiPLYz8ttu-jnpcLyR3UyBCh2hlWLTSiDuVnX_26D1_FSHqAtGgGU045RQSbSbFgdrzYuSbkGLmoCzChi9g41FecENojJlQuRz5UWR398gAlE5MClDCKp08m5WudgL0TikLJkWp8gcU5I7is-x9iBVxqJif4_qJ011RxjBN0AFFsHuaSPYQdQA50vSioXdtNFomB4Q1uz5uChD1jCokZVHUhhPl5",
+      "width": 4032
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101673575295766540599\">Panzani C</a>"
+      ],
+      "photo_reference": "ATKogpchqvR-groho3DzamwZA8uOBS5xQMhYROJt0ThiIAM_t0_FpyAST8F8KPVTRZtdvzhsQ_rRo33b0SwjNg8j_X6GIrEq76a1kYpJDbZQttByVYtu9_KDd0JFGKM2o0DCmc8BV8hDyqlPsNyqYSh_j52eaSg9b0se-l5NswLzYfDV3Fb4rbNS04tBPZvc0C4cuSL9mopZvU__DfsW0dmIFFGPiJgpg7ocg0CtdLlk93R_hN0HclHo9jSZ05EGqz17DAspIY3ubUbx0P6Ee6hkksLoWRbXTLSzFDYydBsKNhA-SHF4ROnimH8QSjNGMW-XSNTZZDO0Ob98T-6K_SXqFE080j_yhjscY1TEXdyipDverlb4RFpt8M4H5u1E09wo3QWSQVC43Pc0YGkeeaTvYzVWaWyasj-pCWQoEV5gHcY40lVe",
+      "width": 3000
+    }
+  ],
+  "place_id": "ChIJ9d0I6kBZwokRHVwTlrpWxss",
+  "plus_code": {
+    "compound_code": "P2HV+XX Brooklyn, NY, USA",
+    "global_code": "87G8P2HV+XX"
+  },
+  "price_level": 1,
+  "rating": 4.6,
+  "reference": "ChIJ9d0I6kBZwokRHVwTlrpWxss",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Jazz Chomboon",
+      "author_url": "https://www.google.com/maps/contrib/112632209177336210779/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNY1nKrjlhzsioz_jjunM9-s_gPnE590tTUYfVI-Vo9P7a1A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "First time trying Polish food, and Karczma made a solid impression. I\u2019m still dreaming about the asparagus wrapped in bacon, easily the highlight. The sausages were super flavorful too. The location is super convenient, right by the train, and the cozy, rustic decor totally reminded me of a restaurant I visited in Prague years ago\n\nWe really loved the vibes, but the service left a lot to be desired. Maybe they\u2019re going for that classic European service style but, this is NYC, and when the check comes with a suggested 20% tip, expectations are a little higher. We felt nervous to ask for water because our server seemed to have her bad day by our interaction, she never filled our glass didn\u2019t check in at all after taking the order that she didn't realize we were missing one dish. The person who seemed to be busser helped pour us water and got our missing dish checked. Not ideal.\n\nThat said, the food and atmosphere were great, and we\u2019d definitely consider coming back if we\u2019re in the neighborhood.",
+      "time": 1745429989,
+      "translated": false
+    },
+    {
+      "author_name": "Christopher Zan",
+      "author_url": "https://www.google.com/maps/contrib/112123055069213398739/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWA3cY5ClMVwfj59x4YWmm97peWC2aZsv38B7INnmQpd8L4dtlk=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "The dine in experience is lovely, but it's also an excellent place to order for delivery if you have a craving for Polish food. The Plate of Polish Specialties (which includes pierogis, stuffed cabbage, kielbasa, hunter stew and potato pancakes) is my standard order, but their other options like Pickle Soup, which are hard to find elsewhere, are wonderful too.",
+      "time": 1744587139,
+      "translated": false
+    },
+    {
+      "author_name": "Tatiana",
+      "author_url": "https://www.google.com/maps/contrib/117764515039093212001/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUlOX3x0SS8eDXDSQHkM8CstMryfIOQ8XP5HGIFC8dHvj1jVcOa=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "I recently enjoyed an incredible Polish meal featuring a hearty plate for two persons filled with bacon, salmon, blood sausage, and traditional Polish kielbasa, all perfectly cooked and flavorful. The baked potatoes were a comforting side, crispy on the outside and soft on the inside. Pairing the meal with a refreshing draft beer completed the experience.\nThe atmosphere was warm and inviting, making it the perfect spot for a relaxed evening with my friend. If you\u2019re looking for authentic Polish flavors in a cozy setting, this place is a must-visit! Thank you\u2764\ufe0f",
+      "time": 1733775177,
+      "translated": false
+    },
+    {
+      "author_name": "Johnny Novo",
+      "author_url": "https://www.google.com/maps/contrib/115773041748447717437/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV5KEIMPoA1bGuYfDAidQZEmzl00lSDKLi4CW_o4jk-QnNdRgqc=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "My big bro is Polish, and almost gave me a knuckle sandwich when I said that Polish food is just a little bland. He said we had to try Karczma in Greenpoint, as it\u2019s his favorite Polish restaurant in the city.\n\nWe sat down in the rustic farmhouse interior while live Polish music played in the background. As I\u2019ve gotten older, these are the nights that I\u2019ve learned to appreciate more. A nice Friday night dinner with the homies, where the stressful work week feels like a distant memory. It\u2019s a good antidote to the vicious cycles of self loathing or \u201cwhat am I doing with my life\u201d that can sometimes consume me.\n\nThe Polish homie ordered an authentic Polish dinner for us. Our feast for the 3 of us consisted of Hand made perogies, grilled plate for 3, Spicy beef Goulash, Traditional pork cutlet, herring in cream, potato pancakes, and roasted hocks in beer.\n\nI\u2019m used to portion sizes at places in New York to be TINY, but these were enormous. We lowkey got mogged by all this food. The bang for your buck in here is INSANE. My favorites were the Mix grilled plate and the roasted hocks.\n\nThat mixed grilled plate for \u201c3\u201d is really for 5 GROWN men. So much meat. It was so damn good though, the bacon and chicken went crazy.\n\nThe roasted hocks is the shank portion of the pig's hind leg, and came with a big steak knife in it. It was rich and had a smoky flavor, and was so damn tender. Definitely get the roasted hocks if you come.\n\nOn the other end of the spectrum, the herring in cream was just not for me. Was the fishiest fish I've ever tasted, but I'll try anything once.\n\n$60 each after tip was SO reasonable for this feast we had. I gotta start putting more respect on Polish food, that\u2019s on me\u2026\n\nIG @jnov_\nTiktok @jnov__",
+      "time": 1741612818,
+      "translated": false
+    },
+    {
+      "author_name": "M K",
+      "author_url": "https://www.google.com/maps/contrib/106891152277603037807/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLhAEklEFuziiJNcP-BSrTUWFx-1CdL4jGzOSt-HAadtDfv8Q=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "Sat at the bar on a Friday night without any reservations.  Majority of customers seemed to be regulars and they were speaking to the staff in polish! Tried the polish combo with pierogi, stuffed cabbage, tomato and sausage stew which was my favorite. Also ordered six pierogis. Reasonably priced and delicious comfort food. Definitely coming back to try out other dishes and drinks!",
+      "time": 1735409317,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "restaurant",
+    "food",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=14683518994469837853",
+  "user_ratings_total": 2411,
+  "utc_offset": -240,
+  "vicinity": "136 Greenpoint Ave, Brooklyn",
+  "website": "http://karczmabrooklyn.com/en/",
+  "wheelchair_accessible_entrance": true
+}

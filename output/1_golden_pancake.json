@@ -1,0 +1,453 @@
+{
+  "address_components": [
+    {
+      "long_name": "4",
+      "short_name": "4",
+      "types": [
+        "subpremise"
+      ]
+    },
+    {
+      "long_name": "13515",
+      "short_name": "13515",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "40th Road",
+      "short_name": "40th Rd",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Flushing",
+      "short_name": "Flushing",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11354",
+      "short_name": "11354",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "5301",
+      "short_name": "5301",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">13515 40th Rd #4</span>, <span class=\"locality\">Flushing</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11354-5301</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "formatted_address": "13515 40th Rd #4, Flushing, NY 11354, USA",
+  "formatted_phone_number": "(929) 991-6966",
+  "geometry": {
+    "location": {
+      "lat": 40.7587356,
+      "lng": -73.8310286
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7600069302915,
+        "lng": -73.8296319697085
+      },
+      "southwest": {
+        "lat": 40.7573089697085,
+        "lng": -73.83232993029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 929-991-6966",
+  "name": "1 golden pancake",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104422522766996056312\">Benjamin Hanson</a>"
+      ],
+      "photo_reference": "ATKogpcgoEMIAltDtpvEAypSqVyjuiOfiIVrvnq0H8fOYVwZeuibyW2iVQ0YeGgcTomTpt8-16lk2hpEavvcFVkHJHABAY7lX8a4XrfX3fjAhgX4qZ16nkubZYWoNhoiNKyaXpDFEAvtNvqEBLM5hdsAsSeCmNhuUhesyc-s-dK0Uk4_PUD7L9Ml3CyCN8Zd61a86ABnnZT9I0NNd0jtecJiyFf06LcjzNwtKbWZSPicdJIike97dhlvCK39j-zP3-WHA6hLTWnsvdyU4udMAlXq7gsQSZ_itzjGJDwM9MJp8GZmYkgj3iG5MblZoaGKxZYLijWKv0g6sUJJRWXt9QPw_UGnHiSckKCaLZ7jF-fI6s7ks4XlcQynOnZTiL79GE3QpYHjXxMrMQFi6TOrIktl1S3DKeIi9FPu9qfS78QhOS-5gG-w",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107288450942274944362\">Yutong Yang</a>"
+      ],
+      "photo_reference": "ATKogpe_J6678oPhEedOploPDkK-id58MZdXC-OzmA0CcnQIn3qJME-enmjtAeUfax9HuEOXDCSJVK1GgheCBkUTmmxFH2Efa8fNP4z_hdQjGaCguYZa8LY26PGFbVDxJGs6m1612qqUT85Y3wBA3ThDQurj4bGVuhgJQv9nLMVTJzKas07pxp0vKgnU3ScUvH_Uw-beylZMTR--KB1KT8JYpypmUQdIf7an2K6V4Ei-rzsJ-nOAtwRvFhV4BfHf8AmWUeupTonDAw8FbKqwsghzn69x6W8kcBEVaGLH2rVXwj5VbbYCvMolfEb1uTqJH-06lyx_UvMK9KxaTnh_waMKh1AqMRqYj1bAftm5TWpGGr-37JXmRs6yMi_aqul8MS_zBHbYtRbSu9qHHLTuTcR1e9rBVcuePMGuGLcvXYDsijjlFQ",
+      "width": 3024
+    },
+    {
+      "height": 2461,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107618175036399601133\">maita</a>"
+      ],
+      "photo_reference": "ATKogpfGZUyiBOXAJyVLy8sOLjcYZ5uWoJzm6zkDcH8BUv_Ls4FuSLILx85AAmPbp_wn_4fk3pLmqLoGy-RITM4MHVhC071OK8iDrMGl8pRxY5lCt7CIjitdo45RLcGiGy8pZLf4K63oo59k5BcoVnXK8QgWhLtR_LEKa7Lea3UPf1J5QSFC9YW7Hof8BR59yQnnQgi70sxb-bjNo2pI4buwrw27iIS91w8kGx38WwnM5wHorYB7DT9LCNLYuVhtyIoC5MBfP6DUwXgbtrLQZwmDtn5MesDIpeWy2gd9kO3moIYAemSwYhx1SiJ5G4okRxWuEQ8dMyGeSfRSWw7TVfI5ulFHjygsPwtJqpKx6A45hyQ9PIaUgPGwT1JgVj7ZhpN_XJPq32Tq63JkSXk_O4JK_I40LEouT-q9HZWcfv1GGqOmJzI",
+      "width": 2792
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113163946068963626359\">Sabena Singh</a>"
+      ],
+      "photo_reference": "ATKogpfFzYP3CMBlYB3NXt7O5xMr8viBNwtzGh7sdydE0WEHAzlh66CLUIzoVzS0cyKqWE9weti2uqbLZaXxiMiEVGu3E5Ucw_27rhJAXTn0mlE9ORi1hIVckh7N9HI7GjL4ORvPJsePs05BfnY5ZGMTUIh2SmlUEFyrsikmbD-YnBklzRBxSy-LpgKFc20JoaTlqReSZj3L7q50dz0THOEvUqVdX4WclcympEyXDQkO_2a57jCFBJS1wvdPVVktpTY8e4HAo3VRIkVkLGiMa-l_jaIGMZQ3Iqtx1yWoOsLyKUq2unGNKsta2X_vvLFXWqplbpGO5-a3jOJ0S8YeaKGfVRoMKQcVKrOm9e_4EvOYZWzSNDfI5vie01n2dznPFgJ8eeQqsAmimNrA7gDDETlyGevxtft8aclXLNlXi0mubNU_2F4",
+      "width": 4032
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110468092061647031838\">Yunong Shi</a>"
+      ],
+      "photo_reference": "ATKogpcSCRYBKxHCB9NzPrQhUgS7nR9ppFEMTfWNujQS24WSIT8_y2O5nIdtIl8yekcZIepofI6UaDXVTPH0MMXd1ICiCtaZHiLYkMJq_5eZPmDVNR4icwYJhMHM6WtUkxzHEhxRJk8Ef5-hwY4sSn8TUegnWUaxgxAVxD4uPA1yv4GBis7BEBt7yRoDNshOMEA3SPFxzEhUzPKchpBAM4ALFCu_mobSrKBVYNZu-hitaFMGIo7ocBigwT4TbA4_Dli6QY8UpobCJg2HcdXY2C8HD40K0t5yXTBNLIBRn-rUIcMrX7ZVbxtQ3l36IqB2kmrx96z0dtOglAj8z5WpoIrCV3Jr3L6VQZ9LYmpU3DegRPqDmHwf94aW7-OlbqA-Z1ZWhB48bUCNt0v7wN8xitU8RK08s4t88hrv-57PmNHSs_oXv-_fdp8_nlBEryZQewfr",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113562449457144668020\">Anna Edwards</a>"
+      ],
+      "photo_reference": "ATKogpd8lH8rX13uPtMJkejGUWgqMviMOyd4zgYQNSSYa-YwgxvL7o7mHFDOQJGTVuoSNWXQrMqdFDXDJd9vFHkD_3w_WZHhfaYrRsw6oDnZ6LTRA7VHFOu-1i0QsefT07u8HHlzXy2tCr6kjKdcywVj9DnC-Vb72VuAV_4Ta1rePuBzrdoOrYkkSsi9al96dwsdBIKKWdvhWyQCDzxl2CyvJVEy5uHjCKQiAzVxTObvW8_fK96ARseFHoxN31ZOay2QN--tM2fiFnrRVNVg_u2TDk9WNrM_S7zBjhRyGMmAziWCDRHej8LtaR689H3DldYoVmkBsPqE3tsSTpBJOB9hS3wCrD3r5R9e5hP264AK5jevN2K7mkqaaU6LUTdCzeHme4Lw9qgAkxWk95rzbGGY78XqRTxrrJKs0NYv_wLKArjeqQ",
+      "width": 3024
+    },
+    {
+      "height": 3338,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106779579203659842539\">Tong</a>"
+      ],
+      "photo_reference": "ATKogpfrEkUsDXwPvDOA7UbkkFi-E9QtXpPgETo9cE5_A1GdezwjuJq7QuRAyMEB3lpdwpbwgxYBevrsjj5QMN-vEAh4ZK3I96L5-4LN3L7WI_FHNQ1NNZ1GaHkLAQ2Jfju9Aht5MeqoapCLkf2DA_DLLnUpBwXzjjgzzgUK1JxEWvIN2dmADoLxBStUNmxs-3Ob6SGVqGsyVb7NpdOiGrm6cwdShFBptCGhxA5h738_RMJyukFzSrJKGRLXDCUlB1V_x-2Iygvth_fQHbfL1ANIg-aDxAzSxOZtXni4b7Z_CY_ZuhrKMW1nB9hA9maj7Kts86ETIAv4qPlvOUeE31c596komImzmqJ_f_PgQ-VguOE1OWDjAAZKurV40Hs16EA4koqEtbp5eub7wABpoUyFKx2J-HxNMUpX-pRo2j-TRLaO3A",
+      "width": 2929
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111180726605966955778\">Anna H</a>"
+      ],
+      "photo_reference": "ATKogpdCC3x-5_KBHKw6qsq9Ov8sDxSifTO-5_Gxyx2K1a84r__0ilHsXkB9aCODhQEvGzsfMZ_QrvSfRD8TL2piYmuJwcgXqAP36xzdJgveVoU-9i1ulcGs2hEacBJQpuDKSkiK3uRIdaBdV_dTMVIA8jW5ArnVxvHxJ8zJUlKPfJj419bLGRcxTtkcbQN52Ut1IV1Csyy5isCAJ08FVlWs8D4kHf3AkBXX6UCtRztSnhw4vw85465X9fVI0hyvWeXk6EKuH0gyBo859fkG_3auz-M4_kibaPKGpwsTHUu5sUse76x9cNioiSTVHLa5sicPIpaxovKfL24koZFAqmRrsMN7pjVwDRCg688ZaLD6XPxDbevUxyHCE9jwJIBeUS_EzmNpuf-9nrwZPYNC04LMgVyH7pTR8LysqCr4qJKYEkmqrPU",
+      "width": 3000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109479126183381698840\">Sunno</a>"
+      ],
+      "photo_reference": "ATKogpcgqmJkbqnWlDmT8mcSEmKYIkdczIK1Ge5Yr7dR-5FC4NcKRTE-min5iwNcIO9eeghavtuVI8HLt8iPPcZi8Ik50XiM5zR6_fl8_m_BrvhhRgr9f6zKhUyOtEcBTBMRffrRPG7jbZ2dBlaeHwA2VimoXI9TQQwS0W7Hm0Lt1QGsaKovpF9_SE0h8govydP6ANnyrCD9eg_xjcu_3TYWiVswKjkeqcvNs9zPWUi3nib4_20yNjhc70m3sftXLA1GvkVVmN16wbE99rzAqiJbyncTmkeJ7Kfk3r8Xp8Xxr6elOUFpEWRwMbiLZM7Vt_0l_9vumwrsrjJA8ck96nN-mcLX3fGsFEL2pvk693yDUDdPMGl6HbnRKb1UnbN-MOBDIabNUUKxZUbHTNYSKnyDhf4G8oDn4Hq1GmEhSXo2FTRQufI",
+      "width": 3024
+    },
+    {
+      "height": 1702,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108418898703508809892\">Xi Sun</a>"
+      ],
+      "photo_reference": "ATKogpcMWxVIk3NCJOp8BeMgwSCqiCC30NlJxDalRyNFKQI5CnmKDFu_tFJ-KIRRKx2txWqdxT2tdV-k_vRtda9pLSt20UGL9eCb0wJJbyjUKacyGl0fOw8MqUWk2bsB8X7LaWYlrcjnc_xP-vnAEJEPUy9bFZwGKy3LLN4tjNZTaK-oScNyZnMxwykMcvDU1lyo92PwiTSeAY2DsOpjQTEdA-IO2tXEylSj6SeIvkc4i57ZbIzPPk5LACbD3NCBZoYXv_vF-RMt9wlHjxX-yIvwF41jGHfXNsuwilY1BkgvBNIGS0o15TrvHqL7X7Y4dKh0uegCqsTYjDhWxaR_eDhF3GMJREDCbll7F-teU4uDQrlb2IGo8UfE-e8R_tqTnblzeMiDbLW5layiQ6-w7bjVYpZ_5sOTGEA1dFgym8a3XjrSs-c",
+      "width": 1276
+    }
+  ],
+  "place_id": "ChIJX3bYWgBhwokRD581_oUOa5k",
+  "plus_code": {
+    "compound_code": "Q559+FH Flushing, Queens, NY, USA",
+    "global_code": "87G8Q559+FH"
+  },
+  "price_level": 1,
+  "rating": 3.7,
+  "reference": "ChIJX3bYWgBhwokRD581_oUOa5k",
+  "reviews": [
+    {
+      "author_name": "Sabena Singh",
+      "author_url": "https://www.google.com/maps/contrib/113163946068963626359/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXqKM09qQrNdur1aJw8HW7r9yiuZIDMMoykSw02FY_FMGyAIw-5=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "A Corn Croissant Egg Tart sounded unusual. Was there an egg in it? What I ate was a revelation in textures as it was balanced nicely: crisp croissant, creamy filling and crunchy br\u00fbl\u00e9ed corn. I sat at a school desk to eat this dessert. As I cut it in half, a pool of creamy custard rippled languidly onto the crust. Each spoonful made me moan with joy. The umami crunch and flavor of the corn was exquisite. I had to wonder how this tiny counter kitchen located at the end of a narrow passage way create such a magnificent dessert? Opened six years ago, Zi Chu and Miao run this tiny well equipped kitchen. Located a few doors down from Shanghai You Garden, this was dessert for me. I am already dreaming about my return visit. Highly recommended.",
+      "time": 1749604005,
+      "translated": false
+    },
+    {
+      "author_name": "Genie",
+      "author_url": "https://www.google.com/maps/contrib/116135161280547928419/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWBCC4-_wwEPi0hldWm8axkTelQE2-6_y61qzCyFBkM7alILIgQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "in the last week",
+      "text": "Ok this is the size of an egg tart and $8 but LEMME TELL U it was $8 worth spending, idk how they do it but there is corn pulp with every bite and the cream was corny perfection. Next time I feel corny I know where to go \ud83c\udf3d\n\nThere may only be 1 golden pancake location so far, but I wish u world domination \ud83c\udf3d\ud83c\udf3d\ud83c\udf3d",
+      "time": 1750551877,
+      "translated": false
+    },
+    {
+      "author_name": "Yutong Yang",
+      "author_url": "https://www.google.com/maps/contrib/107288450942274944362/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU0ixTAhtClYCQC83oCkBisdf4AFJJpj9ak9E53Kyduc_T3czM=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "Love the croissants egg tart! I buy All flavors for my family. They are soooo cute!  And taste soooo good! I can't finish all, the boss told me take home put in the refrigerator or freezer it taste like ice cream!!!",
+      "time": 1748825549,
+      "translated": false
+    },
+    {
+      "author_name": "Benjamin Hanson",
+      "author_url": "https://www.google.com/maps/contrib/104422522766996056312/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXo__lMWXryYiz6XGins1yA0FnXDlc_tsnofnvDJ2GfQmdch6J9Qw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 weeks ago",
+      "text": "Had the corn desert, it was amazing. They make it there while you wait so it\u2019s fresh. Waited a little bit but not terribly long. Atmosphere is not that great, not much room to sit\u2026",
+      "time": 1748720799,
+      "translated": false
+    },
+    {
+      "author_name": "Anna H",
+      "author_url": "https://www.google.com/maps/contrib/111180726605966955778/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIhWFz-V9YKq0pkK5odAYkQvTus6kHgggK9uInPMdQXcmH39IuEA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Superseded my expectations. Everything was Delisosourusrex. Tje viral corn tart was dummer in my mouth. Sweet corn. Paured perfect. Outrageous  pavlova was for the foodie who loves complex flavors in your mouth. Like eating clouds of sweet , salty, and orange. Too die for. The strawberry tart was more familiar\nDelisous strawberries and tart. The mango had fresh mango and the mango inside almost like pulp.  Again fantastic. The banana yummy and beautiful. Theres a new one coming out Fridays. I tasted it. Outrageous 10 star. The caramel strawberry cheese tart. It was my favorite. Tina and Jessie and other worker were the kindest.",
+      "time": 1747544903,
+      "translated": false
+    }
+  ],
+  "serves_breakfast": true,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "store",
+    "bakery"
+  ],
+  "url": "https://maps.google.com/?cid=11054945678969380623",
+  "user_ratings_total": 35,
+  "utc_offset": -240,
+  "vicinity": "13515 40th Rd #4, Flushing"
+}

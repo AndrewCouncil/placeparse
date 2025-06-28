@@ -1,0 +1,460 @@
+{
+  "address_components": [
+    {
+      "long_name": "13",
+      "short_name": "13",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "East 37th Street",
+      "short_name": "E 37th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10016",
+      "short_name": "10016",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "2821",
+      "short_name": "2821",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">13 E 37th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10016-2821</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2145"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2145"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2145"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2145"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2215"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2215"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2215"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20099:45\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:45\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:45\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:15\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200910:15\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:15\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:45\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Refined option for acclaimed Sichuan fare in a vintage-inspired atmosphere, plus delivery."
+  },
+  "formatted_address": "13 E 37th St, New York, NY 10016, USA",
+  "formatted_phone_number": "(646) 882-0666",
+  "geometry": {
+    "location": {
+      "lat": 40.7501259,
+      "lng": -73.9820676
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7513875302915,
+        "lng": -73.9808026697085
+      },
+      "southwest": {
+        "lat": 40.7486895697085,
+        "lng": -73.9835006302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 646-882-0666",
+  "name": "CHILI",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2145"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2145"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2145"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2145"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2215"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2215"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2215"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20099:45\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:45\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:45\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:15\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200910:15\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:15\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:45\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 816,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101219782037266675162\">CHILI</a>"
+      ],
+      "photo_reference": "ATKogpdeLrv1MKSll8fzQYnFitvnzhzxLiD-EDNyCYrrB-li-lC8qhEQm1RXMKId44bBNzUlaGbPRy6mSSFWQ_knLymHDXGmCZjvkJT5joQavCdCwu1ePBqKvpPxADG6Qk-bUnvyVUIZ55aZgMwl8aVhN7-1YqkTi0H0A3ojIWQYn-WI2Df9J5z_KXB3lcXAgza8VKRbCu9jvS63Y5xFEVTyzTGtd7-UiIBcaxt6BKXCrBtb7UXa7kEfHgHjPFOqWJBkcWZ-YZL58MyhgNjyweey4egbd-Vdfr7iBKke0sTA4mCwJw",
+      "width": 843
+    },
+    {
+      "height": 2640,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101219782037266675162\">CHILI</a>"
+      ],
+      "photo_reference": "ATKogpe5tiUdf7Z1ic7aodSiQ5GekUObzY_sxCqqBNrogDsg-RACYvKdKTnJBaKmkXHWYDgGWd9Qa6jnwESNOEITlUAsvv4Vi2IQi12sAS6GOusTwT47IQasLQ4Fs6rpz_i8oz538pdujnX635j-44lxIzaUGw1KI1GbVViS4-TsQkWPUSWTT-dxlrFu0cwPStU_eQ-HMjI1ic5pZNdZqT08IIae5p_VRtQ-_RRBh-4yD2jJUC6X1oF-1RNqZbJd6ZiL1Jxir4Fr-t-k1tdN00AEoiQqgs4HYcctvigylI_bScxYfw",
+      "width": 3960
+    },
+    {
+      "height": 4768,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116084552931660688305\">G Argentini</a>"
+      ],
+      "photo_reference": "ATKogpcRvZxTbokObCYtRejKolT0jE9mjNTdiKAbXVj31xXiL94Te6DSSgGXN_b4Mish70wy-875-qAHbxAf1Bmc-BMHAge0M-su4dfcpA6CiqOcGAeA_PP26IDfZBpIwYdOxDRnKa8iUZEewiElflDiChm_9Qt0Zx-YSuLJGCyi7iDiIgxKz2UfHRyMC3VWhiOOr0CnJwPXAbWbPk5GFlrA0fwEoZxivyo_7y0-8CqTH0LmE-ThYY02QZRtd9acGZqRv76t19wZrQGZscHJLD2iQbzC-JsIE9T8ohrVtx3Ion1-C9ZNr01A6qYjsVJH-Bu99ncNG2IC-gN0L7LzzVkl7Zw2x4eeyJpy9z3jVfo1uhHznGElsBLdYTsNgAdOkLbWUR96-h3doatyR64CS9v22jy7QzhJaJtfc_8NZpIJsO8kOw",
+      "width": 3852
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102118833370420205858\">Cole Paynotta</a>"
+      ],
+      "photo_reference": "ATKogpeLXLPEgBQMPJ2JTTxEekeRGFy1izB7okt4DSP8jIMUCNUuJcjovguAE6Up_NQvxDh9ZFodwe0qc5rkFz6i6bo7IpAwRJfi-0Q7jG595Jot0Eq8NAb_78RLHq5q78OMofW3MQHqbg3cl_-nKrLW2TKz2mju8ibYIYp5QKHTUDApHaetEGrqKm1M19ZzVZiH6vkKR6pfdbaznChnEikZHpvZNIO0GmxZeWBLo7EEn41sF42zc0fOh_LdGMV0hG3hx7zPyD5peSXd79ypaAZrkfAxsgkakyiOprMYbb7flMjcxLPkQDxFSbUGp6nUTyVcBc6oCdDFyszOZEuO9bkO4iTTgg_6-J25AAPYGK2jtBabdUq7EFeFgaQgtKCQgaUupp25x0cCk2PNyJM3QgJ05b2AyYDELi5zAmMWxVVUYjJB2eC_",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113925265933279036707\">B. Kim</a>"
+      ],
+      "photo_reference": "ATKogpcF9tikrMFpj_JZyLhaKVUQ6klVwW2cbw-ofxuogIyUan4jGfkXATMeEA-X3ywqiXJp973rtNwQM4DOHZRFQeRDmtrmgpL9T06KPz-Tn5-3W7YOEQ6bFpmGJU6rXnFX2A8ObpwWKFEWHBCHYQlhX8iHmp71efHE6oX03bRZXmZpKEg-VGkAJW93Tv8DIoWsjFHC6wfZP_sHYnYSWN0hB202LuXgHiYz9BFPOrD1UerLLmfjGmi8tfASNJkvaWjmC1oaxFpDo54M2WGMPC4S6VF6VSjrOE7bAXxhP5VkFvU6U3y991EJhDqPup91VMQ8vKhetxRbTQhQwy-O9a4U6cIIbakyEhGrQFC2Dopxcls-M18iCaMnUZv6lqqAiacpqRs_MuJLAFAlVpaBd6EcPTpD6csaY45eB7NbOT67MXFspA",
+      "width": 4032
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102105257075432869151\">Tim Kraska</a>"
+      ],
+      "photo_reference": "ATKogpdA-9jbxxy4q2V1wZu1YqYBcN9McRlhAdklmBvMZxZgc7gSnNEmLVyBpIpN7y6Yn_se-nnsNQqIts526QdSobaHScJlUMUovW6wEFAp0RvsRuotxaTxP6rwrJ_gEOwB3CdkyC_3Egir33IkH-EJ9RYWrDYtJQTw2913pyrSj688GWiotiggnGTS8rAcB_3SnApMp9EtrTblUaKuQ7OGlY1ws7bEAfzIyOe8dtKqsanvgguakIv0XKCJlrmFL1nEmWa-W3204ixZLe17AlHco8TCmw96hOhhxblb35kVucI3pPBiLcsByfOAcqeqWlKwb5drmGoRd5ZH5-9t0K7eBWBYIYyEI5bRIUH8Rw-SZe6QHB0EmKfl6o04aKp0bBBOsMnTYdl5EA-rS5fCt_M4AeyKY3FwgvB6oVtH7F0ESfJJSqYs",
+      "width": 4080
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106615538041279214993\">Nick P.</a>"
+      ],
+      "photo_reference": "ATKogpdQs4-m5KuwalOQjBwfcmzU8aNKwWsl9wYW3JhrJoqtXbGFDqblgAefgyQG7vD5u8fLmUzhqUGnyJqPWCZqFJnnUpKkq8Ky-JIG6zumQmVoTYmo37G92IRcfCjIFwLbaWzYqILCDSAQihCfUg9ViFrw3mvNpoTRfXvxeWV6FHv7gkYL4BTS-o4eNBpWxtT3baIalJHkRrtt0jyqZrR13xtoPn_UcE5_NR-cOjK5g7udKscj1RSzeZgfAhJ0eH1gQvklOAV45FLBnYcT00aNgzB8xA1sx5VW74PiG29jDfZrRCuUNIcJ3iEP4vlcMeY88wykw5SE4jQAbM6uNhMWnv4rveFjW_arL44SDDcqK4WAysSwB9r9deJsYhu0fV3htIZ0mEtzF5zOBfn9Lgy31VMGj0DfSZYM1Khcw__r4VEU47tH",
+      "width": 3024
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115298192883745023850\">Zoe Zhou</a>"
+      ],
+      "photo_reference": "ATKogpdAwNhjsRCO977ednCgGWrcygTl4xfWL0bG1I_EOEoccSx_rvvfxww6tktIJTy2a2izTVkFSWPE_Ed5MkULFBtDyKfZiTksC7eX52GdyelzYJ-pcR1SMRNKf89WTZfE2tfOEr3S1EJAWjb7OAqfaD8pZOiC7eW53B7Hi6bfWinhoRKo47vL26_BK3zewErIqqE5Qw_Xb4RdihOA9zO1rkFL5WU51hYLX7wr7PHXPXQszW5l35SgFMPS56wJhAK8VJrmodMKxKHGd-b3ewJiYgJ7dLmhmwhkSwHM5SQr6BAn7JJPfyFXAR4M9JK7JFaa5sdmMvZm6xV89WGM5-0JFX49HXwo6vWCb3pQxolqTRe121RpJP9XAn9KKR_60DdmwAEmabNIBYa-d-vBF2zEHda8O0vug4HU3HHV-A2Wv7phFQ",
+      "width": 4800
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105552924022252674719\">Z Z</a>"
+      ],
+      "photo_reference": "ATKogpfCBrDyg_Ze--xz7P8YxU8nEq6CRrlGdhNOwA0aUWJYoTnDmULFJhS3Mv3n4tZiXgYbnqo16qfcRwTGi1v0lFhq5FDMHjdtbHFA5QOXc6fx7E5Sfb1WY8-gtLUTHRTffYn2mNYLMbhxcDRNjF1DROa7cK7JFIdRPx3WXJsCkn5uHhRhQX6cbfv1i0VeEsQiSfcWtN73XIeiE7D5bqpJkIxDmqObfDJmq-Sb2tqUy8m_cFpwoAzNXcQDYr9NMdVVYpY5V1U5-ndyobsFsuBT6rb4FJSoqCZ9EaCBR3AbeMjcITAQm83h5lAFEZDRZJtHJkTtY33lP6ojT3uFta0Mv9Tv2nyyzC4yXbuEkwbF1C0MZMRpiKtanKoA0z73Y3UPsI33tKfgRsKy2NAXqUrCiT1ANIRuszEsthm_R19fS2wx660i",
+      "width": 3000
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111895328304851554111\">Veggies and Vistas</a>"
+      ],
+      "photo_reference": "ATKogpeRi9ph7K0Yu3tftq5b-deyeIS3wE1eQVvzjxhEqBjIW_VS5P0kUzM0cE7ckSLnd-luG4yQbjPpv1DdJXyWetrBuXE9pmcuigwHbK6g3hPN9ZDNc36kat_dxfzbZ3mgl3r5wAecOtvh71GFw_FhJNdoiBjm2P62T4R0jW7036x9v398B71-KVHx7QVy1h3F-yJSRD-B6amOx0fv4Oe8sTsQGCz_pj30WVvq5AESyxT2AEP7pY54cmsXQtyIkuMlfm5BGCXoCjiTBmU_ULIQ3rGDjJvZ5_aod5BimLM7MAKsbxm5uXdmqUurMUKALCeXR_ugfg4Bz5OEaGD1tJcZUm4Ky6BqT4i1d7fc8D6-KlINB_qm9WXae6DTf9Y5FQ-3tbBm0FQ5aJ_5U_Gil8WdTViD8jF85shp_HAhdyNkODC7xGln",
+      "width": 3000
+    }
+  ],
+  "place_id": "ChIJJS3mqONZwokR9KlP3H_7MNg",
+  "plus_code": {
+    "compound_code": "Q229+35 New York, NY, USA",
+    "global_code": "87G8Q229+35"
+  },
+  "price_level": 2,
+  "rating": 4.6,
+  "reference": "ChIJJS3mqONZwokR9KlP3H_7MNg",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Nick P.",
+      "author_url": "https://www.google.com/maps/contrib/106615538041279214993/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWrc1ZCjKws0zl9EttRH48L7HSM64maa1l_NbdH0AYSla4_3Q7l=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Had a great dinner here. All the dishes were very yummy. The food arrived quickly after ordering. Both dumpling dishes were great! The spicy lamb dish was hot and spicy \ud83e\udd75. Enjoyed the duck fried rice as well, could have used some more meat tho. Restaurant and music were very loud during dinner service.",
+      "time": 1749433432,
+      "translated": false
+    },
+    {
+      "author_name": "Carol",
+      "author_url": "https://www.google.com/maps/contrib/114044247366263183767/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqwhAhWGzklWa51BtHksx4lmu5uwp5DIGmoornKkZtV6eoDQh4=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "I would highly recommend their food and cocktails. My friend and I had an amazingly delicious dinner though we greatly underestimated its portion sizes. My favorites were the spare ribs and spicy mushroom dish.\n\nThe staff were very attentive, quick to give us spare utensils when we dropped it and swift with other accommodations despite the restaurant being packed.\n\n10/10 recommend, would definitely come here again \ud83e\udd17",
+      "time": 1743883489,
+      "translated": false
+    },
+    {
+      "author_name": "Jaye Aster Broder",
+      "author_url": "https://www.google.com/maps/contrib/102796416731743221298/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIX6vCj_Y_b5NeqXGw8LHJ867WqiJLsygL2_HsjqVoDhUltww=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "I\u2019d definitely go back and would recommend to friends. We went as a large group but I think you could go with a small group as though but should definitely at family style. I didn\u2019t find anything super spicy unless I ate straight pepper. The purple rice, fried rice, and sweet maybe gel potato noodles were less popular. The scallion pancake, beef pancake wrap, spicy chicken something, and lamb with onion were all very popular.",
+      "time": 1742775087,
+      "translated": false
+    },
+    {
+      "author_name": "Howard \u201cHowie\u201d Tran",
+      "author_url": "https://www.google.com/maps/contrib/102282366062470933320/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWVuYn2ebn2P-2SpxzoUqwP98gSHMjUsctueP-LCJ-jf5mcMx6l=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Overall a great dining experience!\nWe ate mostly off the dim sum menu and everything was delicious.\n\nWe had:\nPork Soup Dumplings - amazingly delicious, savory, juicy dumpling served with a tangy vinegar & ginger sauce.\nBeef pancake wrap - savory flakey crust surrounding tinder juicy beef, with fresh scallions & cilantro.\nDan Dan Noodles - spicy noodles with sesame paste& minced pork. My kids especially liked it but it does have a slight spicy kick but not strong. Beware this one is oily, it was crunched in oil, see my pictures.\nPork Pot Stickers - these were very flavorful & cooked to perfection, nice juicy dumplings with a slight crunch in the bottom.\nScallion Pancake  - flakey & soft, flavorful with a tasty dipping sauce. Tasted like the wrap on the Beef pancake wrap.\nEgg Yolk Buns - steamed delicious soft black bread with a juicy combination of egg yolk, butter and sugar. Be careful how you eat this one or you\u2019ll get the liquid hot insides squirting all over your evening frock \ud83d\ude06\n*the above are all dim sum sized portions, small in size but big in flavor.\n\nWe shared a chocolate mousse for dessert, which was chocolate creamy deliciousness covered in shaved chocolate but with a denser frozen white cream in the center. Not your traditional chocolate mousse center but still very delicious (see pictures).\n\nI had the \u201cMisty Rain\u201d cocktail, which is a mixture of flavorful gin, longing tea & pear syrup. It was a refreshingly delicious well balanced simple tasting, lightly sweet drink that I would recommend. Be aware though that it is not served in the style of glass pictured in their drink menu  illustration. The picture shows it being served in a standard 8oz acopa cocktail glass, but it was actually served in a 4 oz tea cup. I would have preferred the glass they have pictured on their drink menu.\n\nNext time we\u2019re going to try more of the main entree dishes from the menu. We saw others enjoying what looked like really delicious food. We headed to a music show & my kids wanted a lite meal and could not resist ordering all the dim sum dishes.\n\nTips: we were a group of 3 and if you have less than 4 people you aren\u2019t able to get a reservation after 4:30pm. So we ate at 4:30pm. It was a bit early, next time we\u2019ll invite someone to join us & get a later reservation.\n\nThe food was reasonably priced for the area. We paid $127.61 including tax & tip for the food & drinks I listed (see picture of receipt for more details).\n\nI would definitely recommend this place for your next meal. The service was prompt & on point, and the decor was 1930s China, a beautiful eclectic mix.",
+      "time": 1741612729,
+      "translated": false
+    },
+    {
+      "author_name": "Frances",
+      "author_url": "https://www.google.com/maps/contrib/105128212600319745762/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXSTNSs_xcjbbSl5gD1W38-xtxFROGEo4r3Z0n6BpnEqv1iaRYf=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "The beef soup is pretty good, but other dishes are okay. Service is okay. The food is a bit spicy. If you don\u2019t have spicy very often, ask for less spicy.",
+      "time": 1741901334,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "meal_delivery",
+    "establishment",
+    "food",
+    "restaurant",
+    "meal_takeaway",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=15578227637650172404",
+  "user_ratings_total": 1053,
+  "utc_offset": -240,
+  "vicinity": "13 E 37th St, New York",
+  "website": "https://www.chilinyc.com/"
+}

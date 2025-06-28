@@ -1,0 +1,337 @@
+{
+  "address_components": [
+    {
+      "long_name": "#1",
+      "short_name": "#1",
+      "types": [
+        "subpremise"
+      ]
+    },
+    {
+      "long_name": "599",
+      "short_name": "599",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Johnson Avenue",
+      "short_name": "Johnson Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "East Williamsburg",
+      "short_name": "East Williamsburg",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11237",
+      "short_name": "11237",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "1311",
+      "short_name": "1311",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">599 Johnson Ave #1</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11237-1311</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Massive venue featuring several spaces (including a roof terrace) for live music & DJ nights."
+  },
+  "formatted_address": "599 Johnson Ave #1, Brooklyn, NY 11237, USA",
+  "geometry": {
+    "location": {
+      "lat": 40.709474,
+      "lng": -73.923322
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.71069518029149,
+        "lng": -73.92190941970848
+      },
+      "southwest": {
+        "lat": 40.7079972197085,
+        "lng": -73.9246073802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+  "icon_background_color": "#13B5C7",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+  "name": "Elsewhere",
+  "photos": [
+    {
+      "height": 3060,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116197355622661396799\">Peter Piscitello (PCPete)</a>"
+      ],
+      "photo_reference": "ATKogpewp2rT168lDzg7mf9nHkBg8c6pIadxXcFHAemYKzcAgTEh7QOT4L9A-ZagQ4YRLGnt7NwOA2egQGdGTyNyroOwgl5mzvUfiZ3NoxLDajI1-a3mLJcI6pwmMcYYWD37sfdeLP_A_Uisw6eRErKBtBBvj5hCKH5jvsli3VIPKJloFD9OyNAhBzz5hYjpFlh71N9fp6bh-GtD_CQBtzf2yDM7oForJl2ePkyA6V496iPu5Epx_aW8M3aNWqptokVThAeXUkaXL1NbUyspxMDhaCiFb_IEOHDbT-x_ns7MbI9pDpu3vcRdA3_iSvyNetOZPWqtcfdV1CTTIYYf4mxug4dc3kROkDO7uITJZ3A_ivQA1MyQ9_ovCk0aEdCE19fi1bJNyKKVAgeB66QIOllDE2-tnr7VVDnu6HnV-kjn1LRcV1k",
+      "width": 4080
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103074585003757574521\">Tyler E.</a>"
+      ],
+      "photo_reference": "ATKogpfUSZjtYiGe1xmExsBj1u7CBl2HZMPQc5MeJysl-k2UaUW8b7FagPRynJ2DuMPLOV0-ZZfCB-dtIZUj1I6OAaS4gbvlLhVL44eD9O8FyFv0X7_hjOLg3x0Tu71UY3NPN2iyeJyDZKadsc6dgMj89HZ6sJNS0-RrUuKIhbcCPSthqOlIfK69PicgJsCW-0JRrcE40UOh22pRkkbOKLnVMM_1d4_yVBZ-U1WGfaiB0q3OQxPOkPYnB7oVLCAQyO8RZGg2DksrSlgWFZaWY0QE7kFY79xhVYZWtDjB91_6rMX27tKp7mhlfCCIFv6S1VzfIIQEpZG9GZadRCSmfLZrjqPk_KS8idGlY5gmLyKOIQOvMMizE30E2l9ZN0KJcGvz9T_huzYR1xsRGl5Im-hQmivKezzVHMHGB1f0q9TDIGz5qM4",
+      "width": 4032
+    },
+    {
+      "height": 2976,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114698262312046169434\">Kenny Cao</a>"
+      ],
+      "photo_reference": "ATKogpcKzzvk8yF2g9zIGV8WFzfut99VohqETVynC-sFDwa7f73jQ1QU7CuhmWp1-wTMHAzLljj2E0DzFdh-agxhTEJebQeF9Npx_AwMCX_at_LFLkaUo0ScuMV2CqaWUtY6mz1yncmm_fvHW4c_Z8K9I1LOscYw7xV-cVAp26JVwU3VUt-eMW05C82q3y9UL_bBh8zm4b3IrswUtujlAOwCXA-PuBOu6hZd5gKuoYEE_X6Iu2IE-Mh8I6a7sOEbopeUN9kp4GjrHygPMnI3RAnD6YWLAILtpJSiwl0Sq4PcC91TgZm-dIclN5mFm41zg1EXXwBf7Gs2mUJnAEvvdy3sYK5wp5Cuxquz1SSmxph2PZokdJ_Z5JeniJGnzWUB1DK9K1fkToekwOVxOVOZWc5TsudA1b2NvQqvkYpi1D7GKivjNA",
+      "width": 3968
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109282591280924933322\">Kyle</a>"
+      ],
+      "photo_reference": "ATKogpdMCyV172_gxlHOncwnVhBsXbsj-oCWMfVVMdOOjDbgdFc9YI9BvWjn5MjCqfVNP1WivC8dctM7pBDZrKblb5nHZHKHi7BOcGTfbigSaVUyBwRxmggljhRhU2BJ8-MAs5xfh1tNFusKQJyY3QlpQz4GDK4tcDJ2NtqmL-5nyJTuedKwumAX8d55gT4OP4yBA_XN5kj4Q4GXfrchGavPOKYep-FsjN4MYi7MYF6K8p8EUaepH4aVUy0wGR927Hki-WfoC8bI7sof9Y4ZMyjBF0V6axGjuqD5zEvgCprx1Z4PNq5nhwBvnsOcA3Vk-NA72RFVXpR7U_4CWP6uN3SeExmhRByRa966HCGC8qdXR96_RsZOi0MhvsRKTscl1qgQIlW1Y9JiBW_FnEoWulnPvqSU6YseNS-cpw2tPEap8U7BoA",
+      "width": 4080
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101413444600612678148\">Mindy Koh</a>"
+      ],
+      "photo_reference": "ATKogpenRrGv2b6PrxpSZqO5ZDEeFKPGCDiSDEJWPmC2d703KnP3harmbAZGkBJoJAJBnoD89fkGKrY7KjlcE2fPBOfyBfWj5UYaAXCagTd6GZs6IJOXL4ErDQ4qFAHriQbLJSbZHvkNn-99EwjTGVTYsDF7lNfmlcskASea6fesLAhY9QZBRTrm5HoxqcEn9KtrSZ3LlESU8UCUntgNSODZzNUiLEhyWwi5nAbw8a0fqA_oIPYIeKYMmX_PAb-tX0zcIjBNE8Ubz-8FGNV7K0G2GDd6fIG0bKrJJkIiYU_JrQCsLjNbAMNdyd2LCDpNzj2NqwgDCXERQ91TDm7BWb-u4ums8dpapwMfIt0kAKNDv4nmfrGmsl0IaDjUiZH1zu8tqFbCm6JG3TKmFvV4CVxzJN9feUIrJJuQdI3V5hymx8i6GA",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105349251367706103666\">Simon Luetzelschwab</a>"
+      ],
+      "photo_reference": "ATKogpc0-ylw3-FCghUrJpjiQ_5z8BvQoK5NoWLHCM8N6jQD_UaXhXQiYTEKusDeRH5vWmAMlvZzAGII6iqt1jACbGb1DYt5ZpLt3vArQMYDQk2qEbOiI9xJMjsUOQXBR9MN5Lh6wYlUJnM9kU-wdPtIF5iTq7XOPN-x5q_SmD9xmDSP8C2kQdh6jmRfWZMCZ5m_r1RaIcColTVjt2aZQZmA-a5nd01EidShv2O0k1aGm78DQZ9WJ187RSWJAU-Gs6XDvSH8i0H7AGTiGciiIzMwtSAyF1ru3S0cN5kOT2uAxYEzIAqFs1BOmPy3YCQnbUCGNcjYDekv-xNI8V3IcNvIMwlMgK6Cc9ON9hc9lcCpIK2xx9v6fU5p3e1yLg6Ki2s2xJ_H3O84RFaJDFz_vqQIArd_kaI2cJf3DIITitDM06tw0Ouk",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110801824681532030056\">Jonathan Wheeler</a>"
+      ],
+      "photo_reference": "ATKogpeipRtymYHIUIRP983ULRspMdk07emEXwanBh1ZyUrf2SKFryWPAFIq8g25Exr--5mHqfWxAP5RQlgsxNytGDcoTSmMoMvQwUR0DqvlWPf6G7bfcKTBFNIffmcK-SpMIbnKp5PKD59B51gWiKGrw2Alue4M2AvhGpRXOSLk746tOLVVdhJry88hP1oOlC4yom4NzsdbP2xL4DAGdUmHklBYh67ao5lqwl0VOd3vOEUKDHloCKZ6CDlwc97WSdV0AH1gBVK0CgqIHQ7cODy1VxsMbrRI8p9E-EWjQyFMvPLuLmO7TjeAkUycg3llJShXf1A_2CjWMPClzw9ti6WiFDxS39PpeZauoU9AzT4jKdPpLgLwf8Lbqdv8p194FnNBmg_zhPllfWD-UKTledJj336E4RGMfRzusr_Jt_36BvyrXw",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114690727419946176817\">Janay Tyson</a>"
+      ],
+      "photo_reference": "ATKogpdD7j8g659AI7a2C4k5MlVwNYxez6Q-lkxBwETmH4Q7DczFepazTcRwg7cMbyZpopRd6UvdNJ5ID26sR0MEN1U3dw7HdkJ0BJquOviUHksn4J2bUWOMqPhETsj-K2LY5UUGQ6rbt15fS9x9JvKtZYVlXWw3qPP4iI0Fi8R9ehnSbYtjNt3AoGGyvm4hyHFFDZHEEQeiNksuwCniWoESFBabNhJuPZen4XBwsiO7IT0AbvTr4BrRO1TpTBLgafIlKl7Tztead5lKd2pyKp4KQrcatc-UcU17EI42q6Ob39-TStNFGmOet4Rhww_ATbzfxk7AM-anJSnAtQY_jzYyA2aKGGPtzMYOJWKw01BmEfjA_pHCG5WAvnwgRb_1EkJDwqKRaTYt3d9PVaQH8TiFR5WA923wje4HyhJLBI7T5U1gDQ",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112590496703238695252\">Alexandre GR</a>"
+      ],
+      "photo_reference": "ATKogpc8gQAXdgivswKoXqTcS5SGfiuTiZjhhv5i9yCFHtkDKgYJM8mexxuWheP3hJQBixLqCUSIA6qlaRdRf1Kklvlp0MvTsHA7PCXW2dsKy_JCRPlagJq2y1UEyAEYdgA2u8r78nFp_iMpmB2iuIVL61eIf0whHaSB7P6IeV2N84J-qPJvBglxLOzLmw5rPvojKt0WCpRhA5k8hlqvju_ZFf2bih-ONCVW9A_FHg0qdhTQlxd83q1stIvzY0SYoguKrqKt2Zywyw9s-4BWdwaQ869Hm10yugCXl_dnY8r-Nua8dlIsLuLgkXoMA-wPyrlwG4RgKJNipH9SuljI3O1LBaobx_bS6Ewxspg981mbm3Gly5hpbDRJeXKMW-Sjh9SWf_S8W7CVt0_nV0qh3KlPKvBD-5q7Gv-J-NmkxvYdxRicspX_",
+      "width": 4032
+    },
+    {
+      "height": 1616,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117716052138975447031\">Diego Avila</a>"
+      ],
+      "photo_reference": "ATKogpf74F1raLfWQHf-_9JV3GMxQG8upEr6euRwDJrm8A7OpLVzgg41HI_IOQQ9r1UGX27sBFdApeygrZ1pwGsqdOw-6zc_GX8f59g9-Ju3bh2OUiaM3kapxjAjLNHo8r3djVsCFZ8nJswXw8Otbp_1QSKbRCC4Zk-Wh91Fa8lN1U4pGdsN91oBRjp2gwqiJq0jE-o6asiX_8ofbY2KRqYEzkcQipDys7kVsA0iV5VmPmallYU1Un-XRBbXn9AEpUW6nXWFzop-SkpL0Z6QD_ocal8uYcD5h-gX2rGf04tvDfCmUYmqFlMHmVY4Di7TsSJeAVOpbOfTKBPIyyLrgwgCF-wn1C0h1e1eZzMoTF3yXWst0VIps2Ko3AzGko6hykpRjRkHAJp6jEUz-ICqzJ3G7St3UAGdyG067PhRAjXjtQ04S4EY",
+      "width": 3264
+    }
+  ],
+  "place_id": "ChIJrVAECUhfwokRsoEFM0dN67Q",
+  "plus_code": {
+    "compound_code": "P35G+QM Brooklyn, NY, USA",
+    "global_code": "87G8P35G+QM"
+  },
+  "rating": 4.5,
+  "reference": "ChIJrVAECUhfwokRsoEFM0dN67Q",
+  "reviews": [
+    {
+      "author_name": "Hermes Arriola",
+      "author_url": "https://www.google.com/maps/contrib/109167450758050408735/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWbBKkjEvVge9lLOa2o8jszCdLYaUoUyG7R0Pu8IuCousgub0C6=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "It was my first time at elsewhere. It was pretty sick. We were on the rooftop.\n\nGlad it\u2019s covered up for an outdoor show.\n\nThe view of the city is cool and the sound is great too. You think it\u2019d be terrible but since it\u2019s a smaller venue, it works.\n\nOne thing you have to be careful about are the stairs. When the show is packed, you might get pushed down. There aren\u2019t really any barriers.\n\nHere\u2019s hot mulligan",
+      "time": 1749256798,
+      "translated": false
+    },
+    {
+      "author_name": "Jay Bhatt",
+      "author_url": "https://www.google.com/maps/contrib/100275157211986982540/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUGsi4-qzggMdG2z7KQyVFSseQ1s1wEGANMD-T4DaNSua8vIpRL=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Absolutely amazing place to party. We had a large group of ppl (20+) and so we did their VIP package and we were well taken care of all night.\n\nIf you have a large group of people, 100% recommend doing the VIP option with them since the costs come around the same as what ppl would pay individually and you get a premium experience (no lines, dedicated bartender, dedicated security, dedicated area, no lines for entry, etc.)\n\nThe team is professional and the vibes are spectacular. Everyone is super nice. Cannot recommend this place enough.",
+      "time": 1750102103,
+      "translated": false
+    },
+    {
+      "author_name": "Roy Smith",
+      "author_url": "https://www.google.com/maps/contrib/106709914210811942172/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVr_obaOvEXXHYY-33H2fYA8wBOTg_JQfU9YUrd5ENdSAkT82tf7g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "5 months ago",
+      "text": "Elsewhere, presents a dynamic atmosphere that appeals to both locals and visitors. Parking options include limited street parking and nearby lots, with convenient public transport access enhancing its appeal. The venue boasts a diverse menu featuring creative small plates and a well-curated selection of craft beers and cocktails, often lauded for their quality and flavor. The ambiance is lively, particularly during events, showcasing local talent and art. Overall, Elsewhere stands out as a vibrant destination in Brooklyn, offering a unique blend of culinary delights and cultural experiences that are sure to impress.\n\nIt is a delightful gem that promises an unforgettable experience for music lovers. With affordable drinks and even cheaper admission for cash payments, it\u2019s an inviting spot for all. The venue boasts an impressive layout, featuring three bars and four stages, including a stunning rooftop area where you can enjoy additional live performances. The sound quality is exceptional, allowing every note to resonate clearly, no matter where you are.\n\nGuests can take advantage of the charming courtyard to relax between sets, and the spacious, gender-neutral bathrooms add to the convenience. Security is efficient, ensuring a smooth entry and exit, while the friendly staff create a welcoming atmosphere. Elsewhere showcases a diverse lineup of upcoming talent, catering to every musical taste. The vibrant light shows and distinct room vibes make it feel like a bar-hopping adventure within one venue. With a wonderful community of fellow music enthusiasts, I wholeheartedly recommend Elsewhere\u20148/10!",
+      "time": 1736958849,
+      "translated": false
+    },
+    {
+      "author_name": "Samiha Rahman",
+      "author_url": "https://www.google.com/maps/contrib/113878641635493628317/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKL8IA_hX0Ao1F_7b5s2YbYeew14GnrfD7jED_588lteNnR7g=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Spectacular venue. Saw Effy on the rooftop. It was organized, secure and easy. Plenty of free parking on the street. The staff at the beginning were chill. Checked ID\u2019s and did security efficiently. At the venue, I did not feel out of place. Crowd was mid 20s to early 30s.\nThe rooftop was nice, they did a good job with setting up smoke as ventilation. Bar staff were quick and friendly. Made drinks strong and pleasant. Staff around gave helpful instructions to the bathroom. Bathroom was clean.\nDefinitely one of the better venues out there. You\u2019ll have a great time here :)",
+      "time": 1750055293,
+      "translated": false
+    },
+    {
+      "author_name": "Christinabobsquarepants",
+      "author_url": "https://www.google.com/maps/contrib/101122243320102157466/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVI1BrebJKlm_kGl9vNqiOjFzRlfmeZeVpVyK8WuCFeVYMQMSS3=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "2 months ago",
+      "text": "Cool spot and first time visiting. Went to see \u201cThird Floor Sounds: JAEL, TEE EM DEE, BKG: SANGARANG, NICHE, bunkr. + more\u201d event.\nOnly three dance rooms were available for the night; not sure if they normally offer more or not. I was expecting to hear a lot of house music. They did play a little house but they also played dubstep, Edm, and something that just sounded like hardcore techno.\nThis place has a tap water station! Cups were beside it and you can help yourself to some water! I ordered one drink and it was $12. My bf ordered a club soda for $6. Coat check was $6. There is lots of staff/security around. \ud83d\udc4d\nThere is an outdoor section but no DJ out there; it\u2019s just for lounging out, smoking, etc.\nThe Hall was my favorite room because it\u2019s the largest and the lighting was very cool. They had tiny disco balls, one big one, and a few medium sized ones hung up. When they shine the lights on each other, it\u2019s super cool looking. Bass in the great hall is intense and loud, louder than any other club I\u2019ve been too. I\u2019m not sure why this is. Maybe the room is small for the speakers they got; maybe too strong for that room that size..idk. All in all, I\u2019d recommend to check it out at least once. Good energetic crowd too! No fights or problems. They placed a sticker on my camera  on my phone before walking in, to prevent you from filming and taking photos. Not sure why they did this\u2026",
+      "time": 1743864544,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1700"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1900"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1700"
+          }
+        }
+      ],
+      "type": "HAPPY_HOUR",
+      "weekday_text": [
+        "Monday: Closed",
+        "Tuesday: 5:00\u2009\u2013\u20097:00\u202fPM",
+        "Wednesday: 5:00\u2009\u2013\u20097:00\u202fPM",
+        "Thursday: 5:00\u2009\u2013\u20097:00\u202fPM",
+        "Friday: 5:00\u2009\u2013\u20097:00\u202fPM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_wine": true,
+  "types": [
+    "bar",
+    "night_club",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13036598514548048306",
+  "user_ratings_total": 2808,
+  "utc_offset": -240,
+  "vicinity": "599 Johnson Ave #1, Brooklyn",
+  "website": "http://www.elsewherebrooklyn.com/?utm_source=google-my-business&utm_medium=organic",
+  "wheelchair_accessible_entrance": true
+}

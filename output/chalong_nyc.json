@@ -1,0 +1,603 @@
+{
+  "address_components": [
+    {
+      "long_name": "749",
+      "short_name": "749",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "9th Avenue",
+      "short_name": "9th Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10019",
+      "short_name": "10019",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">749 9th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10019</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1530"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1530"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1530"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1530"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1530"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1530"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1530"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "749 9th Ave, New York, NY 10019, USA",
+  "formatted_phone_number": "(212) 466-6456",
+  "geometry": {
+    "location": {
+      "lat": 40.7639556,
+      "lng": -73.98899449999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7652378302915,
+        "lng": -73.9875191197085
+      },
+      "southwest": {
+        "lat": 40.7625398697085,
+        "lng": -73.99021708029152
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-466-6456",
+  "name": "Chalong Southern Thai",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1530"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1530"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1530"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1530"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1530"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1530"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1530"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117010362393100665667\">Wilson Yeung</a>"
+      ],
+      "photo_reference": "ATKogpc7KfbKbxn0rn8Bu8W9WqwGYO-X-f9FkmnOyfwF3hWUHp81cMTw-A43qz48VOJCmRjXF9gVeIWekrYd99GNc58wloa9bC6Lqex_hG63hcphywjKlVn1McAdBBarslyGny_Gbq66nBZyC1MR3_iONi6lDn4Dbe1_BmUEokEh9vOPjPzTWxPfBrhlctjETY0XJrr4tAcb0O9QOqK3eJwl7-Y2HP3h5nYj3pfxZJKHKtVDpoPjd6pfMAbNJUkUJ_ZxpQ3GWMANuXNKBNILozOo2ceYiN2XGfNR0xgFfIAe8MK076ey-S3yRNtAkrkjnODmU36MrzOLl8UKT_yjtRX6zcuvpnRsy-9DXXdxgCevUQp-NTLu8g6gWom0m0SVbSGHQ_PPOMOwISWoVb-5XaiZ_S15B77rIXenf0_dqoIDYtgahA",
+      "width": 3072
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108474294834510011747\">Maria Guadalupe Mendoza Medrano</a>"
+      ],
+      "photo_reference": "ATKogpeGwSWwt3D6qkYZv_kHETV7YmZkgcvnd715wwxsVzst62PnkIityX9QZ126-WT6ZlWDXxzBjV3b5fJACx0t3v3ISz6FqygREX5U4e3cndzrX_MEKjso_4HIOvgl0jf4gqsstjBc8m2Nve8DwUUVpvVanw5JBT40q_8X-OJ-YTDUeE0mYy2dXoUMzI-C8aRDcP9sSNTRQV4Vfaj5s4UNktyydjFVvqEGQPGfee8yfLgHbO1FJX9SUhgeeG16B6uNoEJlitXqC2fp-RoVTkUzgUXLmzTufXzbDrBU5No__WGzC7B-ZfQ9lvtZfjbf33P1iIBPPY4xSDUXOVy70ViI83GjOVhMpRr8UDDbxjLs0DpDr5bSZuGX8b8xmAvr61_37vnL3z3vyMnNAG_Gsh1CnIGxdXDuB04gabwqIgvPjDo-dRW1",
+      "width": 4000
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112283868886023020994\">Chalong</a>"
+      ],
+      "photo_reference": "ATKogpemDlFTib7ZYlhpF5Ts18rpcN7v4Q6xsZl1ZtzFgHRl9M6dZVqaWwE7nHuzgbR9M94NSJigZ_VJgBNphI5l0PdAyPuMxpiAhID5es3LK7UMwXadBd1ozTFEymBzd6Jahny1Xo5X5ljE0WhZsRoQFfHoBJlmRurU_nPdzkIw1M0el9Hd1lctC77uH4B7WG1cZifFy4lmHEc2M_HKs0D1kwFFolt3-n2_nnvs8qTW-eZM7_uJ_Vj50eCfDFFoqPWTGLoKJ9tCOFBraMuRL6EEz0ed8CdLPRaFiqbfVJ8tein5lw",
+      "width": 3200
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108522812110164016419\">Chewy M</a>"
+      ],
+      "photo_reference": "ATKogpdWyWyQgtk8WPFM2TnQwd1FYIMPHXQPjNPKtD9KQaQ3uhR729PiyD73FE9JLOdfqJysIBsousM-9gZV_zrG-qoVig1HVqLXNBSKgBs9ZZ8y1BpMNljjPbtAJTxsanXmFfb_0udjftoXx7ZHkyw6jB8tkSELhQdZ1LJ9EpcXlgjxXm-y5sCe3kVEywecqXwHNKeXvWLZNCSOmin1yRolWpOH8C_CC07T66sCC6iUcvOG2hk6gF09M07fC-THXsp_hz5TsIDpzSMafZotd2ioNxypAPjJnHiZnEfn35nwbKhL2RbYT1Kk3a32Bi2p7NOBOMpe93EYNLs3VoOm55cr_ydjnZHghDRJF_cFuGk1cbyUuP97SAQG3WwxpagyuImlLfLdbGCF6x2pPaY7dm9dNkJN_ckU7gN0THn1vbto2-s",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117673833307881795494\">Samantha Wang</a>"
+      ],
+      "photo_reference": "ATKogpfbO88YYdIXpYWbM9Z_85cLz0r3G_p8o49Knz_ih5Ip6oWieUBrnTMKXMElnCpHL95wj7Zw7KEmcCYKb0eizLDi-4VPFBaxqRBjyvvxaheyFHXdixy_Kz1HWkYoJEjWThPDD2kGZxV0Std7LzDaPquJvWsSxI1OaxDsZOwewO3Y1M619Wgy_Xfs8GGoNGfhiCYhLks_FSro7RC9otCWaE4ppM_Ngl4yuQrNeZ8A68zr9PWzsx9ohFgLMeBnFwaab2aUxCtizpM9ghnr-Ca4HKa1DUaf4e1TEwgaHgM1mJ-QtRdWiip4MLlSgcoeosJOWcQ5FSzxfaj2jn94QWlt0A1XrDLYIQs_Tl0dr9J4_NVdRiHe_VJBNdUViRdHqCJsFfxnRHEbBepyW_gugA0GXfCC8O9O-QZoD_nnHtFdHMa8F-GY-9R3NRKD1EvwdBW3",
+      "width": 3024
+    },
+    {
+      "height": 2160,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103537272482052524680\">Yellin L.</a>"
+      ],
+      "photo_reference": "ATKogpcZ-q2I5vn7qd6T3OBaXxe7TsUIcZxFgg6WLcOSt8ZaIpne34NO7stencf-wx5l9czm4U3RR4JgWPmoi_lopuRILrFAddwAJYmmfGQR2UIkOsSlRp1P3IZA3NdVLifURPaw28Bw-g2fNNyxCERb1OZA_Z2aSqt2Ylfa4juqCbGwBlSfgCLMCpFn_dqwMIjJPSR6AgSqaa3uhMCXRZL6goXmtMsJUvQj-6SrVtlNiN2Q4TqXxq0c_emwHdgjU9RidL2UfGs3Qv2TPjR7Kwx2zbGZMfLij3NhGZL0gDM2MQ62w5VFjkqAAPXIdnXzlMFNkxsnAB-Brekrmr0uEsue8OC56RCSjG7K7N3b3P3TRzvRQhE_HTzE42W_kjK5gRW4xwYjv0HPvTq3FTV8G6gLCCnf07E4896BpBIVVOrTWXzq7Mxr",
+      "width": 2160
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113231953891242764910\">Ryan</a>"
+      ],
+      "photo_reference": "ATKogpeocmYCS_ggDVMUkWZQD2B-13USZsCzMOlLSInvH0hQNXhNF7g_ivSrw7P1Xrk_G9NVATlXp7KNMc1dOGhZYakLxrPlcIalslJGuLO8yCpTZ9wRHlCm4NEj9cW0v9jofI5X4u0qpzpYo067cyqg97KGnO_lIpCp8aMDT3B1pyNKw2OfqzVtwZq5pZ68tn0N-hIuUXg8GCaq4dz9iRTM5bHyxy_XNL96wsbiKo-KqjDKt11RIOQtbS6rNTdyYzwWt4kCq2MnH45gWo0dGkh4ayqUu3U6M99ufR-tO0JX1MN08S6fX0C0ySttzhKfBEa7BDT74Vv1ODVW6dgOYHSOlDmazrswDbZIT9_gXZQqrA_ehRPNPEzY9CbR1JaqbDg9anjpStvO5NVHWkyiSzfP1qbGPIp2OMtUkjuGMwWqFYkupw",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104724097943836795185\">Khoi Pham</a>"
+      ],
+      "photo_reference": "ATKogpcpshdN8QKOYJpDg9kRfYYu_lW0msAnvxVqf0VT85Q_AnIWIl4d2AZ0glCPo_31U-ujp852IihjB-rvbHb9AjWQ3brTPVdq_a-rDxyAc5P-wZwkyB02JjpqCUsLJro_a-5H-jQx934F-g9J6oygVDMWA7ureTrUL-oTTs3fPwx0W9KQCmpWm34x6iguAPuycvKZiasnMD9gksYP6FuTYiadf99kR2IV2RKd02Lxj73t0tLCxZcTdWDCLNYSbmKPabxOJE4Mw--_FzvP8hez0_ieofPUu3uO8Jmu5mB3GKKQGkeFQq_-CvO3WnQMhqDtfDugJKd4QU4gTiKsgyPiUN-Y3kY6vl97XXu7q36c3jay0rx3zvmbTCCMkBBn_a2ZL-so5Q9Piy-mucYqJKjXJ-mfbAT10xtwgccwxH4Cht885Rg",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109819626202518126050\">Bryan Senker</a>"
+      ],
+      "photo_reference": "ATKogpdmEtC-CU4IhYQe2R05g_-kHCOuJp54t4CMQYed4IuH_iJjY3Ux9bh6PQ1pbOmVq0oS5GxelBNJBLYCxm2JFcNBATXDraRgjCuerrypnxntUMyIGcIvtjqTYDBNbMM1mKc7RrQeN34HhUDHv-clVPUhY1FVYqPGicMRW9XQtiqP_M2blDGjdiDu-5hiUpPGvSVjobwKDYF5tlnApx7z32m0RF-eKWOu1P9CiM6Zx_qGbaYfXMA3kXUA9bRrLPpujmLHC3_hMMYk1WWUgOfH7GzLCNSFiYDWzVRW-4o3DQ2oKoijJCgjOPYx9m_NiCV1gmCiIHS0lGDu7lgqYcldAwdc841r_ibGJ6mb5EGL8iKUs8LZsadvQRJCDNlQl_UN3KQrChwfCwEUknP41YRfFKoXO7TGjad9MJElyKkLcNpdZ_I",
+      "width": 4032
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108206768630311852921\">Vera Zhang</a>"
+      ],
+      "photo_reference": "ATKogpd3lJW47Fa6A-XQ7PWQVFlQHc71CAova5JYCyFz7TBFx1BTylRnFkq9LShVOCBs0ZAGn7q5qhEDeTBehXjowb-L6qWBpI_RQkmcO9MW4krqerAWo6bSi_b_udW2PisLcesuA_4JvXg-bI_giGxKf4Mg6gZOrkGYl8b_y7t2OZ0jX_EUbqSgRGdyURAa3hdpxwinBe-EHTKJ3JJEYMsqQe8Os1Zu56lAVOuHLLqSM6Nzo8USZvYMyWicCAhYXj0wUjo4dF8Q6MY20tCCSbg72pYU5GZDwQf6xYddJCZKu7gyIEmGl4eYd_3JimDOAet6Yqi3wBFNFrH4HnIHwAfezAcrB4KA88vyE4YDjPV4HoBqfe4qOOPvv0qH70aXtQ4sb86Lb20hi4H8b2eXuZ1xVEyOO54uzCjwDj95wsSzxqEJ_e8Z",
+      "width": 3600
+    }
+  ],
+  "place_id": "ChIJhwCMNh5ZwokROomRErlMEpk",
+  "plus_code": {
+    "compound_code": "Q276+HC New York, NY, USA",
+    "global_code": "87G8Q276+HC"
+  },
+  "price_level": 2,
+  "rating": 4.7,
+  "reference": "ChIJhwCMNh5ZwokROomRErlMEpk",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Erin Hwang",
+      "author_url": "https://www.google.com/maps/contrib/105701907704493503712/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWfgTjF05-daLexhfOjQEtRF0DwIva-NYSeMVAfZ3QJzMXA6kIM=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "We love this place! It\u2019s perfect for sharing dishes with a group of friends. Highly recommend the crab curry and fried wings \u2014 both were packed with flavor. The fish was also delicious, though the portion was quite small. Overall, great spot for a fun, casual meal.",
+      "time": 1750560159,
+      "translated": false
+    },
+    {
+      "author_name": "Nook H",
+      "author_url": "https://www.google.com/maps/contrib/117897783634765134576/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUtZw12PnZ_tIKT5acogFZRl-EkzsdDO6_p8fZHaAS7u-auA6K-kw=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "I had a fantastic meal at Cha Long! From the moment we walked in, the cozy modern decor and lively atmosphere set the tone for a great dining experience. Por our server was super friendly and attentive, which made everything feel even more welcoming.\n\nThe food absolutely delicious. The deep-fried whole fish was beautifully presented and had a crispy exterior with tender meat inside. The stir-fried dish with shrimp and bitter beans packed a punch with bold Southern Thai flavors, while the fried rice was fragrant and full of texture. We also got the crispy pork belly, which had a satisfying crunch and a rich flavor that paired so well with the spicy dipping sauce.\n\nThe drinks were just as fun and flavorful as the food! Each one was beautifully presented, and I especially loved the one garnished with a spicy dried shrimp skewer\u2014such a creative touch.\n\nDefinitely recommend this place if you\u2019re in the mood for thoughtfully prepared Thai food with a chill but refined vibe. I\u2019ll be coming back to try more!",
+      "time": 1745562062,
+      "translated": false
+    },
+    {
+      "author_name": "Jazz Chomboon",
+      "author_url": "https://www.google.com/maps/contrib/112632209177336210779/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNY1nKrjlhzsioz_jjunM9-s_gPnE590tTUYfVI-Vo9P7a1A=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Heard so many great things about this spot. Finally had a chance to try it, the day I was running an errand in Hell\u2019s kitchen. As a Thai person myself, I\u2019ve been to several Thai places in the city that people said were good, and I would say this is the best Thai food I have ever tried outside Thailand.\nDined in during lunch, and it wasn\u2019t starting to get busy when we were there. The food came out impressively quickly. Two of us shared the shrimp tacos appetizer, they were so delicious, the crepe was crispy and as we bit on it the creamy sauce was introduced in with the best combination of taste, it was a little salty, nutty from coconut milk and sweet, the little fragrance from kafir lime leaves on top was just a perfect blend. Loved it so much! The branzino came indubitably fresh, and the Thai-style chill lime salad sauce brought the fish\u2019s freshness to another level. I also loved the generous amount of herbs put in there. Another entr\u00e9e was the braised pork belly, which was larger than the other dishes; the pork was tender, and the sauce was sweet and umami salty.\n\nThe service was great, attentive and friendly staffs. Nice atmosphere with beautiful decoration.\n\nWill definitely go back to try the crab curry and other dishes.",
+      "time": 1740853151,
+      "translated": false
+    },
+    {
+      "author_name": "Kyle Liu",
+      "author_url": "https://www.google.com/maps/contrib/106839718534359845766/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUb5G0ssAANwHHNgc4gvBh6Kpm9yScnlnFr-NoSx6leM0iVK2JD=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "First time trying Chalong and everything we ordered was tasty. The turmeric sea bass in banana leaves was a bit too salty but overall, every dish had a great balance between spices and flavors. The squid ink fried rice was one of the specials of the night and was very good. This is another great Thai places in the city that I\u2019ll add to my go-often list.",
+      "time": 1743434005,
+      "translated": false
+    },
+    {
+      "author_name": "Alexandra Kane",
+      "author_url": "https://www.google.com/maps/contrib/107817863027228751091/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVDEBsmmIipZQdCE-VEfJGLySgjc_f7foljwKZFJ_3L4lijq175=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "Heard good things about this place, so decided to make a reservation while in NYC. We were seated about 15 mins after our reservation and greeted promptly. Ordered cocktails which were tasty and unique. The cocktail with the shrimp paste is a must try. We shared the dumplings, which were good but could\u2019ve been better. For entrees we had the southern style pad Thai and the crab curry. Pad Thai was tasty but not overly exciting. Crab curry was delicious and would 100% order again. Perfect spice and lots of lump crab.",
+      "time": 1744950038,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "establishment",
+    "food",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=11029962795147954490",
+  "user_ratings_total": 1534,
+  "utc_offset": -240,
+  "vicinity": "749 9th Ave, New York",
+  "website": "http://www.chalongnyc.com/",
+  "wheelchair_accessible_entrance": true
+}

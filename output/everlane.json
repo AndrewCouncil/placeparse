@@ -1,0 +1,436 @@
+{
+  "address_components": [
+    {
+      "long_name": "28",
+      "short_name": "28",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Prince Street",
+      "short_name": "Prince St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10012",
+      "short_name": "10012",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">28 Prince St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10012</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+    ]
+  },
+  "formatted_address": "28 Prince St, New York, NY 10012, USA",
+  "formatted_phone_number": "(917) 275-7943",
+  "geometry": {
+    "location": {
+      "lat": 40.7228759,
+      "lng": -73.9947567
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.72426418029151,
+        "lng": -73.99343146970848
+      },
+      "southwest": {
+        "lat": 40.72156621970851,
+        "lng": -73.99612943029149
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+  "icon_background_color": "#4B96F3",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+  "international_phone_number": "+1 917-275-7943",
+  "name": "Everlane",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1900"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112105745639659185442\">Ino Ko</a>"
+      ],
+      "photo_reference": "ATKogpehleWODQXjRHcXNRwFL4eDqrWOkOQVjZdPVP21z5VZPyDkgkkrZ35HRrNrLtBlo_1L9rTTAb2dIfTZx9iWfG9vG8alLlEjnYimOcbimhRnjTbKQGhDe6OBRynbSVvZTKzCnTE58Yo6YqbjvyL7aqZgk3zXMacmgKz3oEKyJONvzEH0q7KhHZUPhctugJIZgH-Bp5VW8ZqTIiREsfB3MuydPRvMQ5L-iXh2QUGEr7SSbP7VzZDsnrqyccr2GwsArS0CCs5xkmtwLy6gtJJkpbBIcSEzxR7yO7bByL-cDsIdtnaeY2pPmhnX_hSbXCeYU9LqTwZHZufguw6Ox97IFBjSnwz1e_8jnpn8RGrNxxVLgQSPR0uIyNSdwah5kQTh6brn_IRP9EqY6V7ZWlt14enuWNyqTC2UiKC00PvuPviFXg",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113260605355562567190\">Pipsa Saarento</a>"
+      ],
+      "photo_reference": "ATKogpdRmWhu7JBLdOKvzlDDpkO7X9bB4T1A6ccUzCfFhuNZODMQmLWmEwcXbkyt8hwWVVrSmjjLeHAPwg3P9Efj3nXoCnzSQ-QkCHgoiZ_y3ra1qwsvU-a-1pdwdV9hMpYFV0YrUbreI7Tv_fdtiWnJ9qJfSVIOTfJOYarsjanU6hhXoNZ2HCoHyB7luSiwmP88EuaJzAznC0Ig2HZ-Q_VP_D7A6JLh1L5y78JLOg1t1OKH4_Q40Ea3m7YcVAZsbu65weDr2l2bMSDWa0iXWbQ9vlmLToprRTls2BAceaQzogG286A_rP9eB186vLTNTR8d9Q-FDuHlE8UImbtoflf0TTF0XDcZcr079JVtEksphILk93lWNPG5X4XkjnLYoQR5XGFfhYbd0n1b7KPumHpOQl32uUwvps54hdjnQJJQ8B0IP7FE",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103383374557110425939\">Kosta (K)</a>"
+      ],
+      "photo_reference": "ATKogpeb9BYkLR05cg4SGTWr6Q70s9nJxzNe8fqgR2J9F0JjXAjlwx1Z-_751lnz5dTV_ah0Q15Ea-57_z-z5asfqa6GYEn8EYoOs8fpn8zrj7DqsyWbpuyvSoqjrP7GEPllWPINsRSx9HnBuKwPqEJN9WpTudRKBZZHSBXQmBjpMqh3R68jlW5EqAK6W6DD5jJCnj4fx2EMxMhI9W3yADs6tINAEj3z3Ip8dR6fENicOgtDCbifafXJMYs0rXB-u6SoCFG7vmpXz2dJIBqfBAQ4LNnF1Ffgxd5cRT6gv3slB6iFd_viudwBQTmKzvnAVz4Vi-NfiNERZOVpz3d3Fb7HmlAf1p0Q8cvkDIcJZZkxTeMvNtJubdptkVTW6hWmMBaXnHfPvJILKjJxq4y2AceRBMYXUgAJeiUUNyrknpKWbyxF5Gld",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111992389054053420039\">Melanie Tran</a>"
+      ],
+      "photo_reference": "ATKogpe559nYksTguSLxMD8SbHRCRFH8GYK03Wb096f_umIpTUMssBgGsJiwQGtOOniawWrLsE4fMd3QFbew8gMjfLc5a5Db2HVnnluRZF876xcta7YA55ZH02HwKwci2tqAgaHzmnIUY_AsHty4QT5TDEm3on6PrhZapWhIRQYNSOkY79lj_Hoq5mfaMsiYRG1cBCiqJAzIieuct-oCA1TKJIwfeeIiFQiooUsIWW-Nma2M0xBjqTyYK7cLDOLPqh4UVVJViEUxfWiYxsjzpR_bc6kgOCRDaDbmLnqpotI04pccPCyvCkpIUsvxF24XZ7OcRD_746pzMFAFE3seBYC1nmm0_J9kE9gUNd8Kj6PK3mQt1hOAGE7iezfNuRwt9Ba8VKqnI0oyebZjRx3r7ZF4Ui1YTXqOcbkAalXqFbdfLRDtjnmj",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113260605355562567190\">Pipsa Saarento</a>"
+      ],
+      "photo_reference": "ATKogpcvMaf4hxrgWKWk2CHDy9QboEd-dgupSlhBlbr1_1yzBSn2ymUDG5fVi-12wz20SwQsQ3yIeutKC6INw_kKifzcVcRQo966qeYnmsqxJX2ZO8VW3L7eR4EEiLzo2lHNcVyFpD0Wz-v-XmZ_EJvUpUSGI6qNxWY2HnT5JCWKStSVQtKc1qTxhr2DhXRpGRuZk9CDYRY6av9ik2VQC3IS4imCClusMsqDcGOl7lkPlg9hh7PguwL8tCtCckKIvTHuAOjnmpNWfaXW-zRwDhQ1Lk-Kc5IHxkUfKY5E4afDVYx-DxyWO3cq-kUEbchl834E5Lm5RTXWBnObKrogufwFTNtPz1znFruXJrA4sKWX7cR7Jl_5upVojXf2VSU48d7HD0GNxJYh9r60kvkdgaxGXl3QwsIDTdPBfOQbRNJx4Jxo7lh-",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105011009143122435975\">Royce</a>"
+      ],
+      "photo_reference": "ATKogpeK7Amkp4S4_WFz67Ln1qJLTarKTFpN-xmfUkmhCidUaeF65BgTwsON7gQZBmgGfot4DaZRtp-s_eGfgqBOko_pnQ-vpD-0Rpgrv8orwXPCwnL_uW5QEHOko3cyIq_r3C716pLYDw1GlpnUwz89d0vVg0xFTkIkE671coUk7MHrICtULtieqRiSYtSXwbJr69y9CLm6EeooVsIw-pFOKK-I0r1fLSJpEnfJCVJLbc1dzhjuK4fiGM7aF77BTjZDA83PzdJPkIxKc5DqOEvEUFHk3arGBeN3nO7qiRCzkuCVK-OdFI4miv440530MZBx1cQFz1sOUz0Z5j3gHJAjBt2lSQvqV-quKhCEd64IRiTgzoFjxhydBVAezXwp9tGE40ZXtBnNIpbPwxZeW_QRCVpm8YXziFz4f7UV9i0Poow-Bg",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109365213982241986631\">Al Sanchez</a>"
+      ],
+      "photo_reference": "ATKogpd4r8HyE-YxLoC6mBvbqerMwlzdSDp9oB9-rSSL3ivVzs5MihpRp09nkF5CqqiUEveeaBGl0wQIIYOcflty7xvTrWDdWIKhq8gncYLoZ0qxJf800NgdkhOTX6dcWgW8VfyDK1csk_qSu0uZnHQotlFbxLz_L4y64fCC9LrsXwvvgoqdPcaC4rjmv5AJWEV8nju5HZrMDHL30mHatiOcmIhOiP731_0nGKNxLbXNrvURrMVZd3hEVBUXeN5FtBilIpRTztNa9h9Xo5gGGXsoleetmjnlVY0X1Z-nX_7vRrejX-XbRLKLSblWy2qbFiPNQLnaRi24HBbq2L83IQwKf6WqAobcWa9TkNjHse82fbVHQffxc1LmZTeVqe_ae4Hs7-T5xg1fAvHqZNc-eKuJuN1ylYvsnUe4D31GqNz1pFCcdbA",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118329282298259923224\">Anthony Jaya</a>"
+      ],
+      "photo_reference": "ATKogpc9mGp09YtliZfhnIAnuPPEuTxd2pAlZrvctT8bcczsoTri3fOPX0WWDpFbYQcLiJUKWYTA7PBVAwwnqWn-OC1JpBTsTq46sGMK8hbCLHHRssJhT_z685qP_fsUFsOuTHV3af06_xTNyDF9Pan7cYmxCgUDZcVqKaAQgmIs2kilJPyvfdbwz8xS5u2xHVRlxZ1aW3q6GiTpdt05HhMkmkMCkp6NRSABn_l-7cwFfMVdnRVDwjsZo-PaoobucN4b0GU8HysjpLrpWzfKRqpunAE6qHLmNYvN0Eu_obxYyREO81-n8eWMiGRMjxn287UvqoCl21tb9XxbQXkQhVenJfBH_MRlpP9rSKG7BdUYOAWyJwh7yNAgtApJe2OVGa3CFgAD0Al8dG0gWxV24M2Bic_BzLSSuE4GPk6fPtFWjwyYnA",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103859005698082695168\">Nikki van Amstel</a>"
+      ],
+      "photo_reference": "ATKogpcrkBZo-QPlveM4O6A7jS6rtr5j7KVInCV2C22LiGDdE_1_JCNS0FKk87csYXb8kWorcOtPGZKYLv5UuRWBVQ5wKmVkurNvVxWbIKMdzOHWycxpix3a8-T_4tpAv29j4rdDUuSmvgvH-LkTjoLvYsiIARGampLOP2BfMfZ1rN0qAmu0Q5XKnpC2iPo5JbzxdmSmQZOQ477Mtnu0PGhXHecOWx2-r_x6SGl1OhoA7p5om7PN0GqxBWQws8-bt6RT-wk6ngk6TavkPNdAlhKC-xbZk90Uz5nMaikFxsjmfYfjR50C8Y39G13bddGBr7fOD-oMFD4riIp1aeshZdT3gSICBub3GD5-seWNuMBE48w114cIthLXdSCUo_HKFY1tHmV49sQiFtPfTQydypTQAix99IvAP47rOl2iNmNDLfI",
+      "width": 3024
+    },
+    {
+      "height": 3264,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108915029613137014551\">Janice Yang</a>"
+      ],
+      "photo_reference": "ATKogpdyDbr8LH_O2gl0UlnkkPqmSDs-ibkTrjsjtbxtWXUR0flTO5eGU5gWdikp5wgKiejh0Ovp8oBne446cDCjiZcxCphNrXt8y_tSUboXBfn1AMf3WLDGG_ac-G5OKTk2L5sefwX6HORPxwjzFMvKsHdB8HufgF0_rFspzmceAvqJnogsjRMQCA1Pe7NYf7jlMNmJ3kBmnWWEytU1gZp4sdHnkMeGh7OGTqVvK47kNTH--7vQupYFZPidFizmUQ5hcTsADiw7plvnwzLJg8Fs1fkT6KqSm55FoJIiSfyL1x45XqdQN1LBz27F3--Wrqnj0Nif6kQOer1Xcz2vg4mMeXyADFjmjHSJ9j9YrMxW9MQv0b7L_pfq332517C91tzbYYd5xsG77OJzdrlaLUCen750uFYSUByh64HCAY1vi10oMScA",
+      "width": 1840
+    }
+  ],
+  "place_id": "ChIJrU_vV49ZwokRwuh0E7Gf1uo",
+  "plus_code": {
+    "compound_code": "P2F4+53 New York, NY, USA",
+    "global_code": "87G8P2F4+53"
+  },
+  "rating": 4,
+  "reference": "ChIJrU_vV49ZwokRwuh0E7Gf1uo",
+  "reviews": [
+    {
+      "author_name": "Jemma Wyke-Smith",
+      "author_url": "https://www.google.com/maps/contrib/100595832309710784674/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7BEunp2V38U9M75DhkiUyvjsDUWGtfJjpznmmrvs0IOyCZjZN=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Had such a wonderful time shopping with Kourtney on Monday! She was so so nice and helped me find all the different sizes I needed. I told her I was looking for colorful spring clothes and she guided me to the perfect items that I am in love with! She\u2019s very knowledgeable and personable and I can\u2019t wait to go back and utilize her expertise another time :)",
+      "time": 1740608155,
+      "translated": false
+    },
+    {
+      "author_name": "Makiya Laurenza",
+      "author_url": "https://www.google.com/maps/contrib/102151731791464640397/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJqZqKZ2vEj5qQnXuCZHJqfso8P1SLg7OSt-YI966XUGa4Ax3s3Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "I have had success at this store twice now, Kourtney goes above and beyond to help me find pants as a curvy girl who can never find pants! All of the staff are lovely! The first pair of pants have purchased back in the fall have held up very well.",
+      "time": 1743362308,
+      "translated": false
+    },
+    {
+      "author_name": "Dana John",
+      "author_url": "https://www.google.com/maps/contrib/110670242984152962352/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJDxTMwHb1V60YeflhNJC1Ez0GWA-SRb3c7M3ZCLkdrnRTm8w=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "I love shopping here! I was helped by Tanya my first time coming in and she was so welcoming and attentive! On a separate occasion i was helped by Kourtney who really made me fall in love with the brand.",
+      "time": 1742639258,
+      "translated": false
+    },
+    {
+      "author_name": "Gary Chung",
+      "author_url": "https://www.google.com/maps/contrib/112013890115599800608/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUho8cSZoAObKl6n3LPH6ehLOND7lovUqnhbAoObfgL0u1zB1Q-=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "This has been a fantastic experience all thanks to Kourtney. She\u2019s has been immensely helpful and I\u2019m beyond grateful for her enthusiasm. Her brimming energy and has not only drawn in myself but numerous others as well. I can\u2019t say enough good things about her professionalism and would absolutely recommend her every time and then some! Thank you again, K!",
+      "time": 1740786390,
+      "translated": false
+    },
+    {
+      "author_name": "Emily Keller",
+      "author_url": "https://www.google.com/maps/contrib/111368459938696141300/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLntQjFPYnh6_oE6TRAMTIak6tIHa_mAqt-E9K2qv9QUY8mvEI=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "6 years ago",
+      "text": "I came here at 11:45am on a Monday. No line.\nI came to return The Day Magazine Tote in color Marine, and The Form Slide Sandals in color Wine. These were both \u201cChoose What You Pay\u201d that I purchased on the website, and they didn\u2019t live up to my expectations.\n\nCustomer service was good and the staff was friendly.\n\nThe Form Slide Sandal was stiff, and I knew the upper would be cutting my toes up any second. Plus, I live in NYC where I literally never wear slides outside on the off-chance a rat scurries over my foot. Better to invest in close-toed shoes.\n\nThe Day Magazine Tote was also stiff (same leather as the slide?). The handles felt like they would be slipping off of my shoulders all day long. There is no closure on the top, so if I drop or lay my bag sideways, things might fall out. The color wasn\u2019t 100% for me either, as I would have preferred a wine color.\n\nAs for the store, inventory is low. They didn\u2019t have 2 items I was looking for: The Micro Rib Crew Tee, and The Cashmere V-Neck Sweater.\n\nThey did have a denim section, underwear, linen tees, dresses, cotton tees, jean jackets, and shoes.\n\nBefore this street-level store, there was the Everlane Soho Studio. I find this space quite similar to that, so I can see how shoppers are leaving unfulfilled. I believe the objective of that space was to introduce people that preferred a tangible experience of shopping to the Everlane brand. Now that many avid shoppers are familiar with the brand, this concept might not cut it anymore.\n\nIt sounds to me like shoppers are expecting more of a Uniqlo experience from Everlane. All styles in all colors in the store. Everlane might want to rethink their brick-and-mortar concept.",
+      "time": 1543434225,
+      "translated": false
+    }
+  ],
+  "types": [
+    "store",
+    "clothing_store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16921888232775674050",
+  "user_ratings_total": 489,
+  "utc_offset": -240,
+  "vicinity": "28 Prince St, New York",
+  "website": "https://everlane.com/",
+  "wheelchair_accessible_entrance": true
+}

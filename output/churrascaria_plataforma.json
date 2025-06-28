@@ -1,0 +1,536 @@
+{
+  "address_components": [
+    {
+      "long_name": "316",
+      "short_name": "316",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "West 49th Street",
+      "short_name": "W 49th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10019",
+      "short_name": "10019",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "7391",
+      "short_name": "7391",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">316 W 49th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10019-7391</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 4:00\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 4:00\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 12:30\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 12:30\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200910:30\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "A parade of servers toting skewered meats and a large salad bar star at this set-price rodizio."
+  },
+  "formatted_address": "316 W 49th St, New York, NY 10019, USA",
+  "formatted_phone_number": "(212) 245-0505",
+  "geometry": {
+    "location": {
+      "lat": 40.7619155,
+      "lng": -73.98773249999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7633710802915,
+        "lng": -73.9863005197085
+      },
+      "southwest": {
+        "lat": 40.7606731197085,
+        "lng": -73.9889984802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-245-0505",
+  "name": "Churrascaria Plataforma",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1600"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 4:00\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 4:00\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 12:30\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 12:30\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200910:30\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1272,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101619727945112829533\">Churrascaria Plataforma</a>"
+      ],
+      "photo_reference": "ATKogpeYROIbtlKgIEKE2dgP9JfPhyfTxS0jjvXRxumw5IpTOUqlAMxPOK5_qWB7Iw72Crrs0KrFtdT4YyPPLixzWQfdo7JYgAkcsgKmB6jchbM_jkopmbuUNtJN_JNht4YuSprd6UWIwQh4ODvjVT0x83L87Zwi99WHr-KAaMzSXASDQ1lpNjOlnD08ePGFWiV2tXBSRvniYgo-1eQbH-kNmt1hirVwttfucPwjeHpH03QUnUWxVZaSbrw84ubNZ-bEHeuOsrN-uPFUOhMreXomjNMAhlepFRXYvPDvt9o2Ph2IdQ",
+      "width": 1920
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110762765610174328610\">Chungwon Lee</a>"
+      ],
+      "photo_reference": "ATKogpc8SnHHq6iWddOakszCIp-C37lJnOaWAhzUOrAlqj0AR17YOKI5TIn4JxvXBKhff5blESJ6f_cgNQOT-P5Ks5JRNVSYHBUS9AlQFEDQf8zlbNXYv0ynd3G10NsKxPrzE2z5NAKO3QSxVWhcxNifnmfWzV2LtuE2_pgL5rdTi_eCuANv8uuwX0BWTTLgKFPEZz_rZSpEs7PsNlWwtb17w6IWEWlifKIciFc6RQnNd1iFIUomFzchA_F4qbMhuhh7kY6dWvthqUXzONSrbUMdOZxTf0g9Ym6v-M2XAr5JeqQUzxEWlWDqSbC7tx3CR_QSEoC_gkKOqcBtj235aASq5-BD-c-bnn_R3mGdHKYL7bycTxP9_0cIZiscS1DDJCHiS2_TNgKjPJmSQkw4LHYVkX9eycd1KaHIk2bIibLWYrkZDf0",
+      "width": 4032
+    },
+    {
+      "height": 1799,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101619727945112829533\">Churrascaria Plataforma</a>"
+      ],
+      "photo_reference": "ATKogpfrKQ2LMmsavC9674hVJRjrppSVHc9Qi6DxNPm7QTZO2MrpLdFarts5yokGyrkm3_h9KjrJpIBTnav0ub28yv2F2j3c_LnZwLvUj4yEecUpFKIXEWa4nshBp1tp-gnU-lX8uqcYUaCGowpiKWLaZZ53rZqjsrDdbvyKJJpM8V8zNkI2oXfUXAtClfS-QHV8SPUjkQJCaCURZtlyO01TYGfNab-oNxGRpyXaTpBsuQs2JehXcHOsl-6BkRzfGIP7J_kKkA7OE-dpe6at3E3Pt64ZNIqzhfig9A0SpMYAO8h8Uw",
+      "width": 1200
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109416307614300679622\">Monica Chavez</a>"
+      ],
+      "photo_reference": "ATKogpfMWGhs4LaiMrbqOdTjuPcFzwuaRt8qyzlhEl4OQVWvZbTk6WzXzxcb5yB--qdG0K7wJQ8j16d39dnbiWie0CJJkbpiHbJja5dBhzStrx0V0k577hVh29hxdvAx9_R-3EzG3UzFngC0zBh7GYyCxnKL3Q-NIp0pRtLUa7K1agFw9RmME07aE7CZNWhSlt6vVmNE_9O4f5NDrewRBVDHBK6Uxw599oKUstzv0aECqdXs86eGKJrxH06WaG-hrICpgnqsoaklKfJaVQhgj0KZ4-KicIRybHhU4SHPRlh25iu1wojYNmki133MXturcu_X07JKHgXVDOPlNUVDixcNro_94SpDIWUJztJakK3JBjPCGU_kNNAtFevqhYl1v1FeGXfBpFXc9yVksjbExo7t2RoBHy0J7tN7YJiFguLHVfowRlwEKHinaxFy2cpnsVP3",
+      "width": 3000
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116142026301478479531\">Luna Lunita</a>"
+      ],
+      "photo_reference": "ATKogpdUQ0xDWG7dHO1_vC5Fg4_EM6wYJioykmjnCQy1IIVLzayNIjlqam6kwyKxzHtHWkAs98RD6lpTSSOkEcZXTndwqsBXWcHkcnOdvKo-WNCE3xstT0xakO1RtoAyPNu5UhIqHnd-E_DD98jLnhYALtwsCLf4frV_XXry4loKh7J74in_CLWsbZinchbXASdH8EZvsP8enpbngcctAEVrPiwGV87dsdkCTlbWXTghCjC5a7zD4Z78DETY6x7K_gZ-fLswBLaZF8u2QDGTXDVWebgSK7RLDhr-T2SMHCgVeCVQ0WYoMknmT-6W5DERj82zfsuchLwgdBYqUgBGlD09ChIvgXOYajDutU7XsbbDTVX0cLCfzgM510KMJ4izqU0yTh18GHrq3s-IO2h2vgY_7C822PXJbwl4VZPubUzAdP4dh3LqfpAs0qJ6nhaD6DjB",
+      "width": 4000
+    },
+    {
+      "height": 3201,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101619727945112829533\">Churrascaria Plataforma</a>"
+      ],
+      "photo_reference": "ATKogpfc7C0DHRNQYM2tWSJt3iiMoF6y08LOU_IloH3k6QqSZATImTAxJY1kpvthOSqc1WaGFS4pWAfscO836QL33eTIiMYYtKGNrvjZMJe47k3HIIfuFMxqDBoIeDmUbLwecbfcdBTKpjWURUpTDGvJ4sj3iGY3_DpMTAUdDzJSX10-j9g5Pkp2BaEv38lQAfMdUCo-3Pv29yJMDoqf7pVff027_wCZoezKwMwIQUqWT9nkcraaQDFCbdSHTWs-RN0fe_ULM-h9X6NRu7FglDNhEUJFL03xn60-wFpJNecaIuTlFA",
+      "width": 4800
+    },
+    {
+      "height": 3201,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101619727945112829533\">Churrascaria Plataforma</a>"
+      ],
+      "photo_reference": "ATKogpe_EhEW6hi_6RoodzuVK9rEgKv6Z1AGjt6QByStZtcGG6rvH1mcpXZL0p737F66MtO3h5z9T_2h0FdTOMni9umm16sD6d1SFpD4BPhLBbQ8_4raSytgcpiUuz_gkjWdW-BoXZv5PdIsDAdAHB_cdgHYLU604bs-mNJF6rc98SZ7nyo8aVIv3XnTpTx4oDPJIWyVOG-hQNUfHVAX_T-idFaBH9JZtJ5xYOWxVHhM2UKwjkA6B_FZaHpbqsaZlQwXexpg85sr4mP1FUAcw71JGHz-RqKoPdPQhQ5bliLXoSOP9Q",
+      "width": 4800
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101619727945112829533\">Churrascaria Plataforma</a>"
+      ],
+      "photo_reference": "ATKogpeI5nDPUwqpBmYosG1Oxvmt6XI2vXKgM_JLFhZ8pEvUxyEcaB7cxTQXgUs30ZtQ-Owcfc-JXBPoCa3hsoNlc2ZER5GDYJRbVfb4bA9AoLlYgQ9j7jRhTFZNS7oSUP26flT7Wq8KjjcV5zvfUqke-h6SmM2_YPPPUd3qt6UgO59nxXfoWVHp4al4P_guEGtZIiqNYMb3EYMvASxSY5dNSP01fj6zaXB5nzi4GZusTNl84qUJ9tFvPu9rLNhu13QD6KM7vIcTg9BX70biEiiJ5qjZOFO6HhTcBESDz9q2ionVxg",
+      "width": 3201
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100590499918553433349\">Jo\u00e3o Mamede</a>"
+      ],
+      "photo_reference": "ATKogpcLr6Mla59uXU88R2B2ZinCupPWMdq_yKycjLDvPJGqpbvNzZeIHTL63zeUpOQeE1_UDsQCMSg_3sNBO2btE3GWioo0iMaKzubDuF4BmgMXUB41okjVD9zu10lZKr7gjYGsZ2ZeTpBKtgg5r0fzb3G2yrcr5kMT94LwpMhFOICWBnB2IoVm4gjBbWF3AdUJhQWIm6N9WdVkf9CJGGvjrszWrLZQxU45C4VWKhKGG_dU5JXMul8OcG7IZ8KAUk98FrzCUa2H5ucFWjDK8W2ovLmUXNP_e6VKypHRN38como5ffvGSF2LG0M_h8vCV9nLKr_F4A3ly9NHBUAovOQJyMywG2z5vmbfPg75j0SEPUHG2vrpBYrXZLD_Q8YmSyNTnndwENbvxX1QBkHvnnFPqU-ob_pGw5cXP0Oe8vXY8al0G-s",
+      "width": 3072
+    },
+    {
+      "height": 3201,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101619727945112829533\">Churrascaria Plataforma</a>"
+      ],
+      "photo_reference": "ATKogpfWYyIksT0_NkFDqtgteMtZ21b1Xv9Jvl9bRRUOd_nqkkhnm19EviPXX5_HKPeIcmUEat6rHrb3gJwLKQ8tuWXfljfGEM_7pcigcwvUo0jhf6n50icj3g8BJOYOxdMXApJ68SmIN9BYWe1jKCRIAAX_HlgN39rq6QbT5LxtW0oHcNHjDs9qpxAmAakk57JlZdgCL9IgUBZ9DLgtrpIYy_288qZy0z2vuNcsp521Fjubd-yo49ubxgaHUHkOzTkRtRjzFMpR5ZFrrj3I8PO8wgrkaYwJUGLOg9uwUiHjcGnrOg",
+      "width": 4800
+    }
+  ],
+  "place_id": "ChIJP9idxlZYwokRLH-I1mNfzYQ",
+  "plus_code": {
+    "compound_code": "Q266+QW New York, NY, USA",
+    "global_code": "87G8Q266+QW"
+  },
+  "price_level": 3,
+  "rating": 4.5,
+  "reference": "ChIJP9idxlZYwokRLH-I1mNfzYQ",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Lee Stat",
+      "author_url": "https://www.google.com/maps/contrib/101258251715337774782/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX9PpaGlsw5ULv2TtscdA4-ZYxbYNsf6j5xEm88shlIIpcmrd4F=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "4 months ago",
+      "text": "Excellent service. We made reservations just in case. We had a great time and the food meat just kept coming. We should have stopped that times and then kept going. I asked for meats that were well done. Everything was good. The flan was definitely one of the better ones I\u2019ve tasted. The birthday cake not so great. We spent about $135 pp. The cappuccino hit the spot.",
+      "time": 1740529418,
+      "translated": false
+    },
+    {
+      "author_name": "Nicole Kim",
+      "author_url": "https://www.google.com/maps/contrib/118129559408373781633/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZQ5Yo4hAmaHriQARrQsXV_iajY6m1FuLFfCO7w2_hwyozvaz7tg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Had a reservation for 6 on a Tuesday night. It was easy to reserve and when we got there, there were plenty of open tables so it shouldn\u2019t be hard to just walk in and get one. The service was top notch and the place was very clean. The salad bar was okay and had various cold and hot items. Sides also come out to the table like the cheese bread, french fries, fried polenta, mashed potatoes, and the plantains (we barely touched it tbh). The meat came in fast at the beginning so it was a bit hard to enjoy the pieces but partially my fault for not flipping the card to \u2018no\u2019. However, it seemed like all the good pieces were coming in from the beginning. We also ordered two pitchers of sangria (white and red) which paired well with the meal (quite refreshing). We opted out of the dessert since we were really full at the end. I do wish they offered the \u2018meat lovers\u2019 delight\u2019 option ($24 less) offered on the website but we they only provided the regular menu. Other than that, it was pretty solid.",
+      "time": 1741150011,
+      "translated": false
+    },
+    {
+      "author_name": "mike dutch",
+      "author_url": "https://www.google.com/maps/contrib/111138127330265814558/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUNNU8vgt4c38xaguISOvYH_U3kPYCAV4NbNP9WW15mgTSK-sXx=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "Stopped here yesterday after a Mets game. It's a beautiful place. It's Brazilian style meat with a good salad bar. We had all kinds of steak ,pork and lamb then hit the salad bar. I had a bunch of different stuff from the salad bar my favorite being the potato salad. My gf loved the sushi and other fish from the salad bar. We got back to the table and record our appetizers which just keep coming I choose cheese balls and she picked fries. The whole experience was very good. They also brought us out a piece of cake after for our anniversary. We left very happy and very full. Just be ready to pay, it is not cheap  but definitely worth a try \ud83d\ude42",
+      "time": 1748894495,
+      "translated": false
+    },
+    {
+      "author_name": "Stefani Dee",
+      "author_url": "https://www.google.com/maps/contrib/116838843048534424591/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVdFbBEpPBFafEwo7TyOAW6pIgoWZe4vUGrGWr4zcqwisRUhSSBow=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "This was such an amazing experience! My family was visiting from Florida this restaurant exceeded our expectations. The salad bar was packed with yummy selections, the black beans were super delicious and paired well with the meats. The meat selections were all yummy and juicy from Parmesan crusted chicken, to lamb, to brisket and of course different steaks.\nThe drinks also pack a punch and the dessert selections had something for everyone to enjoy. Our waiter Carlos was the best and I cant wait to go back.",
+      "time": 1739305310,
+      "translated": false
+    },
+    {
+      "author_name": "chrisnjon",
+      "author_url": "https://www.google.com/maps/contrib/110141271142902672017/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUhr9Coh4-qFBgON1seTQVw4oEQC-rzm4RW8nELm7G9RW2AeDn_Gw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "This is honestly the best place to be. If you\u2019re a meat lover, I went in and was seated virtually immediately and great bite to nice ladies. Once I sat down, I got a seat right next to the piano, which unfortunately wasn\u2019t playing at the time, but if that was, it would\u2019ve been even more cool. I saw the salad bar and it wasn\u2019t out of this world with options, but sometimes less options makes it easier And more enjoyable. The salad bar is OK I would give it a solid eight out of 10 if I could make it any better, I would include more seafood like clams or muscles. Apart from that, the meat came in after one after another, very very fast. I would get one meat and then three more guys will be waiting in line next to my table ready to give me a piece of meat, which was actually really enjoyable. I spent an hour and a half there For just a one table top. And everything seemed to be very clean, I did notice and taken to detail how there was no smudges on the plates nor leftovers on the forks which usually happens a lot but at this place everything seem very clean. I took out the bathroom to see how that was and I was thankfully Blessed by God because the bathroom floor was spotless. I would eat off of it, this is what usually don\u2019t see. I\u2019m just glad to take into account their presentation and making sure that it looks on par. The total I paid was $115 for one person which was the Ultimate prime unlimited steak package. I got a dessert which was the cr\u00e8me br\u00fbl\u00e9e which was fantastic. I would definitely come back just for the cr\u00e8me br\u00fbl\u00e9e and then with the tip which was $20. It came out to 135 in total for one person. This will be an excellent date spot. They have a great sports bar area too if you come by yourself as well and don\u2019t want to do the steaks. I would definitely come back on a second time to bring over on a date.",
+      "time": 1743812462,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1600"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1600"
+          }
+        }
+      ],
+      "type": "HAPPY_HOUR",
+      "weekday_text": [
+        "Monday: 4:00\u2009\u2013\u20099:00\u202fPM",
+        "Tuesday: 4:00\u2009\u2013\u20099:00\u202fPM",
+        "Wednesday: 4:00\u2009\u2013\u200910:00\u202fPM",
+        "Thursday: 4:00\u2009\u2013\u200910:00\u202fPM",
+        "Friday: 4:00\u2009\u2013\u200911:00\u202fPM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "food",
+    "restaurant",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=9569409665637842732",
+  "user_ratings_total": 3908,
+  "utc_offset": -240,
+  "vicinity": "316 W 49th St, New York",
+  "website": "https://plataformaonline.com/",
+  "wheelchair_accessible_entrance": true
+}

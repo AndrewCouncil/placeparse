@@ -1,0 +1,423 @@
+{
+  "address_components": [
+    {
+      "long_name": "25",
+      "short_name": "25",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Bogart Street",
+      "short_name": "Bogart St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Bushwick",
+      "short_name": "Bushwick",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11206",
+      "short_name": "11206",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "3805",
+      "short_name": "3805",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">25 Bogart St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11206-3805</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1800"
+        }
+      }
+    ],
+    "special_days": [
+      {
+        "date": "2025-07-04",
+        "exceptional_hours": true
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 6:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 6:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 6:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: Closed",
+      "Saturday: 6:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 5:00\u2009\u2013\u20099:30\u202fPM"
+    ]
+  },
+  "delivery": false,
+  "dine_in": true,
+  "formatted_address": "25 Bogart St, Brooklyn, NY 11206, USA",
+  "geometry": {
+    "location": {
+      "lat": 40.70414239999999,
+      "lng": -73.9331596
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7055439302915,
+        "lng": -73.9318298697085
+      },
+      "southwest": {
+        "lat": 40.7028459697085,
+        "lng": -73.9345278302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "name": "Eyval",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2130"
+        },
+        "open": {
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 6:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 6:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 6:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 6:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 6:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 5:00\u2009\u2013\u20099:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114713062758362645997\">Eyval</a>"
+      ],
+      "photo_reference": "ATKogpd90Ed15S0P9g4B8BMOUNJdepU3Dxqhq5Bo3aoW5LQ88kw1fZYuG8Mc7S9w0OQeLC1t71P9ZCw2wGuJ3Vwf4OE13LkVcciv8R_siLBES6qFCdE0z-_RRwGXqYLB0VcrkOmhITu-v3GRXFJiEs0JlW_H4cJ8bCol6hdp7HHaK-gZN581msWj671WhsTDcoU3qKu_XaZwMhZe6w3QJ6_MGE6Zi1ZvVBmpxktaI45tbtM5K7QXgonDzYrYhQqCkft_eHUx2FWWveX0AAhfHKWrkJJwx4FuxlREKqQ9hRvV8LGnXg",
+      "width": 2400
+    },
+    {
+      "height": 1881,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114713062758362645997\">Eyval</a>"
+      ],
+      "photo_reference": "ATKogpd59DMF0lZ0bI7PWyI0hB53I9zHoi_BPFvseIuGjanSNjfH7d6_LVxlGA-2PzW3FKwOqMlOfRDXYuD_KNEWQtI5kPnktHJK9rorIXpVayf_ssYOtJbJhePl2CEDcZUUhMIb077CwMuolb3gZT-yNAOzqifNKH0ZMV9lBAClH24O5dxPcX-k58DR0yBxZQpEfAGQH71gX4mF5gYc2lj3BkOiBslI8UQFz4bHReALgnLt7BTv7XE4cFBjOUAJAsqPGCt6GqWOpxCDpyTa6eqsJWQoaKAQN7OfRPHO-F1lWke6Ww",
+      "width": 3103
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105284948919885916467\">Andy Akins</a>"
+      ],
+      "photo_reference": "ATKogpcMjeWq9mw3oiuIppP69lO-VJFAc301PcMpjpVWasdJMirXeaOKIZnsjY266JJA4ypmTxFRrnVhIgFmblnSdPtZBtCR582-tQsp4cb0qiDJsvJPxxDptz-JfNSGpwBmPr9qqlDKS4jD0bvnWr9AzbI8OypXrjRfD83RT9L9l5JVNcBciGHSu_OGVL9QgyW_FKb8HjSmC2kYn_dS07_HCT_BZbFwrvxDbPXKDTIjVFX6dQ_E3gUoUNoKtDmtioI2OK3u9gq6lZvccCEYOKZsGq--kZKTBnzcdWHGqqIHE_gV6pwj77MzJRDJzipAauXBB4TTq_JnsPwSMxXDM4bM1CXO96utgxJIR5n4ty6rdgpGO4NFsPasQQcLE4fJrhW-z7lh8Wx-nnch7shiwPFLwa1-lU6TtmrfuojCAzOqy8MjBn_PH5kzresOa8NsRGTh",
+      "width": 4096
+    },
+    {
+      "height": 4174,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104208456114207390893\">Lily Tran</a>"
+      ],
+      "photo_reference": "ATKogpc6gjN0GaAv2hjYEV2ZgZo6o8RJBMa7aNIBf4G4d8S8sh0Jynq7Pfy-tMwoEu8gGAoqIqFiDk_a4jL7egK3tWTpzjN2wDR8PP8-3bt9Zw9WemvceHVDvK8ExaBFG-_EISKAbyesPLch6bVYm8DzeBoUHLFMW3vg-zIAGY31NJT0eKA7CEoCjt6gIpwJcdFu3SGT_El9qgE0DbMzst5W1Ew_40AdgUn1tjzAmsUHHFr9YXeJ81A6clyXPtppj5bVouEeSXNrjV4jJWGG9YjA5SPVkFCBdt_Fy6PKc_MBrRx9b85V49rhJYjy41UzLAXwBHJ9gT-dd1chgJTTFWdApRnwZ1NYt-3LhxQUjJr50cN-Ydfv4czXQuktAY9CW4ZgsUfCWMJgBpUpg_R7tqcsYp00sEjUZpxSMZT7OABjeQ4iHl6h",
+      "width": 4679
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105284948919885916467\">Andy Akins</a>"
+      ],
+      "photo_reference": "ATKogpcwvdoX1k0mauPdVy83i8c6iW2oQOaz_sTK7Gf7sglcQ0OVBII3eTdZnAFcfrDTtXvmDO0HXMoSk0BgHyxMaqKtYGfybLXXcdG33WVXK7C7asJBYVOy0RkNV9HPOHyav1NJjG2u6ocz5GjihOGi8uUmh0xy5wPHhHyt_2jN6lRPSEfDiyK44oQiQSJGYG2fbYZv5WTrUxsZg-eGW5DgX_ymNgiDgg4JBLNNmzOkyU-Ugg1ODK_pfQN-9gj4lQSJuWcjNfAmKe2m3JnkDCiw26SgZrdSbIU2IaSqWjT8d2C4P-_iUulTH7SW9-nlZAQDPKEiYuWH9INDCwKxNwjSaDbErieAlnbTmQXsRELSqoh8ArO4RTCYo1BamUvvUIW6-ZmCVEEYRoV6nmLsB43rGYLhxIrQHH34euY_WoUem4mLhSJ1jYpHKhnMg9Ps9YQX",
+      "width": 4096
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118320720901385887451\">Angela N</a>"
+      ],
+      "photo_reference": "ATKogpcqgUUIuYHmypzLVTnD1Zkust20_Iddvzf8doQDkmw5KdD_U51IUEa_BRVes34UPc_L9-9008n645ddDrRJMu3rvu36qjATkQptcTvGgWovI_3RJ-WL3_9cRN3HGDYhT5TW0hg2y2-cdUo1JXsZvYS7vxFGBsuQYQJttxUFP1p122yN9ZhLQthGxCQtPukr863LD12dcVUy0FT1JZmdjTzcx6CthHwgDQTGEiFaYbM11f4D7FvFh2dk7Jt7nEU1slpZ1Y6CxWjMeeEGZZf68Jf0MBvsSjW2Fs8_wLjJarPxd_s77avhzIzeiVKkfUozO_Ht626ef8tJ2EXq-sArwpwdomoH9r7KrmCKtnVhfUFCmKyVY7427MXnx_qN67lJ5wNJa8P3ufWw3rmwfALmUd3832H1kA1WXFuD1iXbDeY",
+      "width": 3024
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118127073684154297036\">Grace Combs</a>"
+      ],
+      "photo_reference": "ATKogpesN13vAlYJXTELQuqEyXbcGCcoe_Og8mvmP8GMaVJk_8Tttqf1943gm3NDu0AvnJuHExDpnnZb_Ns1T5T3CPjYqAToNJyQ2Oa_ZpZWR9Uz0wd00rjB6mGe7eUI1ftXsfdvbduPS7T2rTxEbzsv6Lj5613MUpPrwAdkS6F6HDPDSny7pfMt56aKi47pdbFhOwFsoCA3vEKqy4Hj_XO28vuY_efyYRokDTV5mERXyDL5ROnTuH0nn941hfzguSn0kaHy6ITIrcm6bDxkjHXPhBDr-s7j92euCkjEI95FD8gSii6kXap4nD9BWP42SrbfSWWNTe3fBaUu8HhaBwN8R1hv-U-5MQ_NRFJLQtZksMpztq5K2syS_1wuxFSSjBe-uaPYB1t449hv4QjZtZBuPOakw_M2hBP8hs06T5ANAoMNyeOX",
+      "width": 4800
+    },
+    {
+      "height": 1350,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116664461594538892674\">Louie</a>"
+      ],
+      "photo_reference": "ATKogpdvLbkL88rO1Rsp_fLfu9b1Ae_yt030O3ehut9-GCaikGusEnkZjwIyeAQWUv9MS_UGplKxg7xuwB6U1ooMSFPnl03RLAHgw2TavD8WgaBZgrDkjcIDB075rkhUfnJzwuaasMklS3pDK-0oJzNRdxwiqGBWsFD6q1r61FuSFU_96udwMs2szqO4U-9ICSBjhzkzTZA7cIWV4eOe6DvHHeJvYZZWHBzBGLVsyjGS4L9uLk3hLkRl1cjcQ_-2XqD1fbrXCuTxWzgVfrksKmjn8U-2XnwOk9GCD7Oeudfdz527VAmy2u-mvMIi1UREW7eK0ALQhkYkhpZDKD3mF6eM2x2uwDch0sHmrKTT-M7BRlrbTZ1wUyyGjk-vUl2ucHaLroC9SL_D5erqVjW4-R5US158N18QR3fOLGFTCfwCM0A86w",
+      "width": 1080
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118238278979313995765\">Lou M</a>"
+      ],
+      "photo_reference": "ATKogpd7W-ZZgbXVZWEMAW3MWJ0iJd5twdXq89EAZfzYMPCjtzwgNJqIVzsfDAc_QBSkIzHDZ5LEe_FUizYEl5MWlQYnzYaLOehMPGQiITgnl5QSht0hEvJRwJB69SmtmzaR_zlJUu4PAIuwr07m2v6BtFh1sSdUKjEEiL9NvBIHbZ7nbR3qvcleB-IOl-u5CYGRnJbP8pTkDnXVvXrgMxvriccJDj346Q8OXwJxOokABv0GrBJtaMQogdejm6yyiPvdItQI2w0AE4BUw2kItCPdQcpr4gVlat9AM80ZWLg_p4A6TTnzcaWxMBIJs3RkDjlFPbIMcXuFrQuo2UV6HVxgUIOq6OLTUG9knqKZ6vF6jcNlUPIeCGuD5p9eiGMehMgwqsv8V3aYFd1gO81neNFrgKWCJ0lBUjGatFcgPLtmK8jF6Q",
+      "width": 4032
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109286592982920251049\">Payam Nikdel</a>"
+      ],
+      "photo_reference": "ATKogpdia2-hJMvLTf7ChBKz-dreFifb1vcy3DKWDhcOe1gNizqTAtX-cjtKWcwnKtXsbpJZ7O9iD6rKqHysyJwoF0SRbeOv_6gLOmd_A5K2CJjcGWiHoxTFgFrbOFmqVT2uMMbmiwUPz0Fju9v3X_yDY0M2e_6C8h6dHuii7-m9MstEjl6_iNlGTSn15MDaHV1QX_8PuivFQuGa3KqY_ElZS4CWYb_GuXgmxw9KiCKQ9HJ2T6P1ERDjuJPXxE4iJuzB5D8ER8ivAalCkQfQH0cyJvHFbn5ZjGdHhjRCKcrpMy3vrqwstwooo2rYZK1E2pePCdfAuG-J8mJdyh8uxhylJz8SwNivJLVa5nKxAVINa_7gYb9vvTONhakh1cQidFVhrXk0Vl0U8gdNm5pGcEEZv8r2_HwYjnPHzCoVQrpvDwlGbn4",
+      "width": 4080
+    }
+  ],
+  "place_id": "ChIJR9OEk_BdwokR9Qxlpi3I1ro",
+  "plus_code": {
+    "compound_code": "P338+MP Brooklyn, NY, USA",
+    "global_code": "87G8P338+MP"
+  },
+  "rating": 4.6,
+  "reference": "ChIJR9OEk_BdwokR9Qxlpi3I1ro",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Jasraj Singh",
+      "author_url": "https://www.google.com/maps/contrib/116137542913025929061/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXDRfNTMOT2L0N1DuUh0LuzfpQbaA8cAk8azuFB1dBmy6_qFumq=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Tough one here for me, going to have to come back for sure. The tldr - everything is great.\n\nVibe and service is top notch, grab a reservation and get there early to check out the whole restaurant. The cocktails are spectacular as well.\n\nFood. So the food is really really good. I think that the kabob wasn\u2019t as tender and hot as I expected, maybe it was busy so the plate sat for a bit, I understand. However at these price points I expect it to be close to perfect, especially in this area.\n\nThe yogurt + bread combo was out of this world. I liked the saffron chicken, but maybe needed a little more salt or spice to cut through the sweetness of the other ingredients.\n\nOverall very happy and will be back as mentioned.",
+      "time": 1746052108,
+      "translated": false
+    },
+    {
+      "author_name": "Pasha Javadi",
+      "author_url": "https://www.google.com/maps/contrib/113768241257731566629/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUqF2Uh5tyxwzPruAk0S_RIavhf8ZEx_Sa--oPc9XoH6y4GhRey=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Would rate it over 5 if possible! We celebrated an event here, if you are more than 6, their pre-planned shareable menu is wonderful! Authentic way Persians eat at their own celebration!\nAn incredible Persian restaurant that truly stands out! From cocktails to desserts, every dish stays true to Persian flavors while adding a creative, elevated twist. The salads, sauces, appetizers, and mains are a burst of taste\u2014rich, bold, and beautifully balanced. Chef Ali is not only talented but also genuinely kind, and the whole team makes you feel right at home. One of the few Persian spots that truly deserves a Michelin star. A must-try!",
+      "time": 1749378826,
+      "translated": false
+    },
+    {
+      "author_name": "Farnoosh Namdarpour",
+      "author_url": "https://www.google.com/maps/contrib/102674257647124995164/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIQhQndJVmF7BZqLgykW5TdLAQjmgaSHd8xFHs8HDkHyF0Zrw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "I loved the atmosphere and really enjoyed the experience. Very conversation friendly.\nEverything we tried was good, but the lamb ribs were my favorite, very flavorful and tender.\nThe ice cream sandwich was good but the rose water flavor was a bit too strong for my taste.\nI tried the Sekanjabin cocktail, it was refreshing but lacked a distinct flavor.\nI preferred the Havig cocktail, which had a more unique taste.\nAlso loved the calligraphy on their menu, and the writings on the placements.\nI will go back to try other items on the menu as well.",
+      "time": 1746047739,
+      "translated": false
+    },
+    {
+      "author_name": "Stella Blue Porzungolo",
+      "author_url": "https://www.google.com/maps/contrib/114047031196255022198/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4YY5nhHHATMGsK-0v3FkdjZxe1pQy0rJXOPFfznS9uVguYqrR=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Wow!! What a meal!! Service, food and atmosphere was 10/10. My partner and I cannot wait to return and try everything on the menu. Definitely do not sleep on this restaurant. Truly not a bad dish was had. The carrots, Wagyu kebab, lamb shank and fava bean app was to die for. I can\u2019t wait to return. The cocktails and dessert were also delicious.",
+      "time": 1749772323,
+      "translated": false
+    },
+    {
+      "author_name": "Junsoo Ahn",
+      "author_url": "https://www.google.com/maps/contrib/117222602935354179790/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLtvyepSCdcxBcUf6iNTcBYsSjNjacuu0tHPzn1gIl0QZwaWw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Enjoyed staying in here. Very good foods, kind services, vibe was awesome. From entering the restaurant to leave their doors, enjoyed the every single moment. One of my friend cannot eat lamb but their lamb steak was so good that she asked for more. The vibe and wait staff were very kind and made us happy with all his smiles.",
+      "time": 1746356956,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": false,
+  "serves_dinner": true,
+  "serves_lunch": false,
+  "serves_wine": true,
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=13463168234461400309",
+  "user_ratings_total": 738,
+  "utc_offset": -240,
+  "vicinity": "25 Bogart St, Brooklyn",
+  "website": "http://www.eyvalnyc.com/",
+  "wheelchair_accessible_entrance": true
+}

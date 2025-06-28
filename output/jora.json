@@ -1,0 +1,453 @@
+{
+  "address_components": [
+    {
+      "long_name": "47-46",
+      "short_name": "47-46",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "11th Street",
+      "short_name": "11th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Long Island City",
+      "short_name": "LIC",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11101",
+      "short_name": "11101",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">47-46 11th St</span>, <span class=\"locality\">Long Island City</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11101</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u200910:30\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u200910:30\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u200910:30\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u200910:30\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200910:30\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Eatery and cocktail spot with elegant decor specializing in Peruvian dishes and pisco cocktails."
+  },
+  "formatted_address": "47-46 11th St, Long Island City, NY 11101, USA",
+  "formatted_phone_number": "(718) 392-2033",
+  "geometry": {
+    "location": {
+      "lat": 40.74378170000001,
+      "lng": -73.95141579999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7451010302915,
+        "lng": -73.95011101970849
+      },
+      "southwest": {
+        "lat": 40.74240306970851,
+        "lng": -73.9528089802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-392-2033",
+  "name": "Jora",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2230"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2230"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2230"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2230"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u200910:30\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u200910:30\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u200910:30\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u200910:30\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200911:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200911:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200910:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117688488073555232310\">Jora</a>"
+      ],
+      "photo_reference": "ATKogpexO7nJfTWF2zBRi2TRDklndTgkPAkb2MGctJ37b9Wn6Ge-F-Gs7I0lHvs1-oeeVK60qOddOOz_G99hbc_GehijSbolnqfxNoCdb_aW5rafDFJCq3k43aRy724lY6e7ngsCOKQwJ27n7ITCEdj-UmvUqhyl-uEfhUfFVcERJ8_8SaFWBwN0P9FROUGxWjUYd4Kekm3GPdUHGsS3C2scNgm2XP3Qx2iAYk2IfpwX2PS3gRiDBinB7sdGjLnJ1SKR1kB6nAMTn6oV-NWM1qql2ZKjCApbSFKllwQaJHWsL0ZT5w",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117688488073555232310\">Jora</a>"
+      ],
+      "photo_reference": "ATKogpflv_A-b7aLvhrqGPCwBLmobM51ZQIOYle1d73KWRbVQtaaA54T61hCvRmLOVhX0d778TS-RimwZ1kMRPvbVt_SIkcLEg1EFb_hY876qkLt5mngyIOwrINZlBDmNDpJHOzigXgg_pPDezmKvlf4YQv59yXUyAKnDmVd8WOsgqrsztS0oZk11e_7c0GTJFuZwI0B9yUJtQw57RrgIi3D_MJXhOTn_fncZJo22iHVYn8IDzjj104x1tyNYqmR9qQ6TCCCTUbInRO_urKlAh9drcpUtw8uEGbZpw196OzrJvjvtA",
+      "width": 3200
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102633185545329816589\">William Zheng</a>"
+      ],
+      "photo_reference": "ATKogpcnNVfrIH9eUuBGXTaktUmdvaBihFB-ybL_SiDHICQ6ZrJWFcMhagExqLrxsvhZSGt9LOE4tqdiJAIh_3XSUvsMS_CB2X11HVes5dsp3TWFLtTScp2Z06dXUA7hrh52t9hSPNWIWnssYbQd_6hvdK_fCcFqc2IdVy9P8-qaoukKV_YxVGHg9EazMNaAqXAEuFSrpskf1n_nMaP3IfGAelW-91ml3m62PiZ71C7AD6ITbsJx-j9B0NhN3uzIueaNuGTZ0HyHofdDLXo43OWHz882iC0RR7fkN4EXeW-33CneKnNeSjcMpWkJ140MZ8hoX_pDlEpI9D4dsLw1-hDHv2ibg3fWUbU03-RMa6Q2lmCtBloI9IxHVghl75J32XuNpQRBuKKVaBMDtP4sLsAu7C8pGh4FdsbEIjWxaYbaozlMHoCs1PfcBRVYyDQPHKeu",
+      "width": 4080
+    },
+    {
+      "height": 2992,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102033698185539113972\">Aria Macabre</a>"
+      ],
+      "photo_reference": "ATKogpeGRK1ukYil42SVA2PLVNfPYE2zfcrjXI0owLFGoy9NUn460X4iG21c5lPZbsks7Q0tWxm_BNtSkcKhgqoYG1BDgguUgLkXpY2EV-dabqUErJqi6d_DPOIuqUHuXqufsR0Wl5EGZi8TsHTs6czrxYwx7OKabvaNYdwnAnBq-boBiOxu4JSpgjLjiIcLMw-OpcTptgpGXcV-JmVmLdERJ00Xcqd4Apo1jtd1zIHOpPeuoi4Tk7up0KzK-CD6i6XXvjP3WZli8beA85bj4n1zCYLD7Epmo35lSEL5n7YWXMHe_wGFY-se8CZ4LGXdS9lwa2iD_O06crnB3bJlJJ2FcDG-1bUHhFHDuCMf2mb0jD6iSb8H0A8_0z9pgYV-moat9w_Emco2yjRKOjN8svHrViVe730FNk7bvKxqZu444Lcbnw",
+      "width": 2992
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114064779650811944440\">Matt Jitwichot</a>"
+      ],
+      "photo_reference": "ATKogpef_HBKSeGiW6Y6fQ5aS_6N7TKL5X3Oi0hvH8_gEfj5M65rvXHaycIwJ-NxCdqp_eLlNF0iQKPfc-QVNHdYMBHVza7tmubcL4AyzqhdXPsFW-t8Xl33cxNwwefRXLQmxWRIvGMrQ3sn1vHlzCjd6IvJcJ1tUJWsHCS_j3gt8vYpgEvG1nAzdOVslnqVY1sXnhMzyVGaCQ_8Rxe3_ps5ddZimUwWlZsGsfvM3r1iG0EBFIy7P4BCjsBuWv1xl4WdaWw6ggBkG2xze8dls-deHiFNVeVjAxrXY65aL-CJ_l47_TjHErbPOvnqHGgSXSf5OZYF-WfeZzYPRUJRPaYyrJV7wUdV1Zwgn_SH5Jrkf5rpVGIHJMl5E0gSCbFpXTvGB0gBMCVAWKXDzmYk7EmeP89STXPEnBMVkQF_YwvtpFvRJQ",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100909615162835267278\">Olivia K</a>"
+      ],
+      "photo_reference": "ATKogpfv_CDlX-pXKQdrHFw0w3F23SwEMgXLDkng_4-0mHxpZAuT86l2QlR1InVsS8IALwroDIo1qDQb3ixnKdN0gBk9HUnxD-H7ao_4DaYsAxZVwqDJgqvN77ZAum_KsOX8L-_IWS6rgku6HVuMnUjoz_4kk-utFgRhAQLTEuJgASGikVQT0WyjiAPLgBkoq6DV5qYpYeoJ9PpOVm_d2ug1IgnP0cuQxT42ZXzlV9Ebt6Iw7AybUzOt2xSy0r5bfTtyxLANgo9DZLTTIDdCdOcGxMEXTmMmi_r1LlOpk2ebv3SBT3MeXXCeoJW-UiB2eIVVGeZy4fGoXVOZVrJp3ZM7gVoZkYmGqYf4oULyG3BHlTsRKZcrwzG0pVxKY4BCE9zfj8yhZGsUWjIb7jR7ITQGetWQtPtd3qbRuBFbLCxrptDaE0Q",
+      "width": 3726
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104906218833184821798\">Why can I eat so much</a>"
+      ],
+      "photo_reference": "ATKogpf_isrz9vs5X1lUaRpPej1Ygmt0Gv9PVA0Ynryhg3Syh_2lNM5NU5ae0CA4pD-wf011NAHg48iyLS1AcDar-MNbctvmmQZYe2XmAzI_v7tJbMyVRW6drGwCpFdfjqg4e0xg2A87WsvneYLGwNEm3WHtUNP3pXKI7qpwGbFyjybd_09MvyvJlaKzkokx5DdNHq-LwVW5_NMz_Q5pnTratlyaOJcDyKIonABdr6v9GYFFLVrtVp5MBh2FfgckRRSBTnHl7FZahWvGbH6EyPy35BeM171IACB5iBdRznPborATSlmArXmX1WpdBX1-tfeSHTj0nBsmphWlWSDOJz4mOWoRplswwChK1TNP-DtUyiZHOcZ8GvYkzQT-NWAHn0aWk4rrvFlqdKdMGizRWLCnxZbthMjkQfYy-BnW377aG4k",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117688488073555232310\">Jora</a>"
+      ],
+      "photo_reference": "ATKogpdIWPkzG-ni48K8YxPXeLErzKOo-z5Tn3vCXdfeuQ50iBpC5yJulb7AbNifyTq8hPsAGcJiI6zWX0sL1DHMRIBMdq8DGCzbPDLSsaPgLUqpOUCea1AG8uQBFCKbR-2y7kuhINyM-p0DgrRqPI2wUH6x0J3LiUGIztdGuIQpaqiTKLgU3eppEBKLI3B89qBi1HLmdRF2gSp8SV31f5mLzI7JW0pceeAfbSFfiRNY767ufeMiEF-w66lGOWBJAp-6EnDPNTDLNAF5akL4_t5tUSn0cFyiKB8_B4kOZdYT2RudlQ",
+      "width": 3840
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117688488073555232310\">Jora</a>"
+      ],
+      "photo_reference": "ATKogpeWi0mR-P4MSuhghfMC8B3qm8NY9JbdzLkT5Uwv-RwgRczD2-UIZ991ciOvcsOptjMu5U5nGV5XRlKBpIV6Bt_pXMv8DqHGvzDJcWqE8ZuO_Ph-u7vcR65QC9cYmegJj1Y_CjgIw29EZmIXtAeWijRB8Noejjg8MFS9RexxrQQTE6F_2KeBJe-K0rgJUDTIKn8Xmsg5-RJlPwxytjOvczquVA_C7eTjUKXw_iih7kWrmanVoXtMmhCZXg0eXjvyy7y_T__OQm8rmXRmb9L9AWUCnnMhjCznC_-SQDPxqaS05g",
+      "width": 3200
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117688488073555232310\">Jora</a>"
+      ],
+      "photo_reference": "ATKogpcov_Szy95AqZDLaqeKHcWxwp-vSjyj2ROXZWJa_rHeXpxKQMgosRr5MbRF41J5_vghgwGM4D0jEJn04H9rusOzZETXXf-uga3Ykrq7K1sZhWjiHqMtZ2gpkLR6yrR_l8wubYvWmBBLPxS-9c_ZmMrELv1FTYfJGGdNrZlwJzBVhBs3vn8h78sxy5DRezu6XNZDXNoyJF0QnewpBxpBMyLB1VZz1q91cqVjBJbUBA2OQAKJ-JMrELzTA9fFXR6hAx3Boehp0DYQFkwqhVpvqeAD3r8w5uOJ90MmUvs4r4Mxjw",
+      "width": 4800
+    }
+  ],
+  "place_id": "ChIJMRDMWiRZwokRclRF5GXOLKM",
+  "plus_code": {
+    "compound_code": "P2VX+GC Long Island City, Queens, NY, USA",
+    "global_code": "87G8P2VX+GC"
+  },
+  "price_level": 2,
+  "rating": 4.5,
+  "reference": "ChIJMRDMWiRZwokRclRF5GXOLKM",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Matt Jitwichot",
+      "author_url": "https://www.google.com/maps/contrib/114064779650811944440/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV24xiDJQmCCtjS9z68bNUrk2-rZ52RofHX0xUakhQpNPAvaxtp=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 weeks ago",
+      "text": "I\u2019ve lived in this area for years and always wondered why this place is always packed now I get it. The food is amazing and the staff are on top of everything. My partner and I walked in for Friday dinner, and even though we had to wait about 30 minutes, it was totally worth it.\n\nI\u2019ll definitely be back and will recommend this spot to friends and family.\n\nThe only downside is that it\u2019s a bit pricier than other places, so it\u2019s not an everyday meal but overall, it\u2019s absolutely worth it.",
+      "time": 1748629698,
+      "translated": false
+    },
+    {
+      "author_name": "Di Chen",
+      "author_url": "https://www.google.com/maps/contrib/115686678885069656407/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUu2mV9-KK6wM-RaLPUen9udeQkdU8xM447nrssHVx4p35aLe-B=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "So impressed by the food and vibe!\n\nWe tried the veal heart skewers, grilled octopus, and arroz con pollo, all very flavorful and fresh! Service was warm and welcoming. The interior design is another highlight for me: a nice blend of Inca historic and modern open feeling. Will come back to try other dishes!",
+      "time": 1740336482,
+      "translated": false
+    },
+    {
+      "author_name": "emhasleftthebuilding",
+      "author_url": "https://www.google.com/maps/contrib/108137397735464606693/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXgUEH8WUEreAIl5HZnKN9F9FnQ-Zx-w5OSiYFJWw21Pr-dOo0D=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "4 weeks ago",
+      "text": "This place is absolutely phenomenal. Amazing vibe, kind service workers, and absolutely delicious food & drinks, the best ceviche I\u2019ve ever had. I will definitely be going back I think about this place every day",
+      "time": 1748714571,
+      "translated": false
+    },
+    {
+      "author_name": "Becky Chen",
+      "author_url": "https://www.google.com/maps/contrib/109663369560996429278/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVTNQave2ef5Q-ZjvuCnuShr3aiAKcrpJr87-EDOsDk3FmNzyuL=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "Great food. Went on Valentine's day with a reservation and was given a rose at the end of my dinner. The stand out dishes were the apps and the dessert. I've have better entrees elsewhere but all around a great restaurant.",
+      "time": 1741115523,
+      "translated": false
+    },
+    {
+      "author_name": "fernando babilonia",
+      "author_url": "https://www.google.com/maps/contrib/100129104772488989032/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWvO7PnC989FDMZa6S9srtvig7oOusgUmsaTCeHyxsGdpTX-psvXw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Took my parents to eat here as we've been wanting to try a new Peruvian restaurant.  The first thing that made us super happy?  They have parking across the street, though maybe a total of 10 spots?\n\nWe got there shortly after they opened and it seemed half full already.  The service was great and everyone was very attentive.  We started off with ceviche, and they got the tang on point!  My mother and I had the salmon which had the crunchiest skin and the broth underneath was great. My father had the ribeye, and they must have done something to the brocollini because that man does not eat veggies and he devoured it.  He gave me a taste, and even though he ordered it medium well, it was super soft and tasteful.\n\nMy parents got deserts which they loved.  Overall the Jora staff were very attentive and the food was great. The ambiance for noonish was great for chats with lots of families as well.\n\nOh yeah, my mother had a psico sour and was very impressed.",
+      "time": 1743364139,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "bar",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11757999664174290034",
+  "user_ratings_total": 1895,
+  "utc_offset": -240,
+  "vicinity": "47-46 11th St, Long Island City",
+  "website": "http://www.jorany.com/",
+  "wheelchair_accessible_entrance": true
+}

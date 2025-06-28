@@ -1,0 +1,450 @@
+{
+  "address_components": [
+    {
+      "long_name": "135-11",
+      "short_name": "135-11",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "38th Avenue",
+      "short_name": "38th Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Flushing",
+      "short_name": "Flushing",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11354",
+      "short_name": "11354",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">135-11 38th Ave</span>, <span class=\"locality\">Flushing</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11354</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1030"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 10:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 10:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 10:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 10:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 10:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 10:30\u202fAM\u2009\u2013\u20098:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Hong Kong\u2013style noodles, wontons & dumplings served in a modest, convivial hub with outdoor tables."
+  },
+  "formatted_address": "135-11 38th Ave, Flushing, NY 11354, USA",
+  "formatted_phone_number": "(917) 908-0808",
+  "geometry": {
+    "location": {
+      "lat": 40.7604661,
+      "lng": -73.8322359
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7617502302915,
+        "lng": -73.8308346197085
+      },
+      "southwest": {
+        "lat": 40.7590522697085,
+        "lng": -73.83353258029152
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 917-908-0808",
+  "name": "Maxi's Noodle",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "day": 0,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "day": 1,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1030"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 10:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 10:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 10:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 10:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 10:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 10:30\u202fAM\u2009\u2013\u20098:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115095695647677579516\">Yat Sang Yan</a>"
+      ],
+      "photo_reference": "ATKogpdD1Jqtr0RyJ-uQtRZywjE4P6PJCw-cqpNLaIRjtr1-gMqNInlne6a_5YkRBSkBkGEoU0ZOfl4qIGpk-Ih6S2w-GgVe_UVK95WPt7Y3_FBJ67m7C5zYDY8QeH5yri6t6T5iT2b_mOMlLwhSjqIjcwdjqsRd-Qhsyos4ggAAA8AUB76ygC3BOUqrWPtHL8MEVXC1e237mONicw7Ftc9hXG39g-l67rSqHiY7KLLe-WimjoMAcJ6dqg4dSq4c_cqxVdkX1qq9RGZP8dOajkVwZAb4cQisqUM19vWWWIO5GeTkwAgK5MGnC-amGrTdHje9eV43haLMB3YLytv13JM_YrtRfneZUq8Yui0XsNm-YXHHRdG_l6_cvfs7E6ZPxUweA_1_12cF6da3hWddr5n22kP72p46UbrE33NRvujYhPQ1kqIz",
+      "width": 4080
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111650729362051555413\">Wattanachai CH</a>"
+      ],
+      "photo_reference": "ATKogpeXK2mFd3sk0Rw4LJoKEZtUns5an90x0cpqkmtpm6W1wjh2XLDVOIcuSzSCyeW8fY0N4uWxdIZOhTYzy6M9ZQsGJqU3NOSvG7uatKK8yN897vdjJioQlz0-gU3vFNTTt6IRLhnmLthmbgUWPPNfzHpdDPK3CW1pnBW7pCQdMehqgbzdRpZKn3b1J31wZ8dJaj4eF3awTwsL17DmcPl6pT6LTVf7oT-TpJXiTUKKxoXZlqFxm8_QjvzYcXbtx42kt9ODeX3JPQ-_k3qzPDTbBpKBaPAND_K1sPb5ErQEvaaqaIVbI6eQFwOsuB2hTbcJEWiKvVkse13VjldsDuPFWuLuaVWR9VADepsgqZwOTV9qNiE6XTHHgW1L46bYMtGlK1XRdBo2fLxCLxN08FLF771nJSJt_SkMq0XZF_4NgNrPGFNBQTOOLvJOdsYBQw",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105846998627357143354\">Eva Ip</a>"
+      ],
+      "photo_reference": "ATKogpdiwn6yZQre5QZnUv6y1tPvl9x-QDUSZFFBekS0i7S7zE2nUiCjBtieRhzvpbbgJ7B7Gh91K7KVH-CPUdKG903hDaUfJA449jQsesZxQzzDjQz9eTpKVhv8Y9jad8e9LJGiOBTIV4dD4avhMtMymruP0FhI-ANVd83IFkaL-y1ZymC4mJDSkNrP8n59Rtepubbp5fxRn2FKyLRNM52g6-1bKCqeX2VOM1CigoPZILj4j6VIP00aPIxNC8ILhD0Qu_2grIFG266nYyF1A-eu0FOjA6PKXK9R7u4kaCpF6mz1cYX5YH-H_ZPFxHhphQQs2nL9wRtnn0AGBIwL4glHNR7zU4PzDc-HdW_sO64nFgtZNxYXM2mdH7LflJTjDv_ONl-asmetGUwrwLyPtw0Rl7zZzwvxQbF1U0Qa9TLgepFEuA",
+      "width": 3024
+    },
+    {
+      "height": 2810,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107100419871699451797\">Josephine Lee</a>"
+      ],
+      "photo_reference": "ATKogpecmmZV-HLLOY4C1vlIgch5EjvLMhAQ-RgczfIP72OvoCvhB43nOnlGWGW47m0dxLU7jkaL1hSeNUUfhHWv7XwjdxR18r5DmOlEwg1iuxdG2qI76d9pyfRRRnVXphBkrkDRJpcHbhw62yLoCJmJ3wpjWvM5KRfCXXgfDsWqkvocvybiOBQVs7q3-6Pg-dTHOF4-UmBrqFWGdn6QM9lABajaLbHkig3G2PhAr4xgMPCcdfmy37w0D1duffzls8l4Yv874nl3Oh5N5XGs-s2qJwFn56U7QwQ7Zl1UoIWRJli_2xyKr5_oPds1wr2NX9WAYHab4OYZeeNkxQ3IrVtNqshbSh3vHy7PYdSkHtkjnm3061qWc_DsrHUPHV6PZ047fhRXpRNz16szGmnkzO5h8_2KPM5_dXi0UX5o86_17RJ_LN4",
+      "width": 3700
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100618337780799061773\">Jeffrey Tsai</a>"
+      ],
+      "photo_reference": "ATKogpf3ZFjeSgLIUkgQ8HPcXBlylMMyr9DX9qOCeA1CG_8ogEiGoMmYOcNIwIhYiBFK55oRsvEb03GFx52dv8GY1oQnN5YA7blIcAV_DFd8YMLb_n8LhCdynA1VCzq-Ly8XavqjzsnctCXn2dqzav2WsalRPn2q8srlFZiCakLtj-WR0ngwDymFZt8WOZOPyi1eGkvecVJ0yMOZqUhXh5WgctH1oM-nvAuq0Fpfmvx4gHRr3YFdWkqCMU24FIVwwb5hKmVFCztMMe6e_DKtJYYkPxeXBbR3AdghpHhzbNJ3k4Peklkl02HE3l06A0zy6Fbs5JhlFL9aaGI3KjKPjoVIY9rtkWP-KfdFFaVzjNEA0OFcp6zX4-EEGHfPN3gnvVKD_xKFOkjayCYOUXHmR_qSOMZgLud2x-hYd3nfCEexZcT9M26Z",
+      "width": 4000
+    },
+    {
+      "height": 3472,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109194088455653731991\">Shomik Das</a>"
+      ],
+      "photo_reference": "ATKogpclLGdCAqHeVnOpNI5S4qKEy6DQXschRQvRZr5alisoBSuOOKHHBXwFZc72rHNm0Hni-x02vwzRAuyxaSFNqBLkqgMENtD1kT9kkfN8tXb5-C3_ydRv0XKAh7H7R47dEl6wqV7WZrkuq6qetg6fLd36s9hkyywR4yv6sXG26_6BnZdl7evg4y83dK6uJ-KFWYdCskqw10tJTbzEf98MoYymNGhXYtluRWslLj1x74asw4TNT0f1Ndi0KXs1XoKsYq0TytHEwPyfF-rZagqmnDMWfZhie2SIlkazfFZ6vFUTcEZND1nL91mPer3uMWMsiqrao1GwOF6-AoLqRg0mbMQCcCxtGzRJCY3pWjZjBLJK0mikKQB7zJgPdqUC1K7SJtzuc-7MTObeveedfngd3mMcM5DkimUSoTre4J8houaatA",
+      "width": 4624
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117664016812307047662\">Wai Yin Haddy Leung</a>"
+      ],
+      "photo_reference": "ATKogpcfE4ZnaDGlLsijn6U6Nux7M7ESBYoVXRVSD-uvUbh1Ini8RyOfBDUeG0RDArFdAczeSojUg_TeJ5ckjQZ8N6wH3cJcZosvAOxH9RAWWA_B12WvjtFH1AEwwhmPcwY_hhWDJp2LBKUGummDbYXllVUfJXT0ZBkvGnq3WETYaFEUQYD6qcvrO3TW_p-jgE7Y66vw7YlXEpn6A5PmUk4fJUiUtkYF6WpGbM2cEjPreADzpP342FroQs3Sl7ek4AXxIEeLYTUwc-rQ0MVv4ReAsvM8835rAU0BCCXCqdfd7XEhqhhGp88mYvsHqUh_o8x0Px9weoqqVp07xFzlcsW1Tw7GMm0poIjXvq31CpiUNTdYzoBOkAlkpuCIIZo6YekU2QMavQSTNm885BQZl3BAq0_lXuPKZpV0IIqMm7jyVMwXBg",
+      "width": 4032
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109513779608196957851\">Jon Lim</a>"
+      ],
+      "photo_reference": "ATKogpf_XRfuJ-AUCieNcmCbfFHo7A7yaqXBBco8L85HDLZWoeX3Hvez-ai81EVoo5V-SgkpBhbXWXdMHuenEaQs78u9zQv_Klbkt3c_Fc0YMrAS_d2QRX8KGeiNJnm7hhDcS1bauNFsySt5cKO5xC1sMzicgR89zZg-oU-3zmOC2L44Prn6D2PEIifFDf6cRgS5dQ_bKOpi_fwNT6j94Dg54iHKA4Qi3rAxL082TJrRwm-XnKz41A6IKTxamuI9g-2g1vDg7eREQquC5Z_MMRqx7mSfasTgISV-MHBWoW4OX4fX6_L_tldb05FcU-rmGToxrVX_k0uJe0OOD4NYEGy0Uc78KDKtBLwc8btSkZaLOhiySuh7XMmOXyVROrwGXWMZNx-3gYdG-9aOLXOViDIMOEaK9bjeL2orH9orT0a7jABOqA",
+      "width": 4800
+    },
+    {
+      "height": 2170,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104697953974124489732\">Alzila</a>"
+      ],
+      "photo_reference": "ATKogpe4HbCYtRO1ZtJE4x3sQHf_2kME0vE0SUSvvhvlMkmAdxmdBLxPcCJ4dWNKFZwHDXiSZjajnKGIYtPfdlCgb9zUI3NG2tfOz-AsEvhySbE_OP-Qx24aT-vqkyNmIOQgediGERsUHdhGdARAJFrg1iIBv7JWbrOEqPct3XtJl-S9YMjaOvDZ09Z1U9PHtT3sdT725TuQ-Xgxm-Q43H9GvCSFjuVjV8y47K0kWDHOio5DNgbhxPfCWT-Q-r2687bchJ-v67XN_qHlzro5DBH1XFzvJFr1sVHw_MMaxS65tU_6HWYKNEJLssMjO3_a6oot93O72Tjz4X_AkqmvnPS8zsiKECn6bie3O9_DGDrM9nBdXNb1fj0Lep9K54uVGq__vZ0nxTP_mVgQW0hKTgvKQoYMw7bM756tCQbPGbwmUlbvX7gR",
+      "width": 2565
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104240468001167791434\">Charles N</a>"
+      ],
+      "photo_reference": "ATKogpdsmKjp0DlS-YCqyqXoCFgh3vW9NQ_e1oyK2ly0TBMUYgBWxR2J-fe96Y0UonGtSGbRxr-Arjkkc5LKUPmWD3z4GYfYKKaBHQ-e6NQ7W_PouCR8iKDMVqucTus0c61TeKwg_y7eWQiJHImUbwWT_917XFyYdP6F6qKyAiZ702KjgzGZqhF-IttUXOzud-RCztqltlidLJrgTpq7XYEf9jKMzTy-t-0xEojJkqkk_W5DXxPEyHNvez4eJ61P542l0BviAY01-72raE_cHGfVoD7jSkJLGNfKfNRPVk7mV0YA3PuyfjuPFWxyDYVb7njAl6G1_4GVXg9uUeor8y2b4b6Tmtk23_M64hlaOwZyAVu32PGQU02GnXnn3v3fjSPo6Vgry5DC_i_X3q2PLPf05x8wnonSuGfHl-pnrJ0fVKxmWQ",
+      "width": 3000
+    }
+  ],
+  "place_id": "ChIJl6PN951hwokRsN4kn0ZU0po",
+  "plus_code": {
+    "compound_code": "Q569+54 Flushing, Queens, NY, USA",
+    "global_code": "87G8Q569+54"
+  },
+  "price_level": 1,
+  "rating": 4.3,
+  "reference": "ChIJl6PN951hwokRsN4kn0ZU0po",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Wattanachai CH",
+      "author_url": "https://www.google.com/maps/contrib/111650729362051555413/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJN2vSU5ycd5OW74jkINJbTBDgWRpfnojLNfIbijLL7e_jVZ2u=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "The braised beef melts in your mouth, and the dumplings are packed and flavorful.\n\nBut the real winner for me is the dry egg noodles sooo good! \ud83e\udef6\ud83c\udffb\n\nDefinitely coming back for more! \ud83c\udf5c\ud83d\udcaf",
+      "time": 1750570529,
+      "translated": false
+    },
+    {
+      "author_name": "S. B.",
+      "author_url": "https://www.google.com/maps/contrib/101408013617262539484/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV72VepOg_6xO1-IMp395_za90pIVLI5brMQStKsbsUUe-Pkdpi=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "a week ago",
+      "text": "This is a cozy, local wonton noodle spot in Flushing, New York. The highlight here is definitely the shrimp wonton noodle soup. The wontons are big and packed with plump, juicy shrimp. So flavorful and satisfying! They also offer a variety of street-style side dishes, and everything I tried was delicious. You can also take the wontons to go. They freeze well and are great to enjoy at home later. The atmosphere is casual and no-frills, making it the perfect place for a quick and tasty Chinese meal.",
+      "time": 1750035292,
+      "translated": false
+    },
+    {
+      "author_name": "Jessica",
+      "author_url": "https://www.google.com/maps/contrib/115290086047166366289/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJUupE_5nmqcmmKcn05VFld-Hbjm3FQGal9-K8jrI3vZ83dTxVP=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "I\u2019ve been here twice already and I definitely plan on going back sometime soon because I love their wonton noodles with dumplings. Highly recommend this place to try if you haven\u2019t. There is little indoor seating but they do have outdoor seating available now that it\u2019s warmer. The prices are super affordable.",
+      "time": 1749787606,
+      "translated": false
+    },
+    {
+      "author_name": "Ruby Chan",
+      "author_url": "https://www.google.com/maps/contrib/115245662646465670811/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW3LrrVwi-mDW5WQKHXOamURBu-eEORn8gD4ZzWQ3IMFrFb_ts=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Arguably my favorite wontons outside of Hong Kong, approved by a Hong Konger!\n\nLast year, Yelp ranked Maxi's Noodle No.1 on their Top 100 Chinese Restaurants list, and for good reason. It is a mom-and-pop restaurant specialized in Hong Kong style wonton noodles.\n\nYou can add one topping for $10.75 or two toppings for $11.75. Beef stew/tendon is an additional $2. It\u2019s not the cheapest, but the quality is definitely worth it, Especially since wonton noodles could be pricey even in Hong Kong.\n\nThey have two locations in Flushing and a new location in Chinatown.\n\n\uff0aFlat Rice Noodle with Wonton and Beef Stew \u96f2\u541e\u725b\u8169\u6cb3 $13.75\nI went with their hor fun (flat rice noodles), which were smooth and perfectly cooked. The wontons were filled with plump and meaty shrimps.\n\nThe braised beef shank was another highlight\u2014it had a great balance of tender tendon and lean meat, packed with flavor.\n\nThe broth could\u2019ve been a bit richer, but on the plus side, it means they don\u2019t use MSG. I didn't try but my relatives also sing praises about their dace fish balls (\u9bea\u9b5a\u7403).",
+      "time": 1746584519,
+      "translated": false
+    },
+    {
+      "author_name": "G S P",
+      "author_url": "https://www.google.com/maps/contrib/106773923742659343332/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU1_diuiqXedIRt414NZilsyE-29xE9lQMvI3tjvF6kEz4Pql8=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "This tiny noodle shop in Flushing, New York, serves hands down the best wonton noodles I\u2019ve ever had \u2014 even better than the ones in Hong Kong.\n\nThe wontons are massive \u2014 bigger than a ping-pong ball \u2014 and packed with flavor. The noodles are springy and firm with a satisfying bite, cooked perfectly every time. Their braised beef brisket is deeply flavorful, incredibly tender, and generously portioned.\n\nDon\u2019t skip the iced honey lemon \u2014 it\u2019s perfectly balanced between sweet and tangy, and gives off a refreshing, calming sensation that\u2019s hard to describe but unforgettable.\n\nThough the place is small and often full, the service is quick and efficient. It\u2019s clear this spot has a loyal following \u2014 and I\u2019m one of them. Every time I visit New York, I try my best to stop by. This place is truly a hidden gem.",
+      "time": 1750190987,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_breakfast": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "restaurant",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11156071889244577456",
+  "user_ratings_total": 700,
+  "utc_offset": -240,
+  "vicinity": "135-11 38th Ave, Flushing",
+  "website": "http://www.maxisnoodle.com/"
+}

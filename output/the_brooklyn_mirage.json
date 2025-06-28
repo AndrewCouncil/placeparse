@@ -1,0 +1,259 @@
+{
+  "address_components": [
+    {
+      "long_name": "140",
+      "short_name": "140",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Stewart Avenue",
+      "short_name": "Stewart Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "East Williamsburg",
+      "short_name": "East Williamsburg",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11237",
+      "short_name": "11237",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "1127",
+      "short_name": "1127",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">140 Stewart Ave</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11237-1127</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "formatted_address": "140 Stewart Ave, Brooklyn, NY 11237, USA",
+  "formatted_phone_number": "(347) 987-3146",
+  "geometry": {
+    "location": {
+      "lat": 40.710677,
+      "lng": -73.92635039999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7119752802915,
+        "lng": -73.9250963197085
+      },
+      "southwest": {
+        "lat": 40.7092773197085,
+        "lng": -73.92779428029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+  "icon_background_color": "#7B9EB0",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+  "international_phone_number": "+1 347-987-3146",
+  "name": "Avant Gardner",
+  "photos": [
+    {
+      "height": 2935,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105846108994482191821\">Avant Gardner</a>"
+      ],
+      "photo_reference": "ATKogpcE8G4SCZO4S-WsWJE5I7bkUr7I_Dam4yCMAhWI0NydvJnmZJej552jsYZxS3bLieSOGNw28s9_oBmHW_icvNDGTPU9BX8mWun6PPS6YKDw0-2uOKAnPLDHaBn1Q2Dn13JxowEwFpXy96IfLflFjU-W__9zdtHEk96JZNLCPMDIs6Av70NXV73BCbYcPRwmIk9nL0VbWCNk-wPqZSx2uWuusWKI1epcYN3L7m9iwBFYx54PHQ1Pn0E_Yw3AaiqWoumfsMeXW38_YP3s4Iq1R9C4psIh6f67PQR6WToDyJP2Pw",
+      "width": 4400
+    },
+    {
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115973926915241359707\">Ryan Tyler</a>"
+      ],
+      "photo_reference": "ATKogpeqo1LEluO85bPiGf7w3Z4TBqCvfvkRtW8TiBARig0Ulxx-RnVbeWoUopWBoElc7IdmUAj3Bzrz7S1pXQJboCZSovllTcTYU4Yt1wb47BeyezrR5N0_EtR39ZdmV8i36vomh-flYaWF40KTxffHZy2jqUVWGNnauQz7snG_eeB8QfNKgPNzgGCc2nKnonnLGM9F55OAYp252ty6ZbWcdgwGZjo8JEvVQmvPYqtsJn9XWcJ-itUHcT_Z8NCdASVifL-pN6Er00Za4zszXiuo8-wM-QvGrX8QZ2UGpPcRxIFt45x2W2MfWofSs2wSRZvBL4RTGMq6Tfz0Ix4I-99jIs2E8VuL5ga3kqv_1e1EGp5r9_20Z7h52NZun2iTeahbj_aAj9zO0ZVRLKKIrhcCMSpJ2ypY_YqL4Py1wJUWpNA1RokT",
+      "width": 4000
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118084039412570488492\">Grant</a>"
+      ],
+      "photo_reference": "ATKogpdvK9NIEhrfyAuO6703gnLkjDB1zYOYZcvz5KYEYCr8PyuOb91XtlDdvTCvkTmdVnAGHQcr7fVDBjBbW7UNwvICuQS7j6XGcwoq6rwv6AA6jOLJ5Nb5VgYhz89xfZqcvTPew_WNn4-0hB-yJRiAMP0nrOmbFsxhy6ZgVBkfj9pLsL-AeL8NitoJ1i9OPLqfsqnsuDmsPb1xqs5w-oA-TPDUpTxRQQcRpVvcgKZLy9erWt9aRX4GlVk2TkumWnzSs4eB25235dR9v9EccTDtnj8y74Sbm8Asc1wmH4pZSj4TA1VKipsyNOIsy1qCijR879JcflZVLgLCLykRr8xDmE42WMZAy7SZTCvaHZWVbcnsaYOHZ-Igh9XVyPEvFK5NJvDz16-a2f9DShDhxFP2oSL_Rq4pA_gLy_n2Jfo-U4A8gIGw",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112537246193052378937\">Moshe Goldstein</a>"
+      ],
+      "photo_reference": "ATKogpccGkBFJt7KlrPjKpWwx6hJW1AeaSwW1tIZ7AL9nHNA3-7FNsOiRi7bZF9bB0_4Y59Pachyz5JvTzi8Lhu5leDZKP5PImEZPGm7TnLtUTYI0xq2E2PNxsdESgIw6cGXYYqyuzlDZdVbQ_jVQfsrh-q2zSLtzbYuUEihpyYwI4FKzY96o7EmB_0XBeR00oKqxP3atqHG5hUK_tDXR_3QRDcAz-zKNyXKAslv8yPmx7_XBQXS5MnkfIFEg0CwshsxKtw4w6sdqCNSnV-xSaF7uBHEWSUGVLKDJ_IaiEyovINaUwKYef-LOCKVtaTm1ENDZBFVUq0KPhW57x6tjehCoONF6Irnu-2nm3K7szlO1HwWdOaNeO4WEbKbhX4o_fnVsq-VR_NftFpvT1H6o9aWLFudNUS8BYM-o0QwlsJ6mG-W-jLJ",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112612287486854247598\">Gianni Cavicchi</a>"
+      ],
+      "photo_reference": "ATKogpc81OWqz3usAV-QyyyWtOaSWdPKwuJ63uOSn0RVpe5A9ml-m3EQeXxRhHeWDQNxJnRZYh2dMW6zlwDa36xuaYGeX9iu1mns6B7mvQss0JHfFxlYatnJ5YnD09SpKfSIOnFPbu6xU007IWrXV1sNcInwAe89LxwFEZgI5NIyczreABNux6z6qGB8dHakcBiZEmnbDvAMsYVuXG2zv2BOulkJCjihHbWFEF5mmCmmBSGOC1WhQmpqN0qVDl-DpSumVDGPu5BTP3KzCT_eI-xu9nD-xsnrZO2hYvTgKMJ2DX1JO-aTmayTupjw0CzpSBHlGrosFDIDo6OIoLZhh9VxqvCNyK6Tc3voM553KM8brJotM6n5oFP7ByL0dkDi0vzSZE4D_h9tVxyeX99UVOBF7MRUbR77TrhUxkgHHcfVEn4PXA",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112186772044212372407\">Igor A</a>"
+      ],
+      "photo_reference": "ATKogpei-mBAcefzTZ2AxLBLCJ-1Zn027vR_kL6-hy3T_FuU7FsVNmPY-E8OT-n8Q_g4lLPIy8WsD3fRPKAQ1fWSg_HOnSaVf0x4ggWHU6cj_6hMxGZCQP4eZ1XUE_CRpI-AGBfYyfsZbkYqzVpmr8_HENdzApE9e6p38fvKfraC0vi_th9iZvU9HNelHSHVxtOu8laIo9Z0mYfpzOB4pF-P6XYrDPI_AyP-EYcX6M9wMINgWTtAbTu7IK-50mU7ibh4dW_OONhWy0AcLWPpR9mgu9J3utKUre-aSffwJAJ86ZVV7cegorp7jrqS8fDsHl5MGrwE9rm_wI9QsuB2uakMjIcUOWuly3W2JuzidHRlD770AzorGvTdX6oZNorHyFqFzWVv9DQKZ1cp5_GxcYN1CdXjzrXML3GcW3b4RD8gmJlbDA",
+      "width": 4032
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103305149352724018359\">Sierra Sabol</a>"
+      ],
+      "photo_reference": "ATKogpcyJazR2TQZR8tZ9NQliSY1DJ4G_rX6LJ41_jP_20N67Wp39bk2wiPDdWeqCd9GloolitoaBONQCzN-0SoU4ckPsG7ZJ0Ef9s7SF0EAIuQ9acC_DIFSQ5G3N3YKcbxEt1awL4mbKbaVSiTruRIQh9zhhEag-PRb2nwpgJJnNn1emTeCCLTsz6D8VBPMBjsm4-jgsa5Bwyb0wV81u-jOiXVJf9OaDHjg7x75YDRxVhpUyY1vzF1b4hxG-SvZeaCFP7J4yeaBwvC2kIknSvSErDiFuH7cKSuNnE5z2H3axuUEv2wb5-T24wOJXBJIeIi7pxA7icW4yc7hTMO8u0bCfp6AwXZYFaYruyqNv7eNK_S-YExFrKQhP1jibTMDnyFLOHUUIbap9ZQw6OKsuCDYDzB1kguDu0g6_sHAgO-lncqV-Qg",
+      "width": 4000
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116765464572692472828\">Orhun Unsal</a>"
+      ],
+      "photo_reference": "ATKogpesmk4Vr7Y6uQw04ghn1jolLBqx-jb3Es6HKrpCTn2xoVEgtZlY2gb7BQHlZ2eSdcj0KMy3xCOeGS6vh3BhId8ev4PtpmihAM6yRXv5TXznKlm2PXLMEcOBko53n19pZo4mLZzGU0ElmCQaNbcrp8XSLV__InFFkfiFGIt3KghVy4XpOzkuWtOUz1-58MEPtTERUc-UQ8r94vaxmfi7IAsy3Vx606ZL8RkRRheU0moVeFvwmvDyGvZgmJJui0yklQwWABB5vCFN0YDRDqH-Ek21fGuKzHrSpk2gjrFs4NTA53Wemy1fLi_wyUk8pncLxQxf_t43d_CZQMZaTzuHvSiFtVIPlwuvqbXL9VInALWzKMkmsKKd5C0Pw6LH_UDtbo5RaecuFSTseVF3K3urziJOkG8oGMBhqlR7D5BiJ1F4NNh3",
+      "width": 4032
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117017233091522129164\">Dillon Browne</a>"
+      ],
+      "photo_reference": "ATKogpenQbkhOrO4DPYqXM2NzYgglhG6XD7Qc_1O2Nn6kz0k9ZtXKgbPw_9DIg_CdD0YX_N3idOxXTXo4gph2fJ4NVOAfSySZGkLhPj1zc_b7GxYEnogmBAZxr60m1wOy2fByj7a6Mzh5t-SU0Y4-Fj-dRXUJIuqCRcK5dwRxPYZpyAkOcFBWsWp040rJpoBGWvYOe8vaZkiRtSqPiqHpiowjEteYwyNyDJIvzB1k3eaiTWmdmI5aYZ4VEDKFyomuYjjkGme2R0Yd1AcCn5GZjGDvW5lvhXcF4t_lKnGgY3yMJsW30DN7UDQkIBMhw5W5o1yaguGNCWDWeYdphGAh4d0Lk0KCleOuZe14Qd-LNJSiOem72Qi7513bIRn_BESGGgCwnAYKtp51-Vmb9qmQFCQonuyncmx-heAb78nQ8JXfU3NHii0",
+      "width": 4032
+    },
+    {
+      "height": 1000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113157547939698428959\">Troy Davis</a>"
+      ],
+      "photo_reference": "ATKogpdsLuXW3th44tCqTD0UqWL6gBBRW9tGsMI-o40KuI8_akh3o1ib2wQl28UA4V7vX0QUn794YHeeYj07FlCsVFE1qJYSFwyolGMnAzO91yVoMDQGlwcyqcthzm2sfs4DxxEeNBxBVccG9PC8LDqlu0bzo5UQKsgzWGIEYU-3GfTlW8Cwe2VGwJzKcs2oiSMwCYEFJPkiGmPB0oKS5dvVDFzIt_Jqdy_7gXICPTPyhWhLsdFgd4umSUKY_a6H8kA9kVX1Eg2D8js_8Dq2HqAis3i72uZLy_qTW950rlaHmw3NtWK5smHH02f_Dd3PcWOAsQzbTV8uNbZI5yMu6D4p394FoDIZeZs4w6c_PXKcbLyuJEgdZcMJNGJbMS2B_aqrLxKV_Dv_jnWjbLbq5txMTm1mfOLOAN2frKZOxA_FSu18VEP5",
+      "width": 1500
+    }
+  ],
+  "place_id": "ChIJgVs77qhewokRI_akAB46vUA",
+  "plus_code": {
+    "compound_code": "P36F+7F Brooklyn, NY, USA",
+    "global_code": "87G8P36F+7F"
+  },
+  "rating": 4.1,
+  "reference": "ChIJgVs77qhewokRI_akAB46vUA",
+  "reviews": [
+    {
+      "author_name": "Kelly Dunning",
+      "author_url": "https://www.google.com/maps/contrib/118216457789952454233/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKMQDvFH8FCtBrqYDJdfMr790zWE2Kf56f131j1m_fL12paZg=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "a week ago",
+      "text": "Avant- Gardner is Avant Gardner. Great sound system, the screens are a bit much for me but that\u2019s what the scenes has become. Other than that it\u2019s no frills. Happy it\u2019s stayed open while mirage is closed. I do have to say I am disappointed the food window with the mozzarella sticks is closed. Literally, the best mozzarella sticks I\u2019ve ever had.",
+      "time": 1750297666,
+      "translated": false
+    },
+    {
+      "author_name": "Grace Aronofsky",
+      "author_url": "https://www.google.com/maps/contrib/118436660585734245932/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXAhaqcr1dv29bfwvN_MZ0Du_UeFQgWt2G7c6cegwuThD5Ju2-h=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "6 months ago",
+      "text": "The security to get in here was crazier than TSA. Also super weird that they don\u2019t accept cash or credit cards in the venue - you have to load money onto your wristband. Once inside drinks are pricey. You also have to coat check and then walk back outside to get to the hall which wasn\u2019t super fun because it\u2019s cold. The atmosphere was cool though.",
+      "time": 1733234344,
+      "translated": false
+    },
+    {
+      "author_name": "Andrei Ivanov",
+      "author_url": "https://www.google.com/maps/contrib/103519798714426875079/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocICCuepR1S68BsvniWlmhQdVNzVviMyQYhCBrbauuGRcK1ioA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "I went to Avant Gardner to see Meute and was pleasantly surprised by the experience.\nFor the rare few like me that may need it, they do take foreign passport as an id. No questions asked. Security was quick and friendly and so was the bar. The sound and lights were awesome. The surroundings are industrial but the streets are lit and there are crowds going to the MTA stations. All in all a good experience and I won\u2019t hesitate to return for the right type of band.",
+      "time": 1743867124,
+      "translated": false
+    },
+    {
+      "author_name": "Ralph",
+      "author_url": "https://www.google.com/maps/contrib/107236359078588554170/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW45B6PeAyjLmDj8z2G0RAsbD3SmKjXgxjF0yI1n6S3vdA_Dp2wdA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a month ago",
+      "text": "The security line is wild. Makes sense though. Please, Keep the k zombies off the floor. Wristband thing is wild but worked for me. Drinks average 8-16$. Sound could have been better. Low end bumping, Loss of mids and high end frequency. Barely hear the mics. I had no issues with security, or the lines, or the pat downs or any of that. Would come back for another show....the mirage though ...that's another story.",
+      "time": 1748178435,
+      "translated": false
+    },
+    {
+      "author_name": "BackpackingAndy",
+      "author_url": "https://www.google.com/maps/contrib/100255764131072056943/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUbeG5VW9EY0iUwDh_pvXnjfsUZxUhTnBvO_hvQhoaakPLjDOcq=s128-c0x00000000-cc-rp-mo-ba8",
+      "rating": 3,
+      "relative_time_description": "7 months ago",
+      "text": "I have been to the Mirage before but this was my first time at Avant Gardner. Overall the show was good. The sound quality was pretty good but depended a bit where you were standing. Light show was good.\n\nI didn\u2019t like the crowd layout. The place is a rectangle so you can be directly in front of the DJ only. So if you don\u2019t arrive early you\u2019ll be far back with little chance of moving forward.\n\nThe security at the door was impolite to my friend. He was really strict on his ID even though it was him. He was asking him questions and for other forms of ID. This experience started off a bad vibe at the entrance but it got better after.\n\nCoat check was fairly expensive. Paid like $6-8 per coat.\n\nEvery machine and interaction has predatory tipping. Of course drinks, including just water, were expensive. $7 per water is steep.",
+      "time": 1732434174,
+      "translated": false
+    }
+  ],
+  "types": [
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=4664948689559942691",
+  "user_ratings_total": 4267,
+  "utc_offset": -240,
+  "vicinity": "140 Stewart Ave, Brooklyn",
+  "website": "https://www.avant-gardner.com/",
+  "wheelchair_accessible_entrance": true
+}

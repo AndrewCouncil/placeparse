@@ -1,0 +1,435 @@
+{
+  "address_components": [
+    {
+      "long_name": "122",
+      "short_name": "122",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "4th Avenue",
+      "short_name": "4th Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10003",
+      "short_name": "10003",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">122 4th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10003</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": false,
+  "formatted_address": "122 4th Ave, New York, NY 10003, USA",
+  "formatted_phone_number": "(212) 982-3550",
+  "geometry": {
+    "location": {
+      "lat": 40.7330431,
+      "lng": -73.9902231
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.73441053029151,
+        "lng": -73.98874656970848
+      },
+      "southwest": {
+        "lat": 40.73171256970851,
+        "lng": -73.99144453029149
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+  "icon_background_color": "#4B96F3",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+  "international_phone_number": "+1 212-982-3550",
+  "name": "Alabaster Bookshop",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3264,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114532383669756785910\">k koji</a>"
+      ],
+      "photo_reference": "ATKogpd970SAiD-HuxPXmnoXCNCdjX9t9SDRf_My89f4x0uh0IMTB672wGvRx8hIxip-ww5vOf1BE9DSqc9xNyxX3jc2AyvmVY1w2HLToHD23egMFrNr0HIixnHpTrbj5IBGhaTyvuaDnh0fEXu5TsgOkftrjtY55OeiM2S0S0nxuhjpQDwQ012I0tYluKXF1NXyq0DlSlEHbeFVnfiTs0pNpqHL28opoOmauY8RbkGo5OBHUfJf_fFv4v1DdbZCqgH-H61lIWp95wvRhyhBYFlJm4CBmR2LW1ZuwkamIDt-RMkOaZTsV7cuJZoLe_1GgYnKDZ5RmaSegiMQz_1qLFNdorRHu2AOqcAKu24Hz0Vjk_qNmI5vsutb5moOEUCj_Kyfv1bJujuHuXFoOs2WgROQCv_2kuNE-XmeEadi1RpBNmXEECOG",
+      "width": 2448
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106196858452873463576\">Belen Olmedo</a>"
+      ],
+      "photo_reference": "ATKogpfF_UZQUsJjkCVBeMmzduO_6Ov0UgH_M3bs8q79INeCkLl5xCdqpLIHsowcdOKNz9ahc5yewUopzpM2jYkzN1mKMN9sd4bZYbruU3P7K7LyJF0TIm8UZRv3MBR0jri1qq5m6h1Eb-NihKuRT6UF2vUQEkEbU_iJqxDwGT0kbD2iTxgFkDVTYVIF3usjTiSAdJc0gsikNG0Iv2ixi2CWuMkYJE-cUVejVgJI6xPu8P_orFKIS_jZWzT8zng8L5xZce76n6lPVM9X9uW5JUsLFNOiabht-r--77R2Ir2dvx88SQqME9orFoMcABm2WVwmhqV3Z3CELuv_ZO-ZGw5UfOgq6JjXF87EfTLQVHeuAvHVTWlhwHF0JHh-1-Qr61ns1_D66VxxQcsXzt_6CN6l9UKLAVGXASGq3uPRImCNUyB7OUv6",
+      "width": 3024
+    },
+    {
+      "height": 2226,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117808460219123378764\">Ruwan J.</a>"
+      ],
+      "photo_reference": "ATKogpeoRZuxxAJFdQqo_4jgGu6u1ibLJUBQaaQY6vm_LhkZpci4Z8iC01dm7h0Ux9jGpBObS_EfbdJU4g4_-rU3nsMtuVDXpVPJw2Jy_Bdxrt7PiJcrjzPk-dy7sa_NaX5tKcPgJy9H4FYXzaoXDBFYG9Ll5iARdwEVqvhGvBjhfiVQum5vlYgaJDM0fbwoX5rvyvrV6mpDmMBQQfsk16mjwdBQiJFouNcPUiE1vGtFbGazDoStroxcoVGa8NgmxGmEXg4Eda2dD-ED2TOTfnYivCj1fvS5aGdHJQsMsE4YlVB9imzlnW5jnmqTS5EO-SOoIWR1bhrHZahz4mSpGqheCHwyMqZn_uk0QP2tAxYi1wdCjGBZW9a39sEc6o9PhXgvD9V_-bbW9wDSV3WtaphpT2PFfUidkGgnZNFv_8KsUfA",
+      "width": 2228
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117808460219123378764\">Ruwan J.</a>"
+      ],
+      "photo_reference": "ATKogpe_EFsIVD2TXHoR0tZJzVOy577rwAIqc3ZZ_irxsQ--orLuBk51mSk9C-678EwkdSNJnAlDYf1UFSGsBOs_cQ_26cuX5dUNpaZgeiuLuDNQKAJHW4IG8m0xqBLKkcoaY9zbmUmnmgCQO8uMHXznOg7lMmotB0513E9u2xfU1DZmQFg5KQ_V_aqXlg888CRsKE3hekTKnm3VZBZd3fuNx_9tmzXS83gEgBNoGjeRMTslehPjlNkg_xRy0IWx1qXjWqa4s-i7DIykz7_UrKi6XaQuvSebnFcS8dqshiLg8XPE6eGQnbpVl8HRm1XZtD-vPc-D7uF6CQPEITwZgM7jU81_34bPjk98OlXBGLEKQ1GqAQxLxGrQl9JDRPzQin0fNtYEKdDWCJRTtlH72TOeg4S0xNfYPqtak5eYGR4t8M53wRGa",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117808460219123378764\">Ruwan J.</a>"
+      ],
+      "photo_reference": "ATKogpe9Bd3LiJ0a5GrTiYR7VLsY971Bg5HOjjI8FcMvjuXz2cWdlCknE7f6ppNoP9LO9bnw3xqeYlRNSzpY3nklvkJ8yKO8Lq8HtF5FGVPgXyO21nuZIYbQw5cHrCHVefJUE_N6V9dF0SUs3BVhjZXJKGbthIVF1r05LNhFU3bB14batJNdzNX8L0hd-X3pdQ8DsPAZJEiA4GTct9OMeGqQNOFd-qx0qfhzzYvOQOF_NUx452a432Ui2MzIH4oWvJgADLGdeh5jBXrW_niLrNsf0wZH-fjWxGjIGyNe3u4E8gc_DRs1QyiuU9M20NWT4Fh1Prl0YsClK-p2EGVRZNZvgGGB95lnbxhZLptToEiAKLmdbQuUTIBlQgpkRFJ9-gxwlaIToN845Nx65nDzM4bTGg_J9-fqEqGTGs7S2UrkfI4DWxii",
+      "width": 3024
+    },
+    {
+      "height": 2389,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117808460219123378764\">Ruwan J.</a>"
+      ],
+      "photo_reference": "ATKogpdzt-s_SbVfW00TQKtApaTx2llE48VOehtHRq_tqHiN88Zy-C8AReQ1LUuCnPO1Ev9c7NSnITtq9Pj5mGdBYJENoFBslTM_tji5HgP6u541ZGN0GfWjrrZbIr6OYdKMTBQ0JivlYsjYr-G54oQkX6VCK5etZYdapbCwiKmVav0uByd0PwTwdTEUE5INvWVy1osDk3rNpJ2KN-tyVt1uWKEPR7euJtI7KbdJ_pD-tiyt-bj-hIC6WDnWef_sec78ApkQ5EQE6ghAtgkVHgZFxpUEXw-99BuFplXVvxsZdvzvYBsH9MEsf8-3FK8KxbmvX7EahbcNgrbXreKnskqYweonjqn0p-YZO-yalpeTKlEFXRQlBWcLaS5UXo6LYnMRJ2oX-OCdFe7X5Q9Qoss1PSY0Y4c7GpvEPxIOiaynHSfzIPc",
+      "width": 3023
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111940817266286694912\">Jason Borg</a>"
+      ],
+      "photo_reference": "ATKogpdQZzeteF5qUegWdq941Eb_pfR-ewqlohQQL8QYh6G-sDbe7Wh55SXgT5MDRmGsBfmypI5uN63Q0nKOgjl_LzjHh5kKetF_dIGpFTFNecX9dtBiFivVIXxKK9FimhtnU8s-RR93MIKcsEptwwuH9oxr9r2d30qa8mWAWmeicYjDCmH7l6rDCyxiXGBy0Rg9ONUsoVzaznk42i40RoDWviGNcZyjkGs2xBjPQGWOy-rRUom5axt5oEdj9daYfKeiWWdaC5QmkDxbyj3HX7qDocQpFVvhrJYRjtOzbSpAs4tmip8c6szYZWr0T2ojvZG6io3lIPBfiT1Kg6C9bGNL8jQEXkOrTvXpW9pb-c2l8wll-hnboWkY9H8eiSWZXs9YBWJNR1I6KJWtmhEKcUJLGtEi8oKGEY77fPIWA1CCBorPgYiD",
+      "width": 4080
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113090911855806563256\">Piggly Wiggly</a>"
+      ],
+      "photo_reference": "ATKogpcCE_caBE-7ar2QB0njdQt8YypckMSoUqeJDfneljtaAlfXwe4XS_S0WOi17wh2V1fK3rJidx6GCnCDUBAYDURuchIz9PKUY0vNKXdBG4QaStTaPEavorLJWbxUJ_s1zHzj5bZZYNTQ2y75jDekSPXF68TmyNes8WYhXHDG1IwJStGYFe6GWdpsQd3al4ngt_SGxelnV9jDVR8yq-4vOdt2HyxVEheoQX1LlUyUCVZF5iX68gCJqwAaQoL5isiP0T6wreCpG_Izh7s5awex3m9ALZIM8i6LS7GuVB1fYDQPdzQqjX3M2Tr_E83M2CvhkiaRgQYwaWtmvrjLxzS6_TVCZqjYnlbWeZP1EWPGzXtTj1_lLJ2VHdLbzX5suSBQ5kE_sADlcT0fPvEskxojuOGjAU4-xHeo-oKizKYk_Ow",
+      "width": 3024
+    },
+    {
+      "height": 4048,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100639738002867106965\">Matt Milligan</a>"
+      ],
+      "photo_reference": "ATKogpfXpjOEa6WBpqWFQGmS9h1KcuMvXWLCmSn0pXa-MCtIVWCw9z_ZwqJNXyn_TbLT3oXa85iAr2INEZ-EWdF22ZapnfttWmFLK4udgye_5UwsMmxFV0vayvqWwV3cA6agrOGec9GtDM3P0cS75CGZr4R9dPUth0CKVq6xiXPRGjPexkp4bLnzIUnUrofBs94kfZRCVjxoYROwwnDE_7tqvQbm2_pGghUIJ1ZShWgMxPAbQQrMJK8vLV09hmiepAHFPYKbShX1XYg667YO18YeOyQv_-a0hYlQ4dJdOwbP-ogqrLTvGd9ZebznqdoRLV8yicFaylGu8JazuvkK9iompSeX2qjcVrvsDVnXorX0QjbZivSpyzUgUcW0iYbRo1nA3TfAJB2jaK0FHiVjngWMH7TPOzcpYX0s_KwJbsNdhWxgpw",
+      "width": 3036
+    },
+    {
+      "height": 2208,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100888086778037373131\">Ravneet Kaur</a>"
+      ],
+      "photo_reference": "ATKogpdrFwTWW0cQ2QGMeJn3IOe1FvXlYCKAowuXyxeB_7gWRXwPNOxnqXPOl5xHoYxL0uLeWQ4q43Pfgsgh4IfHe1Lc3p9nzq9oFcBJINFDghuYtXnADo3eAJANDV_YlUm7X4bWmUyfR8o22TjJhoPr8IWPmRtvFQx2cZRZTiPUk7Lmui1yyVxZ9SIYxmeq8N6g_2SVp8FYA1N71ZTscqFlMBaHpMt-EX78YicaVEEDOvWO-dYuUKOZox-sYhK8fZohg7Ik7rNBjUnxQBpq4ZWH1r-JvaA3SiUZkZD1HDNezLXwqc-k3odjB2DQvlsHO6hUiiGCfjyK7olP6MFA_LQjmwr2yyt6aA181xSL9W93Y6-5MUb_oXrJ5VDKXKDgJBIhDdQr2IHZ9H-OWn3pZeY1Bkh29nYbtBp3tSzq-5DVLQSUHxWp",
+      "width": 1206
+    }
+  ],
+  "place_id": "ChIJpTRUPJlZwokRtFv10EUtj-k",
+  "plus_code": {
+    "compound_code": "P2M5+6W New York, NY, USA",
+    "global_code": "87G8P2M5+6W"
+  },
+  "rating": 4.5,
+  "reference": "ChIJpTRUPJlZwokRtFv10EUtj-k",
+  "reviews": [
+    {
+      "author_name": "Will Langston",
+      "author_url": "https://www.google.com/maps/contrib/114991699165110247764/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLa-zD2LsGUFrmAqyXAnmpCkP_KYMhiE_7MTYB8u_2T3DJvzA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "It really draws you in. The selection is pretty good. They seem to specialize in a few topics and have great depth in those. All my pictures are from outside because it was really crowded. Turns out some family used it as a meetup point and they were just clogging it, but not shopping. Bad form. One of the guys behind the counter was telling the other guy about a girl he was dating who had done some things he didn\u2019t dare say in public. I was glued to it as the other guy slowly drew it all out. Apparently, she stole a vintage art print. Oh well. Rare bookshop freaky hits different, way less salacious than I was hoping for. In fairness, browsing books may have made me miss part of the story.",
+      "time": 1731982897,
+      "translated": false
+    },
+    {
+      "author_name": "Maranda Gallo",
+      "author_url": "https://www.google.com/maps/contrib/109896203205944332507/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcnpdbI7-lCWX9X5CcyJidHBl93kgYFQdeCz5IRC6BcM2tFyNDrw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Absolutely beautiful bookstore- it feels a little magical and the books are piled so high! The guy working at the front was extremely nice, and it was the perfect place to just look and see what jumps out at me, which led to a really cool book that I never wouldve found somewhere else.\nIt also had a really impressive collection of rare-er books, and even those were reasonably priced for what they are",
+      "time": 1747752340,
+      "translated": false
+    },
+    {
+      "author_name": "Jabir ibn Hayyan",
+      "author_url": "https://www.google.com/maps/contrib/107613789459654322185/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJKaRgNWDcrvovP-N0e-UVYIfF-R9D8BXtwGvUzbgc_V5jfig=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Great selection. Used bookstores usually accumulate the junk that's left after the good books sell, but somehow there's always good books here, including stuff I couldn't find elsewhere.",
+      "time": 1748029633,
+      "translated": false
+    },
+    {
+      "author_name": "Joshua Tedesco",
+      "author_url": "https://www.google.com/maps/contrib/117428253099449539925/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWR1zdnMUsXxt2OgePXsqBJwt1Kss7ROWBOVgnfUX53Wcx4KOYsPA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a year ago",
+      "text": "Excellent selection of high quality books for good prices? Strict $10 credit card minimum just FYI.",
+      "time": 1718329473,
+      "translated": false
+    },
+    {
+      "author_name": "Neeto",
+      "author_url": "https://www.google.com/maps/contrib/106430707920170668695/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKJzibwGheYdnkoImydBYqU-Ne2twDYQ__8szEz-Lc1Dayiig=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Good selection of philosophy and esoteric books , pretty solid prices overall. Their rare book selection is wonderful.",
+      "time": 1749847824,
+      "translated": false
+    }
+  ],
+  "types": [
+    "store",
+    "book_store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=16829720110388566964",
+  "user_ratings_total": 296,
+  "utc_offset": -240,
+  "vicinity": "122 4th Ave, New York"
+}

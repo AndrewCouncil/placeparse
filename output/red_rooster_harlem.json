@@ -1,0 +1,556 @@
+{
+  "address_components": [
+    {
+      "long_name": "310",
+      "short_name": "310",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Lenox Avenue",
+      "short_name": "Lenox Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10027",
+      "short_name": "10027",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">310 Lenox Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10027</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Popular, stylish comfort food eatery with creative cooking from celeb chef Marcus Samuelsson."
+  },
+  "formatted_address": "310 Lenox Ave, New York, NY 10027, USA",
+  "formatted_phone_number": "(212) 792-9001",
+  "geometry": {
+    "location": {
+      "lat": 40.8081442,
+      "lng": -73.94488170000001
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.80950953029151,
+        "lng": -73.94365966970851
+      },
+      "southwest": {
+        "lat": 40.80681156970851,
+        "lng": -73.94635763029152
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-792-9001",
+  "name": "Red Rooster Harlem",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1012,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104729380633163557830\">Red Rooster Harlem</a>"
+      ],
+      "photo_reference": "ATKogpcYahNah9rD5GHBBVdaL0wgmRArtNNPn_lIW8SDfX9igQsnpmFkujwqBFrW2-aT4nXxm-CcTXRkUH1T6q-dzLWz5XdULvkqPa8kOY9maVDtQkBRoztVojt_dMbG8r-8QyGpwJZAonRHkO1YfKraVl84TPAaiKwKtKzgFWtyTzdVmxmp6e0TFAWh1fnadWXNsUAfLY1u0gj4L4ghzgqPR6SHUu8ZzuXlWD1xRkUYWM6ZJZXyxkr6iLcQwJuaY5RN8_iZnR_bDhBh6z-xgseIbrBgAXF8hz3XlfCIx0_r_2U",
+      "width": 1799
+    },
+    {
+      "height": 1728,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104729380633163557830\">Red Rooster Harlem</a>"
+      ],
+      "photo_reference": "ATKogpdkzBSH1puQX_u8St_Ihe46cI5ySXR-HL_4Z1-K9vbGgellDUlydjbnxvG2tJdkwuO19rUNHHmxRoy6sLESpb6gaDUom7CQyrB00RIeaPSB3BoyWbNsUiEE4l4b6jVOMVagY7M7CSDnkFHzefXPja18nXf6_E6QbSHlWuiKALDYdckdFGl6wQzcAA6H-rqlzOGvMXJ0SlqXzHKiro3UuiMQyeODXhnC7k3ko6Nh250FjiwjTw1csxhHsx9d6kS-m4fQ3XvtpqYyfb5s9pzHHz9zGkBnLXRPxUx_lhWtGpM",
+      "width": 2592
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115440628117483605567\">adam golonkiewicz</a>"
+      ],
+      "photo_reference": "ATKogpctoYZQYDyClUMox4bJMmfo3dy4pN3PXlwHJpWK52WMH0KBybYi3is5tkSFblK1B-3ACfO18qbEJufN7CbS1P5K5-_FbAnndwGozPuwjSq5WnRpe0twSlrWDu5sw9rw2initKj-WuTfoY3WSRh5cYOGJLCFDCAwkKy1vsUx0briF1dRQMlFxnMJfNvoFXJZU51IdK69YURH0Dx-gwqr8KPjLBVdirYwvtty2ylaVyhSa4HJ7ptKxYW3C2N6AK9CQI6CpL59tu8JWoSCYbdNMlFxVUp25w7lLn2NB1B0owMAaG7GC5Lc1bHjkzYr_UY7NWuGeUfh0qWUOa7mfGfp9qVxELDcYpicz9LWc1pZkjf9y7mcitGqZgZJhCN67nhjeexq8jHbhWDVCIVsW1Rw0ZInyRvtRI74eUm480E_9h0Zst5PIY9SLZvsK6W4-_9O",
+      "width": 3600
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101268909502565985315\">Becky Howard</a>"
+      ],
+      "photo_reference": "ATKogpfJymd2-ZrsI8an_vdeIg5LJfhW4kCgUxSIryMKr83pv9PMt_p6bXiVUBlkHDR4TInCAp2EIcRp4BftmiZ8rvGziwIKJD1UWOPWgsEMdViBW-M8cs7RNYWZFdyNHHnPm8tGH4QwPMFn8K0wE8vtKzyXmRHisCbLkVh6hTqea_SHW1WCZQP9ZVNJTtJBin3x0CMMb30woAYSQFfQiKdzKgzjt3R8-6-mlfZ7MGFYUpqwvzuaDSMbPCS77qu1_sEkUNEhUjIgMZQcgy-v8TXl2ACc3AmaP7EDfVZDI3WfjsvKirFwS4CUYBHmZzDmcykWHWqgifh_7PahhY7AMESoV15-BE-51T-f5UenLtBjDPHubDiH5OhnwhLbqbULJoM3jc7Sj-VEdYtD_VHTqjioZf2_PZ09r2brka1FSt0NGkhkEdf2",
+      "width": 4000
+    },
+    {
+      "height": 1424,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111214602589456605179\">Mary Gallivan</a>"
+      ],
+      "photo_reference": "ATKogpcrZNFlzlDHdbzeJKnbx6xAy_V_lFL9ZRm_YSO8kVJXvGAOBpmJGa3HFi9hnaImgqviTbb0On5Crt6QvXDHNNzkQ0D7HdqEEeSZnJbtuHaOCX503HJRuLlXUYqU7o_iPpAtLyFPKpXmvW-O4DsZL9aAarWmyAUxO6ERxHtUdFPzZ8yXk84jnvMpG6B_ZZECbv18up64hZbxgg5YZTyl_bo-nxHZ74xXHmhF7uVJ1M9GdVY9GCab_cQDwoCgca0AdC_aZyn9j9cdoDMaMZNYq5pO2PQpW3cUs429rXgXQLCHcFzkhbSjsNrAe80jfCK7Sj5icMlqZiZY9J7brSHtk3FiqQzHKShRwoXA-GLBBiNh-rJl3LE3oMXBXYapyiKXss-bkK9uaIVXRvdcic9YHgb78-MLBgzoulTWmfsLqN6qmMzEPtSQKPntVCz3pQ",
+      "width": 1142
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105350039011092948943\">Enzo Romitelli</a>"
+      ],
+      "photo_reference": "ATKogpe0DAGqO5pQrLqKNECZdYk2mXeqB9ySSo2vveexIv0TYsgl4ATtMvhnZfUQq-BmideKCv4tH4WujdJejhFh1faQtV8Fyb9b1UTOT2i0Lg7yJ8eVbJel95FCI3mSiSnCaPj2huVC1QddUccy8jmouWE4Fvjcye3GlfRZ5j7iHCUrcJL_XydoV8dE7O1kDTjNoJTxZfkeQc8STUu5fXwba_z8KNX0nwUVFwPzQz9uOtNDNPOhDRUG5Ms9LymCRyXw9xMP5E1PhzL0DiQuOP3VeyiwFTQUb6TGIuflOohjsja6etd0QS0J1QumABgIwkCB2UL2ds3Ra4z-mnM79xlOjXvo2SGSTKbDJUV_83qxrXEJLbqQUqkdF8JnSfIjQj4xj7gPdL7sR1njgk5FIwGAtpneSdm51nlR4ha07jIl-3dlQg",
+      "width": 4032
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107900908456005525009\">Christopher Dere</a>"
+      ],
+      "photo_reference": "ATKogpd-HJJ4HaOFEedvHo7CBcv7Qub3gIUtR9nj1hK8ZeS6iZfAnigEAgwIrwB-meKuvOmDj4eOqvAPSCnunbnDyErfAS4BREIt4gARHNCzBMmkVXwh7RVSZlJfF_egmGDp5TMbiP-zsDsfl4FjKk3sm9EJYt6Lstz_fL0GspE2tgygmjeWEHSQdVEDUiCZjhfUN1JAlJuQiWihKcTGNQ684lguMsf76PH45Ys4DOwdVypMEByCrD0CslOI0-u9AgqCU67gXdbhXFG2uhC3RVqMq34GPDmaOlaWKGkNetqKqavnj5AaejZBNz0KjvYItn6SBew2vLNIYOH_PMY8tYGBsQPHscVvP-lMUMmd37Ni7NSt3VImD5gZMdx78cv7OjLzrSg83FU4uNbCn6GR8BFhb60h8i-IjFN7TTqwh6CjnI4sww",
+      "width": 4032
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113794796592707861125\">Uconda Dunn</a>"
+      ],
+      "photo_reference": "ATKogpd8l0SSaqoQDlVQTx71OwQCV1aCxI_DfCvNP0x5rtkGZpqLSwDc5rBamTaDtbQT62I5IstXS6xPYnSGEhn-fXVgex-MBigdw2zFQkfW2LH5pUMpLddItW8cu_-gOMYOlWyvMwBYMT3oHX9Mavwx_XJ_q7ihPKWMYm1sK6WsKhJ4gExivGYZySObW4C4F4wGtb8kIL2jrZ-h5r48JHj88YImQ5Zb4_m3X9F76Rcp0AmoSTwYvF_EKZRke1LD4HzwHwdMsJJGEVDM99GwiYSARSrbmQVtViGO3oxZ5_2DMLhvgITqaJhPaRm7kXQ4U8a33bjj4UlhWjtE2E8v5-o6i2U4sJH8-MtnRD5jdNh3mUCxQHgdIGfJupXD5MjA1MGC4xEObzc5LKzvttPo6iPUrhLspm0FdnUaxR7qW9Wx-lN7pQ",
+      "width": 3600
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114779918858310155440\">Jimmy Shen</a>"
+      ],
+      "photo_reference": "ATKogpenaPrOFZjJjldupz0xtMtY2gG9cAYPPoRN7K2A0QUzQRTszy-uwEa7G_ialm5om0odIkFTgDsGy2Ojb_yHk7Zo7W_zx7TVyWLpx9hjve4_EKWc2XDbiD3Yzvj1JAQrxqPaLh19MFuFNNUlcTQhrIaH50X4nwZiAKNhU3Q-EEt0V5SySbKVZctcFySQARRqzsQFEp8mZtHaBJDup8A2f74uxdJQkFonbWjVGETxeT3bnnxBaueAXM00BOePpGEMxzdIJyNXdpa7jdsNVx_6MbDjXP6BFxfBJIIRL8yPVyDKaRY0Sc_eJ3sqCwRBxGj_CQqoyh9qR-IRNesJDRsVlclxfT-wARX0dGGRoFRpl9drKq4FRakDGLlaUPSJSrd0zUa8HsOvvLK3TYaw4aXNVVJZjho92Xs3_xCGQy3Utv3HYQ",
+      "width": 3024
+    },
+    {
+      "height": 765,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108606576340217838278\">Dawn Mist</a>"
+      ],
+      "photo_reference": "ATKogpfjRh_iB1HhPdpdpHjlcUVIjiG3FYXZ-8QZSzjvrNwqHJ4y9ITSKb-WFeg52pkTK8VLQUIOeZVyx1rv6ix7OKTmle0irJtCgNm-ZaD1I8eGhcY7rTYa8zCZrLiP5cAK8j_qsfL33JAWedXKbvsJKrEVnm5xzcQEqzO0nASxhmyyb8NJFZpcYLy1VT4-3-l5puPyOo6Tt91f1AX-bw8RntjGNwCFNDyo9l7cqYd19qtBH1nuXXBALYUcz3dCcYqtuOZwB4lbC1Fd6Vkcw2MFDJ0UFmlotfVL9ZteaF3QV3zgSZRMbZYdg56mlJXtiPMKg0yfzLTokS_DwkXP9Jw3tPBjSHt9-x3Bl7TQvn5kzI0nMIK-NnvaU_UWqDfkm54Dy5t0P-LUyFf167aABv_67DAIC5uv_yPVXczSwqWPImjE_w",
+      "width": 1033
+    }
+  ],
+  "place_id": "ChIJFcYLJw32wokRnP5A9xO9JqM",
+  "plus_code": {
+    "compound_code": "R354+72 New York, NY, USA",
+    "global_code": "87G8R354+72"
+  },
+  "price_level": 2,
+  "rating": 4.4,
+  "reference": "ChIJFcYLJw32wokRnP5A9xO9JqM",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Ralph Moore",
+      "author_url": "https://www.google.com/maps/contrib/103050351814089508813/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX7d6jfLmuRMU-mhKoWZB8mZGupT2fhBpc0mX_ftWPBAge9Skimyg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "I loved the ambience and the environment, it felt great just walking inside. This was on a Saturday afternoon for brunch and the dj was playing great music. My food was excellent, I got a chicken thigh with a side of grits. The wild west wings and deviled eggs. The service was excellent as well.  Very nice restaurant. The chicken was great. Nice location. There was no wait and wasn't overcrowded.  Next time I will hang at the bar.",
+      "time": 1749943033,
+      "translated": false
+    },
+    {
+      "author_name": "Jan Matousek",
+      "author_url": "https://www.google.com/maps/contrib/111743131720924012691/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLUawN1Mxy1kTpoVufVlzs6slLXUWtCmQEvBbK36UxNDoSsPg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "We visited the restaurant for Sunday lunch and were really impressed. The staff was very friendly, service was quick, and the food was absolutely delicious \u2013 some of the best fried chicken I\u2019ve ever had. The portions are huge! Overall, a great experience. The Yep! Chicken and Waffle and Wild Wild Wings were especially amazing. Highly recommend!",
+      "time": 1748373441,
+      "translated": false
+    },
+    {
+      "author_name": "Katrina Hall",
+      "author_url": "https://www.google.com/maps/contrib/114757985806393380917/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWy9OBjSbsosj9k40CVwN4cOf5mGzGvUD_wCU9LKLHsnHk9fPDe=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "The restaurant was clean.  Bathrooms clean.  Great music (Jazz Band).  Amazing food and Awesome Customer Service.  The overall vibe and atmosphere is a 10!  My family and especially my Niece who graduated from NYU felt so special.  I definitely recommend it!",
+      "time": 1747688441,
+      "translated": false
+    },
+    {
+      "author_name": "aaron grotas",
+      "author_url": "https://www.google.com/maps/contrib/101049092666069629142/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUsWFettIb8F1x0Bspweg5X8Gs1V_5ZLm3Uk34wBsXlZRTa14Jc=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Great brunch with live music too.  The grilled tomatoes were amazing.  The fried chicken was great too.   I will be back.  The sweet tea was not too sugary.  The mac n cheese was excellent.",
+      "time": 1748224722,
+      "translated": false
+    },
+    {
+      "author_name": "Dalal T. alFouzan",
+      "author_url": "https://www.google.com/maps/contrib/101440656028865410426/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXvzP-v4yjuTkeYrmwo1Awb_R866CVwDieQenee4JPzYoIlnLEuZg=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "One of the best food experiences in NYC! Red Rooster serves incredible food with rich flavors and a true sense of soul. The atmosphere is vibrant, the music adds great energy, and the service is warm and welcoming. Every dish was a hit\u2014especially the fried chicken and cornbread. A must-visit spot for amazing food and live music!",
+      "time": 1747339378,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2100"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "type": "DELIVERY",
+      "weekday_text": [
+        "Monday: 12:00\u2009\u2013\u20099:00\u202fPM",
+        "Tuesday: 12:00\u2009\u2013\u20099:00\u202fPM",
+        "Wednesday: 12:00\u2009\u2013\u20099:00\u202fPM",
+        "Thursday: 12:00\u2009\u2013\u20099:00\u202fPM",
+        "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
+        "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+        "Sunday: 10:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "food",
+    "bar",
+    "point_of_interest",
+    "restaurant",
+    "night_club",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11756291770747518620",
+  "user_ratings_total": 7292,
+  "utc_offset": -240,
+  "vicinity": "310 Lenox Ave, New York",
+  "website": "https://www.redroosterharlem.com/",
+  "wheelchair_accessible_entrance": true
+}

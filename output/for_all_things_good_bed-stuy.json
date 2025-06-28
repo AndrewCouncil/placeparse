@@ -1,0 +1,541 @@
+{
+  "address_components": [
+    {
+      "long_name": "343",
+      "short_name": "343",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Franklin Avenue",
+      "short_name": "Franklin Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Bedford-Stuyvesant",
+      "short_name": "Bedford-Stuyvesant",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "sublocality_level_1",
+        "political",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11238",
+      "short_name": "11238",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">343 Franklin Ave</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11238</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1600"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1600"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 6:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 6:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 6:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 6:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM, 6:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Snug Mexican restaurant whipping up tacos, quesadillas & antojitos, plus a large wine & mezcal list."
+  },
+  "formatted_address": "343 Franklin Ave, Brooklyn, NY 11238, USA",
+  "formatted_phone_number": "(646) 238-2068",
+  "geometry": {
+    "location": {
+      "lat": 40.6876275,
+      "lng": -73.9568117
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.6889680302915,
+        "lng": -73.95553631970849
+      },
+      "southwest": {
+        "lat": 40.6862700697085,
+        "lng": -73.9582342802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+  "international_phone_number": "+1 646-238-2068",
+  "name": "For All Things Good Bed-Stuy",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1600"
+        },
+        "open": {
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1500"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1500"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1500"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1500"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1600"
+        },
+        "open": {
+          "day": 6,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: Closed",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 6:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 6:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 6:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u20093:00\u202fPM, 6:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM, 6:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u20094:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108797309755825154694\">Alessandro Frati</a>"
+      ],
+      "photo_reference": "ATKogpcD7Oq6NVCvDtIwxMLre0wtetuQEbszW1lydD1wD01aKpvDyopz4uAxnr8eVUjCHB1W2pL1_iIF41RBb9GZ8GS6Ev9A2KPars4a0OpspHjyE0Xmor7TROvsRviM0JXtipQT38VIpuniocLP8UrZ4DYk4mFtDi2VgPATosptEisgu_MG-wBZ9Ro9OJwXs1EntLQVAA4yIURX0g_OpIHq3kazulJhbjPL6XTHG3lnW6PC2hGIH4NjTaerSrHssCHU9MmD8XFacHJKv5WLZtKcjLr2ox1www7iVd0kIbCeaTe7gyUGvUL5Qip04PNAkVriYIf5cyMwSvy6VIzoRtj3YzLilzmGVjPjwvbPnIWSiHe4rMVAIxUzBgWHG2nZGQjMzOerdIY0WloTdQMSFx1xy5CqNqcX0I6FcanlSPBMuhCdzARj",
+      "width": 1600
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100951011192843691798\">For All Things Good Bed-Stuy</a>"
+      ],
+      "photo_reference": "ATKogpfYURtOHtYchj9GQ0p08URoGj8Eq1j-1eIO04mJL61cstN0b4eqK9mWWJ4gL8EqkJjR9vh1187tGvQuErZTb8xI1IZUA7Eez54KlqdhOB0xgI0qbyvd6w3-Tf9K2lOoUIurqrtb-o36IjrtK69rdUNC4BkkxnmiN6mQnicjOxIIVP89_1lh0KOPMWYXkJWIGO2SQ6H5ZwK2atzEhmKo7fXQNXYpU7IwjhBV7d739oG_Skt8TqU9JU2UwuoTLORunzhbDhGfJyuZCrHQruv-nrVjhuPcyJT5Yt7HWyT-Q7tQ0g",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102523806775105151052\">Khendra Braswell</a>"
+      ],
+      "photo_reference": "ATKogpd0DSzx2viaf6Lif4437L1sL0D-wAKjqYtdUh4bYs1SOTEPTfrn_UFSFFe1nSZo3RlzTc_t45Y0C-WdtKdIb03Ryn5KsjkSoDtOdZ8anhdiCC4P3f-hs5UaI06WpwuRmaL2cp3nr8mqcpn5Ruu1X6bNHZcBPzga27rO07ojC50KrjAHdkKUM9lBDBLXmbewr-D1eLmQXwd8qcoNpqkl6vHBGKdW2x19qlEJ4inH8c_rUtCOK7PRpO8w3Oc4r3mk1MuHF7zaxXTOty_EMCPaujAgh7TQelQ9wfSxEk7zxZzo8GuIpRMOqD0EngYDKVoISK1aq6miFLkdJ_18kQ7pgh2Q2q-TtGjjLfrxcfH81yabFeG2RxywQYXDdtx3OdKBW2YWUdm7EQEWMNaBwcWtcT9AbBp3NzmoKTdu_X5XOR6_1G0r",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110105491611614366070\">Natalie Natka</a>"
+      ],
+      "photo_reference": "ATKogpfSzbWgCY4V504Y2k87nUqeV0-fvdhiQgTEKubLZszfbuGmRyaG54iyDSZnT_LMtvso8SA1AjD3IX48Q07ZcFaOXQ4EL9HR6SNhQBYNGJW9RcgkV89_wMEvnX7PhBnRfrjoJ3TNvNOzOdkrfm3drGOHK-5lWdosogYxalkugpyB4YC2vML1vN6z9xROEaQPnhj-iJLVGh3cAhYetJlG-S57d68q4MfWzvwwivRodST0DgpjTK7xLzA1Z0zAmf0rQDfqKoEOqSRrYej6kI6c5u0Xyhbp-D10sQw4RW-2hXc-AjpyP5BKDs05IlDram6JAPFW7syWajv4KBzn5I4c_R_D8m73r19vfUSayMbh3EjDZVIN9eAXZbm_P5ot_QaRo0CmYvvTkCitDsyV0NLasUJx2Ssy265MV3z2zXxnqZW1SDiS",
+      "width": 4032
+    },
+    {
+      "height": 2380,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117724319880776112307\">Jerry G</a>"
+      ],
+      "photo_reference": "ATKogpfTkqS_ekLSYcXitcj1M3iizbBTTGYxK9Xwu4BgrMiJ-2Qq6q68WRP7HwWzjDAto5R7k-9n9KCi10ChTlWdYJuQH7UaeWuv1U97fUeLHpx5g_dWCYFc96DQmaSHNXZ6_LVX9CRmdGt0RgO0TG9HNMP78B13CEdywzrp_MAi8nIVsNQnfrBJJFx62qiJrrcLphFCEDQrv4JF4Xm6x9b_K4oeX1etf-IrxIWC87s-ZuuSJIjpBclwOBbR4q-knE4ayX7KW_WUM-dt9WeOiHJgkkkX4TTr6LQ-4SJoAuPIPutVv8k7h6GXi3z2LUpPo3pK0iEexxnAdFCf8aWa0QF025Q6X6EBxP3e9-VC_2fDjZib3ZVIaLESErXR3fBGkD8H0NJxr6sbFPtXPxgI7WttQja7XuHyvoWgGsIfdLhXNkWg7jIJHqKolOEytg7exQ",
+      "width": 3736
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114955250538652050870\">Javier Kohen</a>"
+      ],
+      "photo_reference": "ATKogpc1mTYO-xAHhIvknuj0r4-Djhcu2sHGsa1Ey5-Q0iE698vzf8GtHlb8_oHWHI9rzR-42HVp3jWb2JCrKCCtKzGN-ECk_RDz-5FLe2yXfwQiolTlwVZRl_ScBRglMEAAMsc0XXpst0wtkPKgK-Vxp-X3dWzi-63bbR254ouvkAr6hjRisxtcZLbPM67wS3slN44A4mCFU2el3YyzICQnSUGXjxGcryAQnTN8JS0fRPj1g5i8uukcxh_EyPuEx8NlAMuNF4ZfupiVUvplAysEnXlznDg5v1NRq0vUOxF54nxubLpLXRZclTtE9-dGJdGr1MXTdgcqDXyxU6QIESAVd5PlJQeDrgzythZ6PkA318wmuHai9e0Xy1BFYjVcJg2RxLIEte4WHQgFlwvtIPSUXTuk7lHE-iHYK_yf_C20rSrs9nFg",
+      "width": 4080
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114955250538652050870\">Javier Kohen</a>"
+      ],
+      "photo_reference": "ATKogpciSXdEez01qjD9iikNiExYveLm9q18MHPN5hgvDtuPFzlYab9ITOMApKg2Ir8gKFFmyR18Mq-rbDQtr6x5tP6_Lpq74oBvcbaZf_yWmJM_qUFM9x3NRQ3WNsHobNYj-M8qu544ec4taip1ojB6cl92akg5Ch1YnZxUk6jD7narVIZXNZM4gP9P-l3ks--IDe1GOf0SF2Cr1F1gGBL-pQJf2K2XjjsNLxDpupLOSaecWpK5YFMCnQWkAFAnaGXC7NC_RUKZZwLu1Q-iYJn-9pWMDTv_leTYRVbLbWDHXKX11pHCWJsL13poqHzg0YNq5PxlCzv6uFL9m1kSlxDefU4EXtcFGdOgUt8xIDMe0fSP-Gi6RHpmu5CRsQ-r0uw549PiKpqG6OZeaiBExAslJJCwVXKtWFRFuyZx2uQWSe6URQ",
+      "width": 4080
+    },
+    {
+      "height": 866,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104516665589387735663\">Cade Smith</a>"
+      ],
+      "photo_reference": "ATKogpeUAzqFZ0Eebl7lMcO14uPlmnpkLlthe2tni3TN34tcaOIZbeWHfJvz493n7fugIYEp50ZQAbCnJevVnRC6wE73YbvDiZlJPHxwpFV6ddD4gc83TDuW6Wqmi2LpWtMtzXWKOj5kN_O_FI1_q8r4F1MLNCX2MH1yqgHa-0T1fVDaKVIlLdAuOpWlEJleRq0GnJzw5DxN1aLm6V89xJKlQEHbpnjAzJ24WhZwPouybM_fmXC_xhNNWiuiJXaoBGnUgkHQ-1xYO5uABcK3-A_pXg5dfHjBpZneflEFFSo0ERkB1DxFNyPpVWL_9pUb0_k1zRA22LisCqO0CLI1cPkrIZtmA3pFRPX63JKZI_LkXfLzF9lQOC68PKECVXcSG6UU6Dvmv5Z30iW8ogF5BCZrRu78QxMMCVPYYbm8SCJtgHcLp_G8",
+      "width": 1170
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103630353186578856463\">Lisa Paradise</a>"
+      ],
+      "photo_reference": "ATKogpfpCXR-ksUGPziEt5SENlGUWUYT1UFKqNB6ihoYvzKYiVoesD50iZZYrkFanw1L06D9UlFUiqTomH99Mw4v7fF7VyBP7b2j4fxcF_JUWVPsaGF-1hYn_hvqXxL8KPaOxM7SMn7Ptpak-kqeJVk8evMBFGBCGklum3vdt7R0bHsOz7RVpBDkMmCkQTiFzDpoTvYUwWvDZd674W42eylIASSW4oVlELxWfLBaLW5qTWz-E3vc94p88TvYpARq9UzudEs03IBPyuCtrCbUHQpHCHDTfLgGKdnh5ge1PChYw4HyzGHqFELkz6PZngrRdDGZGc5rCy1lKDEKzdmcssI1Jms2jIqSHz8lE-VgjOtJVOEzxHnyRdcIPuLmufJJgYE4RLKjsx3yxSYrLTa4KEFf7tAUvE67aPgh3aKN896kT36Shw",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100951011192843691798\">For All Things Good Bed-Stuy</a>"
+      ],
+      "photo_reference": "ATKogpcpNBNktpsap20JmdVEEMSw5z8F0oRwKn3bm4rBNRZI-h1DJyAWKK3eX5YloybVlRX0ZczOpytAuvN-zE-7WeF9Aa9x9lHW7vAlB-fxZV-RmBhJ-NbxXI9FG3FSlzcOQuLPgtlUfa5xG3xZUaoQ6OrVu29Gj1hz0vpVU5mAgxKKuonOZzHM5W_W-bPoILyNiModIZeG4uqQpPHgPO_ZMe2k_YHuhEtQ4a2w-ZSPBacX6Q6g5UuFFocbYY3zCaLh_DwNXzQDkYw6HupXr8nEiGElcT1mqQ6d5BV8u7IwGvZ4aA",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJpRiQFlFbwokRZjSvEE0BXc0",
+  "plus_code": {
+    "compound_code": "M2QV+37 Brooklyn, NY, USA",
+    "global_code": "87G8M2QV+37"
+  },
+  "rating": 4.6,
+  "reference": "ChIJpRiQFlFbwokRZjSvEE0BXc0",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Jenna Alcorn",
+      "author_url": "https://www.google.com/maps/contrib/105810852658925447418/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX0OqGoBOsKVcWz6PsJmouJrzrfEPB5jrvKRwrVK7BYKmLt8SXw=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "this corner spot caught our eye at around 9 on a thursday with it\u2019s red glow & cute sunken dining room that is visible from the street. the ambiance - warm and cozy. the service - quick and very personable. the bartender is awesome. the food & drink - perfect. got the spiked horchata drink n a birria res gordita, both amazing and still thinking about\u2026 ***the best fresh masa/tortillas pressed right before serving - all within view from the bar - dinner n a show. literally can\u2019t say enough good things. excited to come back. :)",
+      "time": 1743220113,
+      "translated": false
+    },
+    {
+      "author_name": "Karla Osorio (adventureswithkarla)",
+      "author_url": "https://www.google.com/maps/contrib/111593312488415057811/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUp4ZFIlluUzum09xKIQtNf-1j4Fq_kV1Gx6qZzTfN2T6ZN58bMSA=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "a week ago",
+      "text": "Great place for Mexican breakfast & lunch. The latte was creamy, just to my liking, so that for me was a 10/10. I also tried \u201cLa gringa,\u201d a quesadilla of sorts with cheese, mushrooms, and cilantro in between two corn tortillas (instead of just one folded tortilla), and came with a side of guacamole.",
+      "time": 1750372414,
+      "translated": false
+    },
+    {
+      "author_name": "Javier Kohen",
+      "author_url": "https://www.google.com/maps/contrib/114955250538652050870/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWpx_naboFyS9hPV2vugnqK3-l4129suf5aMbaPbgYVN0P1ZJku=s128-c0x00000000-cc-rp-mo-ba7",
+      "rating": 3,
+      "relative_time_description": "7 months ago",
+      "text": "The food was interesting on paper, but the flavors were very mild and the food was kinda dry. Hard to explain, but we didn't think it was the best sensation. It gets really busy on the weekend.",
+      "time": 1731278807,
+      "translated": false
+    },
+    {
+      "author_name": "Josh Levine",
+      "author_url": "https://www.google.com/maps/contrib/102358369093228164319/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX5UVcy3tB4zKDXYV0Xk6AyUdjJmET4VIxNr9Dbk4VPiyYDeZpB1Q=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "Such interesting and yummy stuff. Plus the warm vegan horchata is so good!\n\nUPDATE July 2022: The food here is still so good. Clean and tasty with fantastic vegetarian options.  Some of the best in the neighborhood.\n\nUpdate 2025-02-18:\nStill so damn good. Me and my daughter just ate there again for the second time this week because she woke up with an understandable craving for it.",
+      "time": 1739899738,
+      "translated": false
+    },
+    {
+      "author_name": "Chandler",
+      "author_url": "https://www.google.com/maps/contrib/114274059517622866332/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJsrxnwq_HUSoLOAOOJaNJV227G57xyW-nK93PG86E7Rxt2PdP-=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "Avocado tlayudita and their vegan tacos, specifically the hibiscus chorizo, are amazing every time. Margaritas and cocktails always delicious. Vegan horchata and homemade chips are an extra win. Blessed to have them in the neighborhood.",
+      "time": 1750652261,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "cafe",
+    "food",
+    "restaurant",
+    "point_of_interest",
+    "establishment",
+    "bar"
+  ],
+  "url": "https://maps.google.com/?cid=14797985381113345126",
+  "user_ratings_total": 342,
+  "utc_offset": -240,
+  "vicinity": "343 Franklin Ave, Brooklyn",
+  "website": "http://forallthingsgoodbk.com/"
+}

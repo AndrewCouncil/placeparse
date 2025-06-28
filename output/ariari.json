@@ -1,0 +1,454 @@
+{
+  "address_components": [
+    {
+      "long_name": "119",
+      "short_name": "119",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "1st Avenue",
+      "short_name": "1st Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10003",
+      "short_name": "10003",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "2963",
+      "short_name": "2963",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">119 1st Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10003-2963</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:30\u2009\u2013\u200911:00\u202fPM",
+      "Tuesday: 5:30\u2009\u2013\u200910:30\u202fPM",
+      "Wednesday: 5:30\u2009\u2013\u200911:00\u202fPM",
+      "Thursday: 5:30\u2009\u2013\u200911:00\u202fPM",
+      "Friday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Saturday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Sunday: 5:00\u2009\u2013\u200911:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "119 1st Ave, New York, NY 10003, USA",
+  "formatted_phone_number": "(646) 422-7466",
+  "geometry": {
+    "location": {
+      "lat": 40.7272708,
+      "lng": -73.9858313
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.72857733029149,
+        "lng": -73.98437021970848
+      },
+      "southwest": {
+        "lat": 40.7258793697085,
+        "lng": -73.9870681802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 646-422-7466",
+  "name": "ARIARI",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2300"
+        },
+        "open": {
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2300"
+        },
+        "open": {
+          "day": 1,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2230"
+        },
+        "open": {
+          "day": 2,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2300"
+        },
+        "open": {
+          "day": 3,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1730"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:30\u2009\u2013\u200911:00\u202fPM",
+      "Tuesday: 5:30\u2009\u2013\u200910:30\u202fPM",
+      "Wednesday: 5:30\u2009\u2013\u200911:00\u202fPM",
+      "Thursday: 5:30\u2009\u2013\u200911:00\u202fPM",
+      "Friday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Saturday: 5:00\u202fPM\u2009\u2013\u200912:00\u202fAM",
+      "Sunday: 5:00\u2009\u2013\u200911:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 853,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103437523252742111330\">ARIARI</a>"
+      ],
+      "photo_reference": "ATKogpcbmdNOUcd4n_JYqTybz7L6xmADnZujXuoSLk0kQBQrSuJ63XzqviniJvZI9DFq4ggeVaUxTDIn-gM_xjM3i-7pytBXMlXOggB9s30yPo2OSlbk6ROpFF1JXjVeN1d0ExPj93CjM-lPtRlXap11V97Av9zUHoRPzS0twv1e_-18VVghnNCi_SSRp4aQMC3u4PrXDH9GsjzYJoGXm8kGvmS73xkUEDc3c2uFSL15r-vm0T7MczN_zGWMD53xr6c-_UoZM5Xya2pd5RcB7ONFqYz-KIu-J426xmwtln1DJwZDcA",
+      "width": 1280
+    },
+    {
+      "height": 3199,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103437523252742111330\">ARIARI</a>"
+      ],
+      "photo_reference": "ATKogpfcy3PNr2Ek0_1wjaV34w7rWVunA3YtpudVEnCMFhey7ujS3TNaUxgQn9AJcio5CIPREnw6kh2NulnNKQ9aB8PvbqMaQa0HA9MyrcUeUcYPpDjBstKhgXO9PmC1FtNizyfjl_-ZKt8NXFRvSaG5Uod_E3r6lOfjMkkxedNQfKcwFor-dz-I4jD79xJVtrm-gZ8JiP8Oa86Ury_LB_auiLzRgiClPz0XKqU9ONmBk2nEcOq8SxdyPPAINZTH8XZLMhumMuFQ4LXcAKubpaSJOP9Pddcj_gRZ-JbFUkVgKZ_n6A",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112609633085739638293\">Emma Wong-Stephens</a>"
+      ],
+      "photo_reference": "ATKogpdqCZld-lf8zjyUf-jLGKiHx8moXRygztimXjT_UQjcIalZ3xvA3tlxLgWf4VoBgNpQ7zKPk1miPwZVdBk85FZt7WAvaYM4d5PTrhpqRTLTlncAUX54nV-7nuI0SmgYog5sF9SWG760grx6OvSxo1WNmdGl_spYIPAmBtCPYcgA9Bl0vMSBVKqyhbP6mLoDs17WgQ7ZAeqkrpBEVAbMjpPmT3GG6MCXPpJzJEFw9Oz1WrK-NgDvTnHEK4wO2vOSnoR0NG6j5d3nVm3soevqPKBPNjLQuqlvVLVel_IDBuXZYraHbsKuJPMCJY_LLjML_WAu1GVgOWbBWJxKpafpGwECzelJnUIlpOtcP-pq-EWsBUZcsexB0-5CWVErJb6Z9Jr5Rc6OpL8Q1KyfL7gAfUHF9pfqxTuISeCMiY9rOURawg",
+      "width": 3024
+    },
+    {
+      "height": 1286,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103306769466677720849\">Michael Winardi</a>"
+      ],
+      "photo_reference": "ATKogpc0CEit26I5GrVCkr9Gsa1FKOxWp-XsIiTNKc-3FJEE8CBLZ0iBz_D4zPgvd14etjSwR-Muo2nGI1Jj3eQzSu9wZ_LsxZFt3r2H9Ty1tdwTI5N7eia-bpbbhB045WCl0yAP51GLsD_AHs1GcL2dgTQX7M-J5vdlA8cRBzkkVELNFsXyNcPlKCi0PVCil0U833m4Ac_LND7l1xEj7PtGCyjeYy5Lt4cDvRLkSYxHUhN6t8tMYWpNv8XiKDZXjU4kq--5BxE3wVbH9h2QvYuiTXgjwPa9Uii1bamT3IzBqmY5V6vKhNSLVW0pQf2z49EQtHTamiHPH6f7AoH8FBol5rD9XMvVunUdgJVXWJVku8d8FXEVOMG-C8Htnyy8ORqpURD4m-oXL61VRjaFIgG9tiEL9sdutB7OXiizXP6ECM0zqtu7",
+      "width": 1284
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114746114434966868203\">Mia Huynh</a>"
+      ],
+      "photo_reference": "ATKogpddSWRxaNoseOh7mRT85LkjHOhp4yDqG-tLv192mHhzUQi-a2hdIunIeEDauNMnkkz4rats9jNXVcuMlPKRnySvTs6APMdrH7UVjF4FdUzikBA_paYgTYR0YTkOK1XFIeCiIaiqd63OqfKhaHRYa8263bhoKIljLh1JHK_OX0-qzbA6vWPAlqH3yhvZWmjDCMsZdOnLTLe-b8fRt0f2olVDIV_0tbbyvZrvFuzKFT_g7VQuQfxj_awFQqEFwqu9ijloCsbmwG29D4zfrjBtSF0_jCo5FDdkkvJ-7L1VKPaIvkpUoCDFlJISFQN2YEXTa_DYXxK--kFInYWaK5yB4D-h1p2zeGZ5W7sJ3JF42jXsPDX4X-caAHz40ZEWOK21Byo7X42xJZCIDuuSNrltrKFmCka-6kHYWdoZhx_mmtG44_d962157TAzKYCPjkOP",
+      "width": 3600
+    },
+    {
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110473895801721365400\">Catherine Shen</a>"
+      ],
+      "photo_reference": "ATKogpdgiDhC4zOwdGIpLxS7p67VvabzIMdHY1WzaVSiCq2Ge5OPrcz_XvdU3P82Blr1nVAcBZ2SQ92e57bmYcr9VH3gqY4-BZPUz7zDh9O5gGPR0zujRKWAsQwFoKKVO__D4sp-yLL8ErS5BtXNQtUjn_J8RQwwiC4L_7hfZb6OSoVjrpVwPNbKnUKM4UxkyEUfyIF9PmHkBnzS6XoOFLdaEkfZF7x_ftBymtGZ_KftEf8F3XVF5lmxbvDkGIagjfEYEDOnIaY6r-yGSQVAgBTRg8GHFPJFbXQMJcyO_aXcnZlDyqoC0jGGsZH57rGdc2_XunS3niExnnWUV98ZESfZOXt8gDIkOaNx9x00SUwJoIvhW-VisUTT676O2CDaKs3hLqv3ycfqUqe9KGrOHqjcnozEWKZY6INSyfV7-6Yr3LAnj7Nr",
+      "width": 4800
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106979555248261636292\">Fernando Graham</a>"
+      ],
+      "photo_reference": "ATKogpdSyIvLAxkv1ZmkWo_WP8VG9YG4VehtmUDdNSr3wQ1mMpeKyMNk4MK5CXv7OlMAu-ckBw8RpV65cyHonezlI2ADCLrwYMWQVuRlh55fbFWPK8tQDAGS2Oq3QiKYBFh_QFIzz8uICNGrvXXSjhH3DTzYogEV-sbl0G7OdKuQEyRUaGJi3B5lyaB-sekoVXwC8QpESa9clvTT4xaa_B8Agp7cx6gutdmrUd6R_pPLQ8Y3R7izjOUB7zl2-3WQLDNQUvjyz--lTNtW9hpfblxmlNoAOcBVNDrbJG_L6jcqAIn3khmWAhIi27mCnjVRZNvipnBrg-uKMtdwn07OVsp7XVU9I-kKF7QW8ohEzJzw1yoXvB7bv6vk46Ar-cceQ98eSdqX7CRqeCUFrkJ-t-sqKtc7UR9_BDdW9Ub8wweCTuqOXg",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101093685140215767178\">Cass Tan</a>"
+      ],
+      "photo_reference": "ATKogpdNp3kM9Pt_PMjJOqcNe7zNhQ_l65Oarv9I7c-aOHsAEwO5bbioHZn-5s331BXcRuRQ8A7zowz9b4gbQKyyCIIp-aI6CR83_hz8aLRX1sgvzTfx86J0cEvRWt0EaUv7inRt9RGQZCTyDJ-t43A6Zp71T-XBLwCWcJoH4DvdksY-1hxx5iPnuGYoHSclRLo5mT8EZBJmvmi_yI0HcyTfQJi9kxBfaP5Vn_72Z56AZbTYP8VrY86ojoQeh7sqe87r1uVzsBN78iFmODcMZZNKThQC_GPal7e7S0kukP28e8OS6cm4WQ-I4-Wv5lhqhO4mWZmFBNAtxbdVFnQdh2Hx__54GYe2h3t_IzlGUUcFfXxkwjYR_HRfouveylPYxkIsNljUjCd4pYCtCZg4I2Hli3LvFr1s43kWA0CxXcI53AMx9Q",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106933804621440495685\">Larion Santiago</a>"
+      ],
+      "photo_reference": "ATKogpfRoRX_hslpIDwRhFws16CtzbJ8EzkXmaSAXBHmR1rNc_CUhAlFd4Q9PWTjmPrIB5Dnqf9ilTIUpIFUv3rH30ZgA6UKKm1KlF-xAEK-4ck2ucBEOie3QCdBnU-VqjY5GIBc8gXkGecAbLQManbh6_lDRlkWGAUKpNlKjpiRezAlHuixpuDay1B37Z8Vr7IYt4Ept7ygvrGPw3rNax4I74a0pY8EOFGAcKFx5UV5WFZlwZ3CsT3yc4aIiTjkeziU5ypOZc_0VBwVVApr0TMHqKqZfPeie5XhZXOh_Ko7xhCyIfE_B7c-S1B_vBG5wPxPSPR4d2--iSGmfhcUGxJn7KRMUsLMqSNRvdP0fmeuVxtulEXSWKJ4cZrBcA-NnRyxPJaMXjxyeYU6ZU9HVXnyPFBevrxaqNUa9Ax__sWr0tbpRc0",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101338941809619019031\">Sue Su</a>"
+      ],
+      "photo_reference": "ATKogpdpdRBQa27MiQEVbFbAhiigzocUjsxBwnZUruGqCUJkzSOkUw7pBxDoLyFzocvLJFellAijK08m40-5624T1xIxOV0E9I6Wwuvp_u3MJmTYzGKs3KNWAKQWPKLxE01SlmUF1QAdkPOHz7Dfx4PXYFH3PH9uYfyxMPcQNT05-eNkgkn6HitClVPOjNm6xpRLAfcucddkfBbLDB_VKxHkoomAkQ1O24s2BUnIX4-fDMASgfDC0YNM2AqqJTxtpUIsUCe-7IQ9hRf_UQujfsY82DRtuwkVQnCuJpTXy_fBrSmtxoWelkUMltJ6vpgD5DxU_C8JqEr97qDwUaDFnQIaAPhmIzmgYrPLYaZsJ3b79HORnX8YWt4-LdVK0n6HNRAFpC4uPIpXE5t49aTGmWpmHUVqRPOos70eAEGDhYxFgH1JJRec",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJhUDJFUVZwokRkNERZsyOxWo",
+  "plus_code": {
+    "compound_code": "P2G7+WM New York, NY, USA",
+    "global_code": "87G8P2G7+WM"
+  },
+  "price_level": 2,
+  "rating": 4.6,
+  "reference": "ChIJhUDJFUVZwokRkNERZsyOxWo",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Alex Ho",
+      "author_url": "https://www.google.com/maps/contrib/113328403281398071776/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXN8gaGtA3ePlBSIhraPNzQgVj25Q8jFTC7RMdDgZQ2qUZVvbbJ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "My wife and I had had a great dinner at ARIARI. This was not our first time there but it\u2019s pleasant to see that quality in food and service has not waned. Waitstaff were warm and welcoming, topping off the complimentary kimchi appetizer often and refilling our water. The food itself has always been very tasty and we were able to try a few new things on the menu this time. Usually the review is just about the food, but their service created an exceptional dining experience that I don\u2019t feel too often these days when at other restaurants anywhere.",
+      "time": 1750452212,
+      "translated": false
+    },
+    {
+      "author_name": "Oscar Rivera",
+      "author_url": "https://www.google.com/maps/contrib/117461385915857948449/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocI3gsyvHLFoy1VjArW_56F6zHBKXV3P2QgsB9n88-1bbTMjKQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Went to dinner with my Korean wife and she enjoyed every bite. We started with the mak-hwe, highly recommend!! It\u2019s really fresh and all the sides complimented the fish very well. We also got a fried soft shell crab, if you like soft shell crab, this is a must!! We also got their signiture dol sot albap, there\u2019s a fun table side mixing going on- MUST ORDER! Ended with their spicy fish stew and I will come back just for this dish!!",
+      "time": 1747105120,
+      "translated": false
+    },
+    {
+      "author_name": "Dacil Chavez",
+      "author_url": "https://www.google.com/maps/contrib/114085192319366823718/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLGD6Idg6RW5ntROTfCnYpEpiFJbQfnxkdShNpxVL4dlT-r6Q=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "Great experience dinning at this restaurant! I had it on my list since I visited NY in August, we finally got to eat here. Flavourful, warm and comfort Korean food with a delicate touch. Every dish was perfect and I can\u2019t describe it with words! You got to eat there! Service was superb and the atmosphere of this vibrant place is amazing! I would recommend to make a reservation.",
+      "time": 1737923324,
+      "translated": false
+    },
+    {
+      "author_name": "Emily Ho",
+      "author_url": "https://www.google.com/maps/contrib/103328755054131048022/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJFB-_5UqcnvoOs1WmaOPV-MQa01PZoSAkoJP7yPzs4KAghn-o=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "3.5 Stars but closer to 4 since quality is there.\n\nGot to try this place with my friends this past week on a Wednesday night. We made reservations for 4 and were all pretty exited!\n\nThe restaurant has cute cozy casual vibe, like you are ready to drink.\n\nThe service was great. The server was personable and recommended we get 2 items per person to share since most of the items are on the smaller side.\n\nWe ordered\n- DIY scallop Gimbap\n- Dolsot Bibimbap\n- Seafood pancake\n- Seafood japchae\n- Pork Shoulder Steak\n- Omijaa Bingsoo\n- Corn Cr\u00e8me br\u00fbl\u00e9e\n- Red rice maekoli\n\nThe food all looked good although I didn't take many pictures, but there is plenty online.\n\nHonestly I don't remember a lot about the food. It was good and tasty!To be fair, I was paying more attention to the friends I was meeting ( first time meeting them) than the food. With that said, the few things that did standout was their free kimchi and scallop gimbap. I also enjoyed the pork shoulder, seafood pancake, and little octopus inside the japchae. But flavor wise nothing to memorable except the kimchi.\n\nThe deserts were underwhelming unfortunately, especially the bingsoo.\n\nThe red rice maekoli was interesting however for 30 dollars we each got 4 small cups. It just didn't feel worth the experience.\n\nmy friends didn't seem very satisfied with the food, it's likely their expectations of Korean food is very different than mine. However one thing I agree with is that the portions are very small and the price is could dollars too much.\n\nWe did get free Korean coffee latte powder and scratch offs tho which was fun!\n\nOverall it delivers solid food and specialty seafood style Korean food from Busan. It's a good experience if you love seafood. Portions are like small tapas and drinks are pricy too. I think it's great prob if you like to try something new and seafood.",
+      "time": 1742601359,
+      "translated": false
+    },
+    {
+      "author_name": "KK",
+      "author_url": "https://www.google.com/maps/contrib/106019870827270154858/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVclShxyJMBYMdCs4QJoHlMzfMbNUyruWe_I18iW6fJ7_2MDqVw=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "3 months ago",
+      "text": "Most of the dishes we had were very tasty. Especially the beef short rib soup, it looked ordinary but tastes so fresh and rich.\nThe fried eel was so so. It\u2019s crispy but a bit greasy.\nOverall it\u2019s a bit pricy considering the portion and the ingredients. However, the dishes are special and creative.\nThey don\u2019t allow to bring any food, like birthday cake, and they don\u2019t have many dessert choices either. Shame\u2026\nService was quite good.",
+      "time": 1742445518,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "point_of_interest",
+    "restaurant",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=7693712546969276816",
+  "user_ratings_total": 445,
+  "utc_offset": -240,
+  "vicinity": "119 1st Ave, New York",
+  "website": "https://ariarinyc.com/",
+  "wheelchair_accessible_entrance": true
+}

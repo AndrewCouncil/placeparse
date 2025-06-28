@@ -1,0 +1,450 @@
+{
+  "address_components": [
+    {
+      "long_name": "190",
+      "short_name": "190",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Bleecker Street",
+      "short_name": "Bleecker St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "10012",
+      "short_name": "10012",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "1433",
+      "short_name": "1433",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">190 Bleecker St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10012-1433</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1230"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 12:30\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 12:30\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "190 Bleecker St, New York, NY 10012, USA",
+  "formatted_phone_number": "(646) 869-8888",
+  "geometry": {
+    "location": {
+      "lat": 40.7291004,
+      "lng": -74.0015009
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7305298802915,
+        "lng": -74.0000833197085
+      },
+      "southwest": {
+        "lat": 40.7278319197085,
+        "lng": -74.0027812802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 646-869-8888",
+  "name": "Cauldron Chicken",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1230"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 12:30\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 12:30\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112097179099056187750\">yangyang\u7518</a>"
+      ],
+      "photo_reference": "ATKogpeJMFBD4XLiwwAM-NHncRy317S22cIk9LFX8nXl7XTpdT0_2ffazZ5jZkny0TMvCG3uilHCWhU7g8kBGVV7k0UYKL6vr-Bv4qoN0mNgzzcyAqAAnhCZeBXa7zqsxFXze53eYehW4EOvSxN9KPU8SCTSUKF6Hf1iCJnphp8Fl7siwKoCExQ0FISrx3zysSzFEMk2ADdta5atXM1Qfyq9cNfSSLuVe9wOfZADVfFDTWxjeT9WqQmr_87r7gRZZVkaUdej6VfF-7pTcviGxZT5agivM0jKgjDtHUrR_fCdkWgXYy7p1L8BGzmuP_sEsWuHIuQrQ1BF_hY3x-OhnUfWRYA3ETWLHI8-DGahETQM-AM-ohmxLe2jWH74-Zd0uUUuG0aSz9M6CMunaYciOcSoRNah5yzC3uZtcaT2XypB5aJSvg",
+      "width": 3024
+    },
+    {
+      "height": 855,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106306943838992964466\">Cauldron Chicken Restaurant</a>"
+      ],
+      "photo_reference": "ATKogpdxyf6vMIdlUc-MsWVTizbiRGjBKZmQK7SxkTg1FBnF5L6uyr7xn_UWEpNR-r4WsgtIvdyWGr_nM2jzUxakQGBA7BWF2GULwGl92mbEQvdiGy5Bk_CDF3LK29ARRUy_CZLSsQerEHhA8cAKRt2WfmfJqqIzwSxgXaxJs0QIVOc9BD4SU6hkJ8cKX_r9V4xGtyLwuV1vIoNd2z-OxkqB5vx_k0b1fKjHOJ5PdIVHg-s6AgtPmySlLzzbHcEdPGJnUJcaRxV0PGghcwiva4sq3rKASvLcYd3PocL7V4OuGUwxXw",
+      "width": 1284
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107055867758746530691\">Thehungryboo</a>"
+      ],
+      "photo_reference": "ATKogpemWnYrg8uy9knmrRJSOUGev_JShRAZ_LNSiRD9FGpDDPXutFPd8zwNbjN1VabUBYs71MLdWoOB9nK3jY5Q4FkN2cNxkh2fLkgIzHhuIbaIBObwxoEPszvoXUox1OBzl0o_JD36ZCvmvqeU-GmOpms1MCrSbRRLjrthMwFDXEKJbjuF0n3DhjjhIZ7x0Oo5yBHxLtp6EXsWEQ5HGbbD3WCDemWcA9BIRNVvJ-BqQGm6V_gyqv9pPDdk1zTD5lIY6gwfTBCYgMw5-MClIlq993LwtpnoxKkqt_Nhuwdj3S-JlmMSXP2Hg5aAPYPWfKPX46xpTWa9XjUB6_QXWnuGnNLxFjkrs_IvkS3J36d8MpmuUqX0yluPS6drTJMp_25iMFSdPY5rt20wiFA6n1tSNNhxvoN-G0zw-rK_verw6-3xVDg2",
+      "width": 4800
+    },
+    {
+      "height": 855,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106306943838992964466\">Cauldron Chicken Restaurant</a>"
+      ],
+      "photo_reference": "ATKogpfI4-AcVEcA67U5SQQNM2jbQ0AWBpsAi5IgbAWsPBn0K5q-_qBLlB7M1BeCnpI3NiHC7mMz14GO5en1ZsLz3BEzbW34aZEHogIZu2bWj1QTvIfChbXbDtrHds1atOeJsk7yNLIpjC9dFdPmYSFC9qcqXP5Rmc-ICoDehSepyT2eXNeU1yQTsPKgitgePoESFGdgCNrHJo7ZwVetvJFROwU-mknL1Au9p3vXhmVcadx8HLJBgQakVHMdAVzqg34eLpTwn5e9EiZzwhXoz2BXmg_u6q5GMvxZoiuzHW4SkUgd4A",
+      "width": 1284
+    },
+    {
+      "height": 600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106306943838992964466\">Cauldron Chicken Restaurant</a>"
+      ],
+      "photo_reference": "ATKogpfEFf1YDR_ukPq-X048L7T4nWcMwDO7pGI70jCrgiw4bZUxbk83o88L2p1sD-PP16H3qiO028xzPEtgN6PDwqdcOUt5rTjsOh3pCSgZQyEUsN1VTore34PEp8_XmIrzqbO2DA-Ss62vnm4fiAHsMud0cItZZ80b4oAeyLYBkwMQ4Ih5z-kgXKfccxZkZsgDAP5VgpZTNFZaIJBAes53ed6gPqNEza3n8Er0hyTGQ8GSKqr3yRejEcBEfHkv-C7XbkCez_PjOSudvnzaZjrUh6gsK80QOm1CiTx0VRXSN4g5jQ",
+      "width": 800
+    },
+    {
+      "height": 855,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106306943838992964466\">Cauldron Chicken Restaurant</a>"
+      ],
+      "photo_reference": "ATKogpeXC9I2RDuKZaVFBYiaIQKECvDPm30MuVu64qBb2Bj_kz4syDG2RxK540lv_pcTanb1B9-E5iCK_06L0NbTzTyZhoiz-bj-e4Qb9gBJ_Bpgh9JjoibUInXILYzUey8T3f23w55DWPsda5zZalppPx0XQYUhgDVaiHk5KthMrclaMV5NYlMKxZQ8vXcXnKjJ-FLqhWd1jWDbUu40DsT5_Ei3hKbW-XWuyB-KqSEzfDGuP3ewzHuFeBqS-3l5DSRe4OpjZ9MbxVTog1Wj3SAfZFwVJOlY9Qb5e7Zap7l-Fxm6kQ",
+      "width": 1284
+    },
+    {
+      "height": 855,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106306943838992964466\">Cauldron Chicken Restaurant</a>"
+      ],
+      "photo_reference": "ATKogpddd_4tvc-5pWAMUcSewWMm0u7bkcxQeLnnlREmL9goDJWrSv02i-QguH8B2E3WApJLckA12T-hUFYjJyWceMMlOUlTJiaTbH5AfnAjnu2WvhQgTmVfkjtgNncsxoGI-7OIycOFcfYkPtWKXG8bUhZ2QYpivDXFSdHVOETFgR3rGMDm-TatDdvh2hPHsxIBlWfY_pxN5IKV2mf1Vbl0DRT3ZXISASCjN48VVlbtP3VECmU0Kn4xXBlfaxACFnOlzLONp8CudJwBJPFDQ_a5FKmNgKRgyLoMu_ZcqTBuvdLt-w",
+      "width": 1284
+    },
+    {
+      "height": 1026,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106306943838992964466\">Cauldron Chicken Restaurant</a>"
+      ],
+      "photo_reference": "ATKogpellKjd0_Z8gqYQ9rGpfIrawlzJfvm_kDVODHBKWlmLXeSCLmR62sfXTWkiLgCJ4cbassccbcRjzkZhGLEKA0lPstSNxK6l1Sg7FRkY_4NtlAU_Ysk97Y5HZJ7n56KyGi7vUpZerpkxjIn_05GG3n_C5-dKuIz5WlFIIuScgiJL5VeDeOTWxRx0rj0tlbgiLgDDUPRNYA_2SlTucYUEXnei3IMcIZAYyxDFaPjxj0FxX4Vuhq59FC2l1eK1Jq7H4kGhL9WTZ027djjP9h3UGD5iLD0YuVVEK-F8DIQRYP5rbw",
+      "width": 977
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107055867758746530691\">Thehungryboo</a>"
+      ],
+      "photo_reference": "ATKogpd4Aoa0kojwAxYtrIUz5Jrjd2lLBk0gHmN3Y5ocnS8o4QMWGmh0GSxgMhJG94bCAUN7_CwOUfRDOQ_QsTZKCzhWNEdP3le9YAj-LHxa5Qj4lULKwb4_Ab5_larVU0nGmQ2AwMKwc47iLBSDgvUXwPsOhz-ott6xcZTFPZEWeoR3l_wOLhlF0JVxb3E_S2R9t0rxcU8K8-VDoqV6MmDzP6ubzQdiE6AcMhagNbTwWN4tdUmQ3LPQQHKFFaKRC8NZSTeodbOZ4YtKsklFhTzPZUq-G9Poe_ZxOUUjZVGeHwu84biZs7JaQ-idnl_nZgGgrGRhKdfmWCQNbuN0oH57CALG4xIi2wWSp9Fojo9QN2rYOeSF24tgreCh8haIe-LROyBmGRFmcn6Svq-xoVjjNh84i9MYr91VfmaImPPZFltE7w",
+      "width": 3814
+    },
+    {
+      "height": 855,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106306943838992964466\">Cauldron Chicken Restaurant</a>"
+      ],
+      "photo_reference": "ATKogpcEG9YrLHr-Ne5KgpOdB9YpOrMZQFclZJ4TwYefeOZLLWxQyRUh6Nj048ZJLuh16d3_MG4wK9bdrch8H-H8aIPM1RtmBCmAivax8BEXSEUVyzzEvFHmzQrkmSwsGwYEJVxpoDZEhYD6UwWk5WHXV-_HILwwIV2uDnMM3_QAL_BWGgm3p26v2i5z81kUgh3O0UZwG4rsbRGgWw5wkwmu6EKW201yR32suzL52IMuUTHdWyBrNhaPDj-E8aQjodQDpLD2Q391BEFRBczqXyz5QnYbYJpbpU-bCFXz6USMo4FCEQ",
+      "width": 1284
+    }
+  ],
+  "place_id": "ChIJiaRkEmtZwokRnUTrANZtOyE",
+  "plus_code": {
+    "compound_code": "PXHX+J9 New York, NY, USA",
+    "global_code": "87G7PXHX+J9"
+  },
+  "price_level": 1,
+  "rating": 4.6,
+  "reference": "ChIJiaRkEmtZwokRnUTrANZtOyE",
+  "reviews": [
+    {
+      "author_name": "Heather Reese",
+      "author_url": "https://www.google.com/maps/contrib/107722238361329142947/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVOb433vjF0RI5L3PW0HdFZ8-nlOvRaCGa74z7Px3NJ5aKLRz4ETg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "This place is so good. I\u2019m surprised the ratings aren\u2019t higher. Chicken is so so bomb. Fave was the dark meat combo. Super tender and juicy and the perfect amount of spice while not feeling greasy or heavy at all. Think it\u2019s fried first and then steamed. Cucumber salad and steamed rice are the perfect sides. So delicious and amazing staff. I\u2019ll for sure be back. \ud83e\udd70",
+      "time": 1736884214,
+      "translated": false
+    },
+    {
+      "author_name": "the bb",
+      "author_url": "https://www.google.com/maps/contrib/106373354159261409961/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJPdvJxcLJv6pBVi3A8j10VfYtgiwkWDG7XEvKWxvLp612oefJM=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Delicious and juicy chicken at reasonable prices. You eat the chicken with your hands with gloves so I might not go there on a date, but it\u2019s great with friends. It\u2019s very small and there\u2019s not many tables. Not sure if they take reservations.",
+      "time": 1748484760,
+      "translated": false
+    },
+    {
+      "author_name": "Amelia Anggraini B",
+      "author_url": "https://www.google.com/maps/contrib/113132042945940881905/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIf5voQODepNwnKYD_8rmKpH1c0Q4jUDfjBHhM42dkZttbyuQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "4 months ago",
+      "text": "We had the combo set with two sides. The chicken was tender and fall off the bones, best paired with the spicy seasoning.",
+      "time": 1738384735,
+      "translated": false
+    },
+    {
+      "author_name": "Sanat Sharma",
+      "author_url": "https://www.google.com/maps/contrib/106972758832729552751/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW2kms88ZwkED-Gr5ftfogRpq-hY-3ZJz83Aub3x9Ns773UiXU0=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "The most juicy chicken I've ever had. I have no clue how they prepared this chicken to be this moist, but I pray they someday create a cookbook.\n\nThe scallion pancakes were great as well. The fried rice was too oily and mediocre.",
+      "time": 1737433186,
+      "translated": false
+    },
+    {
+      "author_name": "ml",
+      "author_url": "https://www.google.com/maps/contrib/116047304571460178572/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVcOnuvKzlFMHaJsAfC_YliPb_vULF-pBM6EiTFhJ6kt0L5nUut=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "Fantastic roasted chicken Chinese style. Loved their chicken feet and wings! Will try the chicken next time. Delicious!",
+      "time": 1735697611,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "food",
+    "restaurant",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=2394628392783398045",
+  "user_ratings_total": 194,
+  "utc_offset": -240,
+  "vicinity": "190 Bleecker St, New York"
+}

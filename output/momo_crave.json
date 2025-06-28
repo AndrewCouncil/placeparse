@@ -1,0 +1,429 @@
+{
+  "address_components": [
+    {
+      "long_name": "38-07",
+      "short_name": "38-07",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "69th Street",
+      "short_name": "69th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Woodside",
+      "short_name": "Woodside",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality_level_1",
+        "political",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11377",
+      "short_name": "11377",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">38-07 69th St</span>, <span class=\"locality\">Woodside</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11377</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2145"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2145"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: Closed",
+      "Wednesday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u20099:45\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u20099:45\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Funky little white-walled cafe with a modern vibe offering Nepalese comfort food at the counter."
+  },
+  "formatted_address": "38-07 69th St, Woodside, NY 11377, USA",
+  "formatted_phone_number": "(718) 255-1714",
+  "geometry": {
+    "location": {
+      "lat": 40.7468558,
+      "lng": -73.8962592
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7482173302915,
+        "lng": -73.8949899197085
+      },
+      "southwest": {
+        "lat": 40.7455193697085,
+        "lng": -73.8976878802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-255-1714",
+  "name": "Momo Crave",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2145"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2145"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: Closed",
+      "Wednesday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u20099:45\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u20099:45\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4399,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110971579320756511150\">Momo Crave</a>"
+      ],
+      "photo_reference": "ATKogpeKNM-y094OKpCuZlmlcD2ahsX27qE9cg52o6tGDk75yA4XPia2GsflY_k8lm82TiDEpuOLF8BC6gvNlZjTkEfMB4mGwY2BI0wYHEcJhvxAOXollsY-kM-1LQdg-ozB6MqSlXu658Olz7S4n_16k8MQ3W4lAd4ceKhzRan8ntFoWlZkhTI5bBMgQnJ86PRd1DeaKxeDTDqC34lY5NZrY9QOKSW69Qd4SfHImh3hPxSHGiWKCtV9cZkGQbcU1K9yDlvUMJm9uiXDU6V-PHhsb-_Po2rTsKFfCR66zOC4NtazqQ",
+      "width": 4284
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110971579320756511150\">Momo Crave</a>"
+      ],
+      "photo_reference": "ATKogpfFcXBjW0hO9QCdmjy3XvkicJ_GUgAaUjOgPVdGPEE1vmPYswkAVPYiqp_sCuTbU-fXIydhxR6mOi7QdH_dB1UU_f9x6nIPCYJLN5gJNFpCIGG8Qq227xV-e24-XM8aGwLhuHSAwNB5ib_PyNJFs4uKVEjQPKYjPi0S2YJ1XXZFM5OVp-9hozZMRP33fOU0tFw8B8Xe6PwxmlEos5Jaslri70VDKtlnw5hrnHaX3f3S_dFrw_BtsfuebnpyGI70JzitJzh8_gcYRr9b2oc1Vi5-YAFWbCiybpn28vqTxRqV1g",
+      "width": 4800
+    },
+    {
+      "height": 2814,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101456712492508454281\">Iqra Ali</a>"
+      ],
+      "photo_reference": "ATKogpeDxkk98pj87igH9hfn5G5X-ZNh58NL_e1KJPDckveoGrAwLGocO8zqxX1DpS8Xv5wJH1eIdQt3JW-XmzqEb0sKa8uE6s9d9M3ICXU7LR1NMg5wXdF9qE5uymOZHNWBBdreMdlvV0Fz8rzMr3c-JmpvDZVtf8usa5w0zJ5t6X3Gaiejg0Nv5Hv81xl3nik1IrTX25tb2C5ltGDwLsZ3LRX_9mkHKkEVsHzLh1_F4w5SRaN1vNKBc9FQmuM8NUe-32brS6-wzA-qF9ULh_w9f_K1xG3ePqthwzgZtjzmjhyMxvOv5952ucCQbk2Nh7wd_3Sg7wietOZ321S2_BCcBp7BveaJ0GlpSUvE2I5RCBWivq2h8_BH2Mit53s_DCzBHsLxumo4jOk6Vm3Ex0Cv2i0jgVbQMI9Ms_jhHbrQroN25Xtw",
+      "width": 2252
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105204510402334139223\">Salman Iftikhar</a>"
+      ],
+      "photo_reference": "ATKogpfxu2wvUpvrQ0DgsVaft025EURf0PJ2r-ETY5pxXusIVcx8GCWpZSjbQ6qZ3T0Q97293vTdn6KvOD5q0PmSkZl-2567WPubdpdSqR6ju2EYqSWskzYhtsUyHum0_c5NUXaPyRzBbwpcJRoNNn2YEMkuqhvWgNglLOKuSK-VoxK-hBxjViW5Leajj7R_nfuMk9qowGhGo_Pyxgc1rOVvaI2BfLLn4HrIzC1LVGk55aNLTG0MItiXUXrQO0pCh38CZ-iliBvwtL1vHXWvWLhdEqc3TJpSZAznZ3AxgvFkZqkgq1mSFqto9j4iWy8ZhSwkUVD1tv90I6rUPs5-LJ6Xcx-yIWy1xT-YJqrfyDppkLxADudcThFsosq0XAJJoyJhWpaApKNUWpv6lRcezltDhH3Odgt_DtzadKTDD3yST_HB4huz",
+      "width": 4032
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115739457561329175788\">Junsu Park</a>"
+      ],
+      "photo_reference": "ATKogpfgZuwefDgncigHfoc2PSBUtIlX1ZC8Ijx2krfpWVP6waaVVj6ao_eIB9dJF2X3TQVqxDAIDISn3-753PzEdGEFGHrYXaVsh2q8mtqxRdjtvy2Wdt_4cAdoWfNl_-zi8UXgil0u5Nc0bRT-kpbotak2EoXUZLL5sYhRZvOLYRiumqcUAUPjQ_K6Z419MiSYPhH_QI2Q91wI-VzFMebXV02-tuzbZAr5xVBVK7CTZJuh5mecN2d4003iMPn3UY7b6qVEQkNG7RC1roKwPcY6Z42Hg-09QwC0On6U9fk_rKdC1epEOfsMaHre7VqmXt2j-iGXS7ZWFJQaFTXzgzHbD6LIdq08c6Fbw1cmcJR1TU8kHi0qCe8R5jB3RPb7KtFUYq66FsIAMlfPve5R3k-63HuhWUrEB51PiwoXvkjkBxsHYwfO2sMNTNbo2QrwVA",
+      "width": 4000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100338686146090888413\">K K</a>"
+      ],
+      "photo_reference": "ATKogpdi9yASwv8qNkj--EaD8ONsFbZzmHTJwj0GsXW1wKyAC2MjPdjZWtKY33Jw9jw2Qdp6RK2YPAixbjnKRG-RHrY0ey77QTaRyhzVpe2EdDLClE0G3BYCXpZ9K18GGRHQK8-Ca18XTUg-tJZE6jzKtjN6VZ4Hcb6s4DDqh8BrbFV1IdNTfCBuUswE94bABYMPpCPnB8mvpZsPHa7jUfgCeksEmjY0gxSqOc0VIz3_haEuF3x8NgCSoYAV-G2pixQShlHoIDUmJpAN_u6z0dkaU0A9epXNB5kS2z-AL2AvS0CnrLgL_5px3Z2LbPnb4-8uzQHw3E9MSCV9eaXWGkLlod304wQVhXaCCuHIM3B8-zsJkzDL7ohYY8N42XJTwdFquC9g18pzt7TiDfemoppOre8OUNVoIscxog5Db1nnzTu0zyXJ",
+      "width": 3024
+    },
+    {
+      "height": 1053,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110971579320756511150\">Momo Crave</a>"
+      ],
+      "photo_reference": "ATKogpcdGzCduPEZZqpDy-jBlABfPKWsm5LjrV9OvG5cF3Du7Lj4Udh-hpiXTdVRi9628JjcJexy8ybH1iiQYblq-c3GKvBvfkqtUYazXFrz7MN6Z809D54F0N5rMy-MRjHs-XhTUttjRgBX0gAbzVtlJq--03KFjZI6MtKPJo07XIL00yDEGwLrzc3PEsw8uvJYg3UFKTxidDNxDq9UEMZpQnrqrCgQNoBsadwwR4y_UQpYlfANyOJbUjAwkdorw724vYVNOacHSSFV7aW1AScnKLnhv1y7vAqaUizVM4vlb4_nFg",
+      "width": 1440
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101902898307766850459\">Jan Rahman</a>"
+      ],
+      "photo_reference": "ATKogpdxozp43Mys7kSze1IPDkYYUZclKBlMJNOCORPKkAjCf5LHfPZhs8m-QTuqNZum5O8mGfDQNZRdiDIr7-h9Dniza_QWfrtK8splse8aWjs_SjKb6ENfl8_E6IeQlRRDjTH4_RoE1MeHwaGGnEchsQxd9JOGQbH4BVUk1AmmR7kujY9YYx-4xeCrN3Ua7nstAi4-osMQC1aL2qKVrHJGIAnzCTvpklMJSh0SeaMTUTXMXmubN9g3bN2Xn_g_MwB1L6vXySSAKX8p9nYv9ybAVrGDgwyHHHF6snQUfhux6iYYFxDYIxhG1xNJA3IM4E6qbc2Pnq7kItGsFgraQ-mjyO1Re64-LuKvQCMg6L-mG-KUcGTnnLTKKu8cmAx4OhjsytjNiyuBiJLIIQxQ-3p2wjKxUe_hw7R_-s8YEoRHwh7Bj_LV",
+      "width": 3024
+    },
+    {
+      "height": 4690,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110971579320756511150\">Momo Crave</a>"
+      ],
+      "photo_reference": "ATKogpcTYccTMlPeqP-Nb4sd9V7PoDf3F-xLju1b08omxfKeE-TNP-KCzjmFcPUNcIkzOnG_sRZdUhocbaKnUnIouK5xnOHXG7Nbq84y0cLyfJnbT8eixGdPhu_fvwkC2oEHVHvR5WRSlhfZhusIsWVJeHljc5rmsF8G9WP_9QJ0Vf9Pzhao3yM2dhJLjST1NNO3-Vad6udl73GWYfqolIHQxCQswfxmS0rDmewWyal0Ido_Y9H6bEuXK8JdyAXKhL_Renhn-IevpbDUe-Io0h5gjOKropVxQz3_NDNtqrJ-QSjHaQ",
+      "width": 4051
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105204510402334139223\">Salman Iftikhar</a>"
+      ],
+      "photo_reference": "ATKogpcbgxM_H8G1aEF3m91-2c0ilJxEf1G7KNbqE7KMTqTO6PaI8GzvdRjxTR085kfuTfK6z2kf7RUoifgGOzARQoMs7G8LifYMest2kvO49nE7iDnNmLAsPcPv217WXYRecAr8LdftuoRvDZt5W1cuUZiDqfFpWh6iuk9RIImG9RZJ66Cbt-Kb3MgeI4fqyCQMIRw_CuG8gnyslKKONnQumpIyx_fnhEyNvuTLjNfvUY7V8s-jvEAFQRI65ggWJMUn40slKCoMjfH0xji30fZcR7be68vgOsdlv4y2nipWNEyKXx6rRMqYwUO5l16hbjl3G8lXIvtQbc74fn5lBoPoCTtAHP48o2zGIlnsno9NJUF1tMoMFEpDiboq3aIGxrBKxQRWVU3kz_2dfVYU3O_8hBCiBnxwXCdQ_1UafQKnDRDPmw",
+      "width": 3781
+    }
+  ],
+  "place_id": "ChIJPfcKgMVfwokR1iMtONhsfKM",
+  "plus_code": {
+    "compound_code": "P4W3+PF Woodside, Queens, NY, USA",
+    "global_code": "87G8P4W3+PF"
+  },
+  "price_level": 2,
+  "rating": 4.5,
+  "reference": "ChIJPfcKgMVfwokR1iMtONhsfKM",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "N Nuha",
+      "author_url": "https://www.google.com/maps/contrib/100609761745339718406/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUswwrVRPNDsO6RAEA1DkkER8irxepcUtZaWQ4Miw7oFrBp1_M=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "I come here very often and for a few years now. All the momos here are packed with flavor. They're all good. The spicy sauces can give a kick. My favorite is the chili momo. They added a new soup- the Thai soup momo and it's Thai coconut with the steamed momo. Tased very good as well. The artwork around the shop is fun and creative. Definitely look around. I felt like the portions have gotten smaller since it took more Momos to make me full and the flavor has been adjusted somewhat. Hope it doesn't stray too far from what made this place great",
+      "time": 1746890626,
+      "translated": false
+    },
+    {
+      "author_name": "Arth Shah",
+      "author_url": "https://www.google.com/maps/contrib/117856703918252735738/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUPd5puG2H5VUUXldoJtP5wO9UlKvcCZUNNkQgnT40xeIXep2czwg=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "We were craving some Momo's. Looked around for some places, and Momo crave came up. Decided to give it a try. The momo's were delicious. Most of the time, at other places, the momo are overloaded with ginger. Momo craved, momo tasted delicious. We got tandoori mom which had good smokiness. We also got chili momo, which was good and spicy.\nThey have plenty of vegetarian options. We would visit again to try different momo.",
+      "time": 1748786323,
+      "translated": false
+    },
+    {
+      "author_name": "Satsheel Redkar",
+      "author_url": "https://www.google.com/maps/contrib/101049779505591086820/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVO00cVdwJXnfSoJkoD-IopMFgff69oIRnQnmztyEMoNZxrBusnsg=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "2 months ago",
+      "text": "Decent food but not the best momos in town.\n\nThe jhol was too tangy and peanuty and Cold!\nThe chowmein was great.\nThe tandoor momos were decent.\nThe chicken chilli had an aftertaste of chicken.",
+      "time": 1743962206,
+      "translated": false
+    },
+    {
+      "author_name": "Babneet Kaur",
+      "author_url": "https://www.google.com/maps/contrib/108773492461778996512/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLDVzCSIQddgQHuNdGft2okehlbKn6gdqdxW0wAjRK6p7U34BDv=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "2 months ago",
+      "text": "This place was good. We ordered Chicken Tandoori Momos and a Chicken Kathi Roll. The momos were tasty, but the kathi roll was just okay\u2014the bread wasn\u2019t cooked properly. If the bread was crispier, it would have tasted much better.",
+      "time": 1744600354,
+      "translated": false
+    },
+    {
+      "author_name": "Andreas V",
+      "author_url": "https://www.google.com/maps/contrib/108308364672282518845/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVUBYotdE4jdCYyC4BLUrCy6miFQhiDArruFg-c97qHJHFEle_Z=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "This is simply one of the best restaurants in all of NYC!\n\nThe momos are incredible, the service is fast and friendly.\n\nSince they expanded to the neighboring space there is also more space to sit down.\n\nWe regularly come here even though it takes a while to get there, it is always so worth it.",
+      "time": 1744674507,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_brunch": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "establishment",
+    "restaurant",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=11780410401205593046",
+  "user_ratings_total": 810,
+  "utc_offset": -240,
+  "vicinity": "38-07 69th St, Woodside",
+  "website": "https://momocrave.com/",
+  "wheelchair_accessible_entrance": true
+}

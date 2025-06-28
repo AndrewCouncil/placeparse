@@ -1,0 +1,452 @@
+{
+  "address_components": [
+    {
+      "long_name": "119",
+      "short_name": "119",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Baxter Street",
+      "short_name": "Baxter St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10013",
+      "short_name": "10013",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "3621",
+      "short_name": "3621",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">119 Baxter St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10013-3621</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "A Japanese ice cream shop serving inventive flavors in a fish-shaped waffle cone."
+  },
+  "formatted_address": "119 Baxter St, New York, NY 10013, USA",
+  "formatted_phone_number": "(212) 966-2882",
+  "geometry": {
+    "location": {
+      "lat": 40.7179112,
+      "lng": -73.99886529999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.71929848029149,
+        "lng": -73.99760931970849
+      },
+      "southwest": {
+        "lat": 40.71660051970849,
+        "lng": -74.00030728029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-966-2882",
+  "name": "Taiyaki NYC Japanese Ice Cream",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2230"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2230"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:30\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107825982753740326966\">Andrew Brandon</a>"
+      ],
+      "photo_reference": "ATKogpdeF5hboc7oS8eQ18G2inIHciQ9dYQneOnhKX5li85OI8bajjCiEt3lUt-y0sOQTbpPvyZFaCdWFEvufJlkStp7s0Fe1tazTGcIt6Pc6mXNIKmLqvAkht4KmEuCL-jGVWDRo0Rr5zcu4vOEV2eB56GUdbQWrvotrciBwF8Ucu6Wt2yOQanlgIyJ2jgvIPBqL1cDaPnKvd_iS9wz53H1QxjaxceSzZ13c_IOuEMHrT241D6kaWWnYzLRjILnNynJrG1ZQp9ilTfX8KfHZSU3U_sSVkuDhZEb7VFdqmccOBZno762PpJU2NjiJs0XAfZFwDW5RS4L5WXBdnUg2n-GI1jD2tu8yopFbCSu0RI9G4DwknZzasOMNSicAgZ0YK_v76wnVxNaHG3j8ey_b8n2QsicHQGNC26tdRS_NlZcpGy5hA",
+      "width": 3072
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109856527252514444727\">Taiyaki NYC Japanese Ice Cream</a>"
+      ],
+      "photo_reference": "ATKogpcKvnwT-Xg6R0eV2SiudKGlfPeeFQ5wCk1vVC8lzYZlzXwfu9bcIAhtxEliM59TEJF3SXN0CJkrwmV9ytsAxOpWBPTV3zMoZOsV701IvOkWnE_N8_5tN5Jz3JlX8GRmbn49FEa3G3pUJpmkPQq_Lnwk9fTLYilZLIyNtBknyD4xOWUzgBfw0LGMDdyW92PelNChAKqhirTc6TIwaHoy-fGWyT8QSZ_ECN7PdGnzEVXb7XY8I-V_VNJW63iL8gP8l5sqIDV72ak5-lYmlJV-aQNfB9Ymtbw3cg1Cf1mlcWBeyg",
+      "width": 4800
+    },
+    {
+      "height": 1038,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109856527252514444727\">Taiyaki NYC Japanese Ice Cream</a>"
+      ],
+      "photo_reference": "ATKogpfYc5cRI8yngwuqf89EAJhndQkiqEKgpZS54SiXFaIwgZAsGOcjmTktq59KtSu2TH8QntclgZB6ou7n5NlYcTlOByb7g6mhhQgRBSLwbNPZr9XFKv7FlJJ6hJrrloc949umXatvGkaSS1IfyncEn5aY8nNZmTS2zKQgyUF_shUh9YII1L31okhlKxwj9_iBfT1nw6MyDfziUO7EIRvvVlUcUNtGbrWsIFhPU9Jg1OIC7qmagm7aq8JAD6ebBsVLaU0AY1aqC6M-ycWbIXCJrM5lEbJh_iYyjlDMP2oc8hxNJQ",
+      "width": 1843
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116213751472108046941\">James Oh</a>"
+      ],
+      "photo_reference": "ATKogpcVmc-xzN_kHN4LuW3syISj-k7_yF7UCUOuzapG1q53v50KROPMDuDqmVHu5fB1stQJBc-LCkJQH_FPFPCm-JRZYIHHSwGlEgjIIuhbmumpUHaHt7Owpb9vyn9UBTAcQM2F43aDRc8DHZt2DYKNixK1U6PZLMXfHV4KRVM7VPXNdzaaHQZGMzCOLr-qHQSi5z3AT2ZcZV8U1VzHaKXksdGLaMEtAX2YeUbZhYTrtT1gFPxtGRt7un0Kx6QvjXtZwwHnx0JEjKxtVugYkTAoLiRfSoxjqYYWZVsPUAxoA9AqC17M8DCC6Al-nFk2y4vMzeFvig9D1Cly15QTQrBErEhC5xIPo7q3xsbhmk4G0UIGL0P9c8hiJo_7cNWJbs2YcI95P3ySCAtsT8VV_aRBVpIQ5qwQw2uK_1L0TIzG4PpH3w",
+      "width": 3072
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117478139690557109029\">Alex Divinsky</a>"
+      ],
+      "photo_reference": "ATKogpcSom_Lr3LDq_JiAB2uKc5Tuf13E5jfM2uKIiUkmkrrIFW1UzJL0JcGBDfZ9_8-A7ZQs2D8Rb9lDQa1h7HYUzseCbEJd2N73dUk44VAbGKFLJdqbjw7p6O6Qwo7b1WqUAAZJ7iQBKFYUKFWuDq3quQ1C_OK-54EDrX3e_9Emz8z_iv0BBekJRGQ23ZJmbw4vSwBZIe6JrdARALzvcX1W9PigqlhdvtDJ7fM8OYk2jQ0jLTtt1pCRYUdazdyuHaknjvtTLGD_uk6SF4FRt063JcfrshP-_fVidTwfgYiKIsc1LCQFvgC56eA6DEEmvNsIdxcdd913BanZBvjQHA2odmZwW4xByVJpDDXXQloncffFoPETWlwc20iypwdk72YL-Zte0fUk2HwIlcyPlbiq9gcBiF_iQq3h6geK_q7gy8",
+      "width": 4032
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104478686593293928783\">XeroTempest</a>"
+      ],
+      "photo_reference": "ATKogpf9IgVu-ynjDreL88d0eQWNcUrAhtVT8tjFfLIfBKW5i5MxEw6uUo4F4kp2nE7u589ENL4IMvAL2yqFUICMPUg8jxS0bzPX-22nwCxyVDMB77FAkDOOkW3y-k-0PZFwfymI5e5uOEWndADwqqrLTETLdLuBNYHRavaxQpGQEHVk3Zf_XFfRdkpLFa8RIO0eupPhmOkoB2q0tmuF6knOaZiDtyIb5M93nvwIm9sOtl1ymMqeki2Za4RiTldpqDv5RpuXBWrw5IT352BZIzak356lQHldjHUJXY-ngFSlKcTbQ8lk0CU7xQjZqTld0-AsPemhwsKQ3RLoMC_xXfOH09ZbqMtGb58uQIREZBImka279ZuApqCL88IDopGfHG9ZWjdXgnLHIITOLyvFABeaPmpP2W5_q4zjpqBRZj3Oor7i7Q",
+      "width": 3072
+    },
+    {
+      "height": 956,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103365315653000584546\">Delovan Mohammad</a>"
+      ],
+      "photo_reference": "ATKogpfuUZk-TM4b_ZIwpAkBBtY0OKM3vwXJH_UhWZGPmhmUd4_4dGQiHmYIcw32byzzQJxtaCKAElNEsYd8YSGS1GCaR8uV8xwHLCYG_Cxz1iF-f0FdMLAzYGpU2jq9HFJF6wQxdaKLg0tkP8LsCHwyxvLXiv6GrfoHxpNKJWSK7Z-8r9B8sLMd9fH1LzYdI3-w3iIasbLCGggUZrnkCHvK6LresHT5Cg6ccpSMeShsSp-A92PlsTGUWX33Ok-QVkLjbjxMSyrKRd_5rOV2pr7TwoxCLF3R8NvRcen0h7tWLFgZuVZ15BxDOox9Z-2Kio0Sba60hedZ5RZljl-xe8NEaZHyII2geWp9gMnypU1kNTT5i4Fyc_XIgf4AXSH_eLSUTOH_5YHEyiUaR7Al9IK-IjW0tzzQTm_ftO0l6yfc5W3F8A",
+      "width": 1148
+    },
+    {
+      "height": 729,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110209807549336063384\">Spiral Tote</a>"
+      ],
+      "photo_reference": "ATKogpdOj0BuYbf7O4cvfdN15DsIpjjv6_oJXG8fXf9Ew8rT58AmluT2ui15CXu-3ejbVr2929dID86EW3sTP2JuvgjP2oktCfeEhPaL9LSRSzAljvrDUZdYSK1VRTihSD8MxTtDqmqV-k01jNjO3vre2SUIzxBhiNLezAMNcIrvClAUWn0n7JsEXIvsoCaFuxyvFjF13B-FqhHlrE_r0k4G-KUb0vigcsVd8raVKUlk6996ZFyRPIZrLC0-3G2Dr5dWFwdSsRgs2ZBPFMZCssbfXd9-6VMoxXmr9BxBCihNMAtVyID1K6MYCOvqrBNKz_FEUqYTCDfmYujljt9hJSYPv4eZkjG-umjLRkXtJ4bn0maXRzxTWZKMqoPDJEl9UA_ZgZMC4Ebdor8LJeOm-rNDOIbH1CU83MffBqGdZ2Hp3S8dOw",
+      "width": 1082
+    },
+    {
+      "height": 1350,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111699836545251295150\">Logan Mathew Jung</a>"
+      ],
+      "photo_reference": "ATKogpfQ_orjuCHCKh7QtiKNUEDrFTSyNdTbzX_pftbAznQZU3p8f34xIM0fpR7vrADpmT_pWbBZiPqlOBLTuveZS-zFLkdTH2Cd0sU__LbJrwMVf3u6ZpMi6AuA4SemFtZKQabvvrIktjqNN6MmyUsmnnKaOEtRfVUGkm-cwWB45y6fzh97qKFm_dOkGn6ndYdWKdt9oZqH8rUk9itksshFAPHtm1Zw7H4tGNp1bjGM3oLGarYgFqX_2f_-EKZ9XGdfPW-MPKOaqUiVql3jnR6SBiFsGs3gqeGBUiJYplNFRBQa1G8Ul_3cGwbLbwS_A_lBUxHMwPdLzoZtKfMb8G9tjCeVusn54O2QJtjvF-GmFVMQ9NHwXx0tt9__ZlAc0-pnZwxZ084VfnGIUkmO_upKz8y95Gu0j5ja6uUagDxfZVLl2Ssg",
+      "width": 1080
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113254269368100587039\">Isabella Grandic</a>"
+      ],
+      "photo_reference": "ATKogpcahOG1UOcyehURcQZx3JJbfih6Ds9JzEEjYGii5j0dwn2JIhlB28tt4MusDdoSMkZ5jcnOOXv8NWqHhqJZ8vNk7E6zkiUGya-eBa7vchm3EI2u4j8fUnnJIuVjAQ0xCzTdDG_Zu-pYWJMSDT1NF5mmEz21ToZi46hp1wEcaKjxfum4ztlq4xSbAvrRKp7voy81nvFooqWOW1jQrZqj2tBObk2PJHfXn2e4CT3ROzbEukhbTW962Nrypkfd9cUOj60APKxKi_HE0BQDhtXgRpo2ANCU5MCKU5lQP2AKDhv5aJvLy-4AUYJ5bg4s8BY3YiPb9eqfgFTgEDbvYd1ASgiN-N8YFJ0rD4PkstfNKXZAAv92sNeoyFhZEsIUdC3El7w3L2dJaTAurvb6PiWqGBtYrRqgPPtDHYW4HvcfTirPkA",
+      "width": 3600
+    }
+  ],
+  "place_id": "ChIJJWY834lZwokRamN-INPv7Yk",
+  "plus_code": {
+    "compound_code": "P292+5F New York, NY, USA",
+    "global_code": "87G8P292+5F"
+  },
+  "price_level": 1,
+  "rating": 4.5,
+  "reference": "ChIJJWY834lZwokRamN-INPv7Yk",
+  "reviews": [
+    {
+      "author_name": "Brian W",
+      "author_url": "https://www.google.com/maps/contrib/105724933463452006530/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIZvNOuaIlxSZ20o5gQ4z-uWy6iCNdugFzrnM1NtpbodtWdOQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 4,
+      "relative_time_description": "a week ago",
+      "text": "Trendy shop in lower Manhattan. Small store front but really good ice cream, especially on a hot day. The wait isn't long and the staff works quickly. They have a ton of options to pick, and everyone seemed to love their flavor. Not over priced considering how popular they are.",
+      "time": 1750300516,
+      "translated": false
+    },
+    {
+      "author_name": "shimmeringpath",
+      "author_url": "https://www.google.com/maps/contrib/111221919224621186689/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXgKPva2isMDTKHwZHtz74CNx3IFEeHxOGxMFwRzHd1MMJV-a2mTQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "in the last week",
+      "text": "Cool little spot in Chinatown to get ice cream treats in one of those cute 'fish shaped cone '. They don't have too many flavors but I got the chocolate tayaki cone with some chocolate syrup on top and a cookie added on top too . Really tasty . Especially on a hot day . This is actually on Baxter street right off Canal . Not too far from Broadway.  Staff are really friendly and helpful.  Nice place to stop for ice cream if you are in Chinatown area.",
+      "time": 1750610012,
+      "translated": false
+    },
+    {
+      "author_name": "Wing Lee",
+      "author_url": "https://www.google.com/maps/contrib/102481895547238502234/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWyefCSEAVCMfeDP94HZtQAMrFcfkc3YkFD-RBxTxWGqdND0fkl=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "The hot weather is perfect for ice cream. I got the Matcha and Yuzu on a Taiyaki cone. The ice cream looks exactly the same as the advertised menu. The ice cream is soft, creamy, and not overly sweet. The are a few benches inside the store where you can enjoy the ice cream. There was a small crowd went I was there but the service was super quick.",
+      "time": 1749811875,
+      "translated": false
+    },
+    {
+      "author_name": "Jamie L",
+      "author_url": "https://www.google.com/maps/contrib/112896284528115449408/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWtjN3YNioXRP1w0IaaJEEqKJRqsiy3bxSIAoLukcI97EtHl7GE=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 3,
+      "relative_time_description": "2 weeks ago",
+      "text": "I was recommended the yuzu matcha taiyaki\u2014honestly wasn\u2019t sure how those flavors would go together, but it ended up being pretty decent. The taiyaki itself was super crispy, which I loved. Definitely worth a try if you\u2019re curious about unique flavor combos.",
+      "time": 1749524721,
+      "translated": false
+    },
+    {
+      "author_name": "Alyssa D. (aly del vee)",
+      "author_url": "https://www.google.com/maps/contrib/108340694236804190284/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU4a29YDdwDQ15vFDn6IKHe1v9byiTn81q0vptSkn8NAjK6QQbt=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "I LOVED this place! Chinatown is known for holes in the wall so I didn't expect the storefront to look spectacular. It's certainly a gem you don't realize you step into unfortunately, around the area at the time of this riding there is a lot of construction blocking people knowing about it.\n\nI will say, I am late to writing this review so I've already been to this place three times. That should proof that this place is legit because I definitely made this place a repeat business and brought friends with me.\n\nI forgot the name of it, but it was the Choco some thing as you see pictured here, and it was so delightful. Total 5 stars from me!",
+      "time": 1735265493,
+      "translated": false
+    }
+  ],
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "establishment",
+    "point_of_interest",
+    "store",
+    "bakery",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=9938863642738844522",
+  "user_ratings_total": 3407,
+  "utc_offset": -240,
+  "vicinity": "119 Baxter St, New York",
+  "website": "http://taiyakinyc.com/",
+  "wheelchair_accessible_entrance": false
+}

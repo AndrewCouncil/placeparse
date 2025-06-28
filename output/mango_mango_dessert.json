@@ -1,0 +1,542 @@
+{
+  "address_components": [
+    {
+      "long_name": "136-28",
+      "short_name": "136-28",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "39th Avenue",
+      "short_name": "39th Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Flushing",
+      "short_name": "Flushing",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Queens",
+      "short_name": "Queens",
+      "types": [
+        "sublocality_level_1",
+        "political",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Queens County",
+      "short_name": "Queens County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11354",
+      "short_name": "11354",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">136-28 39th Ave</span>, <span class=\"locality\">Flushing</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11354</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2245"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2245"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2245"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2245"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2245"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2245"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2245"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1230"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:30\u2009\u2013\u200910:45\u202fPM",
+      "Tuesday: 12:30\u2009\u2013\u200910:45\u202fPM",
+      "Wednesday: 12:30\u2009\u2013\u200910:45\u202fPM",
+      "Thursday: 12:30\u2009\u2013\u200910:45\u202fPM",
+      "Friday: 12:30\u2009\u2013\u200910:45\u202fPM",
+      "Saturday: 12:30\u2009\u2013\u200910:45\u202fPM",
+      "Sunday: 12:30\u2009\u2013\u200910:45\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "136-28 39th Ave, Flushing, NY 11354, USA",
+  "formatted_phone_number": "(917) 563-1847",
+  "geometry": {
+    "location": {
+      "lat": 40.7603288,
+      "lng": -73.8292163
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.76175403029149,
+        "lng": -73.8278592197085
+      },
+      "southwest": {
+        "lat": 40.75905606970849,
+        "lng": -73.8305571802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+  "icon_background_color": "#4B96F3",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+  "international_phone_number": "+1 917-563-1847",
+  "name": "Mango Mango Dessert",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2245"
+        },
+        "open": {
+          "day": 0,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2245"
+        },
+        "open": {
+          "day": 1,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2245"
+        },
+        "open": {
+          "day": 2,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2245"
+        },
+        "open": {
+          "day": 3,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2245"
+        },
+        "open": {
+          "day": 4,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2245"
+        },
+        "open": {
+          "day": 5,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2245"
+        },
+        "open": {
+          "day": 6,
+          "time": "1230"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:30\u2009\u2013\u200910:45\u202fPM",
+      "Tuesday: 12:30\u2009\u2013\u200910:45\u202fPM",
+      "Wednesday: 12:30\u2009\u2013\u200910:45\u202fPM",
+      "Thursday: 12:30\u2009\u2013\u200910:45\u202fPM",
+      "Friday: 12:30\u2009\u2013\u200910:45\u202fPM",
+      "Saturday: 12:30\u2009\u2013\u200910:45\u202fPM",
+      "Sunday: 12:30\u2009\u2013\u200910:45\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111048393471745938301\">Mango Mango Dessert</a>"
+      ],
+      "photo_reference": "ATKogpfbxN8ldPnR8DFNlHDEpxl-30lldM-HxaAo-Hi0nBU1LtteBR3_WdYzRaGWQShTn6oE2aWvU8NqnJTJoXcUxmXz4xxOeVGw0HlWlzwZqh3BXIgHRB56b4iEOTVy20lgNRzL2xOk5AL3Rm6CIjuHcsYRRyexfhh8xPxen3KAoUrpQiEo-82lygUw4RJm7lnhzvOw6Ckdr89hIcnUgTM6k6WLaxSoYIODr26QFOV7Zet1qDyn6PFW2jxCwzpaevwS1ipnZUEsP_4Bg-LhLPYEOTal9EHmSxXMB67JVbr6vOfMlw",
+      "width": 1498
+    },
+    {
+      "height": 3199,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111048393471745938301\">Mango Mango Dessert</a>"
+      ],
+      "photo_reference": "ATKogpd4qfe_8TRtld8-JHVcrigIk8P2TjEe_igXn8JDyE-PMp9dU22FxgOzeJwCqX3om_g4aGclpJflWTViqAEqq8lSHY-2gJyOHpjS80ME9LPHgqtbrUO8KjmRkiMfZcTS_J_Gon7kPf8M3B5HwN58SDjpK-Yp02z0Vq_QSSMiTjQT1gXCEbdFX4K41xNuyx4oboYoHvF9bwcyI0uoBV18mbMyt5c5ZCKh9fb5PrhfisP2rl_0upgibvQUDgmRvrJ_K9nE3muQgDLsuKb_DBQ0rUENsjEcYWB0_eN6oRMcr3xS5g",
+      "width": 4800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102059495056755899445\">Kristina Novak</a>"
+      ],
+      "photo_reference": "ATKogper4_RCLK8LSjs0-k4yO2Lp5tJfgn6AbhsBj7Fl8kqji9UpPlHNaTg7-xXVRKK7ODcok25731-oZvONyfnk2X4Uhs2owrTXR8qli9IXHtl6E60tR2kah_2i6EQ3A76vajoNxjRmZKNYnCKxU6QyOJa-GpfWyvPxzDjnRM300W3Pn5brtN48r8qGwddejP5mRCJBpuHbWBc4KwI-fMFqjlMh3tUyqqAW1cD5dWKhqdaecpNNxkjDc3BbqVVvxvivG-ZXCSR_V-66uGfdxySlpuP7CZeXsU5Rt0IQtWPPeccStUf5_v1B888CYJGCLbY8egfPk2PJV6rIPuw7azuLWb97UOibdq36Rd3Hit1H2-kB3Vq1l1hVv_qxTtPI9NpoXSIEYWkA-u4yV4xxDiT4ewgJoaTLwWrMtNzSkFCs4qalGlkm2-Xpad5_W0T0Mw",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103476685048711323467\">Nicholas Yeung</a>"
+      ],
+      "photo_reference": "ATKogpes3y6ksNIpWlL2x__WS6D0BYBHF61JiHyqLYNZZT7fb-reQ7Efx17lJhQOR7_tgzOcyQFPNPiWzhMKvuIi6lm8wWV7-zyAtYdwnrDxeD-3ArEBFTLRTSh6XstdyZCByW6Pf5tTlI910mQ4r7147hhc6gQ_hbcP8h1W5JMwisr3U2q6Ajyg92PQtlHTucarFPKr6zBAt6hu937fXSwqOEoR2czcRgbnIP0v1MXc4srhHhuTVeTU6Gtdq-CXymm31VvIpxFeHwCXHw8q6lx7OpShlIjednt7fLRtPRSc-aYH06lpDzC38yNvNQyY23HApZLpJSJSQ20wC3ObTPYdPUjX7jAWH6wm7erbrBOlSNIkKCwRbIl4MrPa1F5BSYYs8gZDuzO44GK5qt8qx7JFbxq3Kf-S1uTax9EgeVHL6ZM4_Q",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110027659752621794176\">una yuna</a>"
+      ],
+      "photo_reference": "ATKogpfiCugtM5Yy8nH5mdghry4ufGwDD-zl10Pd3eYyn5rP6SM9-6FeSQUUr3UQ6dzLUUHhyL92L0woHhQCoN1S8bJHSYJc8Gvkn0TkK402CfttlvvlczbzpyuyqO4Fbo1Y9Vj9qh5-iblwrc5hRNdF3WZJsYWOSGPPaK1r6iAgr0_QUiSwflj54aAFns6BBFT0VeG3NYrXDbJ1Pr0xH1xmr7NSRm89kL7Uc4fCknB7B-oewVbHOkup-qZb5uaEqa6EBrKKbNlPHWTGdrkiXj3webwyNYx_Qu9njKLfuclCbppXv4zZynw0JLeCKRXK9mwUzIOcmpKIpyIz-DCK9LA5NmqYszFdtLsfvBBUL7OwnEcP3Up3DQqoN6c5bP1UmhD_w-yq_dtKF6guIj1jrSQVY2aqJbO15YpP5Tv38Rs5tROf_y8p",
+      "width": 3024
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100921057140847570991\">Erik Z</a>"
+      ],
+      "photo_reference": "ATKogpffL50lpuUFq5xr-_njyNXT2FVBTLJLo4myDUokA3iqEG1oANiqm2Vlqc7tfNO-Tf59Y9yapfwRbRmJTbYwjwC-td8FKn-x0YV6ZkKz00d-r-aLzlGtxlMj2PSDubxXaYam9k9ESZvnEwsrhWHWsluyBVYGY2JPBqZ9FG2x8tIO95QvNwS9YGDeCACoK5tq4pTlZtpBurWJDPJmqHzFjkjtnhA3v_ubLo3xTlDzhBHNCqbzrMbtd8rJMe6YbKzgAY-CShwGhy81SHAe-LIRry8p7DspB2-kJaScwh0yp5iTKhSLmSsMe3bWoeJY7S_6ITXUPUHs1KXFNmlYB7pKPphUvAeCUrlX30eJ_O2WoRPoEWOifAhye52UIqy_4lIWMGpKPxsWaLgDasgGl01PvXLNGTrNvihgSHUTNiFr-Vc",
+      "width": 4080
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107680831120175235119\">Mya Riveron</a>"
+      ],
+      "photo_reference": "ATKogpdacMslu7qGO7KkdQYWEk3ImgGxZAS5cuGUepUqj812Watsu-Zcc0wJgKwlTg2FpIPFz5xV3OvEobnCJSfkuKMnGBcfdziXiK0VhQ54Fd82Jhxg0W_Zrqs9WC9J9LhJqFYYHHCXEzVJCYSzysZBlD0IPIUJ5W91irJiVF5L8X7vtnDnIe6Zinc_BVlPvehWGVbrMbJjcABWQUwQbLmkUB-nqxPLs6I5eUY9P_z1u5AgnY05qsKGz3RJELlLs7cO37_bhBrtZyexTSjaBHoRtlWRbcBKBB2Bu3ExvvgUFLzvb9aKAjclymzfr74nji3I3In6RkNIoXbgsNmQItv5YkkYlQP-l5TiYXG2T1zH1BhejbsNFp-xFFeE-fVsH2R9v9OXMROdXE_ID4_JMfOaeXwV0olV7-STQCFO2sxpD8-TbA",
+      "width": 3000
+    },
+    {
+      "height": 3251,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118250997175427932900\">Stella lin</a>"
+      ],
+      "photo_reference": "ATKogpeq6-SXx3fIg8DWBoaIIPT7rhqoE5nsTXZ6kZdUFlxwcMc-dm3SM3wtW0npgeB2AimjiKTzzQWJsDcZCPF4yQr_iHhVwFAKhVhaBrOTdU6XEEpCAzzLGJq22AcU7jo2H-XgZks4VnR9vPeWWQeqfG7n9b9LB2RJc2Qqe0dq_EKTn6DhuIqljWhRlF4lFEB6NFTmm_AlK6ZEUMW32KJHXgHnEUwaQGr0SRe5oZxaF5JYqMlQccMBJZ-k3LHS4bq9-sTaY83w7Z_FX0DNWiWHBWli5KM4kyZASitOr3VQCwvcX_KIqPCJIM3MjeiNwOBhu87xyKskyn7yVafjNRjMbkxXoxA5z4wDyAm6LFctRsbxmncdFZMNcmGjQRQXBK5ySh5GsBRCnB_Lq5qV3p6EsFT5-YhTcxFGMYK7kom81pOkEery",
+      "width": 2756
+    },
+    {
+      "height": 4608,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111906835137002098393\">Naman Seth</a>"
+      ],
+      "photo_reference": "ATKogpe-RROhqISWnkzyst7AsMmals-MF_cJv332682It9b_kS07WTb1EhnFHhSWt1UCmLii2B0P6-W2uG76JEDf8Uecvg7BIznuT6xsibeVvrBueU4a_Z7hoS-pN6x9ahRnXK2YtQC3n30FZwkhWPJIEcyCrh6lJdjjM2VBzpSsOoCZUCuTm3_YT38O6PpkKxHsdIJRipOgn1t4g4888ZsA3axHP1G21bGoYsK1fIDL-YVWrmwkPMik8lEjXG0Bhj8er3oMkr8pmoZ0iYupp7MbIdKckBWBCskDMFJj4thkPF_EaSji09mk_qhlgVQ-NwMIBlU7xv7oWODG0bgGPvIXVF4E_XwprjFG6n8XuBQbWgpdpubiW7kaknRfjdss9lis3_fZTzhwpjtqnrhB12cMEoUdqM_bf9ggg-TOL1cORp4tKQ",
+      "width": 3456
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118305446213548684177\">S V</a>"
+      ],
+      "photo_reference": "ATKogpeDMOGaUkat4HQq-QY-4qSz1A8eXE3fjrQmALmw6hihSiSeWDwdt-Ubk6x9__t06WbxEdu_TKdnnV62rwbnYP8Yi8ifW4_GaGZ4Ex-rQUzECfRWdVz43NNTHEbVJzWpEvGaWcgw03QO5i8zE-e7ajAswOR5kL6ex96EWxym5Z4E49e5NHcZFvD1r1CQHojZ0_Vqd7qbAeqsi11pogQ6i5K3EUEGtvnitZjRj3PIf6DyIo_ddQsG-bsEFGBGhG_3okhZlZ3S9u2U9mYBqTyEX0KHHixxbeouQc46h0nZ_OiIodDdyzDiFLG--LRtPlKfTV2qSx_M0CMmfFfCESUHZQF5D1Rg7bX6QXcw8B0oXe4ol0pB-OGoRLDEXrLYsO0evdCug3PP-SPDoEO-9EIEnAi7yg-EwsxEQcs_9au5S_Lij6A",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJvVoqMxBgwokRAUqvd8VcSk4",
+  "plus_code": {
+    "compound_code": "Q56C+48 Flushing, Queens, NY, USA",
+    "global_code": "87G8Q56C+48"
+  },
+  "price_level": 2,
+  "rating": 4.5,
+  "reference": "ChIJvVoqMxBgwokRAUqvd8VcSk4",
+  "reviews": [
+    {
+      "author_name": "Kay",
+      "author_url": "https://www.google.com/maps/contrib/104246577011931951846/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVw7kVMOJiNia7HWuE6-zJd-gL7YyUz87Qu1MP9UNvR0yRjXAQR=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a week ago",
+      "text": "It's been a while since I've visited, especially since the renovation! I still clearly recall a super hot summer day, right after my elementary school graduation, when I went there and it was just so wonderfully cooling. I'll definitely be making a trip back in the future ^ ^",
+      "time": 1750208004,
+      "translated": false
+    },
+    {
+      "author_name": "Rebecca Zhang",
+      "author_url": "https://www.google.com/maps/contrib/116548770267697285585/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWa4CrlzOPuv738_jyBRTIy5C0XL2z-NFGPaeWknu5aZ7Vd7SVS=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "3 months ago",
+      "text": "Mango Mango Dessert in Flushing is more spacious than the Chinatown location. The attention of the staff is excellent but the organization is terrible. My sister, a friend and I ordered some smoothies. They given my order and my friend's. We were numbers 56 and 58. My sister was number 55. We were almost 45 minutes waiting for she's order. I think they probably made a mistake and gave it to another client. They told us \"there are two orders in front of yours\" and we saw how they gives order after order until 45 minutes had passed. I'm glad they reopened in Flushing. They should only check the receipts before giving the orders and make sure they give correctly. I admit that the smoothies here are much more delicious than in Chinatown. I have bought many times in Chinatown but unfortunately I receive 80% ice and 10% fresh fruits. Flushing has more fruit and juice than ice :) That's great!",
+      "time": 1742869634,
+      "translated": false
+    },
+    {
+      "author_name": "Anita K.",
+      "author_url": "https://www.google.com/maps/contrib/104146988097165737406/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUsR0piu95yg1vGbms8x6xa7IeRfOV_BUstwF2REsS69dN8tW75=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "This place is GREAT. I went because I wanted mango sticky rice. I didn't end up getting it because it had ice cream with it (I didn't want ice cream that day). I settled on the mango cake and creme burlee crepe cake. I LOVED THE CAKE, but I'm bias I love creme burlee. I will DEFINITELY come again. My waiter was wonderful as well.",
+      "time": 1743042852,
+      "translated": false
+    },
+    {
+      "author_name": "Foodie Elite",
+      "author_url": "https://www.google.com/maps/contrib/100951935668449730532/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWSXk5mNBwxX7_oDqmroBKEz0sKj-7Q5uKPPDajHZW5Rt_3QQ0=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "I'm so glad this location will be RE-OPENING on Friday, March 21. Enjoy exclusive PROMOTIONS and treat yourself to their incredible treats.\n\nTheir refreshing Mango Sticky Rice Smoothie is a Must-try, it's a unique twist you won't want to miss. If you're a true durian lover, you absolutely cannot miss out on the delectable durian crepe! It's a heavenly treat that will leave you craving for more.\n\nThere will be Grand Opening Weekend Promotions\u2014 BOGO free or spin the wheels and free gifts! More in the coming weeks! Check them out for details. Don't miss out on this sweet deal!\ud83d\ude0d\n\nFollow me @foodie.elite on IG and Tiktok for more!",
+      "time": 1744730560,
+      "translated": false
+    },
+    {
+      "author_name": "Erik Z",
+      "author_url": "https://www.google.com/maps/contrib/100921057140847570991/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVl9-sy2dDCsNxrbmX0_rsrMUVU6eHZX3aVqh2QZWWHidI_8Ltq=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "You can't really go wrong with mango mango. I've never had a bad experience. I went out of my way to get durian and it still tasted good.",
+      "time": 1744732486,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "2245"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1230"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "2245"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1230"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "2245"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1230"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2245"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1230"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2245"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1230"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2245"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1230"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "2245"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1230"
+          }
+        }
+      ],
+      "type": "TAKEOUT",
+      "weekday_text": [
+        "Monday: 12:30\u2009\u2013\u200910:45\u202fPM",
+        "Tuesday: 12:30\u2009\u2013\u200910:45\u202fPM",
+        "Wednesday: 12:30\u2009\u2013\u200910:45\u202fPM",
+        "Thursday: 12:30\u2009\u2013\u200910:45\u202fPM",
+        "Friday: 12:30\u2009\u2013\u200910:45\u202fPM",
+        "Saturday: 12:30\u2009\u2013\u200910:45\u202fPM",
+        "Sunday: 12:30\u2009\u2013\u200910:45\u202fPM"
+      ]
+    }
+  ],
+  "takeout": true,
+  "types": [
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=5641423486421256705",
+  "user_ratings_total": 1408,
+  "utc_offset": -240,
+  "vicinity": "136-28 39th Ave, Flushing",
+  "website": "https://www.mangomangodessert.com/",
+  "wheelchair_accessible_entrance": true
+}

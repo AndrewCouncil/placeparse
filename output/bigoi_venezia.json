@@ -1,0 +1,458 @@
+{
+  "address_components": [
+    {
+      "long_name": "1415",
+      "short_name": "1415",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "2nd Avenue",
+      "short_name": "2nd Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10021",
+      "short_name": "10021",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "3773",
+      "short_name": "3773",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">1415 2nd Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10021-3773</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Hearty, housemade noodles in traditional Italian sauces offered in a snug counter-serve eatery."
+  },
+  "formatted_address": "1415 2nd Ave, New York, NY 10021, USA",
+  "formatted_phone_number": "(917) 262-0680",
+  "geometry": {
+    "location": {
+      "lat": 40.7700264,
+      "lng": -73.9577755
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7713295302915,
+        "lng": -73.9563081197085
+      },
+      "southwest": {
+        "lat": 40.7686315697085,
+        "lng": -73.9590060802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 917-262-0680",
+  "name": "Bigoi Venezia",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111071660847574570584\">Bigoi Venezia</a>"
+      ],
+      "photo_reference": "ATKogpdyXIRbsxnKAh1nAjMAGK1RDBvdNSs-MjQu95xdXy-ixs7osj3tKCTXoqw4rC6LO0zfuyKfmPhyUzPylydbWW7qHU5eszhhvjjaLELuapLL2wE5AuiuYuhQsTbd6VuWyMX3kzueXPOYHsB9fJmyv-EN41w0E1iX74L2oypXuO35XFPOBcrPe8umq6iQNP7YP5B9Xvbh1t3essQos3XGtbWSWqymXZ18srkK-bH4ivB4Km5XFstZEvGydxV7LCe1hXtayuLXmhg48WpPI0qF660CchtQIFzWV8wXoiVvoVolxA",
+      "width": 800
+    },
+    {
+      "height": 617,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111071660847574570584\">Bigoi Venezia</a>"
+      ],
+      "photo_reference": "ATKogpf7tbaFwy_vbNpwGJJf_m4HVrg5IWhxU4g-EnnNMWyC7nfmy455oHwgwqLxis72bhM0zzWDME_3PfmF6Z8whAotcrmAMPfrwq-l15V2VBB4tnDXqVBh4xba7QD2mwS4k2rLQOUEhNklmmU8Z1dDq9zK6G0MzEv9Y8hzvSsLZ-27-REUXs3V41EF3f5Z1G1eZgTNTnCIMFVLrSricYPPdbs__2p2qLT6vN8GW2TThSAKTKxWt6nncXyl65S2C3weNAn829Z39knHr29Zj863QKZe5-5Q2vq3ECg1yHCL0PO5NA",
+      "width": 926
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112033236948812333041\">Connie Kwok</a>"
+      ],
+      "photo_reference": "ATKogpdgytH8fVsu8I8nXuPtQYI1NMjrjzjQAQLfj4tKpFUqSl3rXdWU_HQ1qX_oMpMVcWAfKMbCHg4g8_Yhy2sCf_ZaxYjyLGAdY0hQpaXN44GMwLpChNsxl115KjOSH9SlSKdTNpMWDQOnrMR_x9ORmBUWvkDthnjGK_qaNADXAXsatlnJ8_5DeavDEqdT2zM0GyWFPCqhaXkwqYDNnVd81V_H7he8TqRR9jEEp7jduEAGQLuJRQCFDt-_rsV5KZgjQZ9wg0Dlm2RQVw7_DUsLTutaY4YLJIDeBsZZzJbm4asU4mXztae6i2DW1UHzQdzZi1YR8HNUVaOag0cceGfux62gEb6U4gkgqktsz49w649h14j4A47lKx7MLdZj0TFg_FTrkJP_bFQ6L_acQnNEtvBJ543BmglWggnICBjPCTkE-g",
+      "width": 4000
+    },
+    {
+      "height": 617,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111071660847574570584\">Bigoi Venezia</a>"
+      ],
+      "photo_reference": "ATKogpfnCmmDwpT0wUAMbbysBO2WEjUylDxZ7xTSkrGE5NzYNQCOpcpko7tCzd9f7YfUW0rIzQNU9Q1-7K1omR5x9gWxLc4FE9ZTVJUYjFfhjB3tTR3pT1dinB_m6aTiz0FK8KhqCdKDVYMItoy8IxM7gRYgcEPSiHsWC-1LNfRjSyMXEIHhm2_yFXK9u4CCZZhma_MUr66I-HYNqOtGzwDDVtR-UjlSkLPODB0RDpYcAmtzRV64TLwe8XP3NS4ojpChG2-OpiShA6ySvL0feqACE_ruqSpbUpqhlV2L_DApx6ifNg",
+      "width": 926
+    },
+    {
+      "height": 4608,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111115383454386045352\">German Odinyayev</a>"
+      ],
+      "photo_reference": "ATKogpdjpf2KLITgO_x6JSkVLvhTtRWZKF9yUOKuL-T_1JmsXJIxi_HgL4axP5TYHT_N9ksMcxsejvQnw0HUelXkkjds9TO1AYNkRHuUWenLGmBmBvxdqPC2wncphF-haWUjPDuUXxc27hCO286lwvTENXBZ2oTcd0MmYz90imevdMlb7NyS425T1Lae4T3YHn_ncw2_kyGZA3V7KnxUeIaEBL_cFoafWi4_ZpOHRY1ipwVkkaTUhM60C6mCDzHecm91vH7qyenaG6S_TK-abq-rfkOqryAJfP4nvsHFdBeGrP9L_g4fl6jpTD1rhC7yqQ-4o1UHCb_KMYI8HpyUi1Q2YW_Zf3zDRO_8GXoJA72Kpxph7RL0trvNiiOL8MDYXNS08KpQ6BIQQah2iZvAGuTLYVwlNGBurOphFuq6rpaZUTX6mAQ6",
+      "width": 3456
+    },
+    {
+      "height": 800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111071660847574570584\">Bigoi Venezia</a>"
+      ],
+      "photo_reference": "ATKogpdKLtI7bZsGDoIZyEFsTjUiRd2B4614qESwcd3I5PgfP9Qc0MTTpgfALeQtlXSYHB1W5aXM6s4hrIYyA1T8nbodlHk7b49rcq_767vcAAe2syuJ0flMhqLwXV6GdigDsszHugmr0CRuR3wXcStChzV-lQUF-NK4483_wj5wnt2lxnJAwU4dcwHOEmA_1Ig6xCUtfIUo1Jwj0yFydcQiUgecjrqVuvDFmHpgcCpjdJekaEYOka8dXSvRzluARJQ-sax3Ul4-M9fALqU7Q46qnK8bkT5KifvcgTLQ66rVCW5mmA",
+      "width": 800
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107882568310500060329\">Shriya Kakde</a>"
+      ],
+      "photo_reference": "ATKogpfMiJq9QPP3G4kdG5Vd6GzLLkATJtmcviaxDw8HrMiT6wF91LXtHH3FmcM5CmrNtpF6rKU7K3QZ8w-ilctkmcOLBpfiZgN8mAECaOSmlo7RMZquGcbQazbyrZdzwMZkKdovCTTxW8ed30maGNL61q0SHWS9EBJ6DxdxELiMXGcLTQf6WQMLeKBwCSlijTF6LNjlCauILXsjtMrh0nmArcrrrYOudHcifQVN4jweZsLLfKlczJjxkuzDfvG9iLnijJ8tCsI_dq1KtvTRxLjuVMNV94phuKgN-_ZL913Rc9vMntfjRcf8_wWLZuV1mvWU_6Hplr0x0KnGKy91nv1eFCBJ6dq7JRGhyJHoqifaOLAA7KggooRhThm8X19O1Jf6wdQMVrhKe-qzaYCAZCLbdSTbUXy59t7EFbB73-5y_13VuwU",
+      "width": 3024
+    },
+    {
+      "height": 800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111071660847574570584\">Bigoi Venezia</a>"
+      ],
+      "photo_reference": "ATKogpczark_BbJQOo9eZMv7_d0i_OcCbB-a23R8VBSe3LRx6GY-y7VXWN5zWVefA6X-rb2xwWSNFOC9G2-XDXFp-z1ux3BGUv0l_HVPe8kBi8CsjGM-8AYreYwf3RDab5iV0wRLCZmT3xBgdE7OWZOUzOnn0-oS-meMlzQPGc2wci3oBadohO2AJE55r78NScjNR8uhMLArFGEcRp-IRzPSHev4Ra6ZC3JwuyT18OZcSLwFCZ0FGIz14XRLrtUFk8CCXmHTN4KbFlVnodPxTcd-akYND4tUs3LMygwnDaeo4pC3KA",
+      "width": 800
+    },
+    {
+      "height": 800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111071660847574570584\">Bigoi Venezia</a>"
+      ],
+      "photo_reference": "ATKogpcDzTs0oYvQkvrq70m7mVecQSa_3ekzOdixIAgQhII29pOWIy3DDTAaXeN-wWLAyf1zmeAw_kEmtsVfqPmYttlvyT5gsOApqEtOmddT-1uUlkqgapvK7xk75-lk3GX6OWF8Ay63zz1R_-GBvYX2mGWvT_0uJGwhHg-jtxDZpXyJHb-g7RLAThH84ZvccZtUSlUp7d0K10aYcuA6wENMW5-Ugfr-h9HBjXBTJycTKxBssKdwoS7Te82JbiRtmV1JnjSvHIijP52pUNCLI0peYZr0BxY47zINYOMAK1nFIJcSyQ",
+      "width": 800
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105633444502008062863\">ZIGIS 4YOU</a>"
+      ],
+      "photo_reference": "ATKogpfKFLBlt8WdaAHmX2MNmXvVWODicyMLC4oWFfSoSFNf4TymC9LQBVP46YsYPzCWdkoOG667-h5Th_T7o8pONTTkUJKzct0Kp7aznyShUd7es5Yz1HSubcHroAXOe7pMFWFh-Lk5bFqQ1v-_fGZsl5dbgx22oKAZmiK1fyabx8kfoPekR0RR4LhqsCcwpnX1DHFNwrOBez8DIkK_PAyNIuldXMqj9uihT6G49wAXUaDJTGDX_XAeLGTTGAgh4BXKoOkIb6mzmPfOXIErXzstCn5tyyDC23lMSzsJuc5ZIwbUTMJok24DgXbkEzBUArWnkj1zLlIQ5XhuY4sFj9lDVXF4LU12SEoyVesG_3OIFnXoiQKFEmmDi2G6SJHbD9lLddwt2zg6uoGR6-0SUpoQg_LcLHHJxddux6PithkyKV22cLw5",
+      "width": 3600
+    }
+  ],
+  "place_id": "ChIJgdnYQcBYwokRDEGzKagrEfE",
+  "plus_code": {
+    "compound_code": "Q2CR+2V New York, NY, USA",
+    "global_code": "87G8Q2CR+2V"
+  },
+  "price_level": 1,
+  "rating": 4.8,
+  "reference": "ChIJgdnYQcBYwokRDEGzKagrEfE",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Connie Kwok",
+      "author_url": "https://www.google.com/maps/contrib/112033236948812333041/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUev-g-uZKcEm6Bl054nhbVBVsusTbOmHOCPCKtv_USlHVv-l88PQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "5 stars all around! A neighborhood staple fresh pasta joint. A simple menu, food featuring the same fresh perfectly cooked pasta with your selection of sauces! The pea prosciutto sauce is my favorite! The bolognese one is also a classic go-to. Eat on a stool at the small tall counter (with a real plate and fork) or take it to go. Such kind and friendly service and a clean place. They are quick, and the pasta is fresh and hot! Enjoy!",
+      "time": 1745193584,
+      "translated": false
+    },
+    {
+      "author_name": "Mia J",
+      "author_url": "https://www.google.com/maps/contrib/101110227762875914195/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjURCllxfXK7_jfdw-ON0daFU_uGiEcxBlcI5Eib_6qy_n_OmYV58Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Excellent pasta, perfectly cooked with rich and generous sauces. Love this place. Sebastian (the owner) is very nice, we had a great chat and enjoyed our time at Bigoi.  His staff are warm and very helpful. Highly recommend this place. Excellent food and value for money!",
+      "time": 1745514592,
+      "translated": false
+    },
+    {
+      "author_name": "Andrew Pulver",
+      "author_url": "https://www.google.com/maps/contrib/117831694856619843374/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJ3fXMcFlBgk5mgzgcvb_WE_sbAn29Zr-Ad7GK0tLkyo5h5-g=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Mama Mia! The best pasta I have ever had, many simple and complex sauces with homemade pasta. The owner was also there and he made sure we were enjoying our food and loved to talk about his home made pastas and sauces, amazing NY water, Italy, and life! Amazing",
+      "time": 1741810892,
+      "translated": false
+    },
+    {
+      "author_name": "Shriya Kakde",
+      "author_url": "https://www.google.com/maps/contrib/107882568310500060329/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUYQE6-IDjg7Sn1feVTxYhOVKumeBXMAtrGLPV9dZRhXedV-Hwc2Q=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "A gem! We loved our fresh pasta!! It came out within a couple of minutes and was steaming hot. Cute little spot too with a few bar stools to sit at.",
+      "time": 1741385008,
+      "translated": false
+    },
+    {
+      "author_name": "Samuel Samuel",
+      "author_url": "https://www.google.com/maps/contrib/100750376560927231545/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocImEdCikB_anBekZdW9p3PVd18_M4aEaqPcMl9Ao6G6De5HZw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Lovely Pasta, the Flavour is Authentic\nAnd Pasta is Freshly homemade at the place \ud83d\udc9b.\nPrice is reasonable, When i am there crowd customer.\n\nFor sure the Owner Mr Sebastian is really Friendly\nStaff Ms Aping is Cheerfull, also Chef Mr Filipe \"Aglio Olio\" is Delicious...",
+      "time": 1743634596,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_breakfast": false,
+  "serves_brunch": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "food",
+    "point_of_interest",
+    "restaurant",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=17370713238998827276",
+  "user_ratings_total": 718,
+  "utc_offset": -240,
+  "vicinity": "1415 2nd Ave, New York",
+  "website": "http://www.bigoivenezia.com/"
+}

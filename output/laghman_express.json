@@ -1,0 +1,451 @@
+{
+  "address_components": [
+    {
+      "long_name": "2376",
+      "short_name": "2376",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Coney Island Avenue",
+      "short_name": "Coney Island Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Gravesend",
+      "short_name": "Gravesend",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11223",
+      "short_name": "11223",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "5002",
+      "short_name": "5002",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">2376 Coney Island Ave</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11223-5002</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "2376 Coney Island Ave, Brooklyn, NY 11223, USA",
+  "formatted_phone_number": "(718) 233-8333",
+  "geometry": {
+    "location": {
+      "lat": 40.59903389999999,
+      "lng": -73.9615575
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.60037968029149,
+        "lng": -73.96005676970849
+      },
+      "southwest": {
+        "lat": 40.59768171970849,
+        "lng": -73.96275473029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-233-8333",
+  "name": "Laghman Express",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2100"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2100"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3193,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102598258372252560364\">Laghman Express</a>"
+      ],
+      "photo_reference": "ATKogpd-99OWKT-Nc3YgXmy8i2iDcZR9IsIn9_uktFu1At_tE38qjOzMieAhJC3SafMvDWskoEyeXaTT3JJtLlxxgd63IURydZUhx0oQFt0X9Tcfr5RDbT-iL8xDt8W-6_7wyMvK-cT4CVwWMydsLRuo282AVd1deH_DAeB9ihQQNFeGmfzNner6-pw6lqKCA1ZYvSmD2jCzoZcfTpZN4eVLzVZQJ7cZYWeZspockLM_K7KaZeI_6FrHhgnutFMH15syvRQv0sJsu2i9qovKayQ_h2kXVNh-vquvLpczYtAl9TePUA",
+      "width": 4800
+    },
+    {
+      "height": 3193,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102598258372252560364\">Laghman Express</a>"
+      ],
+      "photo_reference": "ATKogpd-yodiCX47PMDcEV7BjEtxyFYwRlHQoVPaF16U-0T5vqGnwlT8UrSwGFXwsIrz5yBZwyVCN9CcFZPmMpXwe7cJYQDp_RXY0cApo6DoLeewJG0NHKm0kXmLBoe32MwcwXEtNPo54Azq_U304oUeLYLdJI3X1YqxBlICqYcDPrp1IOXwwfjp_g2AY6Q5I6DOYSWNkGqDsq69Rta79hIzRvEKQhbNjeCqOQ-G5fn35cqiGPHd6bcqdi3WWwuMIdvEjSz9T6tqkFBky4CCfYe0REnbjn708iq0lEvdqndVbBidnA",
+      "width": 4800
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115150453427150470284\">Nodirbek Xasanxodjiev</a>"
+      ],
+      "photo_reference": "ATKogpfzvkNKPs7zpVmY4IYYIJXREh8R8DlEzv93SQxzlcAUTe0rJMvbBK-Lo2XZTCvlqKPSDhJXDLoZjW1K7eG_J37sQAWvdrxVU5ezeU5EsuyUxbO88eS0s98OLsJbeG5LgC_rWX7gjZoguSwyvRtou0KX7NKz3tMwUp4F1NK5fgpFmwZuY2dKOFl694Fz9o4wyFg2wfSDrCJFfoGqyOPpf4Fs00pHblKOS-2hT62Vs-yVt999T3IwhmjPeOVPx98Y7P1Gv9zENo5uSE_5n20KjoDbSGqFEK6lEZNAvEXaUiPXz2kOM-piRwjFZFJPlikFTXMq-M6XxhRlSDUKb_3p8k6IMDYnihbCUtRdBaQCHiIOvbWQl0L0cFIuKAMaOPadGppJ6MhjPKkTgQYOL4B-0E1h_2mYJvlLlkCh-C57Hpc7tK7evo7AFRwX7SDcHw",
+      "width": 4032
+    },
+    {
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102572842409969640746\">Mudassir Qaisar</a>"
+      ],
+      "photo_reference": "ATKogpfDa3-PGi0DHzkICAFVVZVvsJsl9MZShmArnf2Nc3iZLXog8BOzZJkMi58kgkkbkD8ZYaKzLiAQBGmRCZ5zfbHQSIliWl_k07l7ok-kzcyh1vruZ9zK8PVZak1Y80CPeFaitJWWIODgzkv6YiEgt8Fxy373z75BK_AynIInKAVLr4MpVjzBpDj38fexh7hvD_Igc1fJO2GnXQTRyTLRsOPRIwrkD_MsnNiubIXIZbBSq339SDu7pZKz6JCIcMKnpdg0VF8NiA7NaAxp5vF2wCRZqvWqvuCUhYzb1Mh3Js0heGsYZaBfJj7b5YIhS6S7wZhgsqHW4fyZupbC3a3FTfXBLLx6BImqwnN0q1dRbRfpF9Rs2uqkaSQqPwi3UsifmPRruz18UTOalcAgg4AD4vAUoVVpqTU1GNB0yzBR1-NYV4I",
+      "width": 4000
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109105484780220307126\">Dilobar Fakhriddinova</a>"
+      ],
+      "photo_reference": "ATKogpc0K0rCzaAGpeeG7AsRytkNp3ZX1DA1M2HqYlD85bSiMBHmBzntkMzRSR_s33vvS6EoOLgI5RvhVvjKic_cYqRqoK4ew-KtNpha9_BoVs5A4ECY9kW1LMyRIno-iYPcs0p8d85We7aL3VtCWHK8xEeToJAckiMIAgHBGDTGT2nESHH5g8sWmttZw9FdKGTmcpNCpmY4BnGtvRpENOhvcjtrvx1yq0sR4ZE1X9-i8jqLH1ufG_WyQAcfvEnLS8-YG7d1jTTvL1vD2id6pdPZaPX-MECnucdKoMrCzr2xL8k5Bl-ZPjXeQwct38amP718X41pxfMDp_j_dVe-2mE3DliXoIEh7g-yb2lOe_yxXuhvscjaGe9_49dl6HNcMRtx_ZxZghq8iFJRMkvL0FISc7fkFZT8h1WI_UHJlgkSKveqUBlUMNxOPCb7RNzPMawK",
+      "width": 4032
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113307625513939307074\">Mekhroj Razokov</a>"
+      ],
+      "photo_reference": "ATKogpdL8eIM4jYiJNwdt8xiAXooDROfiyHM-SipH7fW3bFO2a0t12DBg4f7OrM0QjCk0mNigxu773OdBPt6AhO4VgGrMOhxzVG28CpcB49Je4z3TwwKsYwcPDab4IfBXTMfEFOTZH9ab-GIVYq66-x870bCUcivF80xtjZDS1zaIjl5fRgF3u8zTd1OpH8K5urfb5TD81Q-MA3Unn4brBvKaoasBNGo5XxmnUUpXKoW4AbqlnuhpA4prHzLUu-eh9rMcqBQzEVblU5DT7bd5T3tP8CGOfitIxLw3iPA9SI_iTjguJVSH-sxs_G-c9YsXaSXY5rmx2515zUFupzDtB1iAKeWo1MalbzK3z3GZWAmGHmY31ZIngw_WOOVdGQTo8Uy05qXlsAAnJgMQ6YO_yLyvFgs6Er_uzPeC0Q6XGMBs_jdt9E",
+      "width": 4800
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114906976028256119750\">ZHANYL AKMATOVA</a>"
+      ],
+      "photo_reference": "ATKogpeEZE96OVQCy4l8_rgfWUzQImZA-LYqMradbjTyVgiVgjac6Lx2eJzEuStX3sxMzUT1XzSyPPognvQDns0s5gAjUREFK5JxJjtCptdfe_fGmqPZQ9iFmZN9d7dpVMCoG7GXzSWPuOCtNG_V5j72747tsSKYmrE4y7x2MASwvguOAjqKC0Tm7YQd2tOltuBQnzZmaHEQ_Vsz9yDQLJ__b7yjDhQpM6L2Equew2E8lNkr1hQPihSQoc9bYozZwrMKhVt5uFivP-dals169BtV3zB8VDgQ-YyESsyudWHb4loKj_0jqjw6s3SxnB5EKVnE2XF8b5DhKCqxq6c3BcC64sOt5i4mnOcQ1fvwJ62cMb1FnLM3ili1glP7bqnlvxHbs7EGfevMSAG6YxUU9ezv9S4SKTZE3D_HPUHkwRNrN3nTkQ",
+      "width": 4800
+    },
+    {
+      "height": 1909,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106411221142409324323\">Nafisa Isoeva</a>"
+      ],
+      "photo_reference": "ATKogpcm4X0XKcT-q6LKk6KrwrYt5erBGs-B7pY3Sz1XB6Y35atmv_lzyXgsNoU7Rxx4nEIZSPMjvbYiAu36VGiecy8XwoFsPpBgvy8r3XXHdTdF46Ll0UWGKL2lZdndo9Y5wFS4MRDAluTEl1XeuLse4waOMhJdrwVj74u3jhl5wZMQQ-GM8ME_jF06gimJHaN9hrQIJphZlXqLK0lYh6guI-U59c6vR8rOA1d-NMUVOMW10pEGMFpWIXacaXVR0UN1hL4W3Jvx90PFB01ks_UVSf6BT4UmbC3Eu3-qSgFKCuAOZSCLJUTDzoiznDutXki-_TAvz3QvNzG6sJh1z-adAd5ZM0eVJiLHzB6fpeHdwJHmeIB6g2dSOo0LIW-pZdq-uf-ur2a89yF9NSCI88evJYeHUhwlmh3qLYkjhV1D0cvp8g",
+      "width": 2919
+    },
+    {
+      "height": 3425,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107592129086227660678\">Alish TLoVe</a>"
+      ],
+      "photo_reference": "ATKogpcyxVw8JhG0eH8eHZQH88j45mJuBSIwavCo5PnW0wevoak3vnOOuLH7dKKGDDvYtEF1mvfhD0FSMrIo1yOeCHHeo1TqPpECFzm9lizQZlDA8_C3umR22Kwdl-dZthN4aWJmifBAcLNUXSvKsJj8ijWudvqHfBAlGnfqld3yr1VHAjuRlojj7oj1l8mUFz1B3rT5DmTkmTsMVSUJs2bQcibmVBveBgr4AM-nMi-mVydPwlqp_PHLjZi5tzRHlp5lrV8Pis0KAa0bJcQC8xpempBuuR4HtZIuL1y8QPg56Utcd6d5WGDxNDcSciySW0qTE1LyN8z4O8v8JX6Y94hhTbLvlU1ckuhgVwSdDxzpnL-Qx1zi-Ceh6PJmYRa0DZpSKXMMMfJQPxhcL0AkEtIGLjUWv_HxpUXpxhI1o8-RQnD-CXF7",
+      "width": 3000
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102598258372252560364\">Laghman Express</a>"
+      ],
+      "photo_reference": "ATKogpe5-z-8Y3UWDKoZ4Kwbb6HS6pI7cOK5g4pPXPLM6qnK9-REZj4nZHmP89wc3QVCVc8k4BNgvdzxiGZlK9ny7-x5h_jeVkcN2fREBQRiBpsvXdkMxMgfN8xI3pt1gy2rOh6l74jEaeH-QpJaBFzjzfQ6xoC7Wa33RDUKkKi_9eHngffINX4mcv9iyZ-Ia8BSj83-NMIXYydJlY9Jzd59RXjYsM_10TKBq8DkPpFPUdX_mWUnK4TXpzbtHzRHBcBqfobY75JdlJZnuhMpHTcdwuQGJ1uBBcknLp86t3nnJRRogw",
+      "width": 4800
+    }
+  ],
+  "place_id": "ChIJS4XlsltFwokRi2JwjMocEAI",
+  "plus_code": {
+    "compound_code": "H2XQ+J9 Brooklyn, NY, USA",
+    "global_code": "87G8H2XQ+J9"
+  },
+  "price_level": 2,
+  "rating": 4.9,
+  "reference": "ChIJS4XlsltFwokRi2JwjMocEAI",
+  "reviews": [
+    {
+      "author_name": "Nodira Kasimova",
+      "author_url": "https://www.google.com/maps/contrib/100021417645222247342/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUMsXtMKhxMnVDaMrYNQs99304CA0RIAM0a9cK37LvA7owrdU8tfQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "If you ever feel like craving a delicious food, then I can definitely recommend you visiting this place! The food is AMAZING, EXTREMELY DELICIOUS\ud83e\udd24 whatever we ordered was amazing. Didn\u2019t get a chance to try sushi, but I think that it will hit a spot too. So the place is definitely recommended \ud83d\udcaf\ud83c\udf1f",
+      "time": 1746246377,
+      "translated": false
+    },
+    {
+      "author_name": "J T",
+      "author_url": "https://www.google.com/maps/contrib/115608360113849383825/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWo1BRwbILlby5JkLVeVDCXds4CKOkAhEMQ1utcaYJcLW9JFLit=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Visited this place for the first time with the family. For 7 people to sit together in one table we had to wait around 1 hrs, the time was after 6pm and it was pretty crowded. But I\u2019ll tell you what, it totally worth the wait time. Halal, kids friendly, staff is amazing and friendly, the food was very delicious and felt like home. Definitely would come again!\n\nP.S. portions are quite large, with one meal you\u2019ll be full pretty quickly!",
+      "time": 1747004812,
+      "translated": false
+    },
+    {
+      "author_name": "Temur Sultanov",
+      "author_url": "https://www.google.com/maps/contrib/101226200459638143276/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXPOHyE-4g3DgY2dZ1C_IjL9_QCkdJ06DFHMxWgcYeArxG6A_ch=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "The food was decent\u2014nothing extraordinary, in my opinion. The lagman (Dry-Fried Noodles) was definitely tasty, but everything else was just okay. I am a bit surprised by all the 5-star reviews. That said, the staff really stood out\u2014super attentive and very accommodating. Excellent service!",
+      "time": 1745336400,
+      "translated": false
+    },
+    {
+      "author_name": "Nelly",
+      "author_url": "https://www.google.com/maps/contrib/101498591908303285793/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVZzzzQehv-pLQELjvrDcrfnn7nQyweS-o4CwreK3YdufRQFSDx=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Lagman Express is an absolute gem. The food here is delicious! everything was fresh, full of flavor, and beautifully presented. The service was just as impressive. I want to give a special shout out to Meruyert, who went above and beyond to make our experience memorable. She was incredibly kind, attentive, and genuinely welcoming. The atmosphere inside is also worth mentioning, very pretty and modern, making it a great spot to enjoy a meal. Highly recommend this place and will definitely be coming back!",
+      "time": 1749430448,
+      "translated": false
+    },
+    {
+      "author_name": "DAVID",
+      "author_url": "https://www.google.com/maps/contrib/115955842363463485012/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXE8AGcZYlfPeuyAojw_WMLNUwB9vEJ3V2FFYiC0msENLHqSMwO=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "Very nice and attentive staff. Good service \u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\n\nBeautiful interior. And most important delicious food. We ordered couple dishes and Moroccan Tea and everything was so tasty!\n\nDefinitely visit them again!\n\nWonderful!!",
+      "time": 1737333283,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "establishment",
+    "food",
+    "point_of_interest"
+  ],
+  "url": "https://maps.google.com/?cid=148650443968373387",
+  "user_ratings_total": 2079,
+  "utc_offset": -240,
+  "vicinity": "2376 Coney Island Ave, Brooklyn",
+  "website": "http://laghmanexpress.com/"
+}

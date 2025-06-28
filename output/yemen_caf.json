@@ -1,0 +1,653 @@
+{
+  "address_components": [
+    {
+      "long_name": "176",
+      "short_name": "176",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Atlantic Avenue",
+      "short_name": "Atlantic Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Cobble Hill",
+      "short_name": "Cobble Hill",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "sublocality",
+        "political",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11201",
+      "short_name": "11201",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">176 Atlantic Ave</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11201</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2330"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2330"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2330"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2330"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2330"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2330"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2330"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+      "Tuesday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+      "Wednesday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Generous portions of meat-centric Yemeni cuisine are served at this casual, unpretentious outlet."
+  },
+  "formatted_address": "176 Atlantic Ave, Brooklyn, NY 11201, USA",
+  "formatted_phone_number": "(718) 834-9533",
+  "geometry": {
+    "location": {
+      "lat": 40.68985259999999,
+      "lng": -73.9936946
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.6912972802915,
+        "lng": -73.9923043197085
+      },
+      "southwest": {
+        "lat": 40.6885993197085,
+        "lng": -73.9950022802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-834-9533",
+  "name": "Yemen Caf\u00e9 & Restaurant",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2330"
+        },
+        "open": {
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2330"
+        },
+        "open": {
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2330"
+        },
+        "open": {
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2330"
+        },
+        "open": {
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2330"
+        },
+        "open": {
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2330"
+        },
+        "open": {
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2330"
+        },
+        "open": {
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+      "Tuesday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+      "Wednesday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 310,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101536529684860413828\">Yemen Caf\u00e9 &amp; Restaurant</a>"
+      ],
+      "photo_reference": "ATKogpfJpRPq3OLBe4GE3ZMowxCuHqq7T7n3gK_BS-Mut5ptdin-HWAYxb0U3AnT_i2pN7QUwweBRNvn8nHGQwgNASpRyqlADoRILea5TRjb0Rw4PxNSlCjPrC8MGMmRSr4Zbd_gAR_XwBy8FgGmQmUd9_JPHPJ8YHaj2MSsUVfTGQfjT4F-_kWuS3j4UASuOEzwElUxCguhL9NDOcbbeiUe7zhIogkn9pTepDmr_E1lEe_CQbqMA5oJc5G50-Ixq2ifd9YkXJJ1h8oievfvDXjW-1_h1xjs1_9s0BwED0SGyeYzrg",
+      "width": 550
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108648430205296940890\">Estrellita MacArthur</a>"
+      ],
+      "photo_reference": "ATKogpeP4KPNRpF5ye3nmeCrfXIiHurZyMew-86K-CMIhKH9njsbdbCy4ybW2pz3yi30sV5qA9X5P25G89KO994maeSMtlXQG5HWq50yDQTsr6eu4i9ZL4QNFRzHwQjyOFnUPhlrSQzEneE7Zcv3ZMG6dGNtM_4FEMEwlz3U2xnwzyWM-8UAg-vwflobrhDP4f-TPLhEmuqOmuOcvQI__PzRZq42zWTrBO3UgwdFtXIpffuy64GJy5q9f0IWdUmds2NTpws0FroCKctNl-RPACSbowdWtUmsdVLbAo5K2EUYJ1MrVUXGzxstAq1il1uIlaQAkc0odrO3ePW8eYhSJhzvnGp45LW1WMPtCyQow4H_ioXqQfirlCzo6j2ooRW1fwyKSbnXrrUukvrnYRbvHA1qO_GjALLGCh9kS6e3Bf5_CRZFOw",
+      "width": 4032
+    },
+    {
+      "height": 533,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101536529684860413828\">Yemen Caf\u00e9 &amp; Restaurant</a>"
+      ],
+      "photo_reference": "ATKogpeFufjqHxitpJkfDvA9dPIojJSIjLZK_qgOXU0v1aeihX0rtWQD2lgtHVEpGg_HGd0yWHeSA0rL9UllZYTlgNSNZfM73CJKPlMq7-RBNogPHVHMGKSQ_3_9Js1uowF0cnbqyZr4rHaKuytIfb-untzgsep2bLM2ZpSZK4B40V84OihB3XBCG1SMGDGrSZkFdLUrn3IajUk22PQDFa5zwXiswxo_D_9NQtgSfxo1wHxuqHjN1d85Xz2tASELGJ6Zx9xLj8ki6q5MU70aGAIi4bnfT2T7YlTHn8IeF8BIqi7t3A",
+      "width": 852
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103491839480021614845\">Ahmed Kamalaldin</a>"
+      ],
+      "photo_reference": "ATKogpeG3hEGsoTcVxb4adcyndUyAjC9bc2ElyesFFyg9osI668pN4iVKHJvRjmSeV3arI4sLWWOJSSNo0O0Lv5fiTU_t-A8Pqphyc2fyHe6sL-V_pZHQ-Zq0HDn1gl4e-InHMvkgN_Lx_UpfJiJuSGlRKLpGT4Q0vk-ELc_8yALUMX9LG6pw7d-7wWc1REFm2JevywROpAjUnFE5EZ5BEec1kq6ikXOhuccKJr_FgGGWsE3vdkkMDfowbWfPWa-J1QYdX-y-OUl__r4U91yM_lnqD3B9rrc6NpHWBJr3HeAI2lbhnMU8Ny4z6PKP2zOQbstUH6eV2VUoJjbuJibH688fXydaewE0EOADtgdyE3nP4hPAxS3lCFGXMOdZlDvq3_LsoPCC8qQgajYxnlCsIw2HZEmXbpuNO9V5UkPGwUW0vk",
+      "width": 4032
+    },
+    {
+      "height": 1033,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108467363008315017571\">M M</a>"
+      ],
+      "photo_reference": "ATKogpdCb5lI_Qd7mbG7Jp-RK_mNXBmeZV6DGc7-kDNDDV3IgKAVdnVmGCEdevurGnNCisFBdlunPFKtdQAEc2n9-ionQ889HnzrkJTY--9OLxuxYJsM-n_p0l7396zGXDj6zd0rRAbWwpkzmjqRprwwBTDfFVt-JuKg_WQL8JI6NjE27bH68GVJw5OxUR4PSEDtsdzA1Q7RmZKAZlv-vdrq7iKokXIfRJqbTp6NcB4sAHlcbPudviOzFRdrw60PB3XztQ_fSU-I3AbPxoQ4oPqkzDRtuxManXB5rfHroeLIub7hhRphGJhMoyKKAhBERs2lFsDHX1SM7Eb0MmuCJGHqyJhFlxA6_japteIsR_K7a-kj9IDeFt_WnDdPS4r1POgToEr4zl62QJXmFjDWoskKbBTpIELDTZt1sfl-hF_lGqPtTvUc",
+      "width": 1080
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106304481370343442034\">George Kao</a>"
+      ],
+      "photo_reference": "ATKogpfg0wBiaEGr-reYQLviC6ugBeswMmmytkIL9mhl93AY04LvqIbL7i8ju_NbR262uk94acx3s46jZJfIZC0AVM5OAmAL2oZvLYGTmyqeFreTlXe0wGH8kkVujaZeeft6SigksTj7asAItbSIu7VFWAUDn8Vf1IvohzJjTzaUxEkCl1iQUTpVzMGeVrpvLz3YWH21Y_toodECHO0MWZqnXnkBOuMZQ7Qp9Jjx6mIQwqJNoae7hzZu9lEJ0RQ0GNCq7lBGBYLWIKA765lcVIjmGBE8vc5F349VHMV0ij03PGLdyKjoelvJL-L_9vFsc7d84LCHHIzM6wiU_Tz8kybrOItOjCXaV3gPZFqKBsg9e29IXf2gmAZ0_zmuuADu88XWE8W0SHM6VY7RMKThbFE1N9ff-GTtGImULX_DzlqIgWbilA",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115047032276937073751\">Hamza Abid</a>"
+      ],
+      "photo_reference": "ATKogpcq2_X7Zyr6CjOfDncpPTbQLMD66jRnP2gDvw4-hIllM1kFJcfi1xIAR5haRF2NA0ppzMHWaUSZT0_ZyKqDD9dP8BsOtwrInDGAIVPw3Q9H18fxhZEi4Kjt_MgpVgiGBlHmEu01kQkepedzZdV7uAIbqYHYxgRU6pVemOAtWBVw5Y3Ng9NnPZh5ePYmXHgsXHp2d7gIKvuNvJYCax71BRQrKtD0OQ5nMhnZy4tXoWs-UgRw2papPqVOrnDoDO3IAovTbA79xQ6AhDeCk1zHkpLtuBCp3UwN_ZHgiu-EtdGG9WRsWbNzXEh8DYYKnT_hYcGo5n4kqmGz8Rye0EjObKgb_Q-th4JS8J67pFta59NxF3mHwl5keI-5yFCTrUzXgqhNJc4wpsYOEBJimkQ2Kot5dab8BnfqiljpwRYwVhR-LYw",
+      "width": 4032
+    },
+    {
+      "height": 1362,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108467363008315017571\">M M</a>"
+      ],
+      "photo_reference": "ATKogpdvsm8wOE_0cTQULyfbAlSyOaQyOQz8RRvNqua195pTXbpXyt2y8Shq9xSt5gO1h7GvN16ZbNN41XmbM9j90qUHNsk7yOl4EZ-TUKQOILWu3DcGfGOs_S21QfZP7Qjr3LdLjmhnerM1xkjccEIayC2NtywgxO2RSU-j97ZVr7lGg_TIoTl1P_ghGTU6vP_OVjup6V2B23JPqSB4NVN39t8YYlfG6E6LU8YVk5exr9avIXw4_0fN-g52BxLXd9ZAmaWyb634UVhyfXWC5_EVWncc1nBeC1aK_GhAO2fQx1WNFupBK7OGoFtkagOwK6Yg5tg3ZrcwUuhHJwreJQqi2DQnqGRpxUzgQO0hGeWmDomSr88gDvxKGE0S4n1Edj-0C67BwIZHNf55Bwp5QqP7i99_rglfX4NMnSzJ-ed6yiUHXE_8",
+      "width": 1080
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103374266891808533697\">Cindy Hao</a>"
+      ],
+      "photo_reference": "ATKogpfnf7bCm4faAYVJZIHK86QoaEje-DM7RnpHCx3ieItlHfY0oUf6eRmxYRVbCPsVrzaadad1XqKKXPa0xY2BH5ISR6cSJvlNfJt374y5PwKO-hvvzowckcZPDZCl5DNqD3aD7YYZoxnIjI4A9822-FdBdkxTBD0jYJo6gYY-R-NDv7HMYBPapqrZSeRYY45E52Z77UZpwuGKj3ipM_F01OQGa9H0YGaMfSrfcQ-ePXzKJkSJts_o6OKZCNoiI8IkJnFyORRRRkJybHBEH5GO3wllzOZk0w7AwyV7HeeBmUFFvVwQ7DtNUMq0YYi5rZk5we6NiTSMUeQga9WURbP_zOmCFH_gUryfwhObgow2awiRP2QusJVm-dD3Gf6REi7IC3laj00_CwxFvDCEtwSJeIHcJuIBtEreJXsxE_LzpdvVqQ",
+      "width": 3600
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113609085663303876288\">HANI</a>"
+      ],
+      "photo_reference": "ATKogpchcAwLYGUnrTZBdpWFa0G7D5GnlidJhBS6GUNQ-igpsyg93fVh0PYUzrx6eIMW5jz9Em65eBFe6ISMc_m-oBlpAD9dP4awzbbavcGDbMG5KXwSbdT6oGaYYzGQSTTTiAtq-cS3tMPaqM5hXy9w_oOqgZduvFyGQWNvn_bwX7PvPCVzm3dI4qr-IybA_ioEXqF1jJFe9uN-39L6PFx5y0bK07BAyxTkBSPUf5MYvmI8dDeDbJn__MAYbxLnrcNnMn2ECRutLe2Z7w8w5-kXVPP6tIoSoCgaZ0TnM7SHrWz8RE7bNEth0ZZGvRNUQaDX2NPIesuIhzzi6NbYbmGc09Bt7vwcRE2S_DJCzNrIbt_rPWS8zLcFlLMOJOy5mSyyioTtg3wcqNgd9cIWNBLb4klL0rog-1iDtIIY8TJfE-knKns",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJExC3nU9awokRgODOvdb3awc",
+  "plus_code": {
+    "compound_code": "M2Q4+WG Brooklyn, NY, USA",
+    "global_code": "87G8M2Q4+WG"
+  },
+  "price_level": 2,
+  "rating": 4.6,
+  "reference": "ChIJExC3nU9awokRgODOvdb3awc",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Dhia Hayouni",
+      "author_url": "https://www.google.com/maps/contrib/109243559462739573324/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXY_2xos4C1TDZFtw0ZnV3Wwo9MMrSRKDWGNFnz7_7CSx6dpcvM=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "What can I say? The experience was so good they start you off with traditional soup, salads and bread for free. I ordered lamb with rice and I asked for the shoulder cut and they did bring me a shoulder cut. It was so good. The staff is so accommodating the atmosphere is so nice And traditional. There\u2019s also complementary tea which was a very nice touch. I would come back here again and again.",
+      "time": 1746410004,
+      "translated": false
+    },
+    {
+      "author_name": "M M",
+      "author_url": "https://www.google.com/maps/contrib/108467363008315017571/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXdUYzMaWxHOliR6qqTuD2FIuw66PIIRB43NUVuVUMe7_42l9Qi=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "The food is excellent. The portions are large. Bread, soup, and salad are served. The service is excellent. The prices are average. One of the best Arabic restaurants in Brooklyn.\n- I've visited it several times over the past ten years (the decor hasn't changed, and the quality of the food is consistent).\n- The staff are wonderful, and the service is fast.\n- As soon as you sit down, you're served meat broth and delicious Yemeni bread with a green salad (hospitality).\n- The meat broth has changed and isn't as it used to be, with a lot of cumin added to it.\n- I was surprised that the customers were more American than Arab.\n- My order and rating are as follows:\n1/ Small meat 10/10.\n2/ Chicken knot 10/10.\n3/ Honey, time, cream, and black seed fatteh 10/10\n(I highly recommend the restaurant)... One of the best Yemeni Arabic restaurants in New York City. The rice, meat, and chicken are excellent. The service is fast and the staff is very respectful. It's worth visiting more than once. A very excellent experience. The location is close and next to Arabic shops.",
+      "time": 1742211479,
+      "translated": false
+    },
+    {
+      "author_name": "Kristina Kelley",
+      "author_url": "https://www.google.com/maps/contrib/108581511128131630155/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVNVhit98OLm6JqP6r_pQo3NR-9olUZAzG0PY5pP3o72pQftEY_=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "This place is consistently amazing. I\u2019ve been eating here for years. Order anything, it\u2019ll be great. Opened in 1986, they are the first Yemeni restaurant in the US.\n\nThere is a self-serve water (metal cups) and hot tea (paper cups) station to the back right-hand portion of the restaurant. The tea is labeled \u201cYemeni Style Hot Tea\u201d on the menu. It is a slightly sweetened black tea likely spiced with cardamom, clove, and the slightest bit of cinnamon.\n\nAs soon as you\u2019re seated you will get a small dish of lemon wedges and spicy, fresh Yemeni Zahawig (salsa). Shortly thereafter, you\u2019ll get Marag (soup) and bread. The Marag is a deep and rich lamb broth with onions - squeeze a lemon wedge into your soup and feel free to use the Zahawig to spice to taste. The Zahawig is likely tomato, jalape\u00f1o, cilantro, and a couple other surprises. It is excitingly spicy for a table \u201csalsa\u201d and tastes like it is made fresh.\n\nThe bread is crispy on the bottom and the edges. It holds up very well to everything you\u2019ll use it to dip and pile on during your meal. It\u2019s a giant, round flatbread that your entire table will tear at and enjoy.\n\nThere are a lot of vegetarian dishes that are fun to share: hummus, baba ghanoush, a vegetarian entree which is a vegetable stew served over rice with salad.\n\nThe hummus is smooth and doesn\u2019t need salt, perfect as is, very delicately seasoned. The baba ghanoush is so refreshing.\n\nFoul is a very fun dish to order. This is a tiny pot of mashed fava beans that are saut\u00e9ed with tomatoes and onions and comes out bubbling. It is very well-balanced.\n\nFasoolia is white kidney beans saut\u00e9ed with onions, garlic, tomatoes, cumin, and minced scallions. One of my favorites.\n\nEveryone who has eaten the meat here has loved it and raved about its tenderness. Make sure you try all the things. They are open later than many places in the neighborhood (11:30pm). I love coming here.",
+      "time": 1750135601,
+      "translated": false
+    },
+    {
+      "author_name": "Laura",
+      "author_url": "https://www.google.com/maps/contrib/100695053338069048384/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKkfeOf0JLqNr7taJjO4ABQeH6lPmILV1k7fMyJK_S5tHVmHA=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Picked this place since we needed a halal place.  It\u2019s really good.  We split 2 lamb dishes and a chicken kabob among 5 people as well as a hummus/baba ganoush appetizer.  They brought tons of amazing bread to the table :).  The tea was good as well.  We\u2019ve always gone to the other location but met up here for the central location and it didn\u2019t disappoint.  For vegetarians there is an option (I think vegan) but there\u2019s not tons.",
+      "time": 1744835724,
+      "translated": false
+    },
+    {
+      "author_name": "Cindy Hao",
+      "author_url": "https://www.google.com/maps/contrib/103374266891808533697/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUuGxy74xdoV-j2z2GhpZA9dbJtHCntwVESyMvDgibIKLW6jzf6pQ=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "the portions are so generous & you get a lamb soup, a salad, and this flatbread (refillable, and SO good) with your meal\n\nvibe is very homey and rustic. we got there around 12:30 on a sunday and it was pretty empty but it was pretty packed by like 1:30",
+      "time": 1736110834,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "2330"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "2330"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "2330"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2330"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2330"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2330"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "2330"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "type": "DELIVERY",
+      "weekday_text": [
+        "Monday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+        "Tuesday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+        "Wednesday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+        "Thursday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+        "Friday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+        "Saturday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+        "Sunday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM"
+      ]
+    },
+    {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "2330"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "2330"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "2330"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2330"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2330"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2330"
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1000"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "2330"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1000"
+          }
+        }
+      ],
+      "type": "TAKEOUT",
+      "weekday_text": [
+        "Monday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+        "Tuesday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+        "Wednesday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+        "Thursday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+        "Friday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+        "Saturday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM",
+        "Sunday: 10:00\u202fAM\u2009\u2013\u200911:30\u202fPM"
+      ]
+    }
+  ],
+  "serves_beer": false,
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "food",
+    "point_of_interest",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=534793482453049472",
+  "user_ratings_total": 3286,
+  "utc_offset": -240,
+  "vicinity": "176 Atlantic Ave, Brooklyn",
+  "website": "https://yemencafe.com/yemencafrestaurantatlantic?utm_source=google",
+  "wheelchair_accessible_entrance": false
+}

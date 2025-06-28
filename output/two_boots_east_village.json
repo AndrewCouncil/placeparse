@@ -1,0 +1,583 @@
+{
+  "address_components": [
+    {
+      "long_name": "42",
+      "short_name": "42",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Avenue A",
+      "short_name": "Avenue A",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10009",
+      "short_name": "10009",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">42 Avenue A</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10009</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": true,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0000",
+          "truncated": true
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u200911:00\u202fPM",
+      "Friday: 12:00\u202fPM\u2009\u2013\u20092:00\u202fAM",
+      "Saturday: 12:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
+      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Offbeat chain serving cornmeal-crusted pizzas with quirky Cajun toppings in a kid-friendly space."
+  },
+  "formatted_address": "42 Avenue A, New York, NY 10009, USA",
+  "formatted_phone_number": "(212) 254-1919",
+  "geometry": {
+    "location": {
+      "lat": 40.7236772,
+      "lng": -73.9850623
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7250755802915,
+        "lng": -73.98378146970849
+      },
+      "southwest": {
+        "lat": 40.7223776197085,
+        "lng": -73.98647943029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-254-1919",
+  "name": "Two Boots Pizza East Village",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2300"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u200911:00\u202fPM",
+      "Friday: 12:00\u202fPM\u2009\u2013\u20092:00\u202fAM",
+      "Saturday: 12:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
+      "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107473118574396191045\">Two Boots Pizza East Village</a>"
+      ],
+      "photo_reference": "ATKogpelpqwKmiHCJ7P8JsfXpaN3Fzen3zg2VcLsC0NQZeXXP0eeO1Fy-zluVfFY85_tnHmvi7wT2F-sIX1loy9rB0HiZaSGegVGCRL55DcUZ_nV-cbS1235K5nPcaRpmHnLOVF39dGwbaJgiq3I1fHlyj0O0AeLwZOtLZv12TXrxpIGmv845VHv8yehQ8ZC6CyLniSDLZyjvwosfyBp4F_PyvkyG246xSGLT92G1mpQR1DbQMXT1DL3gHk9wtZaqoc1bn5kUnZtyHT5RsLSNVpc76U2_WW77Hj3U4uv9659Or8tFg",
+      "width": 1080
+    },
+    {
+      "height": 1429,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107473118574396191045\">Two Boots Pizza East Village</a>"
+      ],
+      "photo_reference": "ATKogpfIBAzV7DL0z2is50Ic8iC_E78NyU9yEx14HgDeTEEnUGAVNMo-9NH4dw47YsxnsP_d_TzjffjQ4-eC_bk0aOydAZWOc4dkXGWaC0D_yyuFxdAcJSy2ZajwkS4x7oB4CjgIYcCwkGQ3O0bub643gSKmN1TrzUg9t-SwZG1SV3ce6MB5AajjthCgag97lC0X--Os-EVaa0e_nKAOShlc7Of5BWNhISg4RqqOJJetG8Ujg-7_Aj7rKavG61f0ZrsOBg2gqJYfOMp4NQf0mlruxKH2yHzKXAUtyq_YEYX1uVF7jw",
+      "width": 2000
+    },
+    {
+      "height": 1245,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113936035443177418672\">Rebeca PV</a>"
+      ],
+      "photo_reference": "ATKogpe7CRw5qNSXQYEZE8TNYw29-cu6FsOKiyohMAZ-OnO_ps9lWb-vB8-KNsOGx1UVqo_uAWvy8cFfrhdPBr6QY1nrmqwAi64XdbH8U7lnv5aQwahbDXjCLsIkqcVEJYWpqwlt3UmiOrONjyVyTdHAdPRV2NULm9axWz8R6c4bhsC3v0OOEbOStFXISyJG2T8yem2OumUuBNKpRZjUZKF2EXRTNun1rXBYYcm2I5tCsdMfXLa42faaU_VUhCq75rDVg2PjrYv8u3R5b02YJBzToN9QGQ1VCQ33-2Dc0Q7laaBOSIuqxy17IXEJLkHlfv2CZOIpaQX_BAM4cfOmRHlDxY3hqwWDBOfNR0pOCXTNN3CQkqBCRR40i0XI2Md0w5F5teC6xRFt6_iETUKDXeXVrFB1oF_4SastQEcOKcoFQpTPkUM",
+      "width": 1286
+    },
+    {
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109031018613942087679\">Chaturbhuj bhojwani</a>"
+      ],
+      "photo_reference": "ATKogpdADUi227d3wsSCBUpF5P3Jcz9pxU_9C-9hGKDFPT0wk5BUSt8XxIwwqXGkBPZamgevZC4P55jwe_bAMebIeiwvig3XQSBCUCeV04fgw3OuHJhiayw9l8TklmAuTv8OG7pM8uStmAgiTMGJIXpB4mgGS3fLzqq6tKAeyo3x3BjLLkv7vxz080n84jKpW7jvIOqFg0JTQGxUZpY3032bA9hiqpqLHzeYViUNhwZ556kc1gNc6e1HWawK8uf5iJCvKjbaWilY_tqzD15xhGjWnm4U-zJbUQ75UQSjyNU4azJc8ayxKxuIRam4OTyrON10QMLZsI-IT14-Oj6OBZVT6SIiz7rVeBuyrOqW2HmIKN3cjcbsaVilQKvfN-n-S7-HHqCojZiDqHROQItBBPFtQq-OUlZ1r82KTHKB1UPYyjPSqCVF",
+      "width": 4000
+    },
+    {
+      "height": 1920,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107473118574396191045\">Two Boots Pizza East Village</a>"
+      ],
+      "photo_reference": "ATKogpfx4FM6M6dz-s6mX7lzbqPHXOmn8gucJ-VTcbcgT7fOloUwXpSaDuXNHmhP3AgypCso0WLCUfJU_iqy20H2tYPfH7FvfLg-uEFdtE9cmu8TEY2eMMEzFgAFYnyuu1uWygQBACo3KVjZQkQdH24qd20OqePTPkngLYe27-SfM2Te6rvTxYWr-NFmqxzsygH91FoNnnOX3M7yhYP2eKevrJOYEyxXJIySQKcUNLz-wv5KGKGbKoSkQnM3mp-LjwTP3Rgl5GA-4D06ORYdt-0egP_4sZ4H2sa5F5DM0GBn_JSPKw",
+      "width": 2880
+    },
+    {
+      "height": 1430,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107473118574396191045\">Two Boots Pizza East Village</a>"
+      ],
+      "photo_reference": "ATKogpdXKkh8myFy4w_NdQE8vDlrR0rLclUpqq71LY4PrIh3uaKgROI50u4f-NbEmjDnG0pvzg4IWDXdJ1InLlTdFK261DkxWINQjpY_IJdZ9Xo2bIzzdOtu0Ugbtveads3YervYXb8cZ4-xVxfh7nVmogwRNSRlC54WCxzZsB-aZuTgpwexvxzsybFgQEr3SGy99aNc27u_PhMXlpDLheoH5okOOzdY_hspOQbGfafYa4OOKCnQVrUNQGuJ05QbPkFeVbwRkMasTnPFRcf4XHPDGqJ1lMfOf3Ny9CW8acBa5mtnvA",
+      "width": 2000
+    },
+    {
+      "height": 1365,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107473118574396191045\">Two Boots Pizza East Village</a>"
+      ],
+      "photo_reference": "ATKogpdZLrjs8FlSUcP5qjTsGDtIpejIUmcmwk9L8A6T3FW-vVpAbtquGpQBcBdh8zzduP1-O4VsvVRkZ4XbdDMg7Q_YTWFSZxa_Nw_hfRzF-x8Yl8dp23BrCRcJyvvdFKJE-vxpRqoe-aBDZ1SgjaWnAXhAmZvmpA-btj8-BUVhiAPfhJBEBCcuy5xfEj4hlxdwuh93-ljDt8YPabVmdlTxHh2QhxODfH1-bHuWaXtyT-Lyq2ioPTnglRthf41qYyC7jSus0Xc8XN-h9ueM0NIkH2OdLZIfvBpSI997huN9p8eexw",
+      "width": 2048
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112239997586915264755\">Hasanain Hasan</a>"
+      ],
+      "photo_reference": "ATKogpc_GGVWSUeakbWxZIhvQ1FTGI4YUL4xPvjTBWC8lpvcTTmf__HGoUfStG6tc2mA3hzJnjceA5N9wE1iaadzw9WftzFsqNdyjlBashm0jSFkXXStPz2L6oqH8SyQzaMFhfC91OaQXfwB3tbzuwI2hxXqnORDQffBD49oIUJvz_cPxh8ILnUU7Nyj42HMbdwtW5dDAkMTViTHQ_dsokNrzMJGc-8cUzNlthVsXZaEyICaUllfHJxjH5i5WhXvDG1XJrab1AbIt6kpHyzZKnkgnef6aDiFHqaacLq2levUZbd-13znuxyrb-SCSF8kIYKxRwjQRsyi6pl1xms2bodBo68pOWTeqazMIkHzRHtma33tEXkJ0tsKRbCdyeD0Fl-6_IG7M7tp-2sjPnFP7GEcy03w1ifDlzM0GOJeEGeqO5QETw",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117965453370576522272\">Shelstie D</a>"
+      ],
+      "photo_reference": "ATKogpdlHhERn4vvjrImXiMC6O3bf9QuB3kQnVBhbjJc9WkHUygLwpYu6NQPjrqK3_dU4ECAM1wpcDBUcHYE0PZMakUY9v6ubhItQiP5OfVSExRZsMep_OqyUdP4HWfQ9-tR4R3CKksBLcdCpEFdNs2XwHbvYpb9KC51_QrDo4aIX4JCHaL1VcOgT6WWFUE03M0v3OWrL-W_Gs6u6hWxouGKkMAUYd3I0yoku2VICbz2LRP5jwPRW6Z47Rcl78mPniWH2DOIKbUn5ULZaH85OGq2VawL0IfCIOJedHxIYJCjsOcn-9xKw0VTn1Pg8K8R9cgJtSJgagWIm2LYtfg5aeTnZRKaMQn8NaD7FWRTfwcbxOPeyVEO55WfW-RrYL5ZcRw8DHRYMYd7igw8E7mcQFuezZ2KIkcmGHKMgWpJFtQeyEtbjg",
+      "width": 3024
+    },
+    {
+      "height": 4080,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112659535258956733128\">Franc G</a>"
+      ],
+      "photo_reference": "ATKogpecAvHcg6lTKWn2e72V_Fcg6R7geiB0cjXJcBBOB8SF4IgfIBE3I9_6_KBBM0aQdvRg_5PNjnspgeSSTC27ZFzBKDUDJVHPotIsPPxQp8TfdfhPL_iYR9EC0DX4D2LoL7hzE1YYbzTqoMTJwsukmTSFmB77Cp5O6VMdVDw5kBzn4BzRmLreGCti-bDDbMRqACMI1iDO2tNovG506touheYUx9ob23EGNKVx7uV_VqD0eQ9zK4aqOnQroVS3Of2Wba4heERg8VXOtzcikt7KwqVaLRjtt4U-7nuLnUXHP9WJ-8FfCxjiollXkRTk_YR57HprDIdxnTOSdbhdpMeuudq8iUftCVeIlJbbjMTFEdttW84WxHC_U5FaezKB9nq9MQXvnAMeXGi2b_mn-iS85zzveRrMsI765KjnyE2a84wvNsRH",
+      "width": 3072
+    }
+  ],
+  "place_id": "ChIJ7-7w8IJZwokR8RpCb38T-b8",
+  "plus_code": {
+    "compound_code": "P2F7+FX New York, NY, USA",
+    "global_code": "87G8P2F7+FX"
+  },
+  "price_level": 1,
+  "rating": 4.3,
+  "reference": "ChIJ7-7w8IJZwokR8RpCb38T-b8",
+  "reviews": [
+    {
+      "author_name": "Anthony M",
+      "author_url": "https://www.google.com/maps/contrib/114497465933821430949/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUbH6iKtIo0aM11BY_HWStL8ZYmGWR0_dryWELkJUbRzriRZecv=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Nice spot located on the corner of Avenue A. Typical NYC pizza, couldn't complain. To be fair, my favorite part of the meal was the cookies. They tasted homemade, definitely worth the trip.",
+      "time": 1742766802,
+      "translated": false
+    },
+    {
+      "author_name": "Rebeca PV",
+      "author_url": "https://www.google.com/maps/contrib/113936035443177418672/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUA4IVGyNtj9KVHI4Mjq44ObbHXBjyyyTKRkJwYNVbcQDlDUNHOXQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "6 months ago",
+      "text": "Went to visit because I am a fan of Dash & Lily. The place wasn\u2019t crowded at all (only 2-3 groups) and several take away. Pizza was good and they have several soda options. They even have the movie corner! Staff was really nice. Will come back if I return to NY.",
+      "time": 1733027633,
+      "translated": false
+    },
+    {
+      "author_name": "Julius Baltonado",
+      "author_url": "https://www.google.com/maps/contrib/101085499502455570256/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWAYM8nP4BrNQwi9EnhDTZ1ATFy3f738X1FuwdWUi6qmvPpEvDmlQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "7 months ago",
+      "text": "Very rarely do you have vegan options that don't feel like a step down from everything else. Those 9pm slices also still popped off, testing fresh out of the oven instead of stale and disappointing. Good ingredients, and great artisanal flavors that give such variety. Would def go again",
+      "time": 1730862946,
+      "translated": false
+    },
+    {
+      "author_name": "Celeste C.",
+      "author_url": "https://www.google.com/maps/contrib/111323868278834632662/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWDG302SQ6i-ozprI3Lezuin__qR_TbAbjCtB1fLaep8lHXAGyR=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 2,
+      "relative_time_description": "a year ago",
+      "text": "Surrounding areaa:  Located in lower Manhattan. Great area with lots of different choices. I LOVE pizza, so I decided two boots\n\nCustomer Service: The young lady was great. She greeted me as soon as I walked in, smiled, and took my order immediately.\n\nPizza: I ordered the Grandma. Although it was heated up, it definitely wasn't fresh.",
+      "time": 1711977967,
+      "translated": false
+    },
+    {
+      "author_name": "Marilyn Otero",
+      "author_url": "https://www.google.com/maps/contrib/104598670898153759255/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKv-OmPx_AZYByY4UqD1wiwqCS9LDJVwzEwTB9C2w_C6z_QUw=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "Angel Weaver is the best! Makes you feel right at home. Gives you professional service with a smile. Two boots are so lucky  To have him!",
+      "time": 1748484479,
+      "translated": false
+    }
+  ],
+  "secondary_opening_hours": [
+    {
+      "open_now": true,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-06-30",
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-01",
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-07-02",
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "2300"
+          },
+          "open": {
+            "date": "2025-07-03",
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "2359",
+            "truncated": true
+          },
+          "open": {
+            "date": "2025-07-04",
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "0200"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "0000",
+            "truncated": true
+          }
+        },
+        {
+          "close": {
+            "date": "2025-06-29",
+            "day": 0,
+            "time": "0200"
+          },
+          "open": {
+            "date": "2025-06-28",
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "type": "DELIVERY",
+      "weekday_text": [
+        "Monday: 12:00\u2009\u2013\u200910:00\u202fPM",
+        "Tuesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+        "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+        "Thursday: 12:00\u2009\u2013\u200911:00\u202fPM",
+        "Friday: 12:00\u202fPM\u2009\u2013\u20092:00\u202fAM",
+        "Saturday: 12:00\u202fPM\u2009\u2013\u20092:00\u202fAM",
+        "Sunday: 12:00\u2009\u2013\u200910:00\u202fPM"
+      ]
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "food",
+    "meal_takeaway",
+    "restaurant",
+    "establishment",
+    "point_of_interest",
+    "meal_delivery"
+  ],
+  "url": "https://maps.google.com/?cid=13833109168493566705",
+  "user_ratings_total": 821,
+  "utc_offset": -240,
+  "vicinity": "42 Avenue A, New York",
+  "website": "https://www.twoboots.com/",
+  "wheelchair_accessible_entrance": true
+}

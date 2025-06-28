@@ -1,0 +1,442 @@
+{
+  "address_components": [
+    {
+      "long_name": "36",
+      "short_name": "36",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "West 26th Street",
+      "short_name": "W 26th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "political",
+        "locality"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10010",
+      "short_name": "10010",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">36 W 26th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10010</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1430"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1430"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1430"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1430"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1430"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1430"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1430"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 8:00\u202fAM\u2009\u2013\u20092:30\u202fPM",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u20092:30\u202fPM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u20092:30\u202fPM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u20092:30\u202fPM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u20092:30\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u20092:30\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u20092:30\u202fPM"
+    ]
+  },
+  "dine_in": true,
+  "formatted_address": "36 W 26th St, New York, NY 10010, USA",
+  "formatted_phone_number": "(347) 271-1601",
+  "geometry": {
+    "location": {
+      "lat": 40.7442476,
+      "lng": -73.9906333
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.74568653029149,
+        "lng": -73.98921061970849
+      },
+      "southwest": {
+        "lat": 40.7429885697085,
+        "lng": -73.99190858029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 347-271-1601",
+  "name": "OKONOMI / YUJI Ramen Manhattan",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1430"
+        },
+        "open": {
+          "day": 0,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1430"
+        },
+        "open": {
+          "day": 1,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1430"
+        },
+        "open": {
+          "day": 2,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1430"
+        },
+        "open": {
+          "day": 3,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1430"
+        },
+        "open": {
+          "day": 4,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1430"
+        },
+        "open": {
+          "day": 5,
+          "time": "0800"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1430"
+        },
+        "open": {
+          "day": 6,
+          "time": "0800"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 8:00\u202fAM\u2009\u2013\u20092:30\u202fPM",
+      "Tuesday: 8:00\u202fAM\u2009\u2013\u20092:30\u202fPM",
+      "Wednesday: 8:00\u202fAM\u2009\u2013\u20092:30\u202fPM",
+      "Thursday: 8:00\u202fAM\u2009\u2013\u20092:30\u202fPM",
+      "Friday: 8:00\u202fAM\u2009\u2013\u20092:30\u202fPM",
+      "Saturday: 8:00\u202fAM\u2009\u2013\u20092:30\u202fPM",
+      "Sunday: 8:00\u202fAM\u2009\u2013\u20092:30\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112557446403741529658\">Rachel Makowski</a>"
+      ],
+      "photo_reference": "ATKogpdRVPmSK7M6iM08xnsEBS6wo0pg5wms36eSUUJPIFfcL1T7EgTltyl3409sWJIvZWb8fhz5vUaDqCgBarI4T5BjpjUKich2YGxf9m_ICuqF5PaljgcK0SCrumFIBsWNFZAbpSg8-9tPN-l2w0sP-D5tQi1RKmxd7y_EnUpjK6mGjnIGK9xjryz0JYM5Sf5N2RE0u0Chh4ym-5TejE0_7-x7jLTNim_qvdeWbe9_ppuSYmN5Jwc51hdV6sQxtBCRuVJ4th8HaTF6tXKiDWE1NoJUgiZ40B82YZ4CNPm9HUzVv-71Z_kwiuHvdhkoocf_vsTSAp2PIdM1s32iucNwjfWGVV27cQwquPNXeuovHJPo6eBe3pJ0J-oUnHd6zzl9DfjhB6XEy79157kqVbZlEVBNwuCyDCIAAqX0CB303Fa9Vw",
+      "width": 3600
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114991375551106576202\">OKONOMI / YUJI Ramen Manhattan</a>"
+      ],
+      "photo_reference": "ATKogpeweVS0yoLNUFPs1M03MgRhUcoXMTUW6gsYousfkcBmI6dirM-l43oJ3sGOJsSo3DyEgjfFmyZ_eJqIjDCMQmUV2cvQGb6ZX07Z0p_2An7fTfqpc84S7t4rCfGN4s8rJVgrrn2XdwZBKDnuu5MH5ThwAN55-z5pnyyzOlQrq5AZd7pxZQe-ARS7EkfQtaHaNKTOmiLGXTNs9p9ceSZuMdQ5HWvD-u85FSsgG4shvpShpoq3ES6kcAlo5HQ5cmI4_-XvpjMQBTp4b-yLWW6XPCHxH5o6XXAMQhSaF-g16UOamA",
+      "width": 4800
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110614305946218943643\">Nisha Modi</a>"
+      ],
+      "photo_reference": "ATKogpfG6mxsFai-yBCqPk4uX9VYQ1t_lcxrrdmzKU8iUh0G-sbsxLfM41rqfcgtWU03UO-lI4BXjlJvGwAgtV2x0-uHanDIoKURhbSOPxW6DdNi6tUjjlowsiG3GrEMuVvK_OmY1mK3E1dYDrM_xw_LkM04VwtvtC8w42tIPmFHyWlSvV0VLSnnYz0NW8IiUmr8eYYEDvDQLh6u3tEsIApxTeecVO5LmnCDx09kWx0WGHFPjRgcVt4o2dPDPTvuQ__Cqq7wNIuio20_VnCIzsEJAMMnwIcWp8S156sksCKynVvlHov8nV4qdycpx8sq2cL4VeyTi_z43JTzfZrQjgf8UYo0FNQx32TR1vDltzizqHZlGbX5j2wVfaxlUGS3LJV-q8OcvzJDybdh6lPqc0jMmT2d-vmgnIVFOIr3E4CYDeKm8eElAKXExwH5-hcHfw",
+      "width": 4032
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114991375551106576202\">OKONOMI / YUJI Ramen Manhattan</a>"
+      ],
+      "photo_reference": "ATKogpcdyGgpERM73pAiRigMoksSg1t95EYUBhr7Zh1Tvbz0LofwZIVJP9az3Xap1PkGiNnKKxnecPOYDWkbZQO0JyL-P-9YgUIMKYFAVCCIkNLzaXuI6Ju41-XandIxKKg551HeGGMHsu9qklWkvR6LpFwsYAgkbglWp50nfTOsmE_sAXkxhs7tZfIQIFiNpwZNVN90YUli-RlbDlZpdZ4HHyXVcFGCEoGu7DHcFjx4ofCU1bPRmSvMu2gD80A2fJLurOPlgx9cn-Kv4LpW0KIpm2nPbpj6cpZfGEn_wp4BYeBaUw",
+      "width": 4800
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114991375551106576202\">OKONOMI / YUJI Ramen Manhattan</a>"
+      ],
+      "photo_reference": "ATKogpd5LHgDfrlYR47N9rd-qd2-KfiOmgjbZ0XwP8thlBvNk3xr32Sowf1BI2G-Jr2A4wLE-janmUrl8a9zJUXXKCWeuiDkS-L5TtaSuncBGV914Hl9M6F_WbaeWbGkcHCwhJVuFBsKZdy8MbV7KshBSnpSRMxcFkQkf1e2DWvqetu3e_lmnwOZ61aAja4jyp1bi9SreiOXcw93EKu5WMpaB1aZYpCVCC_LpSgYiRwlxRZpjm96PKLRvIfXpBJD97NluM9KNT-0ovGBw73oAX9SuYkIDKesV2zJFMvUgq5NsZkbNA",
+      "width": 3199
+    },
+    {
+      "height": 4181,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114991375551106576202\">OKONOMI / YUJI Ramen Manhattan</a>"
+      ],
+      "photo_reference": "ATKogpdaO06m5KhQcXPmN5_BpJ9QMvtqBtBlkzOvQbRwq_iDnMPGfXOKm2LyaVxIuw0-VmhewyuSyyDe5KkCJfOHqZO1goZdjdXtSWSsrPO5gYUtWRhr-Tt-QmlAJ0jhH-ZmJik3w_zyPSWM3-eCbofiUFgrFmSFYS_myy04dubF0KfqZ61xSH2ea1gxuTCM0GOhUyglbwfwFfw8AWQlVm7EnqG6YZAokto5UD_Ikk4nvf78-tgp8BXqcTtuR6ld6to5CYzyA7PKw-NhpC4_JZKrqgmIRPhWqJUG6GKLj3K7N4Mp5Q",
+      "width": 2788
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106413833229558326259\">Rachel Lee</a>"
+      ],
+      "photo_reference": "ATKogpdr0yK0gqH2P5FjbKfAKNOkYU9iCClMlDgPoefNO7a7d29DpbPBl7CNMm9hTfXkL-QSAcaVHoA3EpQY0RTymwm_IqvNr-jv17xVsnXgBf_FC0ROISWncUNWihxKwWhxE62OfOwaWSZ12LY9TFEgKH9TCMmYSq4ERKw3aYnO7FGcbduHMwVAXyy76clmCxq_rHLQ-CXt7gU8uwY-ld6Fsajdm3go7o0l_-IhkAGvQlTREinDHVr-Y2Lja7hQ43cNYRCvg18pPne1RsfeLxCKqS8-b5puKjkYmV3S9kOBJEQSgPYNUlE6Fs74x_12r7H-D9_S_cw6GWCT0VTiZVUrDf1Y0POnALjkhz2xSsh8bvsQEs4I1Btj-767ZCVWyyC7GZo6-QdR2sbxIq6HLDJ1Hcbgcck9Sl5vCkeyeD3d9JGVsodK",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116697000455593174387\">Amy anurak</a>"
+      ],
+      "photo_reference": "ATKogpcGSzST0Ajvk9aK7eG_AcDXj6fPY0UemjkR-cmNNCemhMglN7WYIAGAPN1XOEn1_aakws3_NcTfu73X_wXgZrC2LG_DIC1Pa6FOnvSzISkPLnoZ3ax9dhHrk1hmCun7fI8pHqMbRz-5gxOCaii9BSqGH0-EjJ94yndwFBYfBbghTXYns2AeUtb6qKKH-fgTObJSwFpYj67WUyM3lXSy2Fl6O50GBJfbUCsL1AQCmU93v-5QnQTJa_RMKpbZjggrvobxlxP0xpnEVDekP8urLPnwLQKQU85h3GH9oxPQU8Tjmrdc9ncdf2oZdiWV-V2Hj05_dqsGDKC9mIeqUpzJw8zVQZ-0tfnob5xNkikznLIcZYK7C9ITB9-hci1TeYZ_mKz61JCKUE4hsjZiAKfZPL12ikFVsNp1_N_i3t6wbiEUbw",
+      "width": 3024
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107432597347186846435\">Daisy Z</a>"
+      ],
+      "photo_reference": "ATKogpfMlB4C5NzhixjHSpJDDZ8y9ppBqU4bfidzhDVvAW1VptLUCVoQB2p4QTfM61Y18dErnX5OVdWzhCdA4sGi3-NiGC2kLRA86qrSgVAdI4hET8bnDVW7CST193ZuiawL6FQNaAdS7hUE3a9-6A79HbBkK3nH6IC6NJ9ZPkblMUgZbx29ErHZHD28ujd3iZnWjXlE5dbMnMZe7Athn76-h3rxNHDoHhtQEl2qjdWLzM7yvWIx2lQ1Dl43aNqHUbDBdRlTrX1F3rEpwvJZv7pGYZjRqDWctPgihdH0BEg2OdFfIl38_AKS4ETA_OPdo2g6Z5OuwoLayeyciuv9Xt9-hSGAyg6Apyx1hL51Gjk9NayjfkT2AwWBV6X-zFpkHnKipOcAf6kZ7ilksppfTAsXVl9efyisR09UE5TG2A0bNBdnM3HL",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114549103139216766389\">Gloria To</a>"
+      ],
+      "photo_reference": "ATKogpct4HY_T36HTHYnTZzDUXfxj6Cs_8_AKuboX_t7GmP1Uw_5u0VcQ2qNLAFhhp6bacopaj82HsMB8ZJztZQaDEF70fQCCFkhS1_TM7p_YjUwO8fW9aq5S97WB0s38Hn5kTlocri4ZFAKSCFqckmKvOkTBKwzt_7cmdVH5cXK8t8Wn97BJoHIWoAarXK3tGoWOS4mFxu1GAd-Zznyd15iYPzYX2mhOBqY9d5_48dOxbKQnQQX5ksoqQzl1AjgvulpeZ3RvbWGKU9EX9Zv4RvRrx41gZuV1iUHv5ktGcHtxRg4-swBLyEXuzcUEUYFrKiaCsHjeu_PQqDyxEKCCqW4hYFgCcnzbCn5VUPk5fiaDtaaT56igWgihhIWnXBeGz5jybCzsG8i8723jsNyCVs8ek3yxQnB5F-ZSaGFGJhWHf8BHw",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJtSiEHwBZwokRvaIX7do3E7Y",
+  "plus_code": {
+    "compound_code": "P2V5+MP New York, NY, USA",
+    "global_code": "87G8P2V5+MP"
+  },
+  "rating": 4.5,
+  "reference": "ChIJtSiEHwBZwokRvaIX7do3E7Y",
+  "reviews": [
+    {
+      "author_name": "Tsering gurung",
+      "author_url": "https://www.google.com/maps/contrib/106194242434208684918/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJJoSNHd6bOzJCZM53TYHHo8ATgQPkVw1L8q6XgcjraatfGA3U=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Loved the food. We got the yakizakana set. For the fish, the yellowtail tasted very good and fresh. It was well cooked. The service was impeccable and the atmosphere here is calm. Adds the perfect touch to the Japanese culture. Will come back\n\nAlso, you don\u2019t necessarily need a reservation for the manhattan location as opposed to Brooklyn\u2019s. Went on a weekend day, plenty of seats available.",
+      "time": 1744136080,
+      "translated": false
+    },
+    {
+      "author_name": "leah",
+      "author_url": "https://www.google.com/maps/contrib/112943327097997807906/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWJKPBb78mJkfrKe7Eb9YEMuOcl1_bhef_ZLpeaZmDz2o1DHJgIag=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "8 months ago",
+      "text": "This place was great! I came here with my boyfriend on a Monday night and the inside was super cool.\n\nWe started with both appetizers (the sashimi and the eel dish) which were AMAZING! The quality of the fish was unmatched. We also got a piece of uni each. I\u2019ve recently traveled to Japan, and the quality of their uni at this restaurant was superior to many that I tried in Japan. It was INCREDIBLE.\n\nMy boyfriend got the eel and it was amazing. The sides were a bit strange and disappointing, but the main dish was the star. The eel was incredible, even their miso soup was flavorful.\n\nI got the spicy tuna mazemen. Here\u2019s where my problem was. Unfortunately, my noodles were basically raw. When you bit a noodle in half, you could still see the white hard interior. The noodles were inedible which was extremely disappointing. The tuna and spicy flavors were great though.\n\nThe dessert was AMAZING, it was a hojicha panna cotta (that was only 6$?!?! WOW) and blew us away. It was light and flavorful and perfectly sweet.",
+      "time": 1727828522,
+      "translated": false
+    },
+    {
+      "author_name": "Daisy Z",
+      "author_url": "https://www.google.com/maps/contrib/107432597347186846435/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVFCPhQJRWoQZ0H80nSq80PhemEp89sINZ7eXicVFT7rjl8DYut=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "8 months ago",
+      "text": "In general I think it\u2019s delicious. However, I think the appetizer (we had sashimi) looked and tasted like it\u2019s been cut and ready for too long that the fish was a bit dry on the edge.\n\nThe unagi was ok.\n\nEbi ramen was quite special since I haven\u2019t seen much fish/shrimp based ramen and I personally enjoyed it. I can see the shrimp meat from the soup base and it has a very strong shrimp flavor. Aside from those, I do feel like the tuna was a bit smelly and the soup is a bit too salty.\n\nDessert was awesome!",
+      "time": 1730081519,
+      "translated": false
+    },
+    {
+      "author_name": "Alex Wiley",
+      "author_url": "https://www.google.com/maps/contrib/106490561140064465097/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnkNpW75yf_YSVLdNZNFpC9X7tUPLRR6VHZhV2IM6phIPuBG3ZPA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "9 months ago",
+      "text": "We had an incredible experience at this pop up! Having been to the original location many years ago I was excited to try their food again in a bigger space. I love that breakfast and dinner options are available all day! We ordered an unagi bowl with five sides, the tuna confit mazeman and some sake. Everything was delicious! The unagi was perfect and we loved sampling the five sides. I'm a sucker for omelette. The tuna confit mazeman was outstanding. The noodles were thick and chewy, the toppings had great flavor and texture. We also enjoyed both sakes we tried and would definitely return to sample more dishes!",
+      "time": 1727130952,
+      "translated": false
+    },
+    {
+      "author_name": "Mangja OnTheBeat",
+      "author_url": "https://www.google.com/maps/contrib/116214709798734014975/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWaXiQZVMPZu-HGOCTPAnzu_07D_HU06_IvY8hEEFujVUDojui3=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "10 months ago",
+      "text": "Great breakfast, lunch & brunch place to eat delicate and pretty Japanese bites. Ordered 5 pieces Japanese breakfast. Fish is the main dish. Three choices. I recommend Tai fish and swordfish.\n\nRecommend trying all the add-ons. There are four of them. Pictures and caption added for the details of the food I ordered.",
+      "time": 1724520632,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": false,
+  "serves_lunch": true,
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "establishment",
+    "restaurant",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=13119891552880534205",
+  "user_ratings_total": 53,
+  "utc_offset": -240,
+  "vicinity": "36 W 26th St, New York",
+  "website": "https://www.okonomi.us/"
+}

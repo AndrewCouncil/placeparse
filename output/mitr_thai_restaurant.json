@@ -1,0 +1,608 @@
+{
+  "address_components": [
+    {
+      "long_name": "37",
+      "short_name": "37",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "West 46th Street",
+      "short_name": "W 46th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10036",
+      "short_name": "10036",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "4123",
+      "short_name": "4123",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">37 W 46th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10036-4123</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1545"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2215"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1545"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2215"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1545"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2215"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1545"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2215"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1545"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2215"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1545"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2245"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1545"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2245"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20093:45\u202fPM, 5:00\u2009\u2013\u200910:15\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:45\u202fPM, 5:00\u2009\u2013\u200910:15\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:45\u202fPM, 5:00\u2009\u2013\u200910:15\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20093:45\u202fPM, 5:00\u2009\u2013\u200910:15\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u20093:45\u202fPM, 5:00\u2009\u2013\u200910:45\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20093:45\u202fPM, 5:00\u2009\u2013\u200910:45\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20093:45\u202fPM, 5:00\u2009\u2013\u200910:15\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "37 W 46th St, New York, NY 10036, USA",
+  "formatted_phone_number": "(212) 466-6699",
+  "geometry": {
+    "location": {
+      "lat": 40.75687689999999,
+      "lng": -73.9804147
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7581398302915,
+        "lng": -73.97916781970848
+      },
+      "southwest": {
+        "lat": 40.75544186970851,
+        "lng": -73.9818657802915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-466-6699",
+  "name": "Mitr Thai Restaurant",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1545"
+        },
+        "open": {
+          "day": 0,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "2215"
+        },
+        "open": {
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1545"
+        },
+        "open": {
+          "day": 1,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2215"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "1545"
+        },
+        "open": {
+          "day": 2,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2215"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1545"
+        },
+        "open": {
+          "day": 3,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2215"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1545"
+        },
+        "open": {
+          "day": 4,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2215"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1545"
+        },
+        "open": {
+          "day": 5,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2245"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1545"
+        },
+        "open": {
+          "day": 6,
+          "time": "1130"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2245"
+        },
+        "open": {
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:30\u202fAM\u2009\u2013\u20093:45\u202fPM, 5:00\u2009\u2013\u200910:15\u202fPM",
+      "Tuesday: 11:30\u202fAM\u2009\u2013\u20093:45\u202fPM, 5:00\u2009\u2013\u200910:15\u202fPM",
+      "Wednesday: 11:30\u202fAM\u2009\u2013\u20093:45\u202fPM, 5:00\u2009\u2013\u200910:15\u202fPM",
+      "Thursday: 11:30\u202fAM\u2009\u2013\u20093:45\u202fPM, 5:00\u2009\u2013\u200910:15\u202fPM",
+      "Friday: 11:30\u202fAM\u2009\u2013\u20093:45\u202fPM, 5:00\u2009\u2013\u200910:45\u202fPM",
+      "Saturday: 11:30\u202fAM\u2009\u2013\u20093:45\u202fPM, 5:00\u2009\u2013\u200910:45\u202fPM",
+      "Sunday: 11:30\u202fAM\u2009\u2013\u20093:45\u202fPM, 5:00\u2009\u2013\u200910:15\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110348792049063198578\">Jan Kwak</a>"
+      ],
+      "photo_reference": "ATKogpcTG6xOxa62KOu7tE7-1KCy1mVx6gxmA_90OtOHuWQMKt5CXm6UTKVltMt1aE6aPKzpRPmH9pH6ttUR29ue4nZjBa3AFhfu3xE9wmTMNy3AqXuWKKk3fgqGQZUXjWguNOnIYSQkliWbZqPqVBA_B4-1KrDRBdD9pbRanUCMlkMazQSsCqFu-Zf_JjnSH5Z21bbYrE5F1TOs1VgtuLX11_Lz2LQpw9qrF5VzbXcIH4pCBI5EIAPz3WtjT3q41jOzxsUU_xQMUKpRkDogp6rGTd5AqVyQCoXOScslzo3pJN1E71oC5-CAsfOjKFyAmKBA51OXyO2ZmXF5ZQKjhVL0aTgtziI1jiwYq1SCTPOwKt8nZ-DxRHuCMtjQwxIBLM0qXqoA-SeqilvdeuNg8rrSjPYd-xW11QWXBCp-tAM6vk0",
+      "width": 3600
+    },
+    {
+      "height": 1464,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106597912976516440197\">Mitr Thai Restaurant</a>"
+      ],
+      "photo_reference": "ATKogpdf9gLZjQYxRrADVOc76MEIj5QUZkxoerj209BNeqERJv0W-vMNzMskUGUvOvR4aL1Sn1jftaG_s7HHH2TNkArvGpjSy5O8zwulaASVia9a6JiEH92XSBHpUTCi6EP28T-zXSwLMlVO1xpSBynGH7geLBGdoCe7b2quu8tyIuwoPUiP2JAjX5HeqQqiYfK6T9ei5cUcrBSmURxUwvD5Pgy-Ej5XiTn6p0UubgMGvX5ONnyz4jq5jIWNSnNerWiyHSnSN5A3WUxl95tohiiUKhEz3AVoj0HkkbHkbBkuCSnWrA",
+      "width": 1284
+    },
+    {
+      "height": 735,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114042356205282192916\">Neha Sharma</a>"
+      ],
+      "photo_reference": "ATKogped425EXoaypRV2MSb0kJYxkbSG3_A-sgzS5T_MJhnAmMXEzmiTVBCHz7cE0mTvgByxC9Y76AcT_Mt8DJd8YP9B200fcdXgLDK7mH4Fc49jZ5xcMmntrte0kiw60ETGDB3jZJX4gkNzZU7Sw3-0Vtb6QqwOV-TKjQpH-K0H2-n45XgxnO944KCsJpoPPTLfrE8c9Agz_vFTBtQ71d6XhSyIFYxgO4wpA9ekXiM5OuCD3YrpY5Dx0PuaV5j2VUUl-PP0x1Kp7BGCOsWPCF3KcOv5XMkChLxkQPvaRYh6GEN_m8L0YV0M5kYoeyEDIRh6HMvgDhiDATApGI37eu4Hpjm-qVY6qWglRPQNv3v678CvoiEp7adEoohUthMgneSNEQ9cbZXk_93uCrUmlPxmGxAas7w0TGbTb7L8f9dBECyLCQ",
+      "width": 1098
+    },
+    {
+      "height": 1688,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105106284831046198267\">Johnny Nanoel</a>"
+      ],
+      "photo_reference": "ATKogpeZZKnRNXUDuFyHn_Q-9FPLNUhJAQ7f-DSLtscmkt9_iglH0EWZQn5B4ShzFstwykbXCxFZn_ng-6iMsawsxIlH9priqYYrTmcXV69iPB9QPpW-MFriH4mGrv0ZTkFueeVftcvrKrw27QPoDIcawZ4tPrdMZxe2NpcsAS4B0j8JWtDAebTQZKx0eEk0eGziAbkZmSenf5F8PUf9fxM2GduxCjKCw1baaPnMgo147KqvNKwaUmaq3oF6JABweybRAp8xWJrhwLvf0X9h_gza4apTIij8r-YdPU3n86OlFgur4QZYDcEblKKSJcboYhP84LveHzTzGBoEwqMqpxDyYULbDBV9LgkmSjqb02ipdNVCK1igNK-act4K2trpy9YMQ7zKbyANthnBiKnEXRZPYFv_PPQ8K2MROSopDWMzUYXLoA",
+      "width": 1320
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108943022095356144057\">Yani Sun</a>"
+      ],
+      "photo_reference": "ATKogpc2tlDu8YDzuqUiQdvFjxSYVlWncimTSVVmOJT153hTwvn2VmUElVh7e_bPJceu-c_R1W54ECIaqsJygVtxNpA50qdwfVm9tXOhhbF_nWhGjv_BkycTflK9Z6ITA1zVKvmpl8rHtQD_BAjvpYJmqoYIDFfDvIinhZTd6_AjkpOl9afcSkIFsBmWaO2vArgtJmJF3_aHpoXYE3ntgLAN5LIKkYTwirdl730zQ5-cZwXR5AwIQm5CZJAx_LEc41AU17_FvqskQoLwI_z3Ys7WCiEF87li_gseBNZFmfElvxJBgX44u4JGiKoRg4ixs3LEjNG3S08zKVOtICot0mCHfuduuFO8m0Edyq9wTp5YhjkPZJsZ8MLtYCD_QuwuKuplqF-zwCy8Xfey1jMcwNpUSm9JefeJfFiSO9-0joQ0Xyn-XG4",
+      "width": 3600
+    },
+    {
+      "height": 3540,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107662777699730971839\">Aditya J</a>"
+      ],
+      "photo_reference": "ATKogpc9DND_LgZc4Jk_VeqBZFxv9WsPwnl-PxzCWTUOUHoThc2KEK-U1fC4HQeiYr3jDBfHY0AmSnMRXdiduo5u2iSdD_jy8kEaAr7ceexk8KcB5uMFPJWQGWMp42SJUsXFmz5ZbUBykCVCQ3osMFrSCcKPHP9BvYDWZtUeUVUd-g2hXfmElKKpVEp4UkN2hx9PpuzCqUM6qxRrPDyZVlcWjqTWAc7NQvxLLM0k5WcrglAkdTIxN_eUcWfiavqKVJZk74G7GtJIgLboodb2eyC9gQJLNsbSiECPFfszbHmMCA7PmVJ5Pj3Q5spnctZGknj9Q0OdYfP-6JEY1qkgx2bkE8u4vZtoWzBEa8xAJcZ6doDgLqZx6qhiFiL86dmhZPU-ilGBVQvy_L9ivteuXpQ8lzpDwhn6yMjIHcyFzxXDkiFQVpwt",
+      "width": 4716
+    },
+    {
+      "height": 1539,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113405421128035564457\">Bao Nguyen</a>"
+      ],
+      "photo_reference": "ATKogpe5jZ5eZZTqDhJb9x0uAlat5FAWBGluQT8B6EklTQwDfipHxU48MIanMymjATawJ_dxvda6xJ-3Qu8qsCa6GDSRYtJW_2f9k-ZtPI_ex6WXaPnJTL0T6zjH0LZEp2cV02_g-McUBTgHIduiqACTt_ptmfWDKes_whjINbulqmXW5GNREZ6LJxPW0kZ9Ob5GzVfKNbuCsZqkOw4qvXIvHP8i1gbsaTdwLisCtYjaezreByysc_rnqGnb8b6-w3hBkTflDP1jHLur5adC9fKFJNuKhJ_7W8GwtNdssg8hUjNqruMK013tiqjL0YeJnxcPVq4VF0b0yId_q-gobAgAjO4rKF23k7FK1kr48S4UheZqnkTkRGWfCIKwwdNync4eus1KtwtQJtqd0a_8qImnEwjW_XmbkGmV3FK_6V5jnEx7kfl9",
+      "width": 1290
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102839362521414705546\">Cheryl Armstrong</a>"
+      ],
+      "photo_reference": "ATKogpdJwZrfp8zMUWUKiIa42sEgadAN3yzEBFpl0PvSyGpRutWz2Z8_Bn2bRzTaqp0SKPNwjaS9sMZYfPj7CGJGhdlT6gCHdJzaUoJkaM_D_w8LPgJORNRpv3dchyvRNNVZnSPsnzdIKX0k85HxyQ7BH4LjGIpW1WbhNzLATNAQ5h8G_dCL__YVNke9rJoeNdXAd6WQN6DzE2U2xB-XgopNEgS4cfVAsKZPc84zUrHiqFnW9rfKsNEpgAqTq7maWrvLvNWCIBlZ-kmJxm_CVegZBeSWmON4-pkMoEJx7SicKZxJg40D2XTwoG8gaFIb3JHxylTYfTKrdEIGMpm780UozYRTnmKyfA7xBLN_-Z_0smUfzbaI5MGC8ksaPDfyJEiixBcMBinxvz3yO7OFkGbqQAs9xZA3mPTLAHrj3z21_GA",
+      "width": 4800
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110131431028281287487\">H I</a>"
+      ],
+      "photo_reference": "ATKogpecZxKqVw4CpdzzKco9nJexuBWcl_lAbithXanQ3EOxETS16G2SbBhdwysFccuaftm0vjguHLqzb882oI33UediiKnoRgYikn4hztHfGp-u4OhJXxGvzdKcQ8Eo1OKMK-kUSVVmfDECzN_MYARwR0OVb4atGXDH27qSEOjrYLm54DyxsqEpFmWEmif6sXR8Wbdo5NMbG4rMXeGaAzePtkTtmv8f6vSOx8sK4Ykzr9T48rXrYOVP4U2hW1PvI4e9wbyiNKDduU-O7cCprrHzdvVLaDi_jqFuxDygMi8rQoADze1IssrZHWKNz-H8eD-An3Cy-PxxDWCyScwzAmDTSNob2jD90v-Gay10h3jGflFdAB2y2GOQd7XF_9ConqpWOZ5_69w9qdG4ZB-dkAp28nHeW49HI6zi8qMLDj7TjEyfKg",
+      "width": 3600
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113797519229114943647\">Ratanakorn Krainakhon</a>"
+      ],
+      "photo_reference": "ATKogpd3DoPPmTTmjofACys9WNAj-tG1JJeuE2pi1jrYziUn6PKWl9VYeEq0AealsN9Jne6IgkxLF3L9sxr3-ifkHi8W4BzwI4XEXe-so3MGEKguirVp-84g_eG2BsXWIOH3IViSTKOSFkzCOeTC5yCjrxJGqcylWyuFx8xJ2zoPmNa8MOKnuLKM6AJH4c5Mat8lp_4IojS2c3AYcRGtPyl9s_ega-_4XlJASzLQ3qVVSOXe2aiS8bgfQ5ejNp2RhQ-_Qs-sBYOnsj28JX1eIaoxxXlTs7uVuiKT1K_BGk5We6yc3qVOFvb6j_mpcQ7lLt4E80i9N42zYmHWsbPX-4QG046g1QKBC_jq2OKDXpykkZWH8UKsydzm0RkauWJLKpRWgHp85EJVbc0W4iQYB-r8UvLMmGLAE-c7duvmzx__dfZ_2w",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJ3aKC18JZwokRV_edM73h9UI",
+  "plus_code": {
+    "compound_code": "Q249+QR New York, NY, USA",
+    "global_code": "87G8Q249+QR"
+  },
+  "price_level": 2,
+  "rating": 4.9,
+  "reference": "ChIJ3aKC18JZwokRV_edM73h9UI",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Juju C",
+      "author_url": "https://www.google.com/maps/contrib/100317283684582104894/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWzLuDnzLHXZUVbw2s14PW4g8GkC2sELt-nfeFJfCei-tBvHU2U=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "3 weeks ago",
+      "text": "I had a great experience at Mitr Thai with my companions. I came with 5 friends and received very quick and good service. The server even offered to take a picture of our group which was very nice. I got the mango sticky rice which I found to be very delicious. A bit pricey for the portion size though. $15 for a relatively small portion. Great atmosphere. My companions also enjoyed their meals.",
+      "time": 1749238802,
+      "translated": false
+    },
+    {
+      "author_name": "Joshua Hinkemeyer",
+      "author_url": "https://www.google.com/maps/contrib/108643035045122982295/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWc2sGcehDojVkFNRgpy0VjLsWwXa0hvBaj9C4ACTyB7ojN97WkBA=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "The meal, the staff, and the atmosphere are well worth it. Our server Mindy was so knowledgeable and helpful, she explained the menu and we never had to wonder when she would be by the table. She was a delight and made the whole experience well worth it. This is a must eat at restaurant.",
+      "time": 1750372819,
+      "translated": false
+    },
+    {
+      "author_name": "\uc815Jinny",
+      "author_url": "https://www.google.com/maps/contrib/118190646437936636244/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUelORwJyePPtpi1rdy_NugXwZOs9yiXHjU17AdNCxnFgBIzPq3Og=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Amazing experience. It was our first time and the server Jay was so friendly, helping us with recommendations and showing us pictures of the food when we had questions. The food came out really fast and was delicious. Highly recommend the soft crab curry!",
+      "time": 1750526354,
+      "translated": false
+    },
+    {
+      "author_name": "Amos Nachum",
+      "author_url": "https://www.google.com/maps/contrib/117355437336170460626/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK3AvdVCzYFoBwZwjCyPrIcXlbfpJZ62NmBq3Q5dN3Kr-GhwQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Mitr Thai is one the finest Thai dining experience in the city, as it delivers the whole circle of any food lover, authentic Thai dishes, amazing and beautiful design, superb service, noble, welcoming and knowledgeable.\n\nIt is a very good Thai food, ( I love it more spicy ) very gentle and savory.\nThe Khao soi curry is full of flavor and hard to find, the green curry chicken , and the Tom Kha Gai is like a beautiful song for the Thai cuisine. Every dish is crafted with thoughtful\nPresentation and a deep understanding of Thai food. It\u2019s like a visiting Bangkok, city I love so much, while walking in manhattan",
+      "time": 1749592171,
+      "translated": false
+    },
+    {
+      "author_name": "Jason Kong",
+      "author_url": "https://www.google.com/maps/contrib/105779347917872206887/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUO6YQtlxzNeg7VnkwEUacfJvalCgAxKnmNCqfoedY8Wzdfkn0=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 weeks ago",
+      "text": "Came here for the first time and our experience was superb! Our waitress, Winnie, she was so friendly and attentive to us and everyone else she served.  She explained to us the menu and made recommendations.  After ordering, the food was finger licking good! Definitely recommend dining here is you are looking for a unique Thai cuisine. Will come here again.",
+      "time": 1748816555,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "restaurant",
+    "establishment",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=4825010778528413527",
+  "user_ratings_total": 6030,
+  "utc_offset": -240,
+  "vicinity": "37 W 46th St, New York",
+  "website": "http://mitrthainyc.com/",
+  "wheelchair_accessible_entrance": true
+}

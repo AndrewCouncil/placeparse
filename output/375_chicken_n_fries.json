@@ -1,0 +1,460 @@
+{
+  "address_components": [
+    {
+      "long_name": "649",
+      "short_name": "649",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "9th Avenue",
+      "short_name": "9th Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "political",
+        "sublocality_level_1",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10036",
+      "short_name": "10036",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">649 9th Ave</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10036</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "0200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "0200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "0200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "0200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2359",
+          "truncated": true
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "0000",
+          "truncated": true
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "0300"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
+      "Saturday: 12:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
+      "Sunday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "649 9th Ave, New York, NY 10036, USA",
+  "formatted_phone_number": "(646) 866-7035",
+  "geometry": {
+    "location": {
+      "lat": 40.7607159,
+      "lng": -73.99132759999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7620086302915,
+        "lng": -73.9898478697085
+      },
+      "southwest": {
+        "lat": 40.7593106697085,
+        "lng": -73.99254583029152
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 646-866-7035",
+  "name": "375\u00b0 Chicken 'n Fries",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 1,
+          "time": "0000"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "0200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "0200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "0200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "0200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "0300"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "0300"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20092:00\u202fAM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20093:00\u202fAM",
+      "Saturday: 12:00\u202fPM\u2009\u2013\u20093:00\u202fAM",
+      "Sunday: 12:00\u202fPM\u2009\u2013\u200912:00\u202fAM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1289,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116357775301845274058\">375\u00b0 Chicken &#39;n Fries</a>"
+      ],
+      "photo_reference": "ATKogpesr2fTZVms1Dtbt3Bn6B5HQb5R2hh0EwoPi1H-YyT1-B78Y5cebwpdBt5h6LtOLtEpiw0qE6VD00wVrGx4t1V_vNwoubLtb8t1HqpDSy8Nm4tSead4ZBiRxeSkMPphFJuhYs_LDDaRDBFMiR3UMsWCojMyll_QhcpdG4I0fY1sXlKjtzYNXCouuRmfWOiFLVqxJMUyKQLO73XSZHIjZwj5boypSu5FQ5CdJ4XTricheY7K7ykFC9xvXdmPRKhLbumscb4bHaBSO9cZqAQ2ewr1dQBpYt5XrZvO3C3PwYvFXA",
+      "width": 1256
+    },
+    {
+      "height": 2700,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116357775301845274058\">375\u00b0 Chicken &#39;n Fries</a>"
+      ],
+      "photo_reference": "ATKogpfoNxfztx46_IsejOWu8TlxnOk5EmhM7CgkoI59xlYVta0QoHwAw8dS3jMmBC7oJ3dvQzJbhi5licGS24V3MrG1teEpwdeCFALLaJFMxt1tUdGFR2fP3_1VEP-Ii4mu6OycucExD2GN4nNwxzZJr9tIdo6x0QV0EJ_OeeDvb1pty7oJmhXR-EASxUhiu6iFzlvZD7Y4T4yxgls8GXjfd3qrL14lVne-iZktIFyn6D69DdXOJWa-UgtxwwHIfeRZHf1FNGH4iGDCGmE7pGrVqEaFMgF3LNsvq3uNfm0zNc3pKg",
+      "width": 4800
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102435991687660479274\">Johan Naviel</a>"
+      ],
+      "photo_reference": "ATKogpdBxP4o7lIscinEwlSlPgBazPY-AwnGc-u6Ogmr_l6vsj5fhyIj4FSY-6lXy6IwHhdhnTSHjmIN2NkpCuTK0QSmkR9ybL2F7ncc__daSjPYDkNuMsH90hVfZd2GmeWLkerCkvXbwku1d8FfY6hoNIr3wMpYKlyMLU4cn1HcNYiYJO_UlrVNZ-RI7fV_xi0KF76I-LHfJlnFxK6xfLy6J9BZsNHm3z_zRS72v_y1TRy_pJ5r-Xdp3Iu5P3yGOkCLsFQw32vocPcIQo2IVQK-NDg4AN1Wrr0vuHa9o30GAi1_titRB9HP_3uXGOjodL7POzGxDVGjA3GNSRf8gPNYteEaDblpgiFrZ_MIHEZEmM8ohQ0HSnxLeQn0t8YOwOevCbeLgb8MEFbYFebJj3Nz9QLhEfy5cJqveWTnnge8XnM",
+      "width": 3600
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101212100481467863334\">Philip Junker</a>"
+      ],
+      "photo_reference": "ATKogpe1TaX8spGlbmYY0_M1K0fRA2YW1o0Usihei7Ht5JCTaIMBlmNZufaCjosbz8eLPUd2vBrN0WQYbyrt4nNTubv9CEJmX3TB7kVgB-l_nYXwSIM-eHQyV91GXUuG79Sl4FiOc2-wHARKbgTDD9OadBcT6IwS_WN-PRO0QYIbpXCUm0A0FmjJoAbc1G-954mlYXApkMF9I6ozkopUsSdOguT_YKsYvGJaK6ePKQf_p4Nzb34JXrYC8Suh5PkwxBNtixQwGIWtOoAsX0mZjo2R4WGK1Nx6xl9yP6Xla6Nw7eAY4OLl1foJ_gegT3-2ZjtbqGnkAlzhUMDKk4jvUnlDiNn78kwyFn91hcYrx9NRaOyOCJXiq2DnzAKUfgD_Ot7_DXs-fDlFktha3TfLIA-Meu-sWoyYqlSiqqTY0Cn03FvsJg",
+      "width": 4080
+    },
+    {
+      "height": 4284,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105601992699102170460\">Nic Garcia</a>"
+      ],
+      "photo_reference": "ATKogpe_Kp3zhmDfy5DP6ApFwwvvoejznx2G_f6EveqSHzXrlAbTGpoh6duhLme-vi0rfG1Vo58Mf92_frJtMJ2IfXL6_EfAh0iARkIhsYBjvcLFdMb_jg5bo6ihx9cMOokwXu2HuDIiAkCzZ3kNXM2HnX2KowsLm0HTNHUZymmcU_BzWK9bMBPocWcbCi8LKdSkfuwSH1FXdnvpcHe7Kcydm6VwL319dc5JjaPEOFfRf_oKcn7t0s71NXiYnSym9mCPZv8s9tEuEITUTDTwYPn8HuuSBysk5aBprCCJPBw2GWxowevJy_xW4s1Aa2iMdxqah5hTFG6yOWnfnuzapEpCP8Yh-EQJgKOCPVAHUu0ujtig9gtaKy9Ze7sXaV_7js3PzZ4514AF70qWoMEWxLuPgcqZrj2_eils_yBKWKKZJbXjtw",
+      "width": 4284
+    },
+    {
+      "height": 3022,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116563749598587207951\">Ludovico Andretta</a>"
+      ],
+      "photo_reference": "ATKogpfcBbVq5bIqbP1RNPW_GcPXPo6VtcEUQSKhq1OgId61wTksJtFx1uuxwXPhHCUrRK9bCdjxemaiCyybsSrlN8-VqYB1wjY7me727dafj0Ya6XRP8LJHhePi18_kiNWF3wHMPRjLMQyG8gVcQ-PzI-ax-n9cuCpA1R3vna2y-pfsp54BPm-9zmBJ4EUF-ldAnpuKopBpYLRrik__GCxRH1bCijwFFhY9N2WWzSwYog1w6IyljW9BuBk4M6XAP9GsWILoplRKCFns4sZbDhFATwp5RjTYm31B-F6U4-T9rQgLXg_A_QxeVhZk2XhF2nd77TlH0NQrKJrL12wzpHZUw8JhNr_uuQ8hJG0ZvsPz4jUJfG02kHqbftgqLqkTzDnteoz1EpG75TGmBdmjUB40Rxgz_-SvJj_r2Jv9G7c1l94Bqg",
+      "width": 4030
+    },
+    {
+      "height": 960,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110057978709905838461\">Waseem Akhter</a>"
+      ],
+      "photo_reference": "ATKogpePI9EpC-xkA2tMhkVwVz4MlDQSoYwrlRf5kqfW58h20omX4Bp2Vdo_XZDAXOs9nhAD7IK4J-yP3YVp9M1yfEP58cBXIPht6MkMI56B-FKjB1OFuZABvgb_RnG-2FeGgFw6qwIVCfzEXpFF3cIX47WVVbopZRWx6wPfy2r7vn_P3W7D1HnWadAf2DVvFev6lSImPC-Mn2llBLOEX-43JMUCP6-rzXdRZT6azrqcUUDFdj2MXP3Go8BDhRK5I1aQWRQoe868lktkKqupf5go7rRX_IbvxW0BHdaTcog-BLwPJE-9nQ4eI_mS8srxTBmMLbOu9lxSd8-AJFAMFK3SdYhozeWnDdu1cwdGVfUWr55Ulo9gKgejiF27-bmyt2mLErJsFImX_D-YplRg9Nq9F0gGTvtngIiD6kyzI-uyb21uLrI",
+      "width": 1280
+    },
+    {
+      "height": 1171,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102265470517300913869\">Ashley Roberts</a>"
+      ],
+      "photo_reference": "ATKogpfZcfxmE73fAjzZIRUN2NqndCF5Hwn6yG6U6OfeDRWIniEzVQF965EAmmF--xOdkbrKkzN-0r52vXBFZVPdvszRWgLVNCgSTya1Pvu1ahpCQc2ynLbP0zYNG03GpHDR0sMVjONx6YVmbWzNovot0amLufsi_PkciuKT8-LRh9Xa_ZUXH1CcoPXkIeqwlnXNTzAl6ZaHscP51AD6pUCdUH9RZ4NeoDt73dNn08ThTbrcNPncthU-GiatayBCbe_IquoQWLo_KxAn1jaYDEHYi4O6Y9XXvnvHNhZKEvASY22hpw2FWENJY0gjm6w4d1JGUbfZkp0vzg3cd7tyS-4LFFU8Cgqzz5eN6VEPufaQINIdRLGQSdS-QT24dUSZzLeKPngFvP5jZrI0mwWHPXTjnF80mrLDhzDc90MxldZ2MGf8SQ",
+      "width": 1560
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109934029428036819149\">Sports Opinion Log</a>"
+      ],
+      "photo_reference": "ATKogpfxxaMxC8GIdl0hPahETmTBDxYO52BzLTpcEesqFRXFFu752FKHbJXkkNihY0MAgHSQTzDoaaWwSnM7ihy1m73xoGSvOyDwBEs7EMgJF7muSyWMXvP9UDecosqsiYoMfpd4HzRp7H8iaukC-vUUNSY0_00jduC8tyfKUgx_jciYvBVCRH-_00ZatK0AzZJ4Td0BGf2VYgYuEEJIkb1LYrAm6asGTXpGHmMfs-olRkvHJ557hkxPj1bxSUc9fSCy_fvSZBlZCirkZ8bium5vEUPTT_4JDZ7Yz4X-qbL5og9bP03XNTVdzovolIYZiPM5GXJKDYRKewLGpzR3pu3MvWFzV-daZG7f-AmsowI7eAeyNCCKOBvLC5wCjGcLtO-ZDgYE4dy0K7gN33Npv8Jb9-ei9kufOFEONnKkF9xm8PO5_g",
+      "width": 3024
+    },
+    {
+      "height": 4000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111182628437998738573\">Basit Naeem</a>"
+      ],
+      "photo_reference": "ATKogpfwsluYCOfqfdPQQIRnUBtSAJSqzUfuitHpFriPzD6fQ-PLbLs3WNnHxrUOnhUEFITyYCLWeABHsZRT-XykHw9D4i4MqFqTY1IQZiiOu3wYyVXZHh734MI7Yf3nqFQWXm7CHMA8IMC8Kt5fTzZiIbT98AM1gBdBqfCa8unHtOR_q6_qlbgcF183DeyXF024EJD4UVruX3F7hYZUiQUUgj0MUneeEcFdx3g-Aylu8mfsvVyDo-KREI2V9EAOx3-767tx56K7eezZVmZz1EAIKDrKgflZnMzPUdzjvXc5wun6j-r3Euce6lb_rcYV5s-V0_deftIgfOJn26THUOJf8ezCd886m4ASbyiurXitubeWShY_ZnT2jJE4dpYXqmVaKZxZ6FbkamDYVbS_vb9s_9a643algk2nfTIgxo517RgWAQ",
+      "width": 3000
+    }
+  ],
+  "place_id": "ChIJ4VMjWotZwokRnkSXezyMBgc",
+  "plus_code": {
+    "compound_code": "Q265+7F New York, NY, USA",
+    "global_code": "87G8Q265+7F"
+  },
+  "price_level": 2,
+  "rating": 4.7,
+  "reference": "ChIJ4VMjWotZwokRnkSXezyMBgc",
+  "reviews": [
+    {
+      "author_name": "Amos Nachum",
+      "author_url": "https://www.google.com/maps/contrib/117355437336170460626/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocK3AvdVCzYFoBwZwjCyPrIcXlbfpJZ62NmBq3Q5dN3Kr-GhwQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "The best crispy chicken sandwich in nyc. Simple. Juicy, tender and the Bun is perfect. I ordered the hot and it was spicy \ud83c\udf36\ufe0f and good. I had 3 sandwiches, no fries no nothing. Just the real deal. Cool vibes, very best fast food",
+      "time": 1748339800,
+      "translated": false
+    },
+    {
+      "author_name": "Joshua Tiberio",
+      "author_url": "https://www.google.com/maps/contrib/118302481219540925193/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWL9fCT5JWCDmWRxL6c0gGRrQFOqog4NBkPzjwqu-BpjKUCdjaX=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "4 months ago",
+      "text": "My first visit to this small typical NY shop. A couple tables for dine in a small crowd at a time when the shop is not busy. We ordered a couple of chicken sliders. (1) Hot Chicken and (1) Buffalo - Honey. As previous patrons have noted and I agree that the chicken was not busting with flavor and the Hot chicken was lacking Hotness. We did not order any sauces to try the base flavor and not bury it with condiments. The menu does not have choices to add degrees of heat so if you want to kick it up you might want to grab some sauce. Bun was lacking for me as it was a bit too soft with the consistency of Wonderbread white bread. The bright spot for the chicken was it was cooked nearly perfect, crispy and juicy. For the side we had an order of spicy cheesy fries. No gripes here pretty good fries and nice seasoning. Additionally we grabbed a side of Mac and Cheese which was lacking flavor gritty and a complete let down. To be fair the menu advertises Mac as part of a complete meal with protein. At the end of the day I was seeking some comfort food and that's what I got. Some crispy, juicy chicken with room for improvement. I would recommend giving a shot if you have a craving for late night comfort food.",
+      "time": 1740193781,
+      "translated": false
+    },
+    {
+      "author_name": "Erik Z",
+      "author_url": "https://www.google.com/maps/contrib/100921057140847570991/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVl9-sy2dDCsNxrbmX0_rsrMUVU6eHZX3aVqh2QZWWHidI_8Ltq=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 2,
+      "relative_time_description": "6 months ago",
+      "text": "The food here wasn't great. I ordered a slider and chicken tenders. I ordered the slider x-hot, it wasn't spicy at all.\n\nThe chicken tenders had pretty much no flavor. The only saving grace was the sauce, if you didn't dip it into the sauce it would just taste like nothing. It wasn't even salty.\n\nThe shake was pretty decent though.\n\nThe prices are also pretty high for what you get.\n\nI probably won't come here again.",
+      "time": 1735486101,
+      "translated": false
+    },
+    {
+      "author_name": "Johan Naviel",
+      "author_url": "https://www.google.com/maps/contrib/102435991687660479274/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVdV2fUzUOZa8PPhz6IMq-RP8DJDqrpCxbcRgOwmUBWlopUzLSE=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "I was staying at the Arlo Midtown and was craving some chicken tenders, I did a quick search and there were two options and I\u2019m glad I went out and got this option! I ordered online which was super easy and I was even able to set my pick up time and received text notifications about the status of the order. I took the order to go, I would say that\u2019s likely most of their business (take out) although there is some seating available. The staff was friendly and efficient. The tenders were delicious and I did really enjoy the house made ranch as well.",
+      "time": 1739058212,
+      "translated": false
+    },
+    {
+      "author_name": "Cedric Nudee",
+      "author_url": "https://www.google.com/maps/contrib/104076749513968924649/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU3jHz9pyA7paQrm6f_Yt8wpPb0K-DSTKawUbGYeZ7zz8imdQk=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "The cashier was friendly and attentive. We had the chicken pop w/ buffalo sauce WOW!!! Absolutely no regrets for coming here, we loved every bit of it. It was crispy, hot, they were very GENEROUS with the amount of food and sauce. 11/10. If we lived here we would have become regulars \ud83d\udd25\ud83d\udd25",
+      "time": 1737326481,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=506246199525196958",
+  "user_ratings_total": 989,
+  "utc_offset": -240,
+  "vicinity": "649 9th Ave, New York",
+  "website": "https://www.375chicken.com/",
+  "wheelchair_accessible_entrance": true
+}

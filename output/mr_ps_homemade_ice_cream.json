@@ -1,0 +1,437 @@
+{
+  "address_components": [
+    {
+      "long_name": "1397",
+      "short_name": "1397",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Nostrand Avenue",
+      "short_name": "Nostrand Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Little Haiti",
+      "short_name": "Little Haiti",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11226",
+      "short_name": "11226",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">1397 Nostrand Ave</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11226</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:30\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 12:30\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 12:30\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 12:30\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20098:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "formatted_address": "1397 Nostrand Ave, Brooklyn, NY 11226, USA",
+  "formatted_phone_number": "(973) 640-3200",
+  "geometry": {
+    "location": {
+      "lat": 40.6523092,
+      "lng": -73.9495675
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.6536758302915,
+        "lng": -73.94830606970848
+      },
+      "southwest": {
+        "lat": 40.6509778697085,
+        "lng": -73.9510040302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 973-640-3200",
+  "name": "Mr P's Homemade Ice Cream",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1230"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 12:30\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 12:30\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 12:30\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 12:30\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20098:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110620966140771264252\">Alan Varghese</a>"
+      ],
+      "photo_reference": "ATKogpeD43HjmFTydNvsDcJ3BmfuEeB_tN24ZsBZAtaEgifDtru8mRp8J4t7aiGRtmeLGAoyUoaU3jF4Q2X9BtlVUhpkgbKAki07qWQCIvZD6UztQ7lgu75VcZfoNiAaitn25f4rlIeKWSa8WcYh7Miz8Mlocnm_G7RtodNhk4yNEryEflYQP6QZn3slsrDVrF2BqhYJd1sFwI4KX9mUFm674ixPGue-Bg3PtSybY8IpspxbgDrVy2tj8vTTc21cL1Dqj15TA38j5l2OMGlT4zLqEIrQIx-ica7zOTGrPrePwXGUjiYTztmkQCwxfl2w2Z6_YQHi62EhtcpMNRnZf0b-BxTRL2C-r7pKg9-HYAU7YTe0zvfTzAk1L6h8NluHDP5OQw-LiHgbfh28NTT4Loi6VyF-VkuhYRBo__QXlvelt58",
+      "width": 4032
+    },
+    {
+      "height": 744,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107766987700677994227\">Mr P&#39;s Homemade Ice Cream</a>"
+      ],
+      "photo_reference": "ATKogpflDZA4Zucm4zckX2CthqSsyNMw8LNcDqTPcdI7bL_vG1WMlrqKyRIEVT1XFsIyXBIlnMySDC9__brK2_EL0ww2lErqg9qeKtSveyjSXL06en7EzjKxahsrV7Ym8MvMN2fXFpoVYGIuYt-0lB-aEbewLcs3jsmVVuQQIkM0I_mo7Md7Y3xP6VXkHds5m2_QZJfKTaIGZUESdHxdIbdRlsn5yarFimyFbZMFXIVIVWXOTc-XOBp-53SlOP4BnGRER55rGbTr42MdwWs2TCTTLcCcVwbTVF1Zv1AxC47yyDA-hw",
+      "width": 720
+    },
+    {
+      "height": 4096,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106530619014625511622\">Annette Dunning</a>"
+      ],
+      "photo_reference": "ATKogpfrUGtk_OOzhQqqJ2Ax4a1Ld95SnZwhJAhE78OYBpYubpfs48HJW3YCl_p5kXdnLLxoo0gCHgY0Zb1spFGvVN0mDuGasoM5awINpkhJ6eSa9On07B3smukyNiYOZOro4lG-Kibt4IFgba9GqnOjgpdHxslJWwc6RsBofK2Zh9SC0j3bSkbhlFh5k6Jj0JIlu1b-YFemtnnnaUXIBaNRkxTkXOOi5lcEkChM8huhK3QJE9lcv4rkuk2nSG-13n2wl85EAsdFccr9za4NNyx2XKCVYdlDEHhpjCU4KjaPBRPbiCU5oUm_zSbXu5RZx8S0lBULEflP1pHfuC2RC6vTkNE5fOpGkkVn3Cq014UaNNCgeuNmiWh_uQyXOs5JHPntMjQYMDpnBt_e3ZUwnfbR65Sg_oWJn-siyaZ8EaOEeDDv7w",
+      "width": 3072
+    },
+    {
+      "height": 2918,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114163062013753824352\">Y B</a>"
+      ],
+      "photo_reference": "ATKogpdjJD3pIQ0KdN4ddkFn_IVPL_dwiYk9nBRTJK3wGbLOPr2yVU01lV09Oznaa7OlPdc8XdfhNLXaSHfPu52zBdZyp2HdNs1IVBltVus_Zy97uolnbEey4uqYWvLdrb94iPraNnn7vBVPmh5L9Z0waVQ2QYdO5thE-pzDsDEtXLaTVwzyuuwGv2ivki5Let00xPzJyL0221gsFchjhKkoEh5fAucDZt59eYVhea1LmtFxpVSbsJQpfFpk3Ai7rc-VCno22eZH18fMW6sXmpMRhDmRj-lYG4GYcqNAZIj0uJ1-pZkgbW48BI2NbZ5I1q1iZPO-hyiXInhak7X8zYsBpXo8fQQvSNZxNdQc3mWKQnYhG8d_DoDt6h4OK4CFoVu0UY-0qIoVMpEOXyH2BZDmrnKKUThYE0qQepJvxLRu9frkSdBB",
+      "width": 3891
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114549103139216766389\">Gloria To</a>"
+      ],
+      "photo_reference": "ATKogpcCFWkNc886PUKsXosALGcbgHmhwhGFWe6zBP0PSjXe-zJeB6IOegvoIOO9sXiqzrCEavjVd76k-bjT7SVx7whXKHcv8kwtgfhcKnw6CowOSM8yg2mSHmVkJn9yRGShkKPlS3vY9VTlEYUH7j8BcqgHSPVSEmjnG5sSRGFRh4Ie3g2mMAotoxGBtJrHBUgiTJPDC6nfwGOCjBU6wHIXFcHVe8SSr6Q9qb1Y5zueiby97rOw8Xs0ce9So165tJLSnUjvErQuNgh55CeO6tswPeVwczrWy5SkVyb38jbGR8WMhqQGhaNVJBFTKPFvdkCv6OuNuAg9EBLU2se-OM9gfgI7HFoU4EF5JS-b90TtlWpUPYodmXZfswRIgsCAS_V0miQ6bJiE9T8jlyqN6Cu8MWwCvME-BylbhVIpGU2-RHTfIfU0",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116025900710101387456\">Kacey Michael</a>"
+      ],
+      "photo_reference": "ATKogpfhfGDPRaiw3buh0sh-Q6pJm2aKEFpkkkhhHymj_0fz-7izSDIC71G6xRDJcCFL2wvYBm-Ayt5QvjIu8W0rVVaNQZHf3XPwK9eqL-QnCw-N_HKqxcNkjztnETsB9m5b_fw5IIazbHsIYbtEky5_Gm6cNMwesW9EkQHg8nEvUDnpxrzaOLc_ZxeFO_wcP84dq-UUiSe06ZzlY0jtWP_Hmz9-JsGSwPN1dDEieIVtpAbyD87SIgS-AYBruAnUs4oKn9djjhouooKztdjpkPxTf5PK63-Heg8noMvJPmFMZb4ODhoct7PRWtwU4ZJz8v07R98kqtr8XZuDfu-UAIqFndsyxdtvlUu2BpnHP_3Jb6CJvloM_XBp5JWyb_cySlAlRJVoTY9gf7xH8-DQzuo-vx43WcNi-yazEjLcvQnSQQmlrw",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114549103139216766389\">Gloria To</a>"
+      ],
+      "photo_reference": "ATKogpf0Co0I20pzQ4TOsEHayLCBFuW3bFDclnObTgUrntTrr369B9Zrj8ZVRbu008b1YkWPiV6DECefTlG-C9ciuBVuyfa2MJAyDD48dfxAhICYGk1bg9p631KUlKcSndu3Co8K-rA-Th36_e4J-CmIc5VK8GnU71gslEHtRc3yRQBGzQehGJak5_E1Mtda_h1_FPQLB8Y1dyN_8dtrWiex63aIJDG3v62EjpCrYuSysQxlJauJzsZhgJl2M_i6vrl0AFGmK734MagtQsAe4Mv-MY6uhhFpmTg1yAvkw2IIZfnSOSRmeIG6g2Pzvr_s-MhA-0muhSiSjEDPS0CXU5hdUX-i58Wr9_-y8QXln_8vfbVQyPkWS1prMLWWpGZCpTnFTePB9UePFNRNlxe94jz99UCacPbS-Lmp8iIMKkG_00k8rw",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103525692588586159805\">titi f</a>"
+      ],
+      "photo_reference": "ATKogpcPmFc7AzbUrREgqCAN1zp1-kctwK0Lt0m1j2VVcAnFfsN5LYfmn3frt1IKWifB_XtvpkeAQc1EPW2TqIISqtAVRvo5i1HvITrWIypRV5CI2rTgDaJ-qfrIAf5FMjmSRprUlIT0x1oDYtNIKjWeFr7B42V-utVLYo1qDLsM5OLTX8Au5GaDjhf_XPpbh3JRRYB1vKPslSITg1qWRaeYs4GTJlti8I9vFvOew2jkGqnoINADtgpbfejM6xKfJMoXnallyaLEn9lAofTmWVHJaFOcVYyOcU1uev1T-f8-QPsi-pSZQHAYfpz1GgUYQSMT9QChLdWxJTV0LUfZoKW8eI_YmqjgqJs3fXj4WsEjWaALw6AlpSQFuxaPXnvBNw8qrjyYVSW2QMHxBjXYwME-Se0P7fndS6TcTNMYHhWHA5MXbQ",
+      "width": 3024
+    },
+    {
+      "height": 3129,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115291377184313975353\">Priscilla S.</a>"
+      ],
+      "photo_reference": "ATKogpfBwjP2wYvolcOkZs4aL7XSEuPnsa8FnS6NfzjraJ1DIjGzUGKMqG_WVBltAeWFmZHPPLS9d2HnaSPHYsNBzjK0BoEcuusNXAO0wS1caSdIHL8CNKA2fGGaAh0Fi5K4e6uqEKLEOKTONPsduuTShMWdwmETtzFBx5EzKPpwoAVDWMbK-v5a8jJ8QdeEtngDC7xD01bp-uBnbfMohioGy5-n_Xl2L8pcYhipplTb0Cb2Gi5nAJNiQSr1iV1KtTLFP_SxOVxO3HEA7ew70PZJlJjM1c-GaG2qxiXwQ5_ceVDlK7qGiHFjbKom2z27uRkcgeg1uFlx8uqMfLbr4hUhcttalf0Zky8ajKafjoDQ0N2eM3u_qSjMPqLpb2r_BlBevxBQZ81gX0hYCO5noyYrCOffoe1ZU1i9NMMMyiGUGWAqe1s",
+      "width": 2708
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102787212234286789234\">arnold adrian</a>"
+      ],
+      "photo_reference": "ATKogpd_ooca8cvDFIAu-jQ7n6t8MKCNEQQtLRZjus6Z85t9zJUm5ISknkEm8zltdBN7mRewWedItz9CAcQuXuewdbfmZqArtqPeaIorzIHxZfiV2kG0trYpQRYO1pVkxGkmK9rBllCYGYZNCBpmS9Ye8jrAH3oCDieEofSZX6Tq9irpdhQHnY5b7HIt8Q-tVe32esLBHsBfD-OmdBdqN7BlX0JPqpYG2_5iCsPH99W8szBlyHQ35EMNtWsbrv0XGTFxK3wckX-UECUBZ7dTiuKo-pbu3yEOuH3kN5gPe8o9fTj53Xz-w2Al0QZYPLa8mosoWaQ4qEwfFgdy5L_tD65je3Jm1WxaaMbMdBKsAlW0cJXgqupnX8NE6cv9iqeL07c-OKrCaH3nwc8ofZwb5JmNxd27XXv9dxgCYxpTUxiLubAPRA",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJz82DrkhbwokR-4Uqpwog0Wo",
+  "plus_code": {
+    "compound_code": "M322+W5 Brooklyn, NY, USA",
+    "global_code": "87G8M322+W5"
+  },
+  "price_level": 1,
+  "rating": 4.8,
+  "reference": "ChIJz82DrkhbwokR-4Uqpwog0Wo",
+  "reviews": [
+    {
+      "author_name": "Anna H",
+      "author_url": "https://www.google.com/maps/contrib/111180726605966955778/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXIhWFz-V9YKq0pkK5odAYkQvTus6kHgggK9uInPMdQXcmH39IuEA=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "The best icecream \ud83c\udf66 in NYC. Quality ingredients. Made with love. So many different carribean flavors. Shout out to Dwuane for explaining everything to us and being so kind. The icecream is perfectly sweet. Nice custard. I give this place 10 star. Vegan and Dairy free options with icecream and cakes and shakes. The peanut and banana were my favorite. The ginger flavors outrageous.   The mauby tree bark so unique and delicious \ud83d\ude0b. Guava and grape nuts great. Charcoal was fun.  The elderberry and ginget special was outrageous. Beautiful inside. Well be back. Top notch.",
+      "time": 1746506211,
+      "translated": false
+    },
+    {
+      "author_name": "arnold adrian",
+      "author_url": "https://www.google.com/maps/contrib/102787212234286789234/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXajEtyUcNXLkTiDPG-hextuz1s4SzwY7URxqOjLIFp37YWcPGC=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "5 months ago",
+      "text": "Amazing ice cream\u2026 my favorite are the grape nut and soursop. Also their carrot cake is absolutely delicious. Good place to get your homemade ice cream and cakes \ud83d\udcaf\ud83d\ude09",
+      "time": 1736003400,
+      "translated": false
+    },
+    {
+      "author_name": "Amanda Wang",
+      "author_url": "https://www.google.com/maps/contrib/115831370021301095459/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW1GEUVXk_S180lIbVxzHuNHPfCTibfe6brpaiVYiw32rSvrRs1=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 4,
+      "relative_time_description": "6 months ago",
+      "text": "Today we tried ice cream\nfrom here. Homemade is real, consistency of the ice cream\n\nlooks like sorbet, but omg the soursop flavor? yummy. Creamy and lychee undertone real soursop. Cant wait to go back and try more.\n\nAvocado tho? eh, cause it tasted too sweet and not thick enough for me. Sea moss was also kinda soapy tasting idk thats our opinion tho. It smells so good inside the cakes they have? I really wanted some, it was so tempting.\n\nBut highly, strongly, and encourage u to get soursop flavor if you love soursop.",
+      "time": 1734524088,
+      "translated": false
+    },
+    {
+      "author_name": "Paulina Armstrong",
+      "author_url": "https://www.google.com/maps/contrib/101124766681174508079/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWe_xNQB5hG5jdWQYRNu3BGL4TgQ4_qmjA31G-Ya16dUd4ZXt_GtQ=s128-c0x00000000-cc-rp-mo-ba6",
+      "rating": 5,
+      "relative_time_description": "10 months ago",
+      "text": "Updated review 8/14/24:\n\nMr. P\u2019s is still here serving the most delicious homemade ice creams with so many flavors to choose from. Today, I decided to get the soursop cherry ice cream in a cup and boy oh boy, I\u2019m happy with my choice. It is extremely refreshing and delicious.\n\n09/7/23\n\nI stopped by to try a scoop of soursop ice cream. It was sweet but delicious. They have so many unique and  different flavors. I\u2019m excited to visit again to try out the other flavors. The decor is very colorful and nice.",
+      "time": 1723677435,
+      "translated": false
+    },
+    {
+      "author_name": "Maria Paz Bonilla Renteria",
+      "author_url": "https://www.google.com/maps/contrib/113285051220367917128/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW0-IyjZlIaSaeurEYNJ0KkJvRR595qM6TCWAU9666Pnqk8zYrQqw=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "ice cream was really good and creative flavor. service was excellent! thank  the",
+      "time": 1750480944,
+      "translated": false
+    }
+  ],
+  "takeout": true,
+  "types": [
+    "store",
+    "establishment",
+    "point_of_interest",
+    "food"
+  ],
+  "url": "https://maps.google.com/?cid=7696968468279231995",
+  "user_ratings_total": 127,
+  "utc_offset": -240,
+  "vicinity": "1397 Nostrand Ave, Brooklyn"
+}

@@ -1,0 +1,453 @@
+{
+  "address_components": [
+    {
+      "long_name": "143",
+      "short_name": "143",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "West 29th Street",
+      "short_name": "W 29th St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10001",
+      "short_name": "10001",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">143 W 29th St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10001</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+    ]
+  },
+  "delivery": false,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Minimalist-chic cafe specializing in Japanese rice balls with eclectic fillings, plus miso soup."
+  },
+  "formatted_address": "143 W 29th St, New York, NY 10001, USA",
+  "formatted_phone_number": "(212) 695-5533",
+  "geometry": {
+    "location": {
+      "lat": 40.7475427,
+      "lng": -73.99160340000002
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.74880768029149,
+        "lng": -73.9903249197085
+      },
+      "southwest": {
+        "lat": 40.74610971970849,
+        "lng": -73.99302288029152
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 212-695-5533",
+  "name": "Hanamizuki Cafe",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1900"
+        },
+        "open": {
+          "day": 0,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1900"
+        },
+        "open": {
+          "day": 1,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1100"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1100"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Tuesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 11:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 11:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3201,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118124943007272516672\">Hanamizuki Cafe</a>"
+      ],
+      "photo_reference": "ATKogpdyYJ5jBKVwGkmNf_-WEHLZ21sR2anDMhKGpDSQOU-VAbZ5qyKyRLZO9nKforlwb80U0YywVKDfsziewrswUPtdL0XaTfCXIXvsauwQForCgK3dfQqPDf5kh-0iWb-Px786tHGCw20vx-WxJ9Vq6rgS7hKT05_8_ntceWx0_cZZfK_pw4pIDszHHu9AYzQ14xxYkgTUOxjq3kSiydfumvVtkixRv8SBRRd81XatDaWUMxq6N57-wwQWb2r0Z8B-d87ZqMEkCTv1Qj-DvvLboF5g6_FlPdrY2NnMbbvv9Yq_xQ",
+      "width": 4800
+    },
+    {
+      "height": 748,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118124943007272516672\">Hanamizuki Cafe</a>"
+      ],
+      "photo_reference": "ATKogpfNNEBbt7F3kltHaJmztz3F02beGzvoy5CBxR-T4lrNvSFh90YV5ZSUUmtqjMxb7_H-qu_-oTTh44Zo3aoZZ8w_kNZtY1HM3uSMkeljwOdWA4lq-dpDhn0nQcNx3KUTC1ntf7azlEPOdm6LbOicRx3V57RC_nnSaix5qpUANRfwSUHPN8D1JzqT-W7mO7ErNi4tnvqRtoUbL_2bpnUFNYmY5LGA-MgtwMXvFLJ5Cs_qqbTdGYUkxjbk2EnoFYC09lgx7XhyfKx_LWwNCR6Hi4eCObGLZgkDmGNZ2OSrTke8oA",
+      "width": 967
+    },
+    {
+      "height": 3476,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111650729362051555413\">Wattanachai CH</a>"
+      ],
+      "photo_reference": "ATKogpfghINNbWR-L64sU3Ek_loPgV2tize0HTlzEqb1je8H_hyFXn-v-00y4B_IjHZmCceNptCLFmo_uKsRS7dHQxGTTj05dMiBqDHRyhO3mqAuJkZSdS3ZALVNdF05ncWRB60vHx6vWRG1MZA1BqM53hJkfSd-qJN8X166UtFuKJNHnNb-OVsizIa3TjLZ2D5fNWy_jCqIRCP_CqO7oWSxM1FSPoBRPqnLUor5zS-4dz5SGhKJi2L6bcdobx9VlAia9oQxFI3sXtVLjRl3bTFWToWXosdGMyrJaTR_r-Lc0lAxPzqp1Frg2OFRMjpnABQZWCuTA6tWNB59gFu4y9as056DVQbW4t8WB3oaLnA3OLzxfp7NceLPskr5TEqPqpU1gXMnxax4tWp1D_I_JCP3iXLbvUTxGHa54JLKFbHfTXzPOxKosglA497AoUXB-A",
+      "width": 3012
+    },
+    {
+      "height": 3201,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118124943007272516672\">Hanamizuki Cafe</a>"
+      ],
+      "photo_reference": "ATKogpfP045kbvkQvPwK335zm25CbSHTVkzpahKjEAd1XXPZE2avLQTDdSmFVBDX6Y0dkwv1TpH5Ic--WX_15v_HcC6LATuRzLoF2SERjo9tJdA9TTtJ8dc5dTFiAZtDX5EXwoWxBWDzGBBNwzvtlsdwUmP1Kl0bh1872hEjQGVbZzHIdP11q828MPrUSL8Y9iQNm8cFPlEkSZgpwRtdUmaes5-8ddX_Bt5nOrc1cl1SKkDj_-768T3ONeFHxkoE2TCfoILk1bYFVACMjUyOwZVFfnmXAB5nV7U3pZsdROOOfLhN8Q",
+      "width": 4800
+    },
+    {
+      "height": 3569,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111650729362051555413\">Wattanachai CH</a>"
+      ],
+      "photo_reference": "ATKogpelFcC1jWmNYQU7AIa-HDW1jeFd7w0MtLXbT1SKKnk6UGxr6JAHSBQKUcYp_Tvk6TchQqtbz4lFQhs3FoyHxVPu2N55BAkHKSPw-TU2pDaCqYpBddDvSrI-9-AkLz7Dh5wMIdPgNGTUhqAwa1v1mOiG6Q3IGU2zpeL5OcrZANamcuOcAobHKyq5Hqa0LFHwKV47-wOXoSFwVR92kno_yD2R1Za3RMrxKKs-VD5CsDbmsLf2WzPHBYBIROUL9nqmUxBtt1sjtjgnPvsEeGpgzbA4c7yNHWMWNfNqY3NrP_bxQN2pbn_2lbRWFsuPgkeg3alp93o4EGu2ycFQRauoBLNe6an9owDSUv9Ctd4UXrt8i33SXgYKixGMIM3Puq1p9BwibLaAUN_aVjbumnkgwoYgfgwAHIwhzR1EZiftIlagxAusuy6y4YrLpnYeSCfh",
+      "width": 2910
+    },
+    {
+      "height": 3120,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108568159719467223840\">Jorge Daniel Sampayo Vargas</a>"
+      ],
+      "photo_reference": "ATKogpcxoPfEQBvuLfMrCcL4sZD6zde03tWkzYnuUo91z_YKdVbGcWeM_I6Vt8jCJGNbDuduCISFTgqxlBKPHxlUr9NSyKP-e8TPb8gZ19JG-jTwCtcla1rCucugAYRaoJndYO9e4ymCb3BA0aV8b8rhfnLFC1weh2Eyavq3OSkp-zImjx8TYFpkTcg5bSXqpjpi9o7y56akJWvN30KzX9yZVtXDxW7a3q_t74N1_1Jb23_eihanykgSlC75dSU3S1OQk2Kg8P9mUuRKziYUgkM8haTzBnAEM1CLTKg6zy9WC75ev9owrwhQmJRRrj9ZdWCaxVhwQVR_MomTLrgh4lZ0pArpShSrAnA3icKHU-MdH8iNBo2VPglY1vP8Mv8OVV8cBXzTi4DphbLhADysSMCoEQg-xMZCsiVUNpLpeun-ly5qgg",
+      "width": 4160
+    },
+    {
+      "height": 3201,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/118124943007272516672\">Hanamizuki Cafe</a>"
+      ],
+      "photo_reference": "ATKogpeMvaAkAHx44WcaPtRH4fWzgVu9fWDWgUpPismp6dWmza2ZHbZO4c5RbGHXTwXfQy9hyunGhT4iSnMcZ0pKC76CwBD1nK3_ymnDOkktlbsWjqa3sjfX9YIcXML7Mxmh0TTDud7-IS6rsolhNsGT0QSxFhfhGQJZfkv4XJjogw1A_QtrpdcaX90ZtirPRQ0baHSt5kxC7OlN4_FwF8iU56_Gu_2liIAzRZxTwvM6LTgZJ_4MIcM8ICGvRAE0hF1p2KIHXxt5dQM6ayI1mnehvo_J4vBjDHIIy1DbTEQWNccD3w",
+      "width": 4800
+    },
+    {
+      "height": 2418,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113097720699564570277\">\u3078\u3080\u3078\u3080\u3081\u3042\u308a</a>"
+      ],
+      "photo_reference": "ATKogpdiIcCnLiadvY5D0BvlGH7FUShra5PkUSQ_FhdB_ktz7ln48_ToKV7WNdgf4Aw4pXRHuksNHWjIpMoRiM_H0fprpUl6oW_PJkdLpDHL5mG0YjFIS9dhKG45qPxlhk6p3F-rnApRtrE_uMtxGB8Q2bo05ni-BWg6AcIB-yPMqjb0ABLgb0DUloHyS9nDTtR5OqQ5GNGzznl613TaqSVwrBFEAf1jo2_kvXgEIzPJLx62ILqV841g-dCglQqelm5ihrRyuVQuKbQe_DSEkBGSOqZraggZwmC1uGtebV6PWXnGIsmRUyZCMmfvYRIsZXgR1cXBSs1ULm2usYsUmLvLp-MK5g_vV52IVNMOsgRBeXWbAZdsHlaF2kyBtMsf-ppHUVfqBKPKcI0kNz4eIw-DFujDZa13hGeSynH843ACzAge80f2",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115220652068223451893\">Brian Kim</a>"
+      ],
+      "photo_reference": "ATKogpcFdXZDW3lYJtTvrnxYVBfoYprIBTrkJC14mq0Y9Uuxr0CF2PHFEAKNwltT3Hr5bMAly7FKQ6COjTNE_085Kj62uF4St4FchG1DVBwn2EnoDOZpQttjhSYcOMtUoooBHrZuQ2ib6h4pPRfv9STCNuQ3sNHLIlRTs8YHwpQZdjYz6HaKcScsx6ix92lthGi6QOC6bRdkcZ4ZRqaH34Sq1jb38kowSyP-bbzs5bChDIEm_EIGVF27mTPvcTYYUO-CBgjhq-AVVIQlioufuufzO55BWqjaoAvqcAeYD9L2ePxjPbVolSkyVgvfVWxc5mRRd4zesatrkdMyqZTkOZZJ6NMF2EE9kbiDPF32TdEV3G1uRuq9stDjj8LHRfZxCjFzib7-dIuvBxjje2cU-fLXaSAVPTpliu39xvQ1M6OG2c1ZpQ",
+      "width": 4032
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102350434777787243445\">Pod Phonyothee</a>"
+      ],
+      "photo_reference": "ATKogpeujnphREHSrm9XNe44TRvae1JPRz52x8MnhvnlVn50tFlOgriWhlHC7cAeDL8S7dMUo4-YB93vc-7SBAx0ZFronvjFxCP8kIqd_eyOFY6DFh_NpBLRejqPw_QvcB0lZ6bnIQeaS9yeMh49us6b2whq0_5Bt3eicY_drqMmG9wl0sX7Gu4jLM9iyr_ZhD3ypRCMalJF5s8YsOc_JE4UsmOeBl-VmoVNLmhVdJmU1s2HKcMLItHpuY4T7x5M_ITeiXR4zMCEvxl_KlEsBP8_XEmVWIUcq8vHn8Jo-3YeuYfMvYmG-AzELRiZi_IiCU3rf7GCPwELgwLuPvXEWdgiJBpuE5INdBMJfYoU1-CP2NmczzqUs1MdfDf7pPnBypIDQ_vkC2Tfhdk8aScnC6HVOBRAJw14UvN0y00NiNERYUxjTg",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJhfKwda9ZwokRoibXlAvU0Ig",
+  "plus_code": {
+    "compound_code": "P2X5+29 New York, NY, USA",
+    "global_code": "87G8P2X5+29"
+  },
+  "price_level": 2,
+  "rating": 4.5,
+  "reference": "ChIJhfKwda9ZwokRoibXlAvU0Ig",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Wattanachai CH",
+      "author_url": "https://www.google.com/maps/contrib/111650729362051555413/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVJN2vSU5ycd5OW74jkINJbTBDgWRpfnojLNfIbijLL7e_jVZ2u=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "I came here with one mission dessert! \ud83c\udf70\nAnd it absolutely did not disappoint.\n\nTried both the matcha crepe cake and the mango shaved ice and wow.\n\nThe crepe cake was soft and rich with matcha flavor, perfectly balanced with the light whipped cream. The mango shaved ice was incredibly fluffy, almost snow-like, with a sweet mango sauce and juicy peach slices on top. So refreshing!",
+      "time": 1750572617,
+      "translated": false
+    },
+    {
+      "author_name": "Minna Chiu",
+      "author_url": "https://www.google.com/maps/contrib/112132972244582335516/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjUF_m_Yyen4DOAhgNzcVHZLI5M1fTXlRnmqoXQuwAeVYR7ohjLb=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "A cute and quaint cafe tucked away from the hustle and bustle of NYC. My friend and I visited on a Saturday afternoon around 2:30pm and the place was packed! They do have seating and people generally don't loiter around after finishing their food so we were easily able to get a table after waiting in line (~10min wait) to order. We ordered their 2 onigiri with miso soup and a small side combo ($16, add $1 for certain onigiri). My friend got their ume onigiri and their salmon onigiri, while I ordered their mentaiko mayo cheese onigiri and shrimp tempura (add $1).\n\nThese onigiri transported us back to Japan. The rice had the perfect texture and there was just enough filling inside. The flavors were also really good. The ume is definitely on the tart side (as it is in Japan), the shrimp tempura was fried to perfection, salmon was fresh and the mentaiko packed a spicy punch but paired perfectly with the shiso leaf! It was so good we ended up ordering a couple to go, and they were equally as delicious almost 8 hours after purchasing! Prices are reasonable and their onigiri are delicious! I'll definitely be back.\n\nCheck out my foodsta @chiuventure for a closer look and more details of my dining experience here as well as other establishments in NYC and around the world!",
+      "time": 1745168889,
+      "translated": false
+    },
+    {
+      "author_name": "Liz W",
+      "author_url": "https://www.google.com/maps/contrib/103951857752346591586/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWGL6Qo81DfTM9BVJfzLzuxWAoJonvzlazIYvUHhApHnrWfsdA5=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 2,
+      "relative_time_description": "2 months ago",
+      "text": "April Fools on me; fell for aesthetics instead of authenticity.\n\nI know what onigiri is and that ratio to fillings is going to be more rice but this place is super skimpy. Please look at the menu pictures versus actual product. There was a whisper of salmon on top of mine with just radish inside. The unagi had no eel. I took it apart and could not find one piece (that dark spot was skin).\n\nThis is how I itemized the set, drink is extra.\n\nYuzu Peach Tea $5 - two tea bags and water\nSalmon $5.50\nUnagi $6\nMiso soup $3\nSide $2.50\nTax $1.95\nTotal $23.95\n\nFor the same price I could\u2019ve gotten a chirashi bowl full of fish or multiple pieces of onigiri (with sides and drink) from HMart or Dainobu. Those have a normal amount of filling to leave you satisfied.\n\nI personally will not come back or recommend given the value and quality, but to each their own.\n\nPS - they also need to do some cleaning where people are eating.",
+      "time": 1744802613,
+      "translated": false
+    },
+    {
+      "author_name": "Kris Alva",
+      "author_url": "https://www.google.com/maps/contrib/101864945907064104602/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfPAM3j0ThFBHePH6tN2UBhBgwW6zXVF-bx3I8qqnqwC6Rq5fI=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Such a cute little cafe! There were so many onigiri options to choose from it was hard on to decide on just one and they\u2019re so very filling too. They\u2019re absolutely fresh and delicious. I\u2019m looking forward on coming back again and trying more flavors.",
+      "time": 1741556983,
+      "translated": false
+    },
+    {
+      "author_name": "Alyza Alfonso",
+      "author_url": "https://www.google.com/maps/contrib/116723851188802659561/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWqBMBCkopNJv7WNqz0Df6oa2UPmu-Wdpg1ojYBwu-R4Zcr5KzQ=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 4,
+      "relative_time_description": "2 months ago",
+      "text": "The service and atmosphere was super good and it was such a cute cafe! I feel like the onigiri could be a bit better, as the seaweed was soft and a bit mushy but overall the taste was good. Also, the workers were super friendly and helped us when choosing what to get :))",
+      "time": 1744482501,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": false,
+  "types": [
+    "point_of_interest",
+    "restaurant",
+    "cafe",
+    "food",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=9858612730520872610",
+  "user_ratings_total": 470,
+  "utc_offset": -240,
+  "vicinity": "143 W 29th St, New York",
+  "website": "http://www.hanamizukinyc.com/",
+  "wheelchair_accessible_entrance": true
+}

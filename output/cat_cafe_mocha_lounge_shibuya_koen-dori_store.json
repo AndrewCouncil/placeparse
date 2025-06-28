@@ -1,0 +1,462 @@
+{
+  "address_components": [
+    {
+      "long_name": "5F",
+      "short_name": "5F",
+      "types": [
+        "subpremise"
+      ]
+    },
+    {
+      "long_name": "Boule Vard",
+      "short_name": "Boule Vard",
+      "types": [
+        "premise"
+      ]
+    },
+    {
+      "long_name": "3",
+      "short_name": "3",
+      "types": [
+        "premise"
+      ]
+    },
+    {
+      "long_name": "16",
+      "short_name": "16",
+      "types": [
+        "sublocality_level_4",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "1-ch\u014dme",
+      "short_name": "1-ch\u014dme",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_3"
+      ]
+    },
+    {
+      "long_name": "Jinnan",
+      "short_name": "Jinnan",
+      "types": [
+        "political",
+        "sublocality_level_2",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Shibuya",
+      "short_name": "Shibuya",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Tokyo",
+      "short_name": "Tokyo",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "Japan",
+      "short_name": "JP",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "150-0041",
+      "short_name": "150-0041",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"country-name\">Japan</span>, <span class=\"postal-code\">\u3012150-0041</span> <span class=\"region\">Tokyo</span>, <span class=\"street-address\">Shibuya, Jinnan, 1-ch\u014dme\u221216\u2212\uff13 Boule Vard, 5F</span>",
+  "business_status": "OPERATIONAL",
+  "curbside_pickup": false,
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-05",
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "date": "2025-07-05",
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+    ]
+  },
+  "delivery": false,
+  "dine_in": true,
+  "formatted_address": "Japan, \u3012150-0041 Tokyo, Shibuya, Jinnan, 1-ch\u014dme\u221216\u2212\uff13 Boule Vard, 5F",
+  "formatted_phone_number": "03-6277-5745",
+  "geometry": {
+    "location": {
+      "lat": 35.6630659,
+      "lng": 139.6994954
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 35.66438478029151,
+        "lng": 139.7007263802915
+      },
+      "southwest": {
+        "lat": 35.66168681970851,
+        "lng": 139.6980284197085
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+  "icon_background_color": "#7B9EB0",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+  "international_phone_number": "+81 3-6277-5745",
+  "name": "cat cafe Mocha Lounge Shibuya Koen-dori Store",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2000"
+        },
+        "open": {
+          "day": 0,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2000"
+        },
+        "open": {
+          "day": 1,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2000"
+        },
+        "open": {
+          "day": 2,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2000"
+        },
+        "open": {
+          "day": 3,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2000"
+        },
+        "open": {
+          "day": 4,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2000"
+        },
+        "open": {
+          "day": 5,
+          "time": "1000"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2000"
+        },
+        "open": {
+          "day": 6,
+          "time": "1000"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Tuesday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Wednesday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Thursday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Friday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Saturday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM",
+      "Sunday: 10:00\u202fAM\u2009\u2013\u20098:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1602,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114537896319377976726\">\u732b\u30ab\u30d5\u30a7 MOCHA\uff08\u30e2\u30ab\uff09 \u30e9\u30a6\u30f3\u30b8\u6e0b\u8c37\u516c\u5712\u901a\u308a\u5e97</a>"
+      ],
+      "photo_reference": "ATKogpdrywnezz7v905KpkWOPm0MApRiEI8Tqdnu-fQHiV1cG2bII5tlLGV-KtgC0bkICEJuQ7Fynq81iftuypVmebXQD7mHhKbH96R9bgAAkOB2SQ8NaFVBWflUnk9aAtJxuCS8oDePQn6r7CF5ZQdJ3eJ4TBLsw0PtUKZKui7ocx0bVQh6ifL_DVwip415tQyXiI-16rNxGrpT_3Ywdjepj51ryWdqKG9RNbfev7J6NX2vv7OTVt3LlPmv9u3OYGwpGhPIjPCerMtgn32vAgq5njjUdmhxUbHKJ5PkdsFbM8MmjQ",
+      "width": 2400
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100971978397110970269\">Annie Garcia</a>"
+      ],
+      "photo_reference": "ATKogpdqB_jHz18ffSJTtCmaTBnhp5GSBakydsLdiNitCHbJIHBeEC3Vtw03_4jqRlip_nJyOAUIoaJGcU-vyAcsCFQvmnzztxhdKRHqJVVGftsputTFseVBu8WTcDSM8aYeOsa66xaEP4JL_rMIXaTVv2QdB5uOohEDvqLs2KOAHOK8I7qGcgLc6oVc-vTMYKh1jk90SBmmI4ndw0afCfn-6qXftOrcwpodgsCVskNGvNZWyYMSPKm_-puXAgBh5tDY-jBCs1msffSZvJ-mHwPiJLGwPrGwJLC0O6jurlaB3qCVTklOehNDfb7_7x7VIl9L6DoHZmwqppH8jU_1YLJAaJyDepFWB4jEkRHZIYoJnHpx_dH58_rOL08i3fHXuqZJ99wNMHAeF_bX6P1M34u_QyZ_KQLL96C7J0ylZfPDkpSN-BDdDuLdi9SqjwoEPBk7",
+      "width": 3600
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113329888382943849080\">Daniela</a>"
+      ],
+      "photo_reference": "ATKogpdw90_uMoYqtBIVlOHHgT9NuBPEhBiRJtgVdjti0RN6vQGAQPUTnfuunly_KxySOWaOlIP4iyOIFOxipRC_4f69NqoVdBA1FlaCsn6Ye4zaVFO-Emnk5OMExFFguOV1mJNj91yNegk9S3Asz0gBfx7CXTQEY65j17YM5aNhZyiHwUUuaYOiGETJq9ghZVxvUdODSXLT5QFB5ZU0ShifweEV8lIOqMOSTjX5NOTA6azVRHitV9WmQ2wi-Xc7u-qOI1j5uFDAFdY6Xi4zVMemaZHB98iSfiEhLKQx6JXIVzVlMZ6rXpfs1DRosRaVBolvNZpzjhGb3hnmJPxErtALeDu3qna60HJCCxofBu4l2c_FnpvdhBFUGVWgXd7E09_YEYdwnD6fUBSgSpfU6YbT8-ye4sGShuCzH9eJdzEcqbD2vQ",
+      "width": 3024
+    },
+    {
+      "height": 4800,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114501614471374805971\">Alexis Huang</a>"
+      ],
+      "photo_reference": "ATKogpeiu0BuNXEFxUv3B9stJLDE6hzdOF1QmwaHpl2yVjQHE9cciAaIQnpVCP4N3zkDzUVFAo3y4bMhFNpTILKqXeUqM0fKF6ZMC3joojiv1a-_e17P1pJbeG3gNU1lgMYmtFHIX0_GOXiMoamEDqpyibHT5JqAgqkY-MxUfNWYV1XcArffLfVZbvHxRXLFvwpVO1b3pC2EGNxmqy5lmstHwOopvP1fL21dAmo0tCZ9zK8q8nhbU-_WNSATDWhJ9XSMj63jM06QrVo7UJlSL27njM45N_fTKWpv9SuPC3iYwD8Cz4CnUGzZ4LUVTc63y7atpLlHKUoNUBkRaNGAlCLf7ryEcDpnsEbCgFBU0lId3jnHYPzMmlGwm1nWBmvg_eRE7eIT1NctUjzZRb5ESGbcasrT-misMLQyz-As20znGvY",
+      "width": 3600
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110917918330831028472\">Heather Clifford</a>"
+      ],
+      "photo_reference": "ATKogpevEgdNm_Bw_C_T-70abrPWnrmeuuN-9WTPWwdoLR3jxqXyJ4DMWwk_BUfyq83T9qEcyGlxiBca1R3MtOrW4vuw99vPR_NCS4Qj-Sr9SI20lcW9fI5mpTDCo5h2I8osfrmWgRrW0Q785GgMz8OKH6BptTF7tttDJdtaTLe-lC26A9fIqp05tB3i45MOoTFeSXwm6kJtqX-AhlhnNSTEP1_gYmqjPIB7531SEfN4BxcwQc0o_3nFhqvm4W43xVkxbgfp3tv9EOFo9bnf3zMogDA4fe6sKaA1KT1lpgWwsngt0Aqa3S2rCDCX9nQsJ8LaT-XfB-tcKfiro5fNfi3PHIanvLN4D6rLEOe96BRn7H7sWf91zz1k5biJs_XXKXvMj8E2LuPVVh6vRWT_HrblKkwmN-qfCIM2sxnjyFwdoOxDYBBP5Rt6DVSNyjDuKUFO",
+      "width": 4800
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107339698862150200500\">Rub\u00e9n Hern\u00e1ndez Chaich\u00edo</a>"
+      ],
+      "photo_reference": "ATKogpcp_jvwaN7Z8xxA7SjH2tg1JTI9-po8R7TNePSvRaFwDQM6ucAcGWf1486zgnceju3QCTe1W2NUp-QOQJPxSRJscMwU0Yv632WyvCHeijDAf4GvfK18BTTTAz58r2gwLwPdUuAA1n47mNIb5q4K4q-sovFIXHSUEho4A6gwQql2ykAkAg46mFLec2OTSS-fLzznziGE_M5tj0uocARpUu7cDmBzzDBpNFrY3Nid0kyWDBpzkeAIO9Qg-xbmTlz5ITyjZuFMniQ3reVg9Y8ZWaMipmzGwusg7BcWxJMp7d7E1dwlnb2H2L-iKkfAP6n5qCvBQyNrqMRdghjau7iBciEcZvNBhpJLzDawE5IGu1PWK3KYgeUKxRdQjMMdBshNsxYW7pMrWZ4QkUZRYdx3i778V1tU5unnqAeaGir-8yrGAw",
+      "width": 4000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105550076929408107743\">Natalia</a>"
+      ],
+      "photo_reference": "ATKogpfwEHQlfecWH4wflYRWTE66vwjTDSgqFxAtg_KUkbZ66wxD6a9c4A2dB8o4B2SmPFazYSW1xo2biRHYnqWTndLtkIbks7DkrGMgmg9VMyeTbK6wReQEV3O7gkSfjFmcN8Wr3vXwTSoOL2V1LdYDLdKxyED_K9aCaopF7T1GaRGY3Qe5KLw-YvrwJxQ0Ei7Vf6ti_GpnrOxfDZ85YcmH_oGB3MLe9ArGA1xHMYx74XWPAvh3uXyc9KyBT1Zpp3aiP4N-jbu63P7lr6OWxLw0P8ATEhTdQjxzwRXg5o5RljrnUfA1zsylpDk7CDjGPdEjkX7doFDal4QssqU0ABHf6XbX_IhoLXB5yZKUypHgb9lHASgk1_xC5D-lqAxsdv5Kk38Yp6zCl40T2g0bZDaZTmEBcYgi8ou4AuI6tBjUqdCKSfAn",
+      "width": 3024
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102369202089393937186\">opal_appa</a>"
+      ],
+      "photo_reference": "ATKogpfZa0fLTkQ-IAXNz09hbB5amBMsQnvMoZIgS67UmQr2QAFROmoTBan-TSpsJDiD_5IL0uwBs5nGa5OKAm5iRGD2llTu9FPk9UGJYyeVGKIRYtOE3oC31KRG4vsuBvYVd-TvA1toQAzMDdMFKujHgq0eZTwDTVJ3fInFDEzuJDQZpafmM_dZduJoW6NniXi3IG81SVA_DjXzarQf0JLAFEVGLOPjabhgI-i6FY1THZsfI5KzjNS_VDqRvB-76hz6UkxSyIMpHXQ41GThjLU9FxlzuCeVHIgnyZiTbB73Q9F6QBzgiJ4JdeY2_4TwMfqKe-Gl7MCdiVe89kw_YUyXrmEL8jUn3kFc1G1hEUPHGgvdL3EB9TIZUKpXuDj4ANvmxqq2TCJGphR5NWau0qSYSNPKVD7o16AkhrC9OqGxmgs",
+      "width": 4800
+    },
+    {
+      "height": 3199,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114537896319377976726\">\u732b\u30ab\u30d5\u30a7 MOCHA\uff08\u30e2\u30ab\uff09 \u30e9\u30a6\u30f3\u30b8\u6e0b\u8c37\u516c\u5712\u901a\u308a\u5e97</a>"
+      ],
+      "photo_reference": "ATKogpeHkG1YAg9B6v1cmvE5islVMAvl300dHoN1OgeKP8XArwnVwK2Z2mSGpKCOzMPBD1wVB45HXhVBZuhA4_ko10Kk7vADUoTYlMVqEd_PEPxN8ox7iWtuboKgKAqwaSr29Zrs-6W6cgx4B6YsrVqZIya6H7J5bralnztmDE9DMoJ56a3Bu8j_GX6tYDbJA8EADizwP5fDtxG_EPHxTI5wvUyaTMIotQJ55D9DthJ3rAXXkf_MTtf3-F0KsVHIW513VaICcPJM0lPqbDclRKYiZz7UxHR3MkGwkuQiElZFUSdyaw",
+      "width": 4800
+    },
+    {
+      "height": 2268,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111145907843597233203\">hiromi n.</a>"
+      ],
+      "photo_reference": "ATKogpdSPsgR4ASH43km_R-jRQ4RjEk8KxMnlJG7razGEXXFdk5RTcKUiRjThO9kbMc0AyVX1ilPWXJ1Y9crG69Uj5V_HoI1g-2xJ2hZlfvgf53u2L2UB_L7xe96bkHRFxkNCc-uVrEQnOGM1swPv7EOl0lAOqh3cplCk5RWWxVKgXlGJqIxki_D0wX67wcB0C5rE2t41OYz-VGt93q6PLdXIgP2G7gk-klpBzvSJMdwR4HRSOokD_Br-qcgxHreCXGJuUgmvBJHM6KVJEumkZ3zDaEjJsk_KF-k-kqP-sX1OJohOEgaDjoGiwEii3kq89AVF-KpOdfm5xzx43ooCpGAsvwVPX6vwXZlsomhh6mTodNFY29gukg2aCuYZnnLFnhBg16z_VVLiPGuIwhDfwLIBlT22NWqicQk_OQIN_sMl7t20A",
+      "width": 4032
+    }
+  ],
+  "place_id": "ChIJUWW7YKuNGGARuO9bPcMZWWE",
+  "plus_code": {
+    "compound_code": "MM7X+6Q Shibuya, Tokyo, Japan",
+    "global_code": "8Q7XMM7X+6Q"
+  },
+  "price_level": 2,
+  "rating": 4.6,
+  "reference": "ChIJUWW7YKuNGGARuO9bPcMZWWE",
+  "reviews": [
+    {
+      "author_name": "Natalia",
+      "author_url": "https://www.google.com/maps/contrib/105550076929408107743/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKBAXqTwpbDtr7znQjc5yBUmpAAdozYiy3k_I-4F9NiuHqOxsR6=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 3,
+      "relative_time_description": "4 months ago",
+      "text": "Cozy cafe filled with a bunch of adorable cats!\nWe had a nice experience at the cat cafe Mocha Lounge in Shibuya. The staff were incredibly accommodating and friendly and the entire establishment maintained high hygiene standards.\nThe drinks were free of charge once you were in (though these were only limited to vending machine products - not bad though!). You could also purchase cat treats at an additional charge from the staff in the cafe. This was pretty much essential if you wanted to get the attention of the cats (I imagine that since we went in the evening they probably sick of the treats by then and would not be as intrigued and often wandered off).\nWhile we had a good time it felt a little bit too expensive for what it was. We paid 5016$ for about 40 mins + 2 small cat treats. Would recommend going if you are MASSIVE cat lover\nbut maybe earlier in the day!",
+      "time": 1739948114,
+      "translated": false
+    },
+    {
+      "author_name": "Victoria Ricci",
+      "author_url": "https://www.google.com/maps/contrib/107379682442352585876/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIDL7dOhhWS50NjFml-0729mAYDDtKJ9S7tegh291Yf5J83TQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "These cats were so special and sweet. Staff was very helpful, and made the visit smooth even though we don\u2019t speak Japanese. Peaceful, warm atmosphere. Wish we had places like this where I live!!\n\nEdit: I\u2019ve visited three other animal cafes after this one, and none of them were as good (I was even concerned for the animals at one!). This place set the bar high with it cleanliness and how their animals seemed treated. It just really felt like a genuine cafe with cats, rather than a petting zoo. Also it had the best drinks of any of the businesses.",
+      "time": 1741420913,
+      "translated": false
+    },
+    {
+      "author_name": "Julie Norris",
+      "author_url": "https://www.google.com/maps/contrib/117007837077349042376/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJRahGltL7J8FxWLuFjM8Z4HlHSGPXAwXzzGLNRisw8VIC-SA=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a week ago",
+      "text": "Beautiful cafe and beautiful cats! The staff was friendly and the ambiance was fun and peaceful. The cats were well mannered and eager to be fed treats! Highly recommend!",
+      "time": 1750023310,
+      "translated": false
+    },
+    {
+      "author_name": "Mackenzie Hawkins",
+      "author_url": "https://www.google.com/maps/contrib/104166127338238008646/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXNXRGuwYyJ_ucw-hCbcFaZbUZYV1dzzyz8DN73s1ZR4HZfnEXC=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "I highly recommend coming here!\nIt\u2019s a good fee and it has a lovely atmosphere\nThe cats are beautiful, with many different breeds there! You can tell they are well taken care of and have many places to sleep, play and eat.\n\nWe bought 2 treats and the cats LOVED them, we were getting followed by 6 at one point!\n\nBut please if you go there, give the cats the respect they deserve!",
+      "time": 1742284460,
+      "translated": false
+    },
+    {
+      "author_name": "Tyler England",
+      "author_url": "https://www.google.com/maps/contrib/114883431275428285870/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIcgqDfCxTHLAW7eR6PMLvGYviCIhbh-629bj6JjCfo86Kxyg=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "This was a very beautiful and clean place. The staff was very friendly and constantly were cleaning things. There\u2019s Mario Kart in the back, plenty of beautiful cats and plenty of space. If you love cats, definitely stop by for 30-60 minutes.",
+      "time": 1742882855,
+      "translated": false
+    }
+  ],
+  "serves_breakfast": false,
+  "serves_dinner": false,
+  "serves_lunch": false,
+  "serves_vegetarian_food": false,
+  "takeout": false,
+  "types": [
+    "point_of_interest",
+    "food",
+    "cafe",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=7014666220945010616",
+  "user_ratings_total": 461,
+  "utc_offset": 540,
+  "vicinity": "Shibuya, Jinnan, 1-ch\u014dme\u221216\u22123 Boule Vard, 5F",
+  "website": "http://catmocha.jp/shibuyakoendori/",
+  "wheelchair_accessible_entrance": false
+}

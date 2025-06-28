@@ -1,0 +1,421 @@
+{
+  "address_components": [
+    {
+      "long_name": "124",
+      "short_name": "124",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Hester Street",
+      "short_name": "Hester St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Manhattan",
+      "short_name": "Manhattan",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "New York",
+      "types": [
+        "locality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York County",
+      "short_name": "New York County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "10002",
+      "short_name": "10002",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">124 Hester St</span>, <span class=\"locality\">New York</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">10002</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1900"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1030"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Tuesday: Closed",
+      "Wednesday: 10:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Thursday: 10:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Friday: 10:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Saturday: 10:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sunday: 10:30\u202fAM\u2009\u2013\u20097:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "formatted_address": "124 Hester St, New York, NY 10002, USA",
+  "formatted_phone_number": "(646) 830-2437",
+  "geometry": {
+    "location": {
+      "lat": 40.717032,
+      "lng": -73.9947703
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.71839208029149,
+        "lng": -73.9934154697085
+      },
+      "southwest": {
+        "lat": 40.71569411970849,
+        "lng": -73.9961134302915
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 646-830-2437",
+  "name": "West Rice Roll King \u897f\u5173\u80a0\u7c89\u738b",
+  "opening_hours": {
+    "open_now": false,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1900"
+        },
+        "open": {
+          "day": 0,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "1900"
+        },
+        "open": {
+          "day": 1,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "1900"
+        },
+        "open": {
+          "day": 3,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "1900"
+        },
+        "open": {
+          "day": 4,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "1900"
+        },
+        "open": {
+          "day": 5,
+          "time": "1030"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1900"
+        },
+        "open": {
+          "day": 6,
+          "time": "1030"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 10:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Tuesday: Closed",
+      "Wednesday: 10:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Thursday: 10:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Friday: 10:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Saturday: 10:30\u202fAM\u2009\u2013\u20097:00\u202fPM",
+      "Sunday: 10:30\u202fAM\u2009\u2013\u20097:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109108843266524152510\">butch gon</a>"
+      ],
+      "photo_reference": "ATKogpewDArCt5VXVDwrtM7OSL1Iqptt-hUWOzybF0Dnh6HnPE5dOMY_uPHT9q4fSWa7spXoTvJl7qSqURl_Nmd7o1F3Ln5cIrSZsUx-o23tHQydeXGaP0aZ17HxksuWE5fg31454Dluofwwr6NmiXrQZLIlkYg57cIHbHcgHjVKrUaF9rYHcr36Sc8KMcUB-xzkEnrBVnq_EqhQOrQGY4Y-qxVEpMIS7cYmM9i2QisMp8rS2iUYE99CvvUJH8NBrKmkG-noFSuaPGyJi22aZM2nzNynwxCJMxVW1VYrlNL-Q0wWBf6LXOBhphUmv9i_wBcpdBPzfaVxRmFRzwaIGGYkuovcyCtGn-XkJRklaGmTdifKbnSJVurT_2qJjKXup9QiMdMfQ4M-JLajij4vqjflRkjmwWKShX3zLFxfOWcDhFcZwg",
+      "width": 4800
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/109532074776968499894\">Randy Procella</a>"
+      ],
+      "photo_reference": "ATKogpdlELmBMtqWSOfGGRcY0YgwAmcMuOOLlugkXXWOkxISVsEOEELZvqyKHUqxaNzirHnry5RS9LB3_ByHS3IqqYiqCWM7Oaj526iJY_dGYRXPrCljsHNqh7V6PzZKmWLYwmSB9NgeHwTqkpMnUOZRgW5zx3okICIq3o30T6iu73LyBla5JKW9JMpaZh7LyOYh0OQboxbIMmW6a2Kdrmi2ZcggEhTkVD1wDwTC3-0pJ_ALcouMuE1UK9I825Nt5VVYKzckpJ7V1R_0NA9_O_I6tlk7JOjnXPJhNG6DH_VyIjvQW78NXP7TbmvKzCbrIoXdJhoe_K52i36qPH5w5kx9RBql-ZVgE0HT9uJEpW6B73ifXVZ58wKg4abUifMwWxMuVimodjEh_KaUSGbfgA9jggDpedQHDA1KZ4akkb_Wx2j5P7YK",
+      "width": 4080
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107608950231486378197\">Billy Xia</a>"
+      ],
+      "photo_reference": "ATKogpfAbtaroX3lu1_KMAC3fA8pVHp865kQkGVYvHDo1yHWw0JhN4D2C009CAPp3VLIfdcYBP7zKqtyamIwQEvHaup5iiAnDmHI8p0Odv4UW-jIM9pgthYc4zbTSelGu7O_j-1QgAkvdmESzkhhIFDE_G9HUq1xqqgtZ8ZRn_4vb35lftwOMtsOxahzCZBnWqgOY9t2dSuvJT4t5SL-mMNxJ6JpPO-pCvck1bEm4HVVj0L2J9B-t3qV1MVyE8gVyfgH2SwXnYIcMP_yegES0YLZgUvuVxWaCbcKl3CRQeQTTZcdlnJEcfHkJrKfQB1c9YsQ_yGr4QEwUcXdMOFGiqJA27PAzPWYZsVW3ideHpxOkK7Uwx-td_DbBU-dv63QMH3acDhEYmGLsZSgP6GM2G77cd6kSWHvyLpjiuqQ58HKUpr4GaWH",
+      "width": 4032
+    },
+    {
+      "height": 2571,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100729859632545352071\">Christina Huynh</a>"
+      ],
+      "photo_reference": "ATKogpcnVMtcB6vwlbAogtrbueCpApxNCskBmDspTSRwT8r52SQGg4vk6UK4Qnf-9fvUEuefXqIFc4HzxCcm_BSGTO5V53Ms6jDi22lRJxdcGLonELjrXxG3s0wyICAx0pcxBxVVKq-dNcxoRgvgY6hIGqSoiQLbTAVZi6aCtYRWw-vthgmoq0yNDWuDcd6xgRpx8WnqlQxGsKTMJ3zzrHAplRw9hblcW-uFtefw4fqNz-dGZ7b9ptGkUNK0DMOSAMkEiCNLVwJlazXbq7z0JHkWalIiUfly_hpPS1W1mOJr9zVhN9t5lPziGy_AyWF5jL0v-vMtPDwReQGZ-PnJSGEQ5pf4Julj3Z62ZLctuhZLWDW9x3MF5KBiAblAx3kyMmyE2OvhJWH1G1d7T5KLN3qwKOo7rTYKT99U9ijFenqdz8oZ6zQ",
+      "width": 3424
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103969833385419012000\">Brian Won</a>"
+      ],
+      "photo_reference": "ATKogpfosm8epcy28IGJuoKpgLHn5YW0-Bd4snKf-R3EBTT3gAh6adX_KNV6nwfKNE6on7GFvEpxQKGYEk-X3yKm1nX5jDWbmbVhXIMLz4dnKa26dddcsXVljGSIj7U2pQsLdFGoppUrkrXXJGJDuJ2lsri1Zi5WlX7lv2zPZeDHLiPwHCaPc45KoG_HZkR62e081w3fHKaFjMu21QLw9u_oLlt_8QtvKkYMSayidHFXws2PXemv9BIAo5vmIW56FjJ1YovbF2dM7CwqMW00SGb_30jNo2IcgJhXLqvRZQmmgPIVJd0bUPcTWHsHH7n3sPwBl0kXyN8AUsE-fo9c-2DNPBGAsRw2JQzwbT6NOxLL7ZgNNWDb2YA9lgTXrCwbkNy9u8gOojKkQPKgjPyMYZKHAuGdV5cFKynXx1_Lt4JkHF0uwlYPrZDutqVSpFVp4w",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107151196602471892701\">Jesse Yuan</a>"
+      ],
+      "photo_reference": "ATKogpdIc4nvytdc_SGB74JDsWeSbrt29z3j9Gx58OzXxiX-1RAyxOOlpO3hFn_MrET2KBhnLKXkco-7AlfhCiKT5DBpFEFNSHkOmG8VzQl7i6x161sG89Xp1EWZFDm99e25ZChWi6OvhmEN2ex80Fo9LlKQjJ6dy_JFoctVh8Xi09uVkIKo6eh5XCRyumQpyBcOy9vq1b6es9LbEGLEk4GnUQ_ldbj1RY98F-6T-RT8we0MdwwpCwEG6FL5rMEx87MIkkOcxhTfgJu4baWy4Tmm2-7NSF04ktDZUtEueuyzUzVxWwnuTRfyPWi5VTL14f8D8GiJAJ9xDvRCKbsLkugfDDxiw59CcP-fXd4dNvCkCDhhFnw0xFYiP__P0j-pLdQwWN_HLVDdyJOccUbGwcQkuHz8EC4wynABI1kfOOoqTz0oyeSh",
+      "width": 2688
+    },
+    {
+      "height": 3072,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/104422120051304025985\">Lingsheng Wen</a>"
+      ],
+      "photo_reference": "ATKogpeoSO9qVZufgbtDV6-NBsZxxDV09tlV_PyELq8bp9cdImJVOfcf9rod-3FCoBW9PcREBhgTRLbN64usdcZfWZIJb4eVADNrE0afPzAIhy_qdkEy20lmj9T_sSXKBT5tw_IgnsIzPY_-jSEL1BKMODM3NpoEEN_i7-8IEtwkCUqdcMmVQwNRsO9MaQPBU0eXpw-mhyj_fWHB6uLVtgqTni6Xjc-nxlRXlfE2bce7Ox6DzYAxI5UoEfIRnb-Y3_bOI0WBNjv1axqT9cFlAZCm_0GsTu3tdvgLvEadh3R4hEg87f3ty2wuJwE_46SFBWMs3KIaBd8n7xg8bzqTHbQWhmnl1zgpUy9sutXGOVweecW8Bqz1cBNJACbXORT-zMfQ_kMTds5ntxxMuwU31iNw_Qymu06aPbffEVm7PUPsgigAxQ",
+      "width": 4080
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100324626777382075711\">Steve M</a>"
+      ],
+      "photo_reference": "ATKogpduhdGCq-ayDR7MuSHEyPkzjy3TPwxEVzLvq5Aun9GYCgZ91pJ2nYkIx1912vlL3r-eGm3SXNKcMyUONKlArPC9uYqoatu0BhhypwVmDv6oiRxIBIgXsBcOOM02EAdOXEzQOD3RcnWsTi8e2Q7GsGpunyg5jmWWebj3POHHsxFSQi9XlybAiJnSXk3TiJ8Gc0lFMMMmw2Nmvyd7W2prgUWmTj0UOt8-JD3t3cn7PiP0A1L3W_pcTjCu_TR9hoqqkgqZxRsZpwzDIaUfJNTHFF3L4d4UwLBs5TLPXt45ygHGJSv2t2T333a1nDRwJoa_plQtUIv762l1uCV4ZlXkVFzmwpdSJ1AsbhzhNJmLt9RNvEW7ccVKNRLxuHe-px58N0BrQ8XEArZdq5WPlV8OskG0UIA501XV_Cg852r8mtzciQ",
+      "width": 3024
+    },
+    {
+      "height": 3491,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107151196602471892701\">Jesse Yuan</a>"
+      ],
+      "photo_reference": "ATKogpdS_QHIyIFskmGnMYMXyq1JOppwjt7WncCcnHCmA-qBtidLHbt4ex7S_I08Pc-2Xrvgj5MMUW87rHtyYC8HHszJn1lrDXZ9H50a2IKN6Vrq6XLuaqwFgm95Kf7MgVSdFXZhvIYaGqXeCt8mynjuQ7nTmH_Rr536JssQL1oiqzdEq5HWcLfVCO42Z6Z-mdWtlwdnDQBAxsLZQ1AXx-9uvObMoutH47eWroSKtde7q6TvYq2AfAXYL3rrjTeNkX9kWS3Q3ZZJBNt6jLCERuIyss9-YdY-TEGZvVwP-HZWIGMDF_jgaXAwZ8gkQVdXOIkMJSW0FXq7TWWHmc21PBSd7xT9UMNsHVk9eVt8NRR8tUsKcFV9giT4molFOsEUTkKwZZWddisFXQOFicGb0cCKzPliV2KX_5gDJyFTTVp4OEaxzPg",
+      "width": 2327
+    },
+    {
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/110772108596590612897\">Olivia Lau</a>"
+      ],
+      "photo_reference": "ATKogpdY6eyK70lBiRtIS1yXVzMHhqEZT42p7bo2CJlRSFEbT2ouTPKjjz9qv5geNfkqfK-5pvjKvsnK3olenZDr7UkBXzZ4oPEYjLU24a26bxWB2fNNKNfknQdcON7i1M3tt9_vJNxUmYDjdJD4I6Gnjd7-JeR5gO-3YjB_w1Ahq5aGgZZ0QnbHAfWsd7mjQjS8HXEu2_7zpfRcfI4a9esMzCmMNh0P-L9uW5bQ66K8VcJbmzFUzi0-qC98t8j4Gq_oXtp6ys1Av6rJres9pfA0TiG45-K7vxmAvI09M6MHcasigUKideN6dNKRix7qaNjcIU4cDhANIMn6pbwdypRZIEZ4fzYhIRIdXeCv-ZQiCO7w7JS8cb68qQxxwNE1UJQ8wvYfJKvvThzy-eApUUkYk1b6qSGu2kmpgeHuvlAeUsc",
+      "width": 4000
+    }
+  ],
+  "place_id": "ChIJv8ppS0dbwokRrn2vYIST7U4",
+  "plus_code": {
+    "compound_code": "P284+R3 New York, NY, USA",
+    "global_code": "87G8P284+R3"
+  },
+  "price_level": 1,
+  "rating": 4.6,
+  "reference": "ChIJv8ppS0dbwokRrn2vYIST7U4",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Jen L",
+      "author_url": "https://www.google.com/maps/contrib/110429751525185205569/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXRnHHX8Vamjx0xrNO0S7Hg-OlpkohrfCmE6SfuwahbS0Ocsq38MQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "in the last week",
+      "text": "This place is super clamped and has about 4 seats so it's hard to find a seat because it'll most likely be taken.\nI came at about 5:30pm on a Sunday and was lucky that there wasn't a line of people waiting to order so the service was quick.\nFood: The cheung fun is super super thin. While watching the cook make it, he put a small amount of the batter onto a large flat sheet pan and spread it on every corner \u2014 this helps to achieve the thinness of the rice noodles. Personally, i prefer the thinner rice noodles compared to thicker ones in texture.\nI love that they added a decent amount of meat compared to other places I've been to that skimp on the meat. I also added an egg (extra $1) which enhances the taste a lot!\nI do wish that they gave more soy sauce in the little containers. But overall, it was so silky, thin, and delicious.\nThis place gives me a lot of nostalgia, back to when I was a kid going to school in Chinatown and every morning, my mother would take me to a small store on East Broadway & Essex that sold dim sum and rice noodles.",
+      "time": 1750650145,
+      "translated": false
+    },
+    {
+      "author_name": "He Kevin",
+      "author_url": "https://www.google.com/maps/contrib/112191926264816118489/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVpqitMPFWK0fGbwtsMpTA7axqaoZhpZQqQTIxtPG5ePie_cpOl=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "Super thin rice rolls took around 10 minute but the line is only going to get longer. Sauces are good and they let you customize your order freely. Definitely packed when there's a line.",
+      "time": 1749818373,
+      "translated": false
+    },
+    {
+      "author_name": "Sapphira Bella",
+      "author_url": "https://www.google.com/maps/contrib/106562632122231279000/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocIjxIL7x-_1oD2XRL-YnxAiVHaKJyZPjbMWIGy85Gj1uN8AAw=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "in the last week",
+      "text": "Fast casual rice roll spot- open until 7pm. Since rice rolls are more of a daytime thing I have come here twice missing out on the other places. They make the rolls in front of you so you get to see the process. Affordable cheap and a nice snack.",
+      "time": 1750711931,
+      "translated": false
+    },
+    {
+      "author_name": "Hope Bringer",
+      "author_url": "https://www.google.com/maps/contrib/107989337774723274593/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWFsePpQNmHi28U_7a3hhmrRXZcwHeGiL8a4h-XpWS_0f-y2oo=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "If you love fresh, perfectly made rice rolls /cheung fun WEST RICE ROLL KING is a must-visit for a snack attack! \ud83d\ude0b\n\nThe texture was silky and delicate, and the fillings were flavorful and well-balanced.\nThe service was quick and friendly, and everything tasted incredibly fresh.\n\nThere\u2019s a small counter like 4 seat long to slurp your rolls down or you can order for take out.\nWhether you\u2019re a fan of classic rice rolls or want to try something new, this spot delivers. Definitely a gem in NYC!",
+      "time": 1742923514,
+      "translated": false
+    },
+    {
+      "author_name": "Tracy H.",
+      "author_url": "https://www.google.com/maps/contrib/102042485993239391267/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX4CdEyYLpKsq6mnFVZCFKSiFS06MKHdnBfjbCGBgCIOuUVIw4t=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "4 months ago",
+      "text": "The best rice rolls I\u2019ve ever had!\n\nWe initially wanted to go to another popular rice roll spot, but they were closed. This place is a little far away from the hub of Chinatown, but so worth the walk. We\u2019re glad we found it!\n\nThe dough was light and chewy, and the meat was flavorful. The two people working were also super sweet. There\u2019s a little bar area for you to sit and eat, which we enjoyed.\n\nAnother great rice roll place for you to stop by when you\u2019re in the area!",
+      "time": 1739385050,
+      "translated": false
+    }
+  ],
+  "serves_beer": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_wine": false,
+  "takeout": true,
+  "types": [
+    "food",
+    "restaurant",
+    "point_of_interest",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=5687364101205884334",
+  "user_ratings_total": 289,
+  "utc_offset": -240,
+  "vicinity": "124 Hester St, New York"
+}

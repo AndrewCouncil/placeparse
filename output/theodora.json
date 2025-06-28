@@ -1,0 +1,444 @@
+{
+  "address_components": [
+    {
+      "long_name": "7",
+      "short_name": "7",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Greene Avenue",
+      "short_name": "Greene Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Fort Greene",
+      "short_name": "Fort Greene",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "sublocality_level_1",
+        "political",
+        "sublocality"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "political",
+        "administrative_area_level_2"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "political",
+        "administrative_area_level_1"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11238",
+      "short_name": "11238",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">7 Greene Ave</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11238</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 5:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "delivery": false,
+  "dine_in": true,
+  "formatted_address": "7 Greene Ave, Brooklyn, NY 11238, USA",
+  "formatted_phone_number": "(929) 692-6360",
+  "geometry": {
+    "location": {
+      "lat": 40.6860572,
+      "lng": -73.9731084
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.6873097302915,
+        "lng": -73.9717079697085
+      },
+      "southwest": {
+        "lat": 40.6846117697085,
+        "lng": -73.97440593029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 929-692-6360",
+  "name": "Theodora",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2200"
+        },
+        "open": {
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 5:00\u2009\u2013\u200910:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1350,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111888146410102615829\">mourad ben ghozlen</a>"
+      ],
+      "photo_reference": "ATKogpcXq6TIXNjnt59RGzPk1vpfJ-ikRVDpFpXsUYCGMnI-r5EkB2CPNAJtQI7Wz10dOwGycsF55ZJUGtlwqwYs5bUQL23HYDvD0xH_tvsaHfNgHS8XPeDs9IO9HD4XXnPegl6bJ_DgDseMniHdBH_f0zF7f-SRI8JNgimSgcOvYhw7Xq_8Xv5m3ibLapkqsfAT2_09NGzG4jbYH-fqWHDJzqeDM_0vIIv4P9EL4DWCwAJcJ8emGuPqXx3s3cuMnwMUN_LmtmYbbdO_b3zmVLYRWfp6X_oMvi-bHB7F97LD4XVzMWIuCXNAuoHx4TFMHZIp9KbJ9tmNB17J2uXIn_YTulyrPobatamn1T1pVNE_akTImncXJg8cTlW79zfwQ3GAnNXGaWAL1GyWGEm3UpNwUqXa_3MfJzTkQMIXjMznav3OKw",
+      "width": 1080
+    },
+    {
+      "height": 2472,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/117770210945850995870\">Francesco Oliveira</a>"
+      ],
+      "photo_reference": "ATKogpc-p-KCHbMalRCc4VmJ1XtwcREqj7r2Y9y4E_dQE33KUDFaOJEI6GmwA_ufjpi49fnwibMyO1t0MAlVThJysUeCsp-rcH4Wr_4nWCq4x6v_qkoOMSudwSUbt7HNKyUI3P1I6MTtk5VsQXmoV6XSuKrsJrCl1_BHFpePkdjpYSsrI1cfgQJasOfHsdA-gb-IjY6yQr22H5XxtIeYWLE9Nhxsyae47b0RT0CXuGhiZsr8Of5XWubWXnkGKdrn-Z7hNkg3-dWhZG4PfEw4nQ4yTPdoaBvUC-0P7dbvNpClpJjNl9PWzx9ZEbMryCvyPCKVEuK3GtPE3N-Sq9LswrZQJyRGIsPu3v74GgDSF4jnoRyzhrLlBRfyZk_QQt7tbp9AnlRfF2B8R5XDFxbz86j5IqWsV-q5UM_0cOufhZAnG-5svrcH14JHRv0Ye6awVhxB",
+      "width": 3420
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106345834830586355277\">Alex Zhang</a>"
+      ],
+      "photo_reference": "ATKogpc-5WLu84Mir3WVNIuYUlWq7gIBcbBZ8qVtO-EsNCPlCYLfDgPbdMv_5EKrTQ6KRQE6RG-iHrWFSzo5VeDyHQPUUkReTwzbjcPafajPQwRWLS2w8at2hFcIZjPbCprgyOsbpJ9GC5qR_6IV2cvh8ZFtqSZ5RePbxf-NMWl8jfvtMDN3kgwEUfeNFOPca4tVQQakMCTfk0w0FtsOVFuZPPG7k-77Fxbyy4Z1NhGe88_AQ4zBN23kscJuBEK-hJgd_hpbrF-7ClpkrDZ2IPleXaZBv_tNt-H7war2ew6Z1xsEJw6hxsV27gFXiapCBps8kPao06eczrq08sVaOVDrntlI58DaXTc13IPi5BkC1Jo1jm6QJkDg8GLuC6m40bI_nq1ijlUlRCiwhTWMuIXYKP796fXFL1RODaiDBk_QWRsrjRSzRzfHx6u04jyqYSCn",
+      "width": 4800
+    },
+    {
+      "height": 1350,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111888146410102615829\">mourad ben ghozlen</a>"
+      ],
+      "photo_reference": "ATKogpeYOJ0YIHjhNCQCLegKdtn2isBiWtPGfB2o7P4J9INivp_QvjWwrAQVMXz8GA2R7005zBPFFF6mvtoWODIZnGdfrb8eykexAK_eFoVq2KYdK_IIIamPZ3AEXWUoFlMFRr4YUEjrcXHdt5DIqMkmWeowU2Fg3Wu5ECU8GQAV8emIPWeED6LNSqv8yamYPxVD3vTbZas8W3hgtn3Xv55TMECLjXuAUQ39Vakhpg3diAbejGesmLgVt8HOgzwWYgGUBDdAj1xXAQsfTbDlQkp5CrUZ4JsLHxcSkMOQ47KaVRXA0AC0xNmVQ7Ik0oTnam5C6ktBf6_9yxMCr8o0wLC7ewnV-LW4Lp3z-jUbi4F-DXDVOjinfbYZnXucqV2kXwYilT90EqcQ3SYICQ2wk6-VseHUwVQk3dle7wJ7NF9ZUqvl_Dfa",
+      "width": 1080
+    },
+    {
+      "height": 2586,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106345834830586355277\">Alex Zhang</a>"
+      ],
+      "photo_reference": "ATKogpeKLocLNar-FVH5qH2udEHNIbGIipY8TAAqC0JlMHjjnQDySKS-ftAqD6QR5WxIjB6RxJD6w_luTOyiGwEdmlbFjXID9GVjLoiarH8k3cmPA9ZMtvsfdA8Ol5ip2Rj33jzRUGNvSvwuwfH0VZrBOXTDYwU1mGOWgppZGre4Ehlei8Idk3dUZXgpVY1mnOwaP2gqzt-tZpPFqWbmihlV3qJIgZvXkStVh9v9Q3f62jmiKOXnC7eAVm2xaQi5u5-yZ7GUb2aXDFCwRJhJiIGLmL7VlxfgSnfTYjBLXaISnEP3zqKbGzhF7JvHXC0aLNyl9bliaK7WsbX1e1UzLQbAXDpCWCrzfH2ts2dSokcEvsig54NdEKIVGKnpQN-CV1tJKqeQftCth_p6HROhrLzPX3sQAuzvZbbz4K5_G24nFaBUDO5k4JxUiDP-mJjtJIyq",
+      "width": 3650
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/106345834830586355277\">Alex Zhang</a>"
+      ],
+      "photo_reference": "ATKogpfN_Cp79Cus5G2KjiZR4ATfEcPlY61ejb79o8aL5j3ikTg1sYDD8juhjOEEPnjgsPALQxypIxNhEA3Jx_M9Hu5NMBS5mBYlTj5Ejj8IIGBIiJZi-xuN0tVKrBiEeyGwdtnwTWjDq3NkFCbtBMhbtfw2NEWwoBf2On-Pkgx1tbOCBN-Lr3fwUVB5iGslCrcfcU_teiCijEBbPclGfRj9l1SnrQg20kYLynACnw-mv0Iv4-Us7BXUgzTt_kt82LPnXnEun95qwlCmBy24dUW_lD2L6setBTCDnEGoCauoxIwcgO9MhX_TZQGcHi-fHvXMmBcmipkmQo878mFAIznmHynfM5cUqpwS9W1LGE2yl0ePpp8mbofTR3KXr6EbOdbz81l1gvslOaYPlxdn_oxsTrOC6hKFhr7DLxvflg0O4ED36Pn7niJJRWif6IzGYw",
+      "width": 4032
+    },
+    {
+      "height": 2870,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114937408561519368736\">Jr Casa</a>"
+      ],
+      "photo_reference": "ATKogpebV1s9Y7LWcrxYGr5nDNFrK_0HJ2GWskYQXa6ok5xiadkyQIacas7j87e9hAiXEKGQntG-0r6Ifrgyrb6bUQxgTa17561ghICKo9Ou_KiytRjbkURl60D84p3HScUAQC0fR--B2ssl_zEbvrH9bAnRaOHNnbRsy_Bzib5t5dQ00iUG1MjLgpjSmXZ40_HmUixnc95kfcMzsyA4v-9_XckFl6gU0GSfIQnBD7cUmW88h0jczpZxHqWo7p_nBAnY4_ilNHv5pROoVifyCRqtQwugRD-ju74jtcyrExzbeKjh-FfcxAoYU9sRX74kIj9a_hm3LHEtevd3Se84fGS8x-E_oVLEfflNX-Qj6DTxmjzSu8z1KIJWHQQIetisI23_D2IFkphdA9TMUP5Y2QwU6TQ_2gzZMPvp8K0WobUdng-Cow",
+      "width": 3827
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114185630651978875466\">J Mc</a>"
+      ],
+      "photo_reference": "ATKogpcygGVW0V5bt0s_CPUZshzUDFyYkgGt5eKh6uirGwngy2HlCn3Pd9XVqJr_Qpv1xlUhNxzFMdKbZAfKKTtXkiAOBZpC9N1sppAHsPA5aLPidyJJq56tVBF4sQQKhrYgR9cmzjEx_OF8FlW5KIDBFr85g43Wtn2VScocjCQXj6Tjcv8MxbKxX2bsmOgZ689yHahrEu-RP9X8lqyWR3ISiKCCWCoDSZmD8WZfJ_koFt7jf1vBuwLcdzekade96l_4oJY-OzWanorR-h_K475xATnjk09QK1kESAnMG86Yr86yubGOdir52fK523WGyMCoKQ1byVQcAsQXzsEie8WjToSR37Akv6vttxRwWG5vqUEyFv896WQzV_pbXo1j53UsOFzWfopvHbeVkPMIhc0hAbncIwku6t4Y1j9Iu5illbtn4w",
+      "width": 4800
+    },
+    {
+      "height": 2048,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115133730171522241118\">Matt Brown</a>"
+      ],
+      "photo_reference": "ATKogpdxiyuGDLFgfegpNTTXRNep0cJoIhFu86_bkmCsX2QHkGsT4yYOufyJkQMlw51_rwvUNvYGUlw41LVSaiSoR50FwKnEXZUJNAUQ4CrD6IsM9p05rouDgg3fPrHUg0-4Xy-5z7LTB4M_Gp6PgGlkG_NTJRCYbh06RSUob6i1BXk2mCaxwgdaYSwdjjzdcdzYTYBjTB0XZGFEwQuCRk9ZM6HgHMJbkwZuM5DmQpCSbArdHdUBnFLds_K7KDfHui2SlNo_Xl075C_SnaPI8RWhojiaYsS0XAfZOSlXTm6Au3AmfwcF9mlTSY-fNdEx0He4GWoR0hlXQCysM9CcUS-OmauTkkODtmUQV0YALNmw8kkkzZF57RFmFIijyM_qym4i4RJPP3etizt11iNVBX8ZGRSmHdicxslZrDuHKkb2cRE",
+      "width": 1536
+    },
+    {
+      "height": 3472,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107907839552899066152\">Alex Shnayder</a>"
+      ],
+      "photo_reference": "ATKogpdhKJtq9W0GdISz1z9nL-UylVhMNRb-dy10aSRKW1ps1H-11KewKTZ9bGXOmCXUn0ncaEV_Ja-kRWQUGU2yka3UrW8zrRJMc6jM6OyerpbZhMiaOP6k2k1e-jcLyO2vw1pqoO00dzPEEONOgkRzeN6VV9mLVUo2AKyIUZiBaIbo39xMgJcVqlabp1GfdG2Cv-VSVYn7HQ_RxMBUgOJMVa--HG4ECr0tbkhXvc2_W4b2HYEFLCus2pNeO21GLDOeIXBl00McHqA1GFSeRx-BbkBC6CF0v_jN-ODrPf6k4gzgQ4JXjtzf4AkOhdNOdq_NzBavSeSOkMjFvHo7KPt41BowNAdtPyY0czutCvf6fIVMbwQG4O_5EcT7NTmWFn82BvvtjwVmwdqJB22a28dZep6bW1gIcJBElNJuyIOxFb9RUtAF",
+      "width": 4624
+    }
+  ],
+  "place_id": "ChIJJye7jZBbwokRtioAck7uEIg",
+  "plus_code": {
+    "compound_code": "M2PG+CQ Brooklyn, NY, USA",
+    "global_code": "87G8M2PG+CQ"
+  },
+  "rating": 4.6,
+  "reference": "ChIJJye7jZBbwokRtioAck7uEIg",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Christina Huynh",
+      "author_url": "https://www.google.com/maps/contrib/100729859632545352071/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVu_Q2mGqQS4BVwQUxZftJK5PYvNtxk5jB_ixksugHV19VXEdoB=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 3,
+      "relative_time_description": "3 weeks ago",
+      "text": "Theodora is one of NYC\u2019s toughest reservations right now, and after my visit, I was left wondering why. We walked in right at opening on a weekday and were seated immediately. Service was excellent: attentive and accommodating. We ordered the red snapper ceviche, za\u2019atar kubaneh, black cod, and half chicken.\n\nFor all the hype, the za\u2019atar kubaneh was underwhelming. The texture was similar to milk bread but much softer to the point of dissolving in the mouth with little chew. It was fragrant and subtly buttery but there wasn't nearly enough za'atar for it to make an impact on taste. The three accompanying sauces were fine, none really stood out.\n\nThe red snapper ceviche was a miss. The fish tasted fishy and the lime vinaigrette wasn\u2019t nearly tart enough to mask it. On top of that, the large pineapple chunks tipped the dish into overwhelmingly sweet territory.\n\nFortunately, the black cod was a noticeable step up: tender, savory, and imbued with a rich smokiness from the coal fire.\n\nBut the highlight of the meal, without a doubt, was the half chicken. It was beautifully juicy across both white and dark meat, deeply seasoned, and permeated with a smoky flavor that went far beyond the skin.\n\nAt these prices and with this much buzz, the bar should be higher yet unfortunately, too much of the meal didn\u2019t clear it.",
+      "time": 1749254799,
+      "translated": false
+    },
+    {
+      "author_name": "Michelle",
+      "author_url": "https://www.google.com/maps/contrib/116284362867542468224/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLr1HnFNMgRu0V2w5ty78ah0WBilBhoEpJa_FLYx2SS7ODqpQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Amazing service, food presentation, and taste. The Whipped Ricotta Toast was my favorite! It was a great combo of salty, sweet, and chewy. Phewwww took one bite and suddenly understood peace.\n\nThe Swordfish Skewer had a beautiful charred smokey taste. It made me appreciate the flavor and textures of seafood again.\n\nThe Red Snapper Ceviche was delicious too. It was sour, fresh, and crunchy with added sweetness from charred pineapples. It felt like Lady Gaga was rah rah rah-ing in my mouth.\n\nThe lamb was the biggest dish and it was solid, but I didn\u2019t feel like it was the main character. The four side sauces it came with were intriguing though.\n\nWe also got some other dishes like broccolini and this Monkfish Liver Hummus with pita which were delicious as well. Overall this was a great experience!",
+      "time": 1742439211,
+      "translated": false
+    },
+    {
+      "author_name": "Joshua Fields",
+      "author_url": "https://www.google.com/maps/contrib/114333042282625349690/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVyMl-CZ6YbNJWfdNMts3dhLwuhO_2OLiPuu-84MUH1E9mg2hYOpA=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 4,
+      "relative_time_description": "2 weeks ago",
+      "text": "Theodora is good, but not worth stressing to get a reservation over. While no dish here is bad, almost every plate felt like it had great potential that was held back by either 1 ingredient too many or a strange preparation. The clear bests were the Sourdough Ricotta Toast, the Burrata, and the Lamb. The octopus was extremely underwhelming from taste to presentation, and the Ceviche\u2019s try a little too hard resulting in an overpowering sauce that kept it from being a favorite of mine.",
+      "time": 1749582521,
+      "translated": false
+    },
+    {
+      "author_name": "Regis Chang",
+      "author_url": "https://www.google.com/maps/contrib/103956450350632634834/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU6llsQGSCMaLLlEDxkafVNsraoeGqhBQTHOytSJURWD3yLZi1q=s128-c0x00000000-cc-rp-mo",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "It\u2019s not too often that a restaurant compels me to write a review. Having seen all the rave reviews, I decided I would make sure to get a heavily in-demand resy. Verdict: this place absolutely lived up to the hype and did not disappoint. Mediterranean food is not one of my top 10 favorite cuisines, but I loved Theodora.\n\nAs always, my reviews and ratings will focus almost exclusively on the food.\n\nRicotta toast: I agree with all the reviews saying this is one of their best items. Creamy, delicious, and the sweetness with the honey is very nice. Don\u2019t skip this.\n\nZa\u2019atar kubaneh: fluffy, soft, and a great vehicle for the 3 delicious dips that come with it. My fav was probably the harissa, but all 3 were good. I think most people would agree though that the ricotta toast is tastier, if you were only going to get one bread dish\n\nRed snapper ceviche: I love ceviches, and I could not fault this one. The pineapple works well, and I\u2019d say it was one of the better ceviches I\u2019ve had in recent memory\n\nOctopus: the octopus was cooked very well, nice and tender, and the sauce very good. I think the sauce could be improved a bit even further, but still, a delicious dish\n\nGolden tilefish: the fish was tender and well cooked, and the sauce was nice. However, this is quite a mild tasting fish, and the sauce by necessity also relatively mild as to not overpower the fish; as a result, this was probably the least memorable dish of the night, and one I would not particularly care to get again.\n\nSwordfish belly skewer: Delicious! I had seen some other rave reviews of this, and they were well earned. The fish was so fatty and tasty, and the sauce went well with it\n\nChocolate cake: the cake was not too sweet (very important!) and the mascarpone on top a nice pairing. Fantastic way to end the meal.\n\nAlso shoutout to our server, I don\u2019t remember his name but he was excellent, and he even comped a drink at the table next to us when he realized one of the women hadn\u2019t received her drink for a while.\n\nMy only real complaint with this restaurant is that the portions are small (not uncommon for many nyc restaurants), so if you have a healthy appetite, you will be spending at least $200 for two people, and you may still not be completely full. Having said that, I would be happy to come here again and try some of their other dishes.",
+      "time": 1746040365,
+      "translated": false
+    },
+    {
+      "author_name": "Pooja Yerram",
+      "author_url": "https://www.google.com/maps/contrib/109453948048671933783/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVLudvJdkihpGU2Zc8vDh2LIzYJz_g2DQX5laZpb4Ilb2fX6KQ=s128-c0x00000000-cc-rp-mo",
+      "rating": 3,
+      "relative_time_description": "2 months ago",
+      "text": "We went for dinner without having a reservation- we got there early before they opened and waited outside and got seated right away at the bar. It was definitely a solid meal and it was a fun experience that I\u2019d recommend to others & GREAT service. The sourdough with whipped ricotta was the standout dish for me, it was amazing. I also really liked the hiramasa crudo (although it was a teeny tiny portion for the price) and the broccolini was yummy. We ordered the swordfish skewers which were good but not amazing. We also got the branzino which was pretty bland in my opinion. I\u2019m typically used to having fish with a lot of seasoning and spice so I think it was just something I wasn\u2019t used to but the fish was very fresh! The camembert cheesecake was yummy and not too sweet, would recommend! Overall, there were some hits and misses but it was a fun one- time experience!",
+      "time": 1745292185,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "types": [
+    "point_of_interest",
+    "establishment",
+    "food",
+    "restaurant"
+  ],
+  "url": "https://maps.google.com/?cid=9804598409473043126",
+  "user_ratings_total": 382,
+  "utc_offset": -240,
+  "vicinity": "7 Greene Ave, Brooklyn",
+  "website": "https://www.theodoranyc.com/",
+  "wheelchair_accessible_entrance": true
+}

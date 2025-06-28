@@ -1,0 +1,453 @@
+{
+  "address_components": [
+    {
+      "long_name": "354",
+      "short_name": "354",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Metropolitan Avenue",
+      "short_name": "Metropolitan Ave",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Williamsburg",
+      "short_name": "Williamsburg",
+      "types": [
+        "neighborhood",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "sublocality",
+        "sublocality_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "country",
+        "political"
+      ]
+    },
+    {
+      "long_name": "11211",
+      "short_name": "11211",
+      "types": [
+        "postal_code"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">354 Metropolitan Ave</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11211</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "Popular dry-rub BBQ, beer & bourbon purveyor with an industrial, cafeteria-style decor & wall mural."
+  },
+  "formatted_address": "354 Metropolitan Ave, Brooklyn, NY 11211, USA",
+  "formatted_phone_number": "(718) 963-3404",
+  "geometry": {
+    "location": {
+      "lat": 40.7140434,
+      "lng": -73.95641739999999
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.7155007302915,
+        "lng": -73.95509221970849
+      },
+      "southwest": {
+        "lat": 40.7128027697085,
+        "lng": -73.95779018029151
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 718-963-3404",
+  "name": "Fette Sau",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2200"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2200"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2200"
+        },
+        "open": {
+          "day": 3,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2200"
+        },
+        "open": {
+          "day": 4,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2200"
+        },
+        "open": {
+          "day": 5,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2200"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Tuesday: 5:00\u2009\u2013\u200910:00\u202fPM",
+      "Wednesday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Thursday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Friday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u200910:00\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102234650835721795724\">Lemon Kim</a>"
+      ],
+      "photo_reference": "ATKogpeOnze4TqkfP0p9waqcRrwj8waOdqfk5bxKPPP8l8fXrJlVotX0yucsJLQpshP2orqkCLOHGUFP4NSxxzCJIWpzFZxYwTRPXz_k2o4waaJVkkYmGprBAl0JKhv64O_qEn2gZOm9a7ubaPLULLP4eqR2SJjVwa0q3KXRU42gNL32s74A05N_Zl79_4EPI5VAUcUQaB5jdpeYIddCQt3-mBE1Oojb9a2z-uiNhB9_kIWnvfgUgAbvn0xOX7JlAAYkeR0FWcJTraZGmiwp9s0q_UZUQHntBVruZhzCMgbhEuA5Vbxw5jm12ot8ieHESagp5d8slcJG9sru6CEwhy6Wcx7KVrAoljJAUIlwV1Wott00YiZJujf1OHC-dKDRVyV4dfsRGZ3PN2ZdfOTNBpFY_WsR0LVw-BiazlR3lzsB0eJ0bcs",
+      "width": 4800
+    },
+    {
+      "height": 2256,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/108535736454008272849\">Marcin G</a>"
+      ],
+      "photo_reference": "ATKogpf8lpCv-qyldAI8aj-GjzBLSb3zs1LqZ58GDaVx5n1SxPB4nn24Bp3mvxTWVwbLtv34niGEQVxq1qc2x8zHdQXj47ZI38SbHKzKXi_Q03N8joDZUc3Sm_nWTWS0wAd5N_TNkLJEKqNSkDouIdPsBx8YGrKpjeCeEZo9qz_R1jwphyWP1UsEJ6xRLWrAa9KPwFRogO4Bu1QtGOYMCit99K1_JLQ_spXE6o24g0ofjm_eeCUyPR68mXIRvYSCyvTZcTI5fejcnHFKfhJzc2RzkXX4i6QhV43SAirvlQ8rzamxfcEfxnpOX_Yq0NiobITu6c_TxMTm_nosGNq1etMgoYYk5h_c3yR18URVXvaJdz0yCq0temieUnsoPbUh_LSra2AwO6Zs4lG1TGrj1B8mqMVZEEZMs0Auj-IQNza6e8izFSjfFJz_-NTVVJYoZyyo",
+      "width": 4000
+    },
+    {
+      "height": 2559,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112843096439329525558\">Fette Sau</a>"
+      ],
+      "photo_reference": "ATKogpe33Uk3ekJ6yXJjnGxkEZ-HGBnjNb-hvkA3PfdB5Sm9s9edqqeRm_3p-A80BpvnxO7RUoGXVXmEaVXP8M9YP2zbs1m_NyWPpKkb2AVwtCuzEq7RCIvbpINOxnFfcKgVEQtPPNkhgvjNw_jRIqaNJgHzlv-I84fGiM5T0uFyLHYYu9Jt_x9nYzGhkDUaYRdbIX6vD_lfXiBDEHH7d4QkptxsqvXFw2b69TRm7IOqyCHb1c6ZPPNMldlGj6vGG4nmK6nT9NAq2KHPG9kDl8TQNkquHM9b1ipeCEPHMsMgB3wbQg",
+      "width": 2559
+    },
+    {
+      "height": 1184,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/102610266421327721385\">Ozlem L.</a>"
+      ],
+      "photo_reference": "ATKogpcD6NG7VAgUtT3GKEfxA3nNoJyXdtP3OFObynwJW_tz72jHU_OyfwkzXsm18YWW0hVfRKBwvw01qTZnVZ2H5FXLcZVrF0ZdCvuc3dm4gKAcEHvYCqi5-IeehnMUs1Tk3hhK1VWeW-cHNMEvbNCCp7lmuYmhIBHo6hUp5iXvuFTmFtg0WsAKPynDf4Ho205DhVWKXq-wfuMlH5t02yTzF9KDxtAvlEy6v5YihW8OpnDnQwOIhX7zLlellQ4yMti7kIV1TYlMa9VIr5Yc-dMOhERmHunLdJd0vmS5azTQ6_ykmTzmIBpQVpgJmc_O7EGwoJJfykJalUk-ka6EzFSqcAYDAEnqssl11NAnj3Fy123ZagU1EUkBUAECdmsGMKYzhFQ2aiA8ARRRjfVq7VFBxJycTCht-SAtll6xDAzgg_fQMbI",
+      "width": 1171
+    },
+    {
+      "height": 2676,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114070565415298470045\">Paul Nowoczynski</a>"
+      ],
+      "photo_reference": "ATKogpfaKPmQ3kPVPOBE1VAw954lIWjB_b6-CgRvSpWU4KcsjrGM234UbY76aa8BBGXO94PKXTDlH8rJaTqPldVJlMBjaOi1Q3V7kPxDIPF06h0CL255MkCdtLU4qno_djNxLmJCIHZzOl4xhIsuJwxGQEmlTRMY6EVD-ObJtqH4LqswqskszFZg4gzBGqF6PTuEa-tWK9g5MsSt6k_ya21S1xlLMJS5skLTiF2R6AoE8jZoG4eugumX6ybdCMjIR8oEds01XhG2wCzK00qeQIEbOw6wdjJhucd3n-K2UPEj2qakPgDy0MPpeAAnNcV6j0bVbcsfLuv1Bjfr99MRFqG2AY1PBQ2H2y5iUD7JAymWLTnQ1lTxHUC0Si4mIVmjmLRouleH4-2SY_ypa6hPUWn8el4beDvpzVUnEBMrLrCsaONaZwsk5eRTau4xihV23Q",
+      "width": 4624
+    },
+    {
+      "height": 1179,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114937408561519368736\">Jr Casa</a>"
+      ],
+      "photo_reference": "ATKogpel9seHHERZjydUaXxktHq8ZjvMsPSdDfbUjUGUNFCsqJzv3m3sHD-fVR9H9bnXYFgOt0G_-x8HzoVg2zTVZER5fxVYzraU59cf9VNk4UTDAHoolsobEzxio32rGg0wuE6hUAXll_mPZA5Gnx8plSLS2lJvdtTNZl4p8-KkLbLJw_wdQ8mTT9O0hSE48K0Ekgan2Zo52VZK5xqd6B9pmCnAAF0sWfIGH4WYWJCpU5YEA8sf_2jGpf-BIWWQRieHS8I2CWY9AGhlce5HhkALvWRFPxcASTC_kwrInwtXyxowC2RLQkM1UppELYKyXsx7LTILarQLmba8wB3gmGYESCpu0PM7mg_0Kjo_N_ngE0ePszEqwpWACcES5dlVu-_vnqKFSDTDYP0OESTIFDwLr29oXyU69PdvA6BE_3nV-mLx8D2-",
+      "width": 1978
+    },
+    {
+      "height": 2252,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/112314864992286381463\">CRS NYC</a>"
+      ],
+      "photo_reference": "ATKogpfQCp8o15zw4ehSJoAHWpnz8b0Zc4kK_mxbJQiM6CJGSqVZvSV8Y8-Ag59v6laUuRYzOeHDUke0OjOvMXPmLXcgVOGCzy8zZ_gtzoBJDYrTaFsBLsLQZCSLOoFMkF2BuDQdObHL68f2qu2ckMtzVDw48wSVy3VEQVD92vOCUF-Rwjfh8RQT6oTN5KrnOoElr0viIgU4fZqM41CCG1I17cjxNAICNP24JqGRM7SQncTRt8UBkOgzBr8X9N7jRNB73lt4v3DDn6oEOCdS30yQe4OL1kSOLEG5jwyudsTaSs8UBEHY21N8IGHvNoTx56pJpXjotOKwIpAoj_dtsMGSgjsDeHaAezOnbQzAD6j9RjFynpzYo6r7VjQQ4ftN6lcKCtl_nsDzPIxdDr4TY_mkYHIg9v5Gv-oJgNfErxWqoSYVPwxz",
+      "width": 4000
+    },
+    {
+      "height": 3600,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/105086330441155870386\">marco brazzini</a>"
+      ],
+      "photo_reference": "ATKogpflPLH1_tO2qzoNot_I_RKYCKh7m2L2ePgr5t1T4W_XYCmxieA7TmOq13bKqom1TVmc-ON_MIqfovnB1m31rcn8MzP-Haw6rZ85NOcHs8I1UdtMMkyToyUWFSgxP46VZTIBw6jfrFlXHWmvXhd6-h2puOKN7aD3OgEJ15jvJUCXLVi8aJ0aOpe_X8BWHrHsWzv7fqAJPIylWFc8B9JctyqR34Wkn0ZlNfJ7o1ty7_Pg3n-AkijXNLTXoBs59HjYvi5EwaW3Q4w1jLOzTJ4U1jifMhNYdDFP9VGKuiX3nbnM3fGM2I_saxNsiHOoGtEXqVYrTsYGngbPumWCWRAFAYCVFoqJI-yJpCCByLM4Tx31c_E3Xdqx_RjF6gHghb0CUDiC7S8bW6TJ4pnzkrPCieexycTTLAZoWnrxGQkAQcbXzVYq",
+      "width": 4800
+    },
+    {
+      "height": 3472,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/114070565415298470045\">Paul Nowoczynski</a>"
+      ],
+      "photo_reference": "ATKogpcMuYIzqCrIR4jeY5luXjC1iZ9yR45VrYIikYN2MW0IDPFgFBt2j0urt8b4AAFG51F9EcmeZY4La_FipHfOsOnFefHYz43c72WlQ5TUiOyLmWtIDA0iaJbf9EFo6qv616ULgDxSPtxRLyCB0NEBgTA2htyEf0Ad_h503ElXZods-rYCbJh27H1fbeHdGFHeDAACd_NZlXgTrzTukVUhuLdrkbyqXBwFsqP7qA21TdUGmdQ5v4qhwldXvjpWckLzjisrLBdF5hFYKDWCzZ8HlAYfrfSX5Tkqt3kg8gjjIxRpSaA5oUZBsk3R964P-X_SH5h9dfvEGTTx0QWW5mEG6XSC6U5TwrS0TrL62uDmPFj7dAQhkBWkD_RjxN4sBer6ZqTuVVHx9WRjvE-bWbfCtoI6qR722WDNFAsCCX5WoZdHbt_Q_J7pa_ef1_mltqJT",
+      "width": 4624
+    },
+    {
+      "height": 1512,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107230707591929011626\">Melissa Naja</a>"
+      ],
+      "photo_reference": "ATKogpcykOKxpf0rNd8oi6ZWQX1FeqNU7bSaZ9-3NgCiNqL-T2XCz_Daw_p1GeRJrZa71j_Chxsr8jXuFUaxeEVkep_4JAlkFVFPcJqzYJ6rWnxaHiKFFhj184AYdwAIoBGJlHWmKCIgRwkCXTqUJmNl73C_1xp_kJ5DXjJV3F7Rg4H_IZes9Yd0CaE9dTlkdJNkFWlGuyfLiW-UsPR_njOs56g3U7wP9OghTzBaqcZ_31Pv5_yNpsShjqLtrmg0F-mUzBBR2b1pgdjUT2pgmhKFrsfoK5X6vSInfsoB5yYCh3oWLHPVLKpe5cTgWRwqOJKnE5RZbscNCL0yt8-rxo_vyL7SSBZktmEXNBP_UQE93GJbicupZ-AHAY7668b4brpWS056AfzwPB8EKQM7EbaNvbincPaesrD__EG1iHsq9Zc",
+      "width": 2016
+    }
+  ],
+  "place_id": "ChIJ5-1kAF9ZwokRxy_sb_0_IJ8",
+  "plus_code": {
+    "compound_code": "P27V+JC Brooklyn, NY, USA",
+    "global_code": "87G8P27V+JC"
+  },
+  "price_level": 2,
+  "rating": 4.4,
+  "reference": "ChIJ5-1kAF9ZwokRxy_sb_0_IJ8",
+  "reservable": false,
+  "reviews": [
+    {
+      "author_name": "Samantha \u201cSam\u201d Santiago-Gionet",
+      "author_url": "https://www.google.com/maps/contrib/103580820658872644144/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVEWukAxemtEVTUYUg8wrQk6mbvvqwIHLqfM5FZQNw0B793v08BlQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 4,
+      "relative_time_description": "a week ago",
+      "text": "Had a quick dinner here a few weeks ago and it was okay. I have a somewhat high bar when it comes to BBQ, so I definitely am coming into a spot like this with implicit bias. But overall, everything was fine. Nothing to scream off a rooftop about, but also not something I felt was a waste of a meal. Good for a casual quick bites with friends, given that there is ample space and the service is easy.",
+      "time": 1750284910,
+      "translated": false
+    },
+    {
+      "author_name": "Daphne",
+      "author_url": "https://www.google.com/maps/contrib/112241666437534165641/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWs1JmYvBhb4gkHy2tv8EA-94ifwzZnS9Wxk-1u_r6hiWy6ctqdUA=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 5,
+      "relative_time_description": "2 weeks ago",
+      "text": "As someone from Texas, this is so far the only good bbq place I've had in NY (granted, I have only tried 3 places). The brisket, sausage, and cornbread was all amazing. The pork belly was really photogenic but very dry. Both times I went it was easy to get seating but I have only been on the weekdays.",
+      "time": 1749918241,
+      "translated": false
+    },
+    {
+      "author_name": "CRS NYC",
+      "author_url": "https://www.google.com/maps/contrib/112314864992286381463/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjU6Thq4Hwu-8PFfshVZ_BJWJ1JUMK5oIdEQzWP_x2LzdMXGfsKD=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "amazing place. a little bit of a dive, but in a good way. adds character and atmosphere. EVERY single thing we had was good. better than some other BBQ places we've been to within driving distance. The only gripe we had, is outside of their control, seems to be that there's a shelter around the block. some unsavory characters when walking there after parking, and another inside begging for someone to buy him a meal. Please, while being aware of this, don't let this deter you from going there, you'll be missing out on some pretty legit food. the dude at the counter was also extremely welcoming and informative.\n\nedit. saw reviews saying the food is bland. I disagree wholeheartedly. if you're used to heavy overseasoned food, than this comment makes sense. i thought everything was pretty well seasoned, and found the beans to be a little on the heavily seasoned side, but still delicious (albeit, heavy). only negative comment that has a little validity, the fatty cuts. out short ribs, while delicious, were on the fatty side. I wouldn't let that stop of from going back. also, a little on the pricey side, but not out of reason considering the food and location.",
+      "time": 1743465198,
+      "translated": false
+    },
+    {
+      "author_name": "Richard Austin",
+      "author_url": "https://www.google.com/maps/contrib/111280027032004260983/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjV-LckIuzZGMwJwrzFq9KGwlxFPasOZPylMQS0YvxooB0YFSPkq=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 5,
+      "relative_time_description": "a month ago",
+      "text": "This gem in Brooklyn turned out as a surprise. Started with old fashion as my drink of choice. Bartender ain't no joke, made them perfectly and consistently.  The food was okay, and I had the brisket and pork ribs. I never use sauce because I want to taste the flavor of the meat. Brisket was too fatty, but the pork ribs were perfection.",
+      "time": 1748092031,
+      "translated": false
+    },
+    {
+      "author_name": "Zoa Robinson",
+      "author_url": "https://www.google.com/maps/contrib/100890256158684821308/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKKNLSvfHq3ZgmUjIlQU4OKt6EkPJ8C9gSXsWMqJhp7C9HCwis=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "5 months ago",
+      "text": "If you're craving quality meat, this is the place to be. They offer an excellent selection of cuts, all cooked to perfection, and the sides are equally impressive. The spicy BBQ sauce is a standout\u2014absolutely delicious and packed with flavor. Plus, there's a bar if you're in the mood for a drink. I highly recommend this spot for a relaxed, laid-back experience with great food, perfect for enjoying a long, leisurely meal with friends.",
+      "time": 1737422686,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": false,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": false,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "point_of_interest",
+    "bar",
+    "food",
+    "restaurant",
+    "establishment"
+  ],
+  "url": "https://maps.google.com/?cid=11466235009022308295",
+  "user_ratings_total": 2196,
+  "utc_offset": -240,
+  "vicinity": "354 Metropolitan Ave, Brooklyn",
+  "website": "http://www.fettesaubbq.com/",
+  "wheelchair_accessible_entrance": true
+}

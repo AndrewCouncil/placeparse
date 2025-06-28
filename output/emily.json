@@ -1,0 +1,504 @@
+{
+  "address_components": [
+    {
+      "long_name": "919",
+      "short_name": "919",
+      "types": [
+        "street_number"
+      ]
+    },
+    {
+      "long_name": "Fulton Street",
+      "short_name": "Fulton St",
+      "types": [
+        "route"
+      ]
+    },
+    {
+      "long_name": "Clinton Hill",
+      "short_name": "Clinton Hill",
+      "types": [
+        "political",
+        "neighborhood"
+      ]
+    },
+    {
+      "long_name": "Brooklyn",
+      "short_name": "Brooklyn",
+      "types": [
+        "sublocality_level_1",
+        "sublocality",
+        "political"
+      ]
+    },
+    {
+      "long_name": "Kings County",
+      "short_name": "Kings County",
+      "types": [
+        "administrative_area_level_2",
+        "political"
+      ]
+    },
+    {
+      "long_name": "New York",
+      "short_name": "NY",
+      "types": [
+        "administrative_area_level_1",
+        "political"
+      ]
+    },
+    {
+      "long_name": "United States",
+      "short_name": "US",
+      "types": [
+        "political",
+        "country"
+      ]
+    },
+    {
+      "long_name": "11238",
+      "short_name": "11238",
+      "types": [
+        "postal_code"
+      ]
+    },
+    {
+      "long_name": "1735",
+      "short_name": "1735",
+      "types": [
+        "postal_code_suffix"
+      ]
+    }
+  ],
+  "adr_address": "<span class=\"street-address\">919 Fulton St</span>, <span class=\"locality\">Brooklyn</span>, <span class=\"region\">NY</span> <span class=\"postal-code\">11238-1735</span>, <span class=\"country-name\">USA</span>",
+  "business_status": "OPERATIONAL",
+  "current_opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1530"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-29",
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-06-30",
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-01",
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-02",
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "date": "2025-07-03",
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-07-04",
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1530"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "2130"
+        },
+        "open": {
+          "date": "2025-06-28",
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 5:00\u2009\u2013\u20099:30\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "delivery": true,
+  "dine_in": true,
+  "editorial_summary": {
+    "language": "en",
+    "overview": "This cozy, gourmet eatery serves wood-fired Neapolitan pizzas, rustic small plates & pastas."
+  },
+  "formatted_address": "919 Fulton St, Brooklyn, NY 11238, USA",
+  "formatted_phone_number": "(347) 844-9588",
+  "geometry": {
+    "location": {
+      "lat": 40.6835694,
+      "lng": -73.9664327
+    },
+    "viewport": {
+      "northeast": {
+        "lat": 40.6848323302915,
+        "lng": -73.9651020197085
+      },
+      "southwest": {
+        "lat": 40.6821343697085,
+        "lng": -73.96779998029152
+      }
+    }
+  },
+  "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+  "icon_background_color": "#FF9E67",
+  "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+  "international_phone_number": "+1 347-844-9588",
+  "name": "Emily",
+  "opening_hours": {
+    "open_now": true,
+    "periods": [
+      {
+        "close": {
+          "day": 0,
+          "time": "1530"
+        },
+        "open": {
+          "day": 0,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 0,
+          "time": "2100"
+        },
+        "open": {
+          "day": 0,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 1,
+          "time": "2100"
+        },
+        "open": {
+          "day": 1,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 2,
+          "time": "2100"
+        },
+        "open": {
+          "day": 2,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 3,
+          "time": "2100"
+        },
+        "open": {
+          "day": 3,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 4,
+          "time": "2100"
+        },
+        "open": {
+          "day": 4,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 5,
+          "time": "2130"
+        },
+        "open": {
+          "day": 5,
+          "time": "1700"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "1530"
+        },
+        "open": {
+          "day": 6,
+          "time": "1200"
+        }
+      },
+      {
+        "close": {
+          "day": 6,
+          "time": "2130"
+        },
+        "open": {
+          "day": 6,
+          "time": "1700"
+        }
+      }
+    ],
+    "weekday_text": [
+      "Monday: 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Tuesday: 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Wednesday: 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Thursday: 5:00\u2009\u2013\u20099:00\u202fPM",
+      "Friday: 5:00\u2009\u2013\u20099:30\u202fPM",
+      "Saturday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u20099:30\u202fPM",
+      "Sunday: 12:00\u2009\u2013\u20093:30\u202fPM, 5:00\u2009\u2013\u20099:00\u202fPM"
+    ]
+  },
+  "photos": [
+    {
+      "height": 1920,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100730420907429974914\">Emily</a>"
+      ],
+      "photo_reference": "ATKogpcNX99_mev1eN6o_kNwHZglBgIvKW0DB6mmdgVuzQAy4JZ94CIkdDF6ag8X8-x_sag07sIoiQ2-apa-6nvZjmZZijMCUO22zBEPLZ0BqGzGImxmtVCiVp6E-3nU27UxLrC2PsgmpAD7D82ar45p6jcltg0gBDPVZXHf0MCU2-HBUo1qmk-qE1Gc7NVDaqzmQQ-9QG0uCOaSEaDPompvsENL4rJB3ZHwBE46C-lVuXnjzj3-FEKZFe0otPCAR2OhGGwzTzVkHCunoMu-gPR5OtN217lNFDpTod2yXpFdyd62Sg",
+      "width": 2880
+    },
+    {
+      "height": 3200,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/100730420907429974914\">Emily</a>"
+      ],
+      "photo_reference": "ATKogpeXAm4alPyLxSPPkPITaSGp7GJiKEXQIZY2vRQzZy1L-dE43WhZ7eoTwOicbFgNquPboB5GEoKeISv7kiyYYNKh9MXr6DuG28zVX3nKixDm_BQiRVHXfhLdIyxZBe8ZiltxMY6t7ED7wGLQyiKiknmXnnGEEucvnSGSf3YJ6XyerF3TMi1UMOHH2U5GeYX-Zrbl1YLxkDasMuRI4mf6jn0MgwWWVER9ez7JNtEftPVw26UYjsZWQwmbOGDGzO_IZfph9uCY3LbuuEYh0UjUZsPk-hFbA1ACWbzdh9XbOIFqDw",
+      "width": 4800
+    },
+    {
+      "height": 3194,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116368399317738404191\">ifaa amit</a>"
+      ],
+      "photo_reference": "ATKogpdtAuc2sDdHL2YqXPF4NF3M76FtVdCChBFScUaE3abv5LlW2-xm1UENqo-1MP0nTsZOJB4Cauajqodt5NNNvmhu1tpPcewVarFdHOIGm8Hosee_keipbIlj7goGbzUiBWRwqyt0otzbMGhBDcf2_xw0-ZqfDHYpNmK-J1lllyEJmQYWWhAiBeabpm_mGn-A0Y9qvM3UHyT5jsqQ8_64r5nOwzWjhz0PY9z79r1x7B-5wOrR66i5tGbZCWxOaDSKaH6kZ6Lx1HN4mBT0gjHxVbWSKK4FYvuBgVC4ZNLDjhPQh-Lc1Itej8UN8baYgY1mRQ5Enl5QTXpfPL8eV2buyvyhIYfySfk8OpvhQAzfVY4IHMHutErTG-q3ImRJVH8MyKu0njMI6yRrducj-HNjuyk2c8PnihRDDQwpeYLgy2hWPWLGvwtpp1X5bOJHLQ",
+      "width": 4800
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/113122089406111507779\">Itay Diaz</a>"
+      ],
+      "photo_reference": "ATKogpeAEANy-vng2odHvMXG-a0CcrIUyNKLVCAxdb86IXeaKp7__wLUpoFN3Hi0H8l8Dt4zK7R_XQ2jK418g74z3WaGY1CRsVzyp6yqflYquFpq9sAURhIgii_Ve1lr8FnbRkaS7W5HbQJOstqeJF9gmy6oZJgehFPfjLGWHHL5yetYB0s3phSP3Ml9Lrp5mSw3TD4XyqfzMCK7vScFfXMj_FzTfSwkGDqZ6rom63JyDGGeoqBO2mLOlRmIy7ElqXIuyoCscWRQNLhV410PqdDb3ASH9sEHOX1H4ua_If6QabTIUqLwlK3yQWdOl_lsc1_mYAFBtPeUtRhMFPxWCoUXk8JSiMzKKtF2V2sXAWUejprLsEKRenUhxkVNIK75FzdOAJKbXGiW6DYFT1znCcBw7TxJ0KluLZT0aNiw1uRbNHTHlQ",
+      "width": 4032
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/101787046020224319142\">Jason Ramirez</a>"
+      ],
+      "photo_reference": "ATKogpdIILQ-71HcNlK9uq5MIxHC1NGtJuU_sh9Zjb9LhRW481Sb_73OmGeixvqA4uqMMQptjt34eqo-wZ19Z5xQV9X_2CP1ztut11QyC6ks2bcxXZguZYgu8u7BXd_bmyQBEIcbn_fxuZxIO59akF4aL0uHlbd0w4yNwi6bpaE8Aq63vCzLJlYieR5wMc3P-GzCCmnj_tpHCPTqwa5a8Lg3b-YXmIdHw96wY7fnLkpA8Uczu6yTyJMjYGQGRpIqayKO6OSuKPTXTk2_N0NSJrEdFAFmzNnth4rewjWXV2W1VLQxNomHRz8ID6j_koALV_oWxpwO6ATzTCnwtCOkxOCK38i_YixwFZVR1egmck2UirXZgCV6q9xJ9Fjg6mDewnfbdgu1lCwVkKlnW0kJxCr4ZwzjXXnw2y5s5BN_W14Lob2uCw",
+      "width": 4032
+    },
+    {
+      "height": 3194,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/116368399317738404191\">ifaa amit</a>"
+      ],
+      "photo_reference": "ATKogpe53TIecNQdsbAcpIINm2vs6IbM8bJcrk0oT6vLT_jCI6tIqQkjCmdGgQkjk9Wb501DUFYTNY_6y-8eSOXvKs4cVuVfui_PMluVHfrhI4Q87TqrN7LbGWIe0gsbHrsRcsELVsx3y0v4oRDWigba_Oua_LFpTCuuaarqkuF7Bk7XLgf_YiUZX8Yra4PRQFMfwiWyPUJzyjbA2n793zzx4zPfPUo_50LLywiz5B4s07M98RgS8S4GQ5oHSfNpYnkWed6LXRM4rXKUsQzw-mDm9AnOLULim8L9ydz5wDQgQTI0WxFtNnN24MN5H3Yqj_jqEASybimPcxt4WUibC_XMXYu5D-woSOR3G-g15nRzPWZ8le33BhoWTyCuoohlIX99SdMrVt0todM1KIUwrZAtq1-AgZe2VJfmdk25icpvzSxxxHcAoGzGcG_iKX7rTuqI",
+      "width": 4800
+    },
+    {
+      "height": 3024,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/107320150003379651844\">John Galang</a>"
+      ],
+      "photo_reference": "ATKogpd_j-1NxlddpZphCfKXX6QaTkNpwzc8_GudyncIt2x4siCZe3Mj0j7MIjYTBKFMg1jPGV17dtaXIOVo1mBBJL0IGh6zm9jpyT7TWKC4VpeehDTWcY16_cLF9J9MJdzqiBYow2sP-wDQ74Njw1ITt-mTNnEwHfVHZEDyZoDhttd3Y45W37yr7Rl7xnaT_yg2rIozoxGWW7FbWgB03rX6gYnXuIig3XmDpr9cog502dDf1QMH6-_mknesExJtiSjBsAokzQC4YyapqnghQdt_trgVqo0iLTAyCFNAuchG86F8S2ZPOC2k_XxNyTnXMYLyDubkJH4NrvuPcB8pCp-EcUgwnH-rI9Cw8YNnn_IBQmWZUilGtexjjpi9JQUAV6B-SxPMqO-YqrdSHZQKF9sV9YJNOirpaecfoNiC4bVtBwpvgw",
+      "width": 4032
+    },
+    {
+      "height": 3000,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/103804062606465430848\">Yannick Rohrbasser</a>"
+      ],
+      "photo_reference": "ATKogpd_YQ9WiWvChtI9QgATvJ1KyqOcDO9cYvMXmuf6xO8p_CxZ5DCZo1jLWvec79337mFBfaAyFWd0IK27Gz2rFPbzSzHXmMqmk8N8_JXmp1RetGqI1PmhkgN7_iw2lmzBeafQy-nBYaGYQDb-Z3GP8uCl8wsmA9z_ylBP7Llvo1Dw6GqLs3p5PfFYufYkfAWzq3H1Q1uvFAVbaFn3uBA2OZk5GXPpAkmG-v-8rG-WNlR9sJzHc4uYJ04LU4XBtW6f-o2EgapRJ2iiLmZoK8xwivRUehys0E875g5n2zL3fFqi3zN6DnLDJ43OOnNakGwBzoFTh9qRhI4-Ps0v1c-mvbRG__x0wzg_PjTVWcxGjtJkHo72H5beRiTjblawvB7VMHfwtvwai5cYrUW588MUJkMGGls5End6LIpjEWPo0GA",
+      "width": 4000
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/111982469427668776187\">Paco Manes</a>"
+      ],
+      "photo_reference": "ATKogpeUfx91j1aaTuvE0i_fYeyzeJejW1SMKSkhEqaNSBErorWlI_FDFsxV8dg-dthtfURv3YDkG-THEq0x7zXHxxevtHHWHqgzuJVgVG2YFvADFjOZ8DodjO--YlRIIzQ2Ty8z1qG4tLnHFUwzin2B0ealweCqoy5XouIaXhSFAxEU0c50NQMb8yPIyVrah_cjvqu69eyPnSrr9FeAoXhoF3jUelvH6q-KhbIOFlpiLzcYgbgAIfl0rrNXUTn05bwKwHPLTrlIh7MkFRMfp4eXY6dHXVFA1ROfAXMnvVEF4Qa3rg8ZFv362F6B9PkKazMaIDCWVSqlnnQcJdUtPFp8Fapcm8Ls-aysiPxle-r33a78YGZQit58CCr47YofV7FcODdvZDLDuEwwGMcNEWtKlchl_hqr4gW-ZcC6Aeefk6TvVPoH",
+      "width": 3024
+    },
+    {
+      "height": 4032,
+      "html_attributions": [
+        "<a href=\"https://maps.google.com/maps/contrib/115012511984272384226\">Angela Farda</a>"
+      ],
+      "photo_reference": "ATKogpcRcJqvtwKMFvX9z4CLAJkIrK7m1cfzGvGLJpFnwqp3MtR0BX8-aOs0fwll62al0D51I4IrkPhuvZlZcBgsKdm69AebgHrn8EufCq2KvRoADDg2cBG6SX5DBeA3vDc2dO2UNWjjvF7cd6mmweN_vgMC1YXyFEE8vwgoQf9m5CPW4KUAazhabGkasbE90_ABmTk4Rk7Al8lz1nz0otDnsFcoLK7eQHvmQ82X_t1Jd_nW_EO4g29AHMpR_l-vET3T1z2vRxfHbUsrtgwPQFtwxKfqXIB239xPS0G6Sm8ZLhsYHDIsOXboaZ0XtXxiItNeWGW1bG7JYzdv4wD-qjdhtbcYQH3jeRResSmTQcvkahjR2Zycqs-piju8HDTMxLPwnR2jFF_2P0TjlIGe0UyOkxkspK6TiTwYUuJVLUeglQmzz0A5",
+      "width": 3024
+    }
+  ],
+  "place_id": "ChIJYeJEs6RbwokRI9OjBP6hYG8",
+  "plus_code": {
+    "compound_code": "M2MM+CC Brooklyn, NY, USA",
+    "global_code": "87G8M2MM+CC"
+  },
+  "price_level": 2,
+  "rating": 4.4,
+  "reference": "ChIJYeJEs6RbwokRI9OjBP6hYG8",
+  "reservable": true,
+  "reviews": [
+    {
+      "author_name": "Iun Chen",
+      "author_url": "https://www.google.com/maps/contrib/107883844158273113822/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXoUJz1kme90BfavYSkhoNgcEAuhjatHxnoE1LRsU0ZTTV6FoVQ=s128-c0x00000000-cc-rp-mo-ba4",
+      "rating": 5,
+      "relative_time_description": "2 months ago",
+      "text": "Absolutely delicious and will definitely be back!\n\nHad four people on a Monday night before happy hour ended. We got the following:\n- Appetizer olives\n- Nguyen wings\n- Emmy burger\n- Brender pizza\n- Emily pizza\n- Happy Hour cocktails, wines, and beer\n\nAll items were so yummy and delicious! Good portion sizes and flavors. Would recommend everything on the menu we had.\n\nService was efficient. There were only three-ish parties at the restaurant around 6:30pm on a Monday so they were attentive to our table.\n\nOn their windows they have a lot of accolades. We can definitely see why\u2026 it was so delicious. Excited to go back and try their other menu items!",
+      "time": 1743555884,
+      "translated": false
+    },
+    {
+      "author_name": "Nana Osei-Tutu",
+      "author_url": "https://www.google.com/maps/contrib/106417921653632190336/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWnAaNWfJnbEpOvgph_ovaPuwL3llG9jfTic6P6YvwkGgvDr1c=s128-c0x00000000-cc-rp-mo-ba2",
+      "rating": 1,
+      "relative_time_description": "a month ago",
+      "text": "I ordered the colony for delivery (DoorDash) and needless to say\u2026 I won\u2019t be getting pizza from this place again. $26 for this??? Where is the mozzarella? And did they run out of pepperoni and jalepe\u00f1os or something? And the honey??? Also, who cut this? Do you see how uneven the slices are? It looks like the even skimped on the sauce! How can you charge $26 for this??????\n\nIdk if this is one of those places that are better in person, but after receiving this sad excuse for a pizza (and spending as much as I did!), I don\u2019t think I\u2019ll even bother paying a visit to the actual place.\n\nSave your money. There are way better pizza spots around Brooklyn.",
+      "time": 1746055398,
+      "translated": false
+    },
+    {
+      "author_name": "Andrew Li",
+      "author_url": "https://www.google.com/maps/contrib/116809830482520029299/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVeiMF1yP98QDEg5LEIHRSRtZuW6jI8qN2bTKTkdulRlrNNley5=s128-c0x00000000-cc-rp-mo-ba5",
+      "rating": 5,
+      "relative_time_description": "3 months ago",
+      "text": "Incredible burger that I\u2019ll be thinking about for a while. I normally prefer smash burgers with thinner patties + more veggies, but this one won me over. The patty was impossibly juicy, the caramelized onions and sauce were dripping with flavor. And the pretzel bun was surprisingly a great addition. Fries were decent too.\n\nThis city has plenty of great burgers, but this was stands out in both uniqueness and execution. Will be back.",
+      "time": 1741464224,
+      "translated": false
+    },
+    {
+      "author_name": "Dustin Irwin",
+      "author_url": "https://www.google.com/maps/contrib/112240270314164905877/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKmKCToty6dQYlZdUJHHRyny2xUbwUarfVkD5Txo4kE_iuffQ=s128-c0x00000000-cc-rp-mo-ba3",
+      "rating": 3,
+      "relative_time_description": "a week ago",
+      "text": "Wife and I visited for a quick dinner - we shared the colony pizza and burger / fries.\n\nPizza. 3 stars\nBurger/fries: 5 stars\n\nThe colony pizza crust was absolutely undercooked a wet/doughy. I asked the waitress if it be cooked longer. To their credit, they brought me a whole new pizza cooked until the edges of the crust were extremely crispy, but the bottom of the pizza was still wet, dense, and doughy. I was shocked. Perhaps their quality control is poor, but it wasn\u2019t enjoyable at all.\n\nThat said, the toppings were very nice: great flavor and balance across the sauce, cheese, and pepperoni, with a healthy amount of jalape\u00f1o. Ingredients seemed top tier. But with a wet doughy crust it doesn\u2019t matter.\n\nThe burger was quite good. Taste and texture of freshly ground aged beef. Emmy\u2019s sauce was incredible. And the fries were thin and extra crispy. The house ketchup is tasty.\n\nBut alas we went for the pizza, and without some kind of assurance that the wet doughy crust was a fluke, I would absolutely not ever eat this pizza again.\n\nEnvironment is intimate and comfortable.",
+      "time": 1749996830,
+      "translated": false
+    },
+    {
+      "author_name": "alec gooberman",
+      "author_url": "https://www.google.com/maps/contrib/110576741430840399210/reviews",
+      "language": "en",
+      "original_language": "en",
+      "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLOVaA649mmDaaJl4zfeq8vJL10_LNgN-37IizC25QnaqT57Q=s128-c0x00000000-cc-rp-mo",
+      "rating": 4,
+      "relative_time_description": "2 weeks ago",
+      "text": "Service was great and vibes were solid. The pizza is delicious, but ask for it a little well done or it comes out gooey. The burger is very solid, but the pretzel bun does not do it for me. Its price point is also too high for the quality. Fries were so good though and the homemade ketchup was interesting.",
+      "time": 1749616083,
+      "translated": false
+    }
+  ],
+  "serves_beer": true,
+  "serves_breakfast": false,
+  "serves_brunch": true,
+  "serves_dinner": true,
+  "serves_lunch": true,
+  "serves_vegetarian_food": true,
+  "serves_wine": true,
+  "takeout": true,
+  "types": [
+    "establishment",
+    "restaurant",
+    "meal_delivery",
+    "food",
+    "point_of_interest",
+    "meal_takeaway"
+  ],
+  "url": "https://maps.google.com/?cid=8025592648345834275",
+  "user_ratings_total": 1742,
+  "utc_offset": -240,
+  "vicinity": "919 Fulton St, Brooklyn",
+  "website": "https://www.pizzalovesemily.com/location/brooklyn/"
+}
