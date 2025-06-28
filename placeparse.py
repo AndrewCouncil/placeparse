@@ -1,13 +1,3 @@
-# /// script
-# requires-python = ">=3.13"
-# dependencies = [
-#     "click",
-#     "googlemaps",
-#     "prettytable",
-#     "rich",
-# ]
-# ///
-
 import csv
 import json
 from pathlib import Path
