@@ -126,6 +126,17 @@ def get_emails() -> None:
         with file.open("w") as f:
             json.dump(data, f, indent=2)
 
+def bad_email(email: str) -> bool:
+    bad_email_domains = [
+        "example.com",
+        "test.com",
+        "invalid.com"
+        "wixpress.com"
+        ".js"
+    ]
+    return any(
+        email.endswith(domain) for domain in bad_email_domains
+    )
 
 @cli.command()
 def contacts() -> None:
@@ -143,7 +154,7 @@ def contacts() -> None:
             phone = data.get("formatted_phone_number", "")
             original_emails: list[str] = data.get("emails", [])
             emails = " ".join(
-                email for email in original_emails if not email.endswith("wixpress.com")
+                email for email in original_emails if not bad_email(email)
             )
 
             # Extract plain text address from HTML
