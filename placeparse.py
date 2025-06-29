@@ -127,21 +127,34 @@ def get_emails() -> None:
 
 @cli.command()
 def contacts() -> None:
-    table = PrettyTable(align="l")
-    table.field_names = ["Name", "Phone", "Emails"]
-    
-    for file in get_out_files():
-        with file.open() as f:
-            data = json.load(f)
-        name = data.get("name", file.stem)
-        phone = data.get("formatted_phone_number", "")
-        email_list = data.get("emails", [])
-        table.add_row([name, phone, ", ".join(email_list)])
-        
-    click.echo(table)
-    html_out_file = OUT_DIR / "contacts.html"
-    with html_out_file.open("w") as f:
-        f.write(table.get_html_string())
+    csv_out_file = OUT_DIR / "restaraunt_contacts.csv"
+    with csv_out_file.open("w", newline="") as csvfile:
+        fieldnames = ["Name", "Phone", "Address", "Emails"]
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer.writeheader()
+
+        for file in get_out_files():
+            with file.open() as f:
+                data = json.load(f)
+            rich.print(data["adr_address"])
+            name = data.get("name", file.stem)
+            phone = data.get("formatted_phone_number", "")
+            email_list = data.get("emails", [])
+
+            # Extract plain text address from HTML
+            address = ""
+            if "adr_address" in data:
+                soup = BeautifulSoup(data["adr_address"], "html.parser")
+                address = soup.get_text().strip()
+
+            writer.writerow({
+                "Name": name,
+                "Phone": phone,
+                "Address": address,
+                "Emails": " ".join(email_list)
+            })
+
+    click.secho(f"Contacts exported to {csv_out_file}", fg="green")
 
 if __name__ == "__main__":
     cli()
