@@ -8,7 +8,6 @@ import time
 import re
 from bs4 import BeautifulSoup
 from tqdm import tqdm
-from prettytable import TableStyle, PrettyTable
 
 API_KEY = "AIzaSyAPSiEwVygrDfJjJGovyoYPjpwMzNlv7NA"
 PROJECT_DIR = Path(__file__).parent
@@ -82,8 +81,10 @@ def extract_emails_from_html(html: str) -> set[str]:
     emails |= set(EMAIL_RE.findall(html))
     return emails
 
+
 def get_out_files() -> list[Path]:
     return list(OUT_DIR.glob("*.json"))
+
 
 @cli.command()
 def get_emails() -> None:
@@ -136,7 +137,7 @@ def contacts() -> None:
         for file in get_out_files():
             with file.open() as f:
                 data = json.load(f)
-            rich.print(data["adr_address"])
+
             name = data.get("name", file.stem)
             phone = data.get("formatted_phone_number", "")
             email_list = data.get("emails", [])
@@ -147,14 +148,17 @@ def contacts() -> None:
                 soup = BeautifulSoup(data["adr_address"], "html.parser")
                 address = soup.get_text().strip()
 
-            writer.writerow({
-                "Name": name,
-                "Phone": phone,
-                "Address": address,
-                "Emails": " ".join(email_list)
-            })
+            writer.writerow(
+                {
+                    "Name": name,
+                    "Phone": phone,
+                    "Address": address,
+                    "Emails": " ".join(email_list),
+                }
+            )
 
     click.secho(f"Contacts exported to {csv_out_file}", fg="green")
+
 
 if __name__ == "__main__":
     cli()
