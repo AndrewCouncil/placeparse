@@ -141,7 +141,10 @@ def contacts() -> None:
 
             name = data.get("name", file.stem)
             phone = data.get("formatted_phone_number", "")
-            email_list = data.get("emails", [])
+            original_emails: list[str] = data.get("emails", [])
+            emails = " ".join(
+                email for email in original_emails if not email.endswith("wixpress.com")
+            )
 
             # Extract plain text address from HTML
             address = ""
@@ -154,7 +157,7 @@ def contacts() -> None:
                     "Name": name,
                     "Address": address,
                     "Phone": phone,
-                    "Emails": " ".join(email_list),
+                    "Emails": emails,
                 }
             )
 
