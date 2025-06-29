@@ -75,7 +75,7 @@ def extract_emails_from_html(html: str) -> set[str]:
     soup = BeautifulSoup(html, "html.parser")
     for a in soup.select("a[href^=mailto]"):
         href = a.get("href", "")
-        addr = href.split(":", 1)[-1].split("?")[0]
+        addr = href.split(":", 1)[-1].split("?")[0]  # pyright: ignore
         if EMAIL_RE.fullmatch(addr):
             emails.add(addr)
     # also run regex on the raw HTML just in case
