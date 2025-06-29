@@ -8,6 +8,7 @@ import time
 import re
 from bs4 import BeautifulSoup
 from tqdm import tqdm
+from prettytable import TableStyle, PrettyTable
 
 API_KEY = "AIzaSyAPSiEwVygrDfJjJGovyoYPjpwMzNlv7NA"
 PROJECT_DIR = Path(__file__).parent
@@ -81,12 +82,13 @@ def extract_emails_from_html(html: str) -> set[str]:
     emails |= set(EMAIL_RE.findall(html))
     return emails
 
+def get_out_files() -> list[Path]:
+    return list(OUT_DIR.glob("*.json"))
 
 @cli.command()
-def emails() -> None:
+def get_emails() -> None:
     """Attempt to get the email address for each restaraunt and add to the json data"""
-    files = list(OUT_DIR.glob("*.json"))
-    for file in tqdm(files):
+    for file in tqdm(get_out_files()):
         click.secho("\n" + file.name, fg="blue", italic=True)
         with file.open() as f:
             data = json.load(f)
@@ -122,6 +124,24 @@ def emails() -> None:
         with file.open("w") as f:
             json.dump(data, f, indent=2)
 
+
+@cli.command()
+def contacts() -> None:
+    table = PrettyTable(align="l")
+    table.field_names = ["Name", "Phone", "Emails"]
+    
+    for file in get_out_files():
+        with file.open() as f:
+            data = json.load(f)
+        name = data.get("name", file.stem)
+        phone = data.get("formatted_phone_number", "")
+        email_list = data.get("emails", [])
+        table.add_row([name, phone, ", ".join(email_list)])
+        
+    click.echo(table)
+    html_out_file = OUT_DIR / "contacts.html"
+    with html_out_file.open("w") as f:
+        f.write(table.get_html_string())
 
 if __name__ == "__main__":
     cli()
