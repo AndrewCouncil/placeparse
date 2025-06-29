@@ -130,7 +130,7 @@ def get_emails() -> None:
 def contacts() -> None:
     csv_out_file = OUT_DIR / "restaraunt_contacts.csv"
     with csv_out_file.open("w", newline="") as csvfile:
-        fieldnames = ["Name", "Phone", "Address", "Emails"]
+        fieldnames = ["Name", "Address", "Phone", "Emails"]
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
 
@@ -151,8 +151,8 @@ def contacts() -> None:
             writer.writerow(
                 {
                     "Name": name,
-                    "Phone": phone,
                     "Address": address,
+                    "Phone": phone,
                     "Emails": " ".join(email_list),
                 }
             )
