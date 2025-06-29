@@ -13,6 +13,7 @@ API_KEY = "AIzaSyAPSiEwVygrDfJjJGovyoYPjpwMzNlv7NA"
 PROJECT_DIR = Path(__file__).parent
 SAVED_PLACES_FILE = PROJECT_DIR / "Takeout" / "Saved" / "Want to go.csv"
 OUT_DIR = PROJECT_DIR / "output"
+OUT_JSON_DIR = OUT_DIR / "restaraunt_data"
 
 ALPHANUM_RE = re.compile(r"[^a-zA-Z0-9_-]")
 EMAIL_RE = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}", re.IGNORECASE)
@@ -47,7 +48,7 @@ def query_save_place(row: dict[str, str]):
 
     row["result"] = result
 
-    out_file = OUT_DIR / f"{title}.json"
+    out_file = OUT_JSON_DIR / f"{title}.json"
     with out_file.open("w") as f:
         json.dump(result, f, indent=2)
 
@@ -83,7 +84,7 @@ def extract_emails_from_html(html: str) -> set[str]:
 
 
 def get_out_files() -> list[Path]:
-    return list(OUT_DIR.glob("*.json"))
+    return list(OUT_JSON_DIR.glob("*.json"))
 
 
 @cli.command()
