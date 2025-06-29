@@ -133,6 +133,8 @@ def bad_email(email: str) -> bool:
         "test.com",
         "invalid.com",
         "wixpress.com",
+        "sentry.io",
+        "mystore.com",
         ".js",
     ]
     return any(email.endswith(domain) for domain in bad_email_domains)
