@@ -11,6 +11,7 @@ dependencies = [
     "prettytable>=3.16.0",
     "requests>=2.32.4",
     "rich>=14.0.0",
+    "tqdm>=4.67.1",
 ]
 
 [dependency-groups]

@@ -7,6 +7,7 @@ import rich
 import time
 import re
 from bs4 import BeautifulSoup
+from tqdm import tqdm
 
 API_KEY = "AIzaSyAPSiEwVygrDfJjJGovyoYPjpwMzNlv7NA"
 PROJECT_DIR = Path(__file__).parent
@@ -61,7 +62,7 @@ def query_list() -> None:
     """Query the list of saved places' google maps data and save as json"""
     with SAVED_PLACES_FILE.open() as f:
         rows = list(csv.DictReader(f))
-        for i, row in enumerate(rows[1:]):
+        for i, row in tqdm(enumerate(rows[1:])):
             click.secho(f"\nQuerying row {i}...", fg="blue", italic=True)
             query_save_place(row)
             time.sleep(1)
@@ -84,7 +85,7 @@ def extract_emails_from_html(html: str) -> set[str]:
 @cli.command()
 def emails() -> None:
     """Attempt to get the email address for each restaraunt and add to the json data"""
-    for file in OUT_DIR.glob("*.json"):
+    for file in tqdm(OUT_DIR.glob("*.json")):
         click.secho("\n" + file.name, fg="blue", italic=True)
         with file.open() as f:
             data = json.load(f)
@@ -115,12 +116,11 @@ def emails() -> None:
             continue
         click.secho("Email(s) found:\n", fg="green")
         rich.print(emails)
-        
+
         data["emails"] = emails
         with file.open("w") as f:
             json.dump(data, f, indent=2)
-        
-        return
+
 
 if __name__ == "__main__":
     cli()
