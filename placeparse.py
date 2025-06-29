@@ -144,7 +144,7 @@ def bad_email(email: str) -> bool:
 def contacts() -> None:
     csv_out_file = OUT_DIR / "restaraunt_contacts.csv"
     with csv_out_file.open("w", newline="") as csvfile:
-        fieldnames = ["Name", "Address", "Phone", "Emails"]
+        fieldnames = ["Name", "Address", "Phone", "Emails", "Website"]
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
 
@@ -158,6 +158,7 @@ def contacts() -> None:
             emails = " ".join(
                 email for email in original_emails if not bad_email(email)
             )
+            website = data.get("website", "")
 
             # Extract plain text address from HTML
             address = ""
@@ -171,6 +172,7 @@ def contacts() -> None:
                     "Address": address,
                     "Phone": phone,
                     "Emails": emails,
+                    "Website": website,
                 }
             )
 
