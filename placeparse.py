@@ -126,17 +126,17 @@ def get_emails() -> None:
         with file.open("w") as f:
             json.dump(data, f, indent=2)
 
+
 def bad_email(email: str) -> bool:
     bad_email_domains = [
         "example.com",
         "test.com",
-        "invalid.com"
-        "wixpress.com"
-        ".js"
+        "invalid.com",
+        "wixpress.com",
+        ".js",
     ]
-    return any(
-        email.endswith(domain) for domain in bad_email_domains
-    )
+    return any(email.endswith(domain) for domain in bad_email_domains)
+
 
 @cli.command()
 def contacts() -> None:
