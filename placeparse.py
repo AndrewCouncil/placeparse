@@ -85,7 +85,8 @@ def extract_emails_from_html(html: str) -> set[str]:
 @cli.command()
 def emails() -> None:
     """Attempt to get the email address for each restaraunt and add to the json data"""
-    for file in tqdm(OUT_DIR.glob("*.json")):
+    files = list(OUT_DIR.glob("*.json"))
+    for file in tqdm(files):
         click.secho("\n" + file.name, fg="blue", italic=True)
         with file.open() as f:
             data = json.load(f)
