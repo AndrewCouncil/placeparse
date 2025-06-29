@@ -109,27 +109,18 @@ def emails() -> None:
             click.secho(f"Error fetching website {website} for {name}", fg="red")
             continue
 
-        emails = extract_emails_from_html(resp.text)
+        emails = list(extract_emails_from_html(resp.text))
         if not emails:
             click.secho(f"No emails found for {name}", fg="yellow")
             continue
-
-        # try:
-        #     resp = requests.get(
-        #         "https://maps.googleapis.com/maps/api/place/details/json",
-        #         params={"cid": data["cid"], "key": API_KEY},
-        #     )
-        #     resp.raise_for_status()
-        #     result = resp.json()["result"]
-        # except Exception as e:
-        #     click.secho(f"Error for id: {data['cid']}, title:{data['name']}\n{e}", fg="red", err=True)
-        #     continue
-        # email = result.get("email")
-        # if email:
-        #     data["email"] = email
-        #     with file.open("w") as f:
-        #         json.dump(data, f, indent=2)
-
+        click.secho("Email(s) found:\n", fg="green")
+        rich.print(emails)
+        
+        data["emails"] = emails
+        with file.open("w") as f:
+            json.dump(data, f, indent=2)
+        
+        return
 
 if __name__ == "__main__":
     cli()
